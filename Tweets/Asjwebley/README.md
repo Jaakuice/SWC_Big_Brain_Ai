@@ -4,7 +4,6 @@
 
 This directory contains structured data extracted from @asjwebley's X.com timeline.
 
-**Source:** `@asjwebley_X.html` (saved Nitter frontend page)
 **Extracted:** January 27, 2026 at 12:05 PM
 **Total Timeline Items:** 1330
 **Meaningful Posts:** 861
