@@ -1,0 +1,43 @@
+Bryce Elder
+
+PublishedJun 19 2025
+
+On Wednesday, we began a post with a proposal for a cash shell that grows indefinitely by issuing new shares every day at ever-higher prices. We thought at the time this was broad satire, but it's seems what we chanced upon was financial innovation.
+
+The company to make our fantasy into reality is Aquis Growth Market — and US over-the-counter traded — The Smarter Web Company. It’s a website designer that lists its business address as a Mail Boxes Etc in Guildford, Surrey.
+
+Since joining Aquis by reverse takeover on April 25, as we noted last week, The Smarter Web Company has grown its market value from £3.7mn to £937mn. The latest leg of the gain came after it announced this capital-raising plan:
+
+Subscription Agreement
+
+The Subscription Agreement was signed on 18 June 2025 by The Smarter Web Company PLC and Shard Merchant Capital Ltd (“Shard”). Tennyson Securities, the Company’s lead broker (part of the Shard Group) has arranged this facility. Shard is a client of Shard Capital Partners LLP.
+
+Under the Subscription Agreement, the Company is today making available an initial tranche of 7 million new Ordinary Shares at par value. This leaves 14 million new Ordinary Shares not yet released under the Subscription Agreement. The Subscription Agreement allows the Company to benefit by receiving approximately 97% of the net proceeds achieved by Shard.
+
+The Subscription Agreement allows Shard to use reasonable endeavours to place up to 21 million new Ordinary Shares with the following agreed high level terms:
+
+• Not below the closing bid price from the previous trading day on the Aquis Stock Exchange
+
+• Not a volume that exceeds 20% of the current trading day
+
+• Shard shall use reasonable endeavours to place a first tranche of 7 million new Ordinary Shares within 1 month from signing of the Subscription Agreement and, for each tranche of new Ordinary Shares thereafter, within 3 months from subscribing for them
+
+This is . . . interesting? It’s a bit like the at-the-market equity offerings used last year by MicroStrategy, the OG BTC, which has dripped out new shares at a pace they could be sold. Conventional placings tend to require price discounts, and will usually be offered to institutional and professional clients only; so-called shelf offerings give a company up to three years to sell new shares directly into the market.
+
+But ATM offerings never really caught on outside the US. Shareholders elsewhere tend to want pre-emption rights rather than enforced dilution, and daily liquidity for the average stock is rarely enough to absorb significant new supply without toileting the price. Even then, ATM tends to work only in sectors where long-term paybacks from perpetually high capex needs look safe enough that the shares trade at premiums to net asset value. Datacentre Reits, for example.
+
+The US also benefits from a lot of relevant securities law. Strategy’s record-breaking $21bn ATM offer last year required a prospectus that set out terms of the sale. How it worked was that Strategy, when it wanted to sell new shares, told its consortium of nine agent banks the amount and a minimum expected price. One bank would then be awarded the business in exchange for a fee of up to 2 per cent of gross proceeds, which it classed as an underwriting commission.
+
+The “subscription agreement” announced by the Smarter Web Company is more ad hoc: one non-independent broker, a sale window of up to three months, a cap of up to 21mn shares instead of a targeted raise value, and a minimum issue price that rebases automatically each session to the previous close.
+
+It only holds together as a plan for two reasons: shares in the Smarter Web Company have quickly become a retail investor favourite, which might provide the liquidity needed for a quasi-ATM offering; and the shares are trading at a huge premium to net asset value.
+
+Proceeds from each new share sold will add to net assets, with a multiplier effect on the share price so long as the NAV premium remains, while the daily drip-feed mechanism can be managed to avoid highlighting the perpetual dilution. Since it’d be illegal for any company to tell prospective investors that its shares can only ever go up, this would appear to be the next best thing.
+
+It may or may not be relevant to know that the Smarter Web Company buys bitcoins. Whether the ₿-word makes any of the above make sense is a matter of very polarised opinion.
+
+The Smarter Web Company’s current £937mn market cap makes it approximately three times the size of the next-biggest company on Aquis. If added to the FTSE 250 index (which, to be clear, can’t happen in current form), it would be comfortably near the middle, ahead of JD Wetherspoon, Aston Martin Lagonda, Metro Bank, and Ruffer.
+
+Per the admission document, directors are locked in for 12 months, though CEO Andrew Webley could sell shares earlier “to maintain an orderly market”. There’s no lock-in for the pre-float cornerstone investor and biggest shareholder, a hedge fund run by bitcoin shop UTXO Management, whose chief investment officer is also the company’s only non-executive director, but whose fund has an arm’s-length agreement with the board.
+
+And for as long as the ducks keep quacking, who pays attention to these sorts of details?
