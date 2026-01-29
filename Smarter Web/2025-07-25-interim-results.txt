@@ -1,0 +1,1145 @@
+Company No. 00092343 (England and Wales)
+
+The Smarter Web Company Plc
+Unaudited Condensed Consolidated Interim Financial Statements
+for the six months ended 30 April 2025
+(Formerly Uranium Energy Exploration Plc)
+
+The Smarter Web Company Plc
+Contents
+Chief Executive Officer’s Statement .......................................................................................................................... 3
+Condensed Consolidated Statement of Comprehensive Income .............................................................................. 4
+Condensed Consolidated Statement of Financial Position ........................................................................................ 5
+Condensed Consolidated Statement of Changes in Equity ....................................................................................... 6
+Condensed Consolidated Statement of Cash Flows .................................................................................................. 7
+Notes to the Condensed Consolidated Financial Statements ................................................................................... 8
+
+The Smarter Web Company Plc
+Chief Executive Officer’s Statement
+For the six months ended 30 April 2025
+The Smarter Web Company PLC listed (“the Company”) on the Aquis Stock Exchange on 25 April 2025 and this
+interim period mostly covers a time prior to the successful listing. Today, The Smarter Web Company is the
+largest stock on Aquis, the most liquid stock on Aquis and in the Directors view, the most successful IPO (“initial
+public offering”) in UK history.
+The financial and operational activity within the reporting period does not reflect the current position, scale, or
+strategic direction of the Company. The release of these results is a regulatory requirement and provides limited
+insight into the exciting and transformative developments that have taken place since our admission to the
+public markets.
+The progress of the operating business has been in line with management expectations in the first half. Since
+the last audited accounts for the wholly owned operating business for year ended 31 December 2024 and in the
+current interim period prior to the acquisition (from 1 January 2025 to 30 April 2025), the operating business
+had a turnover of £176,000 with a net profit before tax of £93,000. Whilst this is a modest profit, we are focused
+on growing this side of the business in the years to come.
+Our acquisition strategy is a medium to long term strategy, and we have been exploring a variety of possibilities.
+Alongside our core business, we believe that Bitcoin is the best asset the world has ever seen and because of
+this we use Bitcoin as a treasury asset for capital being held for future business needs.
+Since our IPO, we have raised well over £100 million in equity capital, with no debt (other than a small director
+loan repaid post-period end), positioning us exceptionally well to pursue our long-term vision. Our balance sheet
+strength, technological assets and Bitcoin treasury demonstrate the scale of ambition we are executing postperiod end.
+As of 24 July 2025, The Smarter Web Company PLC holds the following key treasury assets:
+•
+
+Over £1 million in cash with no debt obligations;
+
+•
+
+1,825 Bitcoin, with a value of approximately £160 million, reflecting our confidence in the long-term
+potential of Bitcoin
+
+Looking ahead, we are optimistic about the opportunities that lie before us. Our post-period progress has been
+substantial, and we are only at the beginning of a long-term growth journey. I look forward to updating
+shareholders further as we continue to build momentum and deliver on our vision to become a leading force.
+Finally, I would like to thank all the shareholders that have supported us to date along with my colleagues who
+are working relentlessly on the goal of making The Smarter Web Company PLC into one of the largest public
+companies in the UK.
+
+Andrew Webley
+Chief Executive Officer
+24 July 2025
+
+3
+
+The Smarter Web Company Plc
+Condensed Consolidated Statement of Comprehensive Income
+For the six months ended 30 April 2025
+
+Notes
+
+Continuing operations
+Administrative expenses
+Operating loss
+
+4
+
+Other expenses
+Finance costs
+Loss before taxation
+
+5
+6
+
+Income tax
+Loss for the period
+Loss per Ordinary share (pence)
+Basic and diluted
+
+7
+
+4
+
+Six months ended
+30 April 2025
+Unaudited
+£
+
+Six months ended
+30 April 2024
+Unaudited
+£
+
+(207,221)
+(207,221)
+
+(372,556)
+(372,556)
+
+(173,046)
+(339,299)
+(719,566)
+
+(84)
+(372,640)
+
+(719,566)
+
+(372,640)
+
+(0.97)
+
+(0.53)
+
+The Smarter Web Company Plc
+Condensed Consolidated Statement of Financial Position
+For the six months ended 30 April 2025
+As at
+30 April 2025
+Unaudited
+£
+
+As at
+31 October 2024
+Audited
+£
+
+9
+10
+11
+12
+
+85,485
+2,071,898
+11,358
+35,833
+2,204,574
+
+-
+
+13
+14
+
+109,490
+1,340,198
+1,449,688
+
+2,200
+109,252
+111,452
+
+3,654,262
+
+111,452
+
+15
+
+492,351
+4,660,476
+1,180,063
+(3,169,294)
+3,163,596
+
+352,500
+1,515,032
+(2,788,916)
+(921,384)
+
+Non-current liabilities
+Lease liabilities
+Total non-current liabilities
+
+16
+
+30,158
+30,158
+
+-
+
+Liabilities
+Current liabilities
+Trade and other payables
+Borrowings
+Lease liabilities
+Deferred tax liabilities
+Total current liabilities
+
+17
+18
+16
+
+443,170
+2,095
+7,339
+7,904
+460,508
+
+27,440
+1,005,396
+1,032,836
+
+3,654,262
+
+111,452
+
+Company registration number: 00092343
+
+Notes
+
+Assets
+Non-current assets
+Financial assets
+Intangible assets
+Property, plant and equipment
+Right- of-use asset
+Total non-current assets
+Current assets
+Trade and other receivables
+Cash and cash equivalents
+Total current assets
+TOTAL ASSETS
+Equity
+Share capital
+Share premium
+Warrant reserve
+Accumulated losses
+Total equity
+
+TOTAL EQUITY AND LIABILITIES
+
+5
+
+The Smarter Web Company Plc
+Condensed Consolidated Statement of Changes in Equity
+For the six months ended 30 April 2025
+
+At 31 October 2023
+
+Share
+capital
+£
+352,500
+
+Share
+premium
+£
+1,515,032
+
+Total comprehensive loss for the period
+At 30 April 2024
+
+352,500
+
+1,515,032
+
+-
+
+(372,640)
+(2,656,855)
+
+(372,640)
+(789,323)
+
+Total comprehensive loss for the year
+At 31 October 2024
+
+352,500
+
+1,515,032
+
+-
+
+(132,061)
+(2,788,916)
+
+(132,061)
+(921,384)
+
+Shares issued
+Issue costs
+Warrant reserve
+Conversion of convertible loan note
+Total comprehensive loss for the period
+At 30 April 2025
+
+139,851
+492,351
+
+3,520,569
+(345,030)
+(30,095)
+4,660,476
+
+1,180,063
+1,180,063
+
+339,188
+(719,566)
+(3,169,294)
+
+3,660,420
+(345,030)
+1,149,968
+339,188
+(719,566)
+3,163,596
+
+6
+
+Warrant Accumulated
+reserve
+losses
+£
+£
+- (2,284,215)
+
+Total
+equity
+£
+(416,683)
+
+The Smarter Web Company Plc
+Condensed Consolidated Statement of Cash Flows
+For the six months ended 30 April 2025
+
+Notes
+Cash flow from operating activities
+Loss before tax
+Adjustments for:
+Gain on loan write off
+Fair value loss
+Finance costs
+Changes in working capital:
+(Increase)/ decrease in trade and other receivables
+Increase/ (decrease) in trade and other payables
+Net cash used in operating activities
+
+5
+5
+6
+
+Six months ended
+30 Apr 2025
+Unaudited
+£
+
+Six months ended
+30 Apr 2024
+Unaudited
+£
+
+(719,566)
+
+(372,640)
+
+(660,260)
+833,306
+339,298
+
+84
+
+(533,143)
+371,910
+(368,455)
+
+1,013
+(113,441)
+(484,984)
+
+Cash flows from investing activities
+Acquisition of subsidiary, net of cash received
+Net cash used in financing activities
+
+20
+
+(77,701)
+(77,701)
+
+-
+
+Cash flows from financing activities
+Proceeds from fundraise, net of issue costs
+Proceeds from borrowings
+Repayment of borrowings
+Finance costs
+Net cash generated by/used in financing activities
+
+15
+18
+18
+6
+
+627,022
+1,185,470
+(306,853)
+(111)
+1,677,102
+
+506,645
+(84)
+506,561
+
+1,230,946
+
+21,577
+
+109,252
+1,340,198
+
+9,055
+30,632
+
+Net increase in cash and cash equivalents
+Cash and cash equivalents at beginning of period
+Cash and cash equivalents at end of period
+
+14
+
+7
+
+The Smarter Web Company Plc
+Notes to the Condensed Consolidated Financial Statements
+For the six months ended 30 April 2025
+1. General information
+The Smarter Web Company Plc (the “Company”) and its subsidiaries (the “Group”) is incorporated and domiciled
+in England and Wales. The Company is a public limited company, the address of the registered office is 160 Aztec
+West, Almondsbury, Bristol, United Kingdom, BS32 4TU.
+On 25 April 2025, the Company acquired the entire shareholding of The Smarter Web Company Ltd.
+2. Basis of preparation
+These consolidated interim financial statements have been prepared in accordance with UK-adopted International
+Accounting Standard IAS 34 “Interim Financial Reporting” and are presented on a condensed basis. They do not
+constitute statutory accounts as defined in s434 of the Companies Act 2006.
+The interim financial statements should be read in conjunction with the consolidated annual financial statements
+for the year ended 31 October 2024, which were prepared in accordance with UK-adopted International
+Accounting Standards, and the public announcements made by the Company during the interim period, in
+particular the Admission Document dated 25 April 2025 which are available on the Company’s website.
+
+The interim financial statements are presented in pounds sterling (“GBP”/”£”) because that is the currency
+of the primary economic environment in which the company operates.
+The interim financial information for the six months ended 30 April 2025 and 2024 have not been audited or
+reviewed by the auditors. The comparative financial information for the year ended 31 October 2024 has been
+derived from the audited financial statements for that period. A copy of those statutory financial statements for
+the year ended 31 October 2024 has been delivered to the Registrar of Companies. The report of the independent
+auditors on those financial statements was unqualified, drew attention to a material uncertainty relating to going
+concern and did not contain a statement under Sections 498 (2) or (3) of the Companies Act 2006.
+Going concern
+As at 30 April 2025 the Group had a cash balance of £1,340,198 (31 October 2024: £109,252), and net assets of
+£3,163,596 (31 October 2024: net liabilities £921,384).
+The Directors have considered the applicability of the going concern basis in the preparation of these interim
+financial statements. This included the review of internal budgets and financial results which show, taking into
+account reasonably probable changes in financial performance that the Group should be able to operate within
+the level of its current funding arrangements.
+The Directors have a reasonable expectation that the Group will have ample resources to continue in operation
+for the foreseeable future, underpinned by the successful completion of several fundraises since the period end,
+which have further strengthened the Group’s liquidity position. For this reason, they have adopted the going
+concern basis in the preparation of the interim financial statements.
+3. Accounting policies
+Basis of Consolidation
+Subsidiaries are entities controlled by the Company. Control exists when the Company is exposed to, or has rights
+to, variable returns from its involvement with the entity and has the ability to affect those returns through its
+power over the entity.
+The interim financial statements incorporate the results of business combinations using the acquisition method.
+In the condensed consolidated statement of financial position, the acquiree’s identifiable assets and liabilities are
+initially recognised at their fair values at the acquisition date. The results of acquired operations are included in
+the condensed consolidated statement of comprehensive income from the date on which control is obtained.
+They are deconsolidated from the date on which control ceases.
+8
+
+The Smarter Web Company Plc
+Notes to the Condensed Consolidated Financial Statements
+For the six months ended 30 April 2025
+3. Accounting policies (continued)
+Intragroup balances, and any gains and losses or income and expenses arising from intragroup transactions, are
+eliminated in preparing the interim financial statements.
+Financial assets
+Classification
+The Group classifies its financial assets into one category, being financial assets held at amortised cost.
+Amortised cost
+Financial assets held at amortised cost comprise trade and other receivables and cash and cash equivalents.
+These assets are non-derivative financial assets with fixed or determinable payments that are not quoted in an
+active market. They arise principally through the provision of goods and services to customers (e.g., trade
+receivables) but also incorporate other types of financial assets where the objective is to hold their assets in order
+to collect contractual cash flows and the contractual cash flows are solely payments of the principal and interest.
+They are initially recognised at fair value plus transaction costs that are directly attributable to their acquisition or
+issue and are subsequently carried at amortised cost using the effective interest rate method, less provision for
+impairment.
+Impairment provisions for trade and other receivables are recognised based on the simplified approach within
+IFRS 9 using the lifetime expected credit losses (“ECL”) method. During this process the probability of the nonpayment of the receivables is assessed. This probability is then multiplied by the amount of the expected loss
+arising from default to determine the lifetime ECL for the receivables. For trade and other receivables, which are
+reported net, such provisions are recorded in a separate provision account with the loss being recognised within
+administrative expenses in the condensed consolidated statement of comprehensive income. On confirmation
+that the trade or other receivable will not be collectable, the gross carrying value of the asset is written off against
+the associated provision.
+Derecognition of financial assets
+The Group derecognise a financial asset when the contractual rights to the cash flows from the asset expire, or it
+transfers the asset and substantially all the risk and rewards of ownership of the asset to another entity.
+Intangible assets
+Goodwill
+Goodwill represents the amount by which the fair value of the cost of a business combination exceeds the fair
+value of the net assets acquired. Goodwill is not amortised and is stated at cost less any accumulated impairment
+losses.
+The recoverable amount of goodwill is tested for impairment annually or when events or changes in circumstance
+indicate that it might be impaired. Impairment charges are deducted from the carrying value and recognised
+immediately in the condensed consolidated statement of comprehensive income. For the purpose of impairment
+testing, goodwill is allocated to each of the Group’s cash-generating units expected to benefit from synergies of
+the combination. If the recoverable amount of the cash generating unit is less than the carrying amount of the
+unit, the impairment loss is allocated first to reduce the carrying amount of any goodwill allocated to the unit and
+then to the other assets of the unit pro-rata on the basis of the carrying amount of each asset in the unit. An
+impairment loss recognised for goodwill is not reversed in a subsequent period.
+Bitcoin
+Bitcoin is accounted for as an intangible asset with indefinite useful lives and measured at fair value with
+revaluation gains or losses recognised in other comprehensive income or profit or loss, respectively. Fair value is
+determined by reference to an active market at the reporting date.
+9
+
+The Smarter Web Company Plc
+Notes to the Condensed Consolidated Financial Statements
+For the six months ended 30 April 2025
+3. Accounting policies (continued)
+Property, plant and equipment
+Property, plant and equipment are stated at cost less depreciation. Deprecation is recognised so as to write off
+the cost of assets less their residual values, with the expected value of zero, over their useful lives on the following
+basis:
+Fixtures and fittings
+
+10% straight-line basis
+
+Right-of-use asset
+The Group recognises right-of-use assets under lease agreements in which it is the lessee. The underlying asset
+comprises a motor vehicle and is used in the normal course of business. The right-of-use asset is initially measured
+at the present value of lease payments made at or before the commencement date as well as any initial direct
+costs and an estimate of costs to be incurred in dismantling the asset. Lease incentives are deducted from the cost
+of the right-of-use asset.
+The right-of-use asset is depreciated over the lease-term and if necessary impaired in accordance with applicable
+standards.
+Lease liabilities
+The lease liability is initially measured at the present value of the lease payments that are not paid at that date,
+discounted using the rate implicit in the lease. The lease liability is subsequently measure by increasing the carrying
+amount to reflect interest on the lease liability (application of the effective interest method) and by reducing the
+carrying amount to reflect the lease payments made. No lease modification or reassessment changes have been
+made during the reporting period from changes in any lease terms or rent charges.
+Financial liabilities
+The Group classifies its financial liabilities into one category, being other financial liabilities measured at amortised
+cost.
+Trade and other payables
+Financial liabilities included in trade and other payables are recognised initially at fair value. Subsequent to initial
+recognition they are measured at amortised cost using the effective interest rate method. Accounts payable are
+classified as current liabilities if payment is due within one year or less (or in the normal operating cycle of the
+business if longer). If not, they are presented as non-current liabilities.
+Borrowings
+Borrowings are recognised initially at fair value, net of transaction costs incurred. Borrowings are subsequently
+carried at amortised cost; any difference between the proceeds (net of transaction costs) and the redemption
+value is recognised in the income statement over the period of the borrowings, using the effective interest
+method.
+Convertible loan note
+Convertible loan notes are regarded as compound instruments, consisting of a liability component and an equity
+component. The component parts of compound instruments are classified separately as financial liabilities and
+equity in accordance with the substance of the contractual arrangement. At the date of issue, the fair value of the
+liability component is estimated using the prevailing market interest rate for a similar non-convertible instrument.
+This amount is recorded as a liability on an amortised cost basis until extinguished upon conversion or at the
+instrument’s maturity date. The equity component is determined by deducting the amount of the liability
+component from the fair value of the compound instrument as a whole. This is recognised and included in equity,
+net of income tax effects, and is not subsequently remeasured.
+
+10
+
+The Smarter Web Company Plc
+Notes to the Condensed Consolidated Financial Statements
+For the six months ended 30 April 2025
+3. Accounting policies (continued)
+Foreign currencies
+Transactions in currencies other than the functional currency of each entity are recorded at the exchange rate on
+the date the transaction occurred. Foreign exchange gains and losses resulting from the settlement of such
+transactions, and from the translation of monetary assets and liabilities denominated in foreign currencies at year
+end exchange rates, are recognised in profit or loss.
+Critical accounting estimates and judgements
+For the six months ended 30 April 2025 and the comparative period end, the Directors do not consider that they
+have made any significant estimates or judgements which would materially affect the balances and results
+reported in these financial statements.
+Identifiable assets and liabilities assumed
+The fair value of intangible assets acquired through business combinations involves the use of valuation
+techniques and the estimation of future cash flows to be generated over a number of years. Management is still
+assessing and will adjust the provisional fair values to recognise identified intangible assets at year end, in line
+with paragraph 46 of IFRS 3.
+Warrants
+Accounting for equity-settled share-based payment awards required the use of valuation models to estimate the
+future share price performance of the Company. These models require management to make assumptions
+regarding the share price volatility, risk free rate and expected life of awards in order to determine the fair values
+of the awards at grant date.
+Warrants that were issued in conjunction with the conversion of loan notes (see note 18), were initially classified
+as derivative financial liabilities at the date of the loan note agreements, with no value due to the obligation being
+wholly within the Company’s control. On conversion and issue of the warrants, the warrants meet the definition
+of equity instruments under IAS 32, and accordingly, the warrants were reclassified from liabilities to equity with
+the fair value recognised in reserves, with no subsequent revaluation required.
+4. Operating loss
+
+Operating loss is presented after changing:
+Professional and legal fees
+Employee benefit expense
+Other expenses
+
+11
+
+Six months ended
+30 April 2025
+Unaudited
+£
+
+Six months ended
+30 April 2024
+Unaudited
+£
+
+65,616
+31,000
+110,605
+
+286,737
+49,000
+36,819
+
+The Smarter Web Company Plc
+Notes to the Condensed Consolidated Financial Statements
+For the six months ended 30 April 2025
+5. Other expenses
+Six months ended
+30 April 2025
+Unaudited
+£
+(660,260)
+833,306
+173,046
+
+Other income
+Fair value loss
+
+Six months ended
+30 April 2024
+Unaudited
+£
+-
+
+Other income consists of an amount owed to Power Metal Resources Plc which was agreed to be written off.
+The fair value loss consists of the value of warrants issued in conjunction with the convertible loan conversion
+on admission date. More information is disclosed in note 18.
+6. Finance costs
+Six months ended
+30 April 2025
+Unaudited
+£
+111
+339,188
+339,299
+
+Bank fees
+Effective interest on convertible loan note
+
+Six months ended
+30 April 2024
+Audited
+£
+84
+84
+
+7. Loss per share
+Basic earnings per share is calculated by dividing the loss attributable to equity holders of the Company by the
+weighted average number of Ordinary shares in issue during the year. Prior year earnings per share have been
+restated to reflect a 10-for-1 share consolidation completed on 1 March 2024. As the Group is loss making, the
+effect of instruments that convert into Ordinary shares is considered anti-dilutive.
+The weighted average number of shares used in the calculations are set out below:
+Six months ended
+30 April 2025
+Unaudited
+£
+(719,566)
+74,363,297
+(0.97)
+
+Loss attributable to equity holders of the Company
+Weighted average number of Ordinary shares in issue
+Basic and diluted per share (pence)
+
+12
+
+Six months ended
+30 April 2024
+Unaudited
+£
+(372,640)
+70,500,000
+(0.53)
+
+The Smarter Web Company Plc
+Notes to the Condensed Consolidated Financial Statements
+For the six months ended 30 April 2025
+8. Subsidiaries and investments
+As at 30 April 2025 the Company held the following investments in subsidiaries:
+Proportion of equity
+shares and voting rights
+held by the Company
+
+Nature of business
+
+Suite 11,14 London
+Road, Guildford, Surrey,
+United Kingdom, GU1
+2AG
+
+100%
+
+Dormant
+
+160 Aztec West,
+Almondsbury, Bristol,
+United Kingdom, BS32
+4TU
+
+100%
+
+Web portals
+
+Company
+
+Registered office
+
+The Smarter Web Company
+Research Limited (formerly
+Intelligent Leverage Limited)
+The Smarter Web Company
+Operations Limited
+(formerly The Smarter Web
+Company Limited)
+
+There were no material profits or losses in the subsidiaries during the period.
+9. Financial assets at fair value through other comprehensive income
+As at
+30 April 2025
+Unaudited
+£
+85,485
+85,485
+
+Listed
+Opening balance
+Additions – on acquisition of subsidiary
+Closing balance
+
+13
+
+As at
+31 October 2024
+Audited
+£
+-
+
+The Smarter Web Company Plc
+Notes to the Condensed Consolidated Financial Statements
+For the six months ended 30 April 2025
+10. Intangible assets
+Goodwill and
+intangibles on
+acquisition
+£
+
+Bitcoin
+£
+
+Total
+£
+
+Cost
+As at 01 November 2024 (Audited)
+Acquisition of subsidiary
+As at 30 April 2025 (Unaudited)
+
+1,471,152
+1,471,152
+
+600,746
+600,746
+
+2,071,898
+2,071,898
+
+Accumulated amortisation
+As at 01 November 2024 (Audited)
+Amortisation
+As at 30 April 2025 (Unaudited)
+
+-
+
+-
+
+-
+
+1,471,152
+
+600,746
+
+2,071,898
+
+Carrying amount
+As at 30 April 2025 (Unaudited)
+
+The Group held Bitcoin during the period, which is recorded at cost on the day of acquisition. Increases in fair
+value between acquisition and reporting date are recorded in other comprehensive income and decreases in profit
+or loss.
+11. Property, plant and equipment
+Fixtures and fittings
+£
+Cost
+As at 01 November 2024 (Audited)
+Acquisition of subsidiary
+As at 30 April 2025 (Unaudited)
+
+11,358
+11,358
+
+Accumulated depreciation
+As at 01 November 2024 (Audited)
+Depreciation
+As at 30 April 2025 (Unaudited)
+
+-
+
+Carrying amount
+As at 30 April 2025 (Unaudited)
+
+11,358
+
+14
+
+The Smarter Web Company Plc
+Notes to the Condensed Consolidated Financial Statements
+For the six months ended 30 April 2025
+12. Right-of-use asset
+Motor vehicles
+£
+Cost
+As at 01 November 2024 (Audited)
+Acquisition of subsidiary
+As at 30 April 2025 (Unaudited)
+
+35,833
+35,833
+
+Accumulated depreciation
+As at 01 November 2024 (Audited)
+Depreciation
+As at 30 April 2025 (Unaudited)
+
+-
+
+Carrying amount
+As at 30 April 2025 (Unaudited)
+
+35,833
+
+13. Trade and other receivables
+As at
+30 April 2025
+Unaudited
+£
+69,027
+40,463
+109,490
+
+VAT receivable
+Other receivables
+
+As at
+31 October 2024
+Audited
+£
+2,200
+2,200
+
+The Directors consider that the carrying amount of trade and other receivables approximates to their fair
+value. All trade and other receivables are denominated in GBP.
+14. Cash and cash equivalents
+As at
+30 April 2025
+Unaudited
+£
+1,340,198
+
+Cash at bank and on hand
+
+As at
+31 October 2024
+Audited
+£
+109,252
+
+All cash held are denominated in GBP. The credit rating of the institutions where cash is held is A+.
+
+15
+
+The Smarter Web Company Plc
+Notes to the Condensed Consolidated Financial Statements
+For the six months ended 30 April 2025
+15. Share capital
+Number of shares
+issued and fully
+paid
+As at 1 November 2023 - Ordinary shares of 0.5p
+10:1 share consolidation on 1 March 2024
+As at 30 April 2024 and 31 October 2024 - Ordinary shares of 0.5p
+Issue of 96,066,335 – Ordinary shares of 0.1p
+Issue of 43,785,022 – Ordinary shares of 0.1p
+As at 30 April 2025
+
+70,500,000
+(63,450,000)
+7,050,000
+96,066,335
+43,785,022
+146,901,357
+
+Share
+capital
+£
+352,500
+352,500
+96,066
+43,785
+492,351
+
+On 25 April 2025, following successful admission to Aquis the Group issued 139,851,357 Ordinary 0.1p shares
+for net proceeds of £2,640,827.
+The above consisted of 25,778,732 issued to sellers of The Smarter Web Company Ltd in consideration (see note
+20), 67,837,603 were issued to pre-IPO investors on settlement of the convertible loan note (see note 18),
+21,154,128 were issued in lieu of payment of expenses for advisors, 18,856,894 were issued as part of the
+subscription and the remaining 6,224,000 were the number of placing shares issued.
+16. Leases
+The Group leases motor vehicles. With the exception of short-term leases and leases of low value underlying
+assets, each lease is reflected on the condensed consolidated statement of financial position as a right-of-use asset
+(note 12) and a lease liability.
+The Group has recognised 1 motor vehicle lease in the six months ended 30 April 2025. Property leases relate to
+sites that are used as offices as part of the Group’s normal operation. There are no variable payments or extension
+and termination options in existence that require recognition under IFRS 16.
+All future cashflows are included. The leases are not subject to rent reviews.
+The Group has used the interest rate implicit in the lease for the motor vehicle lease where the capital value is
+readily available. For motor vehicles, the Companies have used an incremental borrowing rate of 5.48%, reflecting
+the interest rate that would be considered to be available on borrowing from third party lenders on similar assets.
+The Leases do not include any residual value guarantees or restrictive covenants.
+Amounts recognised in the condensed consolidated statement of financial position relating to leases are:
+As at
+30 April 2025
+Unaudited
+£
+Maturity analysis
+Due within one year
+Due after one year
+
+7,339
+30,158
+37,497
+
+Low value leases and short-term leases
+The Group has no leases for which the low value or short-term exemptions of IFRS 16 have been applied.
+
+16
+
+The Smarter Web Company Plc
+Notes to the Condensed Consolidated Financial Statements
+For the six months ended 30 April 2025
+17. Trade and other payables
+As at
+30 April 2025
+Unaudited
+£
+234,162
+14,500
+40,429
+154,079
+443,170
+
+Trade and other payables
+Accrued expenses
+VAT payable
+Other creditors
+Total
+
+As at
+31 October 2024
+Audited
+£
+30
+14,785
+12,625
+27,440
+
+The Directors consider that the carrying amount of trade payables approximates to their fair value. All trade and
+other payables are denominated in GBP.
+18. Borrowings
+As at
+30 April 2025
+Unaudited
+£
+2,095
+2,095
+
+Convertible loan facility
+Directors loan
+Loan from Power Metal Resources Plc
+Other borrowings
+
+As at
+31 October 2024
+Audited
+£
+50,000
+562,291
+393,105
+1,005,396
+
+In February 2025, the Company issued convertible loan notes to various pre-IPO investors who had originally
+subscribed for shares in the Company in connection with a previous aborted IPO. The loan notes entitled the
+holders to receive shares on IPO at a 20% discount to the IPO price, along with one warrant for each share
+received. The loan notes had the option to be redeemed in cash in the event of a default. The loan notes
+mandatorily converted to shares on IPO date, being 25 April 2025. The effective interest on the financial liability
+element of the loan note is recorded as a finance cost (£339,299). The value of the warrants issued totals
+£833,306 and is recognised in equity reserves, with the corresponding fair value loss recognised in the statement
+of profit or loss.
+19. Related party transactions
+Related parties comprise of key management personnel who are the Directors of the Company.
+Keysford Limited, in which Sean Edward Wade is a Director, charged consultancy fees for the six months ended
+30 April 2025 of £18,000 (six months ended 30 April 2024: £38,000). The amount owed to Keysford Limited at
+30 April 2025 was £nil (31 October 2024: £nil).
+123 Accounting Solutions Limited, in which Mario Visconti is a Director, charged consultancy fees for the six
+months ended 30 April 2025 of £13,000 (six months ended 30 April 2024: £11,000). The amount owed to 123
+Accounting Solutions Limited at 30 April 2025 was £nil (31 October 2024: £nil).
+Within borrowings is a balance of £694 owed to Andrew Webley and £1,401 Jo Webley. These represent loans
+made by the Director and a person connected to the Director.
+
+17
+
+The Smarter Web Company Plc
+Notes to the Condensed Consolidated Financial Statements
+For the six months ended 30 April 2025
+20. Business combinations
+On 25 April 2025, the Company completed the acquisition of 100% of the Ordinary shares of The Smarter Web
+Company Ltd, a web design company.
+The following table summarises the provisional fair values of assets acquired, and liabilities assumed at the
+acquisition date:
+Provisional fair
+values
+£
+600,746
+11,358
+35,833
+747
+85,485
+12,299
+(43,818)
+(561,695)
+(37,498)
+(7,904)
+95,553
+1,471,152
+1,566,705
+
+Intangible asset - Bitcoin
+Property, plant and equipment
+Right of use assets
+Trade and other receivables
+Financial assets
+Cash and cash equivalents
+Trade and other payables
+Borrowings
+Lease liabilities
+Deferred tax liability
+Goodwill and other intangibles
+Consideration
+
+Management is still assessing the fair values of identifiable intangible assets and will adjust the provisional fair
+values accordingly to recognise identified intangible assets at the year end. The recognition of intangible assets
+identified, net of applicable deferred tax, will have a corresponding reduction in the value of goodwill recognised.
+Purchase consideration
+Provisional fair
+values
+£
+1,160,043
+90,000
+316,662
+1,566,705
+
+Equity consideration
+Cash consideration
+Warrants issued to sellers as consideration
+Cash flow
+
+Provisional fair
+values
+£
+(90,000)
+12,299
+(77,701)
+
+Cash paid as consideration
+Less cash acquired at acquisition
+Net cash outflow on acquisition
+
+18
+
+The Smarter Web Company Plc
+Notes to the Condensed Consolidated Financial Statements
+For the six months ended 30 April 2025
+21. Events after the reporting date
+On 8 May 2025, the Company announced it had completed a retail investor offer and an accelerated bookbuild
+raising approximately £2.24 million before expenses. A total of 14,015,320 new ordinary shares were issued at
+16 pence per share.
+On 23 May 2025, the Company announced a retail investor offer and accelerated bookbuild had completed,
+raising £6.83 million before expenses. A total of 13,942,805 new ordinary shares were issued at a price of 49
+pence per share.
+A further retail offer and accelerated bookbuild completed, announced on 5 June 2025, raising £13.4 million
+before expenses, through the issue of 16,538,799 new ordinary shares at a price of 81 pence per share.
+On 11 June 2025, the Company was approved to trade on the OTCQB Venture Market under the symbol ‘TSWCF’,
+to support the growing global community of investors.
+On 16 June 2025, the Company announced it had completed an accelerated bookbuild and subscription, raising
+£29.3 million through the issue of 16,297,627 new ordinary shares at a price of £1.80 per share.
+The Company announced a subscription of 766,719 new ordinary shares at a price of £4.95 per share, issued to
+a single strategic investor, on 23 June 2025.
+On 26 June 2025, the Company announced completion of an accelerated bookbuild and subscription, raising
+approximately £41.2 million before expenses, issuing a total of 14,221,623 new ordinary shares at a price of
+£2.90 per share.
+On 7 July 2025, the Company announced an initial tranche of 7 million new ordinary shares had been placed,
+following a subscription agreement signed with Shard Merchant Capital Ltd in June 2025, for 21 million shares.
+The proceeds from the initial tranche totalled approximately £22.9 million before expenses, equivalent to £3.27
+per share, with the Company receiving approximately 97% of the proceeds.
+On 9 July 2025, the Company announced a subscription of 3,182,013 new ordinary shares at a price of £3.25 per
+share.
+Since the period end, the Company has purchased 1,817 Bitcoin, the fair value of which equates to £158,948,664,
+at the signing date of this report.
+
+19
+
+

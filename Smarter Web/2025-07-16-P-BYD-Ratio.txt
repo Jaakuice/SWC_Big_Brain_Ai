@@ -1,0 +1,459 @@
+The P/E Ratio for Bitcoin
+Treasury Companies: P/BYD
+SWC Research Brief
+July 2025
+
+The P/E Ratio for Bitcoin
+Treasury Companies: P/BYD
+By Jesse Myers, Bitcoin Strategy, The Smarter Web Company PLC
+
+In accounting school, you learn that a business is its financial statements.
+The value of a business is its assets minus liabilities, plus the expected future
+cash flows from operations discounted back to present value. Balance sheet
+and income statement.
+When valuing companies, conventional wisdom says to focus on future
+profits. By contrast, the balance sheet tends to be viewed as simply the
+infrastructure that makes operations possible. For investors seeking
+attractive investments in traditional equities, it’s the company’s future profit
+generation that weighs most heavily.
+This is why stocks tend to be discussed in terms of their P/E ratio, meaning
+Price of the company / annual Earnings of the company.
+Over the last few decades, P/E ratios have been bid up to exceedingly high
+levels. Apple trades at a 33 P/E ratio, meaning that investors will have to
+wait 33 years to earn cumulative profits equal to their investment today.
+Here are the P/E ratios for the world’s most valuable public companies:
+
+Rank
+
+Company
+
+Market cap
+
+P/E
+
+1
+
+NVIDIA
+
+$4.02 T
+
+53
+
+2
+
+Microsoft
+
+$3.74 T
+
+39
+
+3
+
+Apple
+
+$3.15 T
+
+33
+
+4
+
+Amazon
+
+$2.39 T
+
+36
+
+5
+
+Alphabet (Google)
+
+$2.19 T
+
+20
+
+6
+
+Meta
+
+$1.80 T
+
+27
+
+Source: companiesmarketcap.com, as of 11 July 2025
+
+Please see the important information pages in this document.
+
+These high P/E ratios have become the de facto price of admission for
+investors looking to park their capital in the stock market. Equities are
+overvalued, but global capital doesn’t know of a better place to store its
+value.
+Obviously, the natural next topic would be an enumeration of Bitcoin’s
+properties as the best store of value asset in the world, but for our purposes
+here, let’s just assume this as given. Now we can move on to what this piece
+has to say that is new.
+
+A new model of delivering shareholder value
+As Michael Saylor likes to say, “the only thing better than Bitcoin is more
+Bitcoin.” This is where Bitcoin treasury companies come in.
+A Bitcoin treasury company is any company that has adopted the explicit goal
+of increasing its Bitcoin holdings per share. If a company increases this
+metric over time, they have delivered Bitcoin Yield for the benefit of
+shareholders.
+This goal can be achieved through a variety of methods, but the emerging
+best practices center on utilizing capital markets to fundraise & deploy the
+proceeds into Bitcoin.
+Perhaps the purest version of this is “accretive dilution” through new equity
+issuance, which makes sense when a company is trading at a premium to its
+Net Asset Value (NAV). This is best understood via a visual example.
+
+Please see the important information pages in this document.
+
+Here is how the mechanics of share issuance can increase Bitcoin Per Share
+when a company is trading at a premium to NAV:
+
+High mNAV enables accretive dilution
+£M
+50
+
+550
+
+500
+
+Market cap
+
+Equity
+issued;
+Equity
+issued;
+cash
+received
+cash received
+
+Cash converted
+to BTC
+
+50
+
+150
+
+100
+NAV
+
+Before
+
+Equity
+issued
+
+Bitcoin
+buy
+
+After
+
+5x
+
+mNAV
+
+3.7x
+
+100
+
+Shares
+
+110
+
+Dilution: 10%
+
+NAV growth: 50%
+
+Bitcoin per share: +36%
+
+There are other capital market tools to effect the same result of increasing
+Bitcoin Per Share, such as raising capital via convertible debt, ordinary debt,
+or preferred equities.
+The objective of each is to deliver BTC Yield for shareholders, which is the
+unique value proposition that Bitcoin treasury companies offer to investors.
+
+Please see the important information pages in this document.
+
+Valuing a Bitcoin treasury company
+This is a brand new model of delivering shareholder value. As a result, the
+metrics to understand these companies are still being developed. So far,
+analysis of these companies has centered around two key metrics:
+•
+
+mNAV: the market cap divided by the value of treasury assets (cash +
+Bitcoin), showing the premium that the market values the company
+compared to the value of the treasury.
+
+•
+
+Days to Cover: the number of days ago that the company’s Bitcoin
+Per Share was equal to current Bitcoin Per Share divided by the current
+mNAV
+
+However, these metrics each tell one half of the story. What is needed is a
+way to incorporate both elements (current market premium & recent rate of
+performance) into a formula to understand how long it may take for investors
+to earn the value of their investment back.
+This is what P/E ratios achieve when analyzing traditional companies. The
+informational value of a P/E ratio is that it tells you how many years it will
+take to earn back your investment via income statement profits. This
+standardizes nicely across businesses and industries, and serves as a
+valuable shorthand for determining when a business is overvalued or
+undervalued relative to others.
+By contrast, a Bitcoin treasury company seeks to deliver shareholder value
+not solely via operating profits, but also by growing their balance sheet –
+specifically, by increasing Bitcoin Per Share over time.
+It’s a different path to delivering shareholder value, but no less real.
+Because it is a different model, it requires a different formula to assess the
+expected time to deliver a return. Now we can ask a simple question…
+What would be the Bitcoin treasury company equivalent to a P/E ratio?
+
+Please see the important information pages in this document.
+
+The P/BYD Ratio: Price / Bitcoin Yield Delivered
+To start, we must clearly establish what we are solving for:
+•
+
+We want a formula whose output is in the same format as you would
+receive from a P/E ratio
+
+•
+
+More specifically, we want to isolate the number of years that it will
+take a BTC treasury company to grow its Bitcoin Per Share by a
+multiple equivalent to the current mNAV of the company.
+
+•
+
+In other words, how long will it take to deliver enough BTC Yield
+to offset the mNAV premium paid upfront?
+
+By re-arranging the formula for Bitcoin Per Share growth over time, we can
+solve for how many years it will take a Bitcoin treasury company to grow its
+Bitcoin Per Share by a factor equivalent to current mNAV, based on Bitcoin
+Yield Delivered over a defined time period:
+
+The P/BYD Ratio
+
+y =
+
+log(mNAV)
+
+n ⋅ log(1 + BYD)
+
+Where:
+●
+
+y = years to shareholder return on Bitcoin held
+
+●
+
+mNAV = multiple of Net Asset Value, aka market cap / treasury assets
+
+●
+
+BYD = Bitcoin Yield Delivered over the most recent period
+
+●
+
+n = number of periods per year
+
+Please see the important information pages in this document.
+
+A few notes on P/BYD (which we’ve been pronouncing “p-bid”):
+●
+
+Because of the exponential nature of compounding BTC Yield over
+successive periods, isolating the years to shareholder return on Bitcoin
+held requires log terms
+
+●
+
+BYD (Bitcoin Yield Delivered) should be from the most recent period,
+which can be one year, quarter, or even month. Adjusting n to account
+for the number of periods in a year normalizes the length of period
+used
+
+●
+
+All else equal, longer periods are likely to be more representative.
+However, for less mature Bitcoin treasury companies, a shorter period
+may be more representative of the current state of a Bitcoin treasury
+company’s ability to generate additional BTC Yield.
+
+●
+
+P/BYD is similar to Days to Cover, but different in that it 1) returns a
+number in years, and 2) allows the user to define a sample period of
+recent performance to project forward, rather than simply looking back
+in time as far as necessary.
+
+The net result of the P/BYD ratio is an informative measure for Bitcoin
+treasury companies (who aim to deliver shareholder value through balance
+sheet growth), which is equivalent to that of a P/E ratio for traditional
+operating companies (who aim to deliver shareholder value through
+income statement profits).
+
+P/BYD Ratio examples today
+Strategy
+As of 15 July 2025, Strategy had an mNAV of 1.95x and delivered 19.7% of
+BTC Yield in 1H 2025. This results in a P/BYD ratio of 1.86.
+Assuming a continued rate of BTC Yield delivery, investors would have to wait
+1.86 years to earn cumulative Bitcoin equal to their investment today (and
+anything after that is Bitcoin gained).
+
+Source: Strategy.com analytics dashboard
+
+Please see the important information pages in this document.
+
+Metaplanet
+As of 15 July 2025, Metaplanet had an mNAV of 3.51x and delivered 129.4%
+of BTC Yield in Q2 2025. This results in a P/BYD ratio of 0.38.
+Assuming a continued rate of BTC Yield delivery, investors would have to wait
+0.38 years to earn cumulative Bitcoin equal to their investment today (and
+anything after that is Bitcoin gained).
+After the first two weeks of Q3 2025, Metaplanet is already showing a QTD
+BTC Yield of 17.8%. If we use this for BTC Yield Delivered, this results in a
+P/BYD ratio of 0.29. In other words, Metaplanet is off to a slightly faster
+pace of delivering BTC Yield in Q3.
+It’s also worth noting that Metaplanet was the best performing public equity
+in the world in 2024. Given how this math shows Metaplanet is delivering
+shareholder value at an extremely rapid pace, this should come as no
+surprise.
+
+Smarter Web
+As of 16 July 2025, Smarter Web has a 30-Day BTC Yield of 419% and an
+mNAV of 5.58x. This results in a P/BYD ratio of 0.09.
+If we choose to use just the most recent seven days of BTC Yield, that’s 60%.
+This results in a P/BYD ratio of 0.07. This tells us that the most recent week
+for Smarter Web delivered slightly faster BTC Yield generation than that seen
+over the last month.
+Overall, an investor who re-allocates BTC into Smarter Web appears to be
+“overpaying” 5.58x for Bitcoin. However, assuming a continued rate of BTC
+Yield delivery, investors would have to wait just 0.09 years (~32 days) to
+earn cumulative Bitcoin equal to their investment today (and anything after
+that is Bitcoin gained).
+Interestingly, the apparent undervaluing of Bitcoin treasury companies seems
+to be greatest for smaller and newer companies that are generating higher
+BTC Yield. It may be that market participants have a strong aversion to
+“overpaying” for Bitcoin via a high mNAV, overlooking the all-important rate
+of Bitcoin Yield Delivered. This may be to the advantage of investors who
+understand the dynamics captured by the P/BYD ratio.
+
+Source: https://metaplanet.jp/en/analytics, SWC
+
+Please see the important information pages in this document.
+
+Towards a unified model for equities valuation
+Your eyes are not deceiving you, there is quite a stark difference between the
+P/BYD ratios for these Bitcoin treasury companies and the P/E ratios
+prevalent in traditional equities markets.
+In my opinion, this reflects the poorly understood nature of Bitcoin treasury
+companies and their alternative pathway to delivering shareholder value
+through strengthening their balance sheets, as opposed to the traditional
+understanding of shareholder value coming from future profits.
+With the P/BYD ratio, we now have the language to directly compare Bitcoin
+treasury company valuations to traditional equities and their P/E ratios. This
+leaves investors to ask themselves an essential question: in the investable
+landscape, which companies offer deep value?
+The math is clear, illustrated in simple terms with the P/BYD calculation
+showing the time it takes a public company with Bitcoin on its balance sheet
+to “pay back” its valuation. When you compare this to traditional P/E ratios,
+as outlined earlier, it’s possible that well-run Bitcoin treasury companies are
+the most undervalued public equities in the world.
+
+Please see the important information pages in this document.
+
+Important Information: General
+This document has been prepared and issued by The Smarter Web Company PLC (the “Issuer”). The
+Issuer is a public limited company incorporated in England and Wales with registered number 00092343
+and its registered office is 160 Aztec West, Almondsbury, Bristol, BS32 4TU. The shares in the Issuer
+are admitted to treading on Aquis Growth Market of the London Stock Exchange. This document
+contains general information about the Issuer and its business as well as giving initial high-level
+information about one or more projects which the Issuer might wish to present to prospective investors
+in the future (each, a “Project”). This document does not constitute an offer or invitation in respect of
+the sale or purchase of securities in any jurisdiction, or of any of the businesses or assets described in
+this document. If, however, an offer to sell or purchase investments is made in the future, it will be
+subject to the terms of a formal prospectus or equivalent document circulated at the time and not on
+the basis of the information contained in this document.
+This Document does not constitute and the Company is not making an offer to the public within the
+meaning of sections 85 and 102B of FSMA. The Issuer is neither authorised nor regulated in the
+conduct of its business by the Financial Conduct Authority in the UK. The distribution of this document
+by the Issuer and its communication of the information it contains is provided only for and is directed
+only at persons in the UK which the Issuer reasonably believes to be of a kind to whom such
+promotions may be communicated by an unauthorised person pursuant to an exemption under the
+FSMA (Financial Promotion) Order 2005 (the “FPO”). Such persons include but are not limited to
+persons who have professional experience in matters relating to investments and who are investment
+professionals as specified under article 19 of the FPO. If you are not such a person, you should not read
+this document, rely on it or take any other action in consequence of it. Any recipient of this document
+in jurisdictions outside of the UK should inform themselves about and observe any applicable legal
+requirements. It is the responsibility of every person reading this document to satisfy her/himself as to
+the full observance of the laws of any relevant country, including obtaining any governmental or other
+consent which may be required or observing any other formality which needs to be observed in that
+country. This document has not been approved by any regulatory authority. This document is a
+confidential communication to, and solely for the benefit of, the recipient only and must not be
+communicated, reproduced or distributed (in whole or in part) to others. If you have not received this
+document directly from the Issuer, your receipt is unauthorised. Please return this document to the
+Issuer immediately.
+This document, including without limitation all text, graphics and images, is protected by intellectual
+property rights. This document is not to be reproduced or distributed to others (beyond the initial
+intended recipients of the relevant presentation), at any time, without the prior written consent of the
+Issuer. All recipients agree they will keep confidential all information contained in it. The contents of
+this document are not legal, tax, business, investment or other advice. This document and the
+information contained herein are subject to correction, completion and/or amendment by the Issuer. To
+the best of the knowledge and belief of the Issuer (who has taken reasonable care to ensure that such
+is the case), the information contained in this document is in accordance with the facts and does noes
+omit anything likely to affect the import of such information. Whilst this document has been prepared in
+good faith, no representation, warranty, assurance or undertaking (express or implied) is or will be
+made, and no responsibility or liability is or will be accepted by the Issuer, any related undertaking or
+its or any of their respective officers, employees or agents in relation to the adequacy, accuracy,
+completeness or reasonableness of this document, or of any other information (whether written or
+oral), notice or document supplied or otherwise made available to any interested party or its advisors in
+connection with the information contained in this document and/or the matters contemplated thereby.
+All and any such responsibility and liability is expressly disclaimed. In particular, but without prejudice
+to the generality of the foregoing, no representation, warranty, assurance or undertaking is given as to
+the achievement or reasonableness of any future projections, management estimates, prospects or
+returns contained in this document, or in such other information, notice or document. By accepting this
+document, each recipient agrees to be bound by the limitations set out in this section entitled
+“Important Information” and elsewhere in this document. Notwithstanding the foregoing, nothing in this
+document shall exclude any liability for, or remedy in respect of, fraudulent misstatement.
+
+Please see the important information pages in this document.
+
+Important Information: Bitcoin Treasury
+The Smarter Web Company Plc (the Company) holds treasury reserves and surplus cash in Bitcoin.
+Bitcoin is a type of cryptocurrency or cryptoasset. Whilst the Board of Directors of the Company
+considers holding Bitcoin to be in the best interests of the Company, the Board remains aware that the
+financial regulator in the UK (the Financial Conduct Authority or FCA) considers investment in Bitcoin to
+be high risk. At the outset, it is important to note that an investment in the Company is not an
+investment in Bitcoin, either directly or by proxy. However, the Board of Directors of the Company
+consider Bitcoin to be an appropriate store of value and growth for the Company’s reserves and,
+accordingly, the Company is materially exposed to Bitcoin. Such an approach is innovative, and the
+Board of Directors of the Company wish to be clear and transparent with prospective and actual
+investors in the Company on the Company’s position in this regard.
+The Company is neither authorised nor regulated by the FCA. And cryptocurrencies (such as Bitcoin)
+are unregulated in the UK. As with most other investments, the value of Bitcoin can go down as well as
+up, and therefore the value of the Company’s Bitcoin holdings can fluctuate. The Company may not be
+able to realise its Bitcoin exposure for the same as it paid in the first place or even for the value the
+Company ascribes to its Bitcoin positions due to these market movements. And because Bitcoin is
+unregulated, the Company is not protected by the UK’s Financial Ombudsman Service or the Financial
+Services Compensation Scheme.
+Nevertheless, the Board of Directors of the Company has taken the decision to invest in Bitcoin, and in
+doing so is mindful of the special risks Bitcoin presents to the Company’s financial position. These risks
+include (but are not limited to): (i) the value of Bitcoin can be highly volatile, with value dropping as
+quickly as it can rise. Investors in Bitcoin must be prepared to lose all money invested in Bitcoin; (ii)
+the Bitcoin market is largely unregulated. There is a risk of losing money due to risks such as
+cyber-attacks, financial crime and counterparty failure; (iii) the Company may not be able to sell its
+Bitcoin at will. The ability to sell Bitcoin depends on various factors, including the supply and demand in
+the market at the relevant time. Operational failings such as technology outages, cyber-attacks and
+comingling of funds could cause unwanted delay; and (iv) cryptoassets are characterised in some
+quarters by high degrees of fraud, money laundering and financial crime. In addition, there is a
+perception in some quarters that cyber-attacks are prominent which can lead to theft of holdings or
+ransom demands. The Board of Directors of the Company does not subscribe to such a negative view,
+especially in relation to Bitcoin. However, prospective investors in the Company are encouraged to do
+your own research before investing.
+
+Please see the important information pages in this document.
+
+
