@@ -1,4 +1,4 @@
-# SWC-Ai: The Smarter Web Company Knowledge Base
+# SWC Big Brain Ai: The Smarter Web Company Knowledge Base
 
 <img width="924" height="613" alt="aScreenshot_20260129_135215" src="https://github.com/user-attachments/assets/57fbc226-8dbd-4536-8b3a-18908ca18630" />
 
