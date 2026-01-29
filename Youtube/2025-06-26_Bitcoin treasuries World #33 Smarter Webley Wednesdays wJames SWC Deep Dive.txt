@@ -1,0 +1,433 @@
+# Bitcoin Treasuries World #33
+**Smarter Webley Wednesdays w/James SWC Deep Dive**
+**Date: 2025-06-26**
+**Video ID: w4mWYStVAR0**
+**URL: https://www.youtube.com/watch?v=w4mWYStVAR0**
+**Duration: ~35 minutes**
+**Channel: Bitcoin Treasuries World**
+**Host: Anders (Copenhagen)**
+**Guest: James (UK SWC Investor, @OurGoodLifeUK)**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- MNAV compression to ~7.6x after correction from 22x peak - lowest in 6 weeks
+- Days to cover metric explained: 40 days to recover current MNAV premium
+- £41.2M raise announced that morning - largest yet, shares settle Monday
+- Bitcoin holdings breakdown: 543.5 BTC + £50M cash = ~1,178 BTC potential NAV
+- Market cap in Bitcoin terms: ~8,000 BTC - valuation framework for analysis
+- James's investment journey: IPO at 2.5p, aped at 8p, now trading at 270p (~100x from IPO)
+- UK retirement account limitations: SIPPs can't access spot BTC or ETFs, SWC as proxy
+- UTXO Management backing as key differentiator - MetaPlanet playbook expertise
+- ATM facility running in background alongside equity raises - two capital levers
+- Andrew Webley's relentless work ethic and execution consistency as competitive advantage
+
+---
+
+**Anders:**
+Good afternoon from Denmark and United Kingdom, probably London. We're about to find out. In this episode, you'll hear about the bullish case for SWC, Smarter Web Company. This is the third episode of the just rebranded Smarter Webley Wednesdays. So, the Webley of course is going out to you, Andrew Webley, the CEO of SWC. And Wednesdays because it's Thursday, but we'll regularly be on Wednesday mainly.
+
+I had Brian on yesterday. Today I have the pleasure and honor of having James who is one of the initial investors. We can talk about that from the IPO who was there buying SWC, who's producing content locally in UK. He's close to the mechanics of SWC and that's why I'm here to learn as much as possible together with you guys. And I think we'll likely all get smarter thanks to you, James.
+
+So, good to see you and thank you for coming on. I'm glad to have you on here the first time and I'm sure we'll have many more opportunities because you are on top of things locally. How are you?
+
+**James:**
+I'm really good, thanks. Thanks for having me on. I've been looking forward to this. We had a bit of a scheduling mishap. My fault. But we're here. We made it.
+
+**Anders:**
+All good. You know what, that just meant that I ended up doing two Smarter Webley Wednesdays this week. One Wednesday, one today, Thursday. It's all good. Just one more show. Good stuff.
+
+So, I'm thankful that you're here. But how's the weather in UK now? I'm curious. You're in London?
+
+**James:**
+Well, no. I'm in the southwest, so I'm down in, it's technically a city, but it's pretty small. Exeter. Quite near Bristol where Andrew is based actually. But yeah, weather's okay today. It's rained a fair bit this week, but it's also been pretty hot. So, you know, us Brits are used to rain.
+
+**Anders:**
+And so we are in Denmark. This week also has been raining. We're not too far from each other. We just have the North Sea and a couple of waves there in between us. But today, it's not been raining. It's been nice. I was out going for a little walk before I came home and I pushed it 15 minutes because I realized market opened 3:30 my time, 2:30 your time for my American Fidelity account.
+
+And looking at, full disclaimer, I already had a tiny bag of SWC, but full disclaimer, I asked James to push it 15 minutes because I wanted 10 minutes after the market opened to simply buy some more SWC at this price. Because looking at the MNAV, I have not seen this stock so cheap compared to net asset value since I got in first time last Tuesday. Things are flying fast.
+
+But what's your story, James, with SWC?
+
+**James:**
+Yeah, I mean, well, just on that MNAV point, I don't think we've seen an MNAV like this for about six-ish weeks, something like that. So like two weeks after IPO. So yeah, in my mind that is a low MNAV in SWC's history at least.
+
+**Anders:**
+You know what, James? While you said that, why don't we just quickly bring it up and then we'll go back to your story. So, I'm looking at the website thesmarterinvestmentguy.com. Shout out to, what's his name? The guy, there's an SWC investor in the community that built this website.
+
+**James:**
+He's called Nick. His handle on X is BitcoinB21. He's got the webdev skills to come up with this stuff and I'm very grateful he puts the effort in.
+
+**Anders:**
+Yeah. And to just touch upon what we spoke about, the white, so the number you see there, MNAV 7.61 is based on a 300p price. But right now on TradingView I can see the price is 270p. This is not automatically real time live. It's updated once a day and thank you for your hard work there.
+
+And the white line is the MNAV. And as you can see, it's crashed pretty hard from above 20 to down to what you could kind of talk about being some of the lowest we've seen SWC. And that's why I got a little bit more here. It may continue further down. And nothing we say is financial advice. At the very best, it's financial entertainment. But if you like the financial entertainment, please hit like and subscribe.
+
+But yeah, what's your thoughts here on this graph, James, and the current price? Why did it dump? And what do you think is going on?
+
+**James:**
+Yeah. So, I mean, if you look back at the just the white dotted line, every one of those troughs has been when there has been a raise announced. So an equity raise or an equity raise including retail in the earlier days. And then over time after each raise it gets repriced by the market.
+
+So the MNAV gets compressed and then the market responds to that and says, "Oh, we think SWC is worth more than that, so we'll reprice it."
+
+If you look at the more recent peak with the orange line being the share price, the MNAV exploded. It kind of coincides with the US OTCQB listing. And word spreading over in the US, lots of bigger names started talking about SWC on X, word spread.
+
+And I think, this isn't just an SWC thing, it's kind of worldwide treasuries kind of exploded in people's attention. Suddenly there was a lot of attention on them and so suddenly you've got a lot of people FOMOing in kind of going, "Oh wow, there's all these small treasuries from abroad," if I was an American, "that are moving so quickly, they're growing really quickly, the return on investment for me as a shareholder looks amazing. I'll buy some shares."
+
+And they weren't necessarily looking at the metrics. I think they were looking at some of them maybe and not all of them. And it got a bit overheated.
+
+So, there's been a correction on SWC, there's been a correction on Coinsium, there's been a correction on MetaPlanet this week. So a lot of the international BTCTCs have corrected this week. That might be because Bitcoin's going up so people are rotating back to MSTR. It might be a whole bunch of things.
+
+But in SWC's specific case, I think approaching a 22x MNAV, that's pretty hot for a lot of people. 7.6, I have a biased opinion, but I think that's good value personally because of how quickly we cover our MNAV. I think it's somewhere around 60 days at the moment. It'll be on the site actually.
+
+**Anders:**
+Are you able to go to the days to cover?
+
+**James:**
+Yeah, days to cover right there. So, the current prediction is that it would take us 40 days to cover that 7.6x MNAV. Which is astounding, right?
+
+That means in 40 days time, whatever I buy at today at 2.70 or £3, which is what's used on the site. If I bought at £3 today, in 40 days time the net asset value of that share would be £3. Which is phenomenal.
+
+So I think it's cheap at today's prices. I'm sure some people would disagree with me, but I don't think anyone would disagree with me that it was perhaps overpriced towards the end of last week on Friday afternoon when it went absolutely bananas.
+
+**Anders:**
+Yeah. And if I just go back to the MNAV, and this is based on a 300p price, you confirmed to me before we went live that the assets, which includes Bitcoin and cash to go towards Bitcoin buying, is updated. So the only thing here not fully updated is the share price which right now is 271.
+
+So when, and this is how I look at these companies, when we have a company that has 543 and a half Bitcoin, and how much of that could we put on top of that as cash?
+
+**James:**
+Oh, that's, so that is there, that's 50 million pounds.
+
+**Anders:**
+Yeah, right. So, how many Bitcoin will that be able to buy? Are you aware of that or should I just do the calculation?
+
+**James:**
+The easiest way to do it actually, if you scroll to the top and then go to the NAV one next to it. Yeah. So, this breaks it down for you at the top.
+
+The little table at the top. Yeah. So you've got a total NAV of 92.9 million which if all the cash was deployed would equal 1,178 Bitcoin. So that includes the raise that happened overnight and was announced this morning. So the 41.2 million that they just raised, which they don't actually get until next week.
+
+**Anders:**
+Okay.
+
+**James:**
+So, it takes a few days for the transaction to settle and for the shares to be released and the cash then released to SWC. So, I think it's Monday. I can't remember off the top of my head, but if they smash bought on Monday or Tuesday, whenever they get the money, they would have 1,178.8 Bitcoin.
+
+That's based on 50 million in cash and 42.8 million in Bitcoin that they already own.
+
+I would just like to caveat this in that Nick does a fantastic job. But all of the numbers on here are based off RNS releases. And the publicly available information. None of this is insider information that's come from SWC. We don't know their exact cash balance. Everyone out there is kind of estimating it, they're taking off a certain amount for costs, etc. But it's always an estimation. So these numbers have to be treated as approximate.
+
+**Anders:**
+Gotcha. Yeah. So there's a few estimations in there.
+
+So, the way I like to calculate whether, or analyze whether a Bitcoin accumulating company is a good buy at the current price, or one of the ways, is to look at what the price of SWC is right now measured in Bitcoin.
+
+So if we take the full net asset values, and there's some small deviations and estimations, that is around 1,000 Bitcoin. And I know since they're trading at 272p per share and not the 300, then we're looking at an MNAV around seven.
+
+So just ballpark, but essentially that means that if they have net asset values equivalent of 1,000 Bitcoin and you're paying seven times that, the price of SWC right now is 8,000 Bitcoin. That's the market cap measured in Bitcoin.
+
+So, do I think the current number one British Bitcoin accumulating company, do I think that they're going to end up holding more than 8,000 Bitcoin or not? Because 8,000 is the price.
+
+And I don't know when this starts slowing down because the pace is what has earned Andrew Webley and SWC the term "fastest horse." I believe you guys call it. I want to hear more about that.
+
+And I think that there, I mean currently on the way to own at least 50,000 if not 100,000 Bitcoin, but again depends on when the speed changes. But the curve is so dramatically vertical that I think a market cap of 8,000 Bitcoin is attractive. And that's why I bought more before we went live. That's why I pushed the show 15 minutes because I had to wait for the market to open.
+
+It might be a totally bad idea. It's not financial advice. I make mistakes, but I'm just saying what I've done to be full disclaimer on that. What do you think about that, James, that way of looking at it?
+
+**James:**
+Yeah, I think, I mean I haven't thought about it in those terms. So, Bitcoin denominated terms. But it does make a lot of sense, right?
+
+If you're setting yourself or you're trying to work out is this company going to reach the target that I want it to, or actually I don't think it is, then I'm not going to invest. How you set that target, your way, I think I probably need a little bit of time to process it and see how it fits.
+
+But it's kind of the same as the days to cover. And the days to cover at the moment would say that in 40 days they will have...
+
+**Anders:**
+Let me know if you want me to bring up any of the graphs or any pages of that website again.
+
+**James:**
+No, no, it makes perfect sense. So 40 days, in 40 days time based off it being Bitcoin denominated, you'd have 8,000 Bitcoin on the balance sheet if they continue at the same pace that they've already been going.
+
+**Anders:**
+Yeah.
+
+**James:**
+Right. Because this is using past data to try and project forward. And that's kind of one of the questions that's in a lot of investors or maybe investors' minds is can they continue?
+
+And I watched your show with Brian yesterday and talking about asymptotes and stuff like that. But for me it'll continue until it's unsustainable. And then it'll start to decay. And it's how that decay is managed.
+
+Because if you're smash buying, raising, smash buying, raising, smash buying, raising, and then suddenly you can't raise, then you're in kind of a world of trouble because you stall, your MNAV collapses, people lose interest, and the flywheel stops.
+
+So, how you manage that? "Oh, we're going to raise, but we're going to raise a bit less" or "we're going to instead of raising more each time, it's going to become flatter."
+
+I don't know, it was 41.2 million. Let's say the next one's 50, but then it just, let's say it just flattened out at 50 and it was just 50, 50. Then, you've already decayed the growth, right? But you're still raising, you're still growing and therefore you're still pushing it forward.
+
+And I think again this was discussed yesterday, but the ATM, which unfortunately they haven't been able to use much of since they launched it, but that's raising in the background.
+
+**Anders:**
+Yeah.
+
+**James:**
+So selling into the market via a third party allows them to gain capital in the background and then buy Bitcoin with that. So will it replace equity raises? Maybe at some point. But at the moment there's definitely two levers and we can use both.
+
+The ATM hopefully will chug away in the background, assuming that we reprice based on our net asset value having just gone up by, I don't know, 90%? Is that right? 80%.
+
+The share price should reprice based on that. I'm not saying it'll go up 80%, but it will go up at some point when the market decides that actually SWC is looking cheap again compared to what it was looking at last week.
+
+**Anders:**
+Yeah. Does that answer the question? Sorry, I got a bit lost there.
+
+**James:**
+No, no, no, it's all right.
+
+**Anders:**
+So what you're saying, correct me if I'm wrong, is essentially that you see these compressions in MNAV because they announce a new big raise. And then what happens usually is it takes, you tell me, a couple of days for the stock to reprice higher usually? And there's no guarantee it happens again of course, but...
+
+**James:**
+Yeah, it's varied after each raise. Generally there's been a day or two's lag from the raise to things moving again. I think one time it felt, I don't know, it felt like a week, but maybe it was a bit less than that. Maybe it was 3 days. Before it started moving.
+
+So, I guess it takes the market some time to digest. It takes maybe a bit of time for people to move funds around that they want to get in. I don't know. I don't know what the answer is, but it just seems to be delayed by a few days. Or a day or two, maybe.
+
+**Anders:**
+Yeah. Fair enough. Well, I did what I could because I did it all within the first five minutes of the market opening. I was just like, the whole time I had this, it was MNAV 12-14 and I was okay. Because it was, first of all, a tiny bag, but also he accumulates Bitcoin so fast, right?
+
+So, when I saw that it's practically seven, it's the time that I back up my tiny truck and then get some more.
+
+James, tell me about, if to which extent you want to share, like what else you know, what do you do in your life? What's your line of work or something? And that's if that's not something you want to get into for doxing reasons, whatever. But here you are with your face anyway, right? But like who's James and the story?
+
+**James:**
+So well, a little bit of background. I worked in IT for 14 years. I did all right in IT. I kind of rose up through the ranks and worked for a Footsie 100 company as head of quality assurance. Was the last post that I had there for IT. But I just fell out of love with it. The shiny geekery had gone. It was all about spreadsheets and presentations and stuff like that.
+
+So, left that, became a counselor, so I'm a therapist. In the UK, I enjoy seeing my clients. It's great. But SWC is starting to kind of take over my life a bit.
+
+And we spoke about that a little bit because we actually, we've only like DM'd and reply chatted on posts on X, etc. until today.
+
+**Anders:**
+But you can't touch this for, let's just say more than a decade, then we're not getting specific. But more than a decade because it's in a pension, it's in an ISA account which is a tax advantaged retirement account, right? Correct me if I'm wrong.
+
+**James:**
+So it's not in an ISA, it's in a SIPP, which is a self-invested pension plan.
+
+So there's two main, there's more, but there's two main tax advantage accounts in the UK. There's SIPPs, which is your pension, and then there's ISAs, which are like a savings account that you can invest in stocks and shares, or you can have a cash ISA as well.
+
+But I wish I had more in my ISA because I could access that sooner. I do have some in my ISA, but compared to the pension, it's pretty minimal.
+
+**Anders:**
+So you will be a forced HODL whale for more than a decade and then I'm guessing retirement is going to be fun, James. Hopefully your family will appreciate.
+
+**James:**
+Yeah, there's going to be a party or two.
+
+**Anders:**
+I think you got to invite me to that. I'll fly into UK for that. That's going to be one grand party if I qualify.
+
+Another question, James. So, down in southwest England, that was what you said, right? So, which soccer team or football, as it's actually called as we use the feet and not our hands, it's not a carry ball like in US. Which football team do you support?
+
+**James:**
+This is a difficult one because I don't actually follow football. I'm a rugby fan.
+
+**Anders:**
+Fair enough.
+
+**James:**
+So, Exeter Chiefs rugby team.
+
+**Anders:**
+All right. Is that a side?
+
+**James:**
+No, no, no. That's 15. They're in the Premiership. They've done all right in the past. They're not doing so great this season, but you know.
+
+**Anders:**
+All right.
+
+**James:**
+That's finished now. But yeah.
+
+**Anders:**
+Well, there you go. It's summer. Time to think of SWC instead of rugby.
+
+**James:**
+Yeah, for sure.
+
+**Anders:**
+Do you have any local Bitcoin meetups? SWC... I bet if you did an SWC meetup, I bet there would be a bunch of people coming out.
+
+**James:**
+There is a small sort of Bitcoin group down this way. I've met a couple of SWC investors for a coffee that caught the Exeter Chiefs reference and messaged me. So yeah.
+
+We're a bit out the way. It's kind of a fairly long train ride to London and you certainly wouldn't want to drive because the traffic's horrendous. So yeah, there isn't that much going on. So this kind of thing is where it's at. X, that's kind of my main exposure to it.
+
+**Anders:**
+Yeah. Well, fair enough. And actually I'm curious. Why don't you take us through your decision of getting SWC in your SIPP account? You got in at the IPO basically. Is that right?
+
+**James:**
+Yeah. So, not in my SIPP. So, I was pretty late to the MSTR party. I'll be honest. I was in the early days of Bitcoin. I was well into it and then 2017 I was well into it again. And then I kind of took a break and then in the 2021 bull cycle I was busy starting a family so again I wasn't really focused in the space.
+
+And then I think it was late last year, I kind of realized where inflation was going and kind of woke up fully to Bitcoin, I suppose.
+
+And yeah, so, but 99% of my wealth is in my pension, so that was the only thing I could use to kind of invest. But being in the UK, can't buy spot Bitcoin, can't buy ETFs.
+
+**Anders:**
+So MSTR was the proxy, right?
+
+**James:**
+Well, I'm glad the government is protecting you against yourself so you don't get to make your own decisions and they're taking care of you.
+
+**Anders:**
+So yeah, protecting me from my gains since 2020. Yeah.
+
+**James:**
+Protecting you from sick gains, James. You could get carried away and feel free and everything and you don't want that.
+
+**Anders:**
+Yeah, that would be too dangerous.
+
+**James:**
+So yeah, I really, but I was annoyed by the FX fees. I was annoyed that just fluctuations in currencies would affect me. And I really, really wanted there to be a British company that I could invest in. I haven't invested in a British company for I don't know, 15 years, something like that.
+
+And then I don't know, the algorithms or maybe just someone mentioned it, but suddenly there was this, "Oh, there's going to be a British IPO of a Bitcoin treasury."
+
+So, I had a look. I wasn't entirely sure about it, so I chucked the minimum amount into the IPO in my ISA.
+
+**Anders:**
+And this is April? So, yeah, this is late April.
+
+**James:**
+Two months ago. Yeah. Yeah. It's crazy. It's crazy.
+
+Yeah, 500 was the minimum. So, I put that into the ISA, set that up, and then in the days afterwards, I did more research and realized that 210K Capital, which were the major backers, were actually part of UTXO Management.
+
+I was like, "Oh crap, like this has actually got some credibility." I really want to get some of my pension into that.
+
+But my pension was on one provider and the IPO was on another provider and the pension provider at the time didn't allow access to the stock. And through the community actually we kind of pulled together and we all hassled the company and to their credit they opened up access. It wasn't that long after the IPO to be fair. And I got to ape in on SWC pretty early on. So I was happy about that.
+
+**Anders:**
+So the IPO price was what, 2 and a half p?
+
+**James:**
+Yeah.
+
+**Anders:**
+Which is, well right now it's trading around 270. So it's done a bit more than 100x from that. And then the aping in price, let me just guess. Is that 8p?
+
+**James:**
+Yeah. Yeah. It's about there.
+
+**Anders:**
+Nice. That's still 40x. And this all happened in two months. Well done, James. I'm very happy for you.
+
+**James:**
+Thank you. Yeah, it's wild. Eight weeks ago, none of this was happening. I wasn't particularly active on X. I was doing my job, spending time with my family. Wasn't checking the share price every 50 seconds. And I certainly wasn't coming on podcasts or doing my own. So, yeah, it's pretty wild.
+
+**Anders:**
+Yeah. It's, yeah, it's been, I'm guessing, life-changing two months in a very good way. And it's awesome to see that you also started a YouTube channel. You're producing SWC content. Is that something you want to tell us about and where people can find it and so on?
+
+**James:**
+Sure. It's SWC and BTC. So that's the handle.
+
+Yeah, there's a weekly roundup that we do live. It's me and a guy called Jamie, whose handle is @the_Desert_Ape on X. Yeah. So, it's me and him.
+
+And then every so often, I mean, it's been very often, but Andrew joins and we get to ask him questions. But really, yeah. So, that's the kind of weekly roundup stuff. And then I've done two pre-recorded ones. And hoping to get some more of those out in the near future as well.
+
+**Anders:**
+Yeah. No, that's awesome. And yeah, Andrew is very generous with his time. That's what I'm hearing from everywhere that he shows up, he's available for questions on spaces.
+
+I can't believe he came on my channel Wednesday last week and then we just hit it off so well that I asked him like, "Do you want to come back like every now and again?" Because that could actually be useful and interesting. And we kind of have a tentative, like probably every second week is a good idea when there's news to share. And we've already confirmed for next Wednesday. So that'll be Smarter Webley Wednesday number four. And that will be Andrew who's back on. So yeah, super, super cool.
+
+**James:**
+Yeah, he's just such a great guy. Obviously when I initially invested, I had no idea who he was really.
+
+But meeting him in Vegas in person, which again was not on my bingo card for this year, I think he comes across as genuine and a decent guy in his interviews and stuff. But when you meet him in person, it's just like, "Oh yeah, like he actually is how he comes across."
+
+And you're seeing him taking phone calls and getting on with stuff, but it's all done in the very Andrew Webley way. "We're doing okay."
+
+**Anders:**
+Yeah, it's funny. Because he's actually killing it and he's like, "Yeah, we're doing okay."
+
+That's funny. In Denmark we have this, so that is the standard approach for, we say for people in Jutland, which is the larger part of Denmark, is the peninsula coming off Germany. So it's actually the part that is closer to England. But if things are fantastic you always underplay. It's funny, it reminds me of that.
+
+So, is there anything else James that you want to share or points you want to get across? I mean, I have one question for you actually. How come SWC can raise and grow their Bitcoin per share this aggressively compared to the other BTCs out there, Bitcoin accumulating companies?
+
+**James:**
+So, I mean, it really comes down to the hard work of Andrew.
+
+His primary job is to go out there and seek out capital. The actual accumulation of the Bitcoin is kind of the easy bit. Once he's got the money, he just buys the Bitcoin, right? And I know there's some strategy behind it, sort of dollar cost averaging rather than smash buying, but in overall terms, that's the easy bit.
+
+The difficult bit, I think, particularly being in the UK, is finding that capital. And I don't know the inner workings of how that goes. I don't work for the company. I'm just an enthusiastic investor.
+
+But being in the UK, I would imagine UK money is probably quite skeptical. It's a pretty anti-Bitcoin country with regard to regulations and sentiment. It's not to say we haven't got loads of Bitcoiners, but the overall sentiment is "oh it's a scam, it's a Ponzi," all that kind of stuff.
+
+So I would imagine that a lot of his work is primarily abroad seeking out that investment from other countries where they're a bit more switched onto it, places like the US and stuff like that.
+
+But none of us know where the next raise is coming from. None of us know, whichever BTC you're talking about, all this stuff is happening in the background. They're tirelessly looking for, "Okay, where's the next money coming from?"
+
+I think the fact that the last two raises have been oversubscribed tells me that there is more money in the pipeline. But that's not financial advice. Has me hypothesizing over the fact that the raises have ended up significantly bigger than they needed to be.
+
+**Anders:**
+Yeah. All right. Fair enough.
+
+So is there anything else that you think that we should highlight or you want to share with us about SWC? Something that you're seeing that you like that you think is different than others? Because there's now about 100 BTCs competing for investor funds and those investor funds are necessary to have a high MNAV which is necessary to be very accretive when you sell the shares. Yeah, over to you James.
+
+**James:**
+I mean for me it's about your risk tolerance, right?
+
+If you're picking out of the hundred, it's like, well, what track record have they got? I got into SWC when it didn't have a track record. Do I want to redeploy that cash into other companies? Not currently. Could I make more money elsewhere? Yeah. Yeah, possibly. But it would increase the risk.
+
+I got lucky. I'm not going to say it's down to any great intellect or anything like that. I got lucky. I picked one, or the first UK one and the first UK one happened to be one that's turned out really well.
+
+So it's yeah, if you're going for IPOs and things like that, don't ape in with me. Even though it's worked out for me this time, you're going way out the risk curve and potentially going to get burnt.
+
+And I think with the more that start showing up that there's potential risk that some of them are less well set up and they're going to kind of pump and dump.
+
+Equally, I think there's room in each market for more than one. I don't think it's a one-horse race. In the UK, there's definitely one other that I can think of that is proving themselves and there's possibly room for a couple of more. But I think a lot of the others are likely to get left behind.
+
+It's got the whole feeling of 2017 altcoin season. And there were a lot of rugpulls back then. And it's still happening now with meme coins and stuff, right?
+
+So yeah, just be careful out there is what I'd say. Do your research. Who runs the company? What's the board of directors? What backing have they got? You can't always get all the information that you'd like, but try hard to find it out. And then make your decision based off that.
+
+Are you looking for something to long-term hold or is this a short-term trade? It's all different for different people.
+
+I think what sets SWC apart for me is they got first mover advantage. Which is a great thing. I think being backed by UTXO is huge because they've done it before. Look at MetaPlanet. They're doing it in France with ALTBG. It's an advantage. The UTXO Management investment and knowledge sharing, it can only be an advantage.
+
+And the final thing I'll say is the consistency of delivery. So, Andrew's been absolutely relentless. Raising money, buying Bitcoin, releasing the ATM, OTCQB listing, taking the time to go to Vegas, taking the time to do all this stuff, your podcast, my podcast, I don't know, probably 15 other people's podcasts.
+
+The guy's work ethic is insane. So for me, if you can find that somewhere else, then yeah, that looks great.
+
+**Anders:**
+Yeah. So final question. You said you heard about SWC before the IPO. It came up in your algorithm. What are we talking about, on X? That information was there in X?
+
+**James:**
+Yeah, I mean it might have been one of the sort of UK Bitcoiners that I followed. Or I genuinely can't, I wish I could remember because I'd like to go and thank whoever it was whose post it was that came up in my feed.
+
+But yeah, it was on X. I think that's, for me there's no better place for alpha. The mainstream media is a waste of space. And other social media platforms are not so focused on this kind of thing. And they are censored.
+
+Where X I would say is the least censored. I'm not going to say it's 100% free speech but it's by far the least and most open speech platform that I'm aware of. There might be some fringe smaller, but in terms of volume I mean it's the biggest news media in many countries now is X.
+
+I don't watch TV really. I cut cable before it was even cool and that was just like for financial reasons. But yeah.
+
+**Anders:**
+Well James, thank you so much. If I should sum it up a little bit, particularly in the beginning we spoke about the price, that they are growing incredibly fast in terms of the Bitcoin they acquire and grow per share. And right now the MNAV premium is ballpark seven.
+
+I personally think that it looks attractive but who knows, maybe it'll go further down. This is very volatile. Could be cut in half. So, be careful with your exposure. Nothing here is financial advice. I like it here. And I did buy some more, so I hope it'll go up from here. I hope we don't need to go further down. We'll see what happens.
+
+But for the audience, if you want some of that SWC alpha, someone who's having that as his main focus, you can see James's handle on X right there @OurGoodLifeUK.
+
+James, thank you so much for taking the time. I'm glad to produce yet another Smarter Web... Monday last week where I had no exposure. I had no idea I would be here. What is it, eight, nine days later. Now having run my third show dedicated on SWC, but I'm having fun looking at, digesting and analyzing the space of the BTCs and where to put my dollars. And I'm having a great time and meeting good people like yourself.
+
+Is there any final words you want to say?
+
+**James:**
+Just that I like the stock.
+
+**Anders:**
+I like the stock too. So, on that note, thank you, James. I'll see you around soon on another podcast somewhere. Take care.
+
+**James:**
+All right. Take care, man. Cheers.
+
+**Anders:**
+And thank you everyone for watching. 361 live viewers. We're doing this for fun. Remember, nothing is financial advice. It may be entertainment. If you like the financial entertainment, feel free to hit like and subscribe and share with whoever you think might find it entertaining. On that note, have a great day.
+
+---
+
+**End of transcript**

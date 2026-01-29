@@ -1,0 +1,70 @@
+# $SWC - How The Smarter Web Builds its Bitcoin Treasury
+**Incl ATM | Webley the new Saylor?**
+**Date: 2025-08-28**
+**Video ID: _zeaj_5rffE**
+**URL: https://www.youtube.com/watch?v=_zeaj_5rffE**
+**Duration: ~8:23**
+**Channel: Seymour Sats**
+**Presenter: Seymour Sats (solo analysis/explainer)**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- SWC overview: 2,440+ BTC stacked, following Strategy's blueprint
+- ATM facility with Shard Merchant Capital: up to 21M new shares, 97% net proceeds
+- Volume control mechanism: max 20% of daily trading volume to prevent flooding
+- Smarter Convert: $21M Bitcoin-denominated convertible bond with Tobam
+- Convertible bond mechanics: 50% premium trigger, 98% BTC repayment if not converted
+- Traditional equity channels: institutional placings, ABBs, retail offers (RAP)
+- Pre-IPO warrants: 96 million exercisable from 2026
+- MNAV at 1.9x reflecting market confidence in execution
+- Self-reinforcing flywheel: rising BTC → higher NAV → more interest → more capital → more BTC
+- Structural leverage through equity (not debt) creating potential for exponential growth
+
+---
+
+**Seymour Sats:**
+(0:00:00) Welcome back. I'm Seymour Sats. Today we're spotlighting a company rapidly gaining ground in the Bitcoin treasury game: Smarter Web Company, ticker SWC. Here's the deal. While retail investors quietly build positions on the open market, SWC is powering up its Bitcoin reserves by tapping multiple equity channels to raise fresh capital. With over 2,400 BTC already stacked and several funding engines firing, this isn't just another speculative stock. It's a public Bitcoin vault following a proven playbook. So, what's fueling this machine?
+
+(0:00:31) SWC is boldly following Strategy's blueprint, turning every dollar raised into Bitcoin and methodically building a public treasury one block at a time. The big question: when Bitcoin resumes its upward trajectory, is SWC poised to become one of the largest Bitcoin treasuries in the world? Today, we're breaking down the equity channels behind SWC's capital strategy and why this treasury might just be gearing up for serious liftoff. If you're into these deep dives and want to see more, don't forget to like this video and subscribe to the channel.
+
+(0:01:04) Smarter Web started out in web design. And while they continue to operate their traditional service business, their primary focus has shifted towards building a Bitcoin-backed public company. Instead of just growing services, they're channeling fresh capital into Bitcoin, transforming their balance sheet into a modern digital asset powerhouse. With 2,440 Bitcoin already stacked, worth hundreds of millions, and more on the way, SWC isn't just another Bitcoin treasury. They've engineered a sophisticated, always-on equity system that keeps the treasury fueled and growing.
+
+(0:01:39) Investors aren't simply buying a tech stock. They're gaining exposure to a carefully managed, actively capitalized Bitcoin reserve. To grasp the full picture, it's crucial to understand where that capital is coming from. So, let's break down the funding engine driving SWC's relentless accumulation.
+
+(0:01:57) Starting with the core that never stops running. At the heart of the capital strategy is its ATM style subscription agreement with Shard Merchant Capital. Unlike a one-off placement, this is a standing facility allowing SWC to issue up to 21 million new shares, which are sold into the market at or above the previous day's closing price. The company receives approximately 97% of the net proceeds with shares released in discrete tranches based on demand. This setup provides flexibility to raise capital efficiently while managing market impact.
+
+(0:02:32) SWC operates under a control mechanism that prevents them from issuing more than 20% of the total trading volume on any single day. This limit ensures they don't flood the market with new shares, making the ATM facility a flexible and controlled way to raise capital without putting downward pressure on the share price.
+
+(0:02:51) In simple terms, this facility provides agility. When investor appetite is strong, they raise more. When the market cools, they ease off. But here's the real point. They're accreting Bitcoin from thin air. No debt, no operating cost, just more Bitcoin on the stack, funded by issuing equity at a premium to NAV. As long as that premium exists, the machine keeps running. And in times of market euphoria, this mechanism could accelerate dramatically. Given SWC's smaller size, that means serious upside.
+
+(0:03:24) Even as many Bitcoin treasuries struggle with NAV premium compression and slowing capital raises, SWC continues to execute its equity facilities effectively. Their disciplined use of the ATM and other funding channels means they're still stacking Bitcoin even in a tougher market. This ability to raise capital when sentiment cools is a key strength that sets them apart.
+
+(0:03:45) Next up is the Smarter Convert, a $21 million convertible bond facility launched in August 2025 and fully backed by institutional investor Tobam. What makes it unique? The bond is denominated in Bitcoin and gives investors the option to convert into equity at a fixed price per share, a premium to the market at the time of issue. Upon raising the funds, SWC immediately used the proceeds to purchase Bitcoin directly fueling the treasury.
+
+(0:04:17) If the stock rallies to a price that's 50% higher than at launch and holds for 10 days after 6 months, SWC can force conversion, locking in capital at favorable terms. If not converted, bond holders are repaid 98% of their Bitcoin after 12 months, aligning both parties with Bitcoin's performance. It's an elegant hybrid. SWC gets near-term capital with no immediate dilution while investors retain upside via equity or downside protection via Bitcoin repayment.
+
+(0:04:47) In addition to the active ATM facility and convertible bond structure, Smarter Web has also tapped into more traditional equity channels to raise capital when needed. These include institutional placings, private sales of shares to funds or high-net-worth investors. They've also executed accelerated book builds, ABBs, which are fast demand-driven raises where shares are offered to institutions within hours.
+
+(0:05:12) To bring public investors into the fold, SWC has launched RAP retail offers. Retail-facing rounds aligned with institutional placings, enabling retail investors to participate alongside institutions. These traditional methods offer scale, raising large amounts in short bursts. But they also require timing the market, issuing RNS updates, and navigating pricing pressure. That's why they work best alongside the ATM and Smarter Convert facilities.
+
+(0:05:40) SWC has also issued 96 million pre-IPO warrants exercisable from 2026. Now that we've mapped out the fuel lines, where does all the capital go? The answer is simple. Every pound raised goes directly into Bitcoin. Currently, the company holds 2,440 Bitcoin and the market values SWC well above its net asset value, trading at a premium multiple with a market NAV, MNAV of 1.9x.
+
+(0:06:07) This means investors are pricing the company at almost twice the pure value of its Bitcoin holdings, reflecting confidence in the strategy, execution, and ongoing momentum. That said, the MNAV multiple has been sliding in recent months, a signal that the market may be reassessing how aggressively it rewards this kind of treasury strategy, especially in periods of Bitcoin stagnation.
+
+(0:06:26) So, Smarter Web: a carefully managed equity system that includes an active ATM facility, a Bitcoin denominated convertible bond, and retail offers deployed when market conditions are favorable. All that could power the next wave of funding. All of these channels come together with one clear purpose: accumulating Bitcoin at scale.
+
+(0:06:50) So, what does this mean for shareholders and for SWC itself if Bitcoin keeps climbing? That alone would lift the value of SWC's treasury substantially. But here's where it gets exciting. SWC isn't just holding Bitcoin. They're actively accumulating it using capital raised at a premium. That means they're not using debt, not diluting below NAV, and not spending revenue. They're issuing shares above intrinsic value and turning that paper into hard money.
+
+(0:07:16) As long as that premium holds, this model becomes a self-reinforcing flywheel. Rising Bitcoin, higher NAV, more investor interest, more capital, more Bitcoin. And in a bullish market where Bitcoin sentiment returns to mania, this cycle could spin faster than most can keep up with.
+
+(0:07:34) For shareholders, this means exposure to Bitcoin with structural leverage built on equity rather than debt. You're not just betting on Bitcoin. You're riding a vehicle that can outperform if the premium persists. And because the market cap is still small relative to the size of its Treasury ambition, it has room to scale aggressively.
+
+(0:07:52) In a full-on bull run, with daily volume surging and investor appetite roaring, SWC could be raising and stacking at a pace that turns exponential. The Treasury doesn't just grow, it compounds faster than the underlying asset. That's the upside of being early, the power of the model and the real reason to keep your eyes on this one.
+
+(0:08:07) If you're tracking Bitcoin treasuries, Smarter Web is a company you need to keep on your radar. That's it for today. Drop a comment if you're watching this play out and hit the like button if you're stacking Bitcoin vicariously. Subscribe for more and I'll see you next time.
+
+---
+
+**End of transcript**

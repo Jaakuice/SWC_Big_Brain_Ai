@@ -1,0 +1,250 @@
+# Bitcoin Treasuries World #54
+**Smarter Webley Wednesday w/Andrew Webley - General Update**
+**Date: 2025-12-03**
+**Video ID: xIKKn1PkOJI**
+**URL: https://www.youtube.com/watch?v=xIKKn1PkOJI**
+**Duration: ~40:58**
+**Channel: Bitcoin Treasuries World**
+**Host: Anders (Los Angeles)**
+**Guest: Andrew Webley (CEO & Founder, The Smarter Web Company)**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- General meeting held in Bristol with strong shareholder turnout
+- SWC community is 3rd largest among Bitcoin treasury companies globally
+- SWC ranks 30th globally in Bitcoin holdings, largest in UK by far
+- European Bitcoin treasury landscape: SWC, Capital B, and H100 as top three
+- ATM facility as key capital raising tool when MNAV is positive
+- Current fully diluted MNAV at 0.89 (11% discount to Bitcoin holdings)
+- Capital strategy tools: equity placings, ATM, Smarter Convert, and traditional debt
+- Smarter Convert ($21M with Tobam) - Bitcoin-denominated convertible aligned with shareholders
+- Preferred stock/perpetual debt considerations - requires larger scale (5-10k BTC range)
+- London Stock Exchange uplisting as aspirational goal for institutional access
+
+---
+
+**Anders:**
+(0:00:02) Good morning from Los Angeles, West Coast, USA, and good evening from London, not maybe not London, but definitely UK. Um, I'm here on a 54th live edition of Bitcoin Treasuries World with none other than what I consider one of the best people and close friends of mine in this space, CEO and founder of Smarter Web, Andrew Webley for Smarter Webley Wednesday. Here we are. Andrew, good to see you again. How are you? What's going on?
+
+**Andrew Webley:**
+(0:00:32) Yeah, I'm pretty good, thanks. And thanks for taking the time. It's been quite a busy week so far actually with the usual mixture of everything that we're working on. But yesterday we had a general meeting in Bristol, which is where I live. And there was a good turnout from some of our shareholders and we put the recording up today and lots of people have watched that so far. And it's really nice to get together with some of our shareholders, go over lots of questions, did a presentation, you know, in addition to the formal meeting business.
+
+**Anders:**
+(0:01:09) Yeah. And I so wish I could have been there, but current bear market status in my savings account kind of didn't allow me, but I would love to make it over next time you guys get together. As I've said before, the Smarter Web community is really unique and there's some good people there and a lot of them I can see them in the chat now. So hopefully next year.
+
+**Andrew Webley:**
+(0:01:40) Yeah. Yeah, for sure. So legally in the UK you have to do an annual general meeting. You know, probably be around about March time. That's just a legal requirement. You know, no surprises of that specific month. So we'll almost certainly do it at the same venue. And then we'll probably try and do at least another one during the year in addition to any other one-off general meetings that we need to organize because it was really good. And there's other things that our shareholders organized as well. So, you know, one of the shareholders has organized unofficial Christmas drinks. I think that's a week on Friday. And we've got an amazing community and we're so fortunate to have the support of so many people internationally also in the UK behind us.
+
+**Anders:**
+(0:02:30) No, absolutely. And it shows on X and for those who haven't seen it, I think most viewers probably have, but Smarter Web, there's a community for most treasury companies, Smarter Web is the third largest. And I think that's also indicative of the whole story. You know, despite being the I believe 50th or 49th largest treasury company in the world, you are the third largest community. And I think that could be indicative of the direction you're going on the chart. I do believe so.
+
+**Andrew Webley:**
+(0:03:05) Yeah. Last time I checked, obviously it depends where you check the rankings globally, but last time I checked, we were 30th in the world. So we're by far the biggest Bitcoin treasury company in the UK. Sure. We're bigger than all the others added together. Probably double that actually. But globally we're position 30. And we're right alongside Capital B, you know, which is a fantastic company. So yeah, you know, if I'm honest, I prefer to be quite a bit higher than that at the moment. But, you know, we're doing our best and, you know, we're confident that we'll start progressing through those rankings as the rest of this year and next year unfolds.
+
+**Anders:**
+(0:03:50) No, you're absolutely right. My bad. I just checked it. Yes, you're 30. The reason I said 50 is because I'm also keeping an eye on H100 and they're around 50. So yeah, you're at 30. But you're in my opinion without a doubt going much higher. I really must say.
+
+**Andrew Webley:**
+(0:04:07) But H100 is a good company as well. You know, in my mind you've got three in Europe that you know are really pushing it forward. So you've got H100, ourselves, and Capital B. They're my three favorite ones in Europe. Yeah, you're saying you guys, Capital B and H100. Yeah, they're my three favorite in Europe. I think they're, you know, obviously I'm biased towards SWC, but the other two are doing things well. You know, like us, this quarter has been difficult for them. You know, like it's been difficult for everyone, including Strategy. But yeah, I like those companies and I think they're run by people that believe in the long-term vision, which is really important for me.
+
+**Anders:**
+(0:04:53) I agree. I will say what I really like a lot about you that they don't have is a functioning ATM. It is the number one tool or has been up till now for treasury companies to accumulate more Bitcoin per share. And you have that and I think that's part of your success and it's great as an investor to know you have that going forward as well.
+
+**Andrew Webley:**
+(0:05:20) Yeah, we, so the ATM is something that's worth talking about because some people disagree with that as a capital raising tool. Clearly you only use it when your MNAV's positive by a margin. But it's been a fantastic tool for us to date and we believe it'll be a fantastic tool into the future. It scales brilliantly as well. And that's something that people don't often see. You know, for us, this is a multi-year strategy, a multi-decade strategy. And what you've got with an ATM is, with our facility specifically, it's linked to the volume of your stock. So, if you're a liquid stock like us on a liquid exchange, then it works in your favor. So as the share price increases and hopefully the liquidity increases, an ATM scales absolutely perfectly. So it's a fantastic tool and some people knock it a little bit every now and then but I'm a big fan of it if it's used in the right way.
+
+**Anders:**
+(0:06:39) Absolutely. Same here. And is your tactic not to use it below 1.1 MNAV or if we're specific or just not below one?
+
+**Andrew Webley:**
+(0:06:53) So this is a tricky one, right? You know, as you and everyone else hopefully knows, I believe in transparency, as much transparency as you're allowed to do in a public company. Now, we never release the finer points of that. We've released as much as we can about how we run the ATM, but you have to be a little bit mindful of, you know, sort of market participants trading against you. So, you know, a lot of people assume that we'll use it say 20% above, so 1.2 MNAV. You know, I don't think that's a million miles out, but we've never said that we'll use it, you know, at X or Y or Z or whatever. We use it with our partner to the benefit of shareholders or what we believe is the benefit of shareholders. So like clearly you're not going to run it below one unless you really needed to run it for a specific reason. You've also got to be careful that you don't run it too close to one as well. Because you know you get fees that come out of it. You might get proceeds for a week or two weeks. Bitcoin might move the other way. So we use it with a long-term horizon for the benefit of our shareholders and I think everyone can see that's worked so far and we believe it will work in the future.
+
+**Anders:**
+(0:08:25) Yeah. Well Andrew, I was thinking let's talk about what's on everyone's mind these last couple of months and that is the roller coaster that all of these treasury companies are on. I took out here my Stormtroopers roller coaster in your honor. It's been a roller coaster, but you and I are still here laughing. And me personally, super bullish. You have tools above, below, and at MNAV. It's ridiculous in my opinion that you can now acquire stocks in a company like SWC even slightly below the value of your Bitcoin and you're getting for free the ability you have with these tools to accumulate more Bitcoin per share which I personally think, and I could be very wrong, it's not financial advice, will at least 10x the sats per share aka Bitcoin per share and probably a lot more.
+
+**Andrew Webley:**
+(0:09:29) So these tools, can you give us just a top down from what you can say what would be beneficial using if MNAV is you know below one significantly say 0.75, what to do when it's around one, I'm guessing having some level of debt the Smarter Convert means you have leverage when it goes, I mean both directions but Bitcoin overall goes up, and then we all know the ATM above MNAV one. But what's the tools that you're thinking of could be beneficial, not saying that you will use those?
+
+**Anders:**
+(0:10:09) Yes, so currently based on our analytics dashboard we trade at a 0.89 MNAV. And I think that's something that I find a bit difficult because I believe that we've demonstrated that we can generate Bitcoin yield. Even in this quarter which we're in at the moment, which is a tough quarter for every company, you know, right from the biggest to everyone else. You know, we are among the best in the world on that metric. So to be trading below a one, I would get not a high MNAV, but below one is disappointing, but you know, that's the market's current opinion of us. So that's okay.
+
+**Andrew Webley:**
+(0:10:52) Is it going, it's not getting sharp because I've blurred the background, but current fully diluted MNAV 0.89. Is that correct? That's what I'm seeing on your website.
+
+**Anders:**
+(0:11:05) Yeah, that's that's mind-blowing. Anyways, carry on.
+
+**Andrew Webley:**
+(0:11:11) So, 11% discount and free upside. Yeah. So similar to the ATM, you've got the placing side of things that we've used incredibly well. Like approximately three quarters of our money has come from private placements to a mixture of institutional investors, retail investors and high net worth individuals as well. So you know equity is a fantastic tool to use if you're given the opportunity and that's why right from the start you know I've been very very clear that we will not do placings at a discount and I think it's the right approach and I think that people can see that and going into the future in the years that follow I think people will see that that is the right way of doing that particular type of instrument.
+
+(0:12:13) If we talk sort of conceptually now rather than specifically about Smarter Web, that will avoid me getting into any trouble with the lawyers on that side of things. You know when there are other capital tools that you can use and you know it's like everything else in life there's pros and cons of all these different things. So if we look at traditional debt as one of those tools, which some companies have got, like MetaPlanet for example have recently announced a facility where they can effectively draw down cash that's securitized against their, or collateralized against their Bitcoin holdings I believe. So the way that works is you can borrow money. At the moment, we've got no debt, but you know, if we were to go down that route, then we would have a modest amount of debt. And the problem there that you've got is if Bitcoin moves against you, you can start to effectively get margin called for that and then, you know, it's just leverage at the end of the day. So, leverage, you know, is great when it works on the way up. It's pretty bad when it doesn't work.
+
+(0:13:36) And if you look at companies globally or just in the UK you can see there's a lot of companies that get into a lot of problems with debt. Now the question you've got to ask yourself is say for example we were to borrow 5% of our balance sheet, 10% of our balance sheet, would that make a significant difference to the number of Bitcoin that we hold? It's fairly obvious it'll make 5%, 10%, you know. So that's the upside. You get 5%, 10% more Bitcoin. The downside is obviously if Bitcoin goes into an extended negative period. And we'll come back to that when we talk about preferred in a minute because there's something that's fundamentally different about that. So that's your traditional debt.
+
+(0:14:21) The one tool that I don't think we'll ever use as a company is convertible debt. So it's the same sort of principle where you borrow some money, you pay a coupon, it might be zero, it might be 5%, whatever, but they've got the ability to convert that into equity under whatever terms and I think that is far too one-sided for the convertible holders. And you can raise even now you can raise incredible amounts of money if you're prepared to do that. But for my shareholders and for me being a shareholder, you're gonna completely screw them. So we won't be doing that.
+
+**Anders:**
+(0:14:55) Well, what about the Smarter Convert? Is that not the debt you're talking about here?
+
+**Andrew Webley:**
+(0:15:00) So that's convertible debt and debt. Smarter Convert is a fantastic product. It's an amazing product. But we've only done so far $21 million with Tobam. But the great thing about Smarter Convert is that the investor and the company are properly aligned. Because it's not fiat-based debt. So there are companies out there and you'll see this over the next couple of weeks, no doubt, or months, where they get into real issue because they've done convertible debt and Bitcoin may have moved against them. Whereas Smarter Convert, if Bitcoin moves against you, yes, it doesn't convert, but we've got I think it's 177 point something Bitcoin that's exposed to this Smarter Convert instrument. The downside is you give back 98% of that Bitcoin if it doesn't convert.
+
+(0:15:54) So if Bitcoin moves against you or your share price doesn't perform, so it doesn't convert, you're not in that position. So, in my opinion, it's zero risk to the long-term future of the company. So Smarter Convert is completely different to regular convertible debt. You know, for that reason and ignoring Smarter Convert, I think debt is better than convertible debt for a Bitcoin treasury company, especially one at our stage or bigger in the process.
+
+(0:16:29) Now, the great thing that Saylor told me, which is fairly obvious really, is the advantage that I've got that he didn't have is I can watch what he does and I can copy the things that work well. And so that is one of the reasons why we don't think convertible debt is a sensible thing for us to do. But that brings us nicely on to preferred.
+
+(0:16:58) Now, preferred are effectively debt. Perpetual debt though. So, perpetual debt means that you owe the coupon to the people that have taken up the instrument forever. But the one thing in my opinion that makes it so much more attractive than debt, regular debt, is that there's no collateralization against your balance sheet. So at the point at which you issue those preferreds, you have to convince the people that you're effectively good for those future dividend payments. Because it's a dividend, not a coupon. But the day after they've given you the money, there's not that ongoing relationship between your balance sheet.
+
+(0:17:51) Now clearly there's a price to that preferred which is why you see the Strategy ones move around because the market perception of the creditworthiness, i.e. the future ability to pay the dividend, comes into play and that's what moves the price. But they're incredibly attractive relative to normal debt.
+
+(0:18:18) Now the problem that you've got with preferred is you need to be bigger than us. You know that's the brutal truth. People won't say that. That is the truth. You need to be in my opinion as a minimum two or three times the size. And this is why we're really fortunate with people like Strategy, now MetaPlanet, Strive have done some preferred so we can watch how those play out over the coming months and we can learn from them to help us adapt our model.
+
+(0:18:55) Now the other thing that people don't realize is, like let's be honest there's a clear advantage of us being say six months behind Strive as an example in terms of preferred or maybe a bit longer, but the other massive advantage that we've got is if interest rates go the way that I think they're going to go over the next six months, those preferred products that you offer which are perpetual, so that you know forever...
+
+**Anders:**
+(0:19:19) Laura. Yeah.
+
+**Andrew Webley:**
+(0:19:25) Well, so the interest that you might have to pay on those forever could be considerably lower. So if you've got a preferred that you're paying you know 10% of the money, it's very different to if you've got one that you're paying 5%. Now that said what do you do with the preferred? Well, you know, you take the proceeds and you buy Bitcoin with it to strengthen your balance sheet. And clearly, if interest rates go down, Bitcoin, in my opinion, is going to go up.
+
+(0:19:53) The other complication that you've got now, based on the news that came out this week from Strategy, is you raise some money, but let's say 80% of that money is what you use to buy Bitcoin, and 20% of that money gets ring fenced for the first two years. You know, using approximate numbers, dividend payments. So, if you think about a preferred is introducing leverage to a business so you can buy more Bitcoin in exchange for paying out that dividend forever. You're not taking a 100% of that and buying the Bitcoin with it because the market, i.e. the people that you're selling the preferreds to, they won't buy enough of them unless you ring fence some of that. So instead of getting 100% of the proceeds of that fundraise after charges, really you're only getting 80% of it. So again this is just simple maths. But all of these things are really really important.
+
+(0:20:49) But I've got to stress to everyone that we've talked about these things and we've got a clear strategy at different points in time. But we are not there right now. We are not big enough to do that. And if we go back to equity, equity is way better than all of those other products, but in a good market. So if you think about the market like a wave with MNAVs being higher, lower, in our case slightly negative at the moment, you know, if you could only sell equity forever and the market gave you those windows at different points through the year and you didn't need to do anything for a period of time, that is in lots of ways the right strategy for a company our size at the moment, using then Smarter Convert to give you that leverage.
+
+(0:21:43) So there's a lot to it but that's a brief overview of it.
+
+**Anders:**
+(0:21:52) And can you just explain to me why you feel you need to be at 5 to 10,000 Bitcoin? Is it the cost of the IPO of a preferred stock or what is it that is stopping you from doing it now?
+
+**Andrew Webley:**
+(0:22:05) Yeah. So you've got a cost to that, quite a significant cost. If you think about it, say your balance sheet was 200 million pounds, ours is slightly below that at the moment because of the movement of Bitcoin, but let's use 100 million pounds just for the sake of the example. So then let's say that you would be happy to expose 25% of your balance sheet. So you could raise 25 million, well or just a little bit over 25 million because obviously 100 plus 25, you know, so call it 25 million. So you could sell 25 million of this stuff.
+
+(0:22:49) Then you would, let's say you pay 5% in fees. So you're going to knock off, call it another million that you knock off. So you've got 24 million and then you're only left with, let's say you pay the same coupon of Strategy 10%. You're left with let's call it 19 million that you're left with. Yeah. So, you've got 19 million pounds to buy Bitcoin after that.
+
+(0:23:23) Let's say it cost you a million pounds to do that listing with the legal work, the exchange fees and so forth, you know, separate or. You probably wouldn't need separate auditors, but they'd certainly increase the charge that they pay you. So, call it a million pounds. It's probably there or thereabouts. You know, you're not actually left with that much.
+
+(0:23:43) You know, if you look at when we did Smarter Convert, we did that one single subscription for $21 million, you know, which is way quicker. We did it overnight than doing that. So, I think you need to be a certain size.
+
+(0:23:56) The other thing being completely honest with people is there is zero market for preferred at the moment in the UK. So I think everyone will know from getting to know me over the last seven months since we became a public company that I'm not lazy. I do work hard. But you know if we can let someone like Strategy develop that market for another 6 months, all being well it will either be in a much much better place than it is today globally and maybe in the UK for that demand to exist rather than us spending all this money and all this time when we've got other things that we need to do to get to that scale and doing it then.
+
+(0:24:33) There's other things as well that you know we're really proud of our operating business and our strategy there. And you know a Bitcoin treasury company that's got a decent operating business, i.e. a revenue stream, you know, that's the opposite of a preferred in some ways. So I think people need to look holistically at the whole strategy and you know you can go back to literally it was probably the day or two after we listed when we published our 10-year plan and you can see that strategy is still exactly the same as it is today.
+
+(0:25:06) So please rest assured shareholders that we look at all of these things and we're trying to make the right decisions at the right time. But that's the thing. It's making the right decisions at the right time. And you know, not that I'm being lazy...
+
+**Anders:**
+(0:25:30) No one's accusing you of that. That's for sure.
+
+**Andrew Webley:**
+(0:25:35) We've got the great opportunity that we can see what Saylor does and literally we'll just do the bits that work and we'll skip out all the other stuff. Which is exactly the advice that he gave to me all those many many months ago.
+
+(0:25:48) And I think we'll see that. I think give it another six months and we'll really see those bits that work because you know the news that came out about them this week about keeping 20% back approximately of the proceeds. You know they obviously got it in a different way. They did it through the ATM. I think they might have done it the ATM on the common stock rather than the preferred but it's you know it's one company. We can just learn from all of these things as we get to that scale.
+
+(0:26:19) You know it's really good our company at the moment to have a clean company with 2,664 Bitcoin regardless of what you think the short-term price is going to do. We're absolutely convinced that it's far better than anything else. And we can get to scale. If you look at some other companies globally, I'm not picking on anyone in the UK here, just for clarity. You can see if you've got those capital strategies that don't work out in the very very short term, you know, they'll absolutely kill you.
+
+(0:26:57) And for me, as a shareholder in the business, I want this business to be one of the biggest and then the biggest company in the UK. So I have to take the decisions that play out over years, not necessarily weeks.
+
+**Anders:**
+(0:27:16) Of course. Of course. But to get back to the tools in terms of...
+
+**Andrew Webley:**
+(0:27:23) It makes a lot of sense and I will, I can personally attest to the fact that you're hardworking. If you hadn't met with shareholders in person in UK, I would have sworn that you were an AI agent because if I send you an email, you answer in two minutes or something and it's like this could be Saturday evening. I'm like, is this guy real? You know, you're a busy man with a publicly traded company. I am far from that and I don't answer in two minutes. So, I can attest to Andrew's very very constant hard work. I hope you just don't burn out because we need you for another 30 years as we take the price of SWC to £1,000 per share.
+
+**Anders:**
+(0:28:01) On that note also, which tools do you see at your disposal when MNAV is as low as it is now where you're actually getting the Bitcoin in your company at a steep discount? Small pitch there.
+
+**Andrew Webley:**
+(0:28:22) Yeah. So I wouldn't ever be supportive of selling any Bitcoin. I would really be quite against that. Never rule anything out. But I would find that incredibly difficult to do. Unless you traded at a significant MNAV for a very, very long time period. Then maybe I would entertain those discussions but still fight quite hard against that.
+
+(0:28:50) One of the things that we passed, or our shareholders passed, with an over 99% vote in favor of it, I think it was 99.9%.
+
+**Anders:**
+(0:29:02) So, obviously, we've got 0.1% to work on for the next time. It was because I couldn't afford to attend, Andrew, that's why I didn't vote.
+
+**Andrew Webley:**
+(0:29:14) Well, the resolution was it gave us the ability to buy back our own shares. So that's quite interesting. Because what that does mean is that gives you a line of defense and maybe you can use that in combination with debt, you know, should a particular MNAV be hit.
+
+(0:29:34) At a 0.9 MNAV, I think it's the job of the market to price you back to a positive MNAV. But if you sustain, say I don't know like, this isn't a figure to take anything other than for example purposes, you know like maybe a 0.7 MNAV, I think that's incredibly beneficial to shareholders to then look at buying back your stock. And you can do that either with operating cash flows or with debt.
+
+(0:30:06) And then the other thing that you can think about there with the debt is, I don't think the current Bitcoin price is a sensible price to take debt to buy Bitcoin. That's my current thinking. I think the time to take leverage is when everything's absolutely destroyed.
+
+**Anders:**
+(0:30:29) Because we haven't seen this sort of blowoff top with Bitcoin, I don't think that what we're seeing at the moment is anything other than a correction. You know, I put a tweet out a couple of weeks ago, maybe a week and a half ago. You can see it on my timeline when Bitcoin got to 81, 82, something like that, thousand US. And I put the comment out there that, you know, it looks to me like that's the sort of like a local bottom of this particular correction. And that's what I believe. And I believe that we're heading significantly higher probably in the short term.
+
+**Andrew Webley:**
+(0:31:08) But at some point it might be $250,000, it might be $350,000, it might be a lot higher, or lower balance. You know there will be a significant correction and that's probably the time that companies that haven't got any debt can take that on.
+
+(0:31:26) I had a long chat with a very large institutional investor as well because we've been sort of feeling people out both on the retail and the institutional side without giving any specifics just to try and get lots of different viewpoints as well because ultimately the company is owned by the shareholders and we've got a clear road map of people that we want to become shareholders once one or two specific milestones are met.
+
+(0:31:50) And you know, there's a lot of feedback that I get from the institutions that they don't want a Bitcoin treasury company that's got a lot of debt. So we have to factor that into our decisions as well. But you know, when you take on a small amount of debt, you would do that for the right reasons. When you take on a slightly larger amount of debt, you've got to be very careful. But you don't really want to be doing those sorts of things unless you're running out of options.
+
+(0:32:21) In my opinion and to stress, the types of debt we're talking about are structurally very different to like a preferred option which may be the solution for Bitcoin treasuries when they get to a certain scale. And obviously over the next couple of months we're going to have a lot more data to base those decisions on.
+
+**Anders:**
+(0:32:43) Yeah. Okay. Makes sense. So, we have about five minutes left. I know you have a hard cap and I hope it involves prioritizing family. It's so important also for you to have the energy to continue working this hard for long term having a supportive family.
+
+(0:33:05) So, two things I want to touch upon that I think is on everyone's mind. We'll start with number one. As John pointed out and further Canas, we got to sort this out and I need to talk to your son I think because I do believe that he has my address and Jesse said you guys would send your cap so I don't know where the cap is right now but I would wear an SWC cap on Smarter Web if I had one.
+
+**Andrew Webley:**
+(0:33:38) I will speak to him later tonight. I've got another two calls that I've got to do before I sort of knock off for the day. But when I speak to him later tonight, I will ensure that he dispatches the cap out for you.
+
+(0:33:51) And just for everyone's benefit, my son has very kindly dispatched all of the SWC merch because we thought we'd save the money on any more formal distribution without charge as well.
+
+**Anders:**
+(0:34:04) So, lots of love to your son. Thank you for supporting your father and his company and the retirement of your entire bloodline by helping out for free. I love that. I'm not surprised if he's anything like you.
+
+(0:34:17) The second thing on everyone's mind, I got to ask you, I know it may be difficult to say much, but we'd all love for you to be successful with an LSE uplisting. I personally believe and hope that it will give some demand in the stock that'll take us back up to the premium MNAV levels where the engine is running and you can accrete more Bitcoin to the shareholders. And by the way I want to remind everyone that the level of yielding happening over the summer was very high because you're still at a relatively small size and I do believe once sentiment returns, which is just a matter of time in my opinion, not financial advice, you'll quickly get to the size where it perhaps makes sense.
+
+(0:35:14) But to you Andrew, LSE uplisting, is it going to be a Christmas present for all or how are we doing on that?
+
+**Andrew Webley:**
+(0:35:22) Yeah, so you are right to a degree about the size point. But don't forget that there's institutional investors out there that cannot invest in an Aquis stock which is where we're currently listed. And you know let's call it 200 million pounds worth of Bitcoin just to keep the math simple again. You know some of these investors can write pretty significant checks. So, you know, to get that sort of level of growth that we saw earlier in the year, you know, you shouldn't rule that sort of thing out if you're on the right market.
+
+(0:35:55) The other thing that I've consistently said is that we want to be in the FTSE 250. And then we want to be in the FTSE 100 and then we want to be the biggest company in the UK. Now, clearly, you do need to be on the London Stock Exchange to do that. You know, you can't be in the FTSE 250 when you're on Aquis. It's just not possible.
+
+(0:36:20) So, you know, I don't mind you asking the question at all. I'm just trying to think what my lawyers have told me that I'm allowed to say. So, I think we'll probably say it's an aspirational goal to be on the London Stock Exchange and then decline to have any further comments.
+
+**Anders:**
+(0:36:41) Let's do that. I don't want you in any way to get in trouble with any types of authorities. I'm a shareholder and I need the company to have you at the helm. So, let's make sure that everything is...
+
+**Andrew Webley:**
+(0:36:59) I think if you think about it from my side of things, from a shareholders side of things, you know, from the UK's side of things, you know, to have a business that was a private company that then goes onto the growth market, which is Aquis, and then goes on to the London Stock Exchange, and does all of that in a very very short amount of time, obviously the listing part of it. I think that's pretty cool. And I'll be quite disappointed if that doesn't happen at some point.
+
+**Anders:**
+(0:37:37) Yeah. Well, so I think it would make a lot of sense and as John rightly pointed out you were 60% of the trading volume on Aquis. Much love to Aquis and their desire to celebrate runner-ups. Nothing, you know, just a joke. It's just a loving joke. You clearly are the winner there and people who know what I'm talking about, they know and whatever.
+
+(0:38:01) But so if you add Aquis and the London Stock Exchange together, all of the companies, well actually just have London Stock Exchange and add us on, you know, we're sort of dependent on when you look at it. We're either just in the top 100 or just outside the top 100 of liquid stocks. So you know as one of our community has very kindly detailed, you know we are 60% of the volume on Aquis but you know that volume on the London Stock Exchange is quite significant.
+
+**Andrew Webley:**
+(0:38:35) But the key thing about the London Stock Exchange is that there's institutional investors out there, most of them to be fair, that will not invest in Aquis companies whereas they're very keen to have access to a company like us once we can pass a certain milestone.
+
+(0:38:49) So, you know, if indeed it does happen at some point in the future, I think that it would transform the company.
+
+**Anders:**
+(0:39:03) It will and it will happen, I'm sure, and it's going to be glorious and a winning company like SWC deserves to be on the winning stock exchange and not where we celebrate runner-ups. I'm sorry, I can't help it. I have to take a stab at that.
+
+(0:39:16) Humor is a good thing. We should all embrace it and laugh a little hopefully. Next time I'll also try and be funny. That could be fun to try that for one time.
+
+(0:39:27) But Andrew, thank you so much for your time today. Do you have any final words you want to say? The mic is yours and then we'll cut it off.
+
+**Andrew Webley:**
+(0:39:39) Yes. I just want to say thanks to everyone and reassure everyone that we're doing absolutely everything that we can. You know, we've got a number of exciting projects as we've hinted towards. We've also got a new website that's not a million miles away from being complete that really showcases the business alongside these goals that we've got of being a bigger and a bigger and a bigger company.
+
+(0:39:58) I do appreciate that it's tough. You know, it's disappointing seeing the MNAV where it is at the moment. I've got zero doubt in where Bitcoin's heading in the short term as well. And I genuinely believe that everything that we've put in place in the company, you know, the people, the strategy, everything is as close to perfect as you can get. And I'm incredibly excited about being able to share a little bit more in the not too distant future with everyone.
+
+**Anders:**
+(0:40:31) Excellent. Well, thank you so much, Andrew, for being here. Looking forward to the next one. Let's see if we can squeeze one more in before Christmas and see if we'll have good stuff to talk about. We always do. So, let's hope for that. Thank you so much, Andrew. And see you on the next one. Bye all.
+
+**Andrew Webley:**
+(0:40:51) Thank you for watching.
+
+**Anders:**
+(0:40:51) Sorry. Go ahead.
+
+**Andrew Webley:**
+(0:40:58) See you soon. All right.
+
+---
+
+**End of transcript**

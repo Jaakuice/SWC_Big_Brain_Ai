@@ -1,0 +1,333 @@
+# The Smarter Web Company: Getting Stronger Through Volatility
+**Interview with Andrew Webley**
+**Date: 2025-11-28**
+**Video ID: rGoqrZnRRPQ**
+**URL: https://www.youtube.com/watch?v=rGoqrZnRRPQ**
+**Duration: ~59:14**
+**Channel: The Bitcoin Libertarian**
+**Host: The Bitcoin Libertarian (Hong Kong)**
+**Guest: Andrew Webley (CEO, The Smarter Web Company)**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- SWC share price volatility vs. Bitcoin per share growth over recent months
+- Why short-term price declines don't reflect company fundamentals
+- Management team expansion: Randall (NED), Albert (CFO), and team of 10-11
+- Brand rebuild and website consolidation for investor relations
+- Debt strategy: Bitcoin-denominated debt only (177-178 BTC via Smarter Convert)
+- General meeting resolution for share buyback authority
+- Buybacks as MNAV defense tool at sub-1.0 MNAV levels
+- Institutional investor engagement and growing receptiveness
+- Four-year Bitcoin cycle thesis: likely over, corrections getting smaller
+- Shareholder appreciation and commitment to transparency
+
+---
+
+**The Bitcoin Libertarian:**
+(0:01:53) Hello, this is the Bitcoin Libertarian. Our guest today is our friend Andrew Webley, CEO of the Smarter Web Company, the UK's largest publicly traded Bitcoin Treasury Company and a passionate Bitcoin investor with over 25 years in digital finance. As we speak on November 27, Bitcoin has staged a dramatic recovery, surging back above 9K ahead of Thanksgiving after dipping around 80K just last week. But we are far away from our all-time high of 126K. This roller coaster has put particular pressure on Bitcoin treasury companies—firms like Strategy and the Smarter Web Company with holdings growing, stalling dramatically for some, and whispers of S&P 500 exclusion for others. The question is: is this a temporary shakeout or a sign of structural cracks? Today we will try to unpack these latest moves and their implications for UK and global treasuries. Andrew, welcome.
+
+**Andrew Webley:**
+(0:03:05) Thank you. Nice to see you again.
+
+**The Bitcoin Libertarian:**
+(0:03:07) Nice to see you again. And let's talk about a little bit what happened in the last month. This year started very huge for Bitcoin Treasury companies. All of them were the new kids on the block. Everyone wanted to invest and then suddenly start to go down, probably following the Bitcoin moving sideways and with the last drop on Bitcoin price. I think that most of the companies raised like red flags and the critics come attacking all the companies. So how do you see this from your perspective?
+
+**Andrew Webley:**
+(0:03:50) Yeah. So, it's certainly not been a boring year. We listed our company at the end of April, and for two months, the share price just went vertical. What we've seen alongside that is, up until the last month or two months, we've seen a relatively flat Bitcoin price this year—a slow grind higher. But year on year, no significant changes.
+
+The last four or five months with our company, the share price has been brutal. It's come down alongside all of that. Our Bitcoin per share has gone up. So it's on one hand, it's been great in terms of the company growing the Bitcoin balance sheet. On the other hand, for our investors over the short term, it's not been great the last few months.
+
+And why is that? Well, our company is building its balance sheet on Bitcoin, the best asset ever. So clearly there's going to be some sort of sentiment towards Bitcoin that then has a knock on with our share price. Maybe there's lots of people that are new to the space this year that got bored, that didn't get the upside volatility that they thought they would get.
+
+My personal belief is that the events that we saw just under two months ago, which was probably the start of Bitcoin coming down a bit, played a big part in that. There is a lot of leverage in the wider crypto space. If you look at some of the shitcoins, they've sucked liquidity out of Bitcoin. But when they've been doing that for most of the year up until very recently, Bitcoin's been flat, whereas I suspect that if you had seen that in previous years, Bitcoin would have been down. One goes up, one goes down.
+
+I think maybe there's a little bit of truth to some of the FUD stuff that's coming out with JP Morgan, who then coincidentally announced their own product days later. For anyone that's been involved in Bitcoin for a long time though, there's always negative things that come out. And what I've noticed over the years is that the more negative things get, the better it's going to get.
+
+Anyone that thinks they can predict the short-term price of Bitcoin is brighter or more foolish than I am. But my personal belief is—and I have been investing for 25 years so I know a little bit about it—that before something is going to go significantly higher, you do need to flush out the weak a little bit. And I hope that's what we're seeing now. I don't know the exact percentage from the all-time high to 80ish where it got to last Friday I believe it was. But in Bitcoin terms, that's not a big correction.
+
+I think we'll all look back at it and we'll say hopefully that that was just a little healthy correction before a major move to the upside. But obviously time will tell. My thesis for the end of the year is that it's going to be a good end of the year. And I don't mean in very short-term price movements. I mean as part of the long-term thesis that many of us have.
+
+**The Bitcoin Libertarian:**
+(0:07:50) And for a Bitcoin treasury company CEO, because of course we are involved in Bitcoin, we know the movements—the price dropped 36%, around 36% from the all-time high to 80K, and we saw this many times. In fact, at the beginning of this year, we went from reaching near 110 last year at the end of last year to 75K in April. So we are accustomed to this. But on the other side, your game is to raise capital to buy Bitcoin, and mostly the people—of course you have the retail that are most people who understand Bitcoin—but the big money probably are people that don't understand Bitcoin. They come from legacy finance. How do you deal with these investors when the price moves like this?
+
+**Andrew Webley:**
+(0:08:43) Yes. So, I've been doing a lot of work recently with people that are less interested in Bitcoin like we are. They're never going to put 100% of their wealth in Bitcoin. And for many people, they shouldn't. What we believe at the Smarter Web Company is that everyone should have some sort of an exposure to it. Every company should have some sort of exposure to it. Probably not like we do as a company where we have 100% of our treasury in Bitcoin, but an allocation, let's say.
+
+There are some people that are concerned, and this goes back to—when fear is highest, it's probably the best time to actually buy something. Because on Friday, just gone, so just under a week ago, I was sat at my desk and I still pick up the phone and I speak to people phoning up who want a website or existing clients with support or, in this case, an investor relations query. I like speaking to people.
+
+And I had a chat to somebody who was asking me a load of questions, many of which I couldn't answer because I'm not allowed to. And I was gobsmacked at the end when he asked me if Bitcoin's a Ponzi scheme. And I said to him, if it is a Ponzi scheme, it's probably the longest Ponzi scheme that humans have ever come up with, and it would be quite staggering. And I very much don't agree with that thought process.
+
+So I think, like we say with the price, people need to zoom out. I did an interview that came out last Friday with the Times, who are one of the biggest papers in the UK. I've had positive coverage in the FT, again, one of the biggest papers in the UK. The Daily Mail have been supportive, again, one of the biggest papers in the UK. And what I noticed with all these people is that they're slowly accepting the potential of it. And things take time.
+
+So yes, of course, there will be some investors that have invested in our company, other Bitcoin treasury companies, Bitcoin itself—just as you would get with any other type of investment—and maybe because of their time scales or how they priced or whatever, or combination of the two, they've been disappointed. But my job as the CEO is to make the company stronger, to deliver our clearly stated plan, and to keep pushing things forward.
+
+In the last few months when our share price has been decreasing, the company's been getting stronger. And I'm more confident than ever for the future right now with our strategy and what we're doing and the asset that we've chosen to build our business on—Bitcoin.
+
+**The Bitcoin Libertarian:**
+(0:11:49) Yes. That's a good point to talk to the audience. Despite all the stock price going down, Bitcoin price going down, all the critics that now come from the shadows telling you, "Oh, I told you so. These companies are a scam. These companies are a Ponzi scheme"—and in the middle you say the company became stronger. What are the actions that you are taking to make this happen and to tell the audience and the investors how the company is getting stronger through these times?
+
+**Andrew Webley:**
+(0:12:26) So the easy one to look at is our Bitcoin per share growth. Over the last seven months it's been fantastic. The amount of Bitcoin per share that we've grown for the company has been incredible. But then there's other things that some of which people can see.
+
+For example, they can see that the management team has grown. We recently announced Randall coming onto the company as a non-executive director, maybe two months, two and a bit months ago. We appointed a very credible CFO, Albert. So because of our size and the fact that we've grown to a reasonable size company now—albeit nothing like what I hope we'll become—we're able to recruit exceptional talent that will help us on our journey for the future.
+
+The people are really important to a business. We've got an amazing team of 10 or 11 people now, and that's something that I'm very proud of. Because what that means is that when the market becomes a lot more excitable again—which will happen whether it's this afternoon, tomorrow, next week, next month, no one knows—but in the short term, in my opinion, the market will become incredibly excitable again. And having that really firm base to build on is incredibly important.
+
+What we've also been doing around that is we've been working on a number of important projects. The one that I am allowed to talk about is rebuilding our brand. Like most small businesses, we've got a website and a brand that's grown over many years as most small businesses do. But we needed to position that for the future. If we're going to get in the FTSE 250, become one of the biggest companies in the UK, we need that strong, credible, big company identity and brand. So that's probably a week or two away from being able to be unleashed. So that's quite good.
+
+And then, of course, there's a couple of other things that I would love to talk about, but I'll get in a whole load of trouble if I do, so I won't.
+
+**The Bitcoin Libertarian:**
+(0:14:53) All of these things are going to come. But to be honest I'm so glad because you mentioned the Times, Daily Mail, that you sit down and talk to them, and now you talk to me—I'm just a small guy in Hong Kong running a small podcast. For me, I feel honored. And you talk about the rebrand. So is there a new name of the company that is going to come?
+
+**Andrew Webley:**
+(0:15:16) No. So, we keep the name. I'm very proud of the name and it fits in well with our core business. And I like the name, the Smarter Web Company. And I don't think it would be sensible changing that either. I think that is our identity. And lots of people all around the world know that. But it's just taking it up a couple of levels.
+
+One of the other key points of that is if you look at our current website and then all the investor relations material is on a separate website. So people have to flick between the two. Whereas if we can pull it all together to show everything in a more user-friendly experience, I think it will make a big difference.
+
+One of the criticisms that we've had from a very small number of people—to be blunt, people that should actually know better—they don't seem to understand the Bitcoin balance sheet and why that's so transformative for a business. So, by pulling everything together, I think those that don't currently understand the unbelievable benefit that you get from building your balance sheet on Bitcoin will start to understand that. So, I think our new website will make it so much easier for the people that don't currently hold shares in our company to see that it's a really good opportunity, in my opinion. So, I'm really excited about that.
+
+**The Bitcoin Libertarian:**
+(0:16:49) Yes. And most of the people that are attacking are trolls. I see from Twitter yesterday, I think that you posted something and when I went to sleep, I saw that there were some trolls commenting. But most of the people, they don't understand. They are not trolls, they just don't understand. And I think you have more experience than me in the investment side. But I think that especially this year, the time preference of the people, especially also Bitcoiners, became bigger. So they want results now. I think that something that happened this year is that people want results immediately instead of, like, you need to wait, you need to go through this bad times and wait for the bull. What do you think about that?
+
+**Andrew Webley:**
+(0:17:46) It's a really difficult area because we could do a whole podcast on that individually. There's no doubt that over the last couple of decades that people have got more instant—that's a trend that probably stems out of technology. And then you've got the other side of things where obviously all over the world people are under pressure. I live in the UK and a lot of our shareholders are in the UK, and the UK is in a tough spot right now. So people are forced, as well as want, to need things instantly.
+
+And then you've got the other consideration that you have to overlay on top of that, which—not this year, but historically—Bitcoin's been incredibly volatile. And then when you build a company based on a volatile asset which had a lot of attention in the early part of this year, you're kind of like volatility on top of volatility. So you've got that dimension as well.
+
+And then I think also, because the first two months of our public life were so exceptional—we are the best performing IPO certainly in the last 20 years, probably ever. The share price literally went from something like 2.5p to intraday something like 46p. You just very rarely see that. So I think lots of people thought that would continue forever. And they didn't realize that like most investments, they'd have good times, bad times, good times, bad times.
+
+The reason why I'm quite relaxed about that though is that I've got zero doubt in Bitcoin and Bitcoin as a treasury asset. So, what I believe we'll see, and what I've been saying to the institutional investors that we're working quite hard on, is that you wait and you see this come back and then you'll know that something is very exciting. Then it goes through a slightly more depressed phase and then it goes back to the exciting stage. And it will be that wave forever.
+
+So I think there's a lot of education needed, and that's why I'm so supportive of all the work that you do because of all the education that you put out there. You do an incredibly good job of that. And I think that for companies like us, we have to do that as well in terms of educating investors, both on the institutional and the retail side, educating the governments, the regulators, all these different stakeholders on why a Bitcoin treasury company is such a smart type of model and it's got so much that it can add back into the non-Bitcoin world in addition to the Bitcoin world.
+
+**The Bitcoin Libertarian:**
+(0:21:00) Yes. I think that there is a lot of education to be done, especially on the Bitcoin treasury companies because it's something that is new. Like, last year we only had MetaPlanet and Strategy, and now all the companies are trying to do the Strategy playbook. I was in Argentina during La Bitconf and Diego, my friend, my business partner, he was moderating a panel of Bitcoin treasury companies, and we found out that the level of understanding of the treasury companies is embarrassingly zero. They have some speeches for talking about Bitcoin treasury companies. And by the way, I suggested to the organizer, I said, "Please, you can put Diego to talk about treasury companies because he really understands the game because he's following this for years, since probably since Strategy started or so." And there is a lot of—I don't want to say ignorance—but misunderstanding, misconception, but not only in the Spanish side, in the English world, in the tier one countries too.
+
+And one of the misconceptions is that most of the critics say that as the price is going down, of course not Strategy, but most of the companies now are negative in their Bitcoin price. For example, I think that the average for Smarter Web is around over 100 and now it's 90, so you have like unrealized loss. And most of the critics say, "Oh no, if the price continues to go down, these companies are going to go broke." I know why you are not going to go broke, but can you explain, because you are the CEO, you can explain better than me.
+
+**Andrew Webley:**
+(0:22:58) Yeah. So before I explain that point, you do make a very valid point there that there's a lot of people that decided that they would run a Bitcoin treasury company when they don't really know much about public markets. They probably never run a business in their life. And they either do or don't know something about Bitcoin. But that's natural. You're going to get that sort of thing.
+
+And that's why we've put so much effort into education and trying to be as transparent as you can be to explain absolutely everything that we're doing. One of the things that I hate about public markets is the sort of tradey mentality of the advisory network out there. And especially if you look at the States, it's unbelievable what's been done in terms of—I hate to use the word advice because it's not really advice—it's abuse that's been given to lots of people, many of which should have known better. And greed probably got the better of them. And you've had some terrible financing deals out there. Many people should have known better. I said right at the time with a lot of these things that were going on how it would end in tears, and it has done.
+
+And then specifically in the UK, you've had every man and their dog setting up a Bitcoin company as well. So what you'll probably see is that some companies will succeed and they'll be here forever, and then other companies may get acquired, they might give up, or all these different things.
+
+But when you look at a company like ours, we were doing some work actually the other day because we've always said on our website that we accepted Bitcoin as a payment mechanism in 2023 because that's what we thought was the case. But we were doing some work the other day because on another project that we've got, you have to do a lot of legal due diligence—everything gets verified and it's pretty full-on actually, including when we all first bought Bitcoin and all these sorts of things, which was quite good fun actually looking back at the prices historically. But we actually found out that we actually started accepting Bitcoin a year before then, in 2022.
+
+So I think investors particularly just need to look at businesses that care about what they do, that are trying to do things in the right way, and really ask those tough questions and try and understand exactly what the businesses are doing. Because in my opinion, this sector of company is going to be the most valuable sector of companies in the world, probably in not too many years from now. And you're going to get some absolutely fantastic companies in there.
+
+But because you can't really access these companies with a tracker fund at the moment—although I'm sure that will come out in the not too distant future—you do have to pick those companies yourself. So I think people just need to do a lot of research when they're thinking of investing in our company or any other company and really make sure they understand exactly what they're buying. Because as you correctly say, there's some appalling companies out there. And I see some of the content from some of them online and it makes me cringe. But it is what it is. You're going to get that in a sector that becomes so successful in such a short space of time.
+
+**The Bitcoin Libertarian:**
+(0:27:07) Yes, I think so. Because most of the companies—yeah, you see the content is a little bit cringe. But you need to understand and you need to know which companies are the good ones. The ones where the CEOs go online, they talk about the company, they explain the model, they are super transparent. And again, there is a lot of education to be done.
+
+And talking about the debt, this is something that I saw on MetaPlanet when some people were saying MetaPlanet is going to go broke or either Strategy. You see the ratio between the debt and Bitcoin is nothing. It's 10%. MetaPlanet is nothing. So it's impossible—no matter how the price goes down of Bitcoin—it's impossible to go broke, these companies.
+
+And talking about debt, I think that you mentioned that the Smarter Web Company doesn't have debt. Did you raise money on debt to buy Bitcoin or no?
+
+**Andrew Webley:**
+(0:28:11) No. So, just to be 100% clear about this, we've got 2,664 Bitcoin that is on our balance sheet. I can't remember whether it's 177 or 178 of those Bitcoin are Bitcoin that effectively we may have to give back to the investors—or 98% of them—if our share price doesn't perform over the 12-month period that the agreement was. So that is debt, but that's Bitcoin-denominated debt.
+
+We're a big fan of Bitcoin-denominated debt. It's just it doesn't seem to be quite as established as we believe it will be in the future. But ignoring the very small amount of Bitcoin that we've got that is exposed to the product that we call Smarter Convert—the Bitcoin-denominated debt—we haven't got any debt.
+
+But that doesn't mean to say that we won't take on a sensible amount of debt in the future if we think it's right for the business. And there's all sorts of different things that you could do with a small amount of debt to grow the Bitcoin per share for the benefit of the shareholders effectively.
+
+So there's many different things that you can do there. And in fact, next week on Tuesday, we've got a general meeting for our shareholders, many of which have already voted online. And there's only two resolutions there. And the second resolution is to give the company the authority, should it wish, to buy its shares back.
+
+**The Bitcoin Libertarian:**
+(0:29:53) So that's how you can protect on the downside, and you may choose to do that with debt or cash flow, should you wish. And there's all sorts of other things that you can do that are not necessarily buying Bitcoin but would improve the Bitcoin per share. Not that I'm ruling out buying Bitcoin with that—it depends on the company's opinion at the time.
+
+**Andrew Webley:**
+(0:30:17) That said, I also believe that there is a lot of value in a company that has got zero debt. There's the complication of the preferred shares which are very topical at the moment. I've been very transparent about that. I've said that we may do those in the future—realistically when you get quite a bit bigger.
+
+The early signs of those products, if you're an equity shareholder in MicroStrategy like me, are not particularly great if we're honest. And we'll have to see over the longer term whether that is a better way to deliver Bitcoin per share growth than other tools that are available to you.
+
+So obviously, in our company, we look at all of these different things a lot. Because we're trying to make the right moves at the moment, but we're also trying to make the right moves in the medium and the long term.
+
+So we're evaluating everything constantly to try and work out the best things that we can do. And we've got the benefit, thanks to Saylor at Strategy, and MetaPlanet have obviously started doing preferred shares, Strive in the States they've started doing them. So we've got the benefit of looking at the data of what these people do and how it works and then cherry-picking the best ideas within our wider strategy—which is something that's quite helpful.
+
+**The Bitcoin Libertarian:**
+(0:31:59) Excellent. I have a couple of questions that I noticed. First of all, regarding the general meeting, I saw on LinkedIn that you posted that it's going to be held near the Concorde, the old plane that you can go inside the Concorde, right?
+
+**Andrew Webley:**
+(0:32:13) Yeah. Yeah. So our general meeting starts at 11:00 UK time. And from 10:00, people are able to go inside Concorde. So Concorde—the Smarter Web Company was founded in Bristol in the UK, which had a significant role in the development of Concorde. We're very proud of it. And it's—I don't know how far it is from me right now—it's not that far.
+
+And it's fantastic because Concorde was a fantastic plane. Obviously, I never flew on it because we never had any money as kids. But it's great. I've got a picture just on the other side of the monitors. I've got a picture of Concorde on my wall. It's a fantastic thing.
+
+**The Bitcoin Libertarian:**
+(0:33:06) Yes. When I saw that, I said I should go to the meeting. I should go and do the podcast there inside the Concorde because I love planes. I love Concorde. I never flew the Concorde. And the other day when I was coming back to Hong Kong, I flew through Paris and in Paris airport there is the Concorde there.
+
+And talking about what you are going to discuss—the share buyback power that the company might have. Do you think this strategy is a way to get the MNAV up? Because one of the things that happened this year is most or all of the companies now are operating at MNAV below one. And this is something that everyone was thinking about—what happens if MNAV goes below one? Technically it's not possible. Do you think that this is a good strategy to get the MNAV over one—to buy back the own shares?
+
+**Andrew Webley:**
+(0:34:12) Yeah, it depends on the price that you're buying them at, of course. It is accretive. Incredibly accretive actually. If you're buying your shares at, let's say, 0.8 MNAV, it's incredibly beneficial. But you're increasing the risk profile ever so slightly if you took debt, for example, to do that.
+
+So it's not quite as simple as some people think, but on the whole, it's incredibly accretive to your shareholders. And it's also quite a good line of defense.
+
+It's something that we need to have in place because with the way public companies work, if you don't have that authority to buy your shares and an opportunity presents itself, it's going to take you three, four weeks to get that in place—maybe a bit longer actually.
+
+So you need, as we're aiming to do with absolutely everything, to have everything ready so you can use the tools at a moment's notice when you need to use these things.
+
+So yeah, it's a good strategy. I think if you're going to do a buyback, you want to do a meaningful buyback. I've seen a few that seem to be a little bit on the small side. And they're probably more for optics than actually doing anything particularly seriously.
+
+I personally would never be a fan of selling our Bitcoin—any of our Bitcoin—to do the buybacks. I don't like that concept at all.
+
+And yeah, it's just another tool. When we started, we planned for all the different scenarios—positive, negative MNAVs, extended short markets, volatility, all these different things. And in our opinion, the model works if you execute it properly under almost every scenario. So yeah, it's just getting the tools in place to do that.
+
+**The Bitcoin Libertarian:**
+(0:36:21) Yes. And one of the questions that a guy from the Telegram group made—his name is Rory Cooney—and he said, "Would Andrew consider taking on big money at 1 MNAV just to get up to preferred scale?"
+
+**Andrew Webley:**
+(0:36:45) Well, I've never done a fundraising at a discount. I'm quite proud of that fact and I don't plan to ever do one at a discount. I may be forced at some point in time—who knows? There might be a scenario that I'm not anticipating where I have to do that.
+
+So yeah, I wouldn't be keen on doing something like that for anyone. I had a meeting yesterday with one of the biggest investment companies in the world that I've been speaking to for many, many months now. They're quite keen. There's one thing that needs to happen before they can invest in us, which hopefully will happen in the not too distant future.
+
+They actually said to me on one of my previous conversations that they don't actually particularly like discounts. So I don't think we'd need to do that.
+
+We're not going to raise money if it's not beneficial to our shareholders. There isn't any point in being big for the sake of big. You're much better off if you can demonstrate over many years that you've delivered value through whether that's fiat share price appreciation, Bitcoin per share growth, or the less tangible things.
+
+So I don't think that I would ever grow the company for the sake of growth. It would be about growing the company for the benefit of our shareholders. And that's different.
+
+**The Bitcoin Libertarian:**
+(0:38:23) Yes. And another question that I have from myself is: are you planning to create new instruments like Saylor is creating and now MetaPlanet is creating?
+
+**Andrew Webley:**
+(0:38:33) Yeah. So it's certainly on the radar, but I believe that you need to be a reasonable size bigger than us.
+
+Strive, the US company that I've got a small number of shares in that I bought relatively recently—they're run by an incredibly intelligent guy, Matt Cole. He's very experienced in the fixed income markets. They're very well funded. They haven't got any debt. But they now do have preference shares. They're approximately three times the size of us in terms of their Bitcoin balance sheet. They actually trade at an approximate 1.5 MNAV at the moment, whereas we trade at an approximate 1 MNAV.
+
+So if Strive's the case study, you could do perhaps when you're three times the size of us. MetaPlanet is approximately 10 times the size of us. They trade just below a 1 MNAV. They've recently announced pretty small pref shares and they seem to be very committed to that.
+
+But I think for us, we don't need to do that right now. There's many other things that we can do. And I think you need to be a certain size before you can do that. I think at a push you could probably say double the Bitcoin holdings that we've got. But I think maybe where Strive has done it at three times the Bitcoin holdings that we've done, in round numbers, I think that's probably where you can start to consider prefs in my opinion.
+
+**The Bitcoin Libertarian:**
+(0:40:13) Yes. And coming back to something that you said at the beginning—that in these times your company got stronger. I'm sure it got stronger because of the north or the plan has not changed. And how does, for example, having people like Jesse working together with you help deal with these crazy moments that we live?
+
+**Andrew Webley:**
+(0:40:45) Oh, it's fantastic. Jesse and the rest of the team—they help on all different things that people don't see. Everyone sees Jesse and they see me when we're on the live streams or like last night we did a Spaces for our community. And they see us that side of us, but they don't see us when we're hard at work sorting out the various different things.
+
+And we talk all day every day about different things that we're working on to try and think these things through. The Smarter Web Company is a team. It's not just me. And everyone in that team—whether it's Alex and Chris on the web design side, Laura who helps me out with the different people in the business, the board of directors—we had our second board meeting of the week yesterday. Everyone dials in at a moment's notice when something needs to be approved.
+
+And it's a real team effort, and everyone's got different experiences and different knowledge and different opinions of these different things. And by talking things through with the correct structure and corporate governance, it allows us to hopefully get to the position that we need to be in.
+
+The most important thing with a public company is that it doesn't 100% rely on any one individual—and it shouldn't do, because that wouldn't be structured in the right way. So if I want to do something, I have to get it approved by other people in the company. And that's the same for everyone.
+
+And I try and say to everyone that it doesn't matter who you are in the company. Anyone that comes up with a good idea, that idea might be the one idea that makes us considerably better than we are at the moment. So I try and encourage that because before I set up the Smarter Web Company, I was lucky enough to work in a company that was pretty successful, and that was the culture there. The culture is really important.
+
+**The Bitcoin Libertarian:**
+(0:42:59) Yes. And talking about yesterday, I think there was the Budget release in the UK. I think the politicians were talking—something happened related to that. How does this—because I don't have an idea what happened—but how does this affect the Smarter Web Company plan, or does it not affect at all?
+
+**Andrew Webley:**
+(0:43:26) Yes. So the budget is something that happens once a year. And it's quite cringe actually when you watch the politicians in the Houses of Parliament behaving pretty badly when things are so serious at the moment. But it is what it is at the end of the day.
+
+And what happens is the Chancellor of the party that's in power—which currently in our country is the Labour government—they deliver their budget, which is basically how they're going to tax people and spend money in the places that they think it should be spent.
+
+For our company, the Smarter Web Company, it was relatively indifferent. But there was one thing that was actually quite good in that, as much as it pains me to say. And that was they're proposing for newly listed shares on the London Stock Exchange—I believe it's come into effect today actually, it was proposing and will be implemented—sometimes that happens, things come in at a moment's notice—where there would be no stamp duty on the purchase of those shares.
+
+So stamp duty is something that goes back hundreds of years in the UK, and it's a half a percent tax in the case of equities on the purchase of the equities on a market like the London Stock Exchange. There's no stamp duty on AQSE, which is where we're currently listed. And so if they remove that, that would actually be pretty positive for a period of three years.
+
+I'm not a political person. I just want somebody that's going to support Bitcoin, that's actually going to help turn this country around. And that's all that I want.
+
+So in terms of the budget yesterday, yes, you've got that positive thing in terms of stamp duty for newly listed companies, but there wasn't a great deal else in it that is particularly beneficial for the hardworking people of the UK. At the same time, for balance, as far as I'm aware, there wasn't anything that was particularly negative. It was pretty mediocre by the sake of budgets. And maybe one step closer to the socialist country that they're trying to force upon us.
+
+**The Bitcoin Libertarian:**
+(0:45:46) Yes, it's happening. Now Latin America is becoming more right because all the governments that are in Argentina, Paraguay, now Bolivia, probably Chile—but Europe is becoming like socialist. I don't know what's happening in Europe.
+
+**Andrew Webley:**
+(0:46:11) Same as investing though, right? It's the same as what we're saying about Bitcoin Treasury companies—on a wave. Good times, bad times, good times, bad times. It's the same with politics in countries. They say something doesn't work, so let's try something else. It's just a wave of these different things.
+
+What I hope we see in the UK is we see someone a bit like you've seen in El Salvador, where someone takes those bold decisions and they say, "Right, enough's enough. Let's stop crime. Let's put tough penalties out there. Let's adopt a Bitcoin treasury—a national reserve. Let's make some tax breaks for companies so they can employ more people" and all these sorts of things.
+
+So in Latin America is a good example where yes, more right-wing now, but that's because they've lived through the socialism and they've seen that it doesn't work. We've lived through—in the UK in the last 15 years—we've lived through a bad Conservative government and now we've got an even worse Labour one. So I have to stay optimistic that in the future someone will be able to help turn our country around. And the people of the UK, because I look at this through a UK lens, they deserve that. And I hope that we'll see that in the not too distant future.
+
+**The Bitcoin Libertarian:**
+(0:47:37) Yes, Argentina is the biggest example why socialism destroys everything that it touches. Argentina was the richest country—one of the richest countries—in the world and now we are in the middle or on the bottom, going back thanks to our president. But it is what it is.
+
+But let's move to the last questions that I have for you, and these are more general questions. One of these is: how is the institutional adoption of Bitcoin looking from your perspective?
+
+**Andrew Webley:**
+(0:48:06) Yes, it's definitely getting better. It's completely different to when we IPO'd the business seven months ago. That's really positive.
+
+We do a lot of work—I mentioned earlier, a meeting that I had yesterday. I have pretty much every week a number of those types of meetings. So we do a lot of work on that that people don't see.
+
+And I think that they're getting there. I think that the institutions are a little bit like the retail investors in the sense that they want to see the good time. So they wouldn't necessarily say, "Right, this is the time to buy." They'll probably buy when it starts moving up. So hopefully we're there or thereabouts.
+
+So yeah, it just takes time, but they're certainly a lot more receptive. And I think one thing that's really going to help with the institutions is when the market does come back and they see that Bitcoin treasury companies are here to stay forever. I think that then they'll understand that model that we've been explaining to them. So we're getting there.
+
+**The Bitcoin Libertarian:**
+(0:49:12) Yes, I can agree more with what you say. Because yeah, now the market is down, but when the market goes up, most of the people are going to say—this is like the meme, you know the meme that is a guy saying, "Oh, Bitcoin 120, I lost the opportunity," and now it's 80K, "No, I'm not good, I'm not buying this crap." So this is the meme. I think in a few months people are going to be saying, "We lost the opportunity."
+
+And away from the Smarter Web Company, of course, what's your current thoughts on the wider Bitcoin treasury space?
+
+**Andrew Webley:**
+(0:49:52) Yeah, so we touched on it earlier that there's good companies and less good companies in the space. I think the only good thing about a pretty short bad period for Bitcoin is that it makes it harder for the people that don't believe.
+
+And I think we probably do need to see some of those companies—I've seen some of them already. You can tell sometimes in private conversations, sometimes in public ones, when they're almost thinking about giving up.
+
+And then you've got others who are starting to talk about shitcoins. I saw one of the treasury company CEOs trying to push Zcash, for God's sake. And you're going to get this, but in the same way that there's some people that have held Bitcoin for a long time or other investments, you're going to see that in this space.
+
+So, I think it goes back to the point that we made earlier, which is: for investors, they need to really research the companies that they're buying and work out which are the ones that they believe have got a good chance of success.
+
+And then you'll probably see some of the less committed or the ones that were just pure opportunistic capital grabs disappear off. And of course, you might see some companies that are run by decent people that basically just got terrible financing in place and then struggle to survive—and that could be for lots of different reasons.
+
+So it might present opportunities for us at the Smarter Web Company to pick up some of these companies. But we would only do that if it was beneficial for our shareholders, because that's our responsibility. Our responsibility is to try and do the best for our shareholders over the medium to long term.
+
+**The Bitcoin Libertarian:**
+(0:51:55) And talking about Bitcoin, what do you think in the medium term? Do you think that the four-year cycle is over? Do you think that we are going to come for a 2026 even worse than this year? What do you think about that?
+
+**Andrew Webley:**
+(0:52:12) I personally believe that it's over. I also believe that we'll probably have quite a good end of the year.
+
+It wouldn't make our lives much easier if Bitcoin say closed the year around about where it is at the moment, but I think that would put an end to the four-year cycle theory—which obviously has been true, but we believe won't be true for the future.
+
+I think that when you look at the adoption of an asset like Bitcoin, I just don't think that you're going to see that again. I think you'll probably see corrections like we've had recently.
+
+Maybe as the asset gets bigger and bigger, logically the corrections will get smaller and smaller.
+
+So I really don't like talking about the short-term price of Bitcoin, although I did put a post out last Friday when Bitcoin was about 82 after I had the call from someone asking me if it was a Ponzi. And to me, that looked like a sort of pretty much as bad as it's going to get—certainly in the short term and quite possibly ever.
+
+But we'll have to wait and see. Bitcoin so far has not let us down for many, many years. And I don't think there's anything that we've seen that weakens the case for it. And in fact, there's a lot that we've seen that makes it so much stronger.
+
+And this year has been a great year. If you think about—I know some people don't like treasury companies—but it's fantastic what treasury companies have done for Bitcoin. We've bought so much Bitcoin as an industry—Bitcoin that hopefully in most cases will never be sold, i.e., reduces the supply, or the free float if you wanted to use a public market phrase for that. And I can only see it getting better. So, I'm incredibly bullish in the short, medium, and long term.
+
+**The Bitcoin Libertarian:**
+(0:54:23) Yes, me too. Me too. I'm super bullish. I don't care about the price. I think that Bitcoin is here to stay and all these movements are just like—you see when—it's like, I love fighting. So it's like when you see a fight and the guy is winning but the other guy is like, "Okay, I need to do something," and starts trying to punch and probably one hits you. That's the fiat. The fiat is the guy that is about to be knocked out and he's doing the last fights, the last effort. But I think that Bitcoin is here to stay, is going to win, and it's going to go up forever.
+
+And to close this interview, I would like you to talk about your shareholders—about why they have to still believe in the Smarter Web Company. What? Why do they have to stay? And—no financial advice—but why do they have to invest more probably?
+
+**Andrew Webley:**
+(0:55:28) Well, the first thing to say there is that we're truly grateful for all the support that we've got from all of our shareholders. We've got one of the most active communities on X. We're one of the most liquid stocks in the UK. We've got a fantastic community of people internationally that follow our company, and we're truly grateful for their support.
+
+And we're incredibly focused on trying to grow the company significantly above where it is today in the shorter term. So yeah, that's the thank you.
+
+In terms of actually backing that up with some substance, then if you look at this current quarter, which has been tough for Bitcoin Treasury companies, we're one of the only Bitcoin treasury companies globally to deliver any Bitcoin per share growth.
+
+If you look at the relatively short track record that we've got—seven months as a public company—we have delivered Bitcoin yield for our shareholders. And I hope that everyone can see that we've run the public company in the way that I would want it to be run, which is why I listed the business in the first place, i.e., with respect and transparency.
+
+We're as transparent as you can get as a public company. And we do that because basically the company is owned by its shareholders—anyone that chooses to invest in our company.
+
+I do accept that the last couple of months have been tough for shareholders when they're looking at the share price performance. There's no doubting that. But we are incredibly focused, and we think that the company's in a much better place than it was even two, three months ago.
+
+So I would basically just like to say thank you to them and assure them that we're doing everything that we can to have an incredibly exciting future ahead of us.
+
+**The Bitcoin Libertarian:**
+(0:57:27) And always is the promise that we must meet in the peak in August next year and talk about how many Bitcoin the Smarter Web Company has. So Andrew, thank you very much for your time. As you know, you can send me a message anytime you want to do a stream to communicate things to your community—for me it's a pleasure. Also, I'm so grateful to your community because they always tag me, they always share my videos, and they are super supportive to my job too. So thank you very much. Have a great day. Send my greetings to your kid and your family, and see you next time.
+
+**Andrew Webley:**
+(0:58:10) See you again.
+
+**The Bitcoin Libertarian:**
+(0:58:17) And thank you very much to everyone who is on the other side. If you like the episode, please give us a like, subscribe to our channel, share the episode. We are not asking for money. We are not asking for Bitcoin. We just want you to help us with a like, with a comment, with a share in our Titanic task of painting the world orange.
+
+As I always say, share this episode with the people you love. Share this episode with the people you hate, because we must reach 8 billion people and give them the orange pill.
+
+See you in the next episode of our podcast. Stay humble, stack sats, and remember: we are all Satoshi.
+
+And that's all for today. If you like the episode, please give us a like, subscribe to our channel, follow us on social media. Our X account is @thebitcoin_double_. Our YouTube channel is The Libertarian BTC. Our YouTube channel in Spanish is Libertarian BTC ESP. Our Patreon: The Bitcoin Libertarian. Our Instagram: The Bitcoin Libertarian. That's all. You can go there and follow us on all our social media.
+
+---
+
+**End of transcript**

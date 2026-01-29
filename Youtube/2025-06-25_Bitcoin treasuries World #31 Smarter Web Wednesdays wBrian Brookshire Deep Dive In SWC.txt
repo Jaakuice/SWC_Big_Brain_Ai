@@ -1,0 +1,584 @@
+# Bitcoin Treasuries World #31
+**Smarter Web Wednesdays #2 w/Brian Brookshire - Deep Dive In SWC**
+**Date: 2025-06-25**
+**Video ID: CVqE6K_9UoE**
+**URL: https://www.youtube.com/watch?v=CVqE6K_9UoE**
+**Duration: ~55-60 minutes**
+**Channel: Bitcoin Treasuries World**
+**Host: Anders**
+**Guest: Brian Brookshire (Analyst)**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- SWC's new ATM-like program through Tennyson Securities and Shard Merchant Capital
+- Comparison of UK equity raises (ABBs, RAPs) vs US-style ATMs - pros and cons
+- UK market opportunity: limited Bitcoin access in ISAs/SIPPs, large capital market
+- SWC holding 543 BTC with significant cash position (~$17.5M), total NAV ~$75M
+- MNAV at ~16.5x including cash holdings - higher than MetaPlanet due to execution
+- London Stock Exchange uplisting potential - already large enough for FTSE 250
+- FTSE 100 inclusion catalyst: would enable index fund buying, similar to Strategy/QQQ
+- BTC accumulation race chart analysis - SWC's vertical growth crossing MetaPlanet's trajectory
+- International access limitations (Interactive Brokers can't buy SWC)
+- Market structure thesis: one dominant "hometown hero" LBE per country, global race for #2
+
+---
+
+**Anders:**
+(0:00:00) Good evening and welcome to episode number, what are we up to here? My bad, Smarter Web Wednesdays number two. Last week I had Andrew Webley the CEO on and that was great. I relistened to that interview today. Andrew had a lot of interesting things to say. You can find that on my YouTube channel.
+
+Today I have one of my good friends, one of the smartest and probably most underrated analyst in my opinion, Brian Brookshire who has been on MetaPlanet Roundtable a couple of times, always has great insights and Brian has done his own deep dive analysis of Smarter Web Company. So that's why we're here today. Brian will take us through his thoughts on the thesis on Smarter Web Company. So, welcome Brian. Good to see you again.
+
+**Brian Brookshire:**
+(0:00:45) Yeah, thanks for having me on again. You know, it's funny you talk about me being underrated. Last year someone commented that Brian was underrated. And so, one of my explicit goals for this year is to move up from being underrated to appropriately rated.
+
+**Anders:**
+(0:01:00) Appropriately rated. Let's make Brian appropriately rated. That's the target for 2025. I think that should be our Q3 target. And then we'll set a new target for Q4, Brian. Something even more. Have to increase the MNAV on the rating.
+
+**Brian Brookshire:**
+(0:01:20) Yeah, we got to get you higher.
+
+**Anders:**
+(0:01:25) So some of my friends in a little Signal chat group where we focused on LBEs. It started with MSTR degeneracy last year. They said I should do a Bitcoin treasury podcast and that my PNAV is off the charts right now and PNAV is "part to net asset value" and I can confirm there is no net asset value here on Smarter Web Wednesdays, but here we are. We have brain firepower from Brian.
+
+So Brian, let's have you take us through your thoughts on Smarter Web Company here on Smarter Web Wednesdays. First of all, are you invested in SWC at this point in time?
+
+**Brian Brookshire:**
+(0:02:10) Yes, I do have a position I'm trading around for Smarter Web Company.
+
+**Anders:**
+(0:02:15) Okay, sounds good. And full disclaimer, so do I. And in short, SWC is by its community named the fastest horse right now globally in this space of companies accumulating Bitcoin on the balance sheet.
+
+And I was in Prague for BDC Prague when Saylor name dropped SWC and H100. And by the way, the CEO of H100, Mr. Anderson, will be on my channel on Monday at 10:00 a.m. Central European time.
+
+But Brian, let's get to you and your analysis. That's why we're here today. That's what people want to hear, including myself.
+
+**Brian Brookshire:**
+(0:03:00) Sure. So maybe we could dive in with some of the newer topics that have come up and then kind of work backwards to how we arrive there.
+
+One of the interesting things that is happening right now that you talked about with Andrew on your call as well is that they have announced their new ATM-like program and I think that is a very critical step in their journey because one of the things that I've been watching with all these new international LBEs is how they localize the plan.
+
+**Brian Brookshire:**
+(0:03:30) And the early stages of capital raising for Smarter Web used basically two different prongs. They used what are called RAPs which is a very UK specific thing, I believe it stands for Winterflood Retail Access Platform, which as it sounds is a retail focused offer. And they use these accelerated book builds which are targeted at institutional investors.
+
+And the way these work, it's not exactly a private placement, it's kind of a hybrid. It's almost like IPOing new shares a little bit. And basically the way it works is after the market closes, the brokers who facilitate these programs open up the platform for a few hours. People can sign up for an allocation of shares and then you've got this fundraise that's done basically in a night.
+
+**Brian Brookshire:**
+(0:04:15) And I don't know exactly how quickly the finals closed but I think was the case you basically had to have the cash on hand in order to ask for an allocation.
+
+**Anders:**
+(0:04:25) But Brian, what's the advantage of that compared to say Strategy's ATM on NASDAQ?
+
+**Brian Brookshire:**
+(0:04:35) Right. So yeah, there's strengths and limitations to it. And that's where I want to maybe talk about the shift to the ATM that's coming to do a proper comparison with the ATM.
+
+One of the limitations of that system is that it's not as flexible as something like an ATM. Because basically they have to decide, okay, we're going to raise capital. When are we going to raise capital? We've got to open it up. We've got a 4-hour window. We've got to try to close everything. And there's a lot of, it's very administrative heavy to try to do these. And it's not something that really scales.
+
+**Brian Brookshire:**
+(0:05:10) So they found a bridge to a new system that does scale with their ATM-like program. And the ATM-like program is, let me make sure I say the name right, so Smarter Web's lead broker Tennyson Securities has brokered a deal with Shard Merchant Capital to execute this ATM-like program.
+
+And it works sort of similar to the way that MetaPlanet has set up their moving strike warrants and how the Blockchain Group has set up their ATM-like program where essentially the partner that is executing the plan, they're able to essentially buy shares at yesterday's close price and then sell them into the market today. And so that is a lot more flexible structure for raising capital by selling new shares into the market.
+
+**Brian Brookshire:**
+(0:06:00) Now there are pros and cons to that versus a full-bone US style ATM. One of the pros I think is that the way it's structured and the way it is communicated to market is much more investor friendly.
+
+Just because of the nature of the program it means that the broker who's executing this will always be selling into strength. They're never going to sell on a down day because it wouldn't make any sense, they would lose money on it. Also it's written right in the terms that the broker is limited to 20% of daily volume, which actually is a significant number but depending on what daily volume looks like could potentially be done.
+
+**Brian Brookshire:**
+(0:06:45) On the con side, it's potentially more expensive. For a MicroStrategy style ATM I think they're just paying a flat percentage of whatever the shares issued are so they might, the partners executing that, they might be taking like 3% market making fee or something like that. I'm not exactly sure what it is.
+
+But it's always just, I'm pretty sure it's always just that percentage. Whereas with this ATM-like program, let's say a price jumps 50% next day, the partner who is executing that capital, they're able to capture a much larger spread than it would be if they were just say getting a 3% execution fee.
+
+**Brian Brookshire:**
+(0:07:30) But that said, the program is new. We have seen MetaPlanet go through many different iterations of this type of program. MetaPlanet with their moving strike warrants, they've done the setup such that warrants could be executed at the previous day's close. The current ones they've issued, it's a three-day average, and some of them have a premium on them. It's a three-day average plus 2%.
+
+So, as this program develops, I think there's more room to work with the terms and to get more favorable terms for Smarter Web that will narrow the spread and make that a little bit more favorable for them.
+
+**Brian Brookshire:**
+(0:08:10) But even with all that, it's still definitely well worth it to have much more flexibility into how they can issue capital into the market, how they can issue new shares into the market to raise capital. And I think it's a very good next step for them in their journey.
+
+So maybe take a breather there and see if you have any comments on that part.
+
+**Anders:**
+(0:08:35) No, I appreciate that Brian. My next thoughts were, well so first of all overall this is about you getting a chance to share your train of thought and your analysis and why you've taken a position in SWC so you can overall set the direction and the agenda for the points you want to get through.
+
+But thank you for the answer on that. My next question from me naturally would be, all right so there's different shiny rockets out there. There's MetaPlanet which I do believe you also hold a position in. And you have a position in SWC. But so the ATM you've explained now, but why do you have a position in SWC? What do you like about it? Why are you putting your money at risk so to speak?
+
+**Brian Brookshire:**
+(0:09:20) Sure. Yeah, my broader theme about the market right now is that these international plays are much more interesting than number two through 10 on the US leaderboard.
+
+It's, who's going to be number one in the international markets because that unlocks a whole new pool of capital to Bitcoin. Some of that's orthogonal to the performance of the company. It's just something that's great for Bitcoin.
+
+**Brian Brookshire:**
+(0:09:50) But when I'm looking through these, I'm thinking, okay, who are the largest markets in the world? Who have some of the most restrictive access to Bitcoin in the world?
+
+And the UK market ticks a lot of those boxes. It's a large well-established capital market. The Bitcoin exposure people are able to get right now is fairly limited. Within their tax advantage accounts, their ISAs and their SIPPs, which I believe are like the UK equivalent of like an IRA account, pretty much the only thing they can buy domestically is Bitcoin treasury companies.
+
+**Brian Brookshire:**
+(0:10:25) It was just Smarter Web Company. There's a few others now, but that's really the only way to get Bitcoin exposure. And ETFs might come eventually, but they're not available to retail currently as far as I'm aware.
+
+So to me it's a combination of okay it's a really large market. There's a very strong appetite for Bitcoin exposure. There is a general lack of available yield elsewhere. And the growth of the company's stock and the speed at which they've been able to accelerate their Bitcoin accumulation really proves out that the right combination of factors is there for a Bitcoin treasury company to do really well in the UK market.
+
+**Anders:**
+(0:11:05) Yeah, it's, you know I was not ignoring SWC but I wasn't buying any because they obviously they came from a small level of I think first purchase maybe four Bitcoin or two Bitcoin or whatever and they were going vertical and I kept telling myself well they're going vertical because it's early on.
+
+But they kept going vertical and that's why last Tuesday I took a small position in SWC and I think at this point where they are holding more than 500 Bitcoin, the fact that they can increase that, that the BTC yield is so high, the growth in the amount of Bitcoin per share, that it's still so aggressive makes me think well there's something interesting happening here and if they can keep this speed up.
+
+**Anders:**
+(0:11:50) Even if it slows down, there's room for it to slow down somewhat and still they'll be growing extremely aggressive. I'm sure you agree with me.
+
+**Brian Brookshire:**
+(0:12:00) Yeah, absolutely. The way I tend to think about these companies in general is that we have a data point already. We have MetaPlanet as a data point for what a small growing Bitcoin treasury company can do.
+
+So my general thesis is that, barring any kind of macro catastrophe, a sufficiently large market can, a Bitcoin treasury company can grow into a $10 billion company within two years within a sufficiently large market. That's my opinion, that's definitely not financial advice at all.
+
+**Brian Brookshire:**
+(0:12:35) And if you look at where Smarter Web Company is right now and where they could be another six months to year down the line within that initial two-year period, I think there's still quite a bit of room to run.
+
+And even just today we're going to see proved out how much fundraising capacity they still have. Each successive fundraise they've done has, they've been targeting it looks like about 50% of the size of their existing NAV on their fundraises and the fundraises have been consistently upsized 50 to 100%.
+
+**Brian Brookshire:**
+(0:13:10) And the last fundraise they raised, I think the target was like 15 million pounds and they raised almost 30 million pounds and that was close to doubling their NAV. And today just before we got on the call here they announced another fundraise that's going to be target minimum 30 million pounds.
+
+And if they could raise 60, it might not be the high again but if they could do that that would more than double their current NAV. And of course when you're talking about the NAV with Smarter Web Company one of the things that you have to pay close attention to, actually this might be a good point to bring up the chart.
+
+**Anders:**
+(0:13:50) Yeah, should I bring up the chart we spoke about before we went live?
+
+**Brian Brookshire:**
+(0:13:55) Yeah. So shout out to BitcoinB21, he goes by Nick and then his X handle is BitcoinB21. He's made, let me make sure I read the URL right, thesmartinvestmentguy.com, shout out to you making a website with a bunch of different, there's dashboard, MNAV, all these different things.
+
+And we're going to take a look at the MNAV calculation details which I think he updates manually daily by end of market. So you wanted to discuss something here right Brian?
+
+**Brian Brookshire:**
+(0:14:35) Yeah. So the thing I want to highlight on this chart is that when you're thinking about the net asset value for Smarter Web Company, you can't just look at the Bitcoin value because one of the things they do that's a little bit different is they hold a significant cash position.
+
+So like you can see on this chart the BTC value is about $57 million but then they also have a $17.5 million cash position. So as a percentage that's pretty significant. Total NAV now about $75 million.
+
+**Anders:**
+(0:15:10) So tell us Brian, because if this calculation of 16 and a half MNAV doesn't include the cash but we know that Andrew is putting...
+
+**Brian Brookshire:**
+(0:15:20) I believe this number does include the cash. It does include it.
+
+**Anders:**
+(0:15:25) All right so we are at a realistic 16 and a half MNAV. Got it.
+
+**Brian Brookshire:**
+(0:15:30) Right. And yeah, so with their capital raise today, let's say they raised, let's say they actually doubled the target amount. They raised close to 60 million pounds. That would be enough cash to basically double their total NAV again and cut their MNAV in half.
+
+**Anders:**
+(0:15:50) So, Brian, tell me how is it possible for Andrew and SWC to raise so much funds compared to where they were at. It's very aggressive. It's what we as investors love, of course, and that's why there's a premium on the stock higher than MetaPlanet. For instance, the MNAV is more than twice that of MetaPlanet, which is, they're killing it. How can he raise so much funds compared to what they're holding? I mean, it's the dream for most investors, right?
+
+**Brian Brookshire:**
+(0:16:25) Right. I mean, part of it is starting at a smaller size. It's much easier to do even a 60 million pound raise than it is to go out and raise a billion dollars. So just to be fair, some of it is starting from a lower base.
+
+And if you look at the way MNAVs kind of, if you look at the trajectory of MNAVs over time they do come down. You can't grow exponentially forever. But the question is how long can you grow exponentially and after that point does growth still look good. A lot of times it does.
+
+**Brian Brookshire:**
+(0:17:00) So part of it is like I said, part of it is the size and I think another part of it is just a strong demand from the UK market. People want Bitcoin exposure.
+
+I think Andrew is a great frontman for the company. People really like him. He's communicated well with the market. He's built a lot of trust with the shareholder base. He's, in the way he communicates, he's looking out for retail and trying to make sure that everybody's pleased with the stock they're holding.
+
+So it's a combination of a lot of factors that helps the investment dollars keep coming rolling in and keeps them at the top of the UK leaderboard.
+
+**Anders:**
+(0:17:40) Yeah. I agree. And it's my, shout out to you, Andrew. I don't know if you're watching, you're so busy you can't watch all the content, but my communication back and forth with Andrew is, it's unbelievable how fast that he responds anytime I send an email like, "Hey, do you, how about next Wednesday? Do you want to do another Smarter Web Wednesdays?" And set the timing down and everything. He's so on top of it. It's a great, there's a lot of very healthy signs there from Andrew.
+
+**Brian Brookshire:**
+(0:18:15) And as investors we're looking at all of it for sure. I think of the CEOs of Bitcoin treasury companies right now, I think he's the one who has by far been the most involved with the online community, particularly the X community.
+
+He's in there, he's engaging with posts. He's been on multiple podcasts, spaces. There's the community on X, our good friend UK, he's got a weekly "what happened in Smarter Web" podcast and Andrew's been on almost every show.
+
+**Brian Brookshire:**
+(0:18:50) So he's been very very generous with his time communicating with X and I think there's more to it. It's not just the fact that, okay, he's generous with his time.
+
+The other good thing about a CEO doing that is that they're very in touch with their investor base and they know what people are thinking and they're able to better respond to it and to manage the company in such a way that is going to please investors.
+
+**Anders:**
+(0:19:15) Absolutely. So, I want to just talk about this graph with you, this one. Let me get that. There we go.
+
+This was one of the graphs I guess that I was looking at where it was just hard to ignore. So, it's essentially the amount of Bitcoin on the balance sheet of these different companies. So the steeper the curve is the more aggressive in terms of percentage they're stacking. The higher in percentage terms is the BTC yield.
+
+**Anders:**
+(0:19:50) One of our favorites is the dark yellow there, MetaPlanet, which is going for its size quite aggressively upwards. And they're actually, apart from that we'll talk about that I think next week.
+
+Brian, if you're, it sounds like you're ready to be back on MetaPlanet Roundtable next Tuesday. I think we're expecting some big buys from them over the next couple of days.
+
+But if you look at the red one starting down in the bottom right corner more or less, it is very steep and that is SWC because of the incredible speed of Bitcoin accumulation on the balance sheet.
+
+**Anders:**
+(0:20:25) There's one other that looks very interesting and that's the light blue, H100. And as I mentioned in the beginning of the program, but a lot of people have joined, Mr. Anderson, the CEO of H100 will be on this YouTube channel Monday 10:00 a.m. Central European time.
+
+And Andrew Webley, CEO of the company we're talking about now, SWC, will be back Wednesday next week. And by the way, Alexander from ALTBG, will be on Thursday next week. Why rest on the laurels? Got to pump some LBE content out there because I'm living for it. I find it extremely exciting.
+
+But wanted to share this with you this graph and the audience. Any thoughts, comments on this one, Brian?
+
+**Brian Brookshire:**
+(0:21:10) Yeah. And also on the other SWC dashboard we're looking at there's a similar version of this chart. And yeah, the Smarter Web Company's line on the chart, it's just incredible. It's absolutely vertical.
+
+**Anders:**
+(0:21:25) I'll get that back. So where do you want me to go on this website, dashboard, MNAV?
+
+**Brian Brookshire:**
+(0:21:30) It is under BTC accumulation race tab.
+
+**Anders:**
+(0:21:35) Oh there, gotcha. Ah yeah yeah yeah that is a stunning graph. Do you want to just walk us through it?
+
+**Brian Brookshire:**
+(0:21:45) Yeah. So basically what this chart is showing is Bitcoin accumulation since day zero. It's readjusted the timeline. So you're looking at everything from day zero to compare how fast they've grown over x amount of days.
+
+And a couple things stand out on the chart. Obviously, Smarter Web started from a lower base, but if you look at the way it's just crossing through some of those lines there, it's crossed through the Blockchain Group's line, it's crossed through MetaPlanet's line, it's headed towards Cooler, it's headed towards Semler.
+
+**Brian Brookshire:**
+(0:22:20) And so basically what that means is at the same point in time it has accumulated more Bitcoin than those companies did at that point in time.
+
+And that's one of the things that is so interesting to watch about this company is how long they can keep up that vertical growth because it's absolutely phenomenal.
+
+**Anders:**
+(0:22:40) I agree. So what I want to say here as a, just to be devil's advocate and the other side of the coin here is that when MetaPlanet was at the stage that SWC is now, there was only one game in town more or less. There was MicroStrategy they were called back then and of course they had started.
+
+But it's not as hot an area in the TradFi investing community and the Bitcoin community as it is now. And because Strategy really nailed it and the epic Q3 earnings call, I recommend everyone to go watch on YouTube from last year from MicroStrategy as they were called, that has all very strongly increased the interest which has opened up the wallets and funds are now flowing faster I would say to this space.
+
+**Anders:**
+(0:23:35) So, just wanting to add that side of the story as well and say that MetaPlanet has created so far in Q2 a BTC yield of 108%. And there's another announcement coming before the end of the quarter. It seems likely.
+
+So I think just to bear that in mind that it's different points in time and different investor sentiments that were reigning.
+
+**Brian Brookshire:**
+(0:24:00) It's absolutely right to bring that up. I was posting about MetaPlanet ever since the very beginning of their strategy and I can tell you the environment was very different then.
+
+Simon Gerovich, he posts this slide in his presentation that shows their shareholder meeting one month after the start of the strategy and a year after the start of the strategy and the first room's almost empty and the second room is packed, standing room only.
+
+**Brian Brookshire:**
+(0:24:30) When I first started posting about MetaPlanet, the comment section on my posts felt a lot like that. The comments would get no likes, they get no engagements. If people did comment they'd say why do we need this when we have Strategy.
+
+So, it's definitely a very different environment. And yeah, one other caveat I would throw out about this chart is that it's possible that we get companies that, as the LBE market really heats up, that are able to speedrun this chart even more.
+
+**Brian Brookshire:**
+(0:25:00) And even then it won't necessarily be a fair comparison across execution ability of the management teams. It'll be, at least in part, a reflection of the market that they're operating in because you can sell more equity into a hot market that's pricing you at a higher MNAV and has a higher appetite for it than you can in a market that doesn't really know who you are yet and doesn't really trust you and is kind of skeptical on the whole LBE idea to start with.
+
+So, yeah, there's definitely something to look out for as we watch and compare with other companies that come in the future and also ones that we've seen in the past.
+
+**Anders:**
+(0:25:40) Yeah. And also, so, AC, good to see you there. Let me read up the chat and then your comment, Brian.
+
+So, AC is saying, "Do you guys think the angle of accumulation for the small cap LBEs will continue? My sense is the growth will be asymptotic, but I'd love to hear what I'm missing and how could I be wrong."
+
+And I guess we already touched upon it a little bit. We both expect that it's steeper when a company is small, has less Bitcoin, it's easier to raise 50 million than 50 billion. But your thoughts, Brian?
+
+**Brian Brookshire:**
+(0:26:20) Yeah, some of the models, a power law curve and a logarithmic curve look somewhat similar to first approximation. They both kind of look like this. The difference is that a logarithmic curve is asymptotic and the power law curve keeps going.
+
+And the reason why I bring that up is that I think that growth will look something like one of those curves. It probably won't be strictly asymptotic because they can keep going. I mean if they actually did manage to magically get close to 21 million Bitcoin which they never will there would obviously be an asymptote there. But yeah, it's obviously mathematically impossible to grow exponentially forever on a finite asset.
+
+**Anders:**
+(0:27:00) Yeah. I think it was Dan and Mason from True North today that was bantering a bit saying that they were looking for the companies that were aiming to hold 21 million Bitcoin and like instead of days to cover, like days to hold 21 million. Obviously just a good banter.
+
+But yeah, imagine what happens when MicroStrategy or Strategy has say 7 million Bitcoin at MNAV of three.
+
+**Brian Brookshire:**
+(0:27:30) Yeah.
+
+**Anders:**
+(0:27:32) So that's one thing I've been thinking about. I do think it's realistic that companies can be priced cumulatively above a money supply. I didn't think so maybe like a year ago, but I think we can't rule that out.
+
+And just to touch upon it, as we're talking about valuation, and I'd love to hear your take, I'm thinking of the endgame as someone like Strategy could end up owning 2.1 million Bitcoin. But the valuation they will have in the market, let's say the fiat is gone, right? Dollars, debt.
+
+**Anders:**
+(0:28:10) So, stocks are now traded in SATs. I could see them being valued at twice of that because a company will be valued of two components in my opinion. I could be wrong.
+
+One, how much Bitcoin they hold on the balance sheet and two, the value of the valuation that is assigned to the revenue and profit they can generate having that balance sheet. What's your thoughts on that, Brian?
+
+**Brian Brookshire:**
+(0:28:40) Yeah, you got two different thoughts there. Yeah, in one, I think it really depends what the business model, the endstate business model is.
+
+If they actually wind up being something that looks like a Bitcoin bank, like an actual bank where they're lending and they have credit facilities and all types of things they're doing, banks, I believe, to a price to book of like two is fairly common for a bank. So, yeah, a 2x MNAV would be entirely conceivable.
+
+**Brian Brookshire:**
+(0:29:10) The other thought I would throw out there is that I do think the total stock market cap will be more than 21 million Bitcoin. It will.
+
+If you look at the situation today, depending on what figure you look at for M1 or M2, let's say M2 is 20 trillion, I forget what the exact number is I think it's in the ballpark of 20 trillion, and the total stock market cap is more than that.
+
+So, you already today we've got stock market caps that are higher than the number of dollars in circulation and it doesn't bother anybody because nobody ever thinks about it.
+
+**Anders:**
+(0:29:45) So, we're in agreement there, Brian. I think both of us could see a world where total stock market valuation is more than the circulation of Bitcoin. And honestly, it makes total sense. So, we don't need to beat that horse anymore, we'd say. We'll just end up killing it. And that's not what we're here for.
+
+So what else about SWC? So it's phenomenal growth. They keep being very steep in Bitcoin accumulation despite gaining size. Now they have, if I take a quick look back on the website, they have now 543 and a half Bitcoin. And they have cash as well to buy more Bitcoin within the current net asset value. They're killing it.
+
+**Brian Brookshire:**
+(0:30:30) Yeah. So, I think where to from here is perhaps the question. And they do have a lot of potential catalysts coming up.
+
+One thing David Bailey has been hinting at is that he wants Smarter Web Company to be listed on the London Stock Exchange with a goal of getting into the FTSE 100.
+
+**Brian Brookshire:**
+(0:30:50) You might ask why is David Bailey saying that? It's because he is one of the co-founders of UTXO Management who backs Smarter Web Company and provides a lot of support. And obviously Andrew's running the show, but they also have a helping hand in strategy planning.
+
+So, if Smarter Web were to get listed on the London Stock Exchange today, their market cap is already large enough to be in the FTSE 250. And I believe that the lowest market cap company in the FTSE 100 is $4 billion and change, the equivalent of $4 billion and change US dollars.
+
+**Brian Brookshire:**
+(0:31:25) So, and Smarter Web is right around $1 billion USD valuation right now. 4x is not that far away from here at the speed they're growing.
+
+If they could get listed on the London Stock Exchange, get up in the FTSE 100, that opens up the door to index funds. Similar to how in the States, people are very excited about Strategy getting included in QQQ, the NASDAQ 100 and also potentially the S&P 500 as early as this year.
+
+**Brian Brookshire:**
+(0:31:55) There would be a similar narrative for that, getting included in, if they were able to get listed and potentially get in the FTSE 100. But that opens up liquidity, it opens up more fundraising opportunities. Just the uplisting itself would probably generate a price pop instantly.
+
+So that's another major thing that's on my radar that's potentially very interesting.
+
+**Anders:**
+(0:32:20) So that could happen realistically this year that they get included in the FTSE 100?
+
+**Brian Brookshire:**
+(0:32:25) It's conceivable. I, you know, it's definitely not a given. The time, sooner or later, right? And whenever it happens...
+
+**Anders:**
+(0:32:35) Right, so if it happens in Q4, Q1, it's a catalyst and we've seen what QQQ did to Strategy. That was a very fun October, November last year. And that demand for the stock through the MNAV also allowed Strategy to have some amazing Bitcoin buys. There were several weeks where it was 20,000 Bitcoin per week. There was one week there was 55,000 Bitcoin and that's all spurred by, not all but a lot is spurred by, demand for the stock.
+
+And that's what we're seeing with MetaPlanet as well, very high volume in the stock. And SWC, I believe also Coinsilium, it has a very high volume in their stock.
+
+**Brian Brookshire:**
+(0:33:20) Yeah, both SWC and Coinsilium they've been fighting for those number one and two spots on the volume trading leaderboards in the UK.
+
+And it's just extraordinary because they're both, as I'm sure many people are aware, they're both listed on the Aquis Exchange, which is a minor exchange in the UK. I believe they went that route just because it's shorter and cheaper to get listed there and it was a way to get listed.
+
+**Brian Brookshire:**
+(0:33:50) But another interesting thing about that is that international access to the Aquis Exchange is also fairly limited. So getting bumped up to the LSE, it not only helps with UK liquidity, it's also going to help with global liquidity.
+
+As anyone in America with an Interactive Brokers account is aware, you cannot buy Smarter Web Company. You can't buy the OTC ticker, you can't buy the direct UK listing.
+
+**Anders:**
+(0:34:15) Yeah.
+
+**Brian Brookshire:**
+(0:34:17) But if they were to uplist to the London Stock Exchange, that could potentially change and open up access to a whole big new group of investors.
+
+**Anders:**
+(0:34:30) Yeah. And those catalysts are all coming down the line. It's a matter of time. It seems it's more about when than if and when they do, it's going to be a pump in demand and therefore the stock price. The ability to sell more stock with a high MNAV and very accretively buy a lot of Bitcoin compared to the little dilution that it'll have to do to the stock. So, should be good times ahead.
+
+What else do you want to cover, Brian, on SWC? We've spoken about management, execution, very steep curve. There's an amazing catalyst like FTSE Index, listing on different, just like with, listing more places. So more people can have access to buying it.
+
+**Anders:**
+(0:35:15) For instance, here in Denmark where I am at the moment, I can't help any friends or family to get their hands on SWC. And this is in Europe. Like they're right across the North Sea. Across the North Sea is England, right? But you can't buy it here in Denmark. It's insane. But we can from US.
+
+**Brian Brookshire:**
+(0:35:35) I know. Well, I mean, yeah, I've bought it on Fidelity, because they have that OTC listing in US.
+
+What else would you like to cover on SWC?
+
+**Brian Brookshire:**
+(0:35:50) Yeah, if we take a look further out into the future, one of the things I always like to think about is I think the Bitcoin treasury companies that have staying power are going to be the ones that are successful at tapping credit markets.
+
+In the early stages of growth you get a lot of equity sales and ATM-like programs and you can get very far with that. And companies have, even Strategy four years into their growth cycle slapped down ATM and almost doubled their, actually more than doubled their Bitcoin.
+
+**Brian Brookshire:**
+(0:36:25) But as we've seen, as a company matures, the big granddaddy of capital pools is the credit markets. We're watching Strategy try to tap the bond market right now by essentially pulling, sucking demand out of the bond market into their preferred stocks.
+
+And the question in my mind is okay well who else is going to do that? What markets are good for that? The UK market could be a good market for that. And I don't know exactly what shape it might take there, it could be the preferred stock strategy, we could see the playbook innovated on by the time it is even a relevant consideration for them to start doing that.
+
+**Brian Brookshire:**
+(0:37:05) But that's kind of what we're looking forward to. The short term, love to see the equity raises and I think the ATM-like program is a good next step for them. Much longer term, potentially a couple years out, very interested to see how they might start tapping credit markets.
+
+**Anders:**
+(0:37:25) Yeah, it's that will be exciting just like it will with MetaPlanet who have registered a company in Florida to tap the international financial markets, capital markets easier I presume.
+
+And personally I hold Strike in my portfolio on margin. I wouldn't buy it without margin because it's a fixed income product. But on margin where my cost of holding it is only slightly above the return they're giving, the yield they're paying out, but it has that built-in perpetual call option.
+
+**Anders:**
+(0:38:00) I think there's so limited downside that makes that attractive. I would love to hold stocks like that that were issued by either MetaPlanet or SWC because there's a rocket coming behind that to bring up the price of the common stock to the level where that call option kicks in and just keeps pushing up the price of the preferred stock. That could be fun. That could be fireworks in a portfolio, I think.
+
+**Brian Brookshire:**
+(0:38:30) Yeah. I mean, imagine owning a preferred stock, a convertible preferred stock with a, probably won't be a 10% coupon. It won't be a 10% coupon in Japan, but say even a 5% coupon with a convertible preferred stock on a stock that is like 200 vol. Yeah. It's like I'd own it. I'd love that.
+
+**Anders:**
+(0:38:55) It's almost like owning a call option that pays you interest and has no expiration. Half a year ago, I didn't even know it existed, Brian. But here we are.
+
+Again, none of what we're saying is financial advice. We both make mistakes, plenty of them. That's why everyone's got to make their own decision.
+
+**Anders:**
+(0:39:20) But in my opinion, something like Strike that has very limited downside, but it has essentially 40% MSTR exposure is very interesting and especially if MetaPlanet and SWC would start issuing that.
+
+I'm thinking SWC is still quite a bit away from that, because they can just run the ATM-like program now and get very far on that. Where MetaPlanet is getting closer to it and they have a shareholders meeting in September where they might vote for that is the speculation, right?
+
+**Brian Brookshire:**
+(0:39:55) Yeah, and don't want to get too far ahead of ourselves here. I mean this is I think a conversation that becomes more relevant a year maybe two years from now. The credit market conversation is a very forward-looking one.
+
+**Anders:**
+(0:40:10) Yeah. Thanks for keeping me grounded, Brian. I do tend to get a little bit far into the future. So, back to you.
+
+**Brian Brookshire:**
+(0:40:20) Yeah. No, in terms of right now, I love the way they're executing. I think they're doing the right things. Very excited to see how their ATM-like program does and how they iterate on that over time.
+
+**Anders:**
+(0:40:35) And I guess it's not easy. It's probably not simple either. But it does look a little bit simple when you're not involved in it the same way that Andrew and his team is. But it's a very steep growth curve. The BTC yield is through the roof. And it's just very interesting for you and I and probably most people watching, how far it can continue this steep because it's steep and they're getting close to 1,000 Bitcoin and you run that level of growth a little bit further and soon you're at 5, 10,000 Bitcoin.
+
+**Brian Brookshire:**
+(0:41:10) Yeah. I've seen it plotted out that if they're able to continue the current rate of growth they could overtake MetaPlanet by October. I think that's quite aggressive. If they could pull that off I would be absolutely amazed.
+
+But again those are projections based off of just extrapolating from exponential growth curves which is...
+
+**Anders:**
+(0:41:35) Yeah yeah. And I just see like MetaPlanet is just executing so flawless and we're seeing an acceleration of what MetaPlanet is doing. So I don't think it will happen, but let's say it's a very interesting development to look at.
+
+I tweeted out yesterday that there is actually a chance that MetaPlanet could overtake Strategy in amount of Bitcoin. And then I gave it a one to a thousandth chance that SWC could, which I think most people will laugh at because they only hold 500 Bitcoin, right? Strategy holds almost 700,000. But compound growth is something not to underestimate.
+
+**Brian Brookshire:**
+(0:42:15) Yeah, absolutely. People always like to ask for projections, but how many coins are they going to hold this year? How many coins are they going to hold next year?
+
+When you're dealing with growth at this rate, I have a love-hate relationship with those projections because the error bars are so wide. The range of possible outcomes is very very wide.
+
+**Brian Brookshire:**
+(0:42:40) But the way I look at it, which again I'll throw in the not financial advice caveat, is the potential orders of magnitude larger than it is right now? And do I like management? Does the business have potential orders of magnitude larger than it is right now? If the answer to both of those questions is yes then it's something I like.
+
+**Anders:**
+(0:43:05) Yeah. And so another thing I want to just share because SWC is actually going through a bit of a correction, a pretty steep correction.
+
+So this is, I'm sharing now the last month price development of SWC and a month ago they were trading below a dollar and then last week they went all the way to, I think they were, yeah, a high of $9 and now they're at $4.16 which is funny because last Tuesday I paid $4.19. So now for the first time I'm in red.
+
+**Anders:**
+(0:43:45) But I'm laughing because we know how volatile this is and if you can't hack the volatility you should get the hell out of dodge.
+
+But what's your speculation to this correction? I'm, my guesswork would be that a part of this capital raise also means that a lot of shares is issued and I'm just seeing this as a buying opportunity. I could be very wrong. What's your take, Brian, on this correction?
+
+**Brian Brookshire:**
+(0:44:15) Yeah, I'm going to use the word that you often hear from analysts that I think is almost a cliche. This looks like a healthy pullback.
+
+So, yeah, in my opinion, price action, not just with Smarter Web, but really across the board, was very hot last week. These things don't go up in a straight line. I am not really at all concerned about seeing pullbacks this week.
+
+**Brian Brookshire:**
+(0:44:45) I do think despite it being a cliche saying that it is a healthy pullback. The market needs a chance to digest this growth, to build a base for the next leg up.
+
+Even looking at this price now, the chart we're looking at earlier, it's still almost a 17x MNAV and it's, it's not like the company has collapsed or anything. They've got another capital raise coming that could potentially double the NAV within the next day.
+
+So, yeah, I'm not concerned about this at all. I think volatility is just par for the course. There's so much more coming that I am not worried about this at all. I think it's...
+
+**Anders:**
+(0:45:25) Yeah me either and the way I look at it SWC and MetaPlanet, the hottest leveraged Bitcoin equities right now. Strategy I think will be kicked back to life with a likely S&P 500 inclusion. And it's also completely de-risked at this point, Strategy. So, there's plenty of reasons I would say to hold that.
+
+And then there's some other fast horses out there. Obviously, Coinsilium, I had the CEO and advisor on earlier today on my channel. They're running hot in UK as well. And then I'm looking forward to having the CEO of H100 on this channel on Monday.
+
+**Anders:**
+(0:46:05) And well, Andrew from SWC will be back here for the next Smarter Web Wednesdays. That'll be episode three. So that's one week from now. And then on the Thursday, I'm having Alexander from ALTBG, the Blockchain Group in Paris, on the channel.
+
+After that, I'm going to take a week's holiday, Brian. Well deserved break. I'm at a point where this is almost everything I do and I forget if I did one or two shows earlier today.
+
+**Anders:**
+(0:46:40) And what's planned in the future but I love this. This is the most exciting space to be in I think right now and value growth is part of it.
+
+What else haven't we covered that you think is important Brian?
+
+**Brian Brookshire:**
+(0:46:55) I really think we've hit all the major points as far as Smarter Web Company is concerned.
+
+Just hearing about your upcoming content. I think H100 will be a nice entrant in the race that will be fun to watch, duel the other companies up here in the near future. So, I'll definitely be interested to check out that content as well.
+
+**Anders:**
+(0:47:20) Appreciate that. Yeah, I am. So, I'm curious, which leveraged Bitcoin equities do you hold a position in right now if you don't mind sharing? I mean obviously we don't talk sizes or anything.
+
+**Brian Brookshire:**
+(0:47:35) Yeah, I'd rather not say everything that I'm holding right now. Play that one a little bit closer to my chest. Fair enough.
+
+I'll just say that broadly speaking I'm interested in the newer international ones.
+
+**Anders:**
+(0:47:50) Yeah. So another dynamic that I'm very interested in and have spent some time thinking about throughout my week in Prague for BDC Prague where there were plenty of great fireside chats and presentations is how many successful really runaway LBEs can one market hold and I'm talking about nation.
+
+And then also globally, the way I look at it is that, well, that's my current thinking and then I want to hear your opinion, is that each country will be able to sustain at least one very successful leveraged Bitcoin equity.
+
+**Anders:**
+(0:48:30) But I also do think that there will be one global that will just get outsized capital from around the world. If we think that is MetaPlanet, if we think it's SWC, if Strategy might come back into play again or whatever it may be, where if that is the one that has the best growth and an attractive MNAV, then that will get money from all over the world, right?
+
+Where the national market is sustained by tax advantageous accounts where you can buy the local stock and it can be sometimes the only exposure to Bitcoin like for the ISA accounts in UK where you can't buy ETFs. What's your thoughts on that?
+
+**Brian Brookshire:**
+(0:49:10) Yeah, I actually have some pretty strong opinions on that. One thing that is a little bit different about me than I think a lot of people in the space is that I come from a background in marketing. I'm not originally a trading guy. I come from a background in marketing.
+
+**Anders:**
+(0:49:25) Same here. Funny.
+
+**Brian Brookshire:**
+(0:49:27) Yeah. Here we go. So there's this idea called, there's this book that spawned the same idea called "Positioning." And one of the topics in the book is what a typical market structure looks like.
+
+And a typical market structure is you have a dominant number one player and then a large number two player that is something like half the size. And I think that that is probably what the end state will look like globally.
+
+**Brian Brookshire:**
+(0:50:00) There'll be a large number one, there will be a smaller number two and then there will be a very very distant number third and the long tail will start from there.
+
+That said that's the global picture. I do think each market can sustain a number one. Yeah, I call it the "hometown hero." That's my phrase for it. I think each market gets their own hometown hero.
+
+**Brian Brookshire:**
+(0:50:25) And all you have to do is look in these communities. You look in the Smarter Web community. You look in the community set up for H100. And people are just so excited to see these companies set up in their home countries.
+
+They've been looking at Strategy for years thinking, well, why don't we have something like that here? And then when it shows up, they're super excited about it.
+
+**Brian Brookshire:**
+(0:50:50) And also there's just all kinds of friction that's reduced by having a home market offering. It's not even just tax advantages and trading fees. There are pension funds and other kinds of funds out there that they have mandates to only invest in domestic stocks.
+
+And so no matter how great the number one global company is, if they've got a mandate to only invest in domestic stocks, they can't put money in it and they will obviously prefer the domestic one.
+
+**Brian Brookshire:**
+(0:51:20) So yeah, big picture, that's my thesis. Number one, large number one obviously going to be Strategy, no one's going to unseat them ever.
+
+The global race is for number two, could be MetaPlanet, could be Smarter Web Company, who knows? It's going to be a good battle to see. And then I think each market does get their number one, possibly their number two.
+
+**Brian Brookshire:**
+(0:51:50) Coinsilium I think is an interesting test case to watch because UK market is really the first one where we've seen a strong second entrant. Japan still really is a one-horse race but the UK we've seen Coinsilium be very strong.
+
+And so I think that second mover case study is going to be very interesting to watch in terms of giving us a picture of what that could look like as more of these roll out in other countries.
+
+**Anders:**
+(0:52:20) No, absolutely. Agree. And I mentioned that this morning when I had the guys on from Coinsilium that to me that is a perfect test case of whether a market can sustain two or more successful LBEs and if you're saying that number two typically can achieve half size or whatever, and it doesn't have to be the same here, but that's an interesting idea and it'll be very exciting to see how those two play out.
+
+**Brian Brookshire:**
+(0:52:50) Yep. Definitely. I've got my eye on that narrative. It's been very fun to watch play out because to my eye it looks like they're just basically a couple weeks behind Smarter Web Company in terms of trajectory. It'll be interesting to see if that continues.
+
+**Anders:**
+(0:53:10) Yeah. Very much so. But we'll keep our eyes on that here and Brian, you will hopefully be back on here many times on either one of the shows or the other of the shows, but it's all about leveraged Bitcoin equities.
+
+So tomorrow I have James who's covering SWC a lot, locally again talking about, you know, Hometown Hero, and the UK's natural love for their local successful LBEs.
+
+**Anders:**
+(0:53:45) So James, who's very into SWC, will be on my channel here, and that will be 2:30 p.m. UK time. So that will be 8:30 a.m. Eastern time. It'll be there when you wake up.
+
+And then furthermore, I'm going to take the Friday off. I'll be doing something else. And then Monday, I'll be back with CEO Mr. Anderson from H100.
+
+**Anders:**
+(0:54:15) And then you guys will have a chance to catch Brian here again together with Climb and Christina and hopefully also Blake on Tuesday for MetaPlanet Roundtable five. We're already up to five MetaPlanet roundtables.
+
+And then I'm just checking the calendar here, Wednesday next week. So, one week from now, we'll be Smarter Web Wednesdays with Andrew Webley back a second time.
+
+**Anders:**
+(0:54:45) Andrew and I had a good chat post the last stream where he was on and so far he's happy to come back every second week and give us an update on Smarter Web Company. So, that will be exciting.
+
+And then on the Thursday, we'll be Alexander from the Blockchain Group. So, plenty of content in the LBE space coming your way on this channel. It streams both on X and on YouTube. You can watch wherever you like.
+
+**Anders:**
+(0:55:15) So yeah, Brian, with that, again, just thank you so much. I really appreciate your takes and I think we have to be very close to getting you from underappreciated, underrated analyst to at least an appropriately rated analyst in Q3 and then in Q4 I think we're going to try and get a home run and get you all the way up where you deserve to be.
+
+So yeah, thanks for coming on. Anything you want to add here on the final?
+
+**Brian Brookshire:**
+(0:55:45) Yes, if we get to that appropriately rated stage then, in the words of Andrew Webley, I would say that's "very okay."
+
+So no, good one. Yeah, thanks for having me on. Happy to talk LBEs. Definitely give, I'll give shout out to James. Give him a watch. Met him in Vegas. Great guy. Has done a great job putting out the Smarter Web content. I'll be watching him as well.
+
+**Anders:**
+(0:56:15) Awesome. Yeah, I haven't spoken with him yet, only with DM, but I'm very much looking forward. He might be watching right now or maybe he'll watch it.
+
+Pardon me, all you watching on replay, but James, yeah, looking forward to tomorrow. So again, thank you very much guys for watching, guys and gals, 769 live viewers. Appreciate it very much. Without you guys, there wouldn't be any content from here. It's only fun when there's some interaction and people have an interest for.
+
+**Anders:**
+(0:56:50) So, thank you, Brian, and I will see you again on Tuesday, unless we figure out another show before then.
+
+**Brian Brookshire:**
+(0:56:55) Yep, sounds good. We'll see everybody next Tuesday.
+
+**Anders:**
+(0:57:00) All right. Have a great afternoon in US.
+
+---
+
+**End of transcript**

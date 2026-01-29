@@ -1,0 +1,134 @@
+# A Week In The World Of SWC - Episode #4
+**LIVE from Las Vegas**
+**Date: 2025-05-30**
+**Video ID: Y_BeGo8VTlk**
+**URL: https://www.youtube.com/watch?v=Y_BeGo8VTlk**
+**Duration: ~15-20 minutes (estimated)**
+**Channel: A Week In The World Of SWC**
+**Host: James (Solo Episode - Andrew Webley unable to attend)**
+**Source: YouTube / X Spaces**
+
+---
+
+## Key Topics:
+- Vegas conference experience: Meeting Bitcoin Treasury CEOs (Alexandre Lzay, Simon Gerovich, David Bailey, Tyler Evans)
+- SWC brand recognition at the conference - people recognizing the cap and asking about buying shares
+- Shareholder meetup recap with Tyler Evans and Andrew Webley
+- Andrew Webley's relentless work ethic - meetings from 9am to 10pm, back online at 2am
+- Michael Saylor already knew who Andrew Webley was and had researched SWC before their meeting
+- Warrant dilution explanation - 90M+ shares in 12 months, but held by Tyler and Andrew who won't sell
+- Days to cover / MNAV metrics - SWC has lowest days to cover among major Bitcoin treasury companies
+- Bitcoin B's dashboard and comparison charts showing SWC's strong position
+- Roaring Ragna's tracker spreadsheet - SWC at 1.2 months risk-adjusted days to cover vs MSTR at 25.3 months
+- Meeting Larry Lepard and emotional book signing moment
+
+---
+
+**James:**
+(0:00:00) Okay, I think we're live. Sorry about my voice. It's pretty early in the morning. So yeah, this one's going to be a bit different this week because Andrew can't join. I'm in Vegas. And yeah, it's crazy early in the morning. So, it's going to be like a poor man's Jack Malers kind of thing where I just talk at you for a little bit. I'm not sure it's going to be that long. Let me just work out the messages and stuff like that and then we'll get going. Give people a minute or two to join as well.
+
+[Music]
+
+**James:**
+(0:01:30) Okay, let's get going then. Thanks everyone for tuning in. It's been such an amazing week. To think 10 days ago or so, I was definitely not going to Vegas. And then to be here and meet so many like of the OGs, the Bitcoin Treasury CEOs, Alexandre Lzay, Simon Gerovich, David Bailey, Tyler Evans, there's more than that, but I can't think at the moment.
+
+And then you know other people like Jesse Meyers who came along to the shareholder meetup which was a bit of a surprise. So that's pretty cool and I'm hoping we might be able to get him on those spaces at some point in the future. That'd be awesome if he can make it.
+
+**James:**
+(0:02:30) The general chat about SWC out here has either been kind of "who are they?" You know, that's pretty obvious that lots of people aren't going to have heard of us. But then walking around with my cap with the company on, people have actually stopped me and been like, "Oh, Smart Web Company. Yeah, I've heard about you guys. When can I buy it?"
+
+And I explain about the OTCQB and that they can get it through Fidelity now over the phone and they're like, "Oh, that's amazing." And then, you know, we kind of have a bit of a chat and they move on. But I was kind of shocked that every day someone stopped me to say, "Oh, yeah, Smart Web Company. I've heard of you guys." All positive stuff saying about you know how well we're doing and how quickly we're growing and all that kind of stuff. So I think the general vibe has been really really positive. It might not sound like it. I'm so tired.
+
+**James:**
+(0:03:30) So the shareholder meetup, there were a few people there that weren't in the photo. I'm not going to name them, because they either asked not to be in the photo or they left beforehand. But, you know, some people that you might recognize. So that was pretty cool.
+
+It was just, how do I describe it? The energy. You know, Tyler was the energy there. He was chatting to Andrew that, you know, they snuck off to the corner for a bit to talk details on some stuff, but they didn't want me, I suppose, to listen to. Not just me, everyone. You know, so there's constant conversations going on about, you know, what's going to happen next? What are we doing about this? Where are we going with that?
+
+**James:**
+(0:04:30) And you know, the work ethic that Andrew has is just next level. He's up in the middle of the night. I mean, like I have been. He's staying up late. He's going to meetings at 9 or 10:00 at night and then I, you know, I've seen he's been back online at 2 in the morning.
+
+[Music]
+
+He's at the conference, he's in meetings and then he you know hot foots it across down the strip to where I interviewed him on Wednesday which will be coming out next week by the way. And then you know hot foots it back for the shareholder meetup and then has to go off for another meeting. It is just relentless the work that he's putting in which is everything I wanted to see and more. You know, I knew he worked hard, but it was just insane how hard he's been going at it this week.
+
+**James:**
+(0:05:30) I got to meet David Bailey last night. He was at the Nakamoto shareholder meetup in Steak and Shake. That was awesome. He's so high energy. It's insane. He's doing like 12 things at a time as well. And I did tell him that they need to triple down on SWC. Whether he does or not is another matter, but I got the message across.
+
+So what else about Vegas? It's amazing. I don't know if you can see behind me. That's the Hilton. Everything's bright. Everything's loud, everything's huge. And it's been a hell of an experience.
+
+**James:**
+(0:06:30) I want to talk a little bit around a concern that's been on X recently around the outstanding warrants on shares. So, this is my understanding of it. It's my opinion. If I get anything wrong, people please correct me.
+
+So when the IPO happened, there were warrants for further shares to be issued after 12 months, predominantly to Tyler and Andrew. And as you know, they won't be selling. At least not in the near term anyway.
+
+[Music]
+
+They cannot be issued before well they've got a 12-month hold on them. So they will dilute the shares the existing shares in 12 months to the tune of you know 90 something million shares. So it is a lot of shares but if you think about what's happened so far is that with each raise we're diluting the shares.
+
+**James:**
+(0:07:30) And you know we haven't even got into the big money yet, the really big institutional investors. So by the time we get to 12 months in, our shares will have been diluted so much anyway that 90 whatever million shares will have a far smaller impact on the dilution of the shares and they're going to people that are huddling. They're not selling.
+
+So I'm not concerned about it. I can understand why some people are, you know, no one likes to hear about dilution. It was all above board. It was in the paperwork at the beginning. I missed it. I didn't read it properly. I'm happy to admit that I missed that, but I hope that kind of explains it a little bit for other people who maybe have some concerns.
+
+[Music]
+
+**James:**
+(0:08:30) So I did the interview with Andrew on Wednesday in a pretty sick location. Thanks Andy for that. That's Andy, not Andrew.
+
+[Music]
+
+The one little nugget that I'll share from it because it's going to be in the video next week is that when Andrew met Michael Saylor, Michael Saylor already knew exactly who he was, what we were doing, the company, you know, how fast we were growing. He'd done like all the research on Andrew.
+
+So that's pretty cool. To know that we're definitely on Michael Saylor's radar. So yeah, I was kind of grinning from ear to ear when Andrew was telling me about that.
+
+[Music]
+
+**James:**
+(0:09:30) So, someone else has asked about could we talk about days to cover MNAV? Now let me see what I can do here. How do I share my screen? Share. Let me check.
+
+[Music]
+
+Okay. So, this is Bitcoin B's, Bitcoin B2 or Bitcoin B2 Nick's dashboard. Love it. It's amazing. And it shows you on a graph how many days it would cover, take to cover RMF.
+
+**James:**
+(0:10:30) So, I'm going to try and explain this. If I get it wrong again, someone correct me. The way I understand it is that if we continued at the growth rate that we've already been growing at, it's the number of days for our asset value to grow to our existing MCAP. So that's our existing market cap.
+
+I.e. If you held for until the 21st of July 2025, our asset value at that point based off our previous growth would be equal to our market cap. Now, i.e. your shares would be like you could call it in the money. As in you're safe because our asset value is equal to what you bought in at.
+
+**James:**
+(0:11:30) We have at the moment the lowest days to cover of all the major Bitcoin treasury companies, which is pretty exciting. And just to be clear on this, it is using past data to project forward. So, we're kind of trying to predict based off our past performance. I think it's important to clarify that one.
+
+Okay. What about where am I going? Here's another way of showing it which is someone else's Days To Cover comparison chart that I think is pretty awesome as well.
+
+[Music]
+
+You know, you've got all the big hitters on there and us and look how low our days to cover is compared to everyone else. It blows my mind looking at that chart.
+
+**James:**
+(0:12:30) Thank you to Micro Strategist for adding us on to that as well. I think he's Bitcoin PowerLaw is his handle if you want to look him up. But yeah, I mean I think the chart speaks for itself. Again, it is all based off past performance and being, you know, we're trying to work out what the future might look like based off that, but it's pretty cool to look at that.
+
+And I think Andrew's done a fantastic job for us as shareholders to deliver that for us.
+
+**James:**
+(0:13:00) One more sort of stats space thing I want to share is the tracker spreadsheet, still kind of days to cover type information. Sorry, this is probably going to be really small to anyone looking at it on a phone. It's not even that big on a laptop.
+
+But it's the tracker spreadsheet that Roaring Ragna has been doing to compare again the big hitters and we've been included in it which is again I think, you know, people are starting to include us in their comparisons and that is kind of a milestone and it's down to the community, you know, spreading the word pestering people saying have you thought about adding SWC? Brilliant. Thank you so much for that. That's one of the best things we can do as a community. And it's paying off.
+
+**James:**
+(0:14:00) But look at that. If you look down at the risk adjusted months to cover bold line, that's about 2/3rds of the way down. You know, MSTR 25.3 months, MetaPlanet 8.8, Semla 11.4, ALBG 5.4, Kulr 5.7 and SWC 1.2.
+
+I mean, I know we're small and I know, you know, we're starting, but that is just insane. Such good data coming out at the moment.
+
+**James:**
+(0:14:30) That's probably about it. We're going to be wrapping up because I can't just talk at the camera for an hour like Jack Malers.
+
+I hope this has been useful to people. Oh, I was going to mention about meeting Larry Lepard as well. Thanks for reminding. I actually started crying when I got my book signed by him because it's been so instrumental in kind of turning my attention to all of this.
+
+**James:**
+(0:15:00) Having dipped in and out of Bitcoin over the years, it's finally put me in that Bitcoin only space. And I'm very grateful to him for it because it's really making a difference.
+
+So that's about it from Vegas. A pre-recorded episode coming out next week hopefully with me interviewing Andrew out in Vegas and we'll be back for another spaces on Friday next week same time. Thanks everyone. I might go back to bed for an hour. We'll see. Thanks guys. Bye.
+
+---
+
+**End of transcript**

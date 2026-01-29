@@ -1,0 +1,204 @@
+# A Week In The World Of SWC Episode #16
+**Khristina on SWC Investment Strategy and Bitcoin Treasuries**
+**Date: 2025-09-23**
+**Video ID: 5wkL7Ac_XYY**
+**URL: https://www.youtube.com/watch?v=5wkL7Ac_XYY**
+**Duration: ~44:31**
+**Channel: SWC and BTC**
+**Host: James**
+**Guest: Khristina**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- Khristina's background in traditional finance (Vanguard, Goldman Sachs) and transition to Bitcoin investing
+- Journey from trading MicroStrategy to investing in MetaPlanet and Smarter Web Company
+- Entry price, position sizing, and conviction in Bitcoin treasury investments
+- Trading vs. holding strategy: MetaPlanet as core holding, SWC as active position
+- Andrew Webley's professional management style and no-discount policy
+- Private placements (PIPEs) and the impact of deep discounts on the sector
+- Bitcoin treasury company cycles: 4-month MNAV compression/expansion patterns
+- Four-year Bitcoin cycle debate and institutional demand dynamics
+- UK vs. US vs. Japan investor base characteristics and regulatory environment
+- UK tax-advantaged accounts and limited Bitcoin access (MSTR as primary option)
+- Future catalysts: FTSE inclusion, options strategies, preferred shares
+- M&A opportunities in Bitcoin treasury space (Strive/Semler example)
+
+---
+
+**James:**
+(0:05:04) Khristina. Hi, thank you very much for joining me.
+
+**Khristina:**
+(0:05:09) Happy to be here. I've been following you, I think, pretty much since you joined X, actually. Um, because you kind of just started posting and and and getting getting your message out there, which is I just thought was awesome. Um, can you give the SWC investors a bit of a background on yourself? Um because I know you've done it before on other shows and stuff, but a lot of the SWC guys might not have have watched those.
+
+**James:**
+(0:05:40) Yeah, perfect. And I think this is only like my fourth podcast ever. Um so maybe fifth. I graduated with a typical bachelor's degree in finance. Um got a job at Vanguard out of college, worked on their trading desk, and transitioned to Goldman Sachs. um started in equity capital markets with them and then moved into institutional equity sales. Um following Goldman, I went to a small boutique broker dealer, was there very happily. Um I basically opted out of the business when I left Goldman Sachs. I was married. We were thinking about starting a family. I didn't think I would be able to balance both. um that didn't go as quickly as we had hoped it would and dealt with some personal tragedy during that time. So, I ended up going back to the business just because I felt like I needed to have a place to go every day and show up. So, I was at this boutique working there very happily, making great money. Um and then ended up leaving there and going to run US sales globally at another large international bank. Um, I then retired from the business in 2019 and I've been investing and in trading for myself for the last six years.
+
+**Khristina:**
+(0:06:57) Cool. And and what brought you to Bitcoin in the first place then?
+
+**James:**
+(0:07:01) So, I actually came into Bitcoin really through stocks. Um, I started trading or was trading um, well, I think like a lot of people, I actually bought Bitcoin for the first time in maybe 2016, 2017 because people were talking about it and I opened an account and I bought some Bitcoin having no idea what I was buying. Um, and then at some point was getting ready to do my taxes, you know, probably during the, you know, depths of the bear. And I was like, "Oh my god, I've lost so much money in this thing. Sell, take the tax loss, move on." Right? And so then, you know, went back to stocks and trading stocks and, uh, was trading Micro Strategy uh, pretty aggressively um, several years ago. It used to have these wild swings um so you could make great money in the shares and also in um the options and my best friend at the time um had just gotten a job at Micro Strategy and Marketing and she's like oh I just joined this company Micro Strategy and um you know I'm doing a call with this CEO and we were talking about him and um I really didn't even know what Micro Strategy did. Um, I was just really in it for the volatility. And then I started going down this path of like, what do they do? Um, and she kept coming to me with questions on Bitcoin. And as an employee at Micro Strategy, you have to do like Bitcoin training and reading and classes and they, you know, want Bitcoin to be the ethos of all their employees. and she's a marketing person, not a math person, not, you know, an investment person. And she would come to me and ask me all of these questions. And, you know, at the beginning, I had no idea what she was talking about. And I was also very confused how this company, Micro Strategy, had a market cap the size that it had and traded the way that it traded. And it had absolutely no Wall Street coverage. It wasn't in any of the major indexes. And I was thinking to myself like there's such an opportunity for this company to like talk to banks and you know get research coverage. I'm like what are they doing over there? Like why is it so like underfollowed? Um so it was really through my friend and her having to learn about Bitcoin that I took it upon myself to kind of teach myself about it so I could teach her about it and explain it to her and then I just went down the rabbit hole. Um, so went full into Bitcoin, threw my trading in Micro Strategy and then became a Micro Strategy investor. Um, and then pivoted obviously, you know, years later into MetaPlanet and now Smarter Web and, you know, some of the others.
+
+**Khristina:**
+(0:09:51) Okay. And so what was it that attracted you to SWC? You know, if you've already got MSTR and and MetaPlanet.
+
+**James:**
+(0:09:57) So, you know, I think I said yesterday um you know, I was looking at my positions before I went on Andrew's show yesterday, right? And um so I went Micro Strategy, Bitcoin, Bitcoin, Micro Strategy, and then when MetaPlanet came on my radar at the very beginning of May, you know, I made my first purchase uh May 1st at $31. So, great entry price. And I bought it uh pretty big and pretty aggressively. And then I started, you know, really going down the MetaPlanet rabbit hole. You know, join the Discord, be a part of the community, talk to people in Japan, understand, you know, up during the night watching it trade in Japan and in Germany, and really just trying to understand what I had already kind of committed a significant amount of capital to, knowing that it was a Bitcoin treasury company, kind of early days micro strategy. So I was able to dive in knowing that about the company and then doing kind of more of the work on the back end. Um and so looking at my positions yesterday, you know, and my entry price at MetaPlanet, I just looked at my active um positions in the smarter web and on my cost basis on the positions that I own now. It looked like I had just bought it in July, maybe bought it kind of poorly and have been averaging down ever since. But then I went into my, you know, closed positions and looked at my trading history because I do love to trade. I don't trade MetaPlanet just because it's what I consider a core holding. But I think back after buying MetaPlanet and then getting into, you know, Smarter Web, I was trading Smarter Web in June and July. Um, actually traded it quite well. I was looking at some of the euphoria and I wrote this down. Um, you know, I bought Smarter Web on June 11th at $1.70 and I turned around and sold it on June 20th at $6.99. Like to think that the stock moved that much during that 9-day window is just kind of bananas. Um, and so I bought Smarter Web during the euphoria of oh my gosh, we need to own all of these Bitcoin treasury companies, right? So, I have MetaPlanet in Japan, Smarter Web's the leader in the UK. I'm going to buy this one, too. And then what ended up happening is the position that I have now, um, you know, the last the first purchase price of the shares I haven't closed out was kind of like July and then I've just been buying it, you know, July, August, September, all the way down. So, I would say entry price matters. My overall entry price and cost basis on Smarter Web is not great. that's on me. Um, I didn't get in early and I bought into, you know, the euphoria and FOMO thinking that we needed to own everything because I do believe in the long term long-term Bitcoin Treasury story. Um, but I just think it's a good lesson too like in terms of size and scale and conviction. Um, and we're in September now, which is typically when I kind of well I look at my portfolio every day. I trade it every single day. But at this time of year, I typically look at like who are some of my biggest losers? Like, am I going to be taking tax losses? Where can I take tax losses? Because fortunately, I have significant gains. So, where can I offset that? Um, and take losses, you know, before December so that if I decide I want to buy them back, um, in the US we have this thing called wash sales as it relates to taxes. And if you buy a stock and you sell it for a loss and you buy it back within 30 days, you don't get that loss credit. And so what I try to do for like my taxes is sell stocks before the end of the year so that I can buy them back early in the year outside of that 30-day window. So I start looking at things now. Smarter Web happened to be um happens to be a stock that on paper I have decent unrealized losses in now. And I kind of was like, I've been buying this all the way down. Should I continue to own it? Where are we in the Bitcoin Treasury cycle and space? And um I need to do some more work on that. And the more work I started to do, like the more excited I got about the company and the management and the position. and I'm like, I definitely want to own this and there's no reason it can't even be a bigger position than it is. Awesome. Good to hear. Um, I'll say one more thing. Sorry. Um, I think size, entry price, scale matters. And I can see my son, who I told not to disrupt, like crawling on the floor, going out to the garage, getting drinks out of the second fridge, and his name is James, too.
+
+**Khristina:**
+(0:15:02) Okay, a strong name. Strong name. Um, but size and scale matters, conviction matters. And you know, looking at my portfolio today, um, a stock I bought this year, which is now my largest holding, AST, it's a satellite space company. I am up more dollars in that position than I am in my Amazon position that I bought in 2014 at $17.23 and I still own it, right? And so when you enter a stock, how big of a position you put on and what your own personal conviction is really matters or you get shaken out. And so with a company like Smarter Web, it's now a big position. I'm not going to be shaken out. I know why I own it. Um, and I think, you know, a year from now, two years from now, it'll be it'll have returned more than my, you know, Amazon at $17.23.
+
+**James:**
+(0:16:03) Yeah, I think I think that um know why you own something um is often, you know, it's put out there a lot on X, but I'm not sure a lot of people actually follow through on that and and do the full deep dive, do their 100 hours of research and really understand why they own something.
+
+**Khristina:**
+(0:16:23) Absolutely. You can't you you can follow someone else's conviction into a trade, but in order to stay in the trade, you have to have your own conviction and you have to have your own plan because they're not going to I don't blast online when I'm selling something and I often just don't do that because I move on, you know, and if I've been a really strong advocate of a company, unless there's something like, you know, nefarious that I feel like I need to call out and something's really changed and it's not right, um when I decide to take my profit doesn't necessarily mean other people should take a profit. Like I could be taking it just because I have to pay my real estate taxes. You know, it's so, you know, sometimes I sell things and there's no fundamental reason. So there's no reason to post about it.
+
+**James:**
+(0:17:10) Okay, cool. Um, we'll get back to the sort of euphoria and and cycles and and stuff like that in a bit, but um, as part of your growing conviction for SWC, um, you were at the NYC unconference that Tim hosted, uh, Tim and Ed, um, which looked amazing. It looked like such a cool kind of intimate conference with, uh, you know, where you actually all got to properly meet and talk and and stuff like that. So, what was it like meeting um Andrew and Jesse?
+
+**Khristina:**
+(0:17:46) I would say that it was the highlight of my day there. Um you know, the night before was great. You know, drinks on the rooftop um and then the conference the second day. Um but I really think the highlight of my day was being able to have like a one-on-one conversation um with Andrew. And you know, he's as awesome in person and real in person as he comes across online. And I think he's like truly genuine and gets it. Um, and I had written down like all these like, you know, description words of, you know, how I would describe him. Um, and it's actually, you know, quite funny. I'll share. So, I was saying, you know, he's super passionate. He's transparent. He's obviously very hardworking. Um, he's proven successful. Um, and he's proven that he's able to execute this strategy. Um he's obviously a visionary. He seems, you know, dedicated and very fair. Um communicative, bold. Um you know, he's obviously taken a strong stance, which I believe in with respect to um the no discounts. Um and we can talk about that a little bit. Um he's highly professional, which I truly value. Um I complimented him in the way that he had handled um you know some of the uh you know I don't know how to phrase it the was it the satsuma stuff um you know several months ago. I mean, I thought that the way that he handled that situation was impeccable. Like, he just handled it in such a professional way and, you know, that really resonated with me versus some other online, you know, CEOs or personalities that are just like so promotional or egotistical or, you know, you know, unprofessional. Um, and so I really like that about him. Anyways, it's a very long list, but I think importantly um for any investment that I make, but particularly within Bitcoin treasuries, you have to believe in the management that you're putting money behind.
+
+**James:**
+(0:20:04) I mean, let's maybe just continue that about the no discounts. Um, you know, you've been quite vocal about pipes. I think you got caught out on one actually.
+
+**Khristina:**
+(0:20:16) I did a while back which I I was kind of like yes Khristina for actually kind of just going and and telling people that you know people who do this professionally can also make the mistakes. Um so discounts I mean there's a wild difference isn't there between some discounts and others. Sorry you froze. You're frozen. Uh can anyone hear me? Uh awesome. Hello.
+
+**James:**
+(0:20:53) And now I don't know whether it's me that's lost or Khristina. Okay, I think we're back. Sorry.
+
+**Khristina:**
+(0:21:07) Okay. Sorry, I lost you. You said I don't know. You froze for like at least 30 seconds.
+
+**James:**
+(0:21:12) Okay. Um, so well, you were talking about discounting.
+
+**Khristina:**
+(0:21:18) Yeah, there's a whole whole bunch of um different reasons that they that people potentially offer discounts. So, it's not I'm not talking about maybe sweeping statements of discount's bad, um, no discounts good, but do you think perhaps some of the ways companies have acted over the last few months um with some of these discounts has affected like the whole sector or do you think it's just affected those individual companies?
+
+**James:**
+(0:21:45) Um, I think it's affected the whole sector. Um, and those individual companies like if you're a publicly traded company and your stock is trading at call it $14 a share, just making up numbers. I won't name any companies in particular, and you do a pipe for private investors at $5, like that, in my opinion is immoral. Like that's just absolutely not okay.
+
+**Khristina:**
+(0:22:21) Yeah. And but but okay, so then let's go into the nuance then. What about like when it's just a five or 10% discount?
+
+**James:**
+(0:22:27) I think the issue becomes if you're giving that person a 5 to 10% discount, the next person's going to want to get a 5 to 10% discount. The next person might want an 11% discount. And it's just about setting a precedence. Um, and so I think the stance that Andrew's taken is really like a noble one and a bold one. And um, you know, that's the type of management that I want to give my money to.
+
+**Khristina:**
+(0:22:50) Sure. We won't get into the weeds with the MetaPlanet thing because that was a bit more complex.
+
+**James:**
+(0:22:57) And it's a bit more complex. Yeah. And perhaps not relevant to, you know, where SWC's at. And I think it's a I think it's a a good, you know, one of those learning experiences for the space kind of like fiat-backed converts. Um, you know, Sailor did it and people have learned from that. And I think this, you know, very large scale international offering that was marketed over a long period of time with, you know, an announcement date followed by a future pricing date is also like a very good, you know, lesson for the industry.
+
+**Khristina:**
+(0:23:38) Yeah, for sure. So, speaking of euphoria, we you mentioned it earlier. Um, and I I believe there's something called a treasury Bitcoin treasury cycle. Um, and that it's compressed, but the data isn't really there yet in in my opinion. Like, we've got MetaPlanet basically to to go off. um well under MSTR but more so with MetaPlanet having this sort of roughly 4 month cycle. What's your view on it? And um what do you think is going to be the catalyst uh to create the next sort of up part of the cycle? What what's going to make the pendulum swing back?
+
+**James:**
+(0:24:17) Um I actually think it's probably a catalyst that none of us are thinking about. um that tends to be when you really get the pendulum to swing. Um when it's something that you know surprises the market um and in this space given how innovative it is and how new it is. I mean, I think it's absolutely possible. Um, and probably the reality, like I don't think we're going to stay I hope, but I don't think we're going to stay at these compressed MNAVs um for an extended period of time.
+
+**Khristina:**
+(0:24:53) Yeah. I mean, it from where I'm sat, it feels like that the falling knives have stopped, but they're kind of just bouncing along the bottom now. um waiting in in that sort of quiet period before things potentially kick off again.
+
+**James:**
+(0:25:07) Right. I mean it we're in this period where you know we have you know a bunch of different companies in different stages and everyone is in this process of acquiring Bitcoin um and will continue to acquire Bitcoin. But there's going to be a next leg where you know there's a new product or you know a new company that does something different that you know drives excitement and um that'll get people's you know heads and wheels turning about like what's next, what's possible. Um but right now we're just kind of in this Bitcoin accumulation mode and you know Bitcoin itself hasn't been super exciting as of late.
+
+**Khristina:**
+(0:25:49) And then sort of related to that is the the Bitcoin four-year cycle, which again, not much data, right? Um do you think Treasury companies and the sheer number of them that there are now are potentially going to be part of the reason why maybe it doesn't stick to the four-year thing? or do you just think the whole kind of global liquidity um the business cycles, the election cycles and stuff, they all play into it just having four-year cycles?
+
+**James:**
+(0:26:15) Yeah. You know, I've been debating this with myself about the four-year cycle, and I've been asking people what they think about the four-year cycle, and I really can't say that I fall strongly on one side or the other. Um, I'd like to think that this new wave of institutional demand would, you know, prevent us from having like a very sharp pullback. Um, and I think if we do kind of have a cycle that possibly it's just like a tiny correction. Um, but at the same time, we've had this new wave of institutional demand and adoption, and it really hasn't, you know, driven the price of Bitcoin like in a parabolic way, which I kind of thought it might. Um, and so until some of the supply really dries up, um, the distribution right now, it's like River has this chart, which is like really one of my favorite charts, which shows, you know, how much, um, individual ownership of Bitcoin there still is. And I think it's important that individuals still do own um a majority of the Bitcoin, but we still have people that don't know what they own and are inheriting it or waking up and noticing what it's worth and just selling it. Like there there are people that bought Bitcoin like I did, you know, many years ago, didn't know what I owned, and rather than sell it like I did at that time, you know, have held on to it. and like and I think that's a lot of the liquidation um that we're seeing from individuals.
+
+**Khristina:**
+(0:27:53) Sure. And because you know in my mind I've got the the on the one side it hasn't helped push the price up particularly like it's been a pretty slow bull run. Um, but then on the other side, I think it was back in August, um, a whale was like dumping 20,000 Bitcoin in a weekend, which four years ago it would have been like, "Okay, thanks. Cycle's over. Let's pack up and go home." And and and it hasn't. Um, so it's so sort of difficult to work out which way this is going to go.
+
+**James:**
+(0:28:24) Yeah. I think I I like to think that we're just going to go higher and at some point we will hit this inflection point where um there's just not enough Bitcoin, right? People aren't willing to sell it because the people that own it know what they own.
+
+**Khristina:**
+(0:28:43) Yeah. So, it's kind of like Yeah. in a in a bigger way what's been happening to treasuries which is this changing of hands of the the asset to hopefully people that are then going to hold it for a more prolonged period of time um and and number go up.
+
+**James:**
+(0:29:06) Right. Right. And with a lot of these new products and innovations that are taking place like people in the past that may have been in a position where they needed to sell it for a reason like can now get loans against their Bitcoin. you know, that's that's great. Um, if you can use your Bitcoin as collateral towards buying a house, like in the past, you would just have to sell the Bitcoin to buy the house. Um, but now you can use it as an asset.
+
+**Khristina:**
+(0:29:31) Yeah, for sure. And and and with all the legislation changes and stuff, it makes all of that much more possible. Um, hopefully the UK will catch up at some point. Um, so can I ask you a question since, you know, I've been diving into, uh, the smarter web, but what I haven't spent a lot of time on yet is just like the dynamics in the UK. And so, um, I would explain that when I bought MetaPlanet, I was under the impression that we had this very, um, you know, not aggressive, well, maybe aggressive, like MetaPlanet investor base, fan base in Japan. Um, and they were, you know, active investors and cheerleaders and all of this stuff. Um, but you know, several months in now, I'm realizing more and more that the Japanese investor base is kind of a very timid investor base. Um, there aren't actually a lot of equity investors in Japan relative to people who have money like saved in cash um, earning nothing. And so I'm curious like how would you describe the dynamic of like the investor base in the UK in your local market?
+
+**James:**
+(0:30:49) Okay. So, I'd place us somewhere between Japan and the US, which doesn't help me much, but um I can't remember the stats now because it's a few months since I looked at them, but um compared to the US, there's very few retail investors. Um you know, most well, a lot of people in the US own some kind of stocks and shares, right? Um but in the UK, it's it it isn't like that. um the the vast majority saving cash. Um some people have stocks and shares is the only other thing to sort of add that to that though is that in in our pensions they're often not administered by the individual. So um they are invested in index funds and and and things like that. But actual active individual investors, I I can't I wish I could remember the percentage, but I think it was something like 70% of the US and it and it was only 30 something% of the UK. Um, and on the aggression side, well, I think we've got a pretty rabid SWC community, but um I'm not sure. Uh, Brits are particularly known for their um their aggressive investments, but I might be wrong on that. I I don't know.
+
+**Khristina:**
+(0:32:11) Okay, that's helpful. So, somewhere in between. Um, I think I think the main thing about the UK market is that um, the UK legislation on Bitcoin has been pretty horrific. Um, and through our tax advantaged accounts, whether that's kind of like our tax advantaged savings or tax advantaged pension, MSTR for the last 5 years has been like the only option to get Bitcoin exposure. You can't buy an ETF. You can't buy spot Bitcoin. Um, and that's been so so with companies in the UK launching, it's kind of exposing more people to it because there's headlines. It is getting featured in mainstream media. Maybe not that positively, but you know, it's it's getting out there a bit more. Um and so the the the sort of potential investment coming in is quite large um from from those sorts of sources, right? If if that helps.
+
+**James:**
+(0:33:12) Yeah, definitely. Okay. So, what sort of I know we don't know any details because Andrew's doing his job properly and and not spilling the beans on too much stuff, but um what sort of future events or catalysts get you excited maybe about treasuries in general, but also related to SWC?
+
+**Khristina:**
+(0:33:38) Uh for SWC it's obviously uh you know Footsie inclusion which everyone has talked about. Um I was listening to a podcast over the weekend or last week um and Andrew was talking about you know the potential for Smarter Web to start you know potentially using some options to also generate some income similar to you know MetaPlanet and their put-writing strategy. Um so I thought that was interesting. Um obviously if executed well it can be incredibly incremental. Um you know Simon the CEO of MetaPlanet his background is that he is a uh former Goldman Sachs derivatives trader. So that's kind of in his DNA and it's not one of these things that's just you know oh we're going to you know sell some puts and you know make all this money. I think you know it takes some experience. So, how how smarter web were to go about that and if they're able to do it successfully, um I think that's an incremental positive. And then obviously I think you know at some point the preferreds will be on the horizon. Um and based on what you just shared, it sounds like you know there's an opportunity in the UK for people that are looking potentially uh for a more stable um asset that you know can generate yield and pay a dividend on a monthly, quarterly or annual basis. Um, and so that's exciting.
+
+**James:**
+(0:35:07) Yeah, for sure. Um, yeah. So, some I don't know if you saw it come up on the screen, but someone just
+
+**Khristina:**
+(0:35:14) Oh, I did not
+
+**James:**
+(0:35:15) post they posted the stats. Um, 65% of Americans invest, 50% uh of Canadians, 35% of British, and 15% of Japanese. So, we're above the Japanese, but um, right, it's still a way to go. Um, okay. Yeah. So, I mean, all of those are are really exciting and and the last one that you mentioned on the preferreds, um, the there's been some talk of some of the Europeans, smaller treasuries starting preferred early. Well, in my opinion, early. Um, but then I kind of I kind of see the the the the logic in the sense of let's get it out there and then as it grows it's just it's almost like an ATM that just keeps feeding the stack, right? Um, but at the same time you can't do that much to start with and the liquidity is going to be bad and you know all of those kind of things. What's your opinion on on starting small with a small stack and getting the preferred out there early?
+
+**Khristina:**
+(0:36:15) Yeah. Um I can't say that I have a strong opinion on it because I really haven't you know studied um all of the pros and cons. Um and you know on things like this that's why you know you invest in managements that you believe will execute in the best interest of the shareholders. And so I would definitely defer to Andrew and um Jesse in terms of when they think the timing is right. Um can you start small and grow? Sure. Um I think you know some of it and I was talking to a friend this morning is a little bit of like the chicken and the egg, right? Um buyers of preferred want to see that you have you know sufficient capital. Um and so do you have enough capital to get the buyers, right? Or do you start small and you know it's kind of self-fulfilling. Um but I don't really have a strong opinion on it.
+
+**James:**
+(0:37:17) Okay, cool. Um so I think the the last sort of topic I wanted to cover was um uh to do with M&A's uh mergers and acquisitions. Big news yesterday um that Strive and Semler were merging.
+
+**Khristina:**
+(0:37:35) Yes. I don't know enough about the deal to really talk about it, but if you do then then that'd be quite interesting. Um, but also do you see this as being like a fundamental part of the Bitcoin treasury space in that things are going to just get pulled together?
+
+**James:**
+(0:37:53) Yeah. So, um, I don't know enough about the deal to talk about it with any accuracy. Um, I don't own Semler. I don't own ASST. Um, I found them both kind of to date to be uninvestable for me. Um, one because I know ASST has a very big pipe um that will unlock at $135 which is significantly below where the stock is trading and you know burn me once that whole saying um and then for Semler right like prior to the acquisition you know I would hear Eric speak on all of these panels and it's you know absolutely no disrespect to him I think getting you know establishing a Bitcoin treasury um was a fantastic move by him, but to me it always seemed like there was this disconnect between Eric and the Bitcoin strategy and you know the CEO running the healthcare company, right? And so it just didn't make I it just didn't make sense. It didn't seem cohesive to me and I think that's probably one of the things that has caused the stock to really struggle. um when you have kind of two different businesses um and it seemed like there wasn't huge alignment. Um so I can't speak to the details of the deal itself, but in terms of M&A um I do think we'll see more M&A. Um, and I think in this particular instance, maybe it made sense because ASST at this point doesn't have the ability uh to run an effective ATM to be in a position to be acquiring Bitcoin, right? And so they could acquire this bitcoin by coming up with, you know, a stock transaction and acquire, you know, a large amount of it. Now, I think M&A can also be, you know, challenging in the sense it's like what are you actually buying? um and they've said that they are going to um I think ultimately monetize the health care business, meaning get rid of it. And so they're really in it for the Bitcoin. Um and so I think in some select instances it could make sense to use stock to acquire Bitcoin. Um but there is a headache involved of what do you do with the business and what do you do with the people that come with the business. Um now the other side of M&A and I think this is something that you know people in the business have talked about um at some point it may make sense to just acquire uh businesses that generate very strong cash flows right so that you can use that cash flow um to acquire Bitcoin and so I think there's a lot of like ways to go about it um but it's not so simple right I don't I don't think it's so simple. You really have to know what you're acquiring outside of the Bitcoin. Um because it can get pretty tricky like yeah, what do I need to sell? Who's going to buy it? What price am I selling it for? And then there's the people component whether or not you're integrating them and whether or not they fit with the culture or whether or not they're no longer part of the business. Um, back to the unconference, I can tell you that one of the things that really impressed me is, you know, I pretty much always saw Andrew and Jesse like kind of together. Um, and if they weren't standing within earshot of each other, kind of like in the networking area, um, or the break area, they were sitting next to each other at a table like having conversations, listening. Um, and you could tell that they just are a team, right? Um, and they're also people that you could just grab a beer with. Um, versus when I was observing, you know, other managements, it didn't appear to me that any other management had the same chemistry that Andrew and Jesse had. And so that really impressed me.
+
+**Khristina:**
+(0:41:51) Yeah, that's powerful. Um, someone's asked a question on the chat. um about M&As. Would would would entering into an M&A uh potentially slow down momentum because capital would be tied up in limbo for potentially months uh while the deal goes through if that money was otherwise going to go to Bitcoin.
+
+**James:**
+(0:42:16) Um yeah, it could. It could. I think in yesterday's instance they used stock, but yeah, it could. And I guess it just depends like are you are you acquiring a company like with fiat or are you acquiring it by issuing shares?
+
+**Khristina:**
+(0:42:33) Sure. So an all stock deal doesn't have that same same problem. Um okay. Yeah.
+
+**James:**
+(0:42:41) But it could cause a distraction, right? Like and M&A costs like you're paying bankers, you're paying lawyers. like there are actual costs associated with M&A. Um, and so you really have to defer to the management to make sure that the math makes sense, right? It comes down to the math.
+
+**Khristina:**
+(0:43:06) Sure. And and and the time cost as well. So, you know, Andrew and Jesse spending evenings, weekends, whatever, trying to get an M&A deal through, which could have been spent on potentially something else. So, there's always an opportunity cost with anything like this, I suppose.
+
+**James:**
+(0:43:23) Well, thank you very much, Khristina. I've really enjoyed speaking to you.
+
+**Khristina:**
+(0:43:29) Um, no, that was great. It's it's great to have you on and um, you know, hopefully we can do it again at some point in the future.
+
+**James:**
+(0:43:37) Um, I'd love to. I plan I plan to actually be, you know, a bit more active. Like now that I realize how large the position's become and now that I've done a bit more work, um it feels like a name that I'm probably going to be paying more attention to only because I feel like pretty comfortable with my MetaPlanet position. Um that I can use a bit more time to focus on some other stuff. It's, you know, now that's kind of a set it and forget it and let's kind of see what happens over the next few months with their, you know, plans and their preferreds. Um, and so I have the capacity now, I think, to pay attention to some other things.
+
+**Khristina:**
+(0:44:09) Excellent. And, uh, if people want to follow you, it's Khristina with a KH.
+
+**James:**
+(0:44:20) With a KH. So, people need to follow her because she's going to be coming up with stuff on SWC hopefully.
+
+**Khristina:**
+(0:44:26) Awesome. Great. Great. Thank you. Thank you so much. Thanks everyone.
+
+**James:**
+(0:44:31) Yeah. Bye.
+
+---
+
+**End of transcript**
+

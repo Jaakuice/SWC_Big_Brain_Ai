@@ -1,0 +1,566 @@
+# mNAV, P/BYD & PIPE Deals in Bitcoin Treasury
+**Stephan Livera Podcast #691 w/Jesse Myers**
+**Date: 2025-09-24**
+**Video ID: TFYQ-6Rm64c**
+**URL: https://www.youtube.com/watch?v=TFYQ-6Rm64c**
+**Duration: ~1:14:24**
+**Channel: Stephan Livera Podcast**
+**Host: Stephan Livera**
+**Guest: Jesse Myers (Head of Bitcoin Strategy, Smarter Web Company)**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- Smarter Web Company update: 2,500+ Bitcoin, 1.6 MNAV, 278% Q3 Bitcoin yield
+- Bitcoin Treasury company lull analysis: flash in the pan or real fundamentals?
+- PIPE deals (Private Investment in Public Equity) critique for Bitcoin treasury companies
+- Importance of longer lockup periods vs short-term discount arbitrage
+- Building track record of Bitcoin yield delivery vs shortcuts to scale
+- MetaPlanet as the gold standard model: retail-first approach
+- Regulatory environment supporting Bitcoin treasury companies (UK FCA, Bitcoin ETNs)
+- Winner-takes-most dynamics in each capital market globally
+- Bitcoin treasury companies potentially accumulating 50% of all Bitcoin over 20 years
+- MNAV premium justification: P/BYD ratio (Price to Bitcoin Yield Delivered) explained
+
+---
+
+## Transcript
+
+**Stephan Livera:**
+[00:00] Hi everyone and welcome back to the Stephan Livera podcast. I know it's been a little bit of a gap, but I've had, you know, traveling and a lot of things on, but I'm excited to chat again with my guest today. Now, longtime listeners of the show will have heard Jesse before, and of course you've probably heard him on different podcasts and from his talks in the space. Jesse is head of Bitcoin strategy now at Smarter Web Company, which is a Bitcoin treasury company in the UK. And Jesse, I think, has a lot of interesting insights to share around treasury companies. So I wanted to chat with Jesse. Jesse, welcome back to the show.
+
+**Jesse Myers:**
+[00:47] Yeah, great to be back. I don't remember—it must have been like 2021, 2022 when I came on before, but it's been a while. So excited to talk to you again.
+
+**Stephan Livera:**
+[00:53] Yeah, I mean, back in those days you were still under the pseudonym Croesus, and now you're out there under your real name and face. So let's start with Smarter Web Company.
+
+[01:05] What's new at @smarterwebuk?
+
+Maybe give us just some of the overall picture there. Like, you know, how many Bitcoin do you have? What's the MNAV? Just some of those kind of high-level stats and facts.
+
+**Jesse Myers:**
+[01:19] Yeah. So, as of today, we just announced we bought an additional 50 Bitcoin. And that puts us just over 2,500 Bitcoin total. And our MNAV, as of today, is about 1.6. It got as low as like 1.2, just under even. It does seem—we'll get into this a bit more—but it does seem like there might be some recovery there in terms of MNAV, especially given that our Q3 Bitcoin yield to date has been plus 278%.
+
+So, you know, that—and we'll get into all this—but that, I think, is the big headline for Smarter Web at the moment: we're priced as if we will only ever deliver plus 60% Bitcoin yield forever. And yet this quarter we have delivered plus 278%. I think that's just a combination of the global sector-wide MNAV compressions over the last 10 weeks, and at the same time, our investors—savvy Bitcoin Twitter investors who are paying attention to all these stats—see the value and are stepping in, I think, to capitalize on what they may view as a mispricing based on our track record of delivering Bitcoin yield at the moment.
+
+**Stephan Livera:**
+[02:55] Of course. And as you know, I'm bullish Bitcoin and bullish on Bitcoin Treasury companies, but maybe the narrative right now is, "Oh, it's a lull. Bitcoin treasury companies are over," right? What's your take on that?
+
+[03:07] Evaluating the recent Bitcoin Treasury lull
+
+Is it just hype? Was it flash in the pan? How do you analyze where things are right now in this so-called lull for Bitcoin Treasury companies?
+
+**Jesse Myers:**
+[03:19] Yeah, a lot to say here. So, obviously, I don't think it is a flash in the pan. I think there are real fundamentals here that matter and deliver tremendous value to shareholders if you're invested in the right Bitcoin treasury company. I think what we've seen over the last 6 months is, you know, people got too excited. The entire sector got excited and everybody decided to become a Bitcoin treasury company, and there were too many—most of them never got off the ground or never really delivered a track record of Bitcoin yield, which is the whole point of a Bitcoin treasury company.
+
+And that was a combination of small companies that, you know, said they had the intention of becoming a Bitcoin treasury company and for whatever reason couldn't follow through with execution. You know, that takes a lot, right? You have to change your business, you have to set up the infrastructure, you have to generate excitement from investors, raise capital, deploy it into Bitcoin, and then do it again and again and again. That's hard, and most companies who wanted to follow this strategy haven't been able to get to scale.
+
+I think there's a really big filter of: can you get to 1,000—maybe it's 2,100 Bitcoin—with a track record of delivering Bitcoin yield? And if you look at it that way, only a handful of the, let's say, 200 Bitcoin treasury companies in the world have actually done that.
+
+So there's that going on, and then the other thing that has really complicated things is we've seen a lot of PIPE deals.
+
+[05:03] Jesse's issues with PIPEs for Bitcoin TCs
+
+PIPE deals, which I think have been a shortcut to try to get to scale as a Bitcoin treasury company. But the problem with that is, I think the market is learning that—for two reasons in my mind—that creates tremendous headwinds that I've yet to see an example of those headwinds being overcome by a PIPE deal-funded Bitcoin treasury company.
+
+**Stephan Livera:**
+[05:35] And just quickly for listeners who aren't familiar, PIPE stands for Private Investment in Public Equity. Now, the sentiment around that can sometimes be seen as, "Oh, like the richer insiders are dumping on retail." That's kind of a critical view of that. Maybe to steelman the other side, it might be sort of like, "Well, we need to get to a certain level of scale before we can do this play correctly," or they would frame it like, "Oh, it's a necessary evil to sort of get off the ground."
+
+I guess there's kind of some different arguments going both ways. Can you maybe offer your comment on this PIPE phenomenon—Bitcoin treasury companies using a PIPE?
+
+**Jesse Myers:**
+[06:16] Yeah, absolutely. So the goal there is like, how do we get to scale quickly? And the way these deals end up getting structured is they're offered at a discount. So you'll go to institutional investors and say, "We'll give you a 10 or 20% discount if you do this deal." And it becomes easier to raise that kind of capital—for the wrong reasons, though.
+
+Those investors, many of them, most of them, are not interested in investing in a Bitcoin treasury company for the long term. They are instead interested in collecting that discount, right? So if you're that investor, you can do that deal and then immediately hedge out your exposure by shorting that stock. And then what you're left with is you get your free 10%.
+
+That's a fantastic value proposition for a hedge fund. If they're tying up capital for 3 months, boom, they just got 10% for a quarter of the year. That's a really good return, and a lot of people are willing to do that. The problem, of course, is that you're then creating sellers, right? Like, day one, you have hedge funds that want out. They never planned on holding. They're getting out.
+
+**Stephan Livera:**
+[07:45] So I guess, as you're saying, it's like this question of having investors who are really aligned—and not just aligned on Bitcoin, but aligned for the long term. So I wonder then, kind of a follow-up: Do you believe it changes then if there is a longer-term lockup? Like, instead of just, you know, you can insta-dump or like it's a one or two month lockup, it's like a five-year lockup or some kind of longer lockup?
+
+**Jesse Myers:**
+[08:03] Yeah, quite possibly. Because then you filter out—you're asking a hedge fund that's looking to do a deal like that to tie up capital for years. And if you're going to deliver a 10% return over, you know, call it 3 years, that's not good enough, right? That's not an interesting enough deal to want to do that.
+
+So then you're left with investors who might see the fundamental value and actually believe in the long thesis. But, you know, again, you're then limiting your access to capital because the vast majority of capital wants to do that discount deal, and a very small minority of institutional allocators—take it from me, we have these conversations with institutional allocators—and for the most part, they don't see the value proposition yet of Bitcoin yield itself. They very much see the value proposition of discounts. So that's the tension there.
+
+The other problem with PIPE deals, or getting to scale quickly in general, is that a Bitcoin treasury company's value proposition to investors is: look at our track record of delivering Bitcoin yield consistently over time.
+
+**Stephan Livera:**
+[09:19] And when you assess that track record, every investor makes their own assumptions about whether or not that performance will continue into the future. And they can model in their expectations about how much Bitcoin yield into the future that company might generate. And that becomes their willingness to pay, right? Like, how high of an MNAV you're willing to pay is based on how much future Bitcoin yield you expect that company to generate.
+
+**Jesse Myers:**
+[09:56] So if you're a company that, you know, raises a billion dollars and buys a billion dollars of Bitcoin day one—great, you have a ton of Bitcoin, but you have zero track record of delivering Bitcoin yield. And now that track record begins, and suddenly you find yourself in a really tough position: you now need to raise a billion dollars again within like 3 months in order to show any kind of promising Bitcoin yield metrics.
+
+So I think, in that way, a lot of the deals we've seen over the last six months have been structurally wrong—at least from my perspective and my views about what generates value here. I think going back to what has been the best example of a Bitcoin treasury company of success—
+
+[10:45] What counts as a successful Bitcoin TC?
+
+—what does success look like in this space? It's been MetaPlanet. For the last 18 months, they've grown from nothing—like a $10 million company—to now a company with 30,000 Bitcoin, or on their way to 30,000 Bitcoin. Incredible growth story.
+
+And the entire model was: start small, deliver a track record of Bitcoin yield, and generate enthusiasm from retail investors. Grow from small to medium, start bringing on institutional capital, and then keep growing from there. Right? A sort of path-dependent process that starts with delivering, executing Bitcoin yield, and building that track record.
+
+So that's like the only real example that we've seen—outside of Strategy starting 5 years ago—the only real example of success is the MetaPlanet model. And that's what I think is the thing that everybody should want to do. It's just that it's hard and it's slow, and I think the temptation to jump to scale has been irresistible for a lot of people.
+
+But this is why Smarter Web is following the MetaPlanet playbook in the UK and seeking to follow that very established pathway to success.
+
+**Stephan Livera:**
+[12:15] I think it makes sense. And maybe those comments are—I don't know, it depends on who you listen to—but maybe these are controversial for some people because you're attacking other treasury companies anyway. But I think what I find interesting, maybe it's a timing thing, right?
+
+Like, I think MetaPlanet—the timing of their kind of launch, like when Dylan kind of went out of the Bitcoin Magazine orbit (I mean, he still kind of is, but into formally being a part of MetaPlanet)—it was kind of like, you know, not many people were into this whole treasury idea. I think the timing was important. And probably arguably also the jurisdiction, right? Japan being a very yield-starved jurisdiction, but also a big financial hub. And I believe in the top four fiat currencies globally, right? So it's not a small player.
+
+So maybe it was like a combination of right time, right place, right strategy, as you said, to do it. And that's what—maybe that's, you know, they're now reaping the rewards of that combination.
+
+**Jesse Myers:**
+[13:22] Absolutely, totally agree with that. I think Japan was probably the best place in the world to do this playbook, and they nailed it. And they were alone for a while and were able to get to scale.
+
+I do also want to say—like, I don't want to be attacking any Bitcoin treasury company, but I do want to point out that that approach has not really been de-risked. I'm not aware of an example of success yet. And hopefully those work out because that would be better for Bitcoin. But I think that Smarter Web is focused on the example of success, for the reason that that is the pathway that has been proven.
+
+I also want to say that when Strategy did their thing—when MicroStrategy started in 2020, and for years afterwards—everybody assumed you kind of had to be an entity like MicroStrategy for this to work. That you needed to be already at scale, be a cash cow, spinning off a lot of operating income in order to service your debt, in order to make this model work, right? To lever up your Bitcoin exposure.
+
+And I think that's a big part of why, for years, nobody tried to copy the model. And then MetaPlanet did, you know, ignoring the advice that "you can't do it, it only works if you're a MicroStrategy-type entity." They went ahead and tried it, and it worked, right?
+
+And then I think it's interesting now that you do see a sort of common sentiment that you need to be in a MetaPlanet-like situation for it to work. You know, it's just a bit of irony there. But I think the reality is that Bitcoin is the best thing—accumulating Bitcoin is the best thing that any company can do for its shareholders.
+
+**Stephan Livera:**
+[15:16] And there's a tremendous opportunity because of the arbitrage opportunity between these giant capital pools of the fixed income market, equity markets, and the money market where so much capital sits—and little old Bitcoin, that's 0.2% of global asset value. There's still tremendous opportunity to help facilitate the flow of capital to Bitcoin.
+
+**Jesse Myers:**
+[15:36] Regulatory environment supporting the rise of Bitcoin TCs
+
+And I think that's true everywhere for different reasons, right? Like in Japan, they have a tax advantage—preferential tax treatment for corporate owners of Bitcoin versus individuals. In the UK, we don't have that advantage, but we have a different one. The big one is that retirement account capital hasn't had access to Bitcoin. The FCA—the SEC equivalent in the UK—hasn't authorized Bitcoin ETFs. They are now, next month, greenlighting Bitcoin ETNs, which are just shy of an ETF—which is also great news for UK investors, good news for Bitcoin, and also good news, we think, for Smarter Web.
+
+Because when that happened in the US 18 months ago with the Bitcoin ETFs, everybody thought there would be no reason to invest in MicroStrategy anymore. And yet, over the last 18 months, I think one of the big winners has been MicroStrategy—because of the increased regulatory clarity that it's okay to own Bitcoin, you can include Bitcoin in your portfolios, more interest coming into Bitcoin generally. It's kind of like a rising tide lifts all boats—at least in these early days, right, before the world is hyper-Bitcoinized.
+
+**Stephan Livera:**
+[17:02] Absolutely.
+
+**Jesse Myers:**
+[17:07] And the final point there—the other thing that I think people miss—my view is that there's going to be a leading Bitcoin treasury company in every capital market in the world. And it's going to be like a winner-takes-most situation. There's going to be room for others, but there's going to be a big leader—like Strategy in the US, like MetaPlanet in Japan.
+
+And the reason—part of the reason for that—is there are a lot of investors and funds and structural things that are plugged into every particular capital market that have mandates of like, "You can only invest in local equities or offerings." And there's a ton of capital where that's a requirement—a lot of pension capital in particular.
+
+So I think that creates a structural reason why there's going to be a winner in every capital market that's plugged into that local regulatory framework.
+
+**Stephan Livera:**
+[18:06] Yeah. And I think it makes sense as well, just even thinking about the friction aspect of it, right? Like, a lot of this is a concept just even outside of Bitcoin—just in normie fiat finance, they call it home country bias, right? Like, people just, you know, whatever—if they're browsing the stock app on their phone, chances are it's going to list their local equities, right? Just obvious for obvious reasons. And it's going to list local products.
+
+I'm with you there. I think there is definitely—or as Brian Brookshire has mentioned—this kind of "hometown hero" factor. And I think that makes sense to me.
+
+But I'm curious your view here, because maybe there's also an argument—or maybe there's different ways to slice and dice it, right? Because in one form of this analysis, it could apply globally too, right? Like, there's an advantage to being Strategy—obviously like the big, you know, 600-pound gorilla in the room with the 600,000 coins or whatever it is right now. And so maybe there's like a winner-takes-most at the global scale, and then there's also a winner-takes-most in each jurisdiction, or at least the jurisdictions with a big capital market. What do you think?
+
+**Jesse Myers:**
+[19:11] Yeah, absolutely. So, a few months ago, I kind of made myself go through the analysis of like, how real is this Bitcoin Treasury, you know, fad, right?
+
+[19:19] How real is the Bitcoin Treasury fad?; Building Capital markets on Bitcoin
+
+Is it a fad? What are—how big can this be? It was really the question I wanted to ask myself. And so I kind of went through the management consulting approach to how you would answer this question, which comes from my background—four years doing that.
+
+And I kind of surprised myself when I thought through the logic of it. And the end result—and this is finger in the air really, so we'll see how it turns out—but I can see a world where it's possible. And this is a bit uncomfortable, really: it's possible that Bitcoin treasury companies accumulate half of all Bitcoin over the next 20 years.
+
+And when I stepped through the logic of that, that's what felt possible. You know, maybe it's half of that, but it still would be the biggest story in global finance over the next two decades.
+
+And to quantify that a little bit: using Saylor's numbers of $13 million a coin in 20 years, which are built off of some of my numbers, which is very cool—that amounts to Bitcoin being a $280 trillion asset class in 20 years. And if Bitcoin treasury companies accumulate half of that, that's $140 trillion. I think that Strategy would own—let's say—half of that. So $70 trillion dollars of Bitcoin in one entity.
+
+**Stephan Livera:**
+[21:02] And that would make Strategy the most valuable company in the history of the world by a huge margin.
+
+**Jesse Myers:**
+[21:08] But it would also mean that the rest of the Bitcoin treasury company landscape all over the world would be the big story in global finance for the next two decades—the thing that nobody saw coming. In the same way that, back in the day, nobody saw private equity coming. Nobody saw leveraged buyouts coming. Nobody saw venture capital as a viable industry in finance 40 years ago.
+
+And the last 16 years, nobody saw Bitcoin coming, and it's been the big story. Digital value, digital capital has been the big story over the last 16 years. And I think going forward, because of the incentives at play and the economic motives of a public company—and the access to capital-raising tools that a public company has that individuals don't have—I can see a world where these entities are the main conduit of value flowing from the fixed income market in particular into Bitcoin.
+
+And the way it looks is, you know, like Strategy today. They have set up all their preferred equity instruments which are targeting different slices of the fixed income market. And now the money market with STRK. And they're going to keep coming up with new products to target more subsets of those pools of capital.
+
+And then I think that can happen in every capital market in the world for the local dynamics—the same story playing out locally all over the world. What that amounts to is: who's going to be the buyer for Bitcoin 10 plus years from now, 20 years from now, when Bitcoin is $5 million a coin, right?
+
+And I think the big buyer is going to be Strategy, and then other Bitcoin treasury companies who have unlocked the next trillion dollars in the fixed income market. There's over $300 trillion in fixed income getting risk-adjusted mid single-digit returns at best. And in real terms, losing value, I think, if true inflation is 7-8% and you're holding a 10-year US Treasury bill getting 4.5%, you're destroying 2.5% every year just holding that in real purchasing power.
+
+And so I think there's going to be an exodus of value, as always, seeking greener pastures. I think Bitcoin is the thing that fixed income capital is really looking for. But a lot of it—it's a tall order to ask a bond portfolio manager to say, "You know what, I'm going to sell these bonds and I'm going to buy Bitcoin." That's outside of their mandate. That's not really possible.
+
+**Stephan Livera:**
+[24:18] But what's possible is for Strategy to come to that portfolio manager and say, "We'll give you 10% a year with our extremely over-collateralized balance sheet. And you just give us the capital and then we'll go buy Bitcoin with it, and we'll make 29% CAGR over the next 20 years. So we're splitting the upside with you—you get 10% of it, we get the rest."
+
+**Jesse Myers:**
+[24:42] And that's an irresistible value proposition. If you're accustomed to getting 4.5% and somebody comes along and offers you 10%, and it's just as low risk, if not lower risk because of how over-collateralized Strategy's balance sheet is, in my opinion—and that story is just going to play out in the US and everywhere over the next 20 years.
+
+And we're going to see the fixed income market deflate relative to other asset buckets, and Bitcoin is going to massively inflate relative to other asset buckets. And I think what's happening is that Strategy is the piping, the plumbing, that's facilitating this flow of capital—pumping capital out of fixed income, out of the money market, out of equity markets where everything's a bit overvalued, into Bitcoin.
+
+And that's what the leading Bitcoin treasury company in every capital market in the world will also be doing.
+
+**Stephan Livera:**
+[25:45] I see. Yeah. And I agree with you. I think the way I'm understanding that—and Michael has explained this on various podcasts and talks—but it's like the idea that not everyone wants just straight oil. They need it packaged in the right format, right? And that's kind of the analogy of: not everybody can or will just buy straight Bitcoin. And there are people who want sort of higher voltage or higher octane forms of it, and weaker forms of it, let's say.
+
+And so that's this analogy of structuring different products to allow—
+
+**Jesse Myers:**
+[26:22] Yeah, he's got that great oil—he thinks Strategy is an oil refinery, and it's refining crude oil into all sorts of financial products that various buyers want, right? And that's good. I like that. I just find it more visual to think of it as capital being pumped from one bucket to another. But yeah, obviously he's the GOAT in terms of his analogies and engineering metaphors.
+
+**Stephan Livera:**
+[26:51] And one other kind of point—I'm interested to hear your reaction.
+
+[26:53] Sponsors
+
+So, this episode is brought to you by Coinkite, the makers of my favorite Bitcoin hardware wallet, the Coldcard Q. Now, some people think self-custody is too hard, but it's really about taking responsibility for your Bitcoin wealth and understanding that self-custody gives you a true feeling of liberty.
+
+The Coldcard Q has a full keyboard and big screen. It's got two secure elements and a true air gap, allowing you to go fully air-gapped using QR codes from seed generation to transaction signing. You can power the device using three AAA batteries, so you don't even have to plug it into the wall for power. You can easily use it with Sparrow Wallet for PC or Nunchuk on mobile, and you can dial it in to the right level of security and complexity that you choose.
+
+If you want a simple setup, just use 12 words and single signature. If you want passphrases, easy. If you want to add multisig or co-signing features, you've got those, too. So go to coinkite.com, use code LIVERA to get 10% off on your Coldcard or other devices and level up your self-custody today.
+
+[27:43] When we talk about this idea of winner-takes-most, or let's say it's kind of like maybe top three in each market or something like that, right—like they're going to get most of the gains—the funny thing might be that even if you're not in that top three, just doing the strategy, like at least having a lot of Bitcoin on your balance sheet, and even if you are, let's say, in that hypothetical where you're borrowing at 8 to 10% and Bitcoin is CAGRing whatever, 40%—and you know I'm a fan of power law—but let's say it's at 40% per year now and it's kind of coming down on average over the next 10 years, it's going to be 30%.
+
+It's going to make sense for a lot of people to do this play. And it might be that a lot of people do that play and maybe they don't even end up in the top three, but they still end up big in fiat terms, or kind of growing, or kind of entering the index in their local home market just because they were holding all this Bitcoin and Bitcoin was going up so much.
+
+**Jesse Myers:**
+[28:42] Yeah, absolutely agree. I mean, the best thing that any company can do for its shareholders is accumulate Bitcoin, because it's the only asset out there that's going to grow at 30% a year. And companies don't grow at 30% a year—not in a sustained way.
+
+**Stephan Livera:**
+[29:00] Yeah. But I guess the other—if I had to steelman, like if we had the steelman—
+
+[29:03] Why choose BTCTC over spot Bitcoin?
+
+I could imagine maybe one could be, "Well, Jesse and Stephan, even to myself," they could say, "Look, why can't this individual investor—why can't they just go out and take debt to buy Bitcoin themselves instead of buying your company, because maybe the MNAV is too high, right? At times in the cycle, maybe MNAVs have gotten kind of a bit too hyped." How can the premium be justified? I think that's probably that would be more of an intelligent steelman argument against this view, right? How would you respond?
+
+**Jesse Myers:**
+[29:38] Yeah. Okay. Yeah. Let's unpack. So, we'll address like, why can't you as an individual—how is it different—do this strategy as an individual?
+
+I guess the simple answer is: there are simply more capital market tools available to a public company that simply aren't available to an individual. A public company can go out and raise $100 million at, you know, 6% interest rates or something like that.
+
+**Stephan Livera:**
+[30:06] And I, as an individual, would love to do that. If I could get a five-year dated $100 million and have to pay that kind of, you know, service that debt, I would do that. But nobody's—I'm not creditworthy enough to do that as an individual, right? But a public company can be.
+
+**Jesse Myers:**
+[30:26] On top of that, the bread and butter for MetaPlanet over the last 18 months was to use their ATM facility, right? They're using stock warrants to raise capital just by selling directly into the market—selling shares directly into the market. Which is basically taking advantage of the liquidity and volume traded for your stock as a source of capital raising.
+
+And that's like the most important source of capital raising, specifically because it scales linearly with volume traded or stock price, right? So it's easy to raise $10 million; it's harder to raise a billion dollars. But if you're scaling linearly, that ATM facility can do that, depending on how valuable you are and how much volume is being traded.
+
+And then on top of all that, there's the volatility of your stock, which is valuable. There's option value to the volatility of a stock, and that can be used to help raise money.
+
+That's part of our Smarter Convert, which is our Bitcoin-denominated convertible note instrument. Which, as far as I'm aware, actually is the lowest-risk way to outperform Bitcoin, because investors keep holding Bitcoin and they simply are purchasing an option to convert into Smarter Web shares if Smarter Web significantly outperforms Bitcoin.
+
+And so that's kind of a win-win, right? As an investor, you're still holding Bitcoin until you decide to convert into shares. And that's all based on option value, right? And that's something that a stock has that an individual doesn't have.
+
+So those are some of the reasons why a public company can do this in a way that an individual just can't. And of course, probably the simplest explanation is: Smarter Web can, depending on the structure of the instrument, raise at 0% interest rates—and an individual can't, right? An individual can only dream at that level.
+
+**Stephan Livera:**
+[32:52] Yeah. Can raise at 12%, maybe 20%, depending on the type of debt they're taking. And that becomes harder to service. And also, if Bitcoin is growing at 29% a year, but you're raising at 20%, it doesn't—it stops making that much sense, right? It's not as much of a premium, let's say.
+
+Now, on the convertible note question, let's talk a little bit about that. So, as I'm understanding, what some of these treasury companies are doing—and I'm not as familiar on the details for your specific case—but as I understand, some of these treasury companies, at least historically, have gone out and asked, "Okay, are there arb desks who want to lend us money at very low rates, like zero or 1% or something like this?" But also embedded is some kind of option at a certain premium above the current equity price.
+
+So it is 0% debt, but there's also a bit of dilution built in if the stock price were to go whatever—40% above or 50% above—or whatever that rate is set at. So can you talk us through a little bit how you're viewing that?
+
+Because as I understand it, Michael Saylor and Strategy are sort of moving away from that. Like, they want to move away from the convertible debt because they see preferred shares as the path—that's the future. But you could also argue that maybe it's a lifecycle thing. Like, maybe some of the younger, smaller treasury companies, maybe it makes sense for them to do convertible debt, but maybe not for the larger ones. Or here's the other one: maybe it's just more like what are the terms you're being offered, right? Like, maybe just at the bull hype season of treasury companies, there's more people offering this kind of deal, and maybe right now maybe not as many. How do you summarize it?
+
+**Jesse Myers:**
+[34:42] BTC-denominated convertible notes
+
+Yeah, you got most of it right there. And so I'll add a bit more, and then we should get back to what commands an MNAV premium—like, why is that deserved—because that's a really fun topic we can get into.
+
+But you're right. So, when I'm talking about our Smarter Convert convertible notes, these are Bitcoin-denominated convertible notes, and they're quite different from fiat-denominated convertible notes.
+
+This is the world where Bitcoin treasury companies get offered a lot of these deals because they are very attractive to hedge funds who are going to engage in what's called a convertible arbitrage. So, in particular, if you're offered like a 6% coupon convertible note, what's really happening there is the investor wants to give you the money, and then they want to short your stock in order to hedge out their risk—because they have the option value if the stock does well, where they can convert into equity.
+
+So they have like long exposure, and they have the coupon, you know, 6%, that they're going to collect.
+
+**Stephan Livera:**
+[36:03] And then all they need to do is short your stock in order to hedge out that long exposure. So now all they have is risk-free 6%.
+
+**Jesse Myers:**
+[36:10] Right. And that's what hedge funds want. That's, you know, most of these deals are really about trying to get that. Or it's structured in a different way where it's like 0%, and then they have an incredibly large kicker in for an upside scenario where they get, you know, 10% of the company. I've seen stuff like that snuck into proposals where it's like, "This is not a serious deal." But some people are desperate and they'll take it.
+
+So, you know, that's what's going on with a lot of these fiat convertible notes. And yeah, you're right that the bigger you are, the more creditworthy you are, the more legit the offers become.
+
+But still, what Strategy has moved away from are any of these. They started out with fiat convertible notes and they still have some on their balance sheet, but Saylor is not a fan of them, and he actively advises against them now.
+
+And I think it's for the reasons we've talked about, and also the reality that these are debt holders that have a lot of power. They are thorns in your side for years. And as debt holders, they have some seniority over equity holders, and they can be obstinate and obstructionist—a real pain in your butt. And Saylor has had to deal with that, I think.
+
+And I think that's been part of why—that plus the fact that these things mature and you then have to pay them back in some big event of scraping together the capital and paying back this thing. For those reasons, he came up with the preferred equity model of perpetual duration, where you never have to have the event of paying these things back. And they're equity instruments, so they aren't debt and they don't sit senior on the balance sheet, and they don't have all these traditional debt covenants that allow them to be a thorn in your side.
+
+So Saylor basically created a solution for all of the headaches that have come from the fiat convertible debt instruments that they've engaged in. But those are IPOs. Like, those are expensive things to do, and you need to have a certain creditworthiness—really meaning a certain size of pristine Bitcoin balance sheet—in order to go down that path.
+
+So our view at Smarter Web is: there are lifecycle stages that a Bitcoin treasury company has to progress through. You have to start small, in our view, with the sort of MetaPlanet approach. Start small, raise capital with private placements, generate excitement, get to a certain scale where you can launch an ATM facility because you have enough liquidity in your stock, you have enough excitement.
+
+**Stephan Livera:**
+[39:16] You know, do that plus other fundraising sources for however long it takes to get to 10, 20, maybe more thousand Bitcoin on your balance sheet, the way that MetaPlanet has. And then graduate into sort of these preferred equity instruments and evolve into something more like Strategy is today.
+
+**Jesse Myers:**
+[39:44] And so, you know, they're pretty discrete phases of growth that you have to get through, I think, in order to get to that place that everybody wants to be at. Everybody wants to be Strategy, but you have to grow to that place with a pristine balance sheet—and have that balance sheet be large enough that it makes sense to offer these preferred equity instruments because you're creditworthy enough that you can offer only 10% instead of having to offer 20%, in order to entice investors on the other side.
+
+**Stephan Livera:**
+[40:12] Gotcha. Yeah. I think that makes sense. Let's get to the MNAV question because I think this is a big one that a lot of people criticize. I'll say, "Well, hey, why should you—as an example, if the MNAV is two, why pay $2 for $1 of Bitcoin?" Right? Like, that's probably the standard form of the argument that we have heard many times.
+
+I believe some level of premium is justified, but really the real debate is how much premium is justifiable. And the way I'm understanding it is: maybe when you're a smaller, younger Bitcoin treasury company, you can justify a higher MNAV because you're growing so quickly—because of the law of large numbers or because of diminishing returns. But as you get bigger, once you get to Strategy size, it just becomes harder and harder to sort of escape that gravity of 1 MNAV. But I think the real—maybe the long run—is it kind of settles a bit above one, but it just kind of depends on various factors.
+
+[41:10] What justifies the mNAV premium of BTCTCs?; mNAV & BTC Yield
+
+How are you seeing this question? What is a justifiable premium for these Bitcoin treasury companies?
+
+**Jesse Myers:**
+[41:15] Yeah, this has sort of become my favorite topic because I think there's so many misconceptions here. And, you know, obviously I've been living in this, trying to understand it. And I think it makes sense to me.
+
+And we were just in New York last week for the Bitcoin Unconference, and had a bunch of meetings with Wall Street investors. And they're all missing it. Yeah, everybody's focused on MNAV and basing their perception of something as being overvalued or undervalued just on MNAV—which I think misses the real point, the bigger picture.
+
+So yet again, Bitcoin Twitter investors, I think, are ahead of institutional allocators, ahead of Wall Street, in understanding a very important new part of Bitcoin—Bitcoin treasury companies and how to value them. So it's kind of awesome that that's the case.
+
+**Stephan Livera:**
+[42:22] It's a little surprising that Wall Street seems to be kind of lost in terms of understanding like, why would something trade at a premium? And yet it's pretty simple math.
+
+**Jesse Myers:**
+[42:29] So the way I see it is that there are two things that matter for valuing a Bitcoin treasury company. It is the MNAV, and the expectation of future Bitcoin yield delivered. So those two things are the variables that weigh heavily and should be treated rather equally.
+
+**Stephan Livera:**
+[42:54] Gotcha. And let's just quickly explain the terms, just in case anybody's not familiar. So what is MNAV, and what is Bitcoin yield?
+
+**Jesse Myers:**
+[43:02] Yeah. So MNAV is your multiple to NAV. And that means—for a Bitcoin treasury company—that ends up meaning your Bitcoin holdings minus debt, as your NAV. And then your market cap divided by that is your MNAV multiple.
+
+So, right, just a silly example: let's say you've got $100 million of Bitcoin and no debt, and your market cap of the company is $200 million. It's simple: 2x MNAV, right?
+
+**Stephan Livera:**
+[43:36] That's right. But then I guess there's also other complications, like things like diluted MNAV—basically assuming full dilution based on some other instruments, full conversion, and this kind of thing.
+
+**Jesse Myers:**
+[43:48] Yeah, exactly. And then the other variable—Bitcoin yield—is the growth of Bitcoin per share over time. That's also accounting for the dilution, right? Like, the point is: you're only counting Bitcoin yield if it's accretive. That's the whole point of "accretive"—accretive is accretive, right?
+
+**Stephan Livera:**
+[44:09] Yeah.
+
+**Jesse Myers:**
+[44:15] And just some quick math, because this is a weird concept too—but how is it accretive? So if you're trading at, let's say, a 5x MNAV, which would be a high but not crazy MNAV—and you issue 10% more equity, so 10% dilution right there—but that 10% dilution, those funds are used to buy Bitcoin. You just increased your NAV by 50%.
+
+So you had 10% dilution but 50% growth of your NAV, and that nets out to a 36% growth in Bitcoin per share—after you balance out the dilution plus the growth of NAV. So that's what you're hoping for. That's what you're looking to do with this model: grow your Bitcoin per share over time. That is what Saylor has defined as Bitcoin yield.
+
+And that's what's possible through these, you know—it's financial engineering using fiat capital market tools and arbitraging fiat to Bitcoin.
+
+**Stephan Livera:**
+[45:20] And that's the most important thing really.
+
+**Jesse Myers:**
+[45:27] So, you know, people think—on Wall Street, they seem to think that they're buying a commodity. They're purchasing the Bitcoin on the balance sheet. But they're forgetting about the reality that these are productive assets—in an unexpected way, right?
+
+**Stephan Livera:**
+[45:38] Like a Bitcoin treasury—productive in our sense means they can accumulate Bitcoin. Not in the "they are building widgets" sense, right? This is not real-world productivity. This is Bitcoin ownership productivity, right?
+
+**Jesse Myers:**
+[45:51] You're—the point is you're purchasing a vehicle that has the machinery in place, and the intention and the goal of growing Bitcoin per share, so you can compound your Bitcoin ownership over time through that vehicle.
+
+And how do you value a productive asset? It's the price versus the amount of productivity into the future. Those are the two things that matter, right? And that's MNAV. The premium that you're paying is your price, and the future productivity is what you have to account for.
+
+We put out—so, Smarter Web put out a research piece on this a few months ago introducing a new metric to try to unify these two things, called the P/BYD ratio.
+
+[46:36] The P-BYD ratio is the P/E ratio for Bitcoin treasury companies
+
+And the idea here is to combine everything you need to see—meaning MNAV and Bitcoin yield—to value these companies amongst themselves, but also, more importantly, I think, against traditional equities.
+
+So, in the traditional equity world, we have the P/E ratio, right? Price to earnings ratio. And really what that is returning is a number of years it will take for future earnings to equal the premium you're paying today for that stock, right? So that's 20, 30, 40, 53 for NVIDIA as of two months ago. And that's what people are accustomed to paying for equity exposure.
+
+Now, if you were to do the equivalent for a Bitcoin Treasury Company—which I think we think is the P/BYD ratio, which gets a little complicated actually because there's log terms to account for—but the net of it is: how many years will it take for the most recent rate of Bitcoin yield, continued into the future, to grow into your MNAV premium? Meaning, how many years to payback—and then anything beyond that becomes Bitcoin gained for the investor.
+
+And when you look at the numbers for Strategy, for MetaPlanet, for Smarter Web—Strategy is like under two years. In 2025 year-to-date, as of now, they've delivered plus 26% Bitcoin yield. And so if you extrapolate that into the future based on their MNAV, which is now down to like 1.5 I think—so it's actually about a year for them now.
+
+**Stephan Livera:**
+[48:42] So they're—as opposed to a 20, 30, 40 P/E ratio, they're a one.
+
+**Jesse Myers:**
+[48:50] So there's—if you view it that way, which I think is the right way to view it—there's incredible value in a well-run Bitcoin treasury company in the global equities landscape because of how quickly payback is achieved.
+
+And for smaller Bitcoin treasury companies, they're able to deliver more yield faster because, you know, law of large numbers—they have a smaller base that they're starting from. It's easy to add more Bitcoin. They're able to achieve more Bitcoin yield. And so, I haven't actually run the numbers for MetaPlanet recently, but I think there's something like a quarter of a year, maybe a half a year, to return their MNAV. And Smarter Web is the same right now.
+
+So when you look at the global equities landscape—where is the value? I think it might be—right now I think the sector that might be the most undervalued in the world is a well-run Bitcoin treasury company.
+
+**Stephan Livera:**
+[49:49] Yeah, as you said, I think that is a good explanation of why there's kind of this justifiable premium in many cases. Kind of, what's underlying that? Well, it's access to the fiat printer, right? There's some reason that they have cheap access to capital, or things like index inclusion that allow them to access this capital, that then allows them to turn around and turn that into BTC yield. Which, in turn, in your metric, you're calling it P/BYD ratio. What was it?
+
+**Jesse Myers:**
+[50:17] Yeah. Price to Bitcoin Yield Delivered.
+
+**Stephan Livera:**
+[50:23] Gotcha.
+
+**Jesse Myers:**
+[50:23] It's basically the log of your MNAV over the number of periods in a year, times log of your Bitcoin yield delivered in the most recent period. So it normalizes to the year based on—you can do it over a month, over a quarter, over six months, or a year—and it'll all normalize to an output in number of years, right?
+
+**Stephan Livera:**
+[50:44] And then that is the number of years, as you're saying, to grow into their current premium to MNAV, let's say.
+
+**Jesse Myers:**
+[50:50] Yes. Right. And that's payback, right? That's payback, return on investment. And then anything beyond that is gain—is Bitcoin gained, in this case.
+
+And so, yeah. So you could think of it like—I guess as an example, if a Bitcoin treasury company is stacking and, you know, whatever, it's one year—then it's kind of like, after one year, you're now in profit in Bitcoin terms, loosely speaking.
+
+**Stephan Livera:**
+[51:21] And like, if you go to business school and you sit through finance classes, you get accustomed to hearing about projects that are—you know, we talk about payback period, right? "It's going to be three years for this project to start making us money," or whatever.
+
+**Jesse Myers:**
+[51:34] Oh yeah. Yeah. And that's pretty normal. And so these Bitcoin treasury companies offer outstanding value—the ones that have what it takes to continue delivering yields into the future, which is a surprisingly small number, because not many of the purported Bitcoin treasury companies have actually built a track record of delivering yield. A lot of them are only just starting and haven't built that track record.
+
+**Stephan Livera:**
+[52:06] So, yeah. So when you say some of them are falling down, then—is it a thing around—
+
+[52:10] What are the challenges in delivering a high Bitcoin yield?
+
+Is it around, as you said, not consistently delivering? Is it the wrong structure? Is it—I don't know—they lost all the retail interest and they kind of lost the flywheel, per se? Like, what are the main—or maybe they took on bad debt terms. What do you see as the common reasons that they don't achieve that Bitcoin yield?
+
+**Jesse Myers:**
+[52:37] Yeah. I think it's kind of all of what you mentioned, and really any misstep can screw it up, right? I think, unfortunately, a lot of these are structured from the beginning in a way that makes it hard to execute.
+
+And I think, broadly, people have undervalued the importance of retail investors in the success of this model. You need to start from your retail investor base and treat them with respect—do right by them and get them excited. Like, they need to have an investment case that gets them excited so that they invest and give you the premium that you need to run the playbook, right?
+
+And then they are the number one promoters of what you're doing, to let other people know. And so I think Smarter Web has the third-largest Bitcoin Twitter Bitcoin treasury company community—approaching 400 people there—which is, you know, number one is Strategy, number two is MetaPlanet, and number three is us.
+
+And I think that's, you know, obviously that's a metric that's downstream of everything else—it's a secondary thing. But I think it's an indicator of having the right fit, the right excitement, the right communication cadence, the right everything to get retail investor interest in your company.
+
+And I think that's like the number one place where people go wrong: by not focusing on developing that. And there are all the other things that you can do to screw it up too. If you take the wrong deal and people lose confidence in your strategy going forward, and they bail—then you lose your MNAV and you lose the ability to keep running the playbook.
+
+So it all matters, ultimately. And I think we're finding out that there's been a lot of experimentation and a lot of attempts at shortcuts.
+
+**Stephan Livera:**
+[55:06] I think we're finding out that you have to still do everything. You have to not only execute, but communicate well with your investors. Spotlight the success that you—the metrics that you've been delivering on. And also, you know, treat your investors with respect and get them excited, right?
+
+**Jesse Myers:**
+[55:25] Ultimately, this is about generating excitement for the machinery that you've built and put in place to try to deliver Bitcoin yield into the future.
+
+**Stephan Livera:**
+[55:37] I see. Now I think, kind of tying back to what we were saying earlier about maybe some of the PIPE deals that have gone on with treasury companies, where maybe the price had fallen quite a lot from that level—because, you know, hypothetically, some of the big boys who got in on the PIPE deal, their unlock happened and they sold and dumped, and kind of all the quote-unquote "retail bag holders" got wrecked kind of thing.
+
+So, but at the same time, like what you're saying—retail, it matters having them, at least for a young treasury company. Maybe you could argue once you're bigger, it's maybe, you know, it's a different story—that you have institutional capital and other forms of capital that you can tap.
+
+But it's an interesting dynamic, because some of the criticisms of these treasury companies has been that, yeah, look, it's like greedy insiders kind of pumping up a company and then kind of exit liquidity onto unsuspecting retail, just like the shitcoin ICO days. Right? So that's maybe the criticism that we've seen of some treasury companies.
+
+So how do you sort of thread the right needle there—of having retail involved but it not being quote-unquote "extractive" of them, or kind of dumping on them at an overhyped price?
+
+**Jesse Myers:**
+[56:48] The role of retail investors in Bitcoin TCs
+
+Yeah, it's a great question, because I think we're going to learn a lot more collectively as an industry about the ways in which you can do it—the ways in which it works.
+
+Smarter Web—so, Smarter Web was founded by Andrew Webley, who's born and raised Brit from Bristol. Loved MicroStrategy and what was happening in the US. Wanted that in the UK, didn't see it for years, kept looking for years. Eventually said, "Okay, I will take my small private company public, and I will do this strategy in the UK for UK investors like me." Right?
+
+And so from the beginning, he's had a mindset of like: this is for retail. Like, "I'm doing this for UK retail investors like me, and I want them to have a fair shake, and I want to not offer discounts to institutional investors." And this is about having a vehicle that can do for UK investors what Strategy, as a public company, is able to do for US investors.
+
+And that mindset has kind of guided Smarter Web's approach to the entire market, and especially to how to interface with retail investors. And it's worked well. I think that Andrew's message and entire ethos resonates a ton with retail investors, especially in the UK—because he's one of them. And his integrity and authenticity about like, "This is really for us"—shines through.
+
+And I think that's—it's intangible, right? It's hard to value that, but it has clearly worked—because he really means it. And we haven't taken discounts. We haven't done deals at a discount for institutional investors.
+
+And so there's been a lot of wealth generated for Smarter Web retail investors over our five-month history. And we want to keep doing that for our investors. And I think that is what people understand, and they can sense it. And they want to invest in a mission like that and believe in leaders like that. And so that model has worked.
+
+I think that's, frankly, a bit more articulated version of "retail first" than MetaPlanet ever had. They just sort of organically happened, I think, for them. And it's been a priority for our version in the UK and has seemed to resonate very well.
+
+**Stephan Livera:**
+[59:54] I see. Yeah. One other topic—because obviously this one is very topical—it's in the news: M&A.
+
+[60:02] Is M&A the way forward for Bitcoin TCs with mNAV below 1?
+
+Now, many people have spoken about this concept of, "Okay, what happens when some of these treasury companies are below 1x MNAV? Is there going to be M&A action?" Or just in general, will there be M&A action amongst these Bitcoin treasury companies?
+
+And we've seen arguably the first big example with this Strive acquisition of Semler Scientific. Now, I know you probably haven't like dived deep into it, but I'm just curious if you have any broad thoughts. What does that mean? What is your reaction on that? And do you think it was early for this to happen? Like, were you expecting it to happen so soon?
+
+**Jesse Myers:**
+[60:39] Yeah, a little earlier than I would have guessed. If you had forced me to guess who would be the first company to make an acquisition like this, I would have guessed Strive. I think it's sort of in their DNA to be creative here and find discounts. And it's in their wheelhouse, you know, as capital markets veterans with Matt Cole and Vivek running it. But definitely sooner than I expected.
+
+I think this will happen. This will continue to happen. I think people aren't broadly aware that, like, if you think about a Bitcoin treasury company that is not generating yield, right—so if your flywheel stops—where should you trade in terms of your MNAV? The reality is you should trade under 1x MNAV, because unless you have an operating business that covers the expenses for the entire operation—if you don't have that, then basically you're going to have to cover your costs by selling Bitcoin, right? And that's a drag on the value proposition and the ownership value of a slice of that Bitcoin.
+
+**Stephan Livera:**
+[62:00] Or, modulo if they do have an operational company like Semler does, or did, let's say.
+
+**Jesse Myers:**
+[62:05] Yeah. Right. And that's where, you know, maybe there was a mispricing here—like, if they were going to be just fine covering their costs with their operating business. It is kind of strange if you trade under a 1x MNAV.
+
+**Stephan Livera:**
+[62:19] But I think—I guess one other point on that, and I'm curious to get your reaction here. The reason I'm jumping in here—is it that some investors are having trouble kind of disaggregating the operational business from the Bitcoin financial engineering side of it, and that's why the MNAV numbers can—I guess it just depends how you count MNAV?
+
+**Jesse Myers:**
+[62:37] Yeah. Yeah. We think about this a fair bit. And of course we're biased about Smarter Web, but we think that it clearly is a detriment if you don't have a cash-flowing, profitable operating business at all. Like, if you have none of that, that's a problem—because it's a drag on your treasury in the event that you stop generating new fundraising.
+
+But you can also be, I think, too large of an operating business—where, you know, how do you allocate capital? Where is management attention being spent? I think there's a sweet spot where you want an operating business that can cover expenses, but that's it, right? And hopefully that's small relative to your Bitcoin treasury, so that the focus is really on the Bitcoin treasury.
+
+And that's the case with Smarter Web. I'm actually less familiar with the scale of Semler's operating business relative to their Bitcoin treasury, but I know that it's bigger—significantly bigger—than Smarter Web.
+
+**Stephan Livera:**
+[63:50] You probably agree that as you get bigger—like, take the example of Strategy, right? They've got over $70 billion of Bitcoin. I don't know how much their operating—you know, the software side of MicroStrategy's business—what that's earning. Is it like $100 million a year? I mean, that's obviously immaterial when their balance sheet is well over $70 billion.
+
+So maybe there's a point at which it kind of doesn't matter—like, your Bitcoin balance sheet is so large that, unless you have like some phenomenal operating business, it's just going to be a small fraction of your balance sheet.
+
+**Jesse Myers:**
+[64:25] That's right. And when Strategy started this, I think their market cap was like a billion dollars. So let's assume the operating business is still worth a billion dollars. That's a tiny fraction compared to $70 billion.
+
+But it did help them in 2022, when, you know, in the bear market, under 1x MNAV, and everybody—and there was a swirling narrative of like, "Saylor's going to capitulate, and they're going to have to sell coins, they're going to get margin called," or whatever. But they didn't. And they didn't have to do anything because they were still running a profitable operating business. And I think that helped their narrative and helped them find the floor.
+
+So, you know, it mattered then. It probably doesn't matter now anymore. Like, they've made it through a full cycle. It's like, once you get through that gauntlet, now you're big enough and you can get away without it. I don't know. It's, I guess, a debatable point, but yeah.
+
+**Stephan Livera:**
+[65:18] Go on.
+
+**Jesse Myers:**
+[65:25] Yeah. Back to M&A in the space and where you see that—like, do you see more opportunities? Like, I think probably both of us agree that we're going to see more of this kind of thing, especially in a case where a company's below 1x MNAV, but we could see it in other scenarios too, right?
+
+**Stephan Livera:**
+[65:36] Yeah.
+
+**Jesse Myers:**
+[65:42] That's right. I think we're definitely going to see more of this. We've sort of talked about like, it's hard to get to scale, right? It's hard to get a flywheel going and keep it going and get to a certain scale—call it 2,100 Bitcoin, 1% of 1% of all Bitcoin—and keep going from there.
+
+And so most Bitcoin treasury companies won't make it there, right? And de-risk enough that they have a high probability of keeping their flywheel going. So most flywheels will stop. Most will end up, because of that, with investors selling to get out and taking a loss and driving the MNAV under 1x. And then they become targets, right? They become opportunities for the right buyer to do a deal.
+
+And it's going to look like Strive. There are going to be other creative ways to structure deals like this. We're going to see a lot of consolidation just based on these things becoming targets if they don't work. The mechanics cause them to trade under 1x MNAV, and then that's an opportunity for somebody else.
+
+**Stephan Livera:**
+[66:49] However—and I guess, go on.
+
+**Jesse Myers:**
+[66:56] However, I think one of the things that retail investors aren't really aware of is: it's really messy to do M&A. Like, it's a whole can of worms. And even if on paper, like, "Oh, one company's trading at 0.7x MNAV"—like, that's buying Bitcoin at 70% of the current price, right? That's a great deal.
+
+But it can come with—you're acquiring the whole balance sheet. You're acquiring potentially an entire mess. And you're acquiring a shareholder base that may not have the same outlook as you. Maybe they're coming from a different industry as you, originally. You're also inheriting the infrastructure of the business, the personnel, the management team, the personalities.
+
+**Stephan Livera:**
+[67:42] And all of this comes with a lot of legal work to sort out, and a lot of time. It can pause things for six months to do a deal like that, and that can hurt the acquiring Bitcoin treasury company because they are less able to do things for 6 months—and that's an age in this landscape.
+
+**Jesse Myers:**
+[68:08] So I think there are more reasons why it doesn't make sense to do a deal than many retail investors are currently thinking. However, there will be lots of deals because there are opportunities with this, and there are probably ways to structure it creatively to get rid of a lot of that downside.
+
+**Stephan Livera:**
+[68:24] Yeah, interesting. I think maybe the other surprise factor here—let me put it this way—it could be that part of what made this happen, the Semler and Strive deal, is because both companies and both sets of leadership were very kind of aligned on kind of the Bitcoin maxi vision. And if that were not the case, it might not have been so easy to get everything aligned to make this deal happen.
+
+And maybe we'll see what happens in the future, in the next few years, with all the treasury companies and M&A activity. It depends on how aligned they are on some of these things.
+
+**Jesse Myers:**
+[69:00] But yeah, I guess it's an open question, and we'll just sort of have to see what happens there.
+
+**Stephan Livera:**
+[69:06] So I guess any other closing thoughts on Bitcoin Treasury Companies, MNAV, justifying a premium, or anything else you want to close out with?
+
+[69:12] How will TCs mature over time?
+
+**Jesse Myers:**
+[69:17] Yeah, I guess just sort of in closing thoughts, I mean, I think that, first of all, it's very interesting that many, many, many Bitcoiners are extremely skeptical of this space. And I think that's because people have seen enough altcoins, ICOs, BlockFi, Genesis, Celsius—these things—and are very wary.
+
+But I think, at the same time, these fundamentals are real. The point of these businesses is to accumulate Bitcoin, which we all agree is the best asset. And so there's a lot of potential value to be delivered here.
+
+And as a result of that, I think this is here to stay. This is also like how Bitcoin matures. This is like the next step in its evolution, maturation as an asset. This is how Bitcoin will eat TradFi—is these Bitcoin treasury companies recapitalizing the world with digital capital.
+
+And so I think this is bigger than people realize, as a trend for Bitcoin and for the world. And I think it's going to be a major story that plays out over the next few decades.
+
+And it's the first year of that. Saylor was on stage in New York making this point: this is year one. He's been doing this for 5 years, but he's saying that this is year one of the Bitcoin Treasury industry. And it's because he stumbled into it, and now it's been articulated, and now we really know what's going on. Like, it's happening now. And it's only just starting.
+
+So I think it's worth paying attention to, basically. And I think it may not be the right thing for everybody's portfolios, but I asked this question of Saylor—gosh, it was 12 months ago now—I said to him, "I live by the rule you have of never sell your Bitcoin, and I'm 100% Bitcoin. But now there are these Bitcoin treasury companies that are enticing. Like, what do you say to Bitcoiners who are already 100% Bitcoin?"
+
+And he cut right through it and said, "For Bitcoin maximalists, the risk-free rate is holding Bitcoin. But there's still a place in portfolios for risk capital."
+
+And I've been stewing with that ever since. And I think he's right—that maybe, for some Bitcoiners, maybe they want 100% of their portfolio to be cold storage Bitcoin, and that's great.
+
+For some Bitcoiners, maybe they want to have 20% exposure to risk assets whose goal is to grow their Bitcoin ownership. And that's kind of where these companies fit in. And I think they represent potentially tremendous value in the investable landscape because they're currently not well understood, and the mechanics of Bitcoin yield are greatly undervalued.
+
+You know, everybody thinks about MNAV—"Why would I pay 2x to own Bitcoin?"—and seems to forget the reality of compounding Bitcoin over time and how quickly that generates a return, and the gains that come beyond that return.
+
+So I think there's a big opportunity for people to do their homework now and pay attention to this space as it continues to evolve—because I think we're at the outset of what will become the most valuable industry in the world by total value, if this becomes a $140 trillion industry the way I think it might 20 years from now.
+
+**Stephan Livera:**
+[73:24] Yeah, I think I agree with you there. And it's interesting that, as you said, some people have been against—some Bitcoiners are against these treasury companies in a way—and maybe they point to recent price moves or price drops. But to me, the way I think about it, just like you: is there a fundamental business model here, right?
+
+Like, if some of these companies are borrowing at 10% or 8% or even less, and they're buying Bitcoin growing at 30 or 40% per year—it's a clear business model. Now, of course, you have to understand the risk. And as you said, I agree with you: I think it's going to be winner-takes-most. So if you're investing in these treasury companies, you ideally want to be kind of in that top one, two, or three—or ideally the top one in the jurisdiction—to really maximize your gains.
+
+But of course, it's difficult to predict how it all plays out. So, listeners, check out the website: it's smarterwebcompany.co.uk. Jesse, thanks for joining me today. And of course I'll link your social media in the show notes. Thanks for joining.
+
+**Jesse Myers:**
+[74:23] Awesome.

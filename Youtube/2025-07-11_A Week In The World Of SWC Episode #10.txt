@@ -1,0 +1,493 @@
+# A Week In The World Of SWC Episode #10
+**Date: 2025-07-11**
+**Video ID: gT1Em7cOl_I**
+**URL: https://www.youtube.com/watch?v=gT1Em7cOl_I**
+**Duration: ~45 minutes**
+**Channel: SWC Community**
+**Host: James**
+**Guest: Andrew Webley (CEO, The Smarter Web Company)**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- UTXO/Satsuma board conflict resolved: Tyler's statement confirms commitment to SWC over competing UK company
+- CNBC interview reflection: hardest interview yet, hostile start but came around by end
+- Institutional investor feedback on new investor deck: Jesse Myers helping with presentations
+- UK LSE uplisting hints: "surprising for a company wanting Footsie 100 to be on a market that doesn't allow it"
+- Direct subscriptions vs ABB vs ATM-style facility: three capital raising strategies explained in detail
+- Preference shares potential: exploring UK market viability, ~£200k setup cost like mini-listing
+- Bitcoin price at £118k: "nothing but a good thing" - allows more capital generation
+- ATM facility mechanics: 20% volume cap, no down-day sales, 3% fee structure
+- OTC Bitcoin acquisition: working with OTC brokers vs exchanges, negotiating every commercial term
+- Upcoming events: Hong Kong Bitcoin Conference (late August), Amsterdam, Abu Dhabi
+
+---
+
+**James:**
+Andrew, thank you very much for joining me again. Really appreciate your time. I know you're incredibly busy. Maybe if we could start with what seems to be capturing a lot of people's attention this week, the whole Satsuma UTXO thing. Could you clarify from your perspective what the situation is?
+
+**Andrew Webley:**
+Yeah. Well, Tyler, who's a non-executive director of our company and a friend and a colleague, put out a statement overnight. And I thought it was pretty clear to be fair.
+
+If we go back to the start, obviously they've been incredibly supportive. They believed in me when we weren't listed. And it was really, really useful to have their support at the start. I speak to Tyler maybe not quite every day but he's involved in our business.
+
+And then I saw the announcement that came out on Monday and I was quite surprised in all honesty. That was a bit of a shock. I'm aware of what that company's doing. I don't agree with it at all. I think the fundraising is atrocious. I don't know why anyone would pay like 8, 9, 10p or whatever it is for a share when I could phone them up and I could buy shares at 1p right now. So that's something that I don't agree with, but that's just my personal opinion.
+
+So obviously I raised the issue with Tyler and I said, "What's this about? Where do you see yourself being?" Because it sort of conflicts with us, and in line with the advice from our lawyers, there's a conflict there.
+
+I don't want them to stand down from being part of our company because I think we are the most successful company in the UK doing this strategy. One of the most successful in the world at the moment. I think we've worked relentlessly. I think we've executed very, very well. And as I keep saying, we are only just getting started. For me, the next couple of months, next year, next three years, five years is going to be a lot more exciting than the last couple of months. So I want them to be on that journey with me.
+
+But equally, for transparency, if they do think that it's right to move to another company and to support another company, then that's fine as well. We'll continue on our mission and all the capital and the execution and stuff is all down to me anyway.
+
+So yeah, that's what it was. I couldn't really comment on it because I wanted to give them the opportunity to comment and tidy things up really. And it's as simple as that. They believe in what we're doing. They see the future as very much Smarter Web Company. And I'm really pleased that we've got that from them because I like them all as people.
+
+Tyler and David, that is, because they're the ones that I speak to. I know a couple of other people in the company. I don't know Henry. He's not reached out to me this week to say, "Actually, this is what I was thinking" or anything like that. I'm looking forward to seeing when he puts a statement out later to see whether he wants to sort of join that company or whether he wants to work at UTXO. But that's not really any of my business. It's just something I'm interested in seeing.
+
+So yeah, it wasn't ideal if we're honest about it all, was it? But these things happen and that's just the way it goes really. Onwards and upwards I suppose.
+
+**James:**
+Just one point of clarification because I think this has been discussed online by various people. The word "one company and one market." To be clear, market and territory, we think or you think is interchangeable as in UTXO/SWC?
+
+**Andrew Webley:**
+Well, I can't comment on the global situation. If you look at what UTXO have supported in Japan, for example, there's one. I believe there might be more than one in Canada. I don't know whether there's board representation and things. And I don't really know a lot about the Canadian system in terms of public companies. If you look at France, there's one, great company, The Blockchain Group.
+
+My advice from our lawyers is that it would be almost impossible to have a position where you've got someone on the board of one company and then someone else on the board of another company and those companies to be relatively similar, is probably the politest way of putting it. And then those two people to effectively work within one investment company.
+
+It would make it very difficult for us because there's a lot of things that we do that nobody knows about at the moment which are very, very commercially sensitive. When we do fundraisings, they get organized at the very much at the last moment, and it gets even more complicated when those people are internationally based from a corporate governance point of view.
+
+So it's not something that we would need to have. The short answer is market and country are interchangeable in the context of the Smarter Web Company and what you're asking me about this week.
+
+But what I don't want to do is dwell on any of this anymore. It's consumed quite a lot of my time this week. It's consumed quite a lot of my colleagues' time this week. I can see exactly why the other company wanted to do this. It's pretty obvious.
+
+What I said last night when I was talking to Tyler about it is I said, "It's just one of those things, let's just forget about it. I'm sure we'll laugh about it in a couple of weeks time." In the context of the Smarter Web Company, I'm not making any comments about people that may or may not have bought shares in something that they've done for whatever reason. But this is just something that we'll look back on in the future and be like, "Do you remember when that cropped up?"
+
+So yeah, our roadmap of where we're heading is particularly exciting. And yeah, I'm very, very, very pleased that they decided that the right thing for them, which I would respect whatever they decided was the right thing for them of course because we're all different people and businesses, was what they've decided.
+
+**James:**
+Brilliant. Thank you. Okay, let's move on. Just rewinding a little bit because I haven't spoken to you since this happened. And these are all questions from the community, they're unfiltered. How did you feel about that CNBC interview? Getting badged at the beginning anyway. How do you feel about it? Was it hard?
+
+**Andrew Webley:**
+It seems like a long time ago actually. It was probably only what, a week or two ago. I can't really remember now. The weeks are pretty intense. The weekends are fairly intense as well.
+
+Yeah, it was a strange one. It was probably the hardest one that I've had to do. So yeah, it was difficult. And it wasn't helped by the fact that whenever I try and say anything, he wouldn't let me speak. So that was particularly challenging.
+
+I just tried to explain it like I explain it to everyone else. Not everyone's going to love our business strategy. Not everyone's going to understand our strategy. And that's okay as well.
+
+I think by the end of it, I think he was sort of coming around to it a lot more. So yeah, I found the first half of it a bit tough and then I felt that the second half was a bit better.
+
+I was quite nervous as well because I've never done an interview like that before, in like a TV studio with all the other bits and pieces that they have, a big TV studio.
+
+So yeah, and then afterwards they sent me an email the next day saying, "Thank you for taking the time." And I said to them, "No problem at all. If you ever want to talk about public companies adding Bitcoin to the balance sheet, let me know. I'll be there."
+
+So yeah, I'd welcome the opportunity to do it again perhaps with a slightly softer approach in the early stage of the interview would be my hope.
+
+**James:**
+Your preference. Sure. Sorry, just the questions come in from the chat. And I will get to the other one that's been asked as well. Is this a double VIP t-shirt that you're wearing today being that it's orange?
+
+**Andrew Webley:**
+Yeah. So I got sent a couple of t-shirts by a shareholder of ours. I didn't have to disclose that because they were below the threshold that the corporate governance states that we cannot accept gifts.
+
+It was very kind of them to send me that. They're identical to the VIP ones, but there's some orange ones and some white ones. Two of each. So yeah, it's an exclusive t-shirt that only I have at the moment. A one-off.
+
+And it's a nice color as well because I'm particularly tired today because I haven't really slept much last night. With one thing and another, was working until very, very late and then working very, very early. I thought, put the bright one on and then at least that will make up for my sort of slightly dark eyes.
+
+**James:**
+What's the feedback from institutional investors been like regarding the new deck? The content within it. What's the feedback been like so far?
+
+**Andrew Webley:**
+Yeah. So we've gone through it with a couple of people now. I feel more confident talking it through. Some of the times I've got Jesse with me as well, which is helpful, virtually.
+
+I think it's clearer. It's almost got a lot of the things that we would talk about anyway, but obviously written down with better graphs. So it's really helpful in that regard.
+
+Particularly some of the larger institutions that we're talking to, there's a lot of work that has to be done there to make them become comfortable with the model. Anyone can sell a business on a 1x MNAV in this space right now. It's very easy to do. You can raise a lot of money doing that.
+
+It's slightly harder selling a business that's trading on a 6x MNAV or whatever we're trading on. But then again, a business that's got some proven history earns that premium, which is why it works like that. You'll only have a 1x MNAV before it starts.
+
+So yeah, it's very helpful having that, but not just the deck, having Jesse alongside me is very helpful as well. And what I've also been able to get him to do is to do some of the things that I would do where we talk about the company on live streams like this. And having him there is either instead or as well as me is incredibly helpful. In addition to what he does behind the scenes which is great as well.
+
+So yeah, if you look at what we did last week with the analytics dashboard that we've got on our website, it just makes the information a lot easier for people to digest. And they can see that because it's produced by us, it's easier to access that.
+
+So yeah, I'm pretty pleased with that side of things. I think it's like part of a small step forward on how we're trying to make sure that everyone can see the journey that we're on together.
+
+If you look at the MNAV right now on that chart on the right, you can see that we're in a pretty good position right now. If you take that MNAV and you also factor in the NAV, which is the chart to the left of it, you can see because of the cash and the Bitcoin and the Bitcoin price and things, you can see that we're sitting on a pretty tidy sum in our treasury to sort of push things forward with.
+
+So yeah, it's quite useful to have those charts, not just for everyone else, but also for me. I look at those charts because I'm quite a visual person as well.
+
+**James:**
+Sure. And it does lead back to a question from the community. Would it be possible to include the underlying calculations on the dashboard to help people understand what some of these things mean if they're new, but also just for someone who maybe understands MNAV, just to understand how you're calculating it?
+
+**Andrew Webley:**
+Yeah. Well that one, it'd be very easy because it's on the page already. If you scroll to the bottom of the page to the bit that no one reads, the important notes. Right at the bottom of the important notes, you can see the MNAV is defined there. So it's clearly stated the calculation that's done on. So I think that's probably there already. And obviously those things will be refined as the business grows. But yeah, I'd suggest it's probably on there already.
+
+**James:**
+Sure. But I think you are looking to keep evolving this page. Is that right?
+
+**Andrew Webley:**
+Oh yeah, for sure. Like everything that we do, whether it's talking about this or anything else in the business will always evolve. And I think we've demonstrated to everyone that we move at a reasonable pace.
+
+There's some things that I'm thinking already. For example, the dollar one is harder than people would anticipate because say for example we add a dollar, pound, euro dropdown on there so that people can change the price that they're viewing it on. Then should we be using the stock price in the states with OTC or in Frankfurt for the euro and things like that.
+
+So some of these things sound a lot simpler than they perhaps are to implement. But yeah, of course we'll be evolving these things continuously and also bringing in new charts that we're thinking of putting in there.
+
+So yeah, it's just a starting point really. I'm pretty certain though that we are the only Bitcoin treasury company in the UK and in Europe that's got a dashboard like this.
+
+So taking into account that we're only 2 and a half months into the journey, and we've already exceeded the 1,000 Bitcoin level, to have the analytics dashboard there to a reasonable state, it's not bad going. But yeah, of course, we're going to evolve it because we'll evolve everything else over time.
+
+**James:**
+And then there's sort of been a mixture of different questions around uplistings. One obviously is UK focused. The other is potentially US focused. Do you go OTC QB to QX to NASDAQ or do you skip QX to NASDAQ and go straight to NASDAQ? And also any more info on the LSE listing?
+
+**Andrew Webley:**
+Yes. So obviously I can only say certain things. I think the OTC upgrade is something that wouldn't be too difficult. Would there be that much benefit in it? Possibly not. But then again it's not expensive. It just takes time and certain documents have to be produced which is no big drama. So that's fine.
+
+In terms of a pure NASDAQ listing, it's quite expensive. Maybe that's something for a year, two years time, I don't know. Again, is there a benefit? I haven't actually looked at the sort of cost versus the benefit of doing that at the moment. So it's sort of kind of on the list but at the bottom of the list is probably the best way of putting it.
+
+In terms of where we go in the UK, then I probably shouldn't say anything on that one right now. But I think it'd be quite surprising for people to see a company that wants to be one of the biggest companies in the Footsie 100, to be on a market that doesn't allow them to be in the Footsie 100. So people can probably work out what I hope on that side of things without too much imagination.
+
+So yeah, I think that's probably all I should say on that right now.
+
+**James:**
+And then some people would like maybe some expansion on the direct subscriptions. You've had two recently, not the ATM like subscription but the other one. Are there criteria that potential investors need to meet? How do they do it if they're a high net worth individual? Let's get that information out there.
+
+**Andrew Webley:**
+Yeah, sure. So broadly speaking, we've had three strategies so far.
+
+The first one is the ABB, which in the early stages we were allowed to offer that to retail, which we did, until we maxed out the 8 million euro that you're allowed to raise. And we also offer that to high net worths and institutions. So three components really: retail, high net worth, institutions. Because the high net worths and the institutions have got a different regulatory criteria really which means that they don't fall in that retail pot.
+
+So the way that those have worked historically is that we say at 4:30 that we're going to do an ABB at the closing market price. We've never done it at a discount. And then we close that and then we announce it the next day. And that's what we've done and we've raised quite a lot of money that way. The last one that we did like that was over 40 million pounds that we raised in four or five hours, whatever it was. So that's good.
+
+Now the direct subscription or subscription, dependent on how you phrase it, is pretty much the same thing in terms of the process that we follow without announcing it. So the way that works is we might have an investor that says, "I would like to put some money into your company. I don't believe that I can put that money in through the market without moving the price and I prefer that you have that money rather than it going into the market side of things."
+
+On the day when we did the one recently, I actually had two offers that day, completely unconnected. And I had a second offer of somebody that wanted to put in 10 million pounds. And they said that it needed to be done at a discount and I said no. I didn't even ask them what discount they were thinking, but even if it was 1% that wasn't happening.
+
+So yeah, we get offers all the time for capital. We've had offers from a lot of names that people would recognize where I haven't felt it's the right price or the right terms or settlement times or whatever.
+
+So that subscription side of things is very, very similar to an ABB really. What we do is when we get to the point at which somebody in an unsolicited format offers us money, then we will obviously make that person inside from that point. And then at that point they can't tell anyone else that that's happening, but it's only a mega small time period anyway that we would do that for because we would always do it on the day if we decided that we wanted to do it. And then it just gets announced like with the ABB results.
+
+And then the third way that we've done it, as most people will know, and I think it's fantastic, is what people are calling the ATM style facility, which is very good and quite unusual that you've got it in the UK markets especially with the way that I worded it. You cannot sell on a down day effectively. And then I limited it by the percentage as well because I thought that was the right thing to do.
+
+So we've got those different strategies and I think most people would agree that they've all worked pretty well so far. And then obviously in the future there's other things that we'll do.
+
+And the preference shares, I don't actually know right now because we haven't done enough work on it whether or not they would work to a reasonable size in the UK right now. I think they would, but obviously that's all part of the planning because those things are a bit like a mini listing from a cost point of view. So it probably costs you a couple of hundred thousand to effectively list one of those instruments. Not as much as a company.
+
+But those instruments are wicked because if you have those instruments you can have an ATM style facility running alongside it. So yeah, we've got different strategies that we're using at the moment. And they've all got their benefits and their places.
+
+We announced the other day the proceeds of the first seven million shares because I don't find that out until once they've been placed over a period of time. It was about two weeks when there was a pretty bad week in there as well. So there were lots of down days.
+
+So that worked incredibly well. I thought it was fantastic. If I look, and I haven't actually done this, I've been meaning to ask one of the brokers to do it for me, but if I look at the amount of money that we raised purely from that one tool over that period of time, it probably adds up to more than every other wannabe Bitcoin treasury company in the UK raised over that time period in total. And we raised more money as well on top of that.
+
+So yeah, I think we're doing pretty good on that side of things with the tools that we've got and we're trying to push it forward as best we can.
+
+**James:**
+And then you mentioned preference shares and this was asked directly to me. So you may not have the information on this, but if they were launched in a smaller capacity than Strategy have done in the states because they're bigger, how would you, and assuming that most of the transactions that go into that would be quite large transactions potentially, how does the liquidity work with that? Because people are getting in and out with big numbers potentially.
+
+**Andrew Webley:**
+Yeah. Well, you've kind of answered it yourself in the question. Say for example, you sell, just keeping a small and easy number to keep the maths easy, like 10 million pounds worth of something to 10 people, a million pounds each. You've got an incredibly illiquid thing there because you've got 10 holders that all hold a million pounds worth of something.
+
+But in theory those holders buy them for the income and if they've got a convertible level there, like some of the Strategy ones, like say 2.5x the common stock share price at the time, they're not necessarily buying them to sell them. They're buying them for the yield or dividend or coupon or however you structure it. And then they're buying it for that with the right that they could convert it into the regular stock should they wish.
+
+But then say for example, you've got other investors that want to buy these things. Maybe you structure the ATM side of things so that you don't have the 20% cap as an example.
+
+It's quite similar as well to when we first listed our business. When you list a business, you have to think about the liquidity of it. You might have to, depending on what market you're on, you might have to have a free float of a certain amount of money, percentage. So you can place that stock to facilitate some liquidity.
+
+But in all honesty, those products are going to be less liquid than the common stock, probably for a long time. But you factor that into the way that you plan it because it's like launching any other type of listed security really.
+
+**James:**
+Thank you. Just going back to the subscriptions, someone's asked on the chat, can high net worth US investors take part in those?
+
+**Andrew Webley:**
+Yeah, if they contacted us. When we have US investors in those things, because we don't do any marketing in the US, there's certain processes that you have to follow from an SEC point of view. Without wanting to turn it into a joke, it's more paperwork. But it's just part of the process.
+
+If there's US investors in those fundraisers, then Jamie, who works alongside me, he sorts out the paperwork with our US lawyers and yeah, it just gets done. It doesn't really make any difference in all honesty.
+
+But what we don't do is we don't market, i.e. we're not out there canvassing. We've got US brokers that are very keen to work with us, but we haven't really felt the need to engage with them. And they want to do exactly that, they can effectively canvass US investors whether they're big or small for that.
+
+But through my network, we know quite a few people in the states and other countries as well. We've had people from all different parts of the world that have taken part in those fundraisings that we've done.
+
+But the SEC process in the states is incredibly important and it has to be followed diligently to comply with the laws in that country as you would do in any country because securities laws are incredibly important.
+
+**James:**
+And another one from the chat going back to the listings, would you go with an Asian listing to sort of get that 24-hour trading?
+
+**Andrew Webley:**
+Yeah. So we've been looking into a Japanese cross listing and it's actually quite hard. So I'm not sure whether we'll get there with that one.
+
+It might be that maybe like an Australian cross listing is easier, which would obviously give you the same, broadly speaking, time zone. So there's, like everything else that we do, we're constantly looking at how we can improve these things.
+
+Maybe there's a slight argument where, and this obviously goes against Bitcoin in one of the things that we like that it's 24/7, but ultimately we are a security. We aren't something that trades 24/7. You can make an argument that the volatility is increased through having a window when something isn't traded.
+
+And whilst the equity can be ported into different countries if you know how to do it, most investors can't do that. So there is an argument that by having like eight hours or whatever it is of the day when all of the markets are closed in terms of Smarter Web stock, then you increase the volatility, which as we all know is a good thing.
+
+**James:**
+Okay, moving on to the FCA. Do you have contact with them with regards talking about potential future changes with regards regulation towards Bitcoin?
+
+**Andrew Webley:**
+So I shouldn't really talk about that because of the other project that we're working on at the moment. So if I talk about that it's probably going to get me into trouble and I'll probably get a quite a high rate message from the lawyers. So nobody needs that on a Friday, especially after a long week.
+
+So I'll have to pass on that one. But I suppose I can say that I'm encouraged by the fact that they seem to be a lot more receptive to what I believe is the very best asset in the world. I think it's the right thing to do with appropriate risk warnings.
+
+But I probably shouldn't talk any more about it than that brief comment.
+
+**James:**
+Yeah, understood. Would you ever consider a name change to something like "Smarter" with the Bitcoin symbol, a bit like Strategy's "Strategy B" in the future?
+
+**Andrew Webley:**
+Yeah. Yeah. I'd certainly consider anything for the business that I believed was in the best interest of the business and therefore its shareholders.
+
+I don't know whether, when I think about these things, it's because of my background that I always start with the domain name. And clearly, you've got a bit of an issue with shorter domain names, whether you can actually get them or whether they cost a lot of money.
+
+So you don't necessarily have to have a domain name that matches the brand. If you look at Strategy, for example, they do. I believe Michael Saylor bought that domain name a long time ago. So that was great for them. I don't believe that they changed their company name. I think it's a trading style as we'd call it in the states. Don't quote me on that one.
+
+So from a Companies House point of view, it wouldn't really matter. It's "The Smarter Web Company PLC trading as Smarter B," for example.
+
+So yeah, I would. I don't think it's something that's super critical right now. I think in six months, 12 months time, I think there'll be a lot more emphasis on should we do that. Also that links in with our acquisition strategy and whether or not we acquire things in the same space or a different space.
+
+I like the ideas that people say about using our values to do something slightly different as opposed to the same thing. So yeah, I wouldn't say that it's something that we're going to do in the next couple of weeks. But providing that we can do all these different things and make a sensible decision on what that means for the domain name, which is effectively pretty important, then we'll certainly consider it.
+
+And yeah, I wouldn't be disappointed at all for it to be Smarter B or something like that. Or even just Smarter Web to be fair, drop the company part. But I don't know whether that would make that much difference because "web" has got certain other things that are relevant obviously to Bitcoin.
+
+I don't think I'd ever want to change the name away from what I set up originally because I'm very proud of the "smarter" aspect of it and I think it's got quite a good meaning in other ways. But I'll never rule anything out that's in the best interest of the company because that's all that matters at the end of the day.
+
+**James:**
+And are you able to shed any light on this other project that you just mentioned when I talked about FCA?
+
+**Andrew Webley:**
+Certainly not. I had to ask. I had to ask.
+
+**James:**
+Yeah. Okay. So when it comes to the subscription ATM like facility, when a tranche is done, is there always going to be a gap? Can it be overlapped? How does that work?
+
+**Andrew Webley:**
+Yeah, let me explain that. So when we start a tranche within a subscription, the subscription that we're in at the moment was 21 million shares. We did 7 million and then I decided I'd put the other 14 million in all at once. I could have put in 1 million, I could have put in 7 million.
+
+And obviously because I put in the rest because I'm delighted with how Shard have done this for us, and Tennis and our broker have done incredibly well to help me put that together in a really beneficial way for the company. So I'm absolutely delighted with what Shard as a partner and Tennyson as an advisor broker have done for us.
+
+That's your tranches. Simple as that. And then with a tranche, I do not know how the tranche is going. I can make my assumptions just like I'm sure many other people make their assumptions based on whether it's an up day, what the volume is, and so on and so forth.
+
+But then when they get to the end of a tranche, they tell me and then I've got an obligation as I've got with any other announcement to communicate that with the market. And I've done that so far because I've done it with everything else.
+
+So you get an RNS out and then that communicates that. And in that RNS you can then say, with the last one for example, the other stock that we're putting into it.
+
+So that's fine. That's how that works. And then obviously when we get to the end of this particular tranche, which is also the end of the subscription, then I've got to decide do I want to do another one.
+
+Now, I'd be fairly surprised if the answer wasn't yes. And then the only thing to think about is what number do you want to put on it? Maybe we'll do the same. Maybe we'll double it. I don't know. I haven't thought that far ahead.
+
+I'd be massively surprised if we didn't do it because it's a fantastic thing for the business. And I think the first couple of days, I think a few shareholders didn't really fully understand it, but I think people have seen that it's been structured in quite a good way.
+
+So yeah, that's how it works. And I think having a smallish number, let's say a number that you could get through in, I don't know, just thinking out loud, 3 weeks is probably good because then you're communicating with the market regular updates and not only that I'm actually getting the figures as well.
+
+So you probably wouldn't want to do it like stick a hundred million shares in it and not get an update for three months. I don't think that would be the right way to do it at all. And you wouldn't get the cash, right?
+
+**James:**
+But just running through an example so I've understood it. Let's say you went 42 million. Next time you could release that in, I'm just using a number, like 7 million share tranches and then every time that 7 million's done you get cash and you go again with the next one kind of thing. I'm not saying you'd use those numbers, but...
+
+**Andrew Webley:**
+You don't want the number to be too small though because let's say you have a really good day of liquidity and the price is ripping up, then you don't really want to run out at sort of 11:00 in the morning and then lose the rest of the time. Because then you're losing, what are you losing then, you're losing 10 trading hours up to 9:00 at night.
+
+So you don't want the number to be too small. But you're right, more frequent updates is not a bad thing either.
+
+It might be that we find that 7 million is too small a number and 14 million is just a bit too big. I don't think it will be. So yeah, I think what we'll do is we'll continuously evaluate that as we move forward and make sure that it's working well.
+
+That's the other advantage you see of doing smaller subscription agreements as opposed to tranches is that you can keep your partners on their toes because they have to deliver, they have to do it well.
+
+But like I say, I've been so impressed with how they've done it so far. I don't think I could have actually structured it better.
+
+To lose 3% of the money is really good in corporate finance terms. I don't think I'd have the nerve to drive them down to sort of like 2% of it, but I might try it. We'll see how we get on with that one.
+
+**James:**
+Okay. And no, drive them down by 2% or by 1%.
+
+**Andrew Webley:**
+I won't do that just yet.
+
+**James:**
+Yeah. I mean the incentive would kind of be less good for them, wouldn't it? Right.
+
+**Andrew Webley:**
+And it's about like when you work with other companies, you want the best companies, the best people. So you don't want to overpay for anything. But if you underpay for anything then you don't get that level of service. So you do have to get the balance with this stuff right. And I think we've got it largely speaking across everything that we do right at the moment.
+
+**James:**
+Sure. Can we dive a little bit deeper into the ATM like facility? The first...
+
+**Andrew Webley:**
+Can we talk about one thing before that? Because you've not mentioned how exciting it is, the Bitcoin price right now.
+
+**James:**
+Yeah. Go for it.
+
+**Andrew Webley:**
+Absolutely ripping. Let's have a look at where it is at the moment. So 118. Yeah. Which is mad. Brilliant. Absolutely brilliant.
+
+**James:**
+So okay. So actually that leads to a good question. Do you see it ripping now as a good thing?
+
+**Andrew Webley:**
+Very much so. Nothing but a good thing. So we've got a significant treasury that we've chosen to deploy in Bitcoin as opposed to cash for the reasons that we all know.
+
+There is nothing bad about Bitcoin ripping from here. For our business, from a competition point of view, for the others, for Bitcoin as a whole, there is no downside.
+
+The thing that sometimes people say is then it costs you more money to buy Bitcoin. But as Saylor says, we're going to be buying the top forever. So I'm not really that fussed about that.
+
+It actually allows us to generate far more capital the better it does. And selfishly from our point of view, because we're by far, probably by a multiple of more than 10, the biggest Bitcoin holder in the UK as a public company, we've got such a good cost base right now that then it's a bit like averaging up. Yeah, it's nothing but a good thing.
+
+I don't think we'll get that lucky. My personal opinion is that it's starting a move significantly higher. And I can also see that from how we've been acquiring Bitcoin and the difficulty that it's been to acquire it in probably the last two weeks or something.
+
+So yeah, it's nothing but a good thing really in terms of bringing new capital into the model.
+
+If you know, obviously, the one thing that you've got to remember is that it will move when it moves. I don't think we'll be lucky enough. We might be actually because everything's gone pretty well so far. For it to actually kick in at exactly the right moment for the business. But yeah, we'll have to wait and see. I'm certainly looking forward to the next few weeks and to see whether we go on that path that we all think that we're going on.
+
+**James:**
+Fantastic. Does the ATM, let's get back to the ATM. So a question from the community is, does the, are you worried that the ATM will collar the price and stop it moving up?
+
+**Andrew Webley:**
+No, not at all. So if we look at the first batch of 7 million shares, everyone can see the average price that we sold them for, which was actually slightly higher than the price on the day that we announced the results.
+
+I know, and everyone can see this as well because they can look back, they can see the range that the price did on that term. And I think there was like, albeit it had a terrible week and then it had a good week, there was like a 50% plus up move over the space of a week.
+
+So nobody can tell me that we're collaring that side of things. And I've also built it into the agreement, i.e. no more than 20% of the volume.
+
+So no, I'm not concerned about that side of things. But that is the reason why you can't sell on a down day. Because you don't want to be fueling the fire.
+
+**James:**
+And then this is a bit more of a technical inner workings thing. There's some confusion around the total volume across three markets that trade at different times. If it's closing in the UK at 4:30 and then it doesn't close in the US till 9:30 or 9:00, how are they capturing that volume that happens after the UK market closes?
+
+**Andrew Webley:**
+Yeah. So we can, well we can't, Shard can place that stock wherever there's a demand for that stock.
+
+So yeah, they could sell the stock to Europe for example, to market makers there that then want to place it onto someone else or an institutional investor that doesn't want to buy on the market.
+
+So it can all be factored in, no problem at all. So if you're trying to work it out, you look at the biggest number, add it all together. Don't look at the smallest number.
+
+**James:**
+Sure. And someone's just asked in the chat, can you tell us a bit more about how you actually obtain the Bitcoin? Is it an OTC desk? And what's the process?
+
+**Andrew Webley:**
+Yes, so we work with a couple of different brokers. So we've got three custodians. We deal through them if we want to and we've also got two accounts with OTC brokers.
+
+The advantage of working with an OTC broker rather than like an exchange effectively is that an OTC broker, all they do is they have access to more exchanges than you've got access to. And so you fund, when you're dealing through an exchange you fund the exchange and then you spend the money. But with an OTC broker you have got a credit level and then you settle it just like you're buying a large amount of stock, within a day let's say.
+
+So you can say right, I want to buy 5 million pounds worth of Bitcoin at whatever price. And then they'll execute that transaction for you and then they will release that Bitcoin once you've paid for it effectively, which is just a bank transfer.
+
+So there's pros and cons of both of those. And we swap between them dependent on how much we want to buy, what the liquidity looks like in the different places. And also the commercial terms.
+
+So we negotiate every commercial term that we do, whether it's moving money into dollars, sometimes we don't move it into dollars, we buy it on spot with BTC/GBP, whether it's we pay a fee to do an OTC deal for example.
+
+If they don't charge you a fee, they're building it into the spread anyway.
+
+So I got quite an eye for detail and I look at all of those things. And then when we tell people the prices that we pay for things, that factors in all the fees.
+
+So if you've paid, spot, one tenth of a percent or something between your FX and your dealing fee for example, I'm not saying that's the number, I'm just using that as an example, then that would be all built into it. So that's a real cost to us.
+
+**James:**
+And moving on to merch quickly. There's a request, I've had a few requests actually, and I would like one as well, to have a VIP Star hoodie with just...
+
+**Andrew Webley:**
+Yeah, we can certainly do that. So basically, yeah, we can certainly get that sorted. I can't promise that we'll get it sorted immediately.
+
+But I'm going to the Hong Kong Bitcoin Conference, which our friends UTXO are organizing, of course, towards the end of August. And I'm thinking, without wanting to set myself up for a fall here, I'm thinking that we'll get some limited merchandise as well for the actual events that we go to, the bigger events. Because there's a cost to setting up any merch.
+
+But I think that'd be quite cool as well. So it'll be, maybe linked to a milestone. Maybe just similar merch but with additional print on it. For example, the date and the actual conference itself. I thought that would be quite a nice thing to do.
+
+So yeah, I'm meaning to work with Alex actually. Probably won't do it today, but maybe as soon as next week, we'll see what we can do on that one.
+
+I think they're quite popular, the t-shirts just with the logo. My favorite that I've been wearing this week is the Rocket T-shirt.
+
+And just to remind everyone that you can still buy most of the merchandise on the website, including UK or international delivery.
+
+**James:**
+And speaking about other parts of the business, any updates on the core side of the business? Are the web orders coming through?
+
+**Andrew Webley:**
+Yeah, it's quite good actually. So obviously I'm not allowed to talk about specific numbers, but we are starting to see an uplift, albeit a small uplift, big in percentage terms but small uplift, in our numbers that we look at all the time from people that support us as investors.
+
+So again, if anyone believes in what we're doing as a company and they are looking for a new website for themselves or anything like that, then please do give us a shout. We'll do a really good job. And we're very affordable.
+
+And we would like you to support us if you need a new website created. That was, if you read the admission document, that's all built into there that we believe we will get more business through increased visibility of being a public company and it's certainly happening.
+
+I wouldn't say it's either in line or above or below my expectations because it's still very early days for that side of things, but I think that it's quite important. And the more money that we make on the web design side of things, the better it is for the whole business. Just like everyone can imagine.
+
+So yeah, just give us a shout if you want some help on that side of things and we'd love to work with anyone.
+
+**James:**
+And we've talked about events in the past that you're attending. But if there's any update for people of upcoming events that they can either watch online or meet you at?
+
+**Andrew Webley:**
+Yeah. So Henry the Chef is doing two events in September. They'll both be good. I think one of them sold out, one of them isn't. So that's definitely worth looking at.
+
+And then there's one or two other UK events as well in September.
+
+I'll be going to the Bitcoin conference in Hong Kong. That'll be really good. It's only a two-day event. I'm currently speaking to them to see if we can get a few extra passes so that we can distribute them to some of the shareholders that have supported us so far.
+
+We might, very undemocratic I know, but we might give them out to people that have put in significant amount of capital. Or what we might do is we might do like a raffle on the website so everyone can enter and then we'll just dish them out randomly. Haven't decided that one yet. Leaning more towards the random side of things. So that'll be good.
+
+There's also an event in Amsterdam where I believe they've announced the date. So probably be there.
+
+There's also Abu Dhabi as well. That'll be a great event because my friend Gregor organizes that one. So it's probably the best event in the world. Certainly is if you speak to him.
+
+So yeah, there's plenty of events coming up both in the UK and internationally.
+
+Yesterday one of our shareholders flew over from Texas to see me which is quite cool. So he came to Bristol. So there are things that I do like that, it's not all stuff that's done virtually. And I'm spending quite a lot of time in London going to meet larger investors and things. That's not so much the event side of things but that's really important as well which is what we were touching on at the start.
+
+So yeah, I'm getting around as much as I can to further the mission.
+
+**James:**
+Yeah. And on that note, any alpha you can share with regards the coming weeks? Anything we can look forward to hearing about or how soon we might hear something?
+
+**Andrew Webley:**
+Well, I think it's fairly likely there'll be some more Bitcoin buys. Probably have to leave it at there.
+
+I would like to announce a significant fund raise like an ABB, but maybe go quite a bit bigger than the last one. But I wouldn't want to give anyone any guidance on that side of things.
+
+Hopefully everyone can see from what I've done to date that I always do put the shareholders first. So I wouldn't ever do anything like that if it wasn't beneficial to the business and its shareholders. And so I certainly wouldn't do it at a discount.
+
+So obviously much longer term, maybe even if I'm not running the business, maybe things will be done in a different way. But for as long as I'm running it, we'll be doing it in the way that ties in with my ethics and my personal beliefs.
+
+So yeah, that might be quite good. I am working on something at the moment which I am trying to stop myself talking about. So I will stop myself talking about it because that's pretty cool as well. And I might even be able to get that out in the next couple of weeks and that, everyone would love that.
+
+So yeah, I think we just say that if you look back historically at the company, there's always stuff that comes out every week. Not always, but most weeks there's things that maybe people wouldn't have guessed. I try and mix up the RNS's a little bit as well, just on the day of the week, just so that it's not boring.
+
+And I plan everything as best as I can. So if we just say that we just do our best, that's probably, hopefully that's good enough for most people.
+
+**James:**
+Fantastic. Anything else you want to share before we finish?
+
+**Andrew Webley:**
+Yeah, I'd probably just like to say that it's been a bit tricky for me this week because I've been so busy but then I've not been able to talk so freely about certain things that were on my mind.
+
+But hopefully normal service will be resumed from today. And I so much appreciate all the support that we've been given from everyone. And it means so much to me. And hopefully everyone can see that we're working our hardest to try and get where we want to be.
+
+It's pretty cool that we got to 1,000 Bitcoin on Monday. We got there in what was it, just over two months. I think if everyone looks at the publicly available information and the next target that we've got, which is 2,100 Bitcoin, I think they can see that we can get there in a pretty impressive amount of time.
+
+So yeah, I'd just like to say thank you to everyone for the support. And also if anyone's got any ideas and they think that there's things that we could do better, by all means reach out.
+
+Anything that makes the company better, stronger, quicker, anything like that is very, very welcome. So this is an internal and external team type approach here for the benefit of everyone hopefully.
+
+**James:**
+Fantastic. And just to make things clear to everyone watching, Andrew doesn't see any of these questions before we do these sessions. And so I'm going to ask him one now. I'm hoping the answer is yes. But, how would you feel if I played one of your records from 1997 to go out to?
+
+**Andrew Webley:**
+Yeah. Why not? Why not? Which one? Which one is it? Because I've been trying to cast my mind back and I've still not got up into the loft where I've actually got copies of I think all the records.
+
+**James:**
+It's Make Believe.
+
+**Andrew Webley:**
+Yeah, why not? Let's hear it. The ones that I've heard publicly are not my favorite ones. But they're all pretty good. Can't remember which one was played on Radio One, but let's hear it. Why not?
+
+**James:**
+Okay, let's do it then. And then yeah, feel free to leave when you want. I'm gonna skip the intro. I think we'll have to stick around for the words though, won't we?
+
+**Andrew Webley:**
+So, yeah. I have to say this takes me back.
+
+[Music]
+
+**Andrew Webley:**
+One of the songs on the other side of this had a really good spar. This song was produced on the outskirts of Essex by somebody who wrote some of the biggest early rave music songs, like an absolute superstar the guy was. So yeah, it was a lot of fun and I miss those times a little bit.
+
+**James:**
+Well thank you everyone. It's been good to talk to you, Andrew. And I think we'll sign out now. See you later. Bye.
+
+---
+
+**End of transcript**

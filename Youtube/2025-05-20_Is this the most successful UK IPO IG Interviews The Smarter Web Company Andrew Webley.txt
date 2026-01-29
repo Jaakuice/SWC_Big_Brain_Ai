@@ -1,0 +1,258 @@
+# Is this the most successful UK IPO?
+**IG Interviews The Smarter Web Company's Andrew Webley**
+**Date: 2025-05-20**
+**Video ID: pKSira9hUsQ**
+**URL: https://www.youtube.com/watch?v=pKSira9hUsQ**
+**Duration: ~20 minutes**
+**Channel: IG UK**
+**Host: IG Interviewer**
+**Guest: Andrew Webley (CEO, The Smarter Web Company)**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- SWC as potentially most successful UK IPO in last 5 years - up ~10x since listing
+- Andrew's background: 15 years building SWC, former Hargreaves Lansdown head of online for 10 years
+- Three-part business structure: core web business (250+ clients), M&A strategy, digital assets treasury
+- ISA-eligible UK Bitcoin proxy - key motivation for listing the company
+- Team strength: Tyler (UTXO, Bitcoin Magazine, MetaPlanet board) as non-exec director
+- Capital raising strategy: always at market price, never discounted, equity only (no debt)
+- MNAV premium explained: smaller companies command higher multiples vs underlying assets
+- Current treasury position: ~20 BTC, enough capital for 80-100 BTC on balance sheet
+- Aquis Stock Exchange: cheaper/faster listing, now trading 8x entire Aquis market volume
+- Risk factors: management trust, custody arrangements, execution ability
+
+---
+
+**IG Interviewer:**
+But I'm pretty certain that if you go over the last five years or so, we've been the most successful IPO on the London markets and we've probably gone up in price by like 10x or something like that. As a result of being honest, transparent, fair, and letting the market do its job at the end of the day.
+
+I'd like to welcome Andrew Webley to the show. How are you, Andrew?
+
+**Andrew Webley:**
+I'm very good, thank you. And you?
+
+**IG Interviewer:**
+Very good indeed. I'm very excited about this because this is our very first time having a CEO of a listed company on the show. Now, the company, the Smarter Web Company, has a really interesting background. Take us through the history.
+
+**Andrew Webley:**
+Yes. So, I started my career in 1999. I joined a very small company that became a very big company called Hargreaves Lansdown. I was their head of online. After 10 years, I left that company. And I set up my own company.
+
+So the Smarter Web Company was set up 15 years ago, right? It was set up around a system. So I'm a developer and I developed a content management system in the days before everyone had a content management system. Nowadays you have one if you've got a website, back then less common. And I built the whole business around the technology.
+
+Over a period of 15 years, we grew the business. Still to a fairly small size, but pretty profitable. And then about four years ago, I came across a company called MicroStrategy, now known as Strategy, as an investor.
+
+So I'd been investing in Bitcoin for well, it's almost 10 years now. And I liked investing. I liked Bitcoin. And I saw what Michael Saylor had done and I thought it was fantastic.
+
+And then fast forward there a little bit. I thought the UK should have something similar. So that's how the Smarter Web Company went from being a private business to being a listed growing business. And that's how it started.
+
+**IG Interviewer:**
+Fantastic. And so, we've got the web development part of the business, the operating company, but then you've obviously also adopted a digital assets treasury. So, run us through exactly, for those that aren't even sort of familiar with the MicroStrategy idea. What does that entail?
+
+**Andrew Webley:**
+Well, it's quite simple actually. The best way to think about it is that there's three parts to the business.
+
+So you've got the core operating business which is the thing that's been going for 15 years. It's got 250 plus clients, 30% plus recurring revenue. Very profitable with great scalable potential. So that's one part.
+
+The second part to the business is what we've described as the medium to long-term acquisition strategy. So that's, in very simple terms, buying other similar things which produce a return for the business. They could be very similar, they could be a bit different. Who knows, in the future they could be very different, right?
+
+And then the third side of what we do is we have capital in our business. And that capital is used for a particular purpose. Now, my belief is that digital assets, specifically Bitcoin, is much better than pounds, dollars, gold, silver, whatever. In my opinion, as something to store your value for the future.
+
+So, as a business, it doesn't matter whether you're a private company, a government, a public company. I believe that that's an effective way of storing the value for the future alongside what you're doing as a business with your business priorities.
+
+**IG Interviewer:**
+And then obviously working with your previous employer, you are an expert on ISAs. So you've actually structured the company in a way that it's possible for ISA holders to invest.
+
+**Andrew Webley:**
+Yeah. So if I go back to the last couple of years, investing in Strategy and then other similar businesses, I felt that the UK should have its own sort of offering that was similar. I.e. a technology company with a digital assets plan.
+
+So to me, one of the drivers of this was I wanted a company that I could invest in specifically within my ISA. And I couldn't find one that I was happy to invest in.
+
+So, for well, ever since ISAs started, I've been investing, sometimes all, sometimes some of what you can put into an ISA. And it was absolutely critical, even before I decided or found that there wasn't one and decided to list my own business so I could hold it within an ISA.
+
+**IG Interviewer:**
+And how do you even start going about that?
+
+**Andrew Webley:**
+Well, I'm just a normal person at the end of the day, so it's quite difficult to list a business on the stock market. It's quite expensive. You need quite a few different people involved.
+
+I had probably, let's say, 90% of the expertise, the knowledge, the contacts. And in the end, when I was thinking, "Well, no one else is doing this," I was checking the news feeds every day. So I'm going to have to do it myself because it's a great idea.
+
+And so I spoke to somebody who I respect immensely, who's our chairman, Sean. And I said, "Look, this is what I want to do. What do you think about it?" And he said, "Yep, absolutely love that idea, Andrew, but change this one bit of it."
+
+Which is how it went from being "I think I can do this" to "I can do this" to "we are doing it" to we're actually live listed and growing pretty successfully actually, and on the IG platform.
+
+**IG Interviewer:**
+Yeah. Yeah. Really, really exciting. And it's amazing to see, obviously I'm very, very busy running the business, but when I look at the market and you can see people are buying and selling and the price is going up and the liquidity and things like that, it's fantastic.
+
+**Andrew Webley:**
+And those platforms like IG, I've got an IG account myself. I've had one for many, many years. It's probably the best platform in terms of technology. It's definitely the best platform. Definitely the best app as well.
+
+So for me to see those sorts of platforms trading my very own company... When we listed the old business, this is going back 16-18 years ago on the stock market, my former employer, I was a core part of the team that did that, very senior. But it wasn't my business. I was a shareholder but I was one of the team.
+
+When you list your own business, that's your life's work that you've put 15 years, pretty much seven days a week for those 15 years. And then you see that trading on the stock market. It's pretty cool.
+
+**IG Interviewer:**
+And so as we speak at the moment, the market cap is 45 million approximately?
+
+**Andrew Webley:**
+Yeah. It's come down a little bit. Yeah.
+
+**IG Interviewer:**
+And so how should potential investors think about that? What's the profitability from the core business and then how are you using the balance sheet in the treasury on the digital side?
+
+**Andrew Webley:**
+Yeah. So, it's really important to understand what you're investing in when you invest in anything.
+
+One of the things that I felt in terms of why we ended up listing my business was I wanted something to invest in that was similar to what we're doing that I had confidence in.
+
+So how do you get confidence? Well, you've got to have a good management team. Obviously I'm not an arrogant person. I would hope that I'm not. But we've got someone like me who works very, very hard, who cares about it, who's very invested in it.
+
+We've got one of my other directors, Tyler. He runs the biggest Bitcoin media company in the world, the biggest Bitcoin conference in the world. Really, really successful. Runs a hedge fund, one of the top five performing hedge funds globally in the last 12 months. Part of one of the companies that's been the most successful global equity in terms of price performance when you screen everything above $250 million, Japanese company called MetaPlanet.
+
+So, we've got a good team. I think we've got a very, very low cost base. So, if you look at our admission document which is on our investor relations website, it's clean, tidy, the sort of thing I would want to invest in.
+
+The business is growing. In all fairness, I can say that we've been profitable every year for 15 years. I'm not allowed to and I wouldn't guarantee we'll be profitable this year because of the slightly higher costs, but that's certainly the objective.
+
+It's very easy for anyone to look at our capital position. So, last night we did a fundraising. We did it start to finish within four hours. We raised pennies below 3.5 million pounds. We did it at the market price.
+
+We did another fundraising a week ago. We did that at the market price. We raised a little bit over 2.2 million then.
+
+So we've got a lot of capital and we're managing our capital as the business grows in line with the company's beliefs which are obviously developed from my own beliefs.
+
+So I think the short answer is people need to, as with anything, understand what they're investing in. Some people love what we're doing from the website side of things. Some people love our medium to long-term acquisition plans. Other people absolutely love what we're doing on the Bitcoin side.
+
+**IG Interviewer:**
+So is SWC a proxy for Bitcoin to the same degree that MicroStrategy is? Is that the balance, would you say?
+
+**Andrew Webley:**
+I would say more so. My favorite sector in the world is companies that have got Bitcoin on their balance sheet. I hold six or seven of them at the moment. It's a sector that I know in detail.
+
+The only rule that you really get in that sector is the smaller the company, the higher the MNAV, which is the correlation between the market cap and the underlying assets that that business has got, excluding any operating business.
+
+So that's a figure that we all use and if you look at the 85-90 public companies with Bitcoin on their balance sheet, you'll see the smaller the company, as a general rule, the higher the multiple they trade at.
+
+Michael Saylor from MicroStrategy is obviously the god in our world. He's the pioneer of that particular model. The thing that he's got though is that because he's so big, any capital that he raises, no matter how clever the strategy is, does it make that much difference to give that much additional return?
+
+What you've got in the first couple of years of life as a company like this is you've got that uber upside, which is where it gets very, very exciting. Because if you think about us for example, we can raise a fairly modest amount of money at hopefully very, very good terms and we can make a massive difference to how the balance sheet looks.
+
+So that's why the smaller the company, the better the premium.
+
+The other thing that I've noticed as we've obviously become a listed company is that there's an element of price that gets applied to the team. So, if you look at Tyler and myself, I think people think that we can do what we say we're going to do. We believe we can do what we say we're going to do.
+
+And then you've also got the fact that it's a UK listed company. So there's a slight premium that's probably attached to that.
+
+**IG Interviewer:**
+And which part of the market are you listed on? It's Aquis, isn't it?
+
+**Andrew Webley:**
+Yeah. So, when we decided that we'd do this, we looked at the speed and the cost of becoming a listed company. Aquis was cheaper and Aquis was quicker.
+
+Everyone said to me the liquidity isn't very good on Aquis. I disagree with that because yesterday we traded something like three and a half million pounds worth of stock.
+
+**IG Interviewer:**
+And it's clearly dependent on the company and the idea because you've grown to be the most liquid company traded on Aquis in a very short time period.
+
+**Andrew Webley:**
+Yeah. Well, in fact, roughly speaking, if you look at our company versus every other company on Aquis, we probably trade eight times the volume of the entire market. So it's pretty significant.
+
+As an IG client or any other platform client, do you care what market it's listed on as long as you can trade it? As long as you understand the company and you've got access.
+
+**IG Interviewer:**
+Yeah. It's about the liquidity of a stock. It's not about the market to a degree.
+
+**Andrew Webley:**
+Sure. That argument becomes different when you get on to much, much larger institutional investors, sovereign wealth funds and things like that. But certainly for people like, well certainly me and I assume you, it doesn't really matter as long as the platforms support it.
+
+**IG Interviewer:**
+Yeah. Yeah. Exactly. So speaking about that then, so how many Bitcoin does the company have in the treasury at the moment then? Are we allowed to discuss that?
+
+**Andrew Webley:**
+Yeah, we would have to refer to the most recent announcement which was yesterday morning. And it was a fraction under 20, right?
+
+Versus the cash that we've got at the moment, which in the majority, almost entirety, will be managed with the digital asset treasury policy that we've adopted as a business.
+
+On the train on the way to see you today I was reading some figures. And they were suggesting that we've got enough capital to have somewhere between 80 and 100 Bitcoin on our balance sheet.
+
+I don't think I'm allowed to put a figure on that, but I certainly wouldn't disagree with that number. So we're in a good position.
+
+**IG Interviewer:**
+Yeah. And then obviously Strategy has these incredible bond structures with the convertibles. Is there a limit to what you can do if you don't have the availability to convertible bonds or is that a plan in the future as well?
+
+**Andrew Webley:**
+Not really. So in all the different markets in the world, the States, Japan, France, the UK, you've got kind of the same toolbox in terms of capital strategies.
+
+The only one that isn't quite as easy in most other countries other than the US is the ATM model, at-the-market offering. But broadly speaking, you've got the same.
+
+What I believe, which is what we'll do as a company, is that as you're smaller you should stick with traditional equity raises.
+
+One of the great things about the UK, which people don't give us enough credit for, is that for smaller companies it's actually very easy to issue stock, providing you've got demand and you've got someone that wants to buy the stock.
+
+**IG Interviewer:**
+But is that a problem in the dilution of the existing shareholders?
+
+**Andrew Webley:**
+Yeah, so dilution is an interesting thing. I feel quite strongly that people shouldn't have price dilution, which is why we've always raised, albeit on a sample of two raises after we've been admitted, we've always raised at the market price.
+
+**IG Interviewer:**
+Ah, okay.
+
+**Andrew Webley:**
+So if you think about the raise that we did last night, we did it at in excess of a 50% better price than we did it a week ago. We raised just over 50% more capital than we raised a week ago.
+
+So I don't think anyone minds dilution if it's for the business growing. What people don't want in my opinion is they don't want dilution where their capital isn't deployed efficiently.
+
+The raise that we did last night, off the top of my head, is probably something like a 7% dilution. But the flip side of that is yes, you've got 7% less interest in the overall entity, but the overall entity's got the best part of three and a half million cash.
+
+**IG Interviewer:**
+That was going to be right. So there's no debt in the company.
+
+**Andrew Webley:**
+Correct. It's all been done through equity financing and then additional raises in the future.
+
+**IG Interviewer:**
+Exactly.
+
+**Andrew Webley:**
+So, as we get much, much bigger, when we pass 100, 200, 300 million market cap, maybe we'll explore some debt things. But whilst I'm a very, probably adventurous investor in some ways, I'm also very cautious. This is my life's work, this business.
+
+I don't want to do anything whilst I'm very ambitious and keen to get somewhere relatively quickly. I don't want to do anything that would endanger the business. So we'll be very sensible on that side of things.
+
+And to be fair, in our industry people offer 0% discount, 0% debt over five years and things like that. You wouldn't have to pay any sort of coupon if you know what you're doing in our space anyway.
+
+**IG Interviewer:**
+Now, for the balance, are there any risks outside the price of Bitcoin going down, which is obvious? Are there any risks that potential shareholders need to know about?
+
+**Andrew Webley:**
+I think probably the most important thing is when you look at any company is do you trust the management? Do you believe that they can execute their stated strategy? Do you believe that they're aligned with your interests?
+
+Clearly myself and my family are very aligned with the interests of our shareholders. That's probably the biggest one.
+
+Underneath that you've got the other side of things which is, not only do you believe them, but have they made the best possible endeavors to ensure that all the sensible things... So for example with us, you've got custody arrangements. Are those custody arrangements as robust as they should be?
+
+I think because of my background we've addressed the vast majority of those things very, very well. We've got the advantage as well that for anything that's a bit unfamiliar, one of our directors, Tyler, he's been there, seen it, done it on multiple occasions with a very similar sort of a business.
+
+So that's probably the biggest risk as with any company.
+
+**IG Interviewer:**
+Yeah. Andrew, thank you so much for joining us today. It's going to be a really interesting journey to keep our eye on. And any more questions? Where can people get in touch with you?
+
+**Andrew Webley:**
+So the best thing to do if you want to find out more about our company is go to our website www.smarterwebcompany.co.uk.
+
+Whenever we put any news out, we put it on our Twitter. You can find the link to our X page, which I always call Twitter, at the bottom of the investor relations website.
+
+Within the website there's a dedicated section for investor relations.
+
+One other cool thing is there's an emerging community that is nothing to do with the company, right? Other than they are interested in the company, that's very active on X. So, speak to other people, like of course speak to us and ask us what we're saying, but also speak to other people that are nothing to do with the company and see what they say about us.
+
+**IG Interviewer:**
+Excellent. So the ticker SWC and we're listed on the Aquis Stock Exchange in the UK, available on all the major platforms, especially IG. That's a great way to finish. Thank you so much for joining us and I'm really excited to follow the journey.
+
+**Andrew Webley:**
+Thank you.
+
+---
+
+**End of transcript**

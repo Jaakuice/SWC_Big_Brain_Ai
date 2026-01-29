@@ -1,0 +1,72 @@
+# Smarter Web vs MicroStrategy
+**Jesse Myers on Corporate Bitcoin Strategy | Blockchain Report**
+**Date: 2025-09-10**
+**Video ID: 1kN68ay5W0w**
+**URL: https://www.youtube.com/watch?v=1kN68ay5W0w**
+**Duration: ~14:42**
+**Channel: Blockchain Report (Roxom TV)**
+**Host: Roxom TV Host**
+**Guest: Jesse Myers (COO, The Smarter Web Company)**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- Defending Bitcoin treasury strategy against "marketing stunt" criticism
+- Bitcoin as the best treasury asset for strengthening business balance sheets
+- Life cycle stages of Bitcoin treasury companies (Stage 0 through Stage 3)
+- Critical mass needed to survive a bear market (~few hundred BTC + infrastructure)
+- ATM facility as vital piece for replicating MetaPlanet's success
+- Smarter Convert: Bitcoin-denominated convertible notes vs fiat debt
+- UK regulatory trajectory: FCA allowing Bitcoin ETNs as positive signal
+- Lessons from Strategy: avoiding fiat convertible notes and convertible arbitrage attacks
+- Lessons from MetaPlanet: organic growth and building Bitcoin yield track record
+- Warning against "one-and-done" big Bitcoin buys without establishing a flywheel
+
+---
+
+**Host:**
+(0:00:00) Yeah, and I'm glad you brought up MetaPlanet, Jesse, because, you know, there's plenty of critics out there right now that are saying that kind of to your point that corporate Bitcoin strategies are nothing more than marketing stunts or a way for struggling companies like MetaPlanet to slap Bitcoin on the balance sheet and then pump their stock. So, how do you make sure Smarter Web isn't mistaken for that with your own Bitcoin Treasury play?
+
+**Jesse Myers:**
+(0:00:27) Yeah, you know, first and foremost, what we're trying to do and you know, we want to be quite clear is we're just trying to strengthen the balance sheet of our operating business, you know, and we believe that Bitcoin is the best treasury asset in the world. And so, we want to accumulate Bitcoin to strengthen the balance sheet of the business. And you know, is there anything wrong with that, right? Like there's there's never anything wrong with trying to strengthen the balance sheet of your business. And you know a lot of companies have popped up to try to be you know opportunistic especially in Q2 this year to sort of follow the Bitcoin Treasury strategy and get a pop in their share price and you know some of them were in it for the wrong reasons. But I think having that conviction in you know in Bitcoin and conviction in this you know MicroStrategy model for long-term success and for delivering shareholder value over time is I think vital for making it clear to investors like you know you're in it for the right reasons and you are committed and laser focused on adding Bitcoin per share for the long term because this is a once in a species opportunity. You know, as we transition from analog money, from analog store value assets to digital capital, as Saylor likes to put it, you know, there's a digital gold rush happening right here, right now. And if you have the opportunity to capitalize your business on Bitcoin and grow that capital base, it's the most valuable thing you can be doing for shareholders. And we firmly believe that at Smarter Web.
+
+**Jesse Myers:**
+(0:02:22) So, you know, I think there is a certain amount of wariness that investors should have towards any Bitcoin treasury company. You have to, you know, the leadership has to believe in Bitcoin and understand the reasons why Bitcoin is the best asset in the world and why there is an urgency to accumulate as much Bitcoin as you can and add as much Bitcoin per share as you can. Because, you know, this opportunity will go by quickly and it's, you know, the opportunity for the next decade is tremendous. It's off the charts. It's, you know, once in a generation. It's once in a species really. And there's a lot of companies who don't fully understand that or believe that or preach that. And I think we've seen over the last two months of sort of contraction in the Bitcoin treasury company space globally how a lot of those companies have stopped communicating or kind of stopped their flywheel but you know at Smarter Web, we've remained focused and continued on our path and I think shareholders see that authenticity and that genuine conviction and it's what sets you apart.
+
+**Host:**
+(0:03:39) Yeah. And Jesse, as we see more companies rushing to accumulate as much Bitcoin as they can on their balance sheet, we're seeing a lot of new offerings come up so that they can fund these Bitcoin purchases, right? Like Saylor used convertible bonds to fund Strategy's Bitcoin war chest. Do you see Smarter Web playing with similar Wall Street toys or do you have to get more creative given the UK market rules?
+
+**Jesse Myers:**
+(0:04:07) Yeah. I think everything that Strategy has done is possible in the UK. And our view is that as a Bitcoin treasury company you go through life cycle stages. Probably life cycle stage zero is can you get to a critical mass of Bitcoin on the balance sheet, an infrastructure in place and you know an investor community that supports you to survive a bear market for Bitcoin treasury companies. And I think you know that means getting a few hundred Bitcoin and having the sort of fundraising tools in place and a track record of delivering Bitcoin yield. And I think we've seen over the last two months that a lot of businesses, a lot of businesses who have purported to do this strategy didn't reach that critical mass or didn't pass that filter and will likely get stuck in that, you know, stage zero.
+
+**Jesse Myers:**
+(0:05:15) Beyond that, I think there's, you know, the first life cycle stage is using equity issuance to grow your balance sheet. And then eventually getting to a place, you know, with private placements and then eventually getting to a place where you can add an ATM facility to do that in the market constantly. And that's kind of the critical piece in my view to repeat the MetaPlanet story and obviously Smarter Web has that. Not many Bitcoin treasury companies in the world have that. But it's a vital piece of success here and it's only possible if you achieve a certain level of liquidity, which means a certain amount of trading volume for your stock. And that means there's a certain amount of enthusiasm globally for what you're doing. So you know you got to get to that stage before you can start layering in in my view healthy debt like our Bitcoin denominated convertible notes called Smarter Convert that we've now started to layer in. And those tools I think will allow us to grow through stage two really that's like ATM plus potential intelligent debt to grow to a point where like MetaPlanet is now where they are now kind of transitioning into stage three which would be you know adding preferred equities because you have a sufficiently large balance sheet and you're creditworthy enough that this makes sense.
+
+**Jesse Myers:**
+(0:07:02) And I think it's path dependent. You know you can't shortcut your way to stage three. You have to grow organically through these stages to get to that balance sheet where it starts to make sense to add preferred equities. And then you know stage three is growing to become like Strategy is today. And I think MetaPlanet will probably do that over the next couple years or, you know, and then we'll see where Strategy goes from over the next couple years. They're in their own ball game.
+
+**Host:**
+(0:07:32) Yeah. I mean, it seems like everybody's kind of playing their slightly own ball game for different reasons, right? Like with you over in the UK out there, regulators are already calling Bitcoin high risk in a lot of places. So, how do you plan to navigate that narrative and convince investors that holding Bitcoin isn't reckless, but actually responsible and maybe even irresponsible to not hold it? What's your pitch to them?
+
+**Jesse Myers:**
+(0:07:57) Yeah, that for me, it's all about the direction that regulatory clarity is going in a country. And I think what we've seen in the UK over the last year is Bitcoin is going in the direction of greater acceptance and clarity. The FCA has not allowed Bitcoin products for retirement account capital. But they have now said that okay we'll allow Bitcoin ETNs which is you know a bit short of a Bitcoin ETF but a good development and if you think back you know 18 months ago the US allowed Bitcoin ETFs and in my view the biggest beneficiary of those you know of that increased regulatory clarity for Bitcoin was actually MicroStrategy because suddenly you know if it's acceptable and it's clearly allowed to have you know Bitcoin exposure in a portfolio it suddenly opened up a lot of investors, institutional capital to Bitcoin.
+
+**Jesse Myers:**
+(0:09:04) And at that point you have the choice of am I going to allocate to a Bitcoin ETF where I will track Bitcoin or would I like to allocate to a company whose strategy is to grow Bitcoin ownership over time and I think that you know MicroStrategy has... I think 18 months ago the narrative was that Bitcoin ETFs will kill enthusiasm for MicroStrategy as a proxy for Bitcoin. But I think we saw the opposite where it increased the flow of capital to MicroStrategy because with you know increased clarity for Bitcoin investments suddenly that value proposition of this company, this leadership team is going to work on your behalf to grow your Bitcoin ownership over time. That became incredibly compelling. And I think we'll probably see the same sort of arc play out in the UK over the next 18 months as you know Bitcoin investment products come online now and that increased regulatory clarity turns into greater openness to investing in Bitcoin treasury companies in the UK.
+
+**Host:**
+(0:10:22) And as someone who's had the ability to kind of look at what MetaPlanet has done in Japan, what Strategy has been doing in the United States, are there any lessons that you're borrowing from each of these respective companies and how they're approaching their Bitcoin accumulation? And on the, you know, on the alternative, are there any mistakes or things that you think you guys might want to do differently and, you know, you don't want to repeat that maybe they did?
+
+**Jesse Myers:**
+(0:10:49) Yeah. There's definitely lessons that you know we can and have and will learn from Strategy and MetaPlanet in particular. From Strategy there's the sort of watch out to avoid traditional fiat denominated convertible notes because those are open to a sort of not friendly investment strategy called convertible arbitrage where hedge funds can acquire that convertible note and then simultaneously short your stock because it hedges out exposure and they just collect the coupon, the 6% interest rate or whatever, without any Bitcoin risk or any equity risk. So that's one thing here. It's like, okay, don't do that. Even though ideally you know you would love to have your liabilities be denominated in dollars and then your assets be Bitcoin because we understand that's the basis of the speculative attack. You know, the Bitcoin will grow in purchasing power and the dollar liability will shrink in purchasing power. It's just how it goes. But because of these other dynamics, it's probably not a good idea to take on that kind of debt. So, you know, that's one watch out.
+
+**Jesse Myers:**
+(0:12:24) And then, you know, there's other lessons. I think MetaPlanet has shown that, you know, the only way to grow to scale from nothing is to start small and organically grow your investor base based on the track record of delivering Bitcoin yield. And I think that means, you know, there have been other companies, especially in the US, whose approach has been to buy a bunch of Bitcoin upfront and you get to a large scale, but you don't have a flywheel going. You don't have a Bitcoin treasury company Bitcoin yield flywheel, where you show that you're growing Bitcoin per share relentlessly over time. Instead, you just have a, you know, a one-and-done big buy of Bitcoin. And that doesn't justify a high MNAV because an MNAV is based on you know the market's belief, perception, collective consensus that this company will add, you know, x amount of Bitcoin per share over time. And so if you don't have a track record of doing that, then there's no reason to trade at a premium.
+
+**Jesse Myers:**
+(0:13:36) And so I think we're seeing the pitfalls of that in the US in particular and lots of, a handful of companies are trading under 1x MNAV because they don't have a flywheel and there's a lot of investor doubt that they will ever be able to have a flywheel because they sort of jumped to scale. So I think that's like a watch out of like you got to avoid that. You got to avoid shortcuts to get to scale. And instead you have to go the long way. You have to build your track record of delivering Bitcoin yield and grow your investor base organically over time to get to a MetaPlanet size scale and then that allows you to then kind of aspire to grow into MicroStrategy. So, you know, I think there's a ton of lessons that are emerging right now in this space because the space is brand new and everybody's experimenting. And I think it'll be clear a few years from now that the winning formula was to do what MetaPlanet has done and that's what Smarter Web is doing in the UK.
+
+---
+
+**End of transcript**

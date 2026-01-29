@@ -1,0 +1,235 @@
+# Smarter Web Company: Listed on UK Stock Exchange & Upcoming Conference
+**Interview with Andrew Webley**
+**Date: 2026-01-21**
+**Video ID: S4JojGRqcQ0**
+**URL: https://www.youtube.com/watch?v=S4JojGRqcQ0**
+**Duration: ~60:00 (estimated)**
+**Channel: The Bitcoin Libertarian**
+**Host: The Bitcoin Libertarian (Hong Kong)**
+**Guest: Andrew Webley (CEO & Founder, The Smarter Web Company)**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- LSE Main Market listing imminent: First day of trading Tuesday Feb 3rd, 2026
+- SWC now holds 2,664 BTC - 29th largest Bitcoin treasury company globally
+- FTSE 250 inclusion potential: £50M+ inflows on day one, plus £12M per £100M market cap gain
+- Bitcoin Treasuries Unconference UK announced: May 29, 2026 in Bristol (25+ speakers)
+- Institutional access unlocked: Many funds couldn't invest in Aquis-listed companies
+- Trading 212 and other brokers now accessible post-LSE listing
+- Share buyback authority in place for sub-1x MNAV scenarios
+- Preferred equity instruments: genius innovation but requires larger balance sheet
+- Digital capital thesis: Bitcoin treasury companies as most valuable sector globally
+- Strategy advice from Saylor: "Just copy all the bits that work"
+
+---
+
+**The Bitcoin Libertarian:**
+(0:00:00) Hello, this is the Bitcoin Libertarian. Our guest today is Andrew Webley. Andrew is the CEO and founder of the Smarter Web Company, a London listed tech firm that is pioneering the use of Bitcoin as a core treasury asset in the UK. Under Andrew's leadership, the company has built one of the largest public Bitcoin holdings outside the US giants with over 2,664 BTC on the balance sheet as part of their 10-year plan to grow Bitcoin per share while running a profitable web design and digital service business. Today, we will talk about their intention to list on the main market of the London Stock Exchange, recent Bitcoin purchases, and most excitingly the announcement of the Bitcoin Treasuries Unconference UK set for May 29, 2026 in Bristol. Andrew, welcome.
+
+**Andrew Webley:**
+(0:01:00) Thank you. Nice to see you. How are you?
+
+**The Bitcoin Libertarian:**
+(0:01:03) I'm fine. I'm fine. Very happy to be here talking to you. Getting ready to listen to the news from Smarter Web Company and also really excited about the Bitcoin Treasuries Unconference in the UK where I will be a speaker. It's going to be my first time speaking in an English conference in the Bitcoin space because I've been speaking but only in Spanish. So I'm so excited for the conference. And I think last time we talked was late November, early December. How have things been going since then for Smarter Web Company?
+
+**Andrew Webley:**
+(0:01:45) Yeah. So, we've been really really busy. I think people can see from the announcements that we've put out in the last sort of week or two that we've been working quite hard behind the scenes. The last four or five months, obviously the share price has been under pressure. In December we traded at a 0.7x MNAV approximately. But when all of this has been going on we've been working away trying to make the company ready for what we believe will be its next move forward.
+
+And this year when we got into January and we were able to announce our intention to list on the main market, the Bitcoin Treasuries Unconference, and in the future hopefully a few more things, it's been quite nice because people externally to the company can actually see some of the things that we haven't been allowed to talk about. So yeah, so far so good.
+
+I think this year, obviously the movement of Bitcoin, which I believe at some point will go up considerably, will have a direct impact on our company because we hold such a large amount of our balance sheet in Bitcoin. But away from the movements of Bitcoin, we're just trying to push the company forward, trying to build the Bitcoin per share over time, increase the Bitcoin yield and all those sorts of things. So yeah, I'm pretty happy with everything that we've got going on in the company at the moment and looking forward to being able to tell people a little bit more.
+
+**The Bitcoin Libertarian:**
+(0:03:30) Excellent. And talking about the latest movements on Bitcoin, what do you think happened this week? Because we went through a very rough late 2025 when the price went up and then crashed down to nearly 80. Now we saw a little recovery but this week we went back under 90. What do you think about that?
+
+**Andrew Webley:**
+(0:03:55) Yeah. So there's lots of different theories of why Bitcoin is not going up at the end of the day. But if you look at it in terms of after last year, so basically the start of this year, it had a good start and then it's come down a bit. That's not uncommon to a lot of moves that you would see at the start of the year, renewed enthusiasm, etc. Let's see what happens over the next couple of days. But I believe that Bitcoin is going to begin its move up any moment. But it's hard to know. There's one thing that I've learned about Bitcoin is that you cannot predict what it's going to do, which is why it's always good to buy Bitcoin and accept that it's either going to go up, down, or remain flat for that day.
+
+I'm not everyone believes that this year will be a good year for Bitcoin. I had a conversation with an institutional investor yesterday and their opinion, which I share to a degree, is that the hedge funds out there control so much of the movements in different markets nowadays. So if you look at like gold and silver for example, which have obviously had a great year last year and got off to a reasonable start this year, there's a lot of interest there. So until Bitcoin starts to make a move that is above us all thinking "right, this could be it," it needs a more sustained move to bring that wider interest back from the people that don't care about Bitcoin.
+
+The one thing that we've got with Bitcoin though, if we just all zoom out a little bit, is the fixed supply. So whilst everyone would probably love to see it rocketing up this morning, this afternoon, whatever, we all know that it will go up at some point significantly.
+
+One of the things I've been spending a bit of time thinking about is the increasing focus on yield strategies for Bitcoin, effectively trading around Bitcoin holdings, which we do not do, and I don't think we'll ever do. And I'm not sure whether that is particularly helpful when there is less positive sentiment in a market because it sort of eats the movement for the people that are flipping it for a percent here and there. So I'm not sure whether that's something that I'm particularly keen on. But it's been a good start to the year. Yes, we've come off a little bit the last couple of days, but for those of us hypothetically speaking buying a bit of Bitcoin, it's not necessarily a particularly bad thing.
+
+**The Bitcoin Libertarian:**
+(0:06:30) Yeah, I think that what happened these days was mostly macro movements that affect all the assets because yesterday the S&P lost all the earnings for the year. So I think that it's not related to Bitcoin. And I agree, I think that this year is going to be super bullish for Bitcoin. I'm super bullish on Bitcoin.
+
+**Andrew Webley:**
+(0:06:50) If you go back a few years and you look at some of these macro events, Bitcoin would have had a complete freakout. What we now see with these serious things happening in the world is Bitcoin doesn't move negatively that badly with some of these things. If you look at over the weekend, for example, Bitcoin was relatively flat. Yes, it did come off a little bit when the futures opened on Sunday evening, and obviously it's not had a great week so far. But historically, going back years as opposed to weeks, Bitcoin would have freaked out at some of these things quite significantly. So that shows you that the institutionalization of the asset is actually doing what everyone says it will do.
+
+And then if you go back to the fixed supply side of things and you look at Strategy for example, they own so much of the asset now. The other Bitcoin treasury companies like ourselves are trying to do our best. So you've got these big entities taking up the supply, clearly more than that's being mined. And at some point the buyers win. It's just that for the last 6 months or however long it's been, the sellers have been winning the fight. But that won't last forever.
+
+**The Bitcoin Libertarian:**
+(0:08:15) Yes. And what do you think when Saylor starts announcing in the past weeks, he's buying Bitcoin as if there were no tomorrow, he's buying billions of Bitcoin. What is your take about what Saylor is doing?
+
+**Andrew Webley:**
+(0:08:35) Well, I think it's fantastic. The more that he can buy, the better. He's done a fantastic thing for Bitcoin over the years. A lot of people have disagreed with the public company model. Clearly, I don't because I run a public company with a similar strategy.
+
+And when I get into a discussion with somebody who starts debating the rights of a public company to do what we do, then I use two arguments. One is that Bitcoin is for everyone. And that includes all of these companies that are building their balance sheet on it. And then the second thing is, most of the people that don't like the public companies that are buying Bitcoin, they do like the price contribution that we make to Bitcoin. And the reality is at the end of the day that if we're going to build the world on digital capital, we need companies like ourselves that can buy Bitcoin and then do various different things with their balance sheet because it's been built on the best asset in the world.
+
+**The Bitcoin Libertarian:**
+(0:09:45) Let's talk a little bit about the intention of listing on the London Stock Exchange. How is the plan and how advanced is it, of course all the things you can talk about?
+
+**Andrew Webley:**
+(0:10:00) Yeah. When you decide to list a business on the main market of the London Stock Exchange, it's quite a big deal. If we go back to when we decided to IPO our business originally, which happened in April 2025, that was quite a big process to get that done. Not in cost, but in effort, you're probably looking at 10 times as much work. It's a big deal.
+
+And I'm really pleased with how all of our advisers have worked together alongside the team and obviously me to get us into the shape that we're in. It's been a colossal amount of work. And the outcome of that is that all being well, in the early part of February we'll be listed on the main market of the London Stock Exchange.
+
+What we decided to do with the advice of our advisers is not publish that intention to float until the Monday just gone. The reason for that is that we wanted certainty, or what we believe is certainty. And then very shortly after that, last Friday, we published the prospectus which outlines the timetable. And broadly speaking, whilst remembering that nothing is done until it's done, we think that everything's in place in line with that timetable which means the first day of trading is Tuesday the 3rd of February.
+
+So what we're doing at the moment is quite a lot of things, but with regard to the listing, we're just making sure that we've sent all the details back to the London Stock Exchange of the people that are attending, that we're trying to have a couple of spaces where we can invite shareholders, do some sort of a raffle, to make them part of that as well because the community is one of the things that's made the Smarter Web Company into what it is today.
+
+Alex who works alongside me in the operating side of the business, he's been creating all the graphics that go on all the cool screens there. So yeah, we're really looking forward to it. Our brokers and someone else in the team, they've been organizing various different investor meetings both in the UK and globally. So we've got some quite intense days coming up with those. Because there have been a lot of people that have been unable to invest in our company when we're on the Aquis growth market. Which has been very good for us. But then we're looking forward to some of those people being able to invest in us when we're a bigger company listed on the London Stock Exchange.
+
+And then after that, there's lots of other things that happen. For example, in theory, we will be included in some of the indexes and then more indexes as we grow, or bigger indexes is a more accurate description. So yeah, it's a significant moment for the company. I don't think anyone can underestimate how important that is. Because we're already an incredibly liquid stock. But if we can increase the access to investors, institutional and global retail, then it's clearly going to be a beneficial thing for our company and how we can grow the balance sheet over the coming weeks, months, and years. Ultimately being able to buy lots more Bitcoin.
+
+**The Bitcoin Libertarian:**
+(0:13:45) How much more opportunities can you get by being listed on the London Stock Exchange compared with now that you are on Aquis? What other opportunities can you get?
+
+**Andrew Webley:**
+(0:14:00) Yeah, there's loads of benefits. So the vast majority of institutional investors are unable to invest in a smaller company or a smaller company on Aquis. A small company to them might be 300-400 million pound market cap. It's a small company, isn't 10 or 20 million pound market cap. So that's the first thing. And they also have a restriction with the volume of the stock. So that's what they look at, away from the actual company itself, they look at the size of the company and the liquidity of the company.
+
+There aren't any indexes that will include a company that's on Aquis. So the index inclusion is massive. As an idea, if in time we can get in the FTSE 250, you're probably looking at in excess of, you know, on day one or very shortly after day one, 50 million pounds plus of capital that would come in by being in that index. And then you've got the governance side of things. So because the rules are that much stricter, for example the prospectus that we publish is an FCA approved document. So that's one of the reasons why we've been building out the team and building out the board. Because the corporate governance and compliance that you have to deal with is vastly greater, which then gives those bigger investors confidence and that's one of the reasons why they want to invest in companies on that market rather than that market.
+
+So there's a whole host of opportunities there. From a retail investor point of view, it will make it easier for us to include retail investors in subsequent raises. So that's one thing that we did right at the start which I'm very keen to do again. And then I'm hoping that the liquidity will be better and also the spreads will be tighter. In theory that should be true, but obviously we'll have to wait and see.
+
+And then also there are some brokers even in the UK that won't trade an Aquis stock. Some of the platforms which are popular with a lot of types of investors, Trading 212 is a good example. They will then allow their investors to trade our shares. We've had so many emails over the months of "when can we buy your shares" for that.
+
+And I was speaking to a different institutional investor yesterday. And being a global investor, it's actually very difficult for them to access our stock at the moment. So yeah, it's all of the things that you would want, accessibility, liquidity, and all of that stuff. So I'm hoping that it will be something that we look back on and, you know, obviously we've done our best so far, but I'm hoping that this will be part of what lets us go to the next level.
+
+**The Bitcoin Libertarian:**
+(0:17:00) I can say that you told me that you don't like football, but it's now like the Smarter Web Company is leaving the Championship to start playing in the Premier League.
+
+**Andrew Webley:**
+(0:17:10) Yeah. And let's see how long it takes us to go to the top of the Premier League. I think with the way that we've got our company strategy clearly identified for everyone, I think that we've got a very good chance of rapidly growing through the ranks.
+
+And you see, what you get is if you manage to get into an index, there's a lot of fund managers that use that index for their performance. So if you are a company that outperforms the index, it's not just the passive money that will be interested, it's also the active money because they're almost forced to consider you more than they would do otherwise. And all of that's good for the UK, it's good for companies that are trying to grow. It's great for Bitcoin. So there's loads of different angles here. We'll just have to keep taking it one day at a time, trying to move the company forward and see if the theory plays out.
+
+**The Bitcoin Libertarian:**
+(0:18:10) Yes. At the end of the day, I think all that you mentioned, that if you are on the London Stock Exchange, you have access to indexes and you have access to more money. So that's important. And this money will be turned into Bitcoin.
+
+**Andrew Webley:**
+(0:18:25) Yeah, very much so. The good thing about the model that we've got is that it all fuels off each other. Which, for balance, works in the less good times against you as well. But if you've got a good market with sentiment, all of the different things that we've got, whether it's our placings, our ATM style facility, the operating business, whatever we're doing to generate capital or cash, they all work well together.
+
+And one of the things that a lot of people don't fully appreciate with the ATM style facility that we've got is that it scales perfectly as well. And that's one thing that's really really important. And I think people will see that if you look back at say Strategy or MetaPlanet and you look at their, in MetaPlanet's case their floating warrant arrangement and in Strategy's case the ATM facility, they wouldn't be where they are today without that. And once you get your balance sheet to a particular size, then you have more options from there as well. So yeah, we're pretty certain, or as certain as you can be, that it's the right move, taking the company to the London Stock Exchange. And yeah, we can't wait.
+
+**The Bitcoin Libertarian:**
+(0:19:45) Excellent. And the sentiment toward Bitcoin treasury companies seems to be shifting positively this year compared with last year that was not so good. From your conversations with institutional and retail investors, what are the biggest misconceptions or areas of growing understanding about this model?
+
+**Andrew Webley:**
+(0:20:10) You've done a lot of work since we became a public company getting people to understand the analytics that we all look at. So things like MNAV, Bitcoin yield, etc. And I think some of that work is starting to pay off. And I think that one thing that the sector needs, that we can't control, is it needs the sentiment to come back to Bitcoin as a whole. I think that's starting to happen.
+
+My phone's been so busy for the last few weeks. Busier than it was the last two or three months of last year. I was having conversations but not every day towards the end of last year, whereas now I'm struggling to fit them all in.
+
+So I think the sentiment's coming back to Bitcoin and Bitcoin treasury companies. Whether that means that the interest then converts into effectively people wanting to put capital in, time will tell of course on that one. But yeah, it's looking quite positive.
+
+But as I said earlier, the one thing that we do need, which is contrary to what a lot of investors think, is the higher Bitcoin goes, the more the interest comes in and the easier it is to generate capital. And as a consequence of that, in theory, a positive Bitcoin yield. Whereas a lot of people think that a lower Bitcoin price is better. A lower Bitcoin price isn't good for a Bitcoin treasury company.
+
+Ignoring your balance sheet and you're only focusing on the access of capital, you want probably the ideal scenario is a slowly improving Bitcoin price. But obviously that will take the course that it does.
+
+If you look back at us for example last year, taking the whole year rather than a month here or there, you can see that in a year where you could say that Bitcoin was flat for the first period of it, in our case as a public company, or slightly up and then down. And you think that we managed to grow from almost zero Bitcoin to 2,664 which as of today makes us the 29th largest Bitcoin treasury company in the world according to bitcointreasuries.net. You can see if we can do that in a flat market or a market that's not significantly swinging in either direction, then if we do get the market that I believe we'll get this year, who knows what we can achieve.
+
+**The Bitcoin Libertarian:**
+(0:22:45) I'm sure. Yes, I'm sure. And I think again we need to keep educating people. I think that the biggest job that we have to do is keep educating people, educating investors on what are Bitcoin treasury companies because they need to understand first about Bitcoin and second about the Bitcoin treasury company. I think that is the biggest goal that we have.
+
+**Andrew Webley:**
+(0:23:10) Yeah, I completely agree. And that's why we wanted to do this conference that we announced this week. Since we became a public company, I've been to lots of different conferences. And I'm really looking forward to going to Vegas in February to go to Strategy World. I noticed this morning they put our logo on their website for that.
+
+So there's lots of great conferences out there. But there's one conference for me that stood out above all others. And that was the Bitcoin Treasuries Unconference in New York in September just gone. It was great for the people that were lucky enough to be there like me. I sat through almost every bit of content there. And it was really well produced online as well so that everyone that couldn't go there could share in the content.
+
+So we announced on Monday I think it was that we are doing the Bitcoin Treasuries Unconference UK with Ed and Tim who organized that event. And you very kindly said that you would come and speak there. And what we're trying to do with the day is we're trying to do a conference that we would want to sit through.
+
+So I've written the schedule of who's talking about what, etc. And clearly by the name and what I'm interested in, it'll be exclusively focused on the Bitcoin Treasury landscape, a little bit global, very much UK. So I'm hoping that it'll be a really good event. People can buy tickets if they want through our website. There's a discount code "offer10".
+
+And we've got some great speakers. We've got over 25 speakers I think at the moment. We've got a wait list of people that want to speak as well. We'll hopefully announce a couple of interesting names over the coming months as well to keep it interesting on the buildup. And we've got some really good sponsors. Without the sponsors, the event wouldn't be possible because you need to use the sponsorship and the ticket sales to fund the event because we want to put on a good event.
+
+So I'm really proud to bring that to the UK. And people seem relatively excited about it at the moment. I'll make sure, or certainly do my best to make sure that the day's content is great. It'll be a good chance for people to meet, whether you want to speak to investors, other Bitcoin treasury companies, all the partners that surround it, the auditors, the lawyers, the advisers, all that sort of stuff.
+
+So yeah, I'm hoping that it'll be a really good day. And if it's successful and it's well supported, then we'll probably do that in future years and build it out as we go.
+
+**The Bitcoin Libertarian:**
+(0:26:00) Yes, I think that you have a good set of speakers. And what can attendees expect from the event and why should someone attend this event?
+
+**Andrew Webley:**
+(0:26:15) Well, first and foremost, I'm hoping that it's a day of really good quality content. Because I've been building the agenda out around the content. So if you're interested in Bitcoin treasuries, i.e. a subset of the Bitcoin space, then I think that the content will be really interesting. And that's the whole day, not just one or two speeches that you want to watch.
+
+So you've got the content, and then the next thing behind that is the ability to interact with all of these different people. Whether that's the sponsors and the speakers or the other attendees. And I think some of the best moments that I've had at the conferences that I've been to have been speaking to the different people there. And whether it's somebody that you've then gone on to work with or it's just people that have shared the same views as you, or even over like a sandwich or something and just having a laugh with somebody that thinks in the same sort of way that you do. I think that's good.
+
+And then of course because it's in the UK, for a lot of people that might be interested in the event, it's easier to get to. Some of the international events are fantastic, but obviously if you've got to travel outside of the country where you're at, it can get a bit more expensive.
+
+So yeah, I would say it's about the content and then the networking opportunity.
+
+**The Bitcoin Libertarian:**
+(0:27:45) Is it going to be only conference or will there also be some booths from the sponsors?
+
+**Andrew Webley:**
+(0:27:55) Yeah. So what we've said is that the day event will have refreshments, lunch, etc. And it'll be very much focused around the talks. We might say to the sponsors, if you want to have a booth or anything like that to give out some stuff or whatever, then that's fine. But it's not like a conference where there's an event hall where people can walk around. It's very much about the content.
+
+And then for the people that buy the VIP tickets, in the evening after the drinks reception which everyone will be invited to, there's a dinner at an independent restaurant. It's pretty nearby to where the conference is happening. A menu which I shall personally select with wine and maybe we'll even stretch to some tea and coffee.
+
+So that'll be a nice thing in the evening but that will be a chilled out affair. So that's our way of saying thank you to the speakers and the sponsors and allowing people that want to come to that event in the evening to chat and unwind a bit after hopefully what is a good day of content.
+
+But yeah, it's not an event where you've got the different stalls and stands and like a trade fair. It's very much the content of the conference that's what we're trying to achieve here.
+
+**The Bitcoin Libertarian:**
+(0:29:15) Yes. How long is the conference day going to be?
+
+**Andrew Webley:**
+(0:29:20) I believe it will probably be something like 9:30 in the morning until probably like half 3 or 4, something like that. The actual content with an hour for lunch and networking. Yeah, so it's a lot of content to sit through. But as I say, the conference that inspired me to do this was the one in New York and I, well I don't have a watch anyway, but if I did I didn't look at my watch once because it was such a good day.
+
+So yeah, and of course there'll be breakout areas so if somebody wants to skip a talk or something, it's not like school where you're going to be kept in there. People can go and mingle and have meetings and chat when someone's talking if they don't want to listen to them. So yeah, it will be a busy day of content, there's no getting away from that. And we'll live stream it, people can watch it at their leisure afterwards as well or instead if they're not able to come.
+
+But yeah, if you go on to our website smarterwebcompany.co.uk and under Bitcoin Treasury, you can see a link to the page where you can see all the speakers. There's some FAQs there. You can buy tickets. And if you're in the UK and interested in it, then come along.
+
+**The Bitcoin Libertarian:**
+(0:30:45) I'm so excited about that event. So looking ahead, you're convinced that Bitcoin treasury companies could become some of the most valuable businesses in the world. What do you see as the biggest opportunities and potential hurdles for this model in the upcoming years?
+
+**Andrew Webley:**
+(0:31:10) So I think the best opportunity for Bitcoin treasury companies is that in every single market, whether you're in the UK or America or France or wherever, there is the opportunity for a company that follows a strategy that's either the same as ours or very similar to ours to become the biggest company in that market.
+
+And so I think as a sector, when you add them together, I think that sector will be the most valuable companies in the world. But if you take us in the UK, I want to become one of the biggest companies and then the biggest company in time. And I think that that's achievable with the right work over a period of time. And it's certainly our goal.
+
+When we IPO'd, I did an article in the Daily Mail I think it was, and I said that one day I want to be a FTSE 100 company, and I meant it, and I still mean it now. Clearly it's not going to happen overnight. There's a lot of work that needs to take place. But I believe that Bitcoin Treasury companies will be the most valuable type of company in the world by far. And that's the opportunity. And that's the opportunity for investors.
+
+A bit like, I don't know, I saw a clip online the other day of some chap was in his 90s. And he had bought Berkshire Hathaway at maybe the early 70s. I think he had put a million dollars into it and it's worth like $500 million now. This is the opportunity for us all over a long time period to be part of a sector that we'll probably, if we're lucky enough to be alive in 30 or 40 years and we're talking to our kids or grandkids and we're saying "remember then when this thing wasn't known by most people" and then, yeah, and that applies to Bitcoin as well as Bitcoin treasury companies. And so I think it's tremendously exciting at the moment, but like everything, a bit of patience is required.
+
+**The Bitcoin Libertarian:**
+(0:33:30) Yes, I do agree with you about the excitement. That's why we do this. I think what moves me to create all this content is a little bit of a selfish incentive because I know that in the future, probably in 100 years, someone who is going to be studying Bitcoin and Bitcoin treasury companies will come up to my podcast wherever it is on YouTube or whatever platform, probably on Nostr, and will quote, "Studying Smarter Web Company case, quote on the podcast of The Bitcoin Libertarian." This is because, as you said, if we are lucky to be alive, we have a short life, but what we do makes us immortal. So I think that we are living in exciting times because we are creating the new economic system. So for me this is terribly exciting and it's my fuel to stream every day.
+
+So Andrew, to close the conversation, for someone who is hesitant on attending, why should he or she or they attend the Bitcoin Treasury Unconference in Bristol?
+
+**Andrew Webley:**
+(0:34:45) Yeah, that's a tough question. What I'd probably say to that is just ask yourself a question. Do you know everything there is to ever know about Bitcoin Treasury companies? And if your answer to that is yes, then please send me an email because I'd like to talk to you. And if your answer to that is no, then come to the conference because you may learn a bit more about Bitcoin Treasury companies.
+
+**The Bitcoin Libertarian:**
+(0:35:10) For sure. For sure. So Andrew, anything else you want to add? How people can contact you, how people can buy tickets?
+
+**Andrew Webley:**
+(0:35:20) Yeah. So, if you go to our website, you can buy tickets to the unconference. If you want to read the latest news about what we've been up to, then all of that's available on our website as well. Just go to the news tab. If you want to follow me on X, then it's just @ASJWebley. Or if you want to follow the company, it's @SmarterWebUK.
+
+We put most of our content out on LinkedIn as well as X, but X is a bit more active. So that's where I'd recommend following us. And then to our wonderful community on X, just say thank you yet again. And hopefully some of you, we don't know how many spaces yet, but hopefully some of you will be able to attend our opening at the LSE when we do the raffle, which we're planning to do pretty soon.
+
+And yeah, let's see where we go from here.
+
+**The Bitcoin Libertarian:**
+(0:36:15) Excellent. Yes, I'm so excited also to meet the people from the community on X. And I don't know how your schedule is going to be, I don't know how my schedule is going to be because I don't know if I'm going to be in Bristol. Probably I will be staying in London and travel to Bristol. But we can record a podcast episode around Bristol and you show me around your city.
+
+**Andrew Webley:**
+(0:36:40) Yeah, that's a good idea actually because we're due to do another one in Hong Kong this year, aren't we? Because we did that one in August or whenever it was. But yeah, maybe we should do that as well. Actually, there's some really cool parts of Bristol. I wouldn't, for me because I live here, it's probably not quite as exciting as the spectacular views in Hong Kong and some of the things, but I'm sure we can do something. So we should do that. Actually, let's try and make that happen.
+
+**The Bitcoin Libertarian:**
+(0:37:10) Yes, let's try making that happen because again, yeah, let's do a podcast around Bristol. I've never been to Bristol, so it's going to be my first time. I want to go to Stonehenge that I've never been there. And it's going to be my first time in the UK since 2012. So very excited to go there.
+
+**Andrew Webley:**
+(0:37:30) Yeah. And I'm very grateful that you've taken the effort to come to the UK. You've been a supporter of Bitcoin for a long time. You've been a supporter of ours since the start. And it's been a pleasure getting to know you since we've started doing these things together. And yeah, I'm looking forward to you coming to my hometown.
+
+**The Bitcoin Libertarian:**
+(0:37:50) Excellent. Yes, for sure. So again, Andrew, thank you very much for your time. You know that the channel is also yours. So anytime you want to talk, anytime you want to give some news, just send me a WhatsApp and we make it happen.
+
+And thank you very much to everyone who is on the other side. If you like the episode, give us a like, subscribe to our channel, follow us on social media because doing so, you help us a lot in our mission of painting the world orange. Share this episode with the people you love. Share this episode with the people you hate. Because we must reach 8 billion people and give them the orange pill. See you in the next episode of our podcast. Stay humble, stack sats, and remember, we are all Satoshi.
+
+---
+
+**End of transcript**

@@ -1,0 +1,435 @@
+# Bitcoin Treasuries World #52
+**Smarter Webley Wednesday w/Jesse Myers - Tools For Low mNAVs**
+**Date: 2025-10-22**
+**Video ID: c5rD7Fr7WoA**
+**URL: https://www.youtube.com/watch?v=c5rD7Fr7WoA**
+**Duration: ~1:27:07**
+**Channel: Bitcoin Treasuries World**
+**Host: Anders (Copenhagen)**
+**Guest: Jesse Myers (Head of Bitcoin Strategy, The Smarter Web Company)**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- MNAV compression sector-wide: Most BTC treasury companies at or below 1x; SWC fully diluted MNAV at 1.06
+- Earning vs buying MNAV premium: Track record of Bitcoin yield justifies premium, PIPE deals don't
+- Winner-takes-most dynamics: Leader in each capital market gets best cost of capital for preferreds
+- Footsie 250/100 inclusion: £420M market cap threshold, £30-50M inflows on inclusion, £12M per £100M gained
+- Liquidity as lifeblood: Average daily volume critical for ATM fundraising and institutional participation
+- Tools for low MNAV: Options selling, conversion premium structures, Smarter Convert; NOT selling BTC for buybacks
+- SWC Q4 yield: +1.7% Bitcoin yield in first 3 weeks despite brutal conditions; 308% (278% ex-warrants) in Q3
+- Operating business covers "large chunk" of costs; raised £1.2M during worst MNAV compression period
+- Bitcoin price analysis: M2 money supply up 12% annualized; early whale selling at $100K targets; coiled spring thesis
+- Four-year cycle potentially broken: Haven't reclaimed gold-denominated ATH; institutional bid replacing retail parabolic advance
+
+---
+
+**Anders:**
+(0:00:01) Hello everyone and welcome to Bitcoin Treasuries World number 52 today with Smarter Webley Wednesday. One of my favorites. I'm here with a special guest, the head of Bitcoin strategy, Jesse Myers, probably director of Bitcoin strategy, but here we are Jesse. How are you man?
+
+**Jesse Myers:**
+(0:00:21) Yeah, technically head of Bitcoin strategy. You know, that may change. We'll see. We'll see. Yeah. You know, it's always good when you have the opportunity to go somewhere, prove yourself, and then titles can be upgraded. It's a pat on the back and I know you're killing it at SWC. So, happy to be watching here from the sidelines.
+
+**Anders:**
+(0:00:47) So Jesse, a lot has been going on. Since last, the whole treasuries world has been in a sentiment downgrade like sentiment has been really bad. Personally, I think the bottom's in but what I find really interesting and what I want to talk with you about today is the different tools available because we can now see we are no longer in a situation where MNAV is just going to permanently stay above 1.5, above two and the ATM is like the only thing we have to talk about. So, why don't we discuss the current situation where current fully diluted everything counted MNAV is 1.06. What's your thoughts? And what do you want to share with us?
+
+**Jesse Myers:**
+(0:01:46) Yeah, I mean you got a lot in there. And I agree, you know, I think that in the spring anybody who said they were a Bitcoin treasury company commanded a premium just by saying that you're going to do this. And there are a lot of Bitcoin treasury companies in the world, right? Like 200 or something. And very few have a track record of delivering Bitcoin yield. Right. And by that I mean like there's a lot of PIPE deals for example where the premise was let's raise a bunch of money, buy a bunch of Bitcoin and we'll trade at a premium because everybody's trading at a premium who does this. And that premium is not justified. You know, it's not earned. We like to say, Andrew likes to say you have to earn your MNAV premium. And you know, our view is that an MNAV premium is warranted if there's a track record of delivering Bitcoin yield.
+
+(0:03:04) Like, you know, what are you willing to pay for an asset that you know grows your Bitcoin by 20% a year, let's say, right? Like I don't know, maybe 1.2x. Maybe for you it's 1.5x. Maybe you don't discount the future by much. And you care about all of the next 10 years and that all adds up and you're willing to pay 4x. You know, all those are reasonable views, but 1x is the outlier there. Like if you're only willing to pay 1x for that kind of asset that doesn't actually really make sense. But you know in that is the assumption that there is a track record of delivering that such that you have a confidence that into the future a continuation of performance will happen. That's what an investor is investing in, that's their internal calculus for what they're willing to pay.
+
+(0:04:21) And so I think that, you know, the last four months has been a brutal sectorwide reckoning of, wait a second, not all of these things are equal, right? And you have PIPE deals that are designed to benefit the funds who get in at a discount at the expense of retail. Sorry.
+
+**Anders:**
+(0:04:46) That was a fantastic mute you just did there, Jesse. Like I was expecting to, you know, get that in my headset and there was...
+
+**Jesse Myers:**
+(0:04:54) I've done a few livestreams before, so you know, we roll with it.
+
+**Anders:**
+(0:05:01) You're such a professional.
+
+**Jesse Myers:**
+(0:05:01) So, you know, that's the reality, right? Like sectorwide, wait a second, why are we paying a premium for all these assets? These PIPE deals, they're designed to give a discount to funds and then the funds, you know, collect their discount and walk away. And that's what we're seeing play out, unfold, unwind really. And so, you know, I'm being mean to PIPEs because they deserve it. But there's also Bitcoin treasury companies who, you know, said they were going to do this and never got the machinery going, right? Never built a track record of execution and they don't deserve a premium either. And that's the vast majority of Bitcoin treasury companies.
+
+(0:05:53) Now, what obviously I'm going to get to is that I think the market is lumping all Bitcoin treasury companies together and saying that none of them are worth any premium. But if you have a track record of delivering, you know, Bitcoin yield, of growing Bitcoin per share, as we've already talked about, that in my view is worth paying more than 1x for if you have that belief, that confidence that that performance, the execution will continue into the future.
+
+**Anders:**
+(0:06:27) Yeah. So what I will say or add to what you're saying there you know that a track record is needed to get a premium. So obviously I'm a little biased here as advisor at Orange, but my thinking is if the setup itself that a company is in warrants in my opinion like it tells you that okay the mechanics here this market the tools available warrants a premium like for instance they're the only ones with currently a functioning ATM in Brazil which is hugely important. Then to me that would warrant a premium. But if we go look at the American market, my thoughts have been for months that no one is yielding in US, right? Well, Strategy is yielding. It's just they're so big that currently it's not so much. Probably that's going to kick in with S&P 500 inclusion just like it did with QQQ inclusion. But overall, yes. Launching a treasury company and expecting to have an MNAV and then the market just takes care of you hitting the ATM and you're generating yield. Yeah. Yeah. Yeah.
+
+**Jesse Myers:**
+(0:08:01) Agree. And fair point on like Orange and any other new Bitcoin treasury company. There's a moment, there's a window where you have a thesis that's unproven, but it may work really well. And that, you know, can just justify a premium for those who are optimistic about the execution of that team and that strategy.
+
+(0:08:24) And again like you know one of the really important things that I think is bearing out is my view has always been and at Smarter Web we've always felt that there will be a leading Bitcoin treasury company in every capital market in the world and you want to be that right you want to be that leader in a capital market because the endgame for this is to be synonymous in a particular capital market with how you get Bitcoin yield, you know, with how you get risk capital exposure to a strategy and machine that compounds Bitcoin ownership over time, right? Like that's the whole point here. And you want to be synonymous with that in a particular capital market in large part because you know that there's going to be a name in every capital market. There's going to be a balance sheet that's the most creditworthy that can tap into, you know, fiat fixed income markets and get the best terms to raise capital, buy Bitcoin, generate Bitcoin yield for investors. So, it's, you know, there's economies of scale there. There's a huge advantage to being the, you know, the leading balance sheet, Bitcoin balance sheet, the best capitalized Bitcoin business in a particular capital market.
+
+**Anders:**
+(0:09:46) And you know that's reality and we're in the early innings of that playing out globally. Obviously Strategy has that locked up in the US. MetaPlanet well on their way, virtually locked up in Japan. Smarter Web is the leader in the UK by a lot, I think like a 10x lead in terms of Bitcoin held against the next closest peer in the UK. And you know, we see a path to continue on that and maintain that lead and grow it into the future.
+
+(0:10:34) Absolutely. I agree with everything you say. And what I love about SWC is that I mean, yeah, you have a 10x compared to number two. I believe it was you. I'm very sure that coined the phrase "winner takes most." Not that it's like a globally known thing or anything, but I think it has some key points to it. You want to say something?
+
+**Jesse Myers:**
+(0:10:55) Well, I don't know. I can't actually remember if I coined it. I got it from somewhere and I don't remember if it was Bitcoin Treasury land or if it was somewhere else and I, you know, thought, "Oh, that's a good descriptor."
+
+**Anders:**
+(0:11:14) Let's just say you saw it on one of my shows. No, no, but the first time I heard it was you saying it and I absolutely completely agree and I think within that phrase is the expectation that whoever is the leader will have a higher BTC yield because it comes with advantages and credibility and creditworthiness and when you're doing new products like prefs etc.
+
+(0:11:48) So, I think prefs is kind of like the... that's where everybody's trying to get to. And it's super important to keep in mind what that looks like, you know, like first of all, you need to have a big enough balance sheet that anybody will lend you capital under the terms of this brand new structure of preferred equity instruments that Strategy has pioneered. So that's a big hurdle right there, right?
+
+**Jesse Myers:**
+(0:12:14) But you obviously then you need to be offering them a rate that is attractive enough for them to say yes to that. And the better your balance sheet, the lower risk you are to them and the lower rate you can offer, right? And Strategy's offering, you know, 8-10%. So call it 10%. And you know, if you have one-tenth the balance sheet, that would be 60,000 Bitcoin. That's a ton of Bitcoin. What's your rate that you're able to offer? You know, it's less attractive than Strategy. So, you have to offer better terms than Strategy.
+
+**Anders:**
+(0:13:02) Of course, this is then influenced by each capital market has their own like prevailing interest rate regime. For example, in Japan they get like 50 bips. That's kind of the standard. So if you offer 5% interest rates that's way better, right? So it does get impacted by that. But creditworthiness of the Bitcoin treasury company matters a ton. So you can see a world where the winner-takes-most Bitcoin treasury company in the UK for example might be able to do preferred equities at a 10% rate and the number two might only be able to do it at 13-15%. Right? And then your cost of capital is that much higher and that comes straight out of the Bitcoin yield that you're able to generate for your shareholders. So, you know, the higher the cost of capital, the lower the Bitcoin yield in a preferred equity instrument setup. And so, obviously, you want to have as low of a cost of capital as possible. And the way to do that is to be the trusted preferred name that's synonymous with digital credit in that capital market.
+
+**Jesse Myers:**
+(0:14:27) Absolutely. And as soon as you have that kind of understanding among investors and in the market people will probably tend to say well I want to be with the leader in the market because they can borrow 1% cheaper. And then that becomes kind of a further not self-fulfilling prophecy but it definitely reinforces this winner takes most attitude.
+
+(0:14:56) And also in that further to that aspect is we know that Strategy will get an improved credit rating if they're if there are included when they're included in S&P 500. As I understand it that will rub off on their fixed income products the preferred stocks STRK, STRF, Strike, and Stride I remember it all fall still. And that will I think be also very very important for that winner takes most.
+
+**Anders:**
+(0:15:30) And to tie that back into SWC which we're here to discuss. It's I mean you being 10x number two right now in the market also means it is financially and just rationally more likely that you guys will uplist to London Stock Exchange sooner which will I guess because I understand from things Andrew has said on the channel earlier you know that will unlock some institutional capital which means you will be the first to unlock that institutional capital further getting into Footsie 250, which I think as I understand is a relatively not too far in the future. It could even happen with LSE uplisting. And then there's the Footsie 100 later once you get big enough.
+
+(0:16:22) Does the UK market just like we in US expect the credit rating of Strategy to improve with S&P 500 will that have an effect on your creditworthiness or credit rating in UK with LSE and Footsie 250?
+
+**Jesse Myers:**
+(0:16:45) Yeah. Interesting. So I guess there sort of two things two questions I could answer in there. First of all you know if you're referring to like what Strategy is doing they are blazing the trail and teaching the global market about these preferred equity instruments and you know when they get credit ratings that'll be you know a milestone moment for this model and then that will become the global precedent for everybody else to point to to say like look these are legit, you know, and it'll make it that much quicker for Smarter Web if and when we get to that scale where we're launching those types of instruments for you know the market to understand and be interested.
+
+(0:17:41) So you know everything that Strategy has done, everything that they've done has pioneered everything in this model and everybody else benefits if you can execute on that playbook. So there's that side.
+
+(0:17:59) I guess like another possible question in there was like does being in the Footsie 250 or Footsie 100 inherently help your creditworthiness as a company? I suppose probably part of the subjective assessment of quality of a company and you know because that comes with very real capital flows over time. You know just by being in those indices.
+
+(0:18:25) I did some back of the envelope math to try to size the scale of capital flows upon Footsie 250 inclusion. The bottom end of the Footsie 250 is about 420 million pound market cap. And when you reach that size and are included in Footsie 250 that comes with 30 to 50 million pounds roughly of capital inflows you know as you're included in the index.
+
+**Anders:**
+(0:19:03) 30 to 50 million pounds around that event. So it's not like on the day, but yeah.
+
+**Jesse Myers:**
+(0:19:14) Yeah, there would be a tail. And then quantifying beyond that, which is kind of even more compelling to me, every 100 million pounds of market cap you gain from that point forward, you know, there's quarterly rebalancing for Footsie 250 and 100. And every 100 million pound market cap you gain results in 12 million pounds of additional inflows from the rebalancing every quarter.
+
+(0:19:49) So you know that's the scale of what would happen when you get into the Footsie 250. And then on top of that there's a small much smaller amount of annual inflows even if you're not growing. So if you just stay the same market cap in Footsie 250 much smaller like a million pounds a year kind of thing. But the big exciting part of it is the sort of tailwind that is added to all the other tailwinds that Smarter Web has as a business once you reach that threshold.
+
+(0:20:33) And you know, right now our market cap is roughly half of that threshold and we're not on the London Stock Exchange, which is another requirement, but we hope to be included in the Footsie 250 in, you know, hopefully within a year of IPO, which would be a pretty remarkable achievement. I think unprecedented achievement in the UK as well, most likely.
+
+**Anders:**
+(0:21:00) Yeah. So it may not be a direct credit rating thing. It might not be how it works in UK, but it would just at least it would be an indirect improvement of the credit rating and the viability of SWC in the market.
+
+**Jesse Myers:**
+(0:21:18) Yeah. Yes. The overall robustness of the company and it would matter in terms of the sort of subjective elements that no doubt go into credit ratings. You know, there's objective elements and there's subjective elements and it wouldn't hurt to be in the Footsie.
+
+**Anders:**
+(0:21:36) Yeah. So I want to tie back into something you said earlier we spoke you were talking about, you know, with Strategy and then there's MetaPlanet and we know they're about to launch preferred in Japan. And the different sizes they're already at 30,000 Bitcoin. You are at 2,660. Yes.
+
+(0:22:06) And so I just want to say from the way I look at it and that's why I have said that I see SWC as potentially probably the best risk-reward in this space. As you have said yourself earlier, SWC is earlier in the journey than MetaPlanet and I don't really see any threats to SWC reaching that. Of course, nothing is guaranteed in investing but the upside you know Japan can probably support a certain size treasury company UK as well, Brazil, US, Sweden etc. France, Europe.
+
+**Jesse Myers:**
+(0:22:51) But from where you are now, that upside is just significantly... Yeah, that's I've actually never thought about it that way, but it's a really good point that like it's not Japan as a capital market is not 10 times bigger than the UK. And since MetaPlanet is 10 times bigger than Smarter Web at the moment, you know, that factors in, right? I think Japan is probably a slightly bigger capital market and has a slightly greater need for yield. So you know Japan's the best jurisdiction in the world to have done this model and I think that's probably why it was the first place that had like a sort of pure play start from scratch Bitcoin treasury company. But the UK is not far behind.
+
+(0:23:35) And yeah, I frankly that's a big part of why I joined Smarter Web is you know I'm friends with Dylan. I've talked to him along his journey and you know he kind of convinced me that like this is going to happen everywhere. And he's right, I think. And you know, then it's about pattern recognition of like, okay, where can this happen again? Like where's the next MetaPlanet?
+
+**Anders:**
+(0:24:13) Really, like if you really think about it, that's what I think most investors rather whether or not they explicitly or implicitly see it this way. Everybody's looking for the next MetaPlanet, right?
+
+**Jesse Myers:**
+(0:24:20) Because MetaPlanet was the best performing public equity in the world in 2024. Everyone's looking for the next MetaPlanet and in terms of like your expected value outcome, I think Smarter Web has a higher probability of that kind of story and trajectory into the future than any other Bitcoin treasury company out there.
+
+**Anders:**
+(0:24:54) Yeah. So it is actually very much how I look at it when I look at investment in this space. SWC might be one step out on the risk curve from MetaPlanet. But again as I have said before I don't really see where significant risks you know for this.
+
+**Jesse Myers:**
+(0:25:13) Yeah, and I'll add something there too like so you know obviously I think Strategy's capacity to continue delivering Bitcoin yield is you know the probability of that is unmatched in the world right MetaPlanet's is probably second their likelihood of delivering Bitcoin yield into the future very high Smarter Web's is a little bit lower than that because there is more risk because we're earlier but I think very very high.
+
+(0:25:50) And I think that the thing I wanted to add there that I think most retail investors aren't thinking about enough is in my view the really important thing to look for is the degree of liquidity for a Bitcoin treasury company. Actually Christina had a great phrase, "liquidity is the lifeblood," which is quite good. I think that's very true for a Bitcoin treasury company. It's all about volume traded. Your average daily volume is a super important metric I think because you know especially with an ATM style instrument like you are that's part of how you're raising capital and there's quite a filter there that I think retail investors aren't aware of.
+
+(0:26:44) You know we get the reports every day about traded volume in the UK. Our traded volumes, it averages, depending on what time frame you're looking at, like three to five million pounds a day. Which is pretty darn good. It's not like MetaPlanet, but it's way way better than other smaller Bitcoin treasury companies. One of the other well-known names in the UK traded 7,000 pounds yesterday. So, you know, not millions, 7,000 pounds.
+
+**Anders:**
+(0:27:21) Who made that purchase?
+
+**Jesse Myers:**
+(0:27:27) Yeah, really. That was probably one purchase. And you know I think that's the lens that retail is not seeing or not thinking about is like you know that I think is an indicator, a derisking, like if you get a sufficient amount of average daily volume that means there's a sufficient amount of excitement buzz awareness belief you know there's a cohort of investors who have conviction in that company in that management team in the strategy ahead, you know, in the path ahead. And that all adds up to, you know, daily volume. And daily volume is what you need in order to not only fundraise with ATM style instrument, but also fundraise with institutions because they need to know that if they want to exit that position, there's enough volume that they can get out in, you know, over five or 10 days depending on... it's kind of the typical things you hear is that they need to be able to get fully out of their position in 10 days without selling more than x% of average daily volume every day. And that's like a non-starter if those conditions aren't there for them. So you can't raise capital with institutions unless you have already reached that filter of there's a lot of buzz globally there's a lot of traded volume we're a player right and I think the vast majority of Bitcoin treasury companies do not have that at all whatsoever and there's really probably only five maybe maybe 10 in the world that have that kind of liquidity.
+
+**Anders:**
+(0:29:09) Yeah. And so my own journey in understanding that I think the first time I heard it was Klim when he... I mean so he's not invested anymore. We can talk about later people turning bearish. But that the reason I'm bringing up is I believe I heard it from him first on MetaPlanet saying how big the volume was, how important that was, and I didn't fully understand it. But without that I mean you explained it so well. It's without that how you gonna fundraise when MNAV is positive and then the big players don't want to enter because they can't exit and people with big money absolutely have to think about that.
+
+**Jesse Myers:**
+(0:30:05) Yeah. And it's like it's so path dependent, right? Like it's a bit of alchemy. Like how do you get to a position where you suddenly have a bunch of traded volume? There's no clear formula. There's nothing like there's no boxes you can check to do it. It's a really organic binary thing, right? Like you either have excitement from an investor base or you don't and it's hard to manufacture that.
+
+**Anders:**
+(0:30:33) So yeah and just shout out to everyone in UK watching now right now or a part of like globally around the community like I really the SWC community is special like it's the only one where I mean I'm in MetaPlanet as well but it's the only one where I feel like I'm talking to some of the same people like on X where and some people putting in a lot of work of you know trying to figure out how much are you raising with the ATM. I mean, the amount of work that goes into all of that, just really great community and fun as well all around.
+
+**Jesse Myers:**
+(0:31:05) And I have to compliment the Brits, too, on you know, it's been brutal for the last three even four months for every Bitcoin treasury company in the world. And sentiment in our Twitter community which is the third largest in the world, Strategy, MetaPlanet, then Smarter Web, just over 4,500 active members of that community. But yeah the sentiment has held up decently you know it's extremely tough it's a 150 vol stock and the tide has gone out for this whole sector it's brutal.
+
+(0:31:44) But there's something about the Brits where it's in their blood. It's in their DNA to like keep perspective and, you know, tough it out and have conviction and resolve too. And I think that has been very cool to see show up in our community and the sentiment there. Like people understand that it's not always going to be roses and you know this high volatility and this strategy comes with a lot of volatility and that means some tough periods but it has been very cool to see that it's part of the culture. It's part of the DNA to you know get on with it.
+
+**Anders:**
+(0:32:32) Look the Brits are tough. They were occupied by Vikings a thousand years ago. That's a little...
+
+**Jesse Myers:**
+(0:32:37) And is that where it comes from Anders?
+
+**Anders:**
+(0:32:43) Is that I don't know. I'm thinking that could be. But also you know and obviously some of the Danes they settled there. So we got some people with grit in you know great great people and we're not getting political but my thoughts and prayers with that beautiful nation.
+
+(0:33:04) And further I think it helps you Jesse that SWC went public with two and a half Bitcoin with an IPO price at what was it two two and a half two three four what do you call them pennies? No pence. Yeah pence.
+
+**Jesse Myers:**
+(0:33:22) So it probably is easier to still have a smile on your face if you've done 20x than if you're down 40% from your entry. So, but that still plays in as an advantage for the community that you have people who can continue going without it being difficult because they're in the money very very significantly. And that I think is an asset for SWC.
+
+**Anders:**
+(0:33:51) Earlier I spoke about you may be one step further on the risk curve but also argue that the upside I think is very attractive on SWC and if I should try and define well where is that step why is there more risk right now the only thing I can see is well the preferred they're ready to launch them everything is good to go in Japan and the cost of doing that in UK means you need to and you want to accumulate more Bitcoin before you take that step. I think I can almost narrow it down to that's the only point on the risk curve that you're further out on. But I have no doubt that you'll get there. You know, you are yielding very few companies are yielding which means increasing SATs per share, increasing Bitcoin per share in this environment. You are and not many are.
+
+**Jesse Myers:**
+(0:34:54) So we've delivered 1.7% Bitcoin yield so far in Q4. So, you know, that's three weeks plus 1.7, you know, so we've compounded Bitcoin ownership for our investors by 1.7% in the last 3 weeks, 300% in Q3. And yet we're currently priced at about 1x MNAV.
+
+(0:35:22) And again that comes right back to that conundrum of like how do you value a Bitcoin treasury company? Well, in my view, you value the assets they hold today in terms of Bitcoin per share and then you need to price in some expectation of Bitcoin yield into the future. And you know that you can do that based on purely forward-looking things. But I think the most helpful thing is to look at execution to date. What's the most recent track record? And in this incredibly tough environment the last few months, we've managed to keep that flywheel turning and have added 1.7% Bitcoin per share in the last three weeks, which has coincided with our MNAV being under one for a few days there. And we've still managed to deliver a positive Bitcoin yield. And I'm excited about what we're, you know, working on right now to continue delivering Bitcoin yield even if our MNAV was under 1x.
+
+**Anders:**
+(0:36:22) Yeah. And the 308% you refer to in Q3, was that also the fully inclusive of all warrants from pre-IPO and all of that?
+
+**Jesse Myers:**
+(0:36:38) It is like Yes. So, if you exclude the warrants, I think our yield was 278% for the quarter. But if you add the warrants, it actually increases the yield because that's how the math works out.
+
+**Anders:**
+(0:37:02) Okay, I'm going to go ahead and trust you on that one because I don't want to do that right now.
+
+(0:37:16) There was a great question earlier on. There's so many topics I want to cover. I hope you do have a little time today, Jesse, because we didn't even dig into the... when I had you on, I think for the first time during the summer when I was in Denmark. I think it was the only interview ever where we ended while I still had questions written down during our conversation that I didn't get to ask you.
+
+(0:37:54) Let me just find... so I think there was an interesting one. We're talking of preferred and I'm going to come back to your question. I think it's bit like more Bitcoin and we'll take it later. I know you're patient. But this question since we're talking you know in the future preferred is something that SWC will likely engage in at least you're looking at it now. Do you have any thoughts on STRK, Stride, STRF, Strike, Stretch?
+
+**Jesse Myers:**
+(0:38:18) Yeah I agree that this person's very informed. Bitcoin Is Hope knows what they're talking about here. I think that STRECH is probably the most desirable product to get to. And I think Saylor's characterization of it as the iPhone moment for Strategy is quite a good distillation of that. I haven't looked into this that much. I have done a bit of a dive into what's necessary to launch these things.
+
+(0:38:47) And you know I don't know if I should... I think I'll stop there because I don't want to share too much of my learnings on that. But there are other things that you need to consider about the order of introduction of these from a legal and regulatory point of view that may influence the best order.
+
+**Anders:**
+(0:39:13) Right and just for those that might be listening to YouTube in their pocket just shout out to Bitcoin Is Hope for that question. Like personally I'm thinking because I think it was True North that were talking about Well, eventually Saylor and everyone else at Strategy could do, you know, even weekly or daily payouts. And I think something like a daily payout of the interest rate and daily adjustment of the interest rate on the fixed income product. I think it would get some people excited just by even though it ends up being the same, but just seeing cash trickling in on their account on a daily level, I think might get people a little bit excited about that.
+
+(0:40:03) So, we're going to talk about the MNAV tools at different levels when we get to it, but also so right now you're around the MNAV one. In fact, during the show, it's gone up from 1.06 to 1.07. Thank you very much.
+
+**Jesse Myers:**
+(0:40:23) Let's give you the credit for that, Jesse.
+
+**Anders:**
+(0:40:30) So I think a lot of us in the retail investing community had started asking ourselves a lot of questions when this whole MNAV compression to around MNAV 1 happened. So one question is let's say you add one and you're going to stay there for a while. Then I think it becomes a logical question okay with the operations of the company that you already have running. I know you make websites and I know that business because I was in it for three years back in the zeros for a Danish web hosting company sitting in Dubai.
+
+(0:41:16) Will that cover the setup that SWC has now including salary to Jesse salary to the different people focused on this so that investors can be well they're not going to run out of money so I got time on my hand like time is withers or are we looking at well we got one and a half years of cash left and then someone's got to go or we're running out of money and because that changed the whole dynamics like will you be able to continue at MNAV 1, it won't happen, but in my opinion, but yeah.
+
+**Jesse Myers:**
+(0:41:54) I don't think we're concerned about that at all. A few things there. You know, we have our treasury stats for our Bitcoin treasury and the cash that we've set aside for imminently buying Bitcoin. We also have, you know, treasury assets for running the business. It's a bit of a UK standard and norm for you have a certain amount of runway, which we have, and I will abstain from saying a specific number because we should keep it private, but we have quite a bit of runway. We feel comfortable with.
+
+(0:42:29) We also have, you know, the ability to keep raising capital. And you know over the most recent period most recent two weeks a good chunk of which our MNAV was below one and we you know we were running the ATM when it was accretive to shareholders and raised 1.2 million pounds during, you know, the worst conditions in the market that you could, you know, ever imagine really. Just steeply down for day after day in what may have been a capitulation bottom. And we were still able to raise a good chunk of capital during, you know, a two-week period.
+
+(0:43:18) And our as a business the web design business that helps cover a large chunk is kind of how we've landed on describing it. Because we again don't want to say a specific percentage of operating costs that covers. Because it obviously can and will vary as our expenses change and as revenue changes. But a large chunk is covered by the web design business. So we have that as well.
+
+(0:43:52) And altogether that puts us in a different place I think than most Bitcoin treasury companies. We have a profitable operating business for one most Bitcoin treasury companies don't have that. And in addition that liquidity is once again important here because you know you can raise capital because of the amount of volume traded in the market and if you don't have that liquidity you're not able to raise capital and you know and further cover your costs.
+
+(0:44:33) You know, the point here being that we've raised 200 million pounds of capital in 6 months, over 200 million pounds. And you know, what's the amount that we need to fully cover our operating expenses on top of the profits that we get from the web design business? Not that much, right? And so it's pretty easy to fill that gap with a tiny portion of capital raised as needed.
+
+**Anders:**
+(0:45:09) So would it be fair to summarize your answer by saying you so you may not necessarily have operating profits that cover the setup. However, you have a solid amount of cash and you trust your ability for MNAV to at least swing above one so you accretively can raise more so there's nothing to worry about.
+
+**Jesse Myers:**
+(0:45:36) Yeah, that's right. And you know in this we've really just been talking about ATM style instrument. On top of that, there's every other form of fundraising that we can also do.
+
+**Anders:**
+(0:45:54) Yeah. Yeah. All right. So, let's have a look or chat about the different MNAV tools. Very excited to hear your thoughts, Jesse.
+
+(0:46:11) And I guess we should start from the bottom because the top is very easy. If the MNAV is above one, you are. And a shout out to Hermes Lux on X which I think has a great perspective on it. We used to looking at this industry as investors thinking like MNAV's got to be three that's much better than two and you know then it's like really accretive. But he pointed out the way he set it up with the different levels of even when the MNAV is only 1.11 for instance you're essentially buying Bitcoin at 10% discount. So it's not like oh it's not working now. No, you have access to buying Bitcoin at a discount as long as it's above one and then minus the cost the commission of running the ATM. I think that's a really nice way of looking at it.
+
+(0:47:06) So above one or significantly is obviously very positive. If we start with what can you do if you are below say 0.9 and what are you willing to do and personally I'm a big proponent of something that is highly controversial which is selling Bitcoin and buying stock. But let's hear it from you, your thoughts.
+
+**Jesse Myers:**
+(0:47:33) Yeah. We are not proponents of selling Bitcoin to buy stock. I think that is a reasonable short-term strategy that sets you back in your long-term goals. So if you can solve it in any other way, I think that doesn't harm your long-term goals. And by that I mean, you know, the whole point here is to grow the largest Bitcoin balance sheet possible so that you can be, you know, more creditworthy and have more successful preferred equity instruments.
+
+(0:48:12) Things we are open to doing is we haven't looked into this yet but are you know we theoretically like the idea of if you're under 1x MNAV for a period of time you can sell options directly in the company and use those proceeds to you know in the most accretive way possible which may which that could be you know buying the stock itself you know so in that way you're generating capital to then you know do buybacks without having sold any of the Bitcoin in your treasury in theory open to that. Saylor has said that they would do that or consider that for Strategy.
+
+(0:48:57) Something that we're more focused on that I like a lot better that I can't give too many specifics about but you know it's possible to raise capital with a premium to have capital structures that involve a conversion premium where you know that if you're if you depending on how you set it up. You can be at a 0.9 MNAV have you know raise capital under a certain structure that involves a conversion premium and then the effective MNAV of that transaction ends up being above 1x MNAV. So even though you're under 1x MNAV, you create a transaction where you know the result of it is being above 1x MNAV and then the market has to process that digest that reality that you're accretive even if you're under 1x MNAV. So what should you trade at then? You know maybe not 0.9.
+
+(0:50:12) Anyway I'm excited about those possibilities. I think that those are well suited to the company and what we've already done and our current size as well. And all the other sort of important inputs that make that work we happen to have. So I think that lines up nicely for us and I'm excited about exploring those.
+
+**Anders:**
+(0:50:46) Excellent. What you're referring to there, and I know that you and Andrew are cooking on something and because you're publicly traded, you can't say too much, you could get in legal trouble. I think that's what Seth was referring to. But also if you're inventing something cutting edge, you may want to use it first before the world sees it and others do the same.
+
+**Jesse Myers:**
+(0:51:16) Yeah. It, you know, and I don't think anything here is, you know, this is all theoretical of like these are things that are available to everybody. And yeah, and there's also there's nothing we haven't we haven't created anything groundbreaking here. But I am excited about our focus at the moment. And I think that, you know, with tinkering just a little bit with what's out there already, we have an attractive path forward.
+
+**Anders:**
+(0:51:55) Excellent. Happy to hear and that's what we've been picking up, I think, the whole time since this became a relevant topic. So the thing you're describing there or talking about is that leverage like as in loans that then later convert because we know the term convert from convertible bonds be it fiat denominated or the Smarter Convert Bitcoin denominated together with Tobam from France. Is it leverage in terms of loans that convert or are we talking like what can you say?
+
+**Jesse Myers:**
+(0:52:25) Well yeah what can I say? You know like we did a we did you brought up Tobam and we did a capital raise with them that had a very small conversion premium built into that structure. So you know, like that was a Bitcoin denominated convertible note, our Smarter Convert that I think is a really cool vehicle and you know hopefully we can continue to explore that.
+
+(0:52:55) There are other instruments too that involve conversions like warrants and other instruments too. So it's a whole category of capital raising instruments that involve some sort of option value.
+
+**Anders:**
+(0:53:23) Gotcha. Makes sense.
+
+**Jesse Myers:**
+(0:53:28) Bottom line. Yeah. Go ahead.
+
+**Anders:**
+(0:53:28) Right. And then with regard to your leverage question I mean like Smarter Convert is technically debt but it really behaves a lot like equity. So it kind of depends on, you know, how you want to think about, you know, that for example.
+
+**Jesse Myers:**
+(0:53:46) And in terms of traditional leverage, we're open to it. We'll see if it makes sense in the right in the market conditions and the terms available to us. It is personally I think slightly less compelling than the kind of vague possibilities that we've talked about very recently here. But that's kind of our current thinking on that point. But we're open to it. We'll see.
+
+**Anders:**
+(0:54:19) Right. And it's only 12 months ago that the entire market, myself included, everyone were super excited about Strategy's convertible fiat bonds, and that was like that was the whole business model was we lever up, Bitcoin moves up, we move up faster. Like that was the whole thing. And then how far we've come in 12 months that that doesn't even seem that attractive anymore compared to the other tools now available.
+
+(0:54:51) There's another aspect there I'm thinking Jesse is you know I think there's a lot of good reasons we could argue that the four-year cycle may not continue but I will say till this date it is intact. Except if we look at Bitcoin in gold terms, we're not even near the old top compared to gold, which is a much better denominator than the dollar or the pound because they just dilute all the time. They're useless as counting tools really. Then we're supposed to like I think the previous top is $169,000 per Bitcoin and we're supposed to hit that like a year before we go to the actual blowoff top, right? So, there's a lot of great arguments that I mean it does not look like a bull run at all.
+
+(0:55:40) That's something we'll get to as well. Khristina had that question on that. What's happening with the Bitcoin price? But if the four-year cycle for some reason would give us a bear market next year, which is hard to see right now, but then taking on leverage now would essentially be borrowing money to buy the top of Bitcoin, which might not look so well when if the price went down and then all of a sudden you have a high percentage of debt and you bought the top and limit yourself in future.
+
+**Jesse Myers:**
+(0:56:22) Yeah, in terms of leverage, MetaPlanet's a great example. They've sort of averaged 10 to 15% leverage over their history, but they've recently quite deliberately decreased it as they got ready for the next stage of their journey. We are not at that stage. But we are you know, we're sort of view ourselves at a transition point into kind of the next stage of growth as a business.
+
+(0:57:01) And one thing that having leverage on your balance sheet makes it more difficult to raise capital in general. And people have to weigh that reality with the benefit of leverage, you know, juicing your returns assuming things go well. And that's a big part of what we're sort of, you know, it's a subjective element that we're considering too and the timing of leverage with regard to that.
+
+**Anders:**
+(0:57:34) That's such a great point. I didn't even realize or think about that connection that because I was thinking well if you guys have said that preferred shares probably wouldn't make sense until you have 10,000 Bitcoin which may be a little while then why not just take on some other debt but if that affects the attractiveness of your stock when you want to raise more institutional capital at an uplisting to London Stock Exchange which may or may not happen this year. We all are rooting for it. Then yeah okay then it makes sense that you want to stay with as little debt and leverage as possible.
+
+**Jesse Myers:**
+(0:58:17) Right and that may be you know the outcome of that and it may turn out that it's okay to have x amount but not 3x. So, you know, we're as always constantly open to new information and making strategic choices as information shifts.
+
+**Anders:**
+(0:58:49) Yeah. You were talking about your yielding earlier in the conversation here. Actually why don't we go to Khristina's question because we did touch a little bit upon it now and feel bad about keep waiting to answer the question. But Khristina asked or she wrote, I would love to hear Jesse's thought on BTC here. One, is he surprised at BTC's price action that it's not higher here? Two, what does he think drives the next leg higher in BTC?
+
+**Jesse Myers:**
+(0:59:30) Yeah, it's a fun question. It's sort of one I've been digging into the last few days in particular. I have also had the view that four year cycles are intact until disproven, right? Because I don't want to say this time is different, right? I think that the correct default is this time is not different.
+
+(0:59:51) But the closer we get to the end of the year without a blowoff top taking shape the more it is different from prior cycles right like I think the sort of consensus view is that Q4 Bitcoin rips and everybody tries to sell the top and of course that's not how it's playing out because I think everybody was expecting that.
+
+(1:00:20) There's another bit in here too of I think a lot of early Bitcoiners sort of have the view of okay I'm going to count x number of days I off the top of my head like 510 days I might be off plus or minus 50 there. 510 days post halving historically been the roughly the top. So, I'm gonna sell there. And I think that was the local top that we just had was that exact timing.
+
+**Anders:**
+(0:60:52) Yeah.
+
+**Jesse Myers:**
+(1:00:57) And my view on that is that it could be that a lot of whales are sticking to their plan and that has precipitated a local top here. And at the same time there's a lot of institutions and tradi that are happy to buy those coins and have been doing that. And I don't see that stopping and I don't see the sort of mania and euphoria that suggests to me that Bitcoin has topped. In fact, I see the opposite, right?
+
+(1:01:33) I just dug into like what's the current state of M2 money supply globally. And I put out a tweet on this yesterday that went pretty viral. And that yeah the money printer is running hotter now than at any time since COVID. And people aren't talking about that. So, 6 months ago, global M2 was $129 trillion and right now it's $137 trillion. So, we've added, you know, 12% annualized growth in the money supply over the last six months.
+
+(1:02:19) And that has been, I think, part of why gold has been ripping. In 2020, you know, that printing started in March with the COVID response and it took until Q4 for Bitcoin to then 6x over the next four to five months, 6x rally. But that was quite a bit delayed from the money printing that started in March. Gold tends to sniff out money printing faster and that may be what's happened here.
+
+(1:03:00) So like there's a world where Bitcoin has been just coiling you know and absorbing the selling of whales who are playing the four-year cycle game because that's what they've known for 16 years. And that will end and the conditions that are coiling the spring and suggest that Bitcoin should go much higher will not end and I think that's kind of becoming my base case scenario but again like it's also possible that everybody's wrong Bitcoin has a way of doing that it's possible that I'm very very wrong it's possible that the top is in and we're in for a super painful bear market but then again like you know our prior peak was $70,000 four years ago. So like what does a bear market... and we've had significant corrections and three to nine month sideways consolidation periods over the last two and a half years. Several of them and you know what does a bear market look like if you've been digesting Bitcoin's price growth with these long consolidation periods along the way. And you don't have a blowoff top like you don't have an 80% drawdown if you don't have those other things happen. So you know where does that leave you?
+
+(1:04:33) I think basically I'm bullish I'm always bullish on Bitcoin. I do have the problem that I'm typically bullish at the top, but I'm smart enough to remain bullish at the bottoms as well. I think being bullish on Bitcoin is if you're going to be wrong, be bullish. Be bullish and wrong. Anyway, I think that when you zoom out and you look at all the, you know, metrics that matter historically to Bitcoin, it seems to add up to me to a coiled spring that just hasn't popped off yet.
+
+**Anders:**
+(1:05:11) I agree. And I must say I don't recall since coming across Bitcoin that I haven't been bullish on Bitcoin one single day. I think I'm always bullish, which can be dangerous, but I think for a lot of good reasons. I mean, Bitcoin in my I believe in my lifetime, you know, given the opportunity, I will see $20 million per Bitcoin and I'm not a spring chicken, so it's we're talking decades. We're not talking another century here.
+
+(1:05:41) So, yeah, I agree. Actually, you could argue that the four-year cycle is already broken because we are in the fourth year and we haven't even reclaimed the all-time high. That always happened in the third year.
+
+**Jesse Myers:**
+(1:05:53) It's a great point. I agree. I think you know like I don't want it to be my base case but increasingly it looks likely that the maturation of this asset and Bitcoin treasury companies are a force that are overpowering the diminishing impact of the halvings and that balance may have tipped and the whales that sold the 510 day top local top here may be playing the old playbook and are wrong finally.
+
+(1:06:30) And the new paradigm may be here. See, I like I realize how dangerous those phrases are, but that's why I must continue to believe that the four-year cycle is the default, but increasingly it looks likely that things are just different and we're in like a sort of structured institutional bid as opposed to the retail driven, you know, parabolic advance that we had in all prior bull markets for Bitcoin.
+
+**Anders:**
+(1:07:08) Yeah. And I just personally don't want to for second time in a row say it's a super cycle. There's no like in 21 I'm like no this is and even in the beginning of 22 no no we'll be back. We're going higher. There's no reason but there was a four-year cycle.
+
+**Jesse Myers:**
+(1:07:28) So concur to everything you say Jesse and they could both exist. Like I think the four-year cycle exists to some extent and this other indifferent to cyclicality reality also exists and the question is like what's their relative size right now. Like does one dwarf the other? Are they kind of at par and we have like a weird half cycle, you know, half amplitude cycle or has one already won out over the other, right?
+
+**Anders:**
+(1:08:01) It will be I mean it's so interesting. It's so interesting to see this quarter and next quarter. I would say with an argument from before, it does not look like a cycle anymore, but especially if we set a new Bitcoin price next year that is higher than whatever is going to be the high of Q4 this year. That would also show it's broken. But it's we're 50%. We're supposed to go up 50%. Bitcoin should be up 50% to even reach the old all-time high measured in Bitcoin. So in gold.
+
+**Jesse Myers:**
+(1:08:40) Yeah. In gold. Yeah. And there's no exuberance. In fact, let me go back to Khristina's question. And I don't know if it was there or somewhere else. There was actually a reply to your post I think on X when you retweeted that we were going live about potentially like why is the price this low of Bitcoin.
+
+(1:09:12) I spoke to Grain of Salt Saturday in Santa Monica and others that are saying well like the derivatives institutions can suppress the price of Bitcoin or maybe that's the reason we haven't gone higher yet like what is the reason we're not Bitcoin is...
+
+**Anders:**
+(1:09:31) Yeah I don't think anybody really knows. It is very possible that derivative products sort of take out some of the volatility, because they create the tools by which you can punish people who are offsides, you know.
+
+**Jesse Myers:**
+(1:09:58) And like in 2017 in that bull market into Q4, there literally weren't any derivatives that you could use to short Bitcoin. So it was just a long only market and retail piled into Coinbase and bought whatever they could at whatever price they could and it went up. And we live in a different time now.
+
+(1:10:24) I think the other really big force that's kind of hard to quantify is like half of all the supply in Bitcoin was mined in the first four years, right? So like mined before the bull market in 2013 really took off. So you know early whales have a ton of supply. And if you were an early whale who accumulated when Bitcoin was under $10, you only ever dreamed of $100,000 per Bitcoin. And I think there's a lot of overhang, a lot of supply that we need to chew through from billionaire early Bitcoiners that we've never heard of because they stay private, who are selling.
+
+(1:11:10) And in fact, yesterday Andy Edstrom, I was or two days ago, I was talking to Andy Edstrom. And he pointed out that I didn't know this, but the big sale via Galaxy, that 80,000 Bitcoin sale a while back, the stated reason for the sale was quote unquote "estate planning." And you know, that may just be a BS coverall label for why they were dumping a ton of coins all at once, but it could be real. You know, like maybe that person has 200,000 Bitcoin and it was time to sell some to lock in billionaire status for themselves and their family forever.
+
+(1:12:02) And I think that's the reality of what the market has to chew through. They're literally early Bitcoiners who one just went to space and one is currently building their own personal space station.
+
+**Anders:**
+(1:12:16) Yeah. And there's another guy building his own space station right now. Like a private space station. So that's the kind of wealth we're talking about here.
+
+**Jesse Myers:**
+(1:12:22) And those coins just have to change hands to people who are starting their journey now because there's a lot of early Bitcoin whales where $100,000 per Bitcoin was the end of their journey. And that's just the process of a startup store of value asset monetizing over time. And there's legs in this race and you have to pass the baton to fresh legs and it's hard to quantify how much of that there is out there but I think that's why we've been stuck at 100,000 more or less for a year.
+
+**Anders:**
+(1:13:08) No, that makes a lot of sense. And because the mining supply has become so small and as you're saying it's less and less meaningful which is part of like the main feature or one of the big features of Bitcoin. It really is supply from people that are now able to afford private space stations that is hitting the market. And it makes a lot of sense.
+
+(1:13:34) So, I'm optimistic for next year, but let's just say it's intact, even though it's already broken because we haven't even reclaimed the measured in gold all-time high, which we should have done last year. So, things are looking bullish. Also for next year, let's see.
+
+(1:13:56) So if we should just recap a little bit here. What was very important for me coming into this is hearing your thoughts about different tools at different MNAV levels when we get to one when we get below one to get rid of the worry of well they're now going to be stuck at one which I never felt. I always I've stayed bullish throughout this thinking well it's just a matter of time before we get back and the answers you're giving me even though you can't be very specific on things that kind of has to surprise market in a positive way is tools are available you know there's a last resort even buying stock with Bitcoin sold but there's other ways to raise monies that you have and you of course you have to say this but you have no worry that you can raise funds and buy Bitcoin or buy stock at whatever at different MNAV levels. So that's not a worry and I share that.
+
+(1:15:00) But a lot of people previous bulls have become either bears or just uncertain and have left this space and it never even for one second was something that I thought made sense. Like I'm still a very strong bull in treasuries.
+
+**Jesse Myers:**
+(1:15:21) Yeah. Yeah. No, just what I would add to that is yeah, you know, you and I have been through some cycles and I think you were in altcoins too in like 2017 or wait...
+
+**Anders:**
+(1:15:40) This is my bad. Battery's gonna die. So I'm sorry Jesse. So, like this phone, even though I said not to connect to my computer, it still meant a spam call meant I couldn't hear you. Yes. If you can go back, like you and I have both seen...
+
+**Jesse Myers:**
+(1:15:58) Yeah. Yeah. We've seen a few cycles and bear markets and we've been beaten up. And I think altcoins I've I did altcoins in 2017. I think you might have lived through that.
+
+**Anders:**
+(1:16:05) Oh, no. Wow. Yeah. Yeah. No, no, I saw the altcoins, but I never bought. Some of the first content I consumed was very maxi like Tone Vays and yeah and funny enough World Crypto Network but they were maxis as well so yeah I just didn't touch it.
+
+**Jesse Myers:**
+(1:16:18) Yeah, the rare exception. Well, I went through the way of pain and that meant that I had very severe drawdown in 2018. Only to then realize what I was wrong about, what I was missing, that it's all about Bitcoin, that Bitcoin already won, that it's a network effect thing, this is a protocol standard, it's not about technology, all these things.
+
+(1:16:46) And then at that point I realized that I had been holding these assets that were based purely on perception, right? Like altcoins are their value is purely perception and there is no fundamental value in them.
+
+(1:17:06) What's and it's been very interesting that Bitcoin treasury companies have been trading a lot like altcoins but they are very different because at their core a Bitcoin treasury company is about accumulating Bitcoin which is the best asset in the world and that's very real and growing Bitcoin per share over time is very real and very different from altcoins which you know purely based on perception.
+
+(1:17:39) So in that sense like it's amazing these Bitcoin treasury companies trade very high vol. We have 150 vol. Bitcoin itself is like 35 to 40 vol. So it's Bitcoin's volatility squared and that trades like altcoins except that you have this reality that there's you know a Bitcoin NAV floor value quote unquote floor value that yeah, you know, a fundamental floor that rises over time if you're successfully deploying the strategy of growing Bitcoin per share.
+
+(1:18:22) Over that turns into a floor that rises in terms of the fundamental value of the company and per share. That's just so different. And so it's a little surprising to me to see people shaken out by 150 vol assets that manifests as you know that feels like Bitcoin in 2013. Like it sort of trades like that and the swings of sentiment are extreme. Absolute euphoria and then total despair and disheartened disillusionment. A lot of disses.
+
+(1:19:06) And that can shake people out. That's what that does, right? Like that extent of pain causes people to capitulate and lose conviction. Lose conviction and then capitulate and exit the trade, which I understand in altcoin world, right? Because you become disabused of your prior delusion that these assets were going to be the new global standard in money because of their technology. That's wrong.
+
+(1:19:42) But with Bitcoin treasury companies, you have this fundamental value that increases over time and there's a disconnect. These things trade like altcoins. They trade based on sentiment, but they have this fundamental value. And that just creates opportunity I think for people who have experienced crypto's degree of volatility in the past specifically in bear markets and are not shaken out of their conviction because they've seen that they've felt that emotional landscape before and they've seen how that eventually turns the pendulum swings back and things recover.
+
+(1:20:21) When it's the first time you're going through that emotional landscape, you do not believe that it will ever recover because it's so all-encompassing. And that's because people who are selling and in part causing these assets to sell to irrational levels are people who it's their first time in an asset like this and they lose conviction and they make an irrational decision to sell at a point where you know there's actually greater opportunity to keep holding and not sell.
+
+(1:21:05) So those are some of my thoughts on all that. It's like it's fascinating to see. It's a little bit tragic because I think it means a lot of people who have been holding Bitcoin Treasury Company stock are new to crypto and haven't been here before in a high vol crypto asset and may have made irrational decisions on the way you know at the bottom.
+
+**Anders:**
+(1:21:32) Yeah, I agree and I think we're better off for having seen a recovery from the 18 drop in 19-20-2021 and from the 22 drop in 23-24 and 25. So that helps and people in general has to be careful of not letting fear and greed be the decisive factors in their financial decisions. But usually they are.
+
+(1:21:55) We will wrap up soon. First I just want to because we spoke about yield. I did a post yesterday. So what I will be focused on here. And let me just see if I can make that a little bit bigger there. What I'll be very focused on is the yield of these companies SWC and Orange and MSTR and MetaPlanet and H100 and Capital B and I will be posting on a regular basis throughout the quarter where you currently stand.
+
+(1:22:43) The only reason look it's not because I'm advised at Orange I put them ahead of you. It was just their announcement was before yours 1.7 in terms of the latest buy. Or I have to presume they're a few days further into the next but you're actually neck on neck and I think it's important for people to understand that this is in a low compressed MNAV environment and if you can do almost 1% yield weekly or half a percent over a year even that's a lot and then you add in a couple of good years and a bull market and Bitcoin goes up like it's just it's a no-brainer in my opinion.
+
+(1:23:19) And if we just... someone and then I said if anything my expectations for who will do best in the quarter is SWC and Orange and I would say especially if that uplisting kicks in. I think that could be pretty wild for LSE to London Stock Exchange. And then G asks me G dollar G Money I guess who I think will do the best stock price performance. My guess is and I really don't know and I could be very very wrong. I'm thinking SWC probably followed by Orange simply because you're already yielding well in this environment execution has been so beautiful to see in SWC and I think the catalyst of a potential London Stock Exchange uplisting is just massive with the unlocks of institutional capital.
+
+**Jesse Myers:**
+(1:24:29) So appreciate that view. Cautiously optimistic that we will have a good quarter. And you know I guess in conclusion here I think that this sort of bear market for Bitcoin treasury companies has been a real test that has stopped the flywheels of many Bitcoin treasury companies. Our flywheel is still going plus 1.7% in the first three weeks of Q4. We hope to add to that and you know not just this quarter but subsequent quarters and keep building our Bitcoin treasury as the leader in the UK and keep following that MetaPlanet trajectory.
+
+(1:25:09) And you know even though it's been absolutely brutal on the share price and for every Bitcoin treasury company we I think are emerging with greater relative strength because there's been a certain consolidation in the UK to okay what's the... there have been 25 Bitcoin treasury companies that popped up many of them never got off the ground some of them their flywheels have stopped. Who's the leader?
+
+(1:25:42) And there's been a certain consolidation into Smarter Web that leaves us in a strong position to, you know, having survived the tide going out. We'll see what happens if the tide comes back in.
+
+**Anders:**
+(1:25:55) Thank you very much, Jesse, for coming on here. I'm looking forward to having you on again and also having Andrew on again on another Wednesday. Just a reminder that nothing we say here is financial advice. It's just financial entertainment slash maybe information at the best or education.
+
+**Jesse Myers:**
+(1:26:12) So, but if you do like the financial entertainment, feel free to hit that like button and subscribe, etc. Follow on X if you like that. And thank you to the more than 500 live viewers currently.
+
+**Anders:**
+(1:26:30) I think that thanks everybody. Yeah. So, we only I'm only getting on the screen that's something Restream started with 52 from YouTube, but it's 500 on X alone or right about that. So, thank you very much everyone for tuning in and especially to you Jesse. I have answered you've answered my questions. I remain bullish at MNAV tools being available at all levels and we're going higher in my opinion.
+
+**Jesse Myers:**
+(1:26:54) Hopefully and thanks for having me on. We look forward to doing this again in a few weeks.
+
+**Anders:**
+(1:27:01) All right, perfect. All right, thank you so much everyone. Thanks Jesse. See you in the next one.
+
+---
+
+**End of transcript**

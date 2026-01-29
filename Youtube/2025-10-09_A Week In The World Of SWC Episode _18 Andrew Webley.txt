@@ -1,0 +1,322 @@
+# A Week In The World Of SWC Episode #18 Andrew Webley
+**Date: 2025-10-09**
+**Video ID: xLnXEpdVq08**
+**URL: https://www.youtube.com/watch?v=xLnXEpdVq08**
+**Duration: ~53:46**
+**Channel: James (SWC and BTC)**
+**Host: James**
+**Guest: Andrew Webley (CEO, The Smarter Web Company)**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- Monday's equity raise with US institution via Maxim bank: ~2.5 weeks direct work, 2 months total pipeline
+- Deal timelines explained: decision-making process takes longer than paperwork (days to months)
+- Smarter Convert: first UK Bitcoin-denominated convertible bond with Tobam ($21M), took 4-5 weeks
+- Board structure: Sean (non-exec chairman), Andrew (CEO), Albert (CFO), Tyler & Randall (non-execs)
+- MNAV at 1x: "madness" but sentiment-driven; can be defended with responsible debt at right terms
+- Leverage: clean balance sheet enables favorable terms; claims can borrow cheaper than Saylor
+- ATM facility: continues but little point selling equity below 1 MNAV
+- Close period frustration: directors cannot buy shares before results announcement
+- Bullish on Bitcoin Q4; believes SWC and sector near bottom
+- LSE uplisting target: FTSE 250 within first 12 months of listing; FTSE 100 long-term goal
+
+---
+
+**James:**
+(0:00:02) Andrew, good to see you again. Um, you've had a busy week doing doing lots of podcasts and stuff, so I appreciate your time. Not talking about the share price, but talking about the business. Um, are we back? You know, the the raise on Monday uh was very welcome from my perspective as a shareholder. Um, and I know it's been a difficult time for you and uh, Jesse trying to raise capital and and the market hasn't been there for for for treasuries uh, in general. Um, and you've been tirelessly working away to do it. Is this the beginning of the next phase?
+
+**Andrew Webley:**
+(0:00:41) I hope so. Yeah. So, um, you know, we were really pleased to be able to announce the raise on Monday. Um two months maybe work, you know, sort of if if you're trying to sort of condense where these leads come from. This one particular lead is probably two and a half weeks, you know, start to finish. But the wider piece is probably two months. Uh there are some people that have—we've been speaking to for longer that I think will invest when a particular milestone's met. Um but um but but but but it just takes time and it's it's it's it's quite frustrating but completely understandable that that some of these conversations take a long time.
+
+(0:01:36) But the good thing is that if you imagine that you're, you know, working as hard as you can, um, spending a lot of time going to meet people in person as well, um, and getting a lot of those meetings in over, you know, let's call it a two-month period, um, and then you start to see them sort of get over the line, then, you know, it's sort of it's quite good if you compare that to you weren't having all of those conversations over that period of time.
+
+(0:02:02) So, you know, I'm a developer at the end of the day. I'm not a salesperson, but if I was a salesperson, I'm sure I'd be used to like like some sort of sales pipeline um and and that's exactly what we've got. We've got an amazing sales pipeline um of people that are interested in buying different things from us um predominantly equity. Um and um and yeah, so so I'm obviously I'm sort of well I'm so busy today, for example, I've only looked at the share price two or three times, but I I I I'm not pleased with the where where the share price is and and I couldn't believe today that it touched a 1 MNAV. You know, that that seems madness, but you know, it is what it is at the end of the day, but in terms of the business and I couldn't be happier.
+
+**James:**
+(0:02:48) Yeah. Yeah. And that kind of leads to a question that I had uh for you around can you elaborate on—I mean you've already mentioned one type of deal but um elaborate on the sort of length of time it takes to set up deals. So you know whether that's an equity deal or launching a new product, new financial product. Um just I think it might be helpful for retail investors to kind of understand why it's not just oh we've got this idea and then suddenly it's out in the open.
+
+**Andrew Webley:**
+(0:03:16) Yeah. So um so if somebody came to us right now um and they said that we want to invest in in the Smarter Web Company um you know it's very unlikely that that they would sort of get in touch and within half an hour want to make an investment. You know there's normally they get in touch you arrange a meeting there might be another meeting all that sort of stuff. So there's a period of time. Um, so let's call it a week or two at best.
+
+(0:03:54) Um, but then also you've got the other side of things which is the actual deal itself. Um, so the way that we do all of our deals is we say we can't tell you the price because you know we'll always do our deals at the closing price, you know, you know, so if it was right now, you know, the closing price at 4:30 today. Um so so so we always communicate that with people and say you know we you know we we'll we'll potentially structure a deal whenever you want. Um but but but you know obviously it'll be at the prevailing market conditions.
+
+(0:04:30) Um and then if it's something that you've done before um so you've got all the documentation you can get it done fairly quickly. Um you know maybe in an evening if if they're say a regulated firm um and you know there's there's there's different ways of doing that because it it basically depends on how you AML and KYC the the source of the funds that's coming in because that's another check that has to be done.
+
+(0:04:57) Um with with the one that we did the other day for example, it was a slightly different contract because it had the warrants in there and it was also um to a US institution through a US bank effectively. Um so you know that takes a bit longer. Um so you know we pushed our lawyers really hard on that one. Um but you know a couple of days. So then if we get someone else doing the identical deal then it'll probably be more like an evening because um you know you you just reuse all the paperwork and of course it's cheaper then as well.
+
+(0:05:32) Um so yeah it takes time but I I think it's probably more the decision-making process than the actual doing the deal itself because the doing the deal itself is just an admin thing. Um you know really important admin and and and you'd be surprised about how many people get involved in it. Um but ultimately it's just a process. The decision making process is the bit that's different. So you know before we were a listed business you know with websites just websites selling websites you know sometimes we would get someone contact us and buy a website on the same day. Other times we'll get someone contact us and they'll buy a website six months later. Um, and it's it's the same with investing really. You know, different people make different decisions in different time periods.
+
+**James:**
+(0:06:19) Yeah. And you know, you mentioned the the big American bank. I can't remember when now uh back in July maybe. And you know, here we are. That's that's the time frame that it took uh to land that deal.
+
+**Andrew Webley:**
+(0:06:32) Um it does take time and you know, like we we've spoken to multiple American banks. Um, you know, it's just that the Maxim deal is the one that we've announced so far. Um, but they take time and even onboarding with a bank takes quite a long time. You know, there's one that we're working with which is much bigger than Maxim. You know, that might take another two months before we're onboarded. Maybe it'll take longer. Um, so, so these things do take time. You know, we we try and do them, you know, as as best we can. But um you know that that's why you want to have loads and loads of different conversations because if you're speaking to so many different people then you know the chances are some people will be ready to do stuff sooner than other people you know so you're you're building up that like I say that pipeline of people that are interested in doing things.
+
+**James:**
+(0:07:24) And what about you know well the one that we can talk about is Smarter Convert right so um what uh what sort of timeline did that take from, you know, initial thought to Tobam putting in $21 million?
+
+**Andrew Webley:**
+(0:07:42) I'd have to check my notes on that. Um but it probably took maybe four weeks, maybe five weeks. Um I I I couldn't remember accurately, but the reason why that was a bit harder was, you know, we were doing something different. You know, that was the first Bitcoin denominated um convertible bond in the UK. I think it's probably the only one still actually.
+
+(0:08:06) Um so um yeah, it was it was a it was a different structure, but most of the the work on that wasn't the agreeing the contract with Tobam, but was agreeing um or was getting the terminology right. So it was the negotiation of what then went into the contract. Um so yeah, you know, some of them take longer than others.
+
+(0:08:40) Um there's one thing that we're thinking of doing um at the moment. Um you know, and that's that's you know, that's that's not actually that long away. Um but you know obviously you know some things can take weeks some things can take days some things can take months you know it's you know but but we're in a good place you know if you look at what we've got as a company you know like yes I found it very very tough the last couple of months you know um I've been doing my best to push the company forward and I believe we are pushing the company forward um obviously the share price doesn't suggest that but even someone that doesn't like us can't argue that we're not pushing the company forward.
+
+(0:09:24) Um but um you know you just have to keep pushing things forward which is exactly what we're doing. And you know I couldn't be happier with how the company's doing. You know look at how many companies are raising capital. I I was doing a bit of research on the UK Bitcoin scene earlier and and it's appalling like most of the companies have hardly said anything for a month, two months. I think I counted one three months. Um you know whereas we've been good times or bad times consistent you know.
+
+**James:**
+(0:09:48) Yes the Bitcoin yield in the quarter to date uh once we've deployed the the capital fully that we'll announce as soon as you know we have to announce it you know we'll—using publicly available information will be you know smaller but bigger than you know obviously the 0.1% the other day um but you know at least we're moving things forward um and and I think that's really important.
+
+**Andrew Webley:**
+(0:10:14) And that was why it was was also important to show that capital um because it it shows and and you know it shows to the market i.e. the secondary market that we're we're still doing things but it also shows to other institutional investors that you know come good times or bad times we're we're getting on with the job and trying to push things forward. So it's it's what people want to see in in my opinion.
+
+**James:**
+(0:10:41) And you know, speaking about sort of the business rather than the share price, um are you able to add any color um to who is currently on the board and their roles on the board?
+
+**Andrew Webley:**
+(0:10:50) Yeah, sure. So, so I can I can talk about um the structure that we've got. So, we've got Sean who's our non-executive chairman. So his job is to oversee the board um to make sure that the whole board is working as it should do. Um and then within that you've got sort of two halves. So you've got the executive board um and there you've got the CEO which is me and then you've got the CFO which is Albert. Um, so we work very closely together. Um, you know, lean on each other, um, on things and, um, the CFO is obviously an incredibly important role. Um, and he does lots of things to push the business forward, but also to improve what what we do.
+
+(0:11:37) Um, so, you know, being an accountant, the obvious one there is looking for cost savings. Um, and, um, yeah, he's quite good at that. Um, even though we're pretty lean anyway. Um, so that's what happens on the executive side of the board. And then you've got the non-executive side of the board. Um, so there you've got Sean is the non-executive chairman, but then you've got Tyler and then you've also got Randall.
+
+(0:12:08) Um, and and what the non-executive side of the board give us is firstly corporate governance. Um, that's really important as you get bigger. Um, but then it's also different people have got different skills. So Tyler with his Bitcoin knowledge, Randall with his audit knowledge, and Sean with his wider capital markets experience. They all are people that we can message if we've got a particular question. But then when we have the board meetings, they'll all drill down to the bits that they really care about.
+
+(0:12:39) Um, you know, to cover off all those sides of things. So that's how that's the way the board works. You know, we talk all the the time. Um, and then we have these more formal meetings. Um which which you know the the non-executives are basically to make sure that the executive team and therefore the rest of the business is is doing what what um you know what the shareholders expect us to do really.
+
+(0:12:58) And that's why um you know as we get bigger you'll see the non-executive side of the board to be less involved in the equity side of things. Um because as time goes on, we'll need more non-executive directors that haven't got an equity position in the company because then they're truly independent. Whereas obviously coming out of being a very very small company, you know, it doesn't, you know, it doesn't necessarily work like that.
+
+(0:13:28) But you you wouldn't want to have, you know, your non-executive directors having a massive financial interest in the company because that influences their their um their independence um which is which is quite an important thing. But that's why people like Randall and Albert um are so important because as we grow and grow and grow into a company that I want us to be um they've got a lot of experience in how you structure those things properly and that's important not only because it's the right thing to do but it's also what the regulators expect and it's also what those bigger institutional managers expect.
+
+**James:**
+(0:14:06) The the only bit that that without wanting to annoy anyone here that I don't think will ever go too too crazy about is all the ESG stuff because we'll do what's right from a moral and an ethical point of view and um you know aligns with my my my values which is hopefully what the company will always align with. Um but we always do all those rubbish things for the sake of things that some of these big companies do because I think that's a complete waste of time.
+
+**Andrew Webley:**
+(0:14:33) Um, so we'll we'll we'll we'll we'll do everything more responsibly than a lot of these big companies. Um, but we'll do it in our own sort of unique way.
+
+**James:**
+(0:14:45) And then, well, thank you for that. Um, there's people out there who see leverage as a way a Treasury can kind of justify its MNAV. Um, firstly, do you agree? And then secondly, what's your wider view on MNAV and can it be sort of defended or justified?
+
+**Andrew Webley:**
+(0:14:58) Well, I think MNAV can be justified. You know, I've got zero doubt in my mind about that. Um because ultimately if you um if if you um deliver compound Bitcoin, then you know you're giving something better than Bitcoin. So, you know, if if anyone thinks that I'm doing anything other than a crap job, um, then to buy Smarter Web Company for a a 1 MNAV or to buy Bitcoin at the price seems like a bit of a no-brainer to me.
+
+(0:15:44) Um, that said, um, you know, some people have got different views. Um, there's some people, and I share this to a degree, that MNAV is simply a sentiment thing, you know. So the more bullish the market is as a whole, not individually, the higher the MNAVs should be for the better companies. Um but then of course things vary all the time, you know.
+
+(0:16:03) Um so so that's one thing. Um the second thing is is how you um how you defend your MNAV or do you really need to defend your MNAV? You know, do you just allow the market to do its job? You know, so we the way that we would look at it is we we wouldn't try and beat the market in terms of if the market wants to send our stock up or down or whatever, you know, we go with the flow with that because you can't fight the market. Um, you know, anyone that's been investing for a very very long time unless you've got unlimited capital, um, which obviously the shorters often have got almost unlimited capital, um, you you're on to a losing battle there.
+
+(0:16:47) But what you can do is is you can do sensible things. So for example, if you haven't got any debt, um you can take responsible debt if you can get it at the right terms. Um and um you can use that as a fantastic way um to absolutely storm uh storm out of that sort of like 1 MNAV type position. Um so that's quite an exciting thing to do. Um and then there's other things that you can do as well which um may be useful for us in the future. Um you know if you're at a you know either a flat or even in a negative figure.
+
+(0:17:24) Um so yeah there's there's lots of different things that you can do and and I think that's one of the great things about being bigger and having a clean balance sheet. It allows you to do some of that stuff.
+
+(0:17:37) Um, I think, you know, not just with us, but with any, um, with any Bitcoin treasury company or certainly anyone that I would want to invest in, you just need to make sure that the management aren't doing things that can go wrong. Um, you know, under, you know, not just, uh, sort of possible scenarios, but, you know, extreme possible scenarios is probably the way to do it, you know.
+
+(0:18:04) So um yeah, we we we think that um with our balance sheet that you know that obviously allows us to get good terms as well. Um but we think that you know a fairly small amount of you know debt factored into that at the right time which will obviously be communicated to the market should that happen um is is is quite an exciting thing. Um and and yeah would would would add quite a lot of value there.
+
+(0:18:38) Um so yeah yeah I I I believe that we could actually borrow money um cheaper than even Saylor can borrow money you know um so you know we just have to wait and see whether the board think it's the right thing thing to do for the business and then market you know we'll will then um you know announce that to the market should should that be decided but we explore all options all of the time.
+
+**James:**
+(0:18:56) Yeah. And that that kind of leads to to another question that um I had for you, which is um are you able to talk about like the different types of leverage that you've been looking at?
+
+**Andrew Webley:**
+(0:19:10) Probably not. Um, it probably saying more than what I've said might sort of a give the game away and and and b give some of our sort of friendly competitors more ideas than we've already given them. Um, okay. So, um, yeah, I don't think I don't think we'd be allowed to say any more than that.
+
+**James:**
+(0:19:34) Fair enough. Um but following on from the previous question, what—you know this is uh obviously been a challenging time for for shareholders. Um well with a short uh short time horizon. Um some are saying that you know the the pure play just selling equity days are over. Um what do you think to that?
+
+**Andrew Webley:**
+(0:20:07) Well, it's interesting, you know, when you've got a market, you know, you've got sellers and buyers, right? Um, so, you know, when when I look at what people say online, I don't see many posts from people saying that they've sold any shares, but you know, people do sell shares, and that's ultimately what they're there for. And of course, they're welcome to sell shares. Um, you know, so I think people just need to remember that a market is buyers and sellers. Um, and you know, clearly somebody's been selling some shares, you know, since we've been listed. Um, you know, um, you know, and and that's worth remembering, you know, when everyone's sort of talking about things.
+
+(0:20:55) Um I um I don't think that they're right though the people that say that because you know like Strategy's been in existence for what five and a half years something like that um and you know they they have a toolkit um so they use equity they used fiat convertibles um they've never used Bitcoin-backed convertibles uh they've used the ATM of course now they've got preference shares, preference shares with an ATM. Um, so so a whole mix of different things.
+
+(0:21:32) Um, if you look at like the Smarter Web Company, um, and then you look at where the Smarter Web Company will be in the not too distant future, you know, we've got a pretty decent toolbox actually of of things that all work together. Um, and that's the key point. Um you you have these different things and you use them all to work together um to give you you know the growth in the ultimately the company's balance sheet um which is you know what you're trying to do for then you know the the future.
+
+(0:22:02) Um so no I don't I don't think that they're right at all. I think I think if you look at like MetaPlanet is a good example—they've had four periods of expansion and contraction. Um, you know, I've still got some Strategy shares that I bought when they traded at a discount. I can't even remember when that was now. I remember buying them, but uh that's about it.
+
+(0:22:26) Um, so um, so yeah, no, I think it's very easy when and and you know, we're all guilty of this that when when you when you when you look intraday and then you look at a day and even a week and things, you know, things can feel very very different. Um, you know, um, so, so I think that's probably more, you know, dare I say it, an emotional decision.
+
+(0:22:47) Um, I know some of the Bitcoin treasury companies are doing things that I don't think they should be doing, which is looking at, say, preference shares when they're much smaller than us. I I think that there's other ways that you can do something that's equally as beneficial to your balance sheet. Um, you know, if you if you know how to do it.
+
+(0:23:11) Um so so yeah I I I don't think—like equity, selling equity is my favorite um my favorite type of financing providing the value in your equity is reasonable i.e. it's basically a a higher MNAV you know that's your currency that's your um that's that's the value you know like selling your equity is the best thing ever if you've got a decent value to it. If you don't have a decent value to it, um you should be looking at alternative things, but making sure that they're right.
+
+(0:23:46) Um and and what you do today will be different to what you were doing three months, six months, nine months, you know, because you use the toolkit at different times for the benefit of the company and therefore its shareholders, you know, around what what what the market's allowing you to do. But no, I don't don't think that selling equity is is is um is dead.
+
+**James:**
+(0:24:07) And we proved that this week. We proved it. We sold some equity. Albeit we did give some warrants which some people um have got different views about. I think it was right.
+
+**Andrew Webley:**
+(0:24:12) Um but there you go. We sold we sold that and then effectively we set up another chunk of money to come in with no commission. Um because you don't pay commission on warrants like you do when you raise money through a broker. Um so so yeah, no, I I love selling equity at the right price.
+
+**James:**
+(0:24:34) And this option that I think you also mentioned last night on your interview with um Alexandra um that that bridges the gap um to preferred—is that a a not too distant future, very very soon, you know where are we where are we on the Andrew Webley scale of of time?
+
+**Andrew Webley:**
+(0:24:57) Well there's multiple things that you can do to bridge that gap um that we haven't announced yet. Um I would be quite surprised if you didn't see one or more um you know sort of in the near future. Um probably won't put a definition on near future. Um yeah, I probably won't—I don't want to get in trouble with the lawyers, you know, they're—for one of our other projects. They're they're they're quite keen on telling me what I'm meant to say and not meant to say. So, um probably probably shouldn't put a formal definition on that one.
+
+**James:**
+(0:25:43) Sure. Um pardon me. What do you think has been going on with the market kind of recently? Originally I was going to ask this as a tongue-in-cheek question about um SWC becoming a a GBP Tether um stable coin because it's just been ranging around a pound for a little while. Um but you know that changed today. Um you know do you do you see this as the quiet phase before—you know what do you think might be going on?
+
+**Andrew Webley:**
+(0:26:24) Um, do you mean in terms of, you know, like why I think the price is like it is or or or do you mean like, you know, what I think's going to happen next or—
+
+**James:**
+(0:26:35) Well, I was kind of assuming you weren't able to talk about what happens next, but um—
+
+**Andrew Webley:**
+(0:26:41) Well, I can talk about everything as long as it's sort of within my opinion, you know.
+
+**James:**
+(0:26:46) Well, yeah. So, we had the big draw down, then it's kind of been um we've leveled off seemingly um until today at least. Um and then yeah, what—so a bit about that and then a bit about um where we're going next.
+
+**Andrew Webley:**
+(0:27:01) Yeah. So, like I must admit um that I am quite surprised to see it sort of touch a 1 MNAV. Um, I'll be even more surprised, you know, if it goes goes negative. Um, you know, we're in a close period at the moment. Um, which is really annoying, which basically means the directors can't buy any shares. Um, because we're on, you know, the last couple of weeks before our results, um, and then I would imagine that we can't buy any shares until the results come out, but I haven't asked that question yet. Um, which is really quite annoying.
+
+(0:27:41) Um and um the um you know it is what it is at the end of the day. It's you know there's some people out there that are happy to sell the shares at that price. Um and then there's some people that are happy to buy the shares at that price and you know obviously when when you get more sellers than buyers the price goes down and and vice versa when when when it goes the other way.
+
+(0:28:06) Um I I don't—I'm quite surprised in in terms of the value because every morning I get sent by our brokers a table of the Bitcoin treasury companies. So it's got the you know the ones that that I rate which are like the global ones. So you know MetaPlanet, Capital B, Strategy and you know our MNAV's pretty much the cheapest there or amongst the cheapest. Um and then it's got the UK ones and I think we've probably got the lowest MNAV bar one. Um there as well.
+
+(0:28:42) And um and I think that probably just comes down to you you get people speculating more on these things whereas maybe people speculate on us a little bit less because we're that much bigger from a UK point of view.
+
+**James:**
+(0:28:55) Um I think what we could do with is you know we could do with Bitcoin ripping. Um that would be pretty good.
+
+**Andrew Webley:**
+(0:29:00) Um, and like I haven't had a look actually. Let's have a look what it's doing at the moment. So, yeah, Bitcoin's sort of still holding 120 quite nicely. Um, I personally think that it's it's looking like it's just finding that level and then it will it will it will rip. Um, of course it might not.
+
+(0:29:25) Um, that would be very good for our balance sheet obviously because we own a lot of Bitcoin. Uh you know approximately quarter of a billion pounds worth of Bitcoin. Um so so yeah that would be pretty fantastic um for that side of things.
+
+(0:29:42) I think that might also bring some light back into you know the Bitcoin treasury global sector um clearly that's been hurt quite a lot by um a lot of the fundraisings that have been done for the last sort of couple of months that have all sort of played out in the last say two months. Um, and I believe that we're getting to the end of that as well.
+
+(0:30:04) Um, so I I think we're we're we're we're you know at or near the bottom. Um, and and and then things get better. You know, I personally think Bitcoin is going to have a very very good quarter. Um, and then if I think of my opinion of Bitcoin and then I think about what we're actually doing as a business, I'm very happy with that as well.
+
+(0:30:30) So, you know, I believe in one, but obviously I can't control that. I very much believe in the other and I can control that one to a degree. Um, and I think that you whack those two things together and well, it couldn't be any better than that, you know, if if my beliefs are true.
+
+(0:30:49) Um so yeah it's um you know it's not much fun like when you know things are sort of going flat or or or worse going down. Um but you know it's it you know you you'll get some people—like let's let's say we are at the bottom and in you know a month or two months or whatever we're considerably higher. If if that's what happens, then you'll get a lot of people looking back fondly at this time when, you know, they could buy a load of shares and they made a load of money, you know.
+
+(0:31:19) Um but we'll we'll just have to wait and see. Of course, you know, I've just got to stick with the plan of, you know, trying to grow our Bitcoin yield, trying to make sure that all of the elements in the business are are doing what they're meant to be doing, and we're pushing that business forward, you know, for the multi-year plan. Um but but yeah it is frustrating when you look at it on the short time scales as well which which we all do as well as focusing on the longer term.
+
+**James:**
+(0:31:42) Yeah and I want to come back to to the future um uh sort of later on. Um going to ask a few questions that have come up in the in the chat while we've been talking. Um firstly and this has come up about three times from different people. Um, are you going to keep the ATM going even though we're at or close to a 1x MNAV? Now, obviously it wasn't running for a lot of today anyway because the the yesterday's close was 90p. Um, so it's below that, but um like is there a lower limit? Is it is it 1 MNAV? Is that is that where the ATM turns off?
+
+**Andrew Webley:**
+(0:32:15) Yeah, we haven't actually specified that. Um, and um I don't think I am going to specify it either. Um the only thing that I would say is you know there isn't a great deal of point in selling equity um below one MNAV. Um the the the other thing to keep in mind is that the MNAV does change. So the MNAV changes obviously Bitcoin goes up, Bitcoin even goes down.
+
+(0:32:47) Um but yeah, I I'm incredibly happy with the job that our ATM operator has done um to date. Um, and I think that I trust them to place the equity through the ATM style facility in a way that's beneficial to the company. Um, yeah. So, that could translate in a different way, but but yeah, we I we're we're going to continue to do all of the things that we believe are beneficial to the business and the shareholders. Well, obviously, yeah, because you know, the business is run for the shareholders, you know. Yeah. First and foremost in in every decision that we make.
+
+**James:**
+(0:33:28) And and and this was a follow-up, but I think you've kind of already answered it. Um what about the the the selling equity? Is there a is it 1.1 MNAV? You know, where's the the cut off for that? So, non-ATM equity.
+
+**Andrew Webley:**
+(0:33:42) Yeah. So the cut off for that is um ignore any warrants that that you may or may not offer. Um because the thing with the warrants is until you get the money, you don't know whether that's going to be positive in terms of um Bitcoin per share because in very simple terms if Bitcoin's 50% higher um you know i.e. because those warrants the other day are 50% higher when you get the money. Um, you know, it isn't particularly brilliant for the company in terms of Bitcoin per share, but you can argue that you you generated some capital that might have allowed you to do something else which will all become clear in the future.
+
+(0:34:24) Um, but you might not have been able to do in the same way without it. So, that goes to everything interlinking. Um but yeah, you you'd be very unlikely um to sell any equity if it didn't increase your your Bitcoin yield. Um and and you almost certainly shouldn't do it.
+
+(0:34:51) Um so but but but you you can't look at it in the simple terms of a of a one MNAV. Um you can almost look at it in that way, but it also depends on the commission that you pay. So say for example I did a a direct subscription with an institution that I know um and we did it all direct with the company without any you know settlement happening anywhere else um and with almost non-existent legal fees because we used stuff that we had already done before. Um you could do that selling the equity at one MNAV.
+
+(0:35:28) Um but you know let's say you're paying four or 5% commission for example um on on that raise then you'd have to do that at you know like a 1.05% you know roughly speaking um MNAV you know i.e above a 1 MNAV the price because otherwise by the time you get the money and then you've deployed it into Bitcoin assuming that Bitcoin didn't change in price didn't go up or didn't go down um then you're still generating just about a positive you know.
+
+(0:35:57) So so if you look at our quarter-to-date yield um you know when when our next Bitcoin buy goes out you'll effectively see whether or not doing the fundraise announced on Monday was beneficial in simple maths terms i.e. is the quarter to date yield, you know, positive or negative. Um, so that will tell you whether it was worth doing purely from a Bitcoin per share point of view.
+
+(0:36:28) But then also on top of that, you've got the thing that I said earlier, which is showing the market that we can still raise money when, let's be realistic about it, these other companies can't. Um, and the side the the side benefit of that—that what that says to other investors who then want to get involved because we're one of the few companies actually doing stuff on that side of things.
+
+(0:36:45) So um so yeah, it's mathematical in terms of the benefit for Bitcoin per share but then it's also um subjective in terms of the benefit to the wider business of doing these actions.
+
+**James:**
+(0:36:58) And then I kind of want to start looking at the future. um rather than necessarily the past or or where we're stood today. Um but I'm doing that by asking you about something you said in the interview yesterday or rather that Alexandra said yesterday. Um so he said about about asset managers having both long-term and short-term views. Um because obviously they're invested for the long term, but um they kind of have quarterly reports and things to do to to the the people they're managing the assets for.
+
+(0:37:37) Um, and I've kind of noticed across not just SWC's community, but but all the treasury communities, um, that there's an extremely heavy focus on where is it today? You know, when when when's it going up? Um, that kind of thing. So I kind of want to ask you to to expand on the sort of short, medium, long-term opportunities for SWC to get people thinking a little bit further ahead than you know uh you know what's happening today, tomorrow kind of thing.
+
+**Andrew Webley:**
+(0:38:14) Well, it's perfectly reasonable, but you know, we can't change you know human behavior. Um you know and the reality is that despite what some people say most people have got quite short time horizons and that's okay you know um so I think the most important thing for a Bitcoin treasury company is to show that they're doing things in the shorter term.
+
+(0:38:41) Um that said um and that's obviously what I believe but you know if I look at some of the other companies that are trading at a better MNAV than us. Um, they're not actually doing anything. So maybe by slogging our guts out working all day long, maybe maybe we're doing the wrong thing, you know, maybe we shouldn't be raising money. Maybe we shouldn't be buying Bitcoin. Maybe we shouldn't be delivering a Bitcoin yield. Maybe we shouldn't be communicating with people, you know, all day every day. And and maybe that's how you build a better company, you know. I I don't know.
+
+(0:39:17) I I don't think that's not what I would want for if I was investing in a company. So, it's certainly not what we're going to be doing. Um but but at times I do think that maybe that's the answer, you know. Um clearly it isn't, you know, but um you know, if you're trying to build a proper long-term business, which leads us nicely on to, you know, where we're actually heading.
+
+(0:39:40) And and I've I've been, you know, sort of upfront with people right from the start, right from before the share price started going up. You know, you go back to, you know, the first ever Daily Mail article that they wrote about us, I think before we even IPOed, that was um and and and I said that I want us to be a Footsie 100 company.
+
+(0:39:59) Um, and I believe that in the first 12 months of being listed that we'll be a Footsie 250 company, which is not a bad start towards getting to the Footsie 100, you know, within a 12-month time period.
+
+(0:40:17) Um, so, you know, to me, um, you know, obviously I don't like seeing the share price, you know, when it's when it's like this. You know, my wife, um, has been incredibly supportive, but even she said to me today, I think she was joking. She said, "What are you going to do about the share price? I've looked at my account and it doesn't look very good."
+
+(0:40:36) Um, and I told her to chill out a bit because, you know, obviously she can see that I'm working, you know, every every hour that God sends, you know, sort of to try and grow the business forward. Um, but, you know, it's it's, you know, this this is a long-term mission for me. You know, I I I um, you know, I think that we're doing everything right to build a business that we're going to be incredibly proud of in the future.
+
+(0:41:02) Um, you I'm obviously proud about what we've done so far, but you know, it's it's nothing compared with where I want it to be in quite a short space of time. Um, if you said to me, you know, you know, if I wasn't running this business, because don't forget, that's why I listed the business because I wanted a business like this and I couldn't find one, so I listed my own business.
+
+(0:41:21) Um, if you said to me that, you know, you've got somebody like me that's going to put everything into this business for the next couple of years and and try and get it considerably, you know, considerably considerably considerably higher. Um then you know I I I would support that and and and and I'm not saying to people even though I would like to do this for the next you know decade, two decades, whatever, you know, as long as everyone wants me to do it. I'm not saying that, you know, you've got to tie your money up for 10 years and and and and then maybe get a return. You know, it's it's quite a short time period.
+
+(0:42:00) So um so yeah I I I I've got no idea about the next couple of days but you know I believe that the next couple of months and the next couple of years will be an incredibly um good place for our shareholders and you know we keep trying our best around that you know um clearly there's some link to Bitcoin.
+
+(0:42:16) You know Bitcoin's got to do well because Bitcoin is our only treasury asset that we have. So obviously if if if my personal beliefs on Bitcoin aren't true um then you know that's that's not a great thing for the company um because our you know you know we've got almost a quarter of a billion pounds worth of Bitcoin you know um so um that needs to perform as well um but other than that it's just us executing our plan and and it should be incredibly good um but you know we'll obviously have to wait and see.
+
+**James:**
+(0:42:54) Yeah. So, you know, firstly, you'd like to think that people investing in SWC, you know, are already into Bitcoin, as in believe in Bitcoin.
+
+**Andrew Webley:**
+(0:43:00) Um, I don't I don't I don't think you could make that assumption, though. I think there's probably a core amount of people, let's say, you know, it might not even be 50% of people that that really care about it and really believe in it and, you know, believe in all the same values that I do, but you'll have a lot of other people that, you know, I don't want to alienate anyone here, but it's ultimately it's just, you know, a very very good stock to make a lot of money, you know, and they probably don't care whether we're buying, you know, Bitcoin or, you know, sort of, you know, nuclear bombs, you know.
+
+(0:43:38) Um, you know, they they they see it as, you know, which they're right, potentially the very best type of equity in the world. Um, you know, but and there's nothing wrong about that. You know, people don't have to um they don't have to, you know, be like me and live their life by Bitcoin. You know, they they can just see it like a very very good opportunity and and that's okay. And you you will get a lot of that. You know, most people that buy stocks, um, you know, will buy stocks because, you know, it's somewhere where they can make money, um, you know, without wanting to sort of, you know, shatter the illusion for anyone.
+
+**James:**
+(0:44:15) And, um, you know, still focusing on the future. Um aspirations for for LSE uplisting leading to uh potential Footsie 250 inclusion. Um what other either aspirations or or or catalysts um you know do you see in the future in your opinion?
+
+**Andrew Webley:**
+(0:44:40) Yeah, so I I would um like a lot of things are linked around that if we're honest about it, James. Um because one of the things that I want to see is I want to see more um notifiable holdings from institutional investors which means that they've got more than 3% of the company. Um now until we've got that listing you're not going to see so much of that.
+
+(0:45:08) Um so a lot of things hang around that Footsie 250 inclusion. You're not going to see that until you've got an LSE listing, for example. Um, we're doing okay at the moment in terms of getting some of the the media comments, um, you know, about the company. Um, I've I've been quite pleased with that and I think that there'll be more of those. Um, but again, you'll see more of those when when you've got that side of things happening.
+
+(0:45:37) Um, you know, I was incredibly disappointed yesterday to see my former employer's um, comments about Bitcoin. I thought that was absolutely disgusting. Um, appalling and just so wrong to see them put out a statement to say that Bitcoin's got no no value.
+
+(0:46:02) Um, I I still can't even believe it saying it, you know, like like yes, make some sort of an excuse up or or say things, but such a hard line. And um I was talking yesterday to the FT journalist that wrote the article about it today. Um and and I just couldn't believe it.
+
+(0:46:21) And and and that made me a bit sad. Um because we're doing all of these things to push things forward and and then there's still some things that haven't quite changed, you know. Um, you know, I I read a lot of the articles, funnily enough, about um, you know, the the London Stock Exchange and the usual thing about, you know, it's it's tough, but maybe there's going to be a listing and and and and I want to see more about us in in those in those articles, you know.
+
+(0:46:51) As you know, and I think we're slowly getting there, like changing the perception of, you know, like, you know, people can talk about us like we are a success story out of the UK. Um you know so I'd like to see a bit more of that that that that come out you know um you know but you you just got to keep pushing on with those things um you know and and then and then you win eventually you know um and and that's that's why you know being an entrepreneur is quite a good thing because you've got the resilience you know um you know and and you just keep going um but yeah a lot of the a lot of the things that will—the catalysts or milestones and things, they're all quite interlinked.
+
+**James:**
+(0:47:35) Yeah. And and you know, I can't remember what the stat was that that um someone put on X about how much SWC have raised versus all the IPOs.
+
+**Andrew Webley:**
+(0:47:47) Yeah, it's been it's it's been great. You know, um you know, we've we've raised a lot of money. Um we've done a lot of good for the capital markets in the UK. We've done a lot of good for Bitcoin in the UK. Um, I'd quite like to be accepted more um by the UK Bitcoin community. I think that they've been pretty poor um to us um in terms of acceptance, you know, when when we've done a lot of good for that.
+
+(0:48:09) You know, the international Bitcoin community has been incredibly welcoming um to us. So, I'd quite like to see that alongside what we're doing. Um you know, maybe even get invited on some of their podcasts, you know, and just to make it very very clear, I won't be paying for any of these podcasts, you know, if that's what you're gonna ask me for.
+
+(0:48:32) Um but I'd quite like to go on on some of those things and, you know, get get the word out there a little bit more about what we're doing um you know, that would be a good milestone for me to be a bit more accepted um into the UK Bitcoin community.
+
+**James:**
+(0:48:46) Yeah, maybe some olive branches can be can be exchanged and and that can happen. It it would certainly be nice, you know.
+
+(0:48:57) Um okay, I think that's that's kind of us us done for today. Unless there's anything that you would particularly like to share that I haven't um brought up.
+
+**Andrew Webley:**
+(0:49:10) No, I I I think um you know obviously it's been pretty tough um you know like for everyone um with with the share price you know obviously some people um have have sort of been buying you know other people have been selling um you know that's what makes a market.
+
+(0:49:32) Um I think we all need to you know sort of you know make our own decisions on on what we think the future holds for Bitcoin. I'm incredibly bullish about it. Um see where we go from there. Um I um you know I couldn't be happier with what we're doing in the company itself. Um you know the whole team have been working so hard on that. Um you know I couldn't be prouder of them all.
+
+(0:49:52) Um and we've got a really good team that you know we've been piecing together. Um you know you know in quite a short space of time you know it's um it's not even quite six months of being a listed business.
+
+(0:50:05) Um, and then, you know, believe me, when I say that, you know, when I can announce some of the things that I really desperately want to announce, I will. Um, and then hopefully, a bit like with the deal that I announced the other day, um, you'll see that, you know, a lot of the things that we've been doing behind the scenes, um, you know, are are really quite beneficial. Um, you know, when you see them all pieced together.
+
+(0:50:29) Um, and you know, obviously as always, if people have got questions or comments, you know, they can, you know, reach out to us, you know, stick something on Twitter, you know, um, you know, Jesse or myself or one of the other guys will will pick it up and, uh, or send us an email, give us a call, you know, the telephone number's on the website. Um, and and, uh, yeah, we appreciate the support.
+
+**James:**
+(0:50:54) I just thought of one last question. How's the recruitment going at the moment?
+
+**Andrew Webley:**
+(0:50:59) Yes. So, uh, so we've got one role which, um, we have not found a right person for yet. Uh, we've got another role that, uh, I haven't spoken to Alex for about 24 hours about. Um, and we found one person that looked quite good. Um, I've been speaking to Alex quite a lot on um, how we're tackling our new web project, you see.
+
+(0:51:28) Um, so what we're doing is we're, um, and I haven't got any time scales for this at the moment, but we're building a new website, which is, you know, our operating business website and our investor relations website, but putting them together. Um, which is slightly harder than you would think because you've got to make sure that it it's clear and it works for all of those different audiences, you know.
+
+(0:51:53) But we think we've got a good way of doing it and there's a lot of work that goes into the creative side of that. Um because we're using it as an opportunity to do a rebranding exercise, still with the same name, same logo, um same colors, you know, broadly speaking, um but to work out the imagery and the animation that goes into that alongside that.
+
+(0:52:14) So, um we're we're we're trying to see whether we can find this other person that Alex is looking for to help us with that as well to give us another perspective on that. Um but but equally, we need to push ahead with that project as well. Um because you know there's a a time that I want that out there.
+
+(0:52:32) Um but yeah, the the recruitment side of things is is is going quite well, but you know, we we've also got quite a good team. Um so there's not that many gaps at the moment. Um and we we need to give the team a little bit of time to sort of you know sort of all um you know sort of grow together you know because otherwise if you know when you're fast moving and and you're constantly adding people it it sort of that's quite a challenge as well. Um so we're just trying to get all of those things right really um you know as best we can and so far so good.
+
+**James:**
+(0:53:08) Fantastic. Well thank you very much Andrew. Um, as always, I've thoroughly enjoyed talking to you. Um, and I hope everyone who's watched this or watches it on catch up later uh finds it useful. Just a short public service announcement to to the people watching this. Please can you like and share um particularly on X if you uh share it with a quote and so you actually write something at top that kind of gives the best impact.
+
+(0:53:29) Um it's not about me. This is about getting SWC out there. Um, so do it for all the videos, no matter who's produced them. Um, and you know, keep up the good fight everyone. Thank you very much and we'll see you next time.
+
+---
+
+**End of transcript**

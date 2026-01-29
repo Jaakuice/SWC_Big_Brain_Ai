@@ -1,0 +1,372 @@
+# A Week In The World Of SWC Episode #3
+**Date: 2025-05-23**
+**Video ID: kNIeIwi9z2s**
+**URL: https://www.youtube.com/watch?v=kNIeIwi9z2s**
+**Duration: ~50 minutes**
+**Channel: SWC Community**
+**Host: James**
+**Guest: Andrew Webley (CEO, The Smarter Web Company)**
+**Additional: Gary (Community Member)**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- RAP (Retail Offer) process explained: timeline from decision to shares admitted (~3 working days)
+- Capital deployment strategy: why SWC doesn't "smash it all in" at once - risk management approach
+- Share price considerations for fundraising: Andrew won't discount placements, protects existing shareholders
+- Fidelity US and UK access opening up for SWC stock purchases
+- OTCQB listing timeline: expected late June 2025, will add US market volatility and liquidity
+- Vegas Bitcoin Conference 2025: packed meeting schedule, speaking slot before Strategy
+- Frankfurt stock exchange ticker consideration (like MetaPlanet's DN3)
+- Employee share options and company culture: team offered shares, no flight risk concerns
+- Bitcoin yield and dilution management: BPS (Bitcoin Per Share) as key internal metric
+- BSE Bitcoin UK Conference announcement: September 20, 2025 in Bury St Edmunds
+
+---
+
+**James:**
+Okay, I think we're live. Let's just see if people have got some chat messages. Thanks, Andy. Andy just put in the chat, "This better be good as I've turned off Loose Women to watch this." So hopefully everyone's on YouTube at the moment. So I'm just going to check X to see what's going on. Has it appeared? Hi Gary, welcome. We're just trying to work out whether we're live on X as well. At the moment I'm only seeing people from YouTube.
+
+**Andrew Webley:**
+Yeah, I can see myself on X.
+
+**James:**
+Okay, I think sounds like we're there. Andrew, are you ready to get going?
+
+**Andrew Webley:**
+Yeah. Sure.
+
+**James:**
+So, welcome back everyone and Andrew, thank you for sparing the time to talk to us. I know you haven't got much time, just under the hour, but we're very grateful for it. I wondered Andrew if you wanted to start with a bit around your wider business and what's going on there, raise people's awareness, that kind of thing.
+
+**Andrew Webley:**
+Yeah, sure. I think it's worth just spending a few minutes just so that everyone understands what the wider company does because obviously I'm incredibly passionate about what we're doing with digital assets, specifically Bitcoin. But I am very proud of our core service that we offer and how that's starting to show signs of growth in the very, very short time that we've been listed.
+
+Without wanting to sound like a used cars salesman, I just wanted to flag with everyone that we're a really good web design company. Our system's amazing. I believe it's affordable. I don't think you can get a website that's as good, as low cost. The marketing that we offer alongside that, which is an optional extra, is particularly effective.
+
+I just wanted to say to everyone that obviously we value everyone's support from a shareholder perspective. And it's been great seeing where the company's gone in these couple of weeks. But if you've got your own business or if you work for someone and you're involved in the decision making process and you're looking for a good web design, web development, online marketing company, then The Smarter Web Company is ready to go.
+
+One of the things that I'm pretty proud of is that we've got a lot of clients who have been with us for a very, very long time, many, many years. That shows that they like the service, the support. We're one of the few companies where you can pick up the phone and it gets answered within a few rings during office hours. You can send an email in, same sort of thing. We actually try our best outside of office hours with emails as well. We're really attentive and we try and put ourselves in the position of the client to make it successful for them, which is fairly obvious, but a lot of companies don't do that.
+
+You can look at our website and see lots of examples of the work. So that's probably enough on the sales pitch. But just if you're thinking about websites, we've got all different packages, right from ready-made to more bespoke things. Have a chat to us and we'll let you know honestly if we can help you. If not, we'll give you some advice on how we think you could do it because obviously we know quite a bit about websites. So yeah, keep us in mind.
+
+**James:**
+Fantastic. Thanks very much, Andrew. Okay, on from there, we've lined up some questions from the community as seems to be the theme at the moment. Let's start with: can you walk us through the timelines of how a RAP to BTC purchase looks, i.e. how long between the issue and BTC purchase?
+
+**Andrew Webley:**
+Yeah, sure. So the way it works is the company obviously is owned by its shareholders and the directors have got a responsibility to do the best for their shareholders. Simple as that. Should we feel that the share price allows us to raise capital, we will look at the options. There's conversations going on all the time with some bigger people that take longer, some other people that might take less time. There's people that have expressed an interest but not quite yet. All these sorts of things are going on all the time.
+
+We understand what that looks like because if we want to be one of the biggest companies in the UK, then clearly we're going to have to generate a lot of capital. Now, one of the ways you can raise capital is by doing a retail offer, which we've always wanted to do. That's called RAP.
+
+Yesterday's a good example. Let's talk about that in terms of a real world example. When I woke up yesterday morning, our intention was not to do a fundraising. We think about it all the time of course, but the only reason why I'm telling you that is so that you can understand you can get that in place very, very quickly. Let's say 10 in the morning to launch it at 4:30, that sort of timescale.
+
+But it's a bit more complicated than that because alongside a RAP you want to do an institutional offer as well. In our opinion, you want to do the two at the same time.
+
+Then it's the company's decision at the end of the day how they price it. As anyone that has heard me talk before will know, I feel quite strongly about not discounting a share price. I think it's lazy and lame if you do that. Some companies are forced to do that, but I want to try and put our company in a position where we're not forced to do that.
+
+You have to make a decision on the people that you're going to speak to once it comes out, i.e. after 4:30 the institutions, whether you want to wall-cross them and make them insiders, and then there's loads of rules that they have to follow obviously, and give them more notice by doing that, or not.
+
+Yesterday as an example, we didn't make anyone inside other than one institution who invested in the offering. Then what happens is when it gets to 4:30 you've got this period of time until it closes at 9:00. But within that time range the platforms close at different points in time. For example, I think it's 6:30 AJ Bell, 7 o'clock Interactive Investor, something like that. 8:30 HL. IG Index is more like HL. It depends on who's wanting to get involved.
+
+You'll also notice within the RNS that you've got an admission date, which is when the shares get admitted to trading. If anyone looks at the number of shares in issue that we've got today, it won't include the new shares. Next week, because of the bank holiday, it's normally three working days. So next Thursday, those shares get admitted, and then very early on that day, those shares get admitted to the stock market, deposited to the people that have bought them.
+
+Sometimes dependent on which platform it is, you might see them before but they're not actually settled, but they can still be sold because things get settled dependent on the broker two, three, whatever days afterwards. So that depends on the broker but we deliver the stock and then it's their responsibility to pay us for that stock, almost always on the same day.
+
+Using the example of yesterday, keeping in mind the bank holiday as well, Friday funding announced, Thursday money in account. Normally it'd be Friday, Wednesday if you didn't have a bank holiday. That's the point at which the company's got those new proceeds.
+
+Now lots of companies will deploy that money in different ways. We could spend it all now if we wanted. We would just settle that deal with whoever we bought the Bitcoin from, or the other asset should we be buying something else, which we're not yet. Maybe ever. We just agree the settlement terms. No different to if you're buying a house, a share, whatever.
+
+So obviously we've got some capital. Everyone knows what we've declared we've bought, which we have to declare promptly. So everyone can make their assumptions on what cash we've got by reading the RNS today for the new proceeds. Then my job is to deploy that capital for the benefit of the business as I see fit, including in our digital assets treasury policy.
+
+I love reading all the comments online about "just smash it all in" and all that sorts of stuff. But I'm pretty confident based on investing in things like Bitcoin for almost 10 years, stocks for just over 25 years, I'm pretty confident that our strategy is the sensible one for the company at this point in time.
+
+I think the loss of upside is minimal bearing in mind that I think Bitcoin is going to millions and millions of dollars in the not too distant future. So I think what we potentially lose by doing it slower is worth losing for the benefit of what we may gain and the stability of the company. Because as you've seen by what we've announced today and what we announced earlier in the week in terms of deployment, we're not hanging around. We're just not perhaps doing it all in a day, which I personally think would be a little bit much right now.
+
+So yeah, that's the process end to end in probably a bit more detail than you wanted.
+
+**James:**
+No, that's great. Thank you very much. It also kind of answers the next question which is why do we hold on to cash?
+
+**Andrew Webley:**
+Just one thing to add since that's a specific question. The worst thing you could do in my opinion is have a relatively new listed business, get off to a good start, generate a lot of capital, need to hold that capital in an asset like Bitcoin for example pending the business growth needs, and for you to spend it all on one day and then the next day Bitcoin falls by 50%. The shareholders that are saying that you need to deploy it quicker, I think they probably say something different then.
+
+Now, there's nothing to stop you deploying that capital and then one day after that ends, Bitcoin falls by 50%. Personally, without wanting to catch myself out, I don't see those sorts of corrections happening anymore. I think it's more mature than that, but that's the risk here. And that's the reason why we work as we work. I'm 100% certain that we've got the right strategy for that. I respectfully disagree with lots of people that I don't know and some people that I do know that say that isn't quite the right strategy, but it's my job to execute the strategy as I see it. And I think we're doing a reasonable job of that at the moment.
+
+**James:**
+Great. Thank you very much. There's been a couple of questions around the RAP side of things. One of them actually, Gary, do you want to ask it since you sent it to me?
+
+**Gary:**
+Yeah. Okay. Thanks. Hi Andrew. It was around whether, I don't know how openly you can answer this, but it was around is there ever a price that the share would fall to where you'd feel it would be too low to benefit the business to raise capital at that price? And the opposite to that, does it ever get to a point where if overnight the share price went to two pounds and you felt that was at this point in time frothy, would you then resist trying to raise capital for fear of it in hindsight looking disingenuous? Just in short, is there a price range where it's too low or too high?
+
+**Andrew Webley:**
+It's a hard question to answer. It's a really hard one. I can't control the market. The market does its job. If you've got a liquid stock, such as our stock, the market normally does that job reasonably well, but not in the very, very short term.
+
+At the end of the day you've got to use that price to generate capital for the business. For me, James, everyone else that's a shareholder, you want to raise money at the highest possible price, without a shadow of a doubt. Now the flip side to that is the more expensive something is, is it harder to raise money? I can say what everyone would say, which is yes, it is.
+
+But if you look at the raise that we announced this morning that was done last night in a very short amount of time, we raised at an 81% better price, almost double the amount of cash to what six working days before, i.e. a week before, a day out just so that we weren't too predictable. I wasn't going to do it on the Wednesday regardless of how I woke up and the opportunities.
+
+In answer to the other part of the question, is the price too low? What you would do is if as a company, or what I would do anyway, if as a company you felt that the market wasn't valuing you fairly, even if you had started a fundraising, you'd just pull it and you wouldn't proceed with it. Because if you don't believe that you're selling something for the value that it should be, you won't do it.
+
+Which is a similar point to why, given the choice, I would never do a discounted placing because it doesn't really say a lot for what you believe in the market's valuation of you as a company, and it certainly doesn't look after the people that have supported you that aren't trying to trade in and trade out. I haven't got anything against trading at all, trading is great. I just wouldn't want to reward people at the expense of the shareholders if I could avoid that.
+
+So it isn't quite as simple to answer as you might want, but you would raise at the highest price possible. But obviously there may be an argument which gets less as you get bigger and you get more interest in you. Unless you really needed the money, you wouldn't do it if your share price was poor. You just wouldn't do that. But we're quite lucky as well because if the share price was poor, we've got some quite supportive backers who we can pick up the phone and see what could be done.
+
+**Gary:**
+Awesome. That's great. Thank you.
+
+**James:**
+Thanks very much Andrew. I think that gives some reassurance to shareholders about you yet again looking after us. So pleased to hear that.
+
+**Andrew Webley:**
+Yeah, it's massively important. The shareholders are the important thing here. I'm a shareholder. My wife's a shareholder. She actually enjoys looking at the share price now. She didn't enjoy looking at shares before our company was listed.
+
+But they're the important ones at the end of the day. That's the job of a public company to work for their shareholders and I wouldn't want to be involved in a public company that didn't do that.
+
+**James:**
+It's funny how when a share price goes up 20 times from an IPO it's more interesting to look at, isn't it?
+
+**Andrew Webley:**
+Yeah. It's crazy. I've said it before, I'm very aware that when we listed, I priced it too cheap. I did that intentionally because I didn't want someone to think that we were like one of these other companies that's just trying their luck and whacking a load of fake value in something. I wanted the market to do its job. That's the important thing.
+
+But yeah, I'm ever so proud that a lot of people have probably made quite a lot of money, but it doesn't really mean so much to me. For me, the thing that I'm enjoying is the job. I absolutely love the web design side of the business. I love where I can see us going. I love that we've got more capital in digital assets now. And I love the rate of things developing and evolving.
+
+I know it's easy for someone to say that, but maybe because I'm a bit older now, it's not really a particular driver of mine.
+
+**James:**
+Awesome. So, Fidelity then, they just seemed to come out of nowhere this week suddenly allowing people to buy SWC over the phone. Did you know anything about this coming? Did it kind of come out of nowhere for you? Maybe if you know, you could tell us a bit more about how big Fidelity is. And is it likely others will just wait for the OTCQB or we might see others come online before that?
+
+**Andrew Webley:**
+Yeah. So as I always speak to everyone truthfully and honestly, I've got some idea where it came from. In the UK, one of my friends has been very much on at Fidelity. I'm not sure whether there's a link between Fidelity in the US and the UK coming online at the same time because it seems a bit of a coincidence that they both come online in the same week.
+
+I'm not sure. I know that there's a lot of people in the US that have been asking their various different brokers. And I know, I won't name them, but I know there's other brokers in the US that you can actually buy the stock through because I've got other friends that have bought the stock and they're US residents.
+
+I don't think it will get to that stage in the US, like take the UK right now where obviously there's a few brokers that are popular that you can't deal it, but all the main ones it's really easy to deal now online and over the phone. I don't think it will get to that stage in the US until we got the OTC listing live, which I believe is the last third of June. So that's not that long away, 20 days for us to front-run the US really.
+
+I don't think it'll be as good as it is in the UK for everyone in the US until the OTC listing's done. Now, Europe and Asia are a bit different because those brokers are actually easier in terms of dealing the stock, but I still see the odd comment of someone in a particular region where it's harder for them. But over a period of time that will get easier.
+
+And the OTC is quite cool as well because with the way it works, they put the volume that they can't match through the UK. So, not that we need any more volatility, although it is interesting and volatility is good when you're raising money at the end of the day. In the future, the OTC will not only add to the volume but it will add to the volatility because of the way the markets overlap each other in time difference.
+
+For example, the UK 8 to 4:30 in our time, the US 2:30 to 9. So you've got that time from 4:30 to 9 when the market makers can effectively get themselves a little bit offside. So when you've got an asset going alongside that that isn't correlated to your value but you hold a lot of it, so there is some indication of that within your share price potentially, that can get a bit wild, which is good as we've seen with MetaPlanet this week.
+
+**James:**
+Yeah. Exactly. Been a wild time for them. Awesome. Can you give us any hints as to what we might hear about or what your agenda is or any key meetings you might be having in Vegas?
+
+**Andrew Webley:**
+Yeah, sure. I won't name any names because I don't think that's the right thing to do. It's absolutely stacked, my days there.
+
+I don't know whether you guys play golf. I play golf badly. Although I haven't actually played golf for months because I've just been doing this non-stop. But I probably play a couple of times a year badly. I got invited to a golf day on the Monday. And then I had to decline that because I've got meetings.
+
+So it literally is just meetings from probably 9:00 a.m. starts, something like that, through to I think my last meetings in some of the days are 8 or 9 in the evening. And then obviously there's functions after that as well that I've been invited to. I probably won't go to a lot of them but I'll go to some of them.
+
+Then on the Tuesday you can see online, a really cool moment for me personally because my favorite company other than our own is Strategy because I've been investing in that for many, many years now. And for me to talk just before Strategy is awesome. I was chatting to Tyler last night and we were talking about some photo opportunities that we've got coming up. So there'll be a few of those.
+
+There's a UTXO event on the Monday. That's pretty good because obviously most people are aware of how influential they are in the scene.
+
+I'm meeting up with a very limited number of our shareholders on the Wednesday between 4 and 6. Just for some drinks. So that'll be nice, really nice to actually meet some people in person that have supported us.
+
+One of my other friends who is going to it, who's part of the Bitcoin conference, he actually organizes the one that they do every year which started last year in Abu Dhabi, Greg. He's flying out actually on the same flight as me, which should be quite good fun. He was talking to me this morning and he was putting some pretty big numbers on what we may get offered.
+
+But we'll just see how it goes. It's all about the right capital, the right people, the people that understand what we're doing that support everything that we do in a business. Support our values, support how we look after shareholders and all those sorts of things.
+
+The ideal result though, if I'm allowed to say this, is that we get numerous offers that aren't all right now and then we just line up the next four, five, six raises in those steps. We'll see whether I can do that one.
+
+**James:**
+Awesome. So, it sounds like there's a potential pipeline then of future raises. With going live in America with the OTCQB and all that kind of stuff, I think most people understand that has the potential to have a capital inflow into the shares and the share price. Does it open up capital raise opportunities, share issuance out there? Does it open up a bigger market for these RAP raises and maybe other instruments?
+
+**Andrew Webley:**
+Yes and no. Donald Trump is actually very keen on something at the moment, which is something that's quite unusual for the states, which is opening up their capital markets for retail investor offers to non-US entities. And OTC believe that that's got quite a good likelihood. So that's good.
+
+You can actually, providing you know how to do it, if you've got friends in the states for example because I've got quite a few friends over there, you can take capital, you just do private raises. It's actually a bit easier if you're not OTC listed as well.
+
+If you're OTC listed and you want to give them the stock that then can be traded through the OTC, then you just lock that stock for a period of time. They can't trade it. That's one of their rules.
+
+Sort of yes and no. The reason why in my opinion you want to do an OTC listing is if you've got global interest, which we do, you just want to allow those people to invest in the company. Now as a company are you benefiting from that? Not really in terms of the capital flow unless you do a raise to them. But you are benefiting as a company because you're adding to the volatility, the liquidity, etc.
+
+So yeah, it's 100% worth doing, which is why we announced it recently and it's a priority. One of my colleagues, Jamie, is leading that one. He's giving me daily updates on where we're at with it.
+
+So yeah, it's worth doing but it's not in terms of raising capital for the company directly.
+
+**James:**
+Okay, awesome. With regards to the RAP offers, you did mention this previously but I think it's worth talking about directly. People are asking about different times on different platforms that it closes. Someone actually said that when they spoke to AJ Bell they said it came from above. I wasn't sure whether that meant from above in AJ Bell or that was how the offer was set up. It's 6:30 with them, 8:30 with HL. Is there a way of standardizing it?
+
+**Andrew Webley:**
+Not really. You're basically dealing with the brokers. They choose to offer an offer to their clients. HL will have teams there later in the day so they can do it. AJ Bell have been nothing but marvelous to us as a company. Nothing to do with the fact that Andy Bell is a client of ours on the web design business. Absolutely nothing. I've not even spoken to him for quite a long time. Andy doesn't work there anymore anyway. But they've been fantastic, but their closing time is very, very early. It's just one of those things, we can't do anything about that.
+
+Could we have an offer that was open during market hours? I'm not so sure how that works in all honesty. I did try and see, I had a conversation with them to say how would it work over a weekend.
+
+But what people don't see is that last night I was up until about midnight because the offer closes at 9 and then it takes about half an hour to an hour to reconcile all the figures because they have to be checked, checked, checked. And then after they're reconciled, we have to put them into the RNS, which is obviously the same template. But that has to be then checked by someone else. Then it has to be sent to someone else who lodges it on the system to send it out.
+
+And then after that we have to do the final bits of the legal agreements which then have to be signed by everyone that's working on the project. Sometimes witnessed as well which is quite hard actually to get documents witnessed at like 11:00 at night.
+
+The platforms, before that legal bit starts, have to do all the allocations and they give the allocations to me and I accept the orders or I don't accept them. For example if we decided that we want to scale people back. That just wouldn't work if we did all of that on a weekend. I could do it on a Sunday. I work seven days a week anyway. Makes no difference to me. But for the platforms, you're just never going to get them doing Saturdays and Sundays on that.
+
+Maybe if we're having this conversation in five years time, there'll be a much better system in place. But we are where we are with that. Sorry.
+
+**James:**
+Well, you don't need to apologize, do you?
+
+**Andrew Webley:**
+Well, it's not my fault, is it? If I could change it, I would. I'd have them open 24/7.
+
+**James:**
+So, can we get a ticker on in Frankfurt, like DN3 for MetaPlanet? I think there's a lot of Europeans struggling to get access, they've heard about it, they feel like they're only just over the water. They're a bit more connected perhaps than the US to us at the moment, maybe?
+
+**Andrew Webley:**
+Yeah, Frankfurt is a great place. I don't want to make excuses because that shouldn't be something that I do. But what I would say is that yes, it's a valid request. It's not particularly expensive or hard to do that. Should it be one of the most important things we're doing? I'm not so sure. Should it come before OTC? Does it need to come before OTC?
+
+I'll take it away and we'll put it on the list, but we're doing quite a few things pretty quickly. We're trying to keep the momentum up. I was before I came on here today looking at some of the charts and our "days to cover" and things are pretty fantastic actually, maybe even the best in the world right now.
+
+We can look at it, we can try. I won't promise it because it might not be possible, might not be right. But as I understand it, it's not expensive or that time consuming.
+
+I would say with MetaPlanet for example, they've been following their strategy for about 13 months now. As everyone knows because I keep saying it, they got to 1,000 Bitcoin in six months. They've done fantastically well. But they didn't do it all in a month or in two months.
+
+So as long as everyone can see where we're going and please believe that me and the team are doing our very, very best and we're trying to get everything done as quickly as we can. But doing it right. So yeah, we'll revert back on that one in due course if that's okay.
+
+**James:**
+Absolutely. I mean, just to add my personal two pence on that, it just seemed to me that with all the excitement exploding about Bitcoin treasury companies at the moment, it just seemed like an opportunity while people are excited about The Blockchain Group and MetaPlanet and all the others. To kind of get in on that wave. A lot of people are now thinking, "I've missed the boat with MetaPlanet because it's just gone wild." Which I don't actually think is the case. But they're looking for the next one and Smarter Web could be one of those.
+
+**Andrew Webley:**
+Yeah, I'm a pretty ambitious person and I work, I believe I work quicker than most people, with good degrees of accuracy and all of that sort of stuff.
+
+When I'm looking at what we're doing, or I'm looking at things like the Bitcoin price for example, I'm so chilled out about it because I've got such certainty in my head, which may not work obviously, but in my head I've got such certainty of this journey that we and this whole sector is going on.
+
+That as long as we keep doing the right things, making sure that everything's good in the company and all this sorts of stuff, then if it happens today, it happens today. If it's tomorrow, it's tomorrow. If it's next week, it's next week.
+
+I'm not saying that I'm slow because if you compare us against most companies, you'll see that we're pretty damn quick. But whilst it's quite an exciting time at the moment, my life's been quite exciting with these sorts of companies for over four and a half years now, almost all the time. And so I don't see this as something that's going to disappear and be on to the next thing. I see this just continuing forever.
+
+In terms of there's so many people that don't know about why it's so sensible for a company to put some Bitcoin on their balance sheet, whether you're just buying a couple of Bitcoin as a smaller company or whether you want to have 1,000, 2,000, 3,000, 4,000, 10,000, whatever.
+
+What I believe is that every single company in the world at some point, let's say 5 to 10 years maybe, will have some Bitcoin on their balance sheet to different degrees of course.
+
+So yeah, I think we just keep doing what we're doing because there's so many more things that people haven't seen yet. And keep getting this sort of feedback as well because it can all be smashed into the plan.
+
+**James:**
+Fantastic. Thank you. So the Tennis research notes. Obviously there are, well they were the lead broker last night. Is that going to be an ongoing thing where every time they publish one we're going to get a copy of that for free?
+
+**Andrew Webley:**
+Yeah. So I spoke to them because I think it was Jamie actually sent me a message saying could these be made available on your website? And I thought yeah they should be.
+
+So I spoke to them and I said, "Can we publish these on our website?" They said, "Yeah, but only the most recent one." Because I was going to have the archive.
+
+So whenever they do a full note, which is what they did today, as opposed to what they did earlier in the week which is a shorter note, then it'll go on our website pretty promptly as well. And we'd always endeavor to share it on social media and things.
+
+But they do intermittent ones in between them. I don't know whether it's every time we put an RNS out they'll do an update, but then only one in three or something they do the full note. I've never asked them that question.
+
+But yeah, they've agreed that we can always publish the most recent note, but not the history of them. Which is probably more meaningful for investors because if you looked at one of our notes from two weeks ago, it's a completely different company now almost.
+
+**James:**
+Yeah, it's probably better that way. So just a bit more about Smarter Web itself, I suppose. The question's coming from Contrarian Matt: From a human interest perspective, I'd be interested in what his employees think of this, and if they have share options or participated in the IPO. Must be quite a change for them.
+
+**Andrew Webley:**
+Yeah. So I wouldn't want to talk about individual people because I don't think that's fair. Although if people really want to read some of the people, they can see it in the admission document.
+
+So everyone in the company was offered the option of taking, losing some of their salary, taking it in shares for the first year, whatever was right for them.
+
+We haven't got a share option scheme at the moment. There's something in our admission document that says that we've got the right to do that, which is very, very standard. I don't intend to do it for a period of time. I don't really want to do anything that isn't needed for valid business reasons on that front.
+
+But of course, at some point we'll do something on that. But I won't do it if it's not the right thing for the business and its shareholders. And part of that decision is, is it right for the staff as well.
+
+They quite like seeing the share price move around. I think they're like me, they're quite proud of the work that we've put in. It is really cool seeing your own business listed.
+
+Does anyone have any bad feelings about it? Not at all. Does it make it a bit more interesting what we're doing, a few more inquiries and all that sorts of stuff? Yes, it does. Is it the right thing for the future? Yeah, clearly it is.
+
+So yeah, it's just a good thing really. But we're a bit different to a lot of companies I suppose in the sense that because I've always worked, it's not like I just boss people around or anything like that. It's quite the opposite of that actually. I could do with bossing them around a bit more.
+
+But I enjoy doing the work. And when you work alongside people that can see that you can do the same work as them and you work hard, then they work better themselves because we've probably all been in jobs where we've had a manager that doesn't really understand their job and then that sort of creates tension under the scenes.
+
+Whereas we don't have any of that because I can roll up my sleeves. I can't do everything as well as other people in the business, of course. But I can do some of it really well and I can do some of it almost as well as them to help them if they need it.
+
+And so no, there's no massive amounts of Ferraris in the car park or anything like that. And there's no one that's got any bad feelings about any of it because everyone was offered.
+
+**James:**
+Can I just ask Andrew, is there any concern as CEO and looking at your operating business, is there any concern that there could be some flight risk from people that have made, again without talking about individuals, but if some people have made life-changing sums of money, if this share price keeps going up, is there a continuity risk or do you not think that's an issue?
+
+**Andrew Webley:**
+No, not really. Obviously I'm relatively important to the business. But, probably shouldn't say it, but everyone else could be replaced quite easily. So I don't think there's too much risk on that side of things.
+
+There's one lad who works for me, Alex. Great guy. We've worked together for about 15 years. He would be a real bad one to lose if we lost him. But he's happy. I've always looked after him. I've always treated him fairly. And I think he seems, not that he's never not been happy, but he seems happier now.
+
+So I don't think there's any risk on that side of things.
+
+**James:**
+Okay, that's awesome. So there was just one more question and then I know you've got to go in a couple of minutes. How do you plan to manage dilution risks for shareholders over the next 12 months while maintaining a high Bitcoin yield?
+
+**Andrew Webley:**
+Yeah, that's quite a hard question to answer actually. Because what people have got to understand is what many people call Bitcoin yield is just a sum with a couple of different parts in it.
+
+I would find it quite difficult to answer that one because ultimately the most important thing here is about sources of capital. Are you good at raising capital as a business? That's why people give you a premium because they think that you can raise capital at accretive terms. And that's why a smaller company that's adopting Bitcoin on its balance sheet will attract a higher premium than a larger one because the trajectory is perceived as better, and in our case it is better.
+
+So I think that takes us back to that point that I was making earlier, that it's all about the right steps. Because you want those future capital raises to be larger if possible, certainly at better prices.
+
+You are always, if you're doing that strategy, going to get dilution. But if I look at the dilution that we had last night, i.e. next Thursday when the shares get admitted, and the previous two, the dilution versus the capital has been incredibly good.
+
+Even if I look at it as a percentage, one of the metrics that we look at internally is BPS, Bitcoin Per Share gain. Which is effectively pretty much yield. That's my favorite metric, BPS gain. And the numbers are pretty good actually. Those numbers take into account obviously additional shares in addition to the NAV of the underlying assets of the business.
+
+So yeah, we just keep doing our best is probably the only way that I can answer that one.
+
+**James:**
+Thank you. Well fielded.
+
+**Andrew Webley:**
+I apologize that I only had 50 minutes but I've got hopefully what would be another good call in a minute.
+
+So yeah, it's a pleasure as always. And as I said to you before, I'll always try my best to attend. But if I can't attend, sometimes it's just because I've got other things that I need to do. But I'll always try and make the time. And if anyone's ever got any questions, they can always reach out to me anyway because I can always be contacted somewhere.
+
+So yeah, appreciate the time.
+
+**James:**
+Fantastic. Thanks very much, Andrew.
+
+**Andrew Webley:**
+Cheers. No worries. See you later, guys. Bye.
+
+**James:**
+He's off to see... He's off to speak to a golf coach, I reckon. In preparation for Vegas, maybe.
+
+**Gary:**
+Yeah, I'll give a brief update. Thanks, James.
+
+So yeah, Andrew is kindly going to be coming to present and attend. Obviously, we've got a conference that we've set up in Bury St Edmunds in Suffolk on the 20th of September. You can follow the news about it on BSE Comp on X.
+
+We've got speakers like Joe Bryan, Susie from Bitcoin Policy UK, Jordan Walker, Daniel Prince, Ben Arc. We've then got a lot of associated Bitcoiners but not in the Bitcoin field as it were, like John O'Connell from the Taxpayers Alliance. We got Claire Chisum from the school in Scotland who started taking Bitcoin. Tim Breslin, cricketer turned Bitcoiner, and Henry Herbert the Bitcoin Chef.
+
+So really me and a fellow Bitcoiner friend who lives around the corner from me, he'd been running a meetup in Bury since 2022. Started with six people. It's now up to regularly getting 40 odd people. And in a moment of madness we said let's just try and do a conference.
+
+And we've been blown away by people like Andrew and others that have said they'll come and support us and make it hopefully a really good UK-based Bitcoin conference, Bitcoin only.
+
+But we want really to try and keep an ethos similar to kind of spaces and meetups. So when I say audience participation, I don't mean you need to stand up and talk, but more engagement, more energy, more opportunities to ask questions digitally or vocally or even in advance.
+
+So you don't need to be getting up on stage or anything, but the point is people that come can feel part of it rather than just sit there and be spoken to and then leave. And of course most people who go to a conference say the best thing about the conference is the people you meet and the conversations you have outside of the talks and presentations.
+
+So we're really keen to try and embed that as well. And we're looking at options for hiring a private space as a kind of after party after the conference. So people who want to just spend more time around Bitcoiners, because who wouldn't want to do that, can do that too.
+
+What I've done, I've set up a code on the Eventbrite web page. So on the Eventbrite booking, if you go on to tickets, if you type in SWC ARMY, all one word, then that's 10% off. And I've done that all the way through till the day after Andrew talks at Vegas because I thought that'd be a nice time to do that.
+
+We've got three different tiers. The information's on the Eventbrite website. So yeah, if anyone's got any questions, you can reach out to me through Smithy G, or just on the BSE Comp account. It'd be great to get a solid little contingent of the SWC shareholders because there's an opportunity to meet each other in real life, meet Andrew.
+
+And yeah, that's it really, James, unless you or anyone had any questions about it.
+
+**James:**
+I don't think so at this stage. As you know, I've cashed in quite a lot of brownie points to go to Vegas, but I am working on getting down there as well. Hopefully Suffolk's a bit easier than Vegas.
+
+**Gary:**
+Yeah, I'm sure that the brownie points are running low. They must be.
+
+**James:**
+But yeah, I do hope to get down there with you. And I look forward to other people being there, meeting Andrew, having a great offline chat. I think there'll be lots to hear and lots to take in. So, I'm looking forward to it if I can make it.
+
+**Gary:**
+Great. Actually, the last thing I was going to say, which I should have said at the time as well, me and my friend, we're not making anything out of this. This isn't a financial thing for us. This is about all the money we get is being pumped into making the event bigger and better.
+
+We've hired a really nice, it's an old Georgian ballroom in the center of Bury St Edmunds. If we do an afterparty, that's all, we'll only do that when we sell the tickets and have enough to be able to fund it. But we're, yeah, the money we make we'll pump into the event to make it as great an event as possible. The only thing we want to get out of it is a great day. So yeah, just to make that clear as well.
+
+**James:**
+Awesome. Well, thank you everyone for joining. I hope it's worked on X properly. I haven't really been able to check that. Have a great weekend when you get there and I look forward to sending some tweets from Vegas about things that happen out there. So, yeah, we will see you all soon. Bye.
+
+**Gary:**
+Cheers James.
+
+---
+
+**End of transcript**

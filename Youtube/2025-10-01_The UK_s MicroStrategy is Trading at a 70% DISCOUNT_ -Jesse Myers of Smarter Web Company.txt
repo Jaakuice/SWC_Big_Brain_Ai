@@ -1,0 +1,167 @@
+# "The UK's MicroStrategy is Trading at a 70% DISCOUNT"
+**Interview with Jesse Myers of Smarter Web Company**
+**Date: 2025-10-01**
+**Video ID: S2_GwxT35FE**
+**URL: https://www.youtube.com/watch?v=S2_GwxT35FE**
+**Duration: ~34:35**
+**Channel: Treasury Orange**
+**Host: Tyler (Treasury Orange)**
+**Guest: Jesse Myers (Head of Bitcoin Strategy, The Smarter Web Company)**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- SWC as the leading Bitcoin treasury company in the UK (2,500 BTC in 5 months)
+- Regional capital markets thesis: a leading BTC treasury company in every major market
+- Evolution from 15-year web design business to Bitcoin treasury strategy
+- Following the MetaPlanet playbook: faster execution (5 months vs 9 months to same BTC level)
+- Jesse's "Global Asset Landscape" chart and Bitcoin's $10M potential valuation
+- UK bond market opportunity: larger relative to wealth than US
+- P/BYD metric explained: combining MNAV and Bitcoin yield for payback analysis
+- Hedge fund shorting as driver of MNAV compression (MetaPlanet from 8x to 1.1x)
+- SWC delivered +278% Bitcoin yield in Q3 despite bear market conditions
+- Bear market tactics: convertibles, derivatives, option selling, or "sitting on hands"
+
+---
+
+**Tyler:**
+(0:00:33) Hey everybody, today on Treasury Orange we have Jesse Myers, head of Bitcoin Strategy at the Smarter Web Company. Jesse's known on X as creasus underscore BTC. Jesse, welcome to the show.
+
+**Jesse Myers:**
+(0:00:45) Yeah, thanks for having me, Tyler.
+
+**Tyler:**
+(0:00:47) Absolutely. So SmarterWeb, you guys are trading out of London in the UK. That's ticker SWC. And here in the US you trade on the pink sheets at the ticker TSWCF, right? So for our mostly American audience, can you quickly explain what makes being, you know, a UK listed Bitcoin treasury company different from the US players?
+
+**Jesse Myers:**
+(0:01:08) Yeah, our view is that there's going to be a leading Bitcoin treasury company in every capital market in the world for a variety of reasons. Capital tends to be regional, jurisdiction-based. Institutional allocators in particular tend to have mandates about only investing in equities in their country or under the regime of the same regulator that they have. And for that reason, there's, you know, you can think about all the TradFi capital in the world as being in these various pockets, under a specific regulator or regime. And there's, I think, going to be a Bitcoin treasury company that helps facilitate the flow of that capital to Bitcoin, by creating the, you know, Strategy-like products for the fixed income market, equity market, money market, and so on.
+
+And we've seen that play out in the US with Strategy and now in Japan with MetaPlanet. And Smarter Web is the first Bitcoin treasury company and by far the leader in terms of market cap and number of Bitcoin in the UK. And I think we're in a position to continue on the kind of MetaPlanet growth story that we've been on, kind of following MetaPlanet's trajectory. We're a year earlier in the journey. And, yeah, so I think that's the reason why, you know, the main differentiation for SmarterWeb in the Bitcoin Treasury Company landscape is there's a lot of competitors in the US who are trying to find their niche, trying to figure out what their identity is, because, you know, you're competing against Strategy in the US.
+
+And, you know, in the various capital markets in the world, there's a place for a MetaPlanet-like, a Strategy-like leader that kind of becomes synonymous for how you get exposure to, you know, risk asset Bitcoin with the explicit goal of growing Bitcoin ownership for shareholders over time. So that's really our, you know, our narrative, our differentiation. And then there's the structural reasons why whoever wins in every significant capital market in the world will have access to, have a first cut at a ton of fixed income capital, a ton of equity capital in those respective capital markets. And we want to be that in the UK.
+
+**Tyler:**
+(0:03:47) Super cool. Can you walk me through SmarterWeb's evolution as a digital consultancy company and what was the catalyst for pivoting to the Bitcoin treasury and how much of that original company still remains?
+
+**Jesse Myers:**
+(0:04:01) Yeah, so we are a web design business that has a Bitcoin treasury policy. The company was founded 15 years ago by founder and CEO, Andrew Webley, who had started his career helping to build Hargreaves Lansdowne, which is the largest retail brokerage company in the UK. And he was head of online there and then set up his own web design business. In that 15 year period, he discovered Bitcoin and then eventually discovered MicroStrategy and thought that was the coolest business ever.
+
+And kept looking for that in the UK for years and it didn't exist. And so finally Andrew decided he would take his business, his small private business, public in order to run the MicroStrategy playbook in the UK. And so the SmarterWeb IPO'd in April of this year and, you know, five months later has gone from zero Bitcoin on the balance sheet to 2,500 Bitcoin on the balance sheet. All while the company continues to be a web design business with 250 clients. It's a small business, but we have the, you know, our treasury policy is to accumulate the best asset in the world as aggressively as we can using capital market tools to arbitrage, you know, Fiat into Bitcoin.
+
+And it's worked very well so far. And there's a lot of excitement from our retail investor base, mostly in the UK, for, you know, bringing that kind of MicroStrategy model to the UK.
+
+**Tyler:**
+(0:05:53) Really cool. You guys are kind of walking in the steps of Giants there with Michael Saylor and Strategy. Can you tell us how your strategy is informed by Michael Saylor and how you guys are different?
+
+**Jesse Myers:**
+(0:06:07) Yeah, I guess every Bitcoin treasury company is very much following the Saylor playbook, though some have deviated in interesting ways. I think the way we think about it is there's kind of two great examples of a successful Bitcoin treasury company at this point in time, one being MicroStrategy. But they kind of started at scale, right? They started as a billion dollar company with a very, you know, relatively large operating business, spits off cash flows.
+
+And then MetaPlanet is the kind of new breakthrough in the last year and a half that showed that it's possible to start from basically nothing and run the playbook as well. So, between those two examples, you have kind of two stages of, you know, life cycle stages for a Bitcoin treasury company kind of mapped out. And what, you know, what we want to do is follow the MetaPlanet example and modify it where we feel it's appropriate to fit the UK context in particular.
+
+And hopefully try to streamline it. We've gone faster than MetaPlanet. In their first five months, they didn't have as much Bitcoin as we have after five months. It took them more like nine months to get to where we're at. And hopefully we can continue that kind of streamlining. It's different from what Saylor's playbook is because in the early stages you have to grow liquidity, volume, trading volume. You need to grow kind of your investor base of retail investors who believe in what you're doing. And to do that, you have to raise capital as frequently as you can and deliver a track record of execution that creates confidence and excitement from investors, retail investors mostly, that you will continue to do that.
+
+And that's kind of what it takes to get into the stage we're in now where we can grow and we can become what MetaPlanet is now over the next year. Maybe it takes a bit longer. And then beyond that is the Strategy playbook that they've kind of pioneered of, you know, really starting to tap into the fixed income market in particular.
+
+**Tyler:**
+(0:08:51) Yeah, it's been really fun to watch you guys rise, you know, in just fewer than six months here. That's been really cool. And I think you've really tapped in on something about having one of these Bitcoin treasury companies in every large market across the globe. So Jesse, you're known for one of your charts that's gone viral, kind of showing the global wealth distribution. Could you talk about this chart for a little bit? I think I've got it up here on the screen for you. Tell our viewers what it is first of all, and how do you picture Bitcoin Treasuries kind of fitting into this chart over the next 20 years?
+
+**Jesse Myers:**
+(0:09:31) Yeah. So this is my global asset landscape chart that I put out a piece a few years ago called "Bitcoin's Full Potential Valuation." I'm a management consultant. That's where I started my career at Bain and Company and I learned the sort of toolkit for how you approach open-ended problems, sizing the market problems. And I wanted to apply the same sort of methodology to sizing the opportunity for Bitcoin. And nobody had. So the starting point for that was trying to figure out, okay, well, Bitcoin is a better store of value and it'll eat value from other store value buckets, but how much value is in what buckets? So I kind of needed to piece together a view of the world of value, which I was surprised to find like didn't exist. Nobody had done this. So I did it.
+
+You know, that was an exercise in itself and put that out. This is, you know, plus or minus, the relative value and nominal values of each of the buckets of asset classes in the world. And that was the starting point for then asking the question of, so if this is how much value is in each of these buckets, then how much value will Bitcoin eventually siphon away from these buckets? And you know, that's a bit of a, it's its own thought problem of, okay, assuming Bitcoin, if we accept that Bitcoin has superior properties as a store of value asset, then all these other buckets, then how much will it take from each?
+
+And the net result of that paper, "Bitcoin's Full Potential Valuation," was me going through each of these items and kind of putting a finger in the air and saying, you know, I think that it'll take more from bonds than it will from real estate. You know, just kind of putting some numbers on paper. And the result of that was that my rather conservative estimate is that Bitcoin can become $10 million per coin in today's dollars. And then, Michael Saylor read that piece a few years ago and I think it really resonated with him and he started using this chart in all of his presentations to tee up the opportunity for Bitcoin. It's a very helpful starting point to lay out what, you know, what Bitcoin is, how Bitcoin fits into the world currently. And it sort of implies here are the opportunity areas for Bitcoin to steal market share from.
+
+And I think that's the right visualization of what a Bitcoin treasury company is. I like to think of it as, I like to think of Strategy as a pump that has connected a pipe from the Bitcoin bucket to these other buckets, equities with common stock, now bonds with their fixed income offerings, Strike, Strife and Stride. And now the money market with Stretch. And Strategy has put these little pipes into each of these buckets and is actively pumping capital out of these TradFi store value buckets and into Bitcoin. And I think that's a helpful mental model for what a Bitcoin treasury company can be. And I think that'll happen in every capital market in the world.
+
+**Tyler:**
+(0:13:22) Yeah, it seems inevitable. You mentioned that SmarterWeb have been really fostering the growth of its retail community in the UK. What opportunities are there for your company to attack the bond market that exists in the UK?
+
+**Jesse Myers:**
+(0:13:42) Yeah, the bond market on a relative basis is larger in the UK per capita, or as a share of wealth, I should say. But, you know, I think the reality of a Bitcoin treasury company is you need to grow your balance sheet to a sufficient scale that you become credit worthy to offer fixed income-like products. You know, in the way that Strategy has now pioneered with their preferred equity instruments. And so the game that every Bitcoin treasury company outside of Strategy is currently playing, and arguably MetaPlanet, is to get a sufficiently large Bitcoin balance sheet in pristine shape such that you can start offering those products.
+
+And I think that's the final stage. And in my mind, well, maybe not the final stage, but the Strategy-scale stage is when you can offer the fixed income market 8, 10% a year, knowing that you're going to take their capital and buy Bitcoin with it. And Bitcoin is going to appreciate 30 to 50% a year for the next decade, with volatility along the way. And that becomes a killer value proposition to the bond market that's accustomed to getting mid single digits. And, you know, you're going to end up winning market share slowly over time and Strategy is kind of trailblazing that right now.
+
+And frankly, educating the market on, you know, this is, these products are real, and you should want them. And hopefully by the time in the UK we're at a sufficient scale to offer the same kind of products, the market will be already primed to understand the value proposition of those types of products because of what Strategy is doing now.
+
+**Tyler:**
+(0:15:53) Yeah, Strategy has raised several billion dollars with their preferred equities offerings. I think a lot of maybe retail investors thought the growth of those tickers would have been quicker than they have been. So realistically, Jesse, how long do you think it will take to build out that capital structure and educate Wall Street and the bond market and fixed income portfolio managers on how this is just a way safer and a way better producing asset than, you know, traditional fixed income?
+
+**Jesse Myers:**
+(0:16:25) Yeah, that's a really good question. And you can sort of make some estimates several ways, but, you know, I think with any sort of product, if you can achieve like a hundred percent year over year growth, that's, you know, phenomenal and about as much as you can sustain. So I wouldn't be surprised if it plays out something like that, where, you know, Strategy sees a hundred percent year over year growth in its preferred equity instruments for the next half dozen years or something like that.
+
+And that would amount to the market learning, the market virally comprehending that there's value here, that this is an attractive product, and in fact that they're underpriced because the market doesn't understand them yet. They're actually lower risk, I think, than the market has currently assessed. And that comes back to like the fact that Strategy's balance sheet is so over collateralized. I think these things are AAA. I don't think the US government is a AAA lender or borrower. And I think Strategy will continue to prove itself to be in stronger financial condition than governments.
+
+And, you know, I think Stretch will help a lot with this because it's a killer product. In money markets, you're accustomed to getting a few percent, you're accustomed to getting like the US Treasury rate, basically. And so then you're treading water on the cost of borrowing with your money market returns. And then here comes Strategy offering 9%. And so instead of, you know, four and a half, 5%, you're getting 9%.
+
+And that's incredible. And that's possible. That's only possible because that is backed by Bitcoin. It's powered by Bitcoin's returns going forward. And, you know, that is just a matter of time before people learn enough about that product to understand that this is not a Ponzi, that it's real, that it's just based on a Bitcoin balance sheet. And why would you hold cash in a money market fund getting 5% when you can hold cash in Stretch getting 9% and it's just as liquid and has all the same properties. It just looks a little different. I think basically by the end of the day, within 10 years, I think Stretch will have taken significant market share from money market products. And it'll just be kind of a, you know, probably exponential curve in terms of early adopters turning into, you know, larger and larger cohorts after the earliest people wrapped their heads around it. And that's just the viral propagation of its properties.
+
+**Tyler:**
+(0:19:46) Sure. One of the things we do here at Treasury Orange is kind of educate retail investors on each of these Bitcoin treasury companies. And we're kind of working through a backlog of that. And we're hoping to profile SmarterWeb in the coming weeks. So one of the metrics I've seen you talk about is P/BYD. Do I have that right?
+
+**Jesse Myers:**
+(0:20:07) Yeah, that's something we've been kind of stewing on.
+
+**Tyler:**
+(0:20:10) Just explain that to our audience and how you arrived at it.
+
+**Jesse Myers:**
+(0:20:14) Yeah, people get focused on MNAV as the primary evaluation thing for Bitcoin treasury companies. And it totally misses half of the picture if you just focus on that. In my opinion, the point of a Bitcoin treasury company is to grow your Bitcoin ownership as an investor. You just have to assume that what people want is their Bitcoin holdings to grow. And that they're purchasing a seat on this vehicle as a shareholder, this machine that can do that through its mechanics.
+
+So what you care about is Bitcoin yield into the future, right? That's what you actually care about. But then you have to balance the expected future Bitcoin yield against the premium that you have to pay in order to get a slice of that ownership today. That premium is the MNAV. So, know, the multiple of the current Bitcoin holdings, the value of the current Bitcoin holdings. And so that's what you have to pay in order to participate in this. So what you really care about is how quickly will the future Bitcoin yield allow me to grow into the premium I'm paying today, AKA get your payback. And then profit beyond that, anything beyond that payback point is Bitcoin gained.
+
+So that's what a Bitcoin Treasury Company investor cares about. And P/BYD is a way to incorporate both into a single metric. Your MNAV, premium that you have to pay, and then also the Bitcoin yield. And of course, it's impossible to know what the Bitcoin yield will be into the future. But the closest thing you can do is take the most recent period that's relevant and then project that forward into the future. And of course, like, you know, it won't actually deliver exactly that, but it helps give you, you know, the best estimate of, you know, what the future will look like based on the most recent period of real results.
+
+So what it spits out is a number in years based on an MNAV and based on the most recent period of Bitcoin yield, whether that's 30 days or a quarter or a year. And then it normalizes that into a year output, number of years to reach that MNAV basically for the Bitcoin holdings of that per share, the Bitcoin per share amount to compound at the rate of the most recent Bitcoin yield for how many years to reach the MNAV.
+
+So kind of some abstract math there, but it nets out to like, here's how many years to pay back, assuming that a continuation of the Bitcoin yield delivered over the most recent period. And I think it's a step forward. It's not like a perfect metric, but it's a big step forward for valuing Bitcoin treasury companies because you know, if you're only looking at MNAV you're missing arguably the more important thing, which is what's the track record of Bitcoin yield delivery. And then if you're only looking at Bitcoin yield delivery, well, how much do you have to pay for that? What's the premium that you're paying for that? And then how long do those things take to balance out? So I hope that it becomes more of a standard metric in terms of assessing the quality of the current buying opportunity presented by each Bitcoin treasury company.
+
+**Tyler:**
+(0:24:21) Yeah, we're looking forward to digging into that in a future video here at Treasury Orange. So stay tuned for that. You know, metrics in this space are all new and I think they're going to evolve with time and we're interested in your contribution there with that. So Jesse, sentiment recently, I guess, across the Bitcoin Treasury space, which is partially informed by Bitcoin yield and MNAV. Those haven't been quite matching up recently. Do you think it's Bitcoin's kind of price stagnation in terms of Fiat that's led to that? Is there exhaustion in the marketplace with retail investors? What do you attribute the I guess kind of lower NAVs over the last few months?
+
+**Jesse Myers:**
+(0:25:08) Yeah, I think it's a combination of things, but I think it's probably been more driven by hedge funds shorting than people realize. I don't really have any data to point to that, but it just feels like the Jim Chanos trade of short Strategy, long Bitcoin. Because he felt that the MNAV was too high, that has played out well. And I think that's, you know, in particular with MetaPlanet, has been what's going on, what's been going on. MetaPlanet's MNAV was like eight in the spring. And now it's like 1.1.
+
+So it's been compressed, I think, you know, relentlessly with the sort of scale that suggests to me that, you know, this is Wall Street that saw an opportunity because there was euphoria in Bitcoin treasury company landscape. And that presented a ripe opportunity to squash, you know, long investors and squeeze them out and profit from, you know, the sort of despair that they would create by shorting the hell out of it. And so I think that's what we've seen over the last three months.
+
+And hopefully that sort of, looks like that trend has, that trade has played out because these things have been compressed pretty close to one. So, you know, there's not much left in that, you know, not much juice left to squeeze. And then, you know, if you assume that hedge funds close that trade, you know, take their profits and go find the next thing. What's left is the Bitcoin treasury companies that have emerged with relative strength from that period. Many of them have not done well. Their flywheels have stopped. They've stopped being able to, evidently stopped being able to raise capital.
+
+At SmarterWeb, we continue to raise capital through the ATM style instrument. Every two weeks, we report on that to the market. You know, we've in the last three months we've raised like 50 million pounds that way and that's gone right into Bitcoin. And we're one of the most liquid stocks in the UK. And it's still hard for us, right? Like and so if you're not in that position I think it's become extremely hard to raise capital. Evidently, so I mean most have not been able to. So I think that's kind of, you know, was a little harsh to say, but it's probably killed some of the flywheels out there.
+
+And there's been a lot of consolidation into, you know, the relatively strong Bitcoin treasury companies who in turn now emerge from this period relatively in stronger shape than, you know, others. And I think, you know, that puts Smarter Web and a handful of others in a great spot for hopefully the pendulum starting to swing back in the other direction as the, I think, very real mechanics and very real math of P/BYD and other metrics bear out.
+
+Because, you know, Smarter Web has delivered plus 278% Bitcoin yield in Q3 during this bear market for Bitcoin treasury companies. And yet we're currently priced at a 1.3 MNAV, which suggests that the market is pricing us as if we will only ever deliver 30%, plus 30% Bitcoin yield ever for the rest of the life of the company. And yet we've done almost 10 times that this quarter alone. And so you can see where an investor running the numbers might believe that that is a mispricing. Might believe that that's an opportunity.
+
+**Tyler:**
+(0:29:30) Yeah. We're running up against time here, but just real quickly, Michael Saylor has said that he thinks Bitcoin's winter is never coming back. We could pick nits over what he really means to that, but let's say Bitcoin does kind of follow a little bit of that cycle and it were to drop 50% say in the coming months, how is Smarter Web positioned in that scenario and what is a stress test or what do tactics look like in a bear market?
+
+**Jesse Myers:**
+(0:29:59) Yeah. You know, it's funny that I think Saylor said pretty much the same thing four years ago. And we ended up having a bear market though. Each bear market has been less severe than the one before. So, you know, I don't know how it plays out this time. Like, will we have a 70% bear market? Maybe it's just 60, maybe it's just 50, and then it doesn't really feel like a bear market anymore. We'll see what it looks like and when it hits. I mean, we're sort of doing a slow grind upwards and have been doing it for two and a half years now. That could continue through 2026. And then, you know, it's a very different sort of market and cycle than anything before it.
+
+I think that, you know, in a bear market, it's funny that, you know, people wonder what would happen in a bear market, but we just went through one for Bitcoin treasury companies. And I think, you know, this scale of compression, you know, most Bitcoin treasury companies are down like 80% in market cap. And MNAVs, you know, have been compressed from five, you know, on average to one on average. And I think that, you know, what's happening right now is probably the bigger test than what happens if Bitcoin drops 60% slowly over a year. I think an 85% pullback compressed into three months is probably more indicative of stress.
+
+And so what you can do is a variety of things. You can sit on your hands, first of all, that's what Strategy did in 2022. And then a couple of years later, they were back. Their MNAV got under one and then years later, their MNAV was at four again. So that's one thing you can do. You can also explore other options like convertible notes that are long dated, that have a premium in the conversion. For example, if you're at a 0.9 MNAV and you do a deal where there's a conversion premium and that conversion premium is 20%, you know, rough math here, but you know, that sort of nets out to doing a deal at 1.1 MNAV and it's technically accretive. So that's like an option.
+
+You can also engage in, you know, derivatives and option selling and cash secured puts on your Bitcoin. Other things to generate some sort of income that you can use to buy Bitcoin. So you're delivering yield. And then the math and that yield should in theory be valued by the market at some point because you're compounding Bitcoin ownership by some percentage, even if it's small, and that merits a premium, in my opinion.
+
+So there are things you can do and hopefully we don't have to spend an extended period of time doing that because the best thing you can do is not get there, not get into those conditions. And the thing you can do to ensure that is deliver plenty of Bitcoin yield such that the market has confidence that you're a buy whenever you get close to one x MNAV. I think that's the case with Smarter Web. Hopefully that's right. You know, we'll see if and when we end up under one x MNAV and, you know, we'll do whatever makes the most sense at that point in time, even if that means sitting on our hands and waiting.
+
+**Tyler:**
+(0:33:40) All right, Jesse. Well, thanks for introducing our audience to SmarterWeb. Where can people find you and track the progress of your company?
+
+**Jesse Myers:**
+(0:33:45) Yeah, I'm on Twitter at creasus_BTC. We have a really thriving Twitter community started by independent investors in Smarter Web. And so you can find that, I post in that. And so you can find the Smarter Web company community on Twitter and also check out our website, smarterwebcompany.co.uk, and in particular our analytics dashboard, which shows kind of all of the metrics that are most important in understanding a Bitcoin treasury company and its track record of delivering. And we're quite proud of it, so that's where I'd go.
+
+**Tyler:**
+(0:34:18) And one thing we have all our guests say before they leave Jesse is stay orange.
+
+**Jesse Myers:**
+(0:34:29) Stay orange.
+
+**Tyler:**
+(0:34:35) All right, ladies and gentlemen, Jesse Creasus Myers.
+
+---
+
+**End of transcript**

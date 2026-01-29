@@ -1,0 +1,161 @@
+# The Smarter Web Company General Meeting
+**02 December 2025**
+**Date: 2025-12-02 (Tuesday)**
+**Video ID: rDn7BLDDdfU**
+**URL: https://www.youtube.com/watch?v=rDn7BLDDdfU**
+**Duration: ~31:40**
+**Channel: The Smarter Web Company**
+**Presenter: Andrew Webley (Founder & CEO, The Smarter Web Company)**
+**Location: Bristol, UK (Concord Museum)**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- SWC company history: Founded 2009 in Bristol as a web design business, ~250 clients
+- IPO success: Listed on Aquis exchange April 2025, best performing UK IPO in 20 years
+- Bitcoin treasury adoption: Started accepting Bitcoin payments in 2022, formally adopted treasury strategy at listing
+- Three-part 10-year plan: Core web business, acquisition strategy, Bitcoin treasury
+- Market leadership: Largest UK public company holding Bitcoin, over 60% of Aquis trading volume
+- Acquisition strategy philosophy: Using Bitcoin-backed balance sheet to fund acquisitions via equity+cash mix
+- Core business value: Recurring revenue model from web hosting, scalable services, high-margin "readymade" product
+- Company metrics: Bitcoin per share growth, quarterly yield positive, NAV, and MNAV analysis
+- Team expansion: Jesse Myers (COO), Randall (NED from Games Workshop), Albert (CFO), Tyler (BTC Inc advisor), Sean (NE Chairman)
+- Future outlook: First-mover advantage in UK market, debt-free balance sheet, exploring institutional opportunities
+
+---
+
+**Andrew Webley:**
+(0:00:02) [Music]
+
+(0:00:20) So what I wanted to do is I just wanted to run through our company presentation with with all of you because some of you won't have seen me do it before in person and then we can you know we can talk about any aspects that anyone wants to talk about. Um this this is available on our website as well if you go to the investor relations section. Um obviously uh there's there's some important information which I'd ask you to go and read on the one online to save everyone going through that. Um now um so the format for the presentation is just to talk a little bit about the company you know being shareholders most of you will be pretty familiar with that and then to talk about the three parts to the group which which which we we announced within our 10-year plan very shortly after we we we listed. Um and then to go through a few company metrics.
+
+(0:01:20) Um, so I set up the Smarter Web Company in in in 2009. Um, we set it up in Bristol, which is why we decided to have the meeting here today. Um, you know, as a child, I uh grew up with pictures of Concord on the wall and I remember um Concord flying over my old office when I was at Hargreaves Lansdown um on its final flight and you know, I live about 15 minutes away from here. So, I thought it was quite nice to um have the meeting um you know at at at somewhere as as important to me and and most other people in the UK as as this.
+
+(0:01:59) Um that was 15 16 years ago. Um and for um the first 15-ish years of the company's life, it was a a web design business. Alex um who is very kindly filming the the presentation today, Alex and myself. Um, you know, we've worked really hard for our wonderful clients and we've got approximately 250 of them, um, who, um, you know, rely on us for for for for their website and, um, and, uh, we're very, very proud of that.
+
+(0:02:37) Um but um a few years ago um we actually until recently we were saying 2023 but as part of um a legal stream of work that we're doing at the moment uh we actually realized that it was 2022 that we started accepting payment um as Bitcoin. Um and um and and and round about that time I started to think that it would be great if there was a company in the UK that I could invest in that was similar to Strategy then called MicroStrategy. And and as many of you will know, I I struggled to find one. So um around about this time last year, um I had had enough of waiting. Um, so I decided that I would list my business on the stock market, you know, a technology business, a web design company, a CMS company, whatever you want to call it. Um, and then pursue, um, the the the future business, um, from there.
+
+(0:03:33) So, we listed on the Aquis exchange in the UK in April 2025, um, which is approximately the same time that we formally adopted a Bitcoin treasury. And and that was about 7 months ago now. Um and over that time period um as is shown by many of you um making the effort to travel today, you know, we've had incredible retail investor support and the institutional support that we've been working on is slowly but surely getting somewhere and we're quite optimistic about that for the future.
+
+(0:04:11) Um I'm really proud of what we've done so far. Um you know clearly the first two months you know sort of pleased almost everyone. Um the last four or five months have have been harder you know for shareholders dependent on when you became a shareholder of course. Um, as as my wife says, the the the the share price is just one metric because in my opinion, if you look at the the the developments that we've had just over the last couple of months, um, you know, the company's the company's looking stronger and stronger every single week uh, with the the team and so forth that we've we've put together.
+
+(0:04:51) Um, but, you know, we are the best performing UK IPO of the last 20 years. Um, I still think that we're the best performing UK IPO ever. Um, but the the data clearly says 20 years. Um, we're the largest stock on the Access segment of the the Aquis market and and at our peak uh local peak, I hasten to add, um, of of the share price. We were the only company ever um to surpass a billion pound market cap on on Aquis. Um which was which was which was quite good.
+
+(0:05:28) Um we're an incredibly liquid stock. If you if you compare um if you compare us you know add the whole Aquis market together um you know we equate to over 60% of the volume on it. Um if you if you add the the London Stock Exchange and Aquis stocks all together, we're we're you know either just within the the top 100 or just outside of it depending on which week you look at it. So we're incredibly liquid which is which is which is very very good. Um we're and we're also liquid on on our uh other markets where we've got a cross listing in Germany and we've got the OTC listing in in in the US.
+
+(0:06:13) Um, and brilliantly, we're the the largest UK public company holding Bitcoin on our balance sheet. Um, we always say that we're larger than all of the other UK ones added together. Um, and and that's still true and and I hope it will always be true. Um, so we're really proud of those stats and and we we we wouldn't have those stats without all of you.
+
+(0:06:37) So, our 10-year plan, um, this is something that we announced, um, just after we listed. Um, it it's all very very clear in the Aquis admission document, which is something that you have to produce before you list. Um, and it's something that we talk about a bit. Um, and I just wanted to walk through each of the different bits so that you all had um, a bit more understanding of of how I see that and and why I think that that makes us, you know, a company that's well positioned for the for the future.
+
+(0:07:02) So, our our core business, the smarter web company, the web design business, um, is something that is is pretty profitable actually when you look at it um, for the the work that goes into it in terms of, you know, human inputs. Um, so we're we're taking steps and we've taken some steps already um since listing to um to try and expand that side of the business because I think one of the things that everyone can see over more recent developments in this new emerging sector of Bitcoin treasury companies is that an operating business, a profitable operating business has got a lot of merits when the market isn't so good.
+
+(0:07:50) Um, that's something that in the first month or two of of our life as a listed company, nobody wanted to know about, but particularly on the institutional investor side of things, I I notice a lot more conversations on that. Easily over 50% of the institutions that I speak to are quite interested in what we do from an operating business point of view. Um and um and and that wouldn't be possible without Alex, of course, um because I don't tend to do too much of it anymore, sadly.
+
+(0:08:15) Um the the the idea behind this is that we can use our Bitcoin treasury to grow that side of the business and and we do that through the increased visibility that we've got. So, some of you will have seen that the mainstream media have started to become a bit more receptive towards Bitcoin and public companies adopting Bitcoin and and that's really important because that isn't just about telling our Bitcoin treasury story, that's also about telling the wider business story.
+
+(0:08:55) Um, and then longer term, um, you know, away from the fact that we've been accepting Bitcoin as a business since 2022, we also see that we can add some value back into the Bitcoin community there. Um, which, you know, we will progress as as we go. For example, we we donated um or or gave without charge is probably the correct way of putting it um the website to the um the BSCF uh conference that um I went to in September um which which is organized by a lovely guy called Gary Gary Smith um and he does a great job of you know at a grassroots level of trying to you know do his bit for the Bitcoin community in the UK.
+
+(0:09:37) So, so, so from a from a business point of view, you know, cash flow, profitability, all those sorts of metrics, you know, the operating business is very very sensible, but also giving back in the non-traditional way um is is quite nice there.
+
+(0:09:50) Um, so our acquisition strategy um to to talk about next um and there are some more slides that we'll go through on this side of things. Um at a high level is is is exactly a way of of growing the core business to to make it more um profitable. Um but I'll come on to that in a minute with with the slides that I've got for that.
+
+(0:10:17) And then uh finally, the Bitcoin treasury side of things. We we'll we'll we'll talk about that when we get on to those slides as well. But it's important to to look at these three elements together. You might not care about one or two of them, you know, um but I would urge you to all look at the whole company and and and and consider whether that's got the right mix of everything. Um you know, and and and if not, you know, as everyone knows, you know, I'm I'm always happy to chat. You know, you can reach out, phone the office, whatever. I'm more than happy to listen. We constantly debate these things as a team.
+
+(0:10:56) Um so the the good thing about the uh the core business of the smarter web company is it's very very scalable. Um and and and in my opinion um one of the best bits about it is that there's a recurring revenue here. So effectively what we're doing is we're we're giving somebody a very good quality service. You know we think that it's better than than they can get from a lot of alternatives. Uh great level of customer support which is really really important.
+
+(0:11:22) Um and from from our side of things from the business's side of things because they pay a small amount of money for the effectively the hosting of their website um and then additional amounts if they want support done on top of that. Um it it generates a pretty good recurring revenue stream which you know when when I decided to set up the smarter web company I always remember Peter Harris telling us all of this story about the benefit of the recurring revenue to Hargreaves Lansdown and obviously on a minute scale the smarter web company imitates that.
+
+(0:12:01) Um the the the other thing that I'm quite excited about for the future is is we've got these different products that we offer um light pro readymade there's one or two other ones they're just different packages so if somebody needs a website we've got these different solutions so we've tried to sort of compartmentalize the uh the product selection part of it um to make it easier for people because we deliver all of this stuff remotely as well.
+
+(0:12:28) Um but one of those products which um we've only offered for about a year I think it is the readymade service is is incredibly high margin relative to the other things. So it serves a great need uh in terms of people having a decent decent website but without the bespoke aspect of it. Um but but from our side of things it's it's um it it's it's better if that's the right word um than the other things.
+
+(0:12:56) So the acquisition strategy which I wanted to talk about um with you all today um I think maybe there's a little bit of confusion about what what this means at times um you know we've worked relatively hard since we've IPOed to try and find the right acquisition opportunity um which will then be opportunities um but I've got some quite rigid criteria that I will not deviate from.
+
+(0:13:20) Um, so the the whole concept here is that we've got a balance sheet that has been built on the very best asset in the world, Bitcoin. And as that balance sheet gets bigger and bigger and bigger, we can use that balance sheet to grow our core business in order to make the whole business better and you know so on and so forth.
+
+(0:13:45) So you know that doesn't mean to say that you know we will sell the Bitcoin you know for acquiring a business. We don't need to do that. By having the value in the balance sheet if we find the right opportunities we can use a mixture of equity and cash to acquire other businesses.
+
+(0:14:11) So clearly I can only talk about um what what where we're at the moment but we've looked at different acquisitions um and when we find the correct acquisitions that we can follow that we've got conviction in um then we'll be able to talk about that further.
+
+(0:14:28) Before we move on from that I just wanted to explain how I see that working so that so that everyone had had what's in my head on that and if we use a fictitious example here. You may find a business that could contribute to our cash flows that you could acquire for a modest amount that you can buy with a mixture of equity and cash. So the equity would effectively be a dilution to existing shareholders, which is why the price that you acquire the business for is so important.
+
+(0:15:00) So I believe and obviously you know this year as we're standing here today isn't a very good example of that is on average Bitcoin will probably do something like 30% a year for the foreseeable future. So to me I wouldn't want to buy a business that is going to pay me back in in more than four years because you know Bitcoin will will serve that purpose very very nicely. Um ignoring the business diversification and the cash cash flow element of of that of course.
+
+(0:15:32) Um but what you can do for the cash element of a business is if you buy the right businesses you can fund the cash out of the future cash flows of the business that you acquire. So going back to you buy a business let's say for a million pounds and you buy it for 50% in equity and 50% in cash split over a number of years the 50% equity is a dilution to shareholders. There's there's no getting away from that. But as long as you do it alongside your treasury operations, you can still generate a year yield, but you're also generating potential cash flow if you get the right business of course. But the the cash payments can be paid out over the long term.
+
+(0:16:10) But there's another benefit that probably most people are missing, which is the human capital side of things. So I've worked really hard to build out our team um some of which are with us today um and all of which will be with us at the AGM which we'll probably hold at this same venue um early next year which we'll announce in due course. But it's hard finding good people, really hard. Um whereas the human capital of acquiring the right businesses for the wider group is is actually more exciting than than most people would realize.
+
+(0:16:47) So um we'll take our time on that. We've said to everyone that we'll only, you know, do the right opportunity at the right time. I've got pretty high standards. Um but but I think that is something that that deserved a few minutes of the the presentation today.
+
+(0:17:00) Bitcoin Treasury what um many of you um are quite interested in. So as I say constantly um you know we believe that Bitcoin is the best asset the world has ever seen. You know I I know it's been a difficult uh couple of couple of weeks maybe for those that are newer to the Bitcoin space. Um, I have almost 100% of everything that I own in Bitcoin and Bitcoin treasury companies. Um, and I genuinely believe that it's it's the only asset that's worth holding. Um, I think my son has a tiny amount of Nvidia, but other than that, it's all Bitcoin and Bitcoin treasury companies.
+
+(0:17:41) Um, why do I think it's so great? Well, it's very very simple. It it comes down to the fixed supply. Um and and and in my opinion um we'll see the benefits of that unfolding from now with what's happening in the US and so forth because a big amount of Bitcoin is is is the global liquidity.
+
+(0:18:08) Um what we believe and this is why we've structured the business in this whole way is that Bitcoin is digital capital. So that's what we mean when we say that we're building the balance sheet on digital capital. So as I said earlier that doesn't mean to say that you sell the digital capital but you use the digital capital.
+
+(0:18:26) If you compare our company um with a very strong balance sheet, no debt um you know growing um without giving a projection um cash flows um over time. Just to make that very clear. Um you you can see that we're in a far superior place in my opinion to to most other public companies that have got debt, you know, like what do we tell our kids or what do I tell my kids? I tell them that debt is is bad. Um you know and you know sort of you know um and we've we've we've tried to you know sort of develop the business in the same way.
+
+(0:19:03) But that doesn't mean to say that longer term we might not have an element of debt but even though a lot of people think I'm sort of quite um uh sort of adventurous on the risk curve because I believe in Bitcoin I would say that I'm a lot less risky than most people because I don't believe in debt to any large amount.
+
+(0:19:30) But clearly as we grow and grow and grow as a company, we'll explore that as we go. Um and and the great thing about what we've been able to do is that we've been able to use the public markets um you know to to implement this strategy. Um as as you all know, the last couple of months have have been slightly harder to raise raise capital than than the earlier months. And we believe this will be like a wave and there'll be times when it's much easier and times when it's harder.
+
+(0:19:59) Um but but there are different tools that me and the team are constantly evaluating. So that's you know debts um preferred things like this. But you know the these these are medium to long-term goals that we're looking at. You know the focus at the moment is exactly what you're all familiar with. And I think that's really really important. You know, um you know, I I think I think what you can see at the moment in in the UK is that um or or or globally actually is you you can see the importance that um the companies that have got the right structure, the right capital structure, you know, can can take their time to make make the right decisions.
+
+(0:20:40) Um the the the the slide on the right um is something that you're all familiar with. That's just for when we're speaking to the institutional shareholders so they can understand how the you know the the the equity raise against positive MNAV works.
+
+(0:20:53) Um so when we um we IPOed the business um it was quite hard to get it away um initially and then as soon as I could start speaking to people like yourselves you know that's when it really started you know the first week or or so as a public company you know the retail investors that we gave access to the IPO you know really got behind us and and and clearly they they probably all thought the same as me.
+
+(0:21:26) But the point of this slide is to show people like the institutional investors or the regulators and things that what they've seen this year isn't anything to be too surprised about. Um, you know, we've seen this providing the companies structure things in the right way. We've we've seen this reaction that we've seen this year, you know, in in other markets and and no doubt we'll see it again when it's done in the right way as well.
+
+(0:21:54) And then where are we going with this? So um I was really pleased to see um to see a podcast um with one of the guys at Strategy, you know, talking about us again last week and and and most of the people running the good Bitcoin treasury companies across the globe, most of which I'm friends with, um feel the same.
+
+(0:22:11) So what we all think is that there'll be a dominant player in every market and then there'll be many many many other players in that market as well doing different things in different ways and that's okay as well. Um but we believe that there's a big advantage in being the first mover in a particular market um and by having the right capital structure, the right shareholder communication strategy and all the rest of it.
+
+(0:22:42) And I and I think that up until now you can see the the results of that uh with with what we've done and and we'll really try and maintain that lead uh as we move into 2026 with the various different things that that we're working on.
+
+(0:22:55) Um one of the questions that I get asked quite a lot um is would we explore acquisitions of the companies that might not be doing so well in in in the same or a different market. Um and and we've looked at some of those as well. Um but a lot of those are a much harder than you you would think. Um there's a lot of complications there and and ultimately if it's cheaper to buy Bitcoin um than you would do that.
+
+(0:23:25) I think that might change um you know maybe in the future but if you think about it if you've got a large premium on your MNAV which clearly we don't right now but we expect we'll have in the future the chances are that the companies that aren't doing so well will come back in as well and then they would be trading above their Bitcoin. So trying to time those acquisitions up is is a lot harder than you would think.
+
+(0:23:54) I think maybe what you'll see in the future is is maybe more like mergers or strategic partnerships with with large players in one country that might want to get into a different market and realize that the barriers make it harder and then do sort of you know JVs and things like that. That's that's my current thinking of how that one might play out.
+
+(0:24:13) Um a couple of uh ones on the uh performance to date. So these are all fully diluted figures which is um why when you look at the um the enterprise value which is crudely speaking the same as a market cap it goes higher than it really did because it's the um the fully diluted nature of it. Um, and then you can obviously see that as the share price has declined since uh June, July, whenever that was, um, the the number of Bitcoin that we've held and and actually the Bitcoin per share growth that we've delivered, um, has has gone the other way.
+
+(0:24:54) Um, you know, and and um, so I think it's important to view the two things side by side, you know, because if you think in Bitcoin terms, you don't look at the share price. So, you think about the Bitcoin per share, but I accept that most people look at it in terms of the share price, which is why we've been working almost every hour that God sends um you know, to to to try and keep pushing things forward and and why I believe in transparency as well.
+
+(0:25:13) You know, I I love writing the weekly update that we put out on a Saturday morning. Takes quite a lot of time to write it. I I write it on the Friday. I've normally finished it by about 9:00 at night and and then I spend about an hour editing it on a Saturday morning as well before I put it out. So, you know, I love doing that because I think that your right as a shareholder is to get that information as much as we can issue the information in line with what we're allowed to say.
+
+(0:25:44) Um, and this this is this is my point on the SATs per share, which is, you know, Bitcoin per share. Um you can see that that has increased. You know, admittedly over the last quarter it has it has uh plateaued a little bit but it's still positive. Um if you look at the um the quarterly um yield figures, which is another one of the things that I look at a lot for the different companies globally, you can see that we're one of the only companies in the world um to deliver a a Bitcoin yield above zero in this current quarter. Um, and we're one of the best um, by that metric as well.
+
+(0:26:26) Um, and then our NAV. Um, Jesse updated all these figures for us yesterday, so they're bang up to date. Obviously, the NAV drops when when Bitcoin comes down in my opinion, only temporary. Um, but, you know, none of us can predict the short-term direction of Bitcoin and and and we probably shouldn't try.
+
+(0:26:45) Um, and then finally, it's the MNAV one. Um, which which, you know, if if there's if there's one thing that's a little bit upsetting at the moment is is is the sort of, you know, the negative MNAV because, you know, I I I focus my energies on what I can control, which is pushing the company forward. Um, but I do feel that that the market is being a little bit unfair to us there, you know. Um, but it is what it is.
+
+(0:27:15) And then finally to to come across some of the people in the team that you'll know. Um obviously you've got Laura and Alex here which are absolutely critical to everything that we do. Um but there's a whole team of people here and and every well not everyone a lot of people think that it's mostly me and Jesse but there are there are others.
+
+(0:27:34) Um so you know obviously you've got myself um Jesse is absolutely fantastic. Um you know he does a lot of things behind the scenes that you will never see. Um and um you know subject to what what he feels is right for his family next year. He may even move to the UK. Um I had another chat with him about that yesterday and I made it very very clear that there's absolutely zero pressure for me on that. You know, we don't mind where he where he works. Um but if he wants to come to the UK that's cool as well.
+
+(0:28:07) Um and then Tyler Tyler runs a company called BTC Inc. uh the host of the Bitcoin conference. Um and um Tyler is incredibly useful um from a strategy point of view um and is another another member of the team that many of you, you know, won't know know so well.
+
+(0:28:28) Um and then we've got others, you know, we recently announced Randall, uh one of our non-executive directors. He's the senior non-executive director of a company called Games Workshop. That's a really successful UK company. Uh many of you will remember it from your childhoods, no doubt. Um and and and they've they've survived through thick and thin in different economic climates with a presence on the high street and an incredibly uh loyal um uh fan base.
+
+(0:28:55) Um I think they've got a deal with Amazon as well, which which is going to, you know, sort of um modernize their their content, I suppose. Uh Randall's amazing. Um, we're so lucky because six months ago we wouldn't have been able to recruit someone of that pedigree.
+
+(0:29:07) We've also got Albert, the CFO, again, somebody that six months ago when we were so much smaller, we wouldn't have been able to recruit someone with that pedigree either. Um, I rely very heavily on them um, you know, for for for certain functions and and and as shareholders you you you should sort of, you know, just remember that there's a whole bunch of people there.
+
+(0:29:35) And then of course Sean. Sean couldn't be with us today um because he's he's he's um he's he's doing something else out of the country um for for one of his other commitments. But but but Sean's been great so far um as our non-executive chairman. Um and um and I think that's the whole team unless I've forgotten someone. Um the current team.
+
+(0:29:59) Um and that's it. There are some appendices on on this presentation if you want to go and look at it on our website. This is the slide that Jesse doesn't always get credited for. He um invented this slide. Um this is the slide that Strategy model is largely based on. Um and you can see how small Bitcoin is.
+
+(0:30:18) You know, the the thing that we say all the time, you know, we're still early. If if this slide doesn't say it, I don't know what else does. Um, gold's had a good move this year. If you view Bitcoin priced in gold, we've got a lot of catching up to do. Um, but you can see how tiny Bitcoin is um, relative to the the the other assets that you've got there.
+
+(0:30:41) Um, and then Bitcoin as the best performing asset in the world. Um, you know, in a month or so's time, uh, well, just under a month now, we'll see whether we get another down year. Um three down years. If this year is a down year, so be it. Um but the performance of Bitcoin is incredible if you look at it over the long term.
+
+(0:31:08) Um many of you will have heard me talk about the the concept of compound Bitcoin, which is how I justify the benefit of a Bitcoin treasury company. Um if you're teaching anyone about compound returns, you know, I don't see how you can do that without thinking about Bitcoin.
+
+(0:31:21) Um so yeah, two two um appendices that you you may want to um look at. And then on that note, if we go on to any questions that anyone may have.
+
+---
+
+**End of transcript**

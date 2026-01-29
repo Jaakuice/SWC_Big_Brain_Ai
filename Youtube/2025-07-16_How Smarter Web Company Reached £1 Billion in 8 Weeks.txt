@@ -1,0 +1,445 @@
+# How Smarter Web Company Reached £1 Billion in 8 Weeks
+**Date: 2025-07-16**
+**Video ID: HHYpICvd1DU**
+**URL: https://www.youtube.com/watch?v=HHYpICvd1DU**
+**Duration: ~35-40 minutes**
+**Channel: UKmemes**
+**Host: UKmemes Host**
+**Guest: Andrew Webley (CEO, The Smarter Web Company)**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- 1,600 Bitcoin held - now top 25 public companies globally by BTC holdings
+- Journey from £4M valuation to £700M-£1B+ in 11 weeks - fastest UK company to 100x
+- 325 Bitcoin purchased that morning - biggest single buy announcement
+- ~£150 million treasury (Bitcoin + cash combined)
+- Meeting with Michael Saylor in London - now communicate on WhatsApp
+- New research paper released: PBYD (Price to BTC Yield Denominated) metric
+- LSE uplisting discussion - Aquis vs London Stock Exchange pros/cons
+- Capital raising mechanisms: Private placements and ATM-like program (~£20M raised)
+- MNAV explanation - premium reflects future execution potential, not just current BTC value
+- Institutional interest increasing as size/liquidity grows (£500M+ market cap threshold)
+
+---
+
+**UKmemes Host:**
+(0:00:00) Andrew, it is amazing to have you back on the podcast. How you doing?
+
+**Andrew Webley:**
+(0:00:05) Yeah, I'm pretty good, thanks. And thanks for inviting me back.
+
+**UKmemes Host:**
+(0:00:10) Yeah, it's an absolute pleasure. We last spoke pre-IPO and your company was valued at under £4 million I've got here and it's now ranging, it ranges between £700 million and £1 billion and over £1 billion as well. And it's, we were just saying before, it's only been just over 11 weeks since we last spoke.
+
+And then this morning you just announced another buy of 325 new Bitcoin. How crazy has the journey been over the last 11-ish weeks?
+
+**Andrew Webley:**
+(0:00:45) Yeah. So, it's been pretty busy as anyone can imagine and it's been fantastic. It's been so good to see the community rally around us and people take not just the UK but a global interest in our company. It's still a bit surreal.
+
+But the thing that I keep saying to myself and I've talked to some people about it is that 3 months ago approximately when we set out to do what we've done, we're doing the same thing today. Yes it's grown a little bit quicker than we thought it would but this is a multi-year plan and it's not really changed.
+
+**Andrew Webley:**
+(0:01:30) So as you saw today, we now hold 1,600 Bitcoin. That makes us approximately in the top 25 companies by Bitcoin held in the world. Public companies that is.
+
+So yeah, it's gone a bit quicker, but the strategy isn't any different to what we set out with. And it's amazing to see the support from everyone.
+
+**UKmemes Host:**
+(0:02:00) Yeah, that's been a big thing of people just getting behind a British company doing this. And I done a little bit of research before and I was looking to see what other companies, how long it took them to get to a billion dollar valuation.
+
+I'm not sure if you've done this yourself, but I was looking and not all publicly traded, but like Deliveroo took 8 years, BrewDog 14 years, Ocado 10 years, and Monzo took 3 years to do it. And we're here talking in weeks. And as you said, it's still the very start.
+
+**Andrew Webley:**
+(0:02:40) Yeah, it's really cool. So, we are the fastest company ever in the UK to do 100x. We are probably the best performing global equity this year. We've helped bring some life back to UK capital markets. It's absolutely fantastic.
+
+Our treasury alone is approximately £150 million of Bitcoin and cash as we're talking today. And it was low millions when we listed. So we've raised a considerable amount of capital in that relatively short amount of time, but we are really only just getting started.
+
+**Andrew Webley:**
+(0:03:20) I'm very very proud of the last couple of months. But the thing that matters to me right now is the next couple of months and then the next couple of years. So yeah, it's been good by almost anyone's standards I would think what we've done so far but let's also focus on the future.
+
+**UKmemes Host:**
+(0:03:45) 100%. How is your, well, congrats first off. I probably should have opened with that. But how is the, because we talked when your company was still private and you were in the process of IPO. How has your, I just want to get a little bit of insight into like how has your life changed from being operating a private business to now operating a public business?
+
+**Andrew Webley:**
+(0:04:15) Yeah, it's different obviously. So my 25 years of working was 10 years working in a private business that became a public business. So I've had elements of that. And then 15 years of a private business which our clients are interested in but you don't have the sort of PLC aspect, all the investor relations and that side of things.
+
+So it's been great. I was aware and mindful and I expected a lot of that but when you're expecting it compared with when you're living it is slightly different. And I'm just really grateful that people like what we're doing.
+
+**Andrew Webley:**
+(0:05:00) One of the reasons why I wanted to do this was because I was incredibly dissatisfied with the investment opportunities available to UK individuals like myself. I think that there's a better way. There's like what we're doing. We're building our company's balance sheet on the best asset in the world. We're trying to do it transparently, honestly, with integrity, and all the things that I want as an investor.
+
+So yeah, it's been a real whirlwind. In terms of the work hours, it's not wildly different to what I've done for 25 years. It's much better fun. It's much more interesting. And it's bigger. But it's not wildly different in terms of the input that you put into a business.
+
+**Andrew Webley:**
+(0:05:50) Because I've always enjoyed work, or the vast majority of time anyway. So it's not that different in that capacity. It's just there's a lot more people looking at it. But that's really cool because it's nice to see a company that you set up with so much interest and all that sort of stuff.
+
+**UKmemes Host:**
+(0:06:10) Yeah. It's always like, it's what you've grown and it's like your business is always like your baby essentially and it's like you've seen it go from stage to stage.
+
+What's it like now seeing being able to see almost your, the value of the company be there and so like I guess in your face and it fluctuating, the volatility of that? Because as a private business owner like you don't really look at that and look at the valuation of your company. Is that something that you see and does it affect you a little bit more with seeing the volatility in that side?
+
+**Andrew Webley:**
+(0:06:50) Well, I personally love volatility. I think it's a great thing. Admittedly it's slightly better on the way up than the way down.
+
+But the way that I value the business is I look at the share price for the capital raising strategies that we're doing. That's obviously important. I look at the share price in terms of what I see people saying. And so I look at that side of things obviously.
+
+**Andrew Webley:**
+(0:07:20) But then what I look at is I look at the company. So I look at what the treasury looks like, what the operating business looks like, what I think is coming in the near future, what I think is coming 3, 6, 12 months down the line.
+
+And so for me, and it sounds a very strange thing, I know, but I don't actually look at the value of my own shares that frequently. I know obviously approximately what they're worth. But for me that's years down the line.
+
+**Andrew Webley:**
+(0:07:50) What I need to do is I need to keep doing my job to the best of my ability. Start building out the team as I've been doing which some people can see some of that work already. To then deliver a company that's worth 10, 20, 30, 40, 50 billion pounds.
+
+So we all look at things how we want to look at them at the end of the day with investing and everything else. So that's how I look at it. Because my time scales are a bit longer term than some people. But I also understand people that are looking at it very very short term.
+
+**Andrew Webley:**
+(0:08:25) And lots of our investors are here for the journey for as long as it will take really. But the other thing that I look at quite a lot is, because I like to set myself targets, short-term targets. So I look at how we rank relative to other public companies in terms of the number of Bitcoin held.
+
+So like a share price for example is obviously it's important from a capital raising point of view and from a market perception point of view. But for me it's the size of the treasury and the number of shares in issue and then that gives me a Bitcoin per share which is almost more important than the fiat value of that stock.
+
+**Andrew Webley:**
+(0:09:05) So yeah, I look at it all, but I know this is a very difficult thing for some people to hear, but I'm not really that fussed about the money side of things right now. For me it's about building one of, if not the biggest companies in the UK. And doing that on the asset that I believe in.
+
+And trying to have fun when we're doing that as well. One of the things that I say to my wife quite a lot is that one of the best things about my job now is I'm meeting lots of different bright people that really care about Bitcoin and everything that it stands for. And it's an awful lot of fun doing that.
+
+**Andrew Webley:**
+(0:09:50) But I know that that is a privileged thing to say because I can afford the basics in life like I've got a house, I've got food, and all that sort of stuff. So I'm aware of that side of things, but for me it's about just trying to build, if not the biggest, certainly one of the biggest companies in the UK.
+
+And if you go back to shortly after you and I talked, almost three months ago, and you look at things like the Daily Mail article that everyone laughed at me at the time when I said, "I want to be in the FTSE 100." And not many people are laughing now because they can see in this early amount of time that we are getting there with the mission.
+
+**UKmemes Host:**
+(0:10:30) Yeah like the execution and strategy has been laser eyed I would say that. And being, it's one of those things, this strategy, it's on one hand it's incredibly easy but then on the other hand it's actually quite tricky.
+
+**Andrew Webley:**
+(0:10:45) But the thing that I would say to somebody is it's not that hard if you're going to work hard at it. But it's a funny thing. I'm sure there's lots of other things in the world like this where it's really easy, but then it's also a bit tricky. But maybe that's the same as everything.
+
+I'm not bright enough to be a brain surgeon, but maybe brain surgeons would think that's easy. Anything's easy if you know how to do it, I guess.
+
+**UKmemes Host:**
+(0:11:10) Yeah. Like the one thing that came to my head there is staying fit and eating healthy. That's such a simple thing for people to think about and do. But yet lots of people struggle with it. And actually just getting the right amount of calories in. That's where my brain went with simplicity but staying on track. And it's I guess you can kind of relate it to that.
+
+**Andrew Webley:**
+(0:11:35) The best things in life are simple, aren't they? If something's over complex, the question is why does it need to be so complicated?
+
+My old boss Steve Lansdown, one of the two guys that set up Hargreaves Lansdown, he always used to say, if something is too complicated, then just run away from it. It's quite good advice actually. I've based a lot of my life on that and it's worked okay.
+
+**UKmemes Host:**
+(0:12:00) Yeah, I put a LinkedIn post out yesterday and it's about the simplicity of Bitcoin of just four steps of learning about it and then realizing that it's not just a stock investment and then you start stacking it and then you just outperform everything else. And because it's so simple, people are like, "No, that's too good to be true."
+
+**Andrew Webley:**
+(0:12:25) Well investing in Bitcoin for almost 10 years and that is literally the only way to buy it. Just buy what you can afford when you can afford it and hold it forever. Done.
+
+**UKmemes Host:**
+(0:12:35) Yeah. And it's that simple yet so hard at the same time.
+
+Talking about, so you bought or your company bought another 325 new Bitcoin this morning. I don't know if you're allowed to say this, but like how and when do you decide to buy Bitcoin? Because it from my perspective, it must be quite fun being able to buy 325 Bitcoin. And actually be part of that process. Because it's a large amount of Bitcoin to buy in one swoop. It's a lot of money.
+
+**Andrew Webley:**
+(0:13:15) So what we do is we raise capital when capital is available and when we believe that it benefits our shareholders to raise capital for the wider business in the future.
+
+So we raise money and like everyone knows and everyone's seen that we've done that relatively well so far. So you get some capital and then that capital settles. So effectively a couple of days after everyone knows about it we get that cash and then our job is to deploy that capital into the treasury which is Bitcoin and to do that relatively quickly.
+
+**Andrew Webley:**
+(0:13:55) So we buy Bitcoin maybe not quite every day. But we buy it almost every day. And we buy it sort of not super aggressively because we don't buy it the second we've got the capital, but within, let's say, a week, maybe slightly longer, the vast majority of our capital, spare capital, is held as Bitcoin for the future.
+
+So yeah we just get it deployed as quickly as we can. I often say to people that I want to be long Bitcoin short the pound. Because as people will know that have heard me talk before and I've done this personally for almost 10 years as well is I attach very little value to the pound.
+
+**Andrew Webley:**
+(0:14:40) So for the longer term I don't believe that it's going to store my purchasing power in the same way as something like Bitcoin would.
+
+So yeah, we just try and get it done as quickly as possible. Like as you can see from the announcement today, the price is pretty good. But that wasn't a trading strategy or anything like that. It's literally the plan that we've stuck to since we've been listed and that we'll stick to in a similar way in the future.
+
+**Andrew Webley:**
+(0:15:10) And it just means that you buy the Bitcoin and maybe we got it at the price that we deserve which was a very very good price but I don't look at the price when I buy it. I just literally focus on deploying the capital into the asset. I look at the price from an accounting point of view but it's not like I'm saying well if I wait till this afternoon I'll get it $1,000 cheaper or more expensive.
+
+I say to everyone all the time, I've got no idea what Bitcoin will do in the very very short term. All I know is that over the medium to long term, it's going way higher.
+
+**UKmemes Host:**
+(0:15:45) And is it you that's actually personally doing the purchasing of the Bitcoin?
+
+**Andrew Webley:**
+(0:15:50) Yeah. So, we've got pretty stringent levels of corporate governance. So what that means is that there's certain things that have to be done in a certain way. So processes, suppliers, who make certain decisions, what the treasury can invest in.
+
+So for example, our treasury policy says that we can only invest in pure Bitcoin, not like derivatives or anything like that. So we've got the whole sort of corporate and legal framework around how that works.
+
+**Andrew Webley:**
+(0:16:20) And then we've got controls on top of that. So for example, I can buy Bitcoin, but I can't sell or withdraw Bitcoin. That requires multiple people in the organization to do that that are based in different locations. Really important from a security point of view.
+
+So I deploy it in line with the mandate that I've been given by the board which is governed by the formal treasury policy that we've got. But yeah, in simple terms, I buy it.
+
+**UKmemes Host:**
+(0:16:50) It must be a good feeling.
+
+**Andrew Webley:**
+(0:16:55) It's the same as it's always been, but it's bigger numbers. So you follow the same process. I think one of the good things about my background is I've been used to working with quite large numbers in a very regulated environment.
+
+So you follow the same process. You put certain checks in place that go through every single time. And you just follow the script I suppose that you have to do to do that. So when you're moving money for example you check all the details even though you've checked them every single time and they're saved. So you have to do all these things just to make sure it's done in the right way. But I think that's where my background is quite useful in terms of that side of things.
+
+**UKmemes Host:**
+(0:17:40) Yeah, 100%. And I know you've talked about this on different podcasts, but I'd like to just go into the, and I know you probably can't say much about it at this point as well, but how important it is to you to be moving up from, because you're currently trading on the Aquis. And then how important it is for you to get up to the LSE, the London Stock Exchange.
+
+**Andrew Webley:**
+(0:18:10) Yeah, there's pros and cons of both markets. So a pro at the moment of Aquis is that we've proven that it can be a liquid market. A negative is that it's slightly harder for people outside of the UK to access. So, pros and cons.
+
+Another pro of Aquis is that providing you've got the right corporate structure, which clearly we do have, because that was planned since before we listed, you can issue a lot of shares should you wish.
+
+**Andrew Webley:**
+(0:18:45) Yesterday something came out from the FCA which we've anticipated for a period of time which means that an LSE listed company from January, that's the date that they're saying at the moment although it might be different, can raise 75% instead of I believe it's 20% in terms of raising a bigger amount of capital without doing a prospectus once listed. So, there's pros and cons.
+
+**Andrew Webley:**
+(0:19:15) For me, the big advantage of being on the LSE is that you get access to passive money. So, by that I mean tracker funds. And this is like one of my personal missions which obviously is secondary to the company.
+
+But if we can be in the FTSE 100, FTSE 250, FTSE 250 then FTSE 100 is probably how it would work, we'd be in the FTSE 250 today by size. Then those tracker funds mean that they buy the index. So they would buy your stock which means that indirectly everyone in the UK would own Bitcoin or have some exposure to it which would definitely be one of the top five things in the world for me to achieve in my career.
+
+**Andrew Webley:**
+(0:20:00) So yeah there's pros and cons. I've got a meeting, another meeting with Aquis because there's some things that they're doing to make their proposition to us stronger. We're the biggest company on Aquis now by far.
+
+I believe that Aquis is a growth market. So, longer term, is it the right market to be on? I've been incredibly pleased with how they've supported us. And I think we've been really good for their market.
+
+**Andrew Webley:**
+(0:20:30) But to say that we'll remain on Aquis forever is probably not the right thing for everyone involved whether that's Aquis, the LSE, the shareholders, the UK.
+
+So I'm not allowed to say anything like we've started the process already. Because there's certain things you can and can't say and there's right times to say things. But I think everyone can see that we've been very very clear that we want to be on the FTSE 100. You cannot be on the FTSE 100 without being on the LSE. So as we're allowed to say certain things, we'll keep everyone informed on that front.
+
+**UKmemes Host:**
+(0:21:05) Amazing. And it's very, when you're talking about the passive income and the importance of that as well. Like we're looking at MicroStrategy hopefully getting in to the S&P 500 very soon and that will be a huge thing for them because you think how many people around the world invest in the S&P 500 different funds tracking that, that would be huge. And this likewise the same for you being in the FTSE.
+
+But I did notice that you met Saylor and you put a photo up I believe in London. You met him. How was that?
+
+**Andrew Webley:**
+(0:21:45) Yeah, it was great. So I first invested in Strategy, then known as MicroStrategy, approximately 5 years ago and Michael Saylor is definitely a hero of mine. He's made a big difference to my life in terms of investment return and I just think it's brilliant.
+
+He's the one person in the world, so I had held Bitcoin, held it, sold it, held it, sold it, but he is the moment when I finally realized that Bitcoin and a public company, you put them together and you've got something truly special.
+
+**Andrew Webley:**
+(0:22:25) So then fast forward a few years to now. And to have someone contact you and say can we meet is pretty cool. So yeah, we were going to meet somewhere and then that didn't work out with our diaries. So then we agreed that we'd meet up in London. And he was in London and said could you do this? And I said, yeah, that'd be great. I was actually in London on the same day. And yeah, we had a great chat.
+
+**Andrew Webley:**
+(0:22:55) And it was really weird for me because when you listen to him talk, I've got no idea how many videos I've watched of him over the years, but he's talking about the dollar and he's talking about Strategy and things.
+
+And when we were talking, he was talking about the pound and he was prefixing everything with "Smarter" and he believes that we can be the biggest company in the UK.
+
+**Andrew Webley:**
+(0:23:25) And that gives me great confidence because he can see that we're trying to do everything in the right way. And I'm very grateful that he took that time and we chat on WhatsApp now. And it's amazing to have someone like that that just wants to help you if you need that help.
+
+And you can't abuse that help. Of course, you don't want to trouble them all the time. But it's nice to have someone that clearly knows what they're doing in the space who said that if you want any help, then just shout.
+
+**UKmemes Host:**
+(0:23:55) Yeah, that's, yeah, just to have Michael Saylor on WhatsApp. That's quite a cool sentence to say.
+
+**Andrew Webley:**
+(0:24:00) Got some pretty cool people on WhatsApp, actually. Yeah. Going through the list of them, but some pretty cool people.
+
+**UKmemes Host:**
+(0:24:10) That's amazing. Yeah, because I remember well I was when I was in Prague and Saylor was on stage. I got you on WhatsApp as well. I WhatsApped you straight away. I was like you'll never guess what just happened. Saylor got everyone to clap for SWC and applaud. And you were probably there thinking, "Oh, well, I've got a meeting with him in London in a couple days."
+
+But yeah, it was really cool to see that.
+
+**Andrew Webley:**
+(0:24:40) Yeah, really cool to see that. It's one of many things that show that we've done quite a good thing in quite a short space of time. A bit like all the feedback from investors and what they say to me and stuff. It's really really good. Yeah, I'm really pleased with that.
+
+**UKmemes Host:**
+(0:25:00) So this morning you released a new research paper or piece. Are you able to walk us through this a little bit of like maybe why you've made it and like what's a summary of what's inside it?
+
+**Andrew Webley:**
+(0:25:15) Yeah. So probably the best thing to do is for people to have a look at it. So you can view it on our website, we've published it there. You just go to our investor relations website and it's there.
+
+So as we've grown over the last sort of couple of weeks and months, we've been speaking to bigger and bigger investors. Which is great. And that's why we've done a lot of things like with our new deck and why a lot of what we do is explaining sort of why it works, why adding Bitcoin to your balance sheet works.
+
+**Andrew Webley:**
+(0:25:55) So, out of that, a lot of the conversations we talk about PE, PE ratios, which is how most investors would value a company. So if you look at like the big companies in America, a lot of them trade at like 30, even up to 50-ish. Which is nuts.
+
+What that basically means is that, everything else being equal, 50 years to get the payback. Obviously it's more complicated than that, but in simple terms, that's what it is.
+
+**Andrew Webley:**
+(0:26:30) And so we've been saying to a lot of these serious big investors that if you're used to the idea of a PE ratio, then understanding a Bitcoin treasury company is quite simple actually.
+
+And then what came out of that was that there's lots of things out there. We all want to know about MNAV, days to cover, all these sorts of things. Some great things out there. The industry's moved on an awful lot in the last year.
+
+**Andrew Webley:**
+(0:27:00) But in our opinion, we thought that sort of like a PE sort of ratio, which we've called PBYD, would be useful and we wanted to share that. That was our opinion and that's what we felt was really useful when we're speaking to investors.
+
+So yeah, we wrote up a document, Jesse Meyers and myself. And we published that on our website. When we announced the Bitcoin buy this morning, we put a note that we've put this research note out just because we wanted to get it out there so that people could see it.
+
+**Andrew Webley:**
+(0:27:35) And we'll evolve it over time, but we wanted to make a bit of a contribution to all of this fantastic work that's been done by everyone out there. And it's come out of the conversations that we're having with people because lots of people are sort of just about understanding the model.
+
+But anything that we can do to explain that better we thought we would share with other people, other companies, other investors. So if the more people that understand these sorts of things the better. There's no commercially sensitive thing of right we've got these investors or this capital raising strategy. Most of that stuff can be copied anyway.
+
+**Andrew Webley:**
+(0:28:15) But it's something that we thought was good to share with everyone and to say that this has really helped us so we'll share it with everyone else and then we can get feedback from everyone and refine it further and maybe it will become one of those many things that we all know that we talk about that is a really useful way of comparing, contrasting, evaluating, and so forth.
+
+So yeah, it's on our website. It's written in plain English like everything else that we do. There's examples in there. There's graphs. We've got real data of ourselves and others. So have a look and see what you think.
+
+**UKmemes Host:**
+(0:28:50) Yeah, I will add it to the show notes as well, so it's nice and easy for people just to click on it and then just go and read it.
+
+And it is getting people to understand holding Bitcoin on your balance sheet and getting people used to this in general. I'm not talking about the research piece. I'm just talking about like it's a big learning curve for people and that's what we're doing as a business now is helping UK businesses of all sizes understand what Bitcoin is but then why you would hold it on your balance sheet.
+
+**UKmemes Host:**
+(0:29:25) And actually off the back of our first conversation, the amount of businesses that reached out, just private companies in the UK that reached out that we're working with now in the background asking like, "Oh, I didn't realize I could do this for my own business."
+
+And just hearing someone else, your case is a little bit different because you've gone public with it, but people just saying like, "Oh, I didn't realize I could actually just hold Bitcoin on my balance sheet and accumulate it through my business."
+
+**UKmemes Host:**
+(0:29:55) So, it's really nice being able to talk with business owners that are doing this and then people listen in and then realize, "Oh, maybe I want to do this as well."
+
+And like, how important do you think it is for UK business owners that have that excess cash that they just don't need in the long term to be looking into and learning about Bitcoin and adding that to their balance sheet?
+
+**Andrew Webley:**
+(0:30:20) I think it's essential. So, what we believe is that every company in the world will hold Bitcoin on its balance sheet.
+
+Now that shouldn't be confused with some companies that will hold an increasing and increasing amount of Bitcoin and other companies which may be more suited to a private company will be holding Bitcoin to preserve their value for the future.
+
+**Andrew Webley:**
+(0:30:50) So if you think about my business when it was a private business, you could hold Bitcoin rather than holding it as cash, let's say. Like I remember with the bank that we use. The interest rate was pathetic. So it's not even keeping up with what they say inflation is.
+
+So you've got to do something with it. If you pay it out to yourself, there's going to be a tax charge on that obviously. So say you're paying out the profit as a dividend. If you're a limited company, then you're going to pay tax as the shareholder receiving that dividend. So they're taking a slice off you there.
+
+**Andrew Webley:**
+(0:31:30) So, what better thing to do than to hold some of that capital that you don't need in the short term as Bitcoin within the business and then hold it for many many years in the future that way.
+
+So yeah, I think it's just a different pot of capital, isn't it? Like individuals in the UK, they talk about ISAs and SIPPs. If you've got your own private business, that's like another pot of capital. It's a limited company or however it's structured.
+
+**Andrew Webley:**
+(0:32:00) So it's just thinking about these different pots and in most of those pots there's a way of moving it away from pounds to Bitcoin in this case.
+
+So yeah it makes sense and that's the great thing about the work that you and some other people do that you actually help people understand that it's not necessarily as hard to do that.
+
+**Andrew Webley:**
+(0:32:25) What we're doing as a business is slightly different because rather than private capital, we're taking public capital and then we're using that to grow our overall business which includes a treasury component.
+
+So with a company like us, that sort of growth on that Bitcoin, I often call it compound Bitcoin, is particularly interesting, because you're doing that rather than in a private business, you might say, "Right, I've got a balance sheet. I can borrow against the balance sheet, then obviously an interest component, there is quite a lot of risk to that."
+
+**Andrew Webley:**
+(0:33:00) And I would say to anyone with a private business is save the money that you've got to do it that way. Because that leveraged approach maybe on a small scale is okay. But it could easily backfire if you don't get everything right.
+
+And I think people need to be very aware of that. So when I say short pound, long Bitcoin, I don't mean you basically borrow millions and millions of pounds as a private individual and buy Bitcoin because that may or may not work. So I think people need to do these things sensibly in line with advice or if they understand it. But yeah, on the whole I believe that every business will have some degree of Bitcoin on the balance sheet.
+
+**UKmemes Host:**
+(0:33:40) Yeah, and I couldn't agree more with you there.
+
+For the last 10 minutes of the podcast, what I'd really like to do is almost like a mini master class in Bitcoin Treasury companies because I'm seeing a lot of bewilderment from people that maybe don't fully understand Bitcoin yet and they're looking at these public Bitcoin treasury companies and wondering what's going on.
+
+So I've got five questions here and I think we just go through them and this will be the really basics to Bitcoin Treasury companies, why you're doing what you're doing. And I want this to be a tool for people listening to then I'll clip this up and people to share with people that don't quite understand it yet. Are you keen to do this?
+
+**Andrew Webley:**
+(0:34:20) Yeah, we can try. Two caveats or one caveat and one comment is I'm not sure we'll be able to call it a master class. Maybe just a class, but I'll try my best. And then the second one is are we only talking in the context of public companies here?
+
+**UKmemes Host:**
+(0:34:35) Yes, indeed we are.
+
+**Andrew Webley:**
+(0:34:37) Well, let's do it.
+
+**UKmemes Host:**
+(0:34:40) Perfect. Okay. So, the first question is, can you just explain to me in simple terms what a public Bitcoin treasury company is? And what's the whole, what is it?
+
+**Andrew Webley:**
+(0:34:55) Yeah. So, it's simply a publicly quoted company that holds Bitcoin on its balance sheet.
+
+Now, you'll get a range of those. There'll be some that hold Bitcoin on their balance sheet. They buy a bit of Bitcoin now and then, and then you'll get the other end of the spectrum, which is companies that are really trying to aggressively grow the amount of Bitcoin on their balance sheet.
+
+**Andrew Webley:**
+(0:35:20) There's some people out there that will say Bitcoin treasury companies are only the extreme end of it, and we're in that extreme end. But I think a better way of looking at it is to understand that there's public companies that have got Bitcoin on their balance sheet and there's public companies that are focused on growing the Bitcoin on the balance sheet.
+
+**UKmemes Host:**
+(0:35:40) Yeah, that's brilliant. And I've taken a quote here from the Financial Times from I want to say 4 weeks ago, and it says that buyers of this stock, which is SWC, are paying more than £20 for £1 of Bitcoin.
+
+And that was in the Financial Times. And now that's come down to roughly around £5 for £1. How do you explain the premium to people who may not understand this?
+
+**Andrew Webley:**
+(0:36:10) Yeah. So, what you need to look at if you're looking at buying a company for whatever you're buying it for is what's it valued at?
+
+So with us, one of the key metrics that we look at is MNAV. And I look at that when I'm looking at other companies to invest in globally. I only invest in our company in the UK.
+
+**Andrew Webley:**
+(0:36:35) So you need to understand what that means and then why are you paying that premium. Because the simple answer is you're paying that premium because you believe that that premium will be earned, which is one of the reasons why we've put some of the documents together that we've put to explain that to everyone.
+
+But if that company can use that premium to generate additional capital, then that MNAV effectively resets is the way we describe it to people when we're doing our capital raises and then the market prices that again.
+
+**Andrew Webley:**
+(0:37:10) Because it's not so much you're paying more, in the FT example, you're paying £5 for one pound of Bitcoin, it's more that you're paying £5 for one pound of Bitcoin and the future potential that will be earned through the execution of the strategy.
+
+So share prices are forward-looking. Now if you've got a company that's not executing the strategy properly for whatever reason, then that multiple should be a lot lower.
+
+**Andrew Webley:**
+(0:37:40) And then at times, for example, our MNAV did touch I think 20 at one point, it might have even been above that for a brief period. That's market excitement. So just like every other share price the market is always wrong. It's either going to be too expensive or too cheap all of the time.
+
+So personally, I think our stock's very cheap right now. But that's my opinion. So yeah, it's all about the future potential. That's what you need to look at when you look at that multiple.
+
+**UKmemes Host:**
+(0:38:10) And as a public company, you are raising capital to then buy Bitcoin. What mechanisms and how are you currently raising this capital?
+
+**Andrew Webley:**
+(0:38:20) Yes. So, we've got two main levers in our toolbox at the moment.
+
+So we've got what's called private placements, which is what most companies use. So, that's placements that take place with a mixture of retail investors, high net worth individuals, and institutions. So, that's really important.
+
+**Andrew Webley:**
+(0:38:45) And then we've also got something which is a bit like you see in the States which is in America they have something called an ATM, at the market, which basically means that companies can sell their stock through an agent.
+
+So we worked out how we could do something similar to that in the UK. And that's really good. We announced I think it was a week or two ago it was over £20 million that we had raised from the first slice of that type of fundraising technique.
+
+**Andrew Webley:**
+(0:39:15) And then you've got other things that you can do in the future. So, I think where we're all heading, and being realistic, you would probably need to be, I don't know, let's say five times the size of what we are, to do this. You've got the thing that Strategy's done, which is the preference shares.
+
+So you've got different ways that you can do this and there are other ways as well. I will look at any capital raising strategy as long as I believe it's in the best interest of shareholders.
+
+[Music]
+
+**UKmemes Host:**
+(0:39:50) And the last question on my list is what, and this is more relevant to Smarter Web Company and what you're doing, but what type of investors are coming to you at the moment and is there some that maybe not so well-versed in Bitcoin?
+
+Because what I'm saying to a lot of people is that to understand what you're doing and what other publicly traded Bitcoin treasury companies are doing, you need to understand what Bitcoin is first and then how they're actually using this. So yeah, what types of investors are you getting coming to you?
+
+**Andrew Webley:**
+(0:40:30) So I think, or certainly my experience is that most people understand a bit about Bitcoin. So they understand the limited supply. They understand that no one controls it. So I think that's quite good.
+
+And then most importantly from a traditional investment point of view, I think everyone largely accepts that Bitcoin is truly a world-class asset now. So the understanding of Bitcoin isn't too much of a problem.
+
+**Andrew Webley:**
+(0:41:00) But then the other thing that was quite surprising to me was that it's only when you get to a certain size and a certain liquidity that proper institutional capital will consider you.
+
+So, we're speaking to some of the very best names in the world at the moment. And I hope some of them will support us. And that's not to say that I'm not incredibly grateful for everyone that supported us to that point.
+
+**Andrew Webley:**
+(0:41:30) But until you get to a certain size, which to be fair is probably above £500 million pound market cap, maybe even above a billion pound market cap with significant volume in your stock, so 10, 20 million pounds worth of stock a day traded, those serious players will not be interested in what you're doing because they're not allowed to do it from a risk point of view.
+
+So it's really interesting, like as you get bigger and you get more liquid, that those conversations change. But on the whole they're quite similar in terms of how does it work and that's why we've done all of that work around the quirks of holding Bitcoin in a public company.
+
+**UKmemes Host:**
+(0:42:15) Yeah, when you're talking about the volume as well going through, like when you were saying that I was just remembering like I was about to say the early days but the early days were 11 weeks ago.
+
+But I remember that of like the struggle that you had of getting people to platform and actually putting it on their platform so people could buy it and the liquidity, the volume just wasn't there in the early days because people couldn't get access to it and people are having to call up. And it's just it's funny to see that and now millions going through it, sometimes tens of millions.
+
+**Andrew Webley:**
+(0:42:55) Well, we went from, and that's I guess just because these platforms have to switch the stock on, but there's been a number of weeks in this 3 months where we've been the biggest traded equity in the UK.
+
+We've been one of the biggest equities in the world based on number of deals and slightly less on value of deals. Some days and some weeks where we've been, with our OTC listing that we've got which allows greater access to America, where we've been the most liquid stock there.
+
+**Andrew Webley:**
+(0:43:30) So it has changed a lot. But we still are very very early in this. It literally is within that 3-month window of being there.
+
+We've gone from a very very small amount of Bitcoin to smashing through the thousand in less than 3 months. 1,600 as of today's announcement. So it's still going to be very very exciting the next couple of weeks and months. And I'm sure the liquidity will just get better, but it's obviously quite good now. But it's all about the future growth on everything.
+
+**UKmemes Host:**
+(0:44:05) 100%. And I will definitely have you back on at some point. And I imagine we'll be looking back at this and saying exactly the same as we were saying before.
+
+So yeah, I'm excited to see you grow and as I said before, it's great having you in the UK and actually giving some life back to the capital markets. And yeah, thank you so much for coming on. Congrats on the 325 Bitcoin purchase and releasing the new research. So everyone, please remember that it is in the description below. So go and check it out.
+
+And yeah, Andrew, thank you so much for coming back on.
+
+**Andrew Webley:**
+(0:44:45) Yeah, no worries. Thanks for taking the time and let's see where we are when we next talk.
+
+**UKmemes Host:**
+(0:44:50) Yeah, definitely.
+
+[Music]
+
+---
+
+**End of transcript**

@@ -1,0 +1,360 @@
+# IN HONG KONG: The Masterplan Behind Smarter Web Company's Growth Explained
+**Walking Tour Interview with Andrew Webley**
+**Date: 2025-09-02**
+**Video ID: pLqH8mUp3kU**
+**URL: https://www.youtube.com/watch?v=pLqH8mUp3kU**
+**Duration: ~32:31**
+**Channel: The Bitcoin Libertarian**
+**Host: David (The Bitcoin Libertarian)**
+**Guest: Andrew Webley (CEO, The Smarter Web Company)**
+**Location: Hong Kong (Aberdeen, West Kowloon, Central Market, Victoria Peak)**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- Bitcoin yield calculation changes: moving from 30-day to quarterly reporting for better peer comparison
+- Smart Convert Bonds: $21M issued, short duration with zero downside risk (Bitcoin returned if not converted)
+- Jesse Myers' full-time role as Head of Bitcoin Strategy and impact on company execution
+- PBYD (Pay Back Your Discount) valuation metric: SWC at ~1.6-1.7 MNAV with <3 month payback period
+- UK regulatory challenges: FCA allowing retail ETNs (not ETFs) by end of 2025
+- Positioning against global peers (MicroStrategy, MetaPlanet): collaboration over competition mindset
+- ATM-style facility performance: bi-weekly updates to shareholders, continuous optimization
+- Bitcoin Treasury companies' educational responsibility to the 8 billion people globally
+- Long-term vision: becoming one of the biggest companies in the UK (currently holding 2,440 Bitcoin)
+- Life as a CEO: 24/7 commitment, recognition in public, staying true to values and mission
+
+---
+
+**David (The Bitcoin Libertarian):**
+(0:00:00) Let me know your name and what are you doing here?
+
+**Andrew Webley:**
+(0:00:03) Andrew Webley, the CEO of the Smarter Web Company.
+
+**David:**
+(0:00:06) What is the wildest prediction for 2030?
+
+**Andrew:**
+(0:00:11) 10 million plus.
+
+**David:**
+(0:00:18) Hello, this is David K Libertarian. I'm in Aberdeen, the south of Hong Kong Island. And in today's video, we are going to be asking questions to Andrew Webley while showing him around the beautiful city of Hong Kong. So, I hope you enjoy it. If you like, please thumbs up, subscribe to our channel, share this video, uh help us orange pill 8 billion people. So, enjoy the video and if you have any comment, please drop them below. Thank you.
+
+**Andrew:**
+(0:01:04) How you doing? Enjoying Hong Kong?
+
+**David:**
+(0:01:06) It's amazing. Yeah. Yeah. It's It's a fantastic place. Nice. Nice.
+
+**David:**
+(0:01:17) So here we are in Hong Kong with Bruce Lee with Andrew Webley the CEO of the smarter web company that will answer a couple of questions to the people. It's a different way to record like a kind of podcast but it's going to be funny and people will love it. So the first question that I have here is how have impacted the last Bitcoin purchase in the in the Bitcoin yield of the company?
+
+**Andrew:**
+(0:01:42) Yeah. So we report our Bitcoin yield in terms of performance since the inception uh year to date equivalent. Um and we also report it in 30 days. What we're thinking of doing is changing the 30 days to quarter to date. So at the moment if you look at the Bitcoin purchase yield over the 30-day period, you'll see the last number was a fair bit lower than the previous Bitcoin buy because obviously 30 days is a very small window. We believe that if we change it to quarterly then it'll be lot a lot more representative when comparing it against the peers.
+
+**David:**
+(0:02:13) Excellent. And can you please explain the smart convert bond and the role in your funding mix?
+
+**Andrew:**
+(0:02:21) Yeah, so I'm very proud of the fact that the business is built on equity um and the ATM style facility is is is another extension of equity. However, we did want a way to grow even quicker and faster than than we could do purely with equity. So, we decided that we do a very small amount of the treasury as smart to convert. Um, we've only done $21 million worth at the moment. It's quite a short duration, but there's in our opinion zero downside risk because if it doesn't convert, we give the Bitcoin back. But, we'll never do a a a massive amount of smart to convert. It will all be equity focused certainly for the foreseeable future.
+
+**David:**
+(0:03:01) Any changes in the 10-year plan that we spoke in our episode that by the way was taken down by YouTube again?
+
+**Andrew:**
+(0:03:07) No, no changes. The strategy is the same since the start will be the same for the foreseeable future. Um, just with bigger numbers.
+
+**David:**
+(0:03:14) Enjoying Hong Kong?
+
+**Andrew:**
+(0:03:16) Very much so.
+
+**David:**
+(0:03:18) Can we move to the next spot?
+
+**Andrew:**
+(0:03:20) Yes. Thank you very much. Yes. I went the first time in 2009. Yeah. And I was staying in near Russell square.
+
+**David:**
+(0:03:37) Okay. We are here in the second spot of Hong Kong. Uh we are in West Kowloon. How how are you enjoying so far?
+
+**Andrew:**
+(0:03:43) Yeah, it's great and we really appreciate you showing us around and I hope you are enjoying so much Hong Kong.
+
+**David:**
+(0:03:49) And I have uh another questions to do to you and it's how has Jesse Myers' full-time role as head of Bitcoin strategy changed your approach of the strategy?
+
+**Andrew:**
+(0:03:58) So Jesse's been in Hong Kong um for the last couple of days with me and it's been amazing having him helping me cover more and more space at the conference. You know, he talks better than me publicly um and there's a lot of people that know Jesse, so it's great. That's the first thing to say. The second thing is that I got to know Jesse over a period of time and then he started working with us, you know, part-time. Uh, and he was really keen and I was really keen for him to go full-time. Um, so yeah, I couldn't be couldn't be happier. Um, the strategy is largely the same, but by having Jesse, it allows us to do more. And then we've managed to sort of start to expand into some of the things that we want to do, which is, you know, improving the metrics and doing more education around what we're trying to do. And so, yeah, he's he's uh he's amazing.
+
+**David:**
+(0:04:48) I saw I was there when he was speaking with um Alexander from Capital V and I I love what he said that they asked about the companies that do Ethereum strategy or and he said no the all of the companies that they don't do Bitcoin strategy are going to be bad and I cannot agree more about that.
+
+**Andrew:**
+(0:05:13) Well, so I think I'll be fairly diplomatic in my answer, but the the thing that I find interesting for me with my outlook on the world, i.e. I believe in Bitcoin and not much else, is what we're doing here is we're adopting a treasury policy for our business for, you know, many decades into the future. Um, so by default that means that you need to have a treasury asset, something that is the best asset in the world. So, you know, because I don't believe in Ethereum or any of the other alternative things in quite that way. I just don't understand how that is possible. But, um, I think we're all saying the same thing. And I'm not going to be polite. I will say what I say every day when I wake up. Anything not Bitcoin is a scam.
+
+**David:**
+(0:05:58) So, don't trust the company to do Ethereum and all these things on on, of course, no financial advice.
+
+**Andrew:**
+(0:06:03) No financial.
+
+**David:**
+(0:06:05) The only thing that I didn't agree with him I don't think that if he said or Alexander said that we are going to be in a 40 years bull cycle for me we are in a perpetual bull cycle with some adjustments adjustment well same that happening in the last days but we are in a perpetual bull cycle what do you think
+
+**Andrew:**
+(0:06:26) yeah so I really respect Alex and I I think that he's a great person and I hold some shares in his company but no bitcoin in my opinion is going up forever
+
+**David:**
+(0:06:32) Yeah, excellent. And the other question is why introduce the PBYD metrics and how does it value SWC today?
+
+**Andrew:**
+(0:06:40) Yes. So, we wanted to start to make a positive contribution to the wider community that look at Bitcoin treasury companies and try and help investors understand the value proposition. Um, so we like things like days to cover. We obviously like MNAV as a as a sort of an indicator benchmark valuation metric. Um but we felt that it could be improved. Um so we've got some other ideas of things that we'll do in the future. Um obviously we've got a lot on so you know it will take time. Um but PBYD is a is a great way in our opinion of looking at things. And if we look at smarter web at the moment with you know let's say a 1.6 1.7 MNAV. If you then look at the the the the time that it will take us to earn, you know, that valuation, you know, it's approximately a quarter of a year. Um, so less than 3 months, which is incredible if you compare that to say the PE valuation metrics, you know, so I I think the MNAV is is a thing that I look at all the time for different companies. Um, but I think if you look at things like that, it gives you more of an understanding and and and and I think what we will do in the future is perhaps tie it in with some sort of a metric which might be part stats and part subjective for the ability of companies to raise capital because that's obviously a part an important part of the model and then maybe longer term maybe introduce something for some of the new companies that are coming out which I think could be quite interesting that have got operating businesses.
+
+**David:**
+(0:08:12) Excellent. Thank you very much. Ready to go for the other spot?
+
+**Andrew:**
+(0:08:19) Very much so.
+
+**David:**
+(0:08:20) I think that it's time for lunch. So, we are going to cross to the other side and have some quick lunch in Hong Kong Island before moving to the next spot. Thank you very much.
+
+**Andrew:**
+(0:08:32) Thank you.
+
+**David:**
+(0:08:44) with Andrew in the central market. I'm not a a big No, I need to go. This amazing. We going to eat ramen half day.
+
+**Andrew:**
+(0:08:58) Good. Very good. Tea. Uh, no. Tea. Tea. Tea. Okay. Non coffee. Okay. So, give me what do you want, Andrew?
+
+**David:**
+(0:09:09) English breakfast.
+
+**Andrew:**
+(0:09:10) Yeah, English breakfast. Tea with milk, please. Uh, one Americano and one water and steel. Uh, steel. Still, please.
+
+**David:**
+(0:09:18) And we are going to pay with Bitcoin. It's not so simple, but we need to make faster.
+
+**Andrew:**
+(0:09:29) Yeah, but it it will get get faster in time.
+
+**David:**
+(0:09:34) that that's why you can buy a coffee with Bitcoin in Hong Kong. I already bought in Europe. Uh the discount is 99. Okay. So I just scan. You have lightning?
+
+**Andrew:**
+(0:09:47) Lightning. Yes.
+
+**David:**
+(0:09:48) So I have this. I already scan the price. I will say send and send. And he received. He received real money, not an IOU. He's receiving real money. striking in the treasury company there's been a lot of inspecy transfer um that is they they changed the rule because they're worried um greatly so well we had to stop uh because as you may see Hong Kong well you're accustomed because you are a you British but it's raining really hard so we need to stop a little bit before moving to our next spot so is a good moment for asking some questions so what challenges do UK regulation pose for your Bitcoin Treasury policy.
+
+**Andrew:**
+(0:10:34) So in the UK, they've been fairly unfriendly to Bitcoin and the wider crypto community for 5ish years now. Um but that's changing. You know, the the FCA, our regulator, has said that retail investors will be allowed to buy ETNs. It it should have been ETFs in my opinion, but it's a step forward. Um so hopefully before the end of this year, that will be allowed. Um I see it as something that improves adoption and acceptance. So, it's only a good thing as far as I'm concerned. Sometimes people say, "Will this be good for companies adopting Bitcoin as a treasury asset? Um, and I then look at what happened in America and it's been good over there." So, the more acceptance for Bitcoin, the better.
+
+**David:**
+(0:11:19) Excellent. And also, how do you see SWC stacking up against global peers like Micro Strategy or MetaPlanet?
+
+**Andrew:**
+(0:11:24) Yeah. So, Strategy and MetaPlanet are both fantastic companies. Um, I've seen Simon from Metaplanet in the last couple of days and Michael Saylor's been, you know, incredibly supportive. Um, you know, I I think at this stage it would be too difficult for me to say that I want the number two slot. Um, but, you know, I would quite like it. um we can learn from them, we can chase them, you know, as long as we're working together, you know, in terms of making everything better, then, you know, it's clearly a good thing. At the end of the day, if they're buying more Bitcoin, we're buying more Bitcoin, another company's buying more Bitcoin, we're all making Bitcoin stronger, and we all benefit from it because we're building our business on the same asset.
+
+**David:**
+(0:12:06) Yeah, that that's the point because you said before that about the we were talking about a lot about the Bitcoin community. So probably in other industries you would see them as a competitors but now as you say we are all in the same team and we are all fighting together.
+
+**Andrew:**
+(0:12:18) Yeah. So on a regional level um we want to try and help the people doing the same thing as us. Clearly we are competitors in terms of capital but there is a lot of capital potentially available to the space. Um but certainly on a global level then you know we can all try and improve the industry make the information clearer for investors and then like you say you know we're all making Bitcoin better. So you know it's quite an exciting time.
+
+**David:**
+(0:12:48) Yes I I I think so and and and yeah I I met um um Simon from MetaPlanet the other day. He said he cannot speak because they are doing some stuff. So I hope we can have him in my podcast. But again enjoying today the day let's wait if let's see if it it's if it's uh stop raining right I'm sure it will. So let's move to the other spot. If there is not another spot is because it's still raining. So but anyways we are here enjoying he's enjoying a tea. I'm enjoying a coffee and we bought it using Bitcoin. So thank you very much and let's move to the other spot. Let's go.
+
+**Andrew:**
+(0:13:38) So we can't go down.
+
+**David:**
+(0:13:57) I am I am with Andrew in the Hong Kong Tram. Are you enjoying Hong Kong?
+
+**Andrew:**
+(0:14:00) very much like it's incredible to be here with Andrew in the Tram. Amazing.
+
+**David:**
+(0:14:11) So, here we are in another spot, but we have there the enemy. We have the HSBC. We have all the banks, banks that are in fear because Bitcoin is uncovering their scam. And for sure, I will be uh kicked out from YouTube from this, but no problem. How how is the tour so far?
+
+**Andrew:**
+(0:14:29) Yeah, it's brilliant. You know, we've seen a lot and uh yeah, appreciate you taking the time.
+
+**David:**
+(0:14:34) Excellent. I'm I'm loving I'm enjoying too much discussing a lot of things about Bitcoin, about lifestyle, about entrepreneurship. So, I'm so glad to to be with you today and and learning a lot. So, let's do a couple more of questions. And how is the ATM style facility performing since the 3.7 million tranche update on August 26?
+
+**Andrew:**
+(0:14:54) Yes, so our ATM style facility is an important part of the capital raising structure. Um, obviously I can't talk about the precise figures, but we decided that we would update the market every two weeks on that to keep shareholders in the loop as much as we can. Um, we are pretty pleased with how it's going. We constantly discuss how we can improve it, make it better. We've got some possible ideas for the future. But on the whole, I think it's an essential part of the capital raising tool box.
+
+**David:**
+(0:15:24) Excellent. And another question that is more related. I think that we are going to stop the questions of the company and we are going to talk more about like lifestyle and and and thinking about the future. But the the last question is what are the biggest takeaways you get from the Bitcoin conference Asia? What are the good things of the conference? and probably the things that the conference can improve for next year.
+
+**Andrew:**
+(0:15:43) Well, so firstly, it's been a brilliant conference. Um, I think the most significant thing for me is seeing everyone else's attitude and that we're all aligned in terms of very, very long-term. Um, so I always say, you know, 10, 15, 20 years. Um, but you know, I've heard people like Tyler, one of our directors, talk about 50 years. And that's really reassuring because, you know, obviously with Bitcoin and with Bitcoin Treasury companies, you get volatility, but we all need to zoom out and look at where we're going. You know, and that doesn't mean to say that everything's a guaranteed success, but you know, in our opinion, if you take a medium to long-term view, then the future's beyond exciting.
+
+**David:**
+(0:16:23) Excellent. Excellent. And any other conference that are you planning attend on this year?
+
+**Andrew:**
+(0:16:30) Yeah, so I'm going to New York in um I think it's about a week or two's time. Um that should be really good for the Bitcoin unconference. Um I think you can still get tickets for that. Um and then after that I'm going to Token 2049 which is in Singapore. So I'm looking forward to that. Um, some of my friends have said, you know, a a conference that's not purely Bitcoin maybe not so good. But I I don't agree with that, which is why I'm going because I think that our job is to encourage Bitcoin adoption and to represent companies adopting Bitcoin as a treasury asset alongside some of the other companies that are adopting different assets within their strategy. So, you know, obviously I love the Bitcoin conference, but doing as many different things to get in front of as many new people is really important for for everything.
+
+**David:**
+(0:17:21) Yes. I think that I was talking today in the morning in the stream that I have with an Argentinian guy that he said that he like even though he's a Bitcoin maxi, he likes going to this shitcoin conference. Sorry the word, but uh it is what it is. but this conference that are not Bitcoin related because it's good to see other perspectives and also orange pill people that are into crypto but not into Bitcoin. What do you think about
+
+**Andrew:**
+(0:17:42) Well, so in our opinion, Bitcoin treasury companies are the most undervalued type of equity in the world. Um it's an incredible time at the moment and um you know the future is really exciting. Um I'm not convinced by a lot of the other things. That's why I only invest in Bitcoin. Um, so I think to be able to share our opinions with other people and other companies and things, I think maybe that could be a very positive thing to do.
+
+**David:**
+(0:18:08) Excellent. And in New York probably I can find you a tour guide that is my cousin, but he works for the enemy. He's uh he works in JP Morgan. So I don't know if if he can talk about Bitcoin, but probably I will make you you go with him to orange pill him.
+
+**Andrew:**
+(0:18:25) Yeah. And I'll do my best.
+
+**David:**
+(0:18:28) Excellent. Thank you very much. And let's move to the other spot. Let's go. Are here with Andrew again. I'm recording selfie because it's full of people. Let me Yes. Now it's Now it's okay. So, what are your main thoughts about Hong Kong? Do you like the city? Uh, do you enjoy it? Do you want to come back?
+
+**Andrew:**
+(0:18:47) Yeah, definitely to come back. Um, it's an amazing place. You can see how great it looks in the background here. And we've just had the best time. You know, everyone's been so welcoming. Obviously, we've had Bitcoin here, which makes it even better. Um, and yeah, can't wait to come back.
+
+**David:**
+(0:19:06) Planning to expand your business to Hong Kong?
+
+**Andrew:**
+(0:19:09) I don't think so. Not at this stage. You know, the focus is, you know, on the UK. Um, but, you know, we do have global investors. Maybe we can increase the reach. I think I've got some ideas on that in terms of how we can make it more accessible um to people that currently can't buy our shares. Um, but I think we need to stick to the mission for the moment.
+
+**David:**
+(0:19:24) Excellent. Stay focused and laser eyes
+
+**Andrew:**
+(0:19:28) 100%.
+
+**David:**
+(0:19:30) Thank you, Andrew.
+
+**Andrew:**
+(0:19:32) You're welcome.
+
+**David:**
+(0:19:41) Okay, we are in the last spot of the afternoon. We see all Hong Kong from the Victoria Peak. This is one of the like the most um famous spots of uh our city. So, and people is crossing, but no worries. So we are here with the last part of uh the the the the trip around Hong Kong with with Andrew. I hope you're doing good and I'm going to start asking questions. I'm not uh related to the company but more uh person not personal but uh more than the how how the life changed being a a CEO of a of a Bitcoin treasury company especially not coming from the side of Saylor from the side of Simon Gerovich like you are one of us you are one of us that start running a company you find a a loophole on the system and now you have the CEO of a Bitcoin treasury company and how was how has life changed?
+
+**Andrew:**
+(0:20:40) Yeah. So, life's always been quite busy for me because I've always worked hard. But, you know, we are incredibly busy at the moment and it's the best job in the world. You know, of course, it's a bit strange like when we were walking around earlier and someone comes up to me and they recognize me and you know and and and you know, I'm really grateful for the support and why people do that. Um, but yeah, it's it's it's it's pretty crazy.
+
+**David:**
+(0:21:03) Yes. and and and and what what advice do you have for people who are in the same position running a company a successful company but they want to go the extra mile and became a really Bitcoin treasury company
+
+**Andrew:**
+(0:21:16) so I think it's important to understand you know what you're getting yourself in for um so when I wanted to list my business you know I wanted to do exactly what we're doing and I wanted it to be one of the biggest companies in the UK um So, I think you have to be realistic about what you're what you're you're setting yourself up for. Um, and then I think you need to stay true to your values and keep pushing it forward, you know. Um, you know, it's helpful if you've got a supportive network or family, you know, behind you. Um, because, you know, it will consume you. You know, this isn't a, you know, a 9 to 5 job. This is 24 hours a day, 7 days a week.
+
+**David:**
+(0:21:53) Yes. And, and I think that this is tiring. This is this is not easy, but it's also uh a good motivation to keep pushing forward.
+
+**Andrew:**
+(0:22:00) Yeah. So, I've I've been working for 25 years and I've always worked pretty hard. I think when you run your own business, a private business, you have to work hard. Um you have to keep, you know, pushing things forward, you know, to survive effectively. So, for me, yes, it's harder. it takes up more time, but in some ways it's easier because, you know, we've we're we're building a bigger and a bigger and a bigger company, you know. So, um you know, and and I suppose most importantly, I'm doing what I love
+
+**David:**
+(0:22:33) and and what are the plans for the future uh and your your vision and and and your dreams for for the smarter web company?
+
+**Andrew:**
+(0:22:44) Well, so for the smarter web company, I want us to be one of the biggest companies in the UK. Once we achieve that, then the biggest company in the UK, you know, when you look around you at places like this and you see, I don't know how many people must be down there, 8 million, 10 million, something like that, and then you think about the percentage of those people that probably own Bitcoin right now, you know, it's it's probably tiny. Um, so, you know, if that doesn't tell you that we're still early, I don't know what does.
+
+**David:**
+(0:23:07) And as a CEO of a Bitcoin treasury company, uh what do you think that the CEOs of the Bitcoin treasury companies must do in order to uh reach this 8 billion people that I always say to to boost the adoption and to make Bitcoin global and mainstream.
+
+**Andrew:**
+(0:23:24) So I think the most important thing that everyone can do is run their business properly for the benefit of the shareholders. But in addition to that, we've all got a responsibility to communicate with everyone and explain why Bitcoin is the best asset in the world. You know, there's more people out there in the world that don't understand it, don't know about it, haven't put the time into learning about it, and we can all play a role in in in helping to educate the world. Um, and I think for Bitcoin Treasury companies, I think that's a really important role that they can play in the whole ecosystem.
+
+**David:**
+(0:24:02) Excellent. And to to close, first of all, why Bitcoin is is this this this asset and is the future? Of course, I'm I I'm 100% Bitcoiner, Bitcoin Maxi believer, but why this which role is going to play in this this future?
+
+**Andrew:**
+(0:24:19) So, you know, we all know that Bitcoin's got a limited supply. Um, that's absolutely essential and I believe that it will underpin everything and things will be built on top of it. So what those things are right now I don't think we all know but you know you know coming from the UK and the impact of inflation that you know it's absolutely killed normal people um you know I think that things do need to change and and Bitcoin's the way
+
+**David:**
+(0:24:47) you know and which message would you give to those people who are hesitant that they don't trust Bitcoin that they want to buy and they are like thinking about that these no coiners that are all there.
+
+**Andrew:**
+(0:24:59) Well, so I still haven't met anyone that's put the effort into learning about Bitcoin that doesn't think it's brilliant. Um, so I'd say, you know, get reading, get learning, get understanding. And I'd be, you know, I'd be very surprised if you don't come to the same conclusion that we've all come to. And if you don't, then please get in touch with me. And then I can stop saying that. I've still never met anyone that doesn't believe in Bitcoin.
+
+**David:**
+(0:25:24) And you said that every Saturday you drop a message and update to all the community of smarter web company. And today Saturday of course we are going to release this probably a couple of days in the week but today Saturday I want to close with a message to your community to your investors to your shareholders um whatever you want to say.
+
+**Andrew:**
+(0:25:49) Well firstly thank you. Um and then secondly, you know, we believe that we're executing very very well. Um and we're looking forward to the future. So, um you know, I appreciate that it's been pretty volatile, um the last couple of weeks. You know, that's a global thing, not just a smarter web thing. You know, perhaps we've been treated less fairly than some other companies in terms of our MNAV. Um but it, you know, it is what it is at the end of the day. And, you know, we couldn't be more focused on the future and we think we're on the right path. So, thank you.
+
+**David:**
+(0:26:21) Thank you very much, Andrew. Has been a pleasure to hang out with you today and to allow me to record this video that we are going to upload uh soon on on YouTube on the platform. Uh thank you for for your support and and I wish you the best and probably we can shoot another video next year to see where the company is going and and it's becoming bigger and bigger and bigger and and again, thank you very much.
+
+**Andrew:**
+(0:26:46) Yeah. Yeah. And I think what we should probably do is we should state the number of Bitcoin that we hold today, which is 2,440. So when we're talking next year, we can then do this again in this same place. And then we can put the two videos side by side, you know, clip them next to each other. And that would be pretty cool.
+
+**David:**
+(0:27:06) That's amazing because next year the conference is going to be held in the same dates, uh, a Thursday and a Friday. So, of course, it's open another uh the following Saturday, we are going to go around Hong Kong shooting another video and see how many Bitcoin the the Smarter Web company has and we put the the two videos together. Thank you very much. Uh we finished here. We are going to hang around a little bit and we're going to go for dinner. But again, uh uh amazing. Thank you very much. And I hope all the people on the on the on the community on the Bitcoin community on the smarter web community like the video and enjoy it the same way I enjoy to be with you today. Thank you.
+
+**Andrew:**
+(0:27:50) Thank you very much. Stay humble, stack sats and remember we are all Satoshi.
+
+---
+
+## Bonus Q&A Section
+
+**David:**
+(0:28:43) Here we are after the Hong Kong Bitcoin Asia conference. Let me know your name and what are you doing here?
+
+**Andrew:**
+(0:28:49) Andrew Webley, the CEO of the smarter web company.
+
+**David:**
+(0:28:52) And the first question is explain Bitcoin in just one sentence so a grandma can understand it.
+
+**Andrew:**
+(0:28:57) So Bitcoin is like digital money that you can send to anyone without a bank kept safe by a computer system that everyone can see.
+
+**David:**
+(0:29:08) Excellent. What is the wildest prediction for 2030?
+
+**Andrew:**
+(0:29:15) 10 million plus.
+
+**David:**
+(0:29:16) Amazing. Amazing. First time a bull. Um, what is the strangest thing you bought using Bitcoin?
+
+**Andrew:**
+(0:29:26) I can tell you the most stupid thing I've ever bought with Bitcoin. No problem. And that would be uh the pound many years ago before I had the conviction and I bought sold bought sold. You know, I I did buy the pound when I sold Bitcoin.
+
+**David:**
+(0:29:40) And that drive me to the last question is what is the biggest mistake you made in Bitcoin?
+
+**Andrew:**
+(0:29:46) Well, it would have to be when I first found it and I didn't hold every single bit that I bought.
+
+**David:**
+(0:29:52) Thank you very much. And what is your social media?
+
+**Andrew:**
+(0:29:55) So, the easiest way to find me is ASJ Webley on X.
+
+**David:**
+(0:29:59) Excellent. Thank you very much. And I hope you enjoy Hong Kong.
+
+**Andrew:**
+(0:30:03) Thank you.
+
+---
+
+## Host's Closing Remarks
+
+**David:**
+(0:30:10) Okay, closing remarks. I hope you enjoy the video the same way I enjoyed the full day I spent with Andrew. Um not every day you can hang out with a CEO of a Bitcoin treasury company and the biggest Bitcoin treasury company in the UK. For me it was a pleasure and and I hope Andrew to meet you again. Uh, Andrew's son, thank you very much for being our cameraman. And the only problem that I have now is living in Hong Kong. I cannot invest in the smarter web company. So, I enjoy a lot. Uh, Andrew is a humble man. He doesn't look like a Bitcoin treasury company CEO because he's super humble. He's super friendly. He's super transparent. And I think that these characteristics or or virtues are amazing things that every CEO must have to run their company and and take the company to to the moon. So uh for the people from the smarter web company community, thank you. I love the support that you give to us to our channel.
+
+(0:31:24) uh to Andrew, thank you very much. Uh it's been a pleasure as I said and you know that you have a friend here on the other part of the world and anything that smarter web company needs to keep growing any help you need to keep growing just contact the Bitcoin Libertarian and we are going to be here ready to help because as you mentioned in the video we are a whole team we are all in the same team and we are on this epic battle of changing the world and and giving the world hope through Bitcoin. Again, thank you very much. Share this episode with the people you love. Share this episode with the people you hate because we must reach 8 billion people and bring them to Bitcoin because as I said is hope. Stay humble, stack sats and remember we are all Satoshi.
+
+---
+
+**End of transcript**
+

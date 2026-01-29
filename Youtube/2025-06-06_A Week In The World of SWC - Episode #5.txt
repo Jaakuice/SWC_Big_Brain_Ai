@@ -1,0 +1,342 @@
+# A Week In The World Of SWC - Episode #5
+**Date: 2025-06-06**
+**Video ID: HfuO0PuFT-U**
+**URL: https://www.youtube.com/watch?v=HfuO0PuFT-U**
+**Duration: ~45-50 minutes (estimated)**
+**Channel: A Week In The World Of SWC**
+**Hosts: James & Jamie**
+**Source: YouTube / X Spaces**
+
+---
+
+## Key Topics:
+- Share price all-time high of £1.10; currently trading in 75-85p channel
+- Record Bitcoin purchase of 39.52 BTC, bringing total holdings to 122.76 BTC
+- Equity raise exceeded target: £13.4M raised vs £8M target with strong institutional demand
+- Retail participation limit hit (8 million euros) - future raises will be institutional-focused
+- Days to cover at ~40 days - fastest among major Bitcoin treasury companies
+- MNAV at 6.45 - impressive for fastest growing Bitcoin treasury
+- Tennyson research note with 105p target price (30% upside)
+- David Bailey's merger suggestion for faster uplisting - hosts skeptical of approach
+- Website rebrand to Bitcoin orange; renamed from "digital assets" to "Bitcoin treasury"
+- Community mobilization to pressure AJ Bell to restore online buying
+
+---
+
+**James:**
+(0:00:00) Hopefully we're live on X and YouTube. Let me just do a quick check. Yes, we are live. If someone can share it into the community, that'd be awesome. We'll just give it maybe a minute and let people in get on board. Andy, I can't wear the hat. It's out of date now. It's too OG for today.
+
+**James:**
+(0:00:30) Okay. Right. Let's get going. So, I mean, last week we had an all-time high. I think we peaked at £1.10 at one point. Highest close I think was £1.11p which is pretty awesome. Since then we've been trading in a pretty consistent channel between sort of 75 and 85p although we've bumped a little bit above that last night.
+
+But the main news is the two RNS's that came out this week. The Bitcoin buy, we bought the most we've ever bought, 39.52. Bringing our total to 122.76. And our equity raise, which we aimed for 8 million and got 13.4 million. Jamie, did you want to add anything on those two?
+
+**Jamie:**
+(0:01:30) Yeah, I thought you know like you said price action has been pretty stable over the last week and like it feels we've been consolidating around this sort of 80 to 90p range but in terms of news flow I think we've definitely been picking up and the momentum has been really strong.
+
+You know one of the points I think that was maybe interesting worth to raise just in terms of the institutional side was that you know we had gone set a minimum target for around eight and subsequently come in with you know well over sort of close to 13 million 12 13 million and I think that to me sort of highlights the fact that there was additional institutional capital to that which had already been likely pre-lined up and so I thought that was interesting.
+
+**Jamie:**
+(0:02:30) I think one of the things also to keep an eye on is just in terms of the shareholder announcements that may come potentially on Monday. So you know as per requirements with the exchange anybody that holds a 3% or higher holding will need to disclose within 2 days.
+
+You know based on my calculations you know 3% roughly equates to give or take you know six million shares which you know 81p was around 5 million sterling. So it's potential that next week we could see a potential new large holder within SWC that's public which I think is interesting.
+
+**James:**
+(0:03:15) Yeah, that's pretty interesting. It'd be good to see. I wonder if it's made up of lots of smaller institutional investors or you know a couple of big boys.
+
+**Jamie:**
+(0:03:25) Yeah, exactly. And I think this is going to be I think that's going to be a key focus. I think it's definitely something to focus on for next week and obviously going forward as we continue to grow.
+
+**James:**
+(0:03:40) For sure. I think the other important thing to mention, you know we've talked about it on X quite a lot but, is that the retail side of the equity raises we've now hit the 8 million euro limit. We used up the last 400k in the last raise this week which you know it's kind of good and bad at the same time isn't it Jamie?
+
+**Jamie:**
+(0:04:00) Yeah. So, you know, over the last four raises, you know, on average, just to give you some context, so the first raise that we did at 16p, we raised around 1.3 million. On the second raise that was 27p, we raised 2.2. At the third raise at 49p, we raised 2.3. And then the final retail tranche, it was 400,000.
+
+So, you know, on average across those individual tranches, it's been working out to around 25-26 bitcoin per raise from the retail side. The institutional side has obviously been growing. But you know, assuming let's say we're doing a retail raise per month that we're now, you know, unlikely to participate in that's obviously 25 bitcoin less.
+
+**Jamie:**
+(0:05:00) You know, retail can still support SWC via, you know, buying the shares. It's just that they can't give their capital to SWC that could have obviously been used to convert into Bitcoin. But, you know, this rule will refresh I think in 11 months because it's obviously an annual rule unless there's an official prospectus release which is time consuming and costly.
+
+But you know I think as in with any evolution of equity raises and a company the institutional tranche does tend to take up like a bigger proportion as we go forward. And that's obviously been growing from like mid-30s to you know high 60-70% where we currently stand today.
+
+**James:**
+(0:05:45) Yeah. And I mean, Andrew definitely mentioned in the RNS that came out, that they were looking at other ways for retail to be involved. So don't everyone assume that this is, you know, game over for retail involvement for 11 months. I'm sure they will come out with something before then.
+
+The sort of good side of it I suppose from my perspective is that within six weeks we've raised 8 million euros equivalent in pounds from retail which just shows incredible support from the retail side of things I think.
+
+**Jamie:**
+(0:06:15) Yeah and you know I think as I certainly don't think by any means just because the RAP offering is at full capacity means that, you know, retail participation should have a line drawn through it. Like you said, there's going to hopefully be other mechanisms.
+
+And as awareness of SWC grows, you know, you'll naturally just see more retail money coming in just to buy the equity outright as opposed to participating in any raises, which is still going to be new net flow into the stock, which is constructive. And obviously you know there's other ways that retail can also participate and help with you know SWC and we'll talk about that later on with regards to like community involvement as per you know the issue with AJ Bell which we'll discuss later on.
+
+**James:**
+(0:07:00) Sure. So looking at sort of share price action I mentioned earlier that we hit an all-time high last week. Sorry, I can't multitask. I'm trying to load something up at the same time. We hit an all-time high last week. I think 101 is what Aquis lists it as. And today we're currently trading while the mid price is 83.5.
+
+You know, we seem to spike after a raise. And then drop back this time. And the spikes don't tend to come on the day of the raise being confirmed. It tends to be in the following days. On that note, do you want to Jamie, do you want to talk a little bit about you know the conversion from raise to share price line?
+
+**Jamie:**
+(0:08:00) Yeah, I think you know sort of reading comments I think one of the points that's been just to sort of clarify has been you know I think there's maybe an expectation that you know either post the announcement of the raise either in terms of the initial announcement itself or the subsequent amount raised or any subsequent Bitcoin purchases that that mechanism is then meant to be translated quickly and efficiently into the share price.
+
+And I think you know it's just worth just sort of exercising a little bit of caution and patience with regards to that because you know there are naturally many factors involved that could impact you know the share price on a daily basis whether it's individual flow mechanics or if it's top-down macro news, if there's stuff related to you know UK government politics, you know it could be any matter of things.
+
+**Jamie:**
+(0:09:00) And so really I think the way to look at it is over a more prolonged period as in either you one week or two weeks to see, you know, whether that news has been successfully converted into the share price. And obviously, as we continue to go higher, you know, that's going to because just the average of small numbers, that's obviously going to take a little bit longer to naturally translate into the higher share price.
+
+But I do think it's something just for us to exercise, you know, a bit of patience. And just because the share price doesn't go up immediately is by no means an indicator that it's not been a successful raise or a successful, you know, Bitcoin purchase. I'm not sure if you agree with that as well.
+
+**James:**
+(0:09:45) Yeah, I think you know the previous raise it took a couple of days for us to see it really start translating into share price, but in between of those couple of days we had a 3-day weekend both here and in the States which gave people a lot of time to digest that information and find the information, you know, new investors etc.
+
+So, you know, it's kind of one of those things where the information's out there, people will find it. They will make investment decisions based off it. And, you know, I'm fairly confident that we will see number go up in the coming days. I think a lot of people were kind of expecting it yesterday.
+
+**Jamie:**
+(0:10:30) Yeah, exactly. I mean, the volume's actually been, you know, for this week, certainly when you look at last week, you know, we had a couple of big volume days where I think we traded well over, I think off the top of my head, it was 5 million shares.
+
+And then this week, I think obviously there's been a little bit of a subsiding in terms of the volume. And I think maybe partly that's because, you know, maybe retail feel full in terms of their allocation. Maybe the stock's at a level where people are a little bit unsure of whether they want to be adding, taking off. There's obviously been news out and so maybe next week will be sort of the week whereby, you know, we get the kicker up and we look to sort of retest 100 again providing market conditions are supportive.
+
+**Jamie:**
+(0:11:15) But, you know, I think James, you know, outside of the share price itself, you know, I think really what's interesting is really to sort of like open up the hood and take a look at what's been going on with regards to all the other metrics outside of just share price, which paint a really constructive, healthy picture.
+
+You know like these can be things such as and again some of these numbers are all on the assumption that the cash that we've raised has been allocated fully into Bitcoin and there's some assumptions but you know if you look at from this raise from this raise that we just did I think the share count went from, you know, was a 9% increase, it went from 188 million shares roughly to around 204.
+
+**Jamie:**
+(0:12:00) And at the price and the amount raised when you translate that into Bitcoin per share, the sats per share went from 95 to roughly 168 which was 77%. I'm quoting some of the research here from Tennyson but based on assumptions you know it's roughly around that if you look at it.
+
+You know if you change some of the assumptions but for me that is a key metric to look at and again and I know we'll get on to this, you know the days to MNAV, the days to MNAV cover is still 39 or 40 days at the current price which again paints a really healthy picture. So you know I think it's worth us just not looking purely at the share price but really just trying to have a look at you know some of the other metrics as well whether it's like the basic MNAV to like Bitcoin per share.
+
+**James:**
+(0:13:00) Yeah. So on that note I'm going to share a window with some pretty charts in it. If we're going to delve into the stats a bit. This one is thanks to Crab Apple from the community and it shows you cash balance and Bitcoin balance in GBP.
+
+So what we can see here is that you know there's an incremental increase in Bitcoin holdings with each purchase. As we would expect to see, you certainly wouldn't want to see it going down. That would be a red flag. And it kind of shows how much cash we've got. So after this raise, which we don't have the cash for yet, by the way, when that cash lands that final column is where we would be sat. Did you want to add anything on that one, Jamie?
+
+**Jamie:**
+(0:14:00) Yeah. So I think what's interesting is that if we assume that the cash is converted into Bitcoin where does that now rank us you know globally because I think this is something that we're all focused on in terms of like the accumulation path.
+
+And I think you know if you were to put the current cash that we have fully into Bitcoin today I think it would equate roughly, it would get us up to close like 340 Bitcoin which would then actually put us at number 45 as per the Hoddle leaderboard. So that would be just ahead of Meli in Brazil who've got 320 and just behind DMG Blockchain who've got about 351. So, we'd be up to number 45, which is pretty awesome considering we're six weeks in.
+
+**James:**
+(0:15:00) Although, you know, I'm not going to pronounce it right. Meli, Meliuz.
+
+**Jamie:**
+(0:15:05) Yeah, Meli. Yeah, you knew too as well.
+
+**James:**
+(0:15:10) Yeah, exactly.
+
+**Jamie:**
+(0:15:12) And I think James, what's actually very exciting or to think about is okay, so let's think about the next step as a result of that. So, okay. So, let's assume that we put all the Bitcoin in today. We're at position 45. What's the next logical step? Where could we now go from here?
+
+And this is where I think it starts to get quite exciting because, you know, when I look at my model, on average, you know, the dilutions from the equity raises have been, you know, 8 to 9%. And on average the equity raises have been done at a share price that tends to be around 170% higher than the previous raise. So you know like for instance first raise was at 16p then it was 27, so 16p, 27p, 49p, 81p. So it tends to be anywhere between 65 to sort of 70% higher.
+
+**Jamie:**
+(0:16:15) And so you know what I'm trying to work out is if we were to assume like a 9% dilution again on 204 million shares which is the current shares outstanding. You know we basically, that would be around like 18 million shares.
+
+And I think if basically if you assume from the previous raise that you're basically going to do another raise you know 70% higher that would basically have a share price of around 140p, which means you basically raise 25 million quid after fees and assuming a bitcoin price of 77,000 that means you'd have roughly around you know 300 more bitcoin to buy which would then get us up to sort of 620 Bitcoin in total.
+
+**Jamie:**
+(0:17:00) And that then gets you onto the sort of leaderboard or the front page of the Hoddle top 100 give or take. You know, I think that the bottom is SOS in China. I think they've got about 675. So, we're basically going to be breaking or knocking on the door of the first page of the Hoddle Top 100, which would be a pretty amazing achievement, you know, since the IPO and the time frame.
+
+**James:**
+(0:17:30) Yeah, I mean that's it's just so rapid. And speaking of rapid, I've brought up the Bitcoin B21 Nick's charts that Andy would like to get some credit for as he came up with the idea for this one.
+
+Anyway, growing rapidly, we've overtaken Blockchain Group from where they were since, because this is from first purchase. So, we're kind of aligning them all on first day purchase. And you know, we're within a hair's breadth of MetaPlanet.
+
+**James:**
+(0:18:00) And for me personally, I think MetaPlanet is probably the hurdle rate. You know in latter days, you know, the last 75 days or something they've been the most aggressive. Well, they've been the most aggressive historically anyway but they've taken the leaderboard. We kind of want to get that from them.
+
+And I think you know just off the stats that you mentioned a minute ago Jamie you know we're on target to overtake where MetaPlanet were and possibly Cooler as well in the coming few weeks and then that would leave Semler who started at you know 600 Bitcoin.
+
+**Jamie:**
+(0:18:45) Yeah, I think it's I think it's incredible. But I think what's even more interesting is the fact that, you know, if you look today at MetaPlanet, the big announcement has been that they've accelerated their 2025-2027 Bitcoin plan. So they're now targeting 1% of total supply, 210,000 Bitcoin by 2027.
+
+And again, that's all been built on the fact that over time they've refined the strategy. They've refined the tools that are available for them within you know Japanese capital markets and overseas capital markets as well. They've refined you know the infrastructure around allowing people to buy the stock etc.
+
+**Jamie:**
+(0:19:30) And you know I'm not saying by any means that that's going to be a target for Smarter Web but it shows you how quickly you know our ambitions can look to scale up as you know the plan starts to get executed.
+
+I mean, you know, at IPO, no one was thinking we were going to get to 100 this quickly, you know, or 320, sorry, give or take. Now, we're all talking about, you know, how quickly is it going to be to get to 1,000 and then, you know, then it's going to be how quickly is it going to be to get to, you know, 5,000 as per your interview with Andrew that you did in Vegas.
+
+**Jamie:**
+(0:20:00) And so, the goalpost can move very very quickly depending, you know, on how quickly we're executing. And I think the market is giving Smarter Web you know a lot of trust and a lot of confidence and that's been echoed both in terms of feedback, research, conversations.
+
+And so that for me is really exciting just how quickly the goalpost can start to move for us you know as the strategy continues to evolve.
+
+**James:**
+(0:20:30) Yeah absolutely and I think you know Andrew's original target which you mentioned on the spaces several times was was 1,000 bitcoin in six months. Andy ASAP has kind of tried to one up that and said he wants us to do it in 100 days.
+
+Which would firmly put us well just within a whisker of where Cooler were after 100 days bearing in mind they started with 600 Bitcoin which would be pretty impressive. So I think you know let's say we were aiming for 1,000 bitcoin in 100 days. You can see from the graph that I've shared on the screen that that means our upward trajectory would start to you know tail off a little bit. It's a logarithmic chart.
+
+**James:**
+(0:21:15) Is kind of likely to happen so that we start trending in the same sort of direction as all the other peers that we've got in the space.
+
+**Jamie:**
+(0:21:25) Yeah, exactly. And I think that's I think that's important to flag James as well. Like this is just showing like how quickly we've come out the gates, you know, and like you said, there is going to have to be some expectation that over time that's going to start to taper off as sort of you get diminishing returns.
+
+But, you know, I think what it's really showing is like how quickly we can turn from sort of, you know, a small seed into like a tree into a larger tree, etc.
+
+**James:**
+(0:22:00) Yeah. I just want to bring up the MNAV chart quickly. We're not going to talk about it too long, but the dotted line is our MNAV. You know, we spiked at 16.87 at one point. That was just after the second raise I believe.
+
+But you know after the current raise we are at quite an impressive 6.45 according to these calculations. Everyone's taking into account different factors and different sort of discounts off the total raise for costs etc. So, you know, you're going to see different figures from different people at the moment.
+
+**James:**
+(0:22:45) The only time we'll actually get confirmation of any of these is when we get financial reports directly from SWC, which I can't remember if they're six monthly or annually, but when they come out, that's when we get to sort of draw another baseline of how much cash there is, how much Bitcoin there is. Well, we know the Bitcoin, but we don't know the cash.
+
+I would expect that NAV to expand over the coming week, next week just because we've bought more, a lot more Bitcoin and we've raised a lot more money. But it's pretty impressive I would say to be the fastest growing Bitcoin treasury at the moment and have an MNAV that low.
+
+**James:**
+(0:23:30) We'll move on to Days to Cover because I think I think this, you know, there's still a lot of questions going on on X and on Telegram and Discord and things about Days to Cover. Jamie, did you want to take this one or do you want me to?
+
+**Jamie:**
+(0:23:45) No, no, I mean, yeah, happy for you to go with it and then I can just add in over the top.
+
+**James:**
+(0:23:50) Sure. So the orange line is our share price and the white line is our NAV per share. Okay. So what we're saying here is that every time the white line goes up we're increasing our net assets. And it's that but that line is done per share. So we're increasing our net assets but we're also increasing our number of shares.
+
+The orange line is our share price. And so at a specific point in time, you can look at what our share price is and therefore our market cap, our total market cap, and work out the multiple difference between the total market cap and our net asset value. That is the NAV.
+
+**James:**
+(0:24:30) What this graph is really showing us though is the projection between the net asset value and the share price. So if you follow up the projection of the dotted line where the current share price intersects that which is the dotted red line, that gives you the days to cover or the time to cover.
+
+And so currently if you were to buy shares today, well when this was updated at 80.5p, and sit on them until 14th of July provided we keep up the pace of accumulation that we are and the pace of raises then we will have covered our net asset value i.e. the NAV per share will be equal to 80.5p. Have I got that right, Jamie?
+
+**Jamie:**
+(0:25:15) Yeah. Yeah, correct. I think you explained the graph very well. So, you know, it's just trying to represent at the current rate the company is accumulating Bitcoin, how long would it take to earn enough to match the current market value, you know, and at the moment it's give or take it's, you know, it's 40 days.
+
+And you know, some of the other companies, you know, are sort of anywhere between, you know, 100 to 200. I think MicroStrategy is like well over 700 days to cover.
+
+**Jamie:**
+(0:25:45) But you know like a sort of like a second derivative calculation that you can actually have for that is just looking at you know what percentage or like the amount of BTC bought per day or like the percentage of the BTC stack that's being bought per day.
+
+And I think for SWC it's around, we're buying around 2.2 or is it two bitcoin roughly per day which you know as a percentage of the current stack is highest amongst some of the other peers. Obviously we're starting from a lower base but again you know boiling it down I think what it's just showing is that the rate of accumulation is not only very high but the strategy is continuing to work even as the share price continues to go up and the execution has been solid. So I think that's what you know the market's obviously inferring as well. And that's been the feedback so far.
+
+**James:**
+(0:26:30) Yeah. Okay. So that's enough charts for today I think. Did you want to talk a little bit more about the Tennyson note? The research note that they published this week.
+
+**Jamie:**
+(0:26:45) Yeah. Yeah. I think so first of all you know so Tennyson are one of the, they're the corporate broker for SWC, they're the only research firm that's currently offering you know institutional research. You have to pay to get it, I think it's like £8 per month. It's well worth it.
+
+They've actually kindly as a reminder agreed to give their latest note for free and that you can find that on the Smarter Web Company link. But it's well worth just going through in terms of trying to get an understanding of you know how they're valuing the stock not only from an individual company perspective but how they're sort of valuing it as well versus other Bitcoin treasury companies.
+
+**Jamie:**
+(0:27:30) And you know we've already gone through some of the metrics that we've discussed today in terms of you know the MNAV, the sats per share, the days to MNAV cover etc. But I thought what was really interesting was that you know from their perspective you know one of the questions is do people think SWC can continue to replicate this rate of accumulation or this Bitcoin yield in the future?
+
+And their answer is yes. And that's obviously a combination of you know the capital market success that they've had currently but also because of the high trust in the leadership team. You know they've had the first mover advantage in the UK capital markets. They talk about some of the international support as well that's starting to come for SWC in terms of overseas capital both just in terms of people buying the stock outright but also in terms of potential investors as well.
+
+**Jamie:**
+(0:28:15) And net-net I think you know that the bottom takeaway is that it's going to continue to solidify SWC's position as the UK's leading Bitcoin treasury company.
+
+And obviously there are other you know peers and competitors who are in the same field with us within the UK as well. But their view is that you know SWC for now is going to continue to be the leader and is in a strong position to solidify that leadership as well.
+
+**James:**
+(0:28:45) Yeah. You got to love how bullish that report is really. It's pretty positive. Sorry, did you want to say?
+
+**Jamie:**
+(0:28:55) No, no, their current target price is 105p. You know, so it's 30% upside from here, but obviously, you know, fully expecting that to be moved higher as we go through further equity raises and more buying of Bitcoin.
+
+**James:**
+(0:29:15) Cool. So, I don't know how many of you have seen on X that David Bailey mentioned that SWC should try and find a FTSE listed company to merge with in order to speed up the uplisting situation.
+
+I've got a few thoughts on this which I'm going to go with and then Jamie maybe you can chip in. But so Andrew had estimated that the uplisting process would take four to 6 months. He was hoping closer to four. We don't know if or when they'll be doing that.
+
+**James:**
+(0:30:00) He initially said in one of the early spaces that once we got to 40 million market cap they would start the process, but we haven't heard any further on that which was after I think 2 weeks of trading so about a month ago.
+
+A merger in America can be quite a speedy process. But in the UK based on how slowly things tend to move over here the estimates apparently come in around the sort of six month mark. Whereas you know some people are cautious saying that the prospectus needed for the standard uplisting would take 6 to 12 months. So there's lots of numbers being thrown around and timelines for this.
+
+**James:**
+(0:30:45) I think my major concern with a merger is one you've got to find a business that's open to it. Two you've got to find a business that's trading below its net asset value to make it worthwhile. And three, I'm pretty certain that the directors and major shareholders in that company are going to want to have some kind of share payoff, i.e. dilution of the shares in order to make that go forward.
+
+So, to me, it'll save a million quid in costs to go down the prospectus and uplisting route, but potentially cost us a lot more than that in dilution and that kind of thing and I'm not entirely confident that it would save any time. What are your thoughts Jamie?
+
+**Jamie:**
+(0:31:30) Yeah I agree with you. And I think you know whilst I think whilst everyone is super keen to go forward with an uplist because of the additional liquidity, exposure etc it brings, I certainly from my perspective don't feel that this would be the cleanest method.
+
+And whilst it potentially may save a little bit of time and again that's all still TBD there would be a lot, it would be a much messier process. With regards to like you said finding the company, getting them on board, you know, understanding like what the premium that would have to be paid, you know, what the market perception would be, would there potentially be, you know, any regulatory risks? Could there be, you know, potential integration risks, etc. as well.
+
+**Jamie:**
+(0:32:15) And then there's obviously issues like you mentioned with regards to, you know, dilution and control. So, you know, one of the things personally from my perspective that's been, the market's giving a premium or the market's really rating SWC is how clean and methodical and systematic it feels like the execution has been.
+
+And so, you know, from my perspective, I would feel like this type of pivot whilst it may save in terms of time, it might not necessarily be within like the perception that SWC has garnered so far.
+
+**Jamie:**
+(0:32:45) So you know again but yeah I think it's important to share these ideas you know I think that's the most important thing is to people to talk and raise these types of brainstorming ideas and for us just to sort of like think about these thought experiments because it all helps with regards to understanding what the options for us are as we continue to evolve.
+
+**James:**
+(0:33:00) Yeah, for sure. And I think you know I'm happy to be proven wrong on everything I've said. That's just how I perceive it. If they can find a company trading under its net asset value and you know it's an amenable team and they don't want any shares then okay maybe...
+
+**Jamie:**
+(0:33:15) Exactly. Yeah and you know like you know I think as well it's you know from my experience you know with sometimes you can have these companies whereby maybe trading sub NAV but you've got you know one shareholder that owns a controlling stake and he can basically just say no and that's it you know line put through that idea etc.
+
+So I think there are lots of different nuances. It's not just as simple as identifying from my perspective a company trading sub NAV that has you know a shareholder, a diverse shareholder list or one non-majority that doesn't have a majority single shareholder. But again I think the more interesting point is the fact that we're talking about these ideas and we're at a point now that we feel that these are actual you know viable options for us to be exploring.
+
+**James:**
+(0:34:00) Sure. And you know, I know everyone's in a rush to get uplisted. You know, like one of the primary reasons for uplisting was going to be to increase liquidity. And I think we've kind of proven so far that yes, we're on Aquis. Yes, there are some frictions to access. You know, AJ Bell switched off online buys yesterday.
+
+The US OTC ticker is pretty illiquid at the moment, bearing in mind it's only the Pink Sheets version. And it only went live a few days ago. So, there is still some friction. You know, you can't trade it on a couple of the major brokers over here in the UK.
+
+**James:**
+(0:34:45) However, you know, we've got the highest liquidity on Aquis and then compared to a lot of the companies on the FTSE, we're already well up the list. So I'm not sure we need to rush to do it.
+
+And, you know, there are some downsides to uplisting to the FTSE in that we would be capped at, I believe 20% new share issuance. Although can that be sort of extended via an EGM? Do you know?
+
+**Jamie:**
+(0:35:10) I don't know. I can't confirm.
+
+**James:**
+(0:35:15) Okay. But yeah, so there you know there's upsides and downsides to uplisting. So I suspect Andrew will want to do that when it's an appropriate time for the business.
+
+Which you know if we think about it logically if there is a share issuance cap if we uplist then he's going to want to uplist when we've got other potential capital inflows. So whether that's convertible bonds or another route so that you know the timing is right and we're not totally reliant on share issuance for our capital raises.
+
+**Jamie:**
+(0:35:45) Yeah. And I think one of the things is that you know as we continue to grow you know the breadth of the shareholders that we have will continue to grow as well and that will obviously bring in new ideas from institutions who will obviously have their own individual thoughts and perspectives around you know what's best in terms of next steps with regards to an uplift.
+
+And you know you'll be getting these from you know UK institutionals, potentially overseas institutionals, people that have like very good and solid experience in terms of not only is this a good idea, but in terms of like timing and also in terms of execution as well.
+
+**Jamie:**
+(0:36:15) So you know that's certainly something for me as you know Smarter Web continues to grow. It's sort of behind the scenes because we don't see it, but there's a lot of reflexive feedback that's coming in from new shareholders, new community members, etc. That's all feeding into sort of this, you know, centralized hub of intelligence and energy that will then help to inform us to make smarter decisions, no pun intended.
+
+**James:**
+(0:36:45) No pun intended. Okay. So, while we're, we've mentioned the website briefly earlier where you can find the Tennyson note, it's worth pointing out that those sharp eyed ones of you have already noticed. Smarter Web Company has rebranded to a beautiful Bitcoin orange.
+
+So, we're all well up for that. Suits the branding that we, you know, I think it was this week as well that we renamed from digital assets including Bitcoin to a Bitcoin treasury which is also fantastic because I think it really sets the tone and it's going to not scare off the Bitcoin maxis like it might have done up to this point.
+
+**James:**
+(0:37:30) So go check it out. I love it. I think it's way better than the old website. Although it does mean my hat is now obsolete because it's the old branding. What's going on with the merch situation, James, any update there? There's just big demand for those hats.
+
+Yeah, so I think the hats could be fairly imminent. Let me have a look. What did I see? So, hats are fairly imminent. I think they've approved the prototype.
+
+**James:**
+(0:38:00) But the exciting news is that there may be some other different types of merch in the pipeline, too. I think more clothing. But I'll let Andrew spill the beans on that when he's ready.
+
+I want to say thank you to the community for everything that you guys are doing, the charts, the questions, the answering as well. Keep helping new people get online. And you know, we pulled together as a community yesterday. We politely pressured AJ Bell to get them to switch online buys back on.
+
+**James:**
+(0:38:30) And yeah, I think you know over 800 members, we're growing quickly. There's a lot of support in there and I find it generally a helpful and friendly place. So, I'd like to thank all of you for that. All I did was set it up. So, I'm grateful to all of you for contributing.
+
+**Jamie:**
+(0:38:50) Yeah. And yeah, definitely worth saying, you know, thank you, James, for all your help because I know how much effort this must take to do on a daily and weekly basis. And obviously you've got a life outside of SWC as well. So, just want to acknowledge that.
+
+**Jamie:**
+(0:39:00) And worth reiterating again as we had done previously. You know, one of the ways that people can help SWC is liking all the posts, commenting, retweeting, just engaging because it does really drive the algorithm and helps spread awareness.
+
+And so, you know, the small click with the thumbs etc. does make a big difference and it is really a case of like many hands make light work and the same with YouTube as well. If you like and subscribe it helps the algorithm. We get the word out further and you know that's kind of why the community is there is to spread the word and help people out.
+
+**James:**
+(0:39:45) Okay. So next week this is going to be at a different time and day.
+
+**Jamie:**
+(0:39:50) No. Yeah, different time and day.
+
+**James:**
+(0:39:55) It's going to be 11:00 a.m. on Thursday. And Andrew will be back in the hot seat. So, think up your questions, send me DMs, comment on my posts with questions. You know, we'll collect them and try and get Andrew to answer them on Thursday next week.
+
+Thanks very much for your time, guys. It's been a pleasure as always, and I look forward to seeing you next Thursday.
+
+**Jamie:**
+(0:40:20) Cool. Cheers. Thanks, James. Bye.
+
+---
+
+**End of transcript**

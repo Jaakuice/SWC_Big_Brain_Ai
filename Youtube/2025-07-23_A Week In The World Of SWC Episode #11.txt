@@ -1,0 +1,252 @@
+# A Week In The World Of SWC Episode #11
+**Date: 2025-07-23**
+**Video ID: dMPgnbr1gvw**
+**URL: https://www.youtube.com/watch?v=dMPgnbr1gvw**
+**Duration: ~30 minutes**
+**Channel: SWC Community**
+**Host: James**
+**Guest: Zinc (Community Analyst, @ZincSWC on X)**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- Biggest Bitcoin purchase yet: 325 BTC, now holding 1,600 BTC in less than 3 months
+- Bitcoin per share 4x increase: from 157 sats (June 20th high) to 650+ sats in about a month
+- Jesse's new PBID metric (Premium Bitcoin Days to Cover): measures time to cover MNAV premium based on yield
+- Book build results: £17.5M raised; ATM continues working in background raising £30-35M+
+- Year-end projections: 8,000-10,000 BTC; share price dependent on MNAV expansion cycles
+- Sector-wide volatility: rotation from Strategy → MetaPlanet → smaller treasuries → altcoins; cyclical MNAV compression
+- Preferred shares strategy: path to 210,000 BTC goal; targeting UK fixed income market (trillions of pounds)
+- LSE uplisting prediction: September-October; direct entry into Footsie 250 enables passive flows
+- UK market advantages: deep capital markets starved of growth, competing with TrainLine/JD Sports not Mag Seven
+- UTXO/Satsuma situation: conflict of interest concerns addressed; public statements made, moving forward
+
+---
+
+**James:**
+(0:00:00) Okay, welcome back everyone. Um, I'm glad to have Zinc on the show today. Um, always happy to have him along. Um, I think you're on the early um audio only spaces that we did since and, uh, provided some good alpha then and you've been doing it ever since on Twitter. So, thanks for joining. Appreciate that.
+
+**Zinc:**
+(0:00:20) Good afternoon everyone.
+
+**James:**
+(0:00:22) Um, okay. Look, we're going to sort of run through what's happened, well, now in the last sort of 10 days as opposed to a week. Uh, because we're a little bit later. Apologies for that. Um, Bitcoin purchase, biggest purchase yet, 325 coins. Now we've got 1,600. Um, you know, that's kind of what we're all here for really is that, uh, that Bitcoin accretion. Did you want to add anything on that, Zinc?
+
+**Zinc:**
+(0:00:50) Yeah. So, obviously, you know, 325 Bitcoin purchased, you know, 1,600 in, you know, less than 3 months. You know, it's an amazing rate of Bitcoin accumulation. You know, Bitcoin per share has increased massively since our high on June the 20th. Um, you know, our Bitcoin per share was like 157 sats when we closed at £5 and now we're at over 650. Um, and yeah, as long as we keep accumulating Bitcoin, that's all that matters. And the rate that we've done it, you know, faster than anyone else by a long shot. Um, if you compare the trajectory to, you know, MetaPlanet for example, you know, multitudes faster. Um, but yeah, pretty amazing. I'm happy with it.
+
+**James:**
+(0:01:35) Yeah, it's pretty cool to know that, um, you know, we've over 4x'd the sats per share um in about a month, um, which is just unbelievable. Next was the release of, uh, Jesse's new metric PBID. CNBC, if you're listening, uh, that's how you pronounce it. Um, uh, I'm going to bring it up, uh, just the release. So this isn't just, uh, something that, you know, it's not a new name for something. This is genuine research that Jesse's done. Probably one of the smartest people I've, uh, had the pleasure of talking to, apart from yourself, of course. Um, so yeah, do you want to just try and run us through a bit, your thoughts about this, what it means, you know, all that kind of stuff?
+
+**Zinc:**
+(0:02:20) So, uh, Jesse's PBID, which I find very, very useful, essentially allows you to see how long it would take you, um, using the past Bitcoin yield to cover your, um, MNAV premium. So let's say if you buy into SWC, obviously here, but at the time of the release of this document, it would only take you 0.07 years based on the previous Bitcoin yield to make up your, uh, the MNAV premium. So, it's similar to days to cover, but it allows the output to be measured in years. And, you know, you can adjust the yield depending on if you want to do a yield over the past year, you want to do it over the quarter, you want to do it the last 30 days. Um, so it's very, very useful. It's something that I've now been using myself, the PBID. Um, and it just shows you the pace of Bitcoin buying. It shows you, you know, if the company were to keep up that pace, you know, yeah, as I've already said, how long it takes you to cover that MNAV premium. Obviously, I would say you would have to use this in conjunction with, you know, roughly estimating yourself how likely it is for that Bitcoin yield to keep up and what it would look like over the next year. Obviously this is hard to measure, hard to assess. So, you know, you need to balance the two and, you know, that will help you paint a picture, but definitely very, very useful. Um, and yeah, you know, for the fact that this came out of SWC, or obviously Jesse, um, yeah, it's pretty amazing to be honest.
+
+**James:**
+(0:03:55) Yeah. Yeah, I mean, obviously I love that it came from SWC, but, um, other than that, I think one of my favorite bits about it is that by adjusting that time frame as to whether you're looking at the last month or the year to date or quarter to date, um, you can kind of gauge the slowdown, um, or acceleration, um, of a BTC treasury company, um, which I think is quite useful information. Um, Adam Livingston, he created a graph and he posted, it was pinned, um, yesterday, that even if SWC's BTC yield declines by 50%, it would take us until about January, late January, for anyone buying now to cover the MNAV premium.
+
+**Zinc:**
+(0:04:35) Um, I think it was, yeah, 5,216 Bitcoin, but, um, based on my own calculations, you know, I think we'll surpass that by the end of the year. Ragnar, he has between, uh, 10,000 to 12,000 Bitcoin by the end of the year. So obviously it's not financial advice, but, you know, the pace of accumulation, even if you reduce it by 50%, tells you that you're going to make up your MNAV, the MNAV premium, by late January, which is 6 months.
+
+**James:**
+(0:05:00) Yeah, it's pretty insane. Um, you know, there's a lot of predictions out there. None of them are financial advice. Um, uh, but, you know, it's nice to see people trying to work out, uh, models and stuff like that. And whether they're bearish or bullish, I still enjoy, um, the fact that people are putting the time in to work these things out. Um, on the same day that the new metric PBID was released, uh, we also got the results of the book build. Um, now that was 17.5 million quid. Um, it was listed as a minimum of 15 million. Now, that obviously is lower than the last book build that we did. Um, however, you know, um, this isn't like a linear thing in my mind. What were your thoughts?
+
+**Zinc:**
+(0:05:45) Yeah. So, a lot of people saw it as a bearish thing that the book build had attracted less money than the last time. But what they're forgetting is that you have to add it to the wider picture. You know, the subscriptions, the ATM, and the pace of, you know, capital raising is increasing. It's not decelerating. Obviously, there's going to be fluctuations every week, every month. You know, when you're talking to institutional investors, you know, you're not going to have a new one every week, right? We have to keep it realistic. You know, it takes time to have these conversations, build these relationships. You know, Smarter Web is the innovator in the UK. So, who knows? You know, there'll be times where in a couple weeks there might be an institutional raise that's even more. And then there might be a month where there isn't any, but there may be some subscriptions.
+
+Um, in January, I think they are, this is just a bit of a tangent, in January, they are considering changing the rules to allow the retail reps to be expanded, which will open up another source of capital raising. And I think you just have to pull it all together and realize that as, you know, SWC gets bigger and bigger, there is going to be institutional capital coming. And I think Andrew mentioned this previously in one of the conversations with you that he is talking to big, big institutional investors. So, I wouldn't be surprised that at some point we get an announcement. Um, you know, with the ATM working, you know, we know it's going to raise a minimum of 30, 35 million plus. So, I wouldn't be too concerned. The fact that we're still getting 17.5 million, to me, is bullish if anything, but, you know, that's just my personal opinion.
+
+**James:**
+(0:07:25) Yeah. Yeah. And I think, you know, when we consider the big institutions, it's worth remembering that, um, they're going to have so much bureaucracy and red tape and, you know, due diligence to do, legal teams. Um, it's got to be signed off by five different people, you know, all that kind of stuff. Um, so the timelines on those, it's going to be bigger than, I don't know, a guy who owns a company who wants to chuck in a million quid.
+
+**Zinc:**
+(0:07:50) Absolutely. And I think we were spoiled really and truly to be getting those accelerated book builds every week. You know, that's not normal. This was SWC doing, you know, amazing things. And if you look at and compare to other Bitcoin treasury companies, you know, MetaPlanet, for example, in December 2024, they had 1,700 Bitcoin and it took them, you know, until the middle of February to do another Bitcoin buy, which was only for around 300 Bitcoin. So, you know, these things take time. And whilst we got this ATM working in the background, we know that Andrew is working very hard to build these relationships with these investors and more money will come. It's just a matter of when, not if. So, yeah, for sure.
+
+**James:**
+(0:08:35) And you know that sometimes there'll be lags. Sometimes we'll get maybe a couple turning up closer together.
+
+**Zinc:**
+(0:08:42) Yeah.
+
+**James:**
+(0:08:44) Um, it's just how life works sometimes, I think. Um, now, sort of projections, this is your forte on X at least. Um, what are you projecting, um, in the coming future?
+
+**Zinc:**
+(0:08:58) So, by the end of the year, I've projected SWC to have between 8,000 to 10,000 Bitcoin. Now obviously with these projections, it's hard because a lot of it counts on, you know, the ATM and whether we're able to raise capital. But, you know, from my projections, if we can raise at a minimum 50 million pounds a month, you know, by the end of the year, that's a lot of Bitcoin buying.
+
+Um, I've seen price is a bit more difficult because it depends on MNAV. Um, but if you look back to when MetaPlanet had their dip in February and it took them a little while to bounce back and then they ended up 10x'ing, even more than that. You know, we experienced periods of MNAV compression and MNAV expansion. Obviously, right now it's a period of MNAV compression, but if SWC gets to 5,000, 6,000, 7,000 Bitcoin by the end of the year and MNAV goes back to five, I mean, you know, you're looking at some very, very juicy numbers.
+
+With even the MNAV compression that we've seen this week and last week, you know, the fully diluted MNAV is still roughly five, you know, um, four to five. The MNAV now with the current shares is roughly around three. Um, so it's still highly accretive, uh, the dilution. Um, so as long as we just keep on buying Bitcoin, you know, the numbers don't lie and inevitably when there is MNAV expansion, you know, the share price will follow.
+
+So I'm incredibly bullish. You know, I've been adding to my position. You know, I've bought SWC from the IPO at 2.5p and I'm still buying now over, you know, 100x, and now £2. So, you know, I'm here for the long run. Um, yeah. What about you? What do you think? Um, what projections?
+
+**James:**
+(0:10:40) Um, I think, I don't know, maybe this is a bit too bullish, but, um, everyone calls me a bear anyway, so they'll probably say it's bearish. Um, I've got 10,000 in my head for the end of the year. Um, that's not entirely calculated. Um, I think, you know, it's not based off us continuing on a stupid trajectory. Um, it's expecting it to slow. Um, that's, and that's the question that none of us can really answer is how is that slowing going to happen? You know, is it going to be linear like a sort of a gradual thing? Is it going to have peaks and troughs because that's when money comes in? Um, so it's not always, you know, using past data to do forward projections is never easy.
+
+Um, and but I think based off the start that SWC have had, um, I don't think anyone could have seen us getting to 1,600 in less than 3 months. Um, certainly not in the first month. Um, which kind of makes me think, oh, could it be even more than that? Um, but then I think I kind of rein myself back in and I come back to the 10,000. But yeah, on the 29th of May, we had 83 Bitcoin. It's July the 23rd and we got 1,600. I mean, it's unbelievable.
+
+**Zinc:**
+(0:11:45) It's unbelievable. It's the best, you know. It's the fastest that we've, you know, that's the fastest has been in the industry, you know. AltBG, uh, the French Bitcoin treasury, they've done absolutely amazing and they, but they started far, you know, they had a 6 months plus head start. Um, so, you know, I think where we are now is beyond what we could have expected from the start. I certainly did not project this from IPO. I've got a post talking about, oh, in 10 years time and I envision us being on Footsie 100 at £25 per share. And now that timeline has just gone from 10 years to, you know, potentially a year or two. So, you know.
+
+**James:**
+(0:12:25) Yeah. Yeah. Yeah. And it's all, um, it's been a crazy 3 months. Um, both in exciting and, you know, slightly uncomfortable, the last month being, uh, one of the uncomfortable months. Um, so let's talk about the sort of sector-wide volatility then. Um, how do you see it?
+
+**Zinc:**
+(0:12:45) Um, I think we probably saw a bit of, uh, exuberance to be honest. Um, a lot of rotation. I don't think we saw that much new money, but I think we saw a lot of rotation from Strategy to MetaPlanet. They had their short squeeze and then there was a rotation to all these treasuries. And what happened is people were moving along the risk curve further and further and further to, you know, these companies that, you know, have bought 10 Bitcoin and announced their strategies.
+
+But I think what's happened is, you know, obviously people are taking profits. These things are cyclical. Seen it with MetaPlanet multiple times, every four months, as you know, some MNAV compression inevitably expands again. Um, and I think as we get more and more understanding of the industry, people are going to realize that actually, you know, we're going to have to go back to quality. We're going to have to hold the premium Bitcoin treasury companies because, you know, just because one company has managed to scale, all these other companies that are just pure Bitcoin treasury players are not going to be able to because Bitcoin prices keep going up. You know, it's going to be harder and harder to accumulate Bitcoin, to attract the volume, the trading volume that allows you to run an ATM. And then finally, obviously, you need to get enough Bitcoin before you can offer preferred shares to tackle the local fixed income market.
+
+So, I think that's what's happening now. I think eventually, you know, if you then the Bitcoin NAV on the balance sheet of these companies are basically the same. Bitcoin price is holding up very, very well. It looks ready to make a move up. And again, you know, we're going to see MNAV expansion, but I think this time it's going to be more selective on the companies that are accumulating Bitcoin and are going to be dominant in their local markets. But that's just my opinion.
+
+**James:**
+(0:14:30) I mean, do you have any views on why there is that sort of four month cycle?
+
+**Zinc:**
+(0:14:35) Um, I suppose it's just, you know, I don't know. We see it with Bitcoin really. You know, price goes up, consolidates, a new floor is found, price goes up. And I think that's what happened. Um, I think the pace of these treasuries going up was outpacing the amount of new money coming in. So, there was a lot of rotation. As soon as another treasury announced, all the money would go there. Um, so I think once we allow time for some new money to come in, once, you know, Bitcoin goes back up a little bit, these companies keep stacking. It's the companies that can keep stacking in times like this. Even if it's just a little bit, 20 Bitcoin, 50 Bitcoin, 100 Bitcoin, these are the ones that are then going to be able to capitalize the most when we do get that MNAV expansion again. Um, for why it being every four months for MetaPlanet, I have no idea. Uh, just the market truly.
+
+**James:**
+(0:15:25) Sure. I mean, um, I saw a post, I can't remember exactly who it was, um, that said around the same sort of time that, uh, BTC treasury companies started selling off, um, Bitcoin dominance dropped dramatically. Um, or well, fairly dramatically. Um, and that recently that's just started turning and lo and behold, MetaPlanet, AltBG have started turning as well. Um, have you got any thoughts on that, or sorry, I don't want to wrong foot you, but—
+
+**Zinc:**
+(0:15:55) I think it's just, uh, people just going further and further along the risk curve. Um, now they're, you know, going back into the altcoins. It's just that's just what happens. Um, you know, the big companies, the premium companies make their runs and then, you know, well, if we go back to the top, Strategy had a run and then it was MetaPlanet and then, you know, AltBG, SWC, and I think it just goes further and further and now the juice has been squeezed for now in this market. So people have gone, uh, investing in altcoins. I've seen Ethereum treasury companies now and things like that. But eventually, you know, that attention, they're going to squeeze all of that. And then what happens is eventually people go back to premium. They'll go back to Bitcoin. They'll go back to the premium treasury companies. And that's how I personally see it. Um, just—
+
+**James:**
+(0:16:45) Yeah. Degens being degens.
+
+**Zinc:**
+(0:16:48) Yeah. Yeah, for sure.
+
+**James:**
+(0:16:52) Um, okay. Let's be a bit more forward-looking then. Um, you've definitely got some thoughts and ideas around, uh, preferred shares. Um, so talk to us a little bit about the potential for SWC and preferred shares.
+
+**Zinc:**
+(0:17:08) So, preferred shares is how I see ultimately that SWC will get to the bigger numbers, that 1% goal of getting 210,000 Bitcoin. Ultimately, the money has to come from the fixed income markets. And to do that, right now, it looks like the mechanism is going to be via preferred shares.
+
+When I look at SWC's future, I see them being able to offer, you know, Smarter Strike, Smarter Strife, these sort of products to the market. I personally, if a Smarter Strife came to IPO in the UK, I would personally put a good bit of money into that. I'm interested in that product. Um, the Strategy products in the UK, we have to pay a withholding tax, you know, of 15%, some people 30%. Um, if it's not held within a pension. So there's definitely, you know, room and a market for it.
+
+Of course, we need to accumulate the Bitcoin first. Uh, I think Andrew mentioned a Bitcoin, don't you know, a NAV of 4 to 500 million?
+
+**James:**
+(0:18:00) Yeah.
+
+**Zinc:**
+(0:18:02) Um, uh, me personally, I think, you know, around 10,000 Bitcoin is, you know, which at these prices is about, you know, 8 to 900 million worth. Um, I think that's a good mark. Um, and I think, yeah, it's just part of the flywheel really. Um, you know, you've got the ATM to capitalize off the, you know, volatility and the MNAV premium, but in down markets or when the ATM is not going, having that, you know, those preferred allows you to obviously buy, um, Bitcoin, um, and accumulate more.
+
+And yes, the fixed income markets in the UK worth trillions of pounds. Um, right now, you know, 30-year gilt is over 5%. Um, I would much rather give, you know, my money to Smarter Web and they're backed with the best collateral in the world. Um, get a higher yield. And I think, you know, once Strategy's built that in America, they get their credit rating for their products, uh, for their preferreds, we will slowly see the world following suit.
+
+And it's those who can dominate the local markets. Um, people always talk about how it's not a competition and these sort of things. Strategy is not really competing with Smarter Web. MetaPlanet and Smarter Web, they're not competing against each other. But definitely domestically, whoever can dominate, you know, with the preferred in the UK is going to take the lion's share of the market. And that's just the truth. If Smarter Web wants to go from, you know, 20,000 Bitcoin to, you know, 200,000 Bitcoin, they're going to have to tap into that local, the UK fixed income market. And with the preferred, that's how I see they're going to do it.
+
+**James:**
+(0:19:45) Yeah. So, it's not just about, um, competing for retail investors, which I still think is a thing. Um, but it's competing in the other markets as well. So, who's going to dominate the preferred? Who's, um, who's going to get the institutional investment, um, etc., within your local market? Um, I guess your point, you know, you see it as maybe a 800 to 900 million ballpark. Um, compared to Andrew's 400 to 500. Um, my thoughts on this were, if you do it at a smaller NAV, you just start with less shares, less preferred shares, and then through the ATM or through new issuance, you expand that. Do you think that makes sense or am I being stupid?
+
+**Zinc:**
+(0:20:25) Yeah. No, you can do that. Um, I just chose 10,000 Bitcoin because it's a nice number. It takes you to, you know, okay, you've got a chunk of Bitcoin on the balance sheet that you can collateralize these, you know, preferreds with. Obviously, Andrew would have done the maths. If he's 400, 500 million and he's crunched that with Jesse and it makes sense, then absolutely.
+
+Um, it wouldn't take long for that NAV of 500 million to go to 8-900 million anyways. You know, Bitcoin, some people are predicting that it's going to go to $200,000 by the end of the year. So, either way, you know, as long as we keep accumulating. Uh, what's Bitcoin now of 400, that's around just over five, between 5 to 6,000 Bitcoin.
+
+So, yeah. So, I don't think if SWC can get to 5 to 6,000 Bitcoin, it wouldn't take them long to get to 10,000 Bitcoin anyways. Um, I think obviously I'm assuming that the preferred would have to come after a listing on the LSE. So, you know, that's what I think. Obviously, you know, it's just my prediction and this is what I think. So I think, yeah, however long that takes. Um, what's your prediction for uplisting?
+
+**James:**
+(0:21:30) I've got, I've got my, um, September, October. Before then, I would, you know, and I think it would be nice. Um, Aquis has been amazing and it's definitely, you know, a great exchange to get started on with, but I think, you know, I made a post about it, but I definitely think for the institutional investors, it's something that it just adds to the legitimacy and premium of the SWC brand. And the last thing you want is another company to be like, oh, here we are. We're on LSE.
+
+**Zinc:**
+(0:22:00) And I think the beautiful thing about SWC uplisting is we'd be able to get straight into the Footsie 250, which then allows us to capitalize off that, uh, those passive flows. And, you know, we can just cream that, you know, through the ATM and convert that into Bitcoin buying. But yeah, to answer your question, I'm going to say October latest.
+
+**James:**
+(0:22:22) Yeah. So roughly, yeah, I think based off an early comment from Andrew that said when we're at, I think it was 300 or 400 million market cap, um, they'd be looking at starting the process. And then he predicted that would take approximately 4 months. Um, and then so then from that I've taken like a bull case and a bear case. Uh, the bull is early September because Andrew tends to underpromise and overdeliver. That's been my experience of him so far. Um, the bear case is kind of end of October because maybe there's some hurdles that take a bit longer than anticipated.
+
+**Zinc:**
+(0:22:58) Okay. Um, so that's super exciting because being listed into the Footsie 250, I don't think that's priced in, you know, the passive flows going into SWC just buying every month, you know, quarterly rebalances, that's all just extra, uh, you know, MNAV premium really. And that's just, you know, that money just converted into—
+
+**James:**
+(0:23:18) Yeah.
+
+**Zinc:**
+(0:23:20) —buying Bitcoin. And, you know, being on the Footsie 250, it just opens up the door to more institutional investors, you know, oh, this is a growing unicorn. This is, you know, Smarter Web. It's going to attract just more and more attention and then it will just inevitably, when it gets to the Footsie 100. Um, I don't think we've, we've not seen the exponential growth yet. We obviously we have, but we're not on, um, the deepest bit of the slope yet. The steepest bit of the slope. Sorry. Um, there's still a lot more to come. Um, you know, I'm extremely excited. Very excited.
+
+**James:**
+(0:23:55) Yeah, I think, um, you know, the passive flows and stuff. Was it, uh, Block? I know it's a bigger, uh, bigger index, but, um, Block going up into the S&P 500 and they went up 23%. Um, just as a result of it. Um, yeah, these indexes, they have to buy the shares. They have to.
+
+**Zinc:**
+(0:24:15) So, you know, could you imagine October and we don't know how much Bitcoin we're going to have or market cap. It's going to be bigger. You know, they're going to have to buy more and, you know, a decent amount of shares. And we should see a jump. You know, what that does to the trading volume, to the volatility. And then every quarter, what's going to happen is SWC, as the Bitcoin NAV grows and grows and grows, we're going to take up a bigger and bigger percentage of the Footsie 250. So that means more and more money. It's a feedback loop. Same with the Footsie 100.
+
+And I think what people don't realize is that it's far easier for SWC to get to the top of the Footsie 100 than it is for Strategy to get to the top of the S&P 500 because they're competing with Tesla, Nvidia, all these companies. Whereas, you know, you look at the Footsie 250 and you look at the Footsie 100, you know, we're competing with TrainLine and JD Sports. It's not the same.
+
+**James:**
+(0:25:05) Yeah. And there's, there's no Mag Seven of the UK really, is there? Um, so yeah, I would tend to agree with you on that. Um, okay. So you and Ragnar have been putting out some pretty bold statements about where we sit in the sort of wider market of BTC treasury companies. Um, talk me through it. What's your thesis on that?
+
+**Zinc:**
+(0:25:28) So yeah, Ragnar, Roaring Ragnar, for anyone that doesn't know who that is, should give him a follow. We've been speaking quite often. Um, and how we see the market is actually quite similar. We actually have the same. So, we both own Strategy, SWC, and MetaPlanet. Um, but our allocations are just slightly different. Obviously, I've got a higher percentage in SWC. You know, I'm British. I want, I see big things for Smarter Web.
+
+Um, but what we've come to understand is that, you know, there's certain key things that a Bitcoin treasury company needs to really, you know, to really win. And the first thing is that, you know, that I'm looking at is the local capital markets. These American companies, okay, America's got the deepest capital markets. It makes sense for Strategy to be the largest Bitcoin treasury company in the world. Obviously, they started a cycle ahead, so they're obviously going to dominate.
+
+But if you look around the world, you know, there's, you know, London has deep capital markets. There's not many places that can compete with London. You know, Tokyo has deep capital markets. Um, so, you know, outside of London, Tokyo, maybe Hong Kong, that's it really. You know, outside of America, Smarter Web benefits from having, you know, the financial center, one of the financial centers of the world. Um, and I think this is significant because not only can we, we have access to a lot of domestic capital, but also, you know, international capital flows through London. Um, so that's one thing.
+
+Another thing is, you know, the community. You know, I think we've got the third largest out of all the Bitcoin treasury companies and we only started three months ago. You know, our community is far bigger than, you know, Semler, who started their community ages ago. The enthusiasm, the, um, you know, we've got an excellent team. We got Andrew, uh, who, you know, the, it's a loyal shareholder base. These things matter because it allows us to have the higher MNAV which then allows our dilution to be even more accretive. Um, I call it the retail flywheel.
+
+So there's that, and, you know, dominating the local market is very important as well. The biggest Bitcoin treasury companies are going to be those that win first domestically and then can compete internationally. You know, Smarter Web, based on my assessment, has established that it's going to be the biggest Bitcoin treasury company in the UK. Um, it's got the best practices, and, you know, just like MetaPlanet in Japan and Strategy in the US. I think once you create a lead, you know, the more and more Bitcoin that we accumulate, the more it's going to become insurmountable.
+
+So, I think when you add all these things together, the deep capital markets, you know, G7 Nation, rich country, well, for now, um, you got amazing CEO, great team, Jesse, the loyal shareholder base. You know, it's very, very hard to replicate. Very, very hard. And I don't think there's going to be many companies that are able to replicate that.
+
+**James:**
+(0:28:20) Yeah. And I think just to sort of add another layer to the UK deep capital markets is that they've been starved of growth. Um, well, for well over a decade, 15 years. Um, you know, we've seen nothing like what the States have been capable of doing. We're more akin to Japan in a way. Um, and I think a lot of people have overlooked that. Um, and with potentially the LSE uplisting and preferred coming on the scene, I think there's going to be quite a lot more interest than people think, um, in a company that is growing at that kind of pace.
+
+**Zinc:**
+(0:28:55) Absolutely. I think we've front run a lot of people in London. Retail has always been front running the institutions in Bitcoin for the past 16 years. And I think what happens with, you know, especially going on to the Footsie, you know, people in London are going to be talking about it more and more and more. The who's the best performing company in the UK? Smarter Web. Who's got the most amount of gains on the Footsie? Smarter Web, you know. And who's the leanest company? I done a comparison on, you know, another 1.1 billion pound company, TrainLine, and they've got 990 full-time employees. I think Andrew said they've only got two full-time employees. Um, you know, you expand that to even 10. You know, we've got the room, we've got, you know, permission from shareholders to actively dilute the stock. You know, it's only a matter of time before the, you know, the best talent, you know, joins Smarter Web. You know, it's the one unicorn, like you said, in the market starved of growth. I mean, what other British company can you think of that you even want to put your money in?
+
+**James:**
+(0:30:00) I don't know.
+
+**Zinc:**
+(0:30:02) Yes. Exactly. Like there's not, there's nothing else out there, you know? And I think the whole story around Smarter Web being a British company that can finally, you know, do big things powered by Bitcoin, you know, an actual British company, by the way, not just a UK listed company, because anyone can list in the UK. A British company with a British CEO, you know, with British stakeholders. I think it's just primed. Just got everything about it to, you know, catapult to the next level. But Footsie 250, that is a significant marker for me. Um, and I expect things to escalate rapidly from there.
+
+**James:**
+(0:30:40) Excellent. Okay. So, let's move on to the drama from last week. Uh, the leaked document with regards, uh, Satsuma saying that UTXO were not only invested but also were brokering, uh, money as part of that deal.
+
+**Zinc:**
+(0:30:58) Yeah.
+
+**James:**
+(0:31:00) Where are you at with that?
+
+**Zinc:**
+(0:31:02) It doesn't sit right with me honestly. Obviously, everything's been said and whatnot. I'm still, it leaves a sour taste in my mouth because, you know, obviously UTXO have come out and said that basically they're going to divest as soon as possible and Henry Elder has left UTXO. Obviously, that document, just to be clear, was essentially a Japanese venture capitalist trying to raise money for a SPAC to invest in this company. And they said it's come from UTXO. It's got all the numbers. So, who knows? Only, you know, these people will know if it's true or not.
+
+Um, you know, I do think that, you know, obviously UTXO are big investors in SWC. Um, you know, I think they were saying that they seeded this company to eventually merge or do something with, um, SWC, but obviously that hasn't worked out. So, I'm hoping obviously that they do divest as soon as possible because of course it's a conflict of interest. You can't have these two, you know, we're not the US. These, you know, Bitcoin adoption's a bit slower here and they will be competing. There's no doubt, you know, about it. There's a limited market here, you know, the fixed income market.
+
+But either way, with that being said, I still think quite confidently that SWC is going to be the number one company in the UK regardless. Like I said, um, with Satsuma, you know, it's a UK company in name only, listed in the UK. I think it's a subsidiary of a company in Singapore. Um, don't quote me on that. You know, obviously Henry Elder is an American man. A lot of the investors are from outside the UK.
+
+Um, but either way, I think as long as SWC just focus on its mission, you know, Andrew has been the one leading this project, you know, most of the fundraising I can imagine has come from him. He is the moat. He is the reason why a lot of us are here. Um, so, you know, me personally, I think we'll be fine. I just, yeah, I just hope that things are kept above water and there's no weird stuff going on. I don't like that. But yeah.
+
+**James:**
+(0:33:00) Yeah. I think, you know, I don't want to delve into like conspiracy theories of what may or may not have been going on. Um, but for me, the fact that, you know, um, public statements have now been made about the situation, you know, um, it gives us the opportunity to draw a line under it, move on. Um, and keep executing the plan. Um, I'm just annoyed that this has probably wasted Andrew's time, um, trying to sort it all out.
+
+**Zinc:**
+(0:33:30) Um, yeah. Yeah, definitely. It would have been a distraction, but like you said, um, public statements have been made. It is what it is now. Whatever happened has happened. Um, you know, Smarter Web, you know, is going to be completely fine. Um, UTXO have the incentive to make sure that Smarter Web is fine. It's their largest investment that they have in their portfolio. So, you know, if that makes us innovate more, move quicker perhaps, then so be it.
+
+Um, but I think we have a healthy lead and I think it will continue. And yeah, like you said, as long as the execution is still there. Um, you know, we've set industry standards. Um, because of Andrew's principles and the way he's done things, you know, and I've seen that myself, we've managed to influence other CEOs in the space who have realized, for example, not doing discounted raises is a good thing. And these things all matter, you know. And that's why SWC has the MNAV premium that it has because retail ultimately believe that, you know, SWC is going to continue moving forward and, you know, execute this Bitcoin treasury strategy in the best possible way. So, yeah.
+
+**James:**
+(0:34:35) Cool. Well, I'm afraid we've got to finish there because, uh, I've got another appointment in a minute. So, um, Zinc, thank you very much for coming on. Um, I think we're both still just as bullish as we've always been, um, on SWC. And, uh, looking forward to the weeks and months coming up and hopefully you'll come on again another time.
+
+**Zinc:**
+(0:34:55) Absolutely. And thanks for having me on and, uh, thank you for all your good work that you do in the community. You know, this community has been amazing since you started it and, yeah, we all appreciate that. And yeah, I'm incredibly bullish on SWC. Extremely confident in Andrew. Not financial advice, but it's an amazing entry now, guys. Um, but yeah, I can't give it.
+
+**James:**
+(0:35:18) Exactly. Absolutely.
+
+**Zinc:**
+(0:35:22) All right.
+
+**James:**
+(0:35:24) Thank you very much. And, uh, there won't be a live stream on Friday, everyone. Um, the next one will be a week on Friday and I'm hoping that Jesse is going to be joining us. So, uh, it'll be me and Jesse next week. All right, take care everyone.
+
+**Zinc:**
+(0:35:40) Cheers. Thank you. Bye.
+
+**James:**
+(0:35:42) Bye.
+
+---
+
+**End of transcript**

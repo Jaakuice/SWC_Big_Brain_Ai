@@ -1,0 +1,287 @@
+# Jordan Walker - The UK Bitcoin Environment and How The Smarter Web Company Fits Into It
+**Date: 2025-07-15**
+**Video ID: AfDRnQmGtcU**
+**URL: https://www.youtube.com/watch?v=AfDRnQmGtcU**
+**Duration: ~35 minutes**
+**Channel: SWC Community**
+**Host: James**
+**Guest: Jordan Walker (Founder, Bitcoin Collective, @jayw132 on X)**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- Jordan's background: "Crypto Standard" podcast → Bitcoin-only pivot → UK's first major Bitcoin conference (2022)
+- Bitcoin Collective's new mission: Helping UK SMEs adopt Bitcoin treasury strategies (99%+ of UK businesses are SMEs)
+- UK talent exodus: Entrepreneurs leaving for UAE/Portugal; Bitcoin as "cheat code" to combat hostile business environment
+- "Bitcoin: A Competitive Advantage" conference - November 21, 2025; business-focused with networking dinner format
+- UK regulatory shift: FCA ETN consultation signals coming change; ETF unbanning expected to follow
+- Bitcoin treasury companies as marketing/education tool: Driving mainstream Bitcoin understanding through number-go-up entry point
+- McDonald's real estate analogy: Companies building financial moats with assets; Bitcoin as "digital real estate"
+- Four-year cycle debate: Historic patterns vs potential "super cycle" with ETF/treasury capital flows
+- Evaluating treasury companies: Team quality, strategy execution, long-term Bitcoin understanding are key signals
+- Copycat treasury companies: Won't damage Bitcoin long-term; lack of understanding will limit their success
+
+---
+
+**James:**
+(0:00:00) Jordan, thanks for joining me. Um, it's good to see you again. We've chatted a bit, but I don't think we've done anything like this before. Can you sort of expand on, um, you know, what you're doing with Bitcoin policy, um, all that kind of stuff, and give a bit more background to you in the space and where you came from and all that kind of thing?
+
+**Jordan Walker:**
+(0:00:20) Yeah, no worries. Thank you for having me on as well. Um, yeah, we spoke a few times here and there over the last 3 months. Um, I think since Smarter Web's been around. But yeah, background to me is— I'll just quickly run you through. Um, so I started a podcast which was called the Crypto Standard back in the day. Don't shoot me yet. Wait until you get to the end of the story.
+
+So yeah, it's called the Crypto Standard. That was maybe 5 years ago now. Um, and it was me and my brother-in-law. Like, we wanted to go into cryptocurrency and we'd already been doing it privately. We're like, "Okay, let's make this public now and actually try and dive into what all of this is about and then do it in public," which is quite nice, and learn from experts because we had the experts coming on.
+
+Um, so we had the likes of Jeff Booth, Greg Foss, Larry Lepard, Natalie Brunell. Um, yeah, like amazing guests. And this is when we were like, "Well, why is this the Crypto Standard?" And we just started to shift. Like, why are we in cryptocurrency? Um, and then we moved everything— the business, the podcast, our portfolio— to Bitcoin.
+
+Um, and then it was always— we were talking about America. And like all those guests that I just rattled off are American or Canadian. And we were like, "Well, America, they're doing this, they're doing that." Um, it's very similar to what Andrew Webley says— why he did what he's doing with the Smarter Web Company. Is in 2021, we were seeing that Bitcoin adoption, everything— all the everything that was happening, the people talking about Bitcoin were all over the pond. So we were like, "Okay, let's do a conference."
+
+And it was quite cool because we just— we had a "fuck it" moment. Um, and we like live on the podcast, we're like, "Well, should we do a conference in the UK?" And we put it out and then sponsors reached out to us and they were like, "Yeah, we'll back you to do it." We started looking at doing one in Dundee, which is close to where I grew up in Scotland. And then it was snowballing by this point. And so we're like, "Oh, Dundee is not big enough. We need to move to Edinburgh."
+
+Um, so yeah, and then it turned into the UK's first major Bitcoin conference in 2022. Um, and we had all of these big names flying in from around the world. But then we also had institutions. We had charities there like Save the Children, Charity Water, financial institutions like Fidelity there, Coutts Bank were there on stage speaking. Um, and then a member of parliament at the time was on stage speaking as well.
+
+**James:**
+(0:03:00) Was that quite a hard year to launch, being that that was in the bear market?
+
+**Jordan Walker:**
+(0:03:05) Yeah, it was difficult because Bitcoin was trading at around like $17,000, I think it was. But it was actually— what I say on podcasts and what I say in general is it was amazing to experience that because it was people that care about Bitcoin that were there. They weren't there for number go up.
+
+Anyway, we do this conference and then we've been doing podcasts, newsletters, media side of things ever since then. We launched a Bitcoin education course which then we pivoted away from because that was more of a retail focus. But retail aren't really here yet for Bitcoin going purely into Bitcoin. Um, and the interest level on Bitcoin.
+
+So what we're doing now— and it feels like everything's come together and the Bitcoin Collective, this was the right path for the Bitcoin Collective— is we're essentially in the business of helping businesses adopt a Bitcoin strategy. And when I say that, I mean not publicly traded companies. I mean in the UK, small to medium-sized businesses. Um, because we can take that corporate playbook that we're seeing and distill that down into how do you actually do this for your business? Um, and that's a quick summary of how we got to where we are.
+
+**James:**
+(0:04:20) Okay. And so it sounds like 2025 is going to be quite an exciting year for the Bitcoin Collective because you've launched your new— or maybe not new— but you've launched your, uh, where you're going. Can you tell me a bit more about that sort of Bitcoin on the balance sheet thing and what you're hoping to achieve with it?
+
+**Jordan Walker:**
+(0:04:40) Yeah. So, it stems from me seeing a lot of people leaving the UK. Like, you'll see it all over social media at the moment of how many people are actually leaving the UK. And unfortunately, these are talented entrepreneurs that maybe have businesses that are relocating their businesses offshore to the UAE or to Portugal, wherever it is, because it's just not the friendliest environment to be running a business in at the moment in the UK.
+
+So I was seeing all this and it was very difficult watching friends leave. Like, I'm not just saying I see this on Twitter and social media. It was— I see friends leaving and I can actually witness this in real life and they're telling me why they're leaving.
+
+I've been in Bitcoin for quite a while now and, as Peter McCormack says, it feels like you've got the cheat code. You've got a tool that can combat this. So you're seeing this mass exodus of talent, entrepreneurs leaving the UK, but there is this thing that they just don't understand yet that can actually really benefit their business. Because it's benefited me as an individual over the years and it's benefited so many people that I know. And now we're seeing a wave of corporate adoption of Bitcoin.
+
+Um, and well, yeah, what I said is essentially what we're doing is pulling that playbook and applying that to the people that are running businesses, whether you're just a one-man band in the UK or one-woman band in the UK, or you are a sizable company. Because I think it's just over 99% of the UK is made up of SMEs. So that's sizable. And it's 60% of the UK workforce is employed by SMEs as well.
+
+So yeah, I just put two and two together and I was like, "Wow, okay, we do have the cheat code here." And what's missing is the education. What have we been doing for years? The education. And distilling it down into a relatable way for these businesses to understand Bitcoin, but then how it can benefit their company in the long term. Because it's not a short-term thing. And that's the important thing that people need to understand— you're not coming in this for a quick trade.
+
+This is how do you take your business from potentially failing because you'll run out of cash maybe in 2, 3, 4 years, to okay, let's make this into decades, centuries. Um, yeah, and that's what we're doing is helping these businesses in the UK and specifically focusing down on the UK. That's the important thing.
+
+**James:**
+(0:07:10) And you've got an event coming up later in the year. Is that right?
+
+**Jordan Walker:**
+(0:07:15) Yeah.
+
+**James:**
+(0:07:17) I'm sure there's stuff you can't talk about because it's not all fully released yet, but what can you tell us about it?
+
+**Jordan Walker:**
+(0:07:22) Yeah. So, when this episode goes out, we will have the tickets released and more information around it because we've currently just put out save the date. So, the date is the 21st of November 2025 for this year and it's called "Bitcoin: A Competitive Advantage."
+
+And it's quite simply— like, Bitcoin gives you that competitive advantage whether you are an individual or if you're a business to understand this thing early. And when I say to understand this thing early, we are still— this is ridiculously early. Although it might not feel like it if you've been in it for however many years. Like, Bitcoin is currently trading around $100,000. Like, that's nothing. It's a $2 trillion asset. If you know what this thing is, this is still minuscule.
+
+So that's why we've named this event Bitcoin: A Competitive Advantage. And it's going to be both for retail but also businesses. It's going to have a stronger focus on businesses and how this cheat code can help a business and what things you can actually do with it. Because I think a lot of people don't understand that it's not just you can hold it on your balance sheet. You can accept it as a form of payment. You can pay your employees in Bitcoin.
+
+And what we want to do is just take all of that friction out in this event, bringing experts in. And the more boring side, or people find the more boring side, is the accounting for it, the tax on it. It's still very misunderstood. And what we're doing is just taking all of that friction out.
+
+And we're going to have an event on Friday. And we're doing it a little bit differently. I was checking there whether I could say it and I was like, this will definitely be released on Friday, so we're good.
+
+We're doing it a little different. With this event, I found when I go to events, I just stand outside the whole time and talk to people. I'll go to maybe one or two talks and pick and choose which ones I go. And everyone always says to me, "Oh yeah, Jordan will be outside if you want him. He'll just be out there chatting to people."
+
+So I was like, the best thing about these conferences is bringing people together to chat, to network. But then also having the experts— and I'm just saying experts— the people that will be up talking and on panels and all of this mingling around as well.
+
+So what we're doing is we're going to be starting a little bit later in the day, having talks, panels, amazing speakers throughout the afternoon, but then going straight into networking at a bar and straight into a dinner with everyone. So it's all on site. It's all one place. So you're going from conference networking to a sit-down dinner. And hopefully plenty of steak going around as well.
+
+So yeah, we've not done an event or a sizable event in a few years now. So it feels good to be back in a landscape that allows this. Because that's one of the reasons why we pulled back on doing larger scale events— the UK landscape. It just wasn't very nice to be doing these events. If you're trying to get businesses, Bitcoin businesses into the UK to help fund this thing, then it's very difficult because a lot of Bitcoin businesses are like, "Why would I come to the UK?" Especially with the FCA. It's very hostile.
+
+But now things are changing and things are changing fast. So it feels good to be back in the events game and bring people together. And there's also so many other amazing Bitcoin events happening around the UK, which is also nice to see. So yeah, "Bitcoin: A Competitive Advantage" is what we're calling it.
+
+**James:**
+(0:10:45) Fantastic. I look forward to hearing more as it develops. Okay. Yeah, seeing as you touched on it, let's talk a little bit about the UK environment, let's put it that way. You know, the way I see it, we tend to lag America usually by a few years unfortunately. But, you know, with their Operation Choke Point 2.0 and then we as a nation seem to tighten everything up as well. What is it about now that makes you feel like, oh, things are changing, things are moving the right way?
+
+**Jordan Walker:**
+(0:11:15) So many things. But just the way I've described it over the past years, living in the UK, running a Bitcoin business in the UK, advocating for Bitcoin— it felt like there was a small group, the community, a small group pushing this boulder up a hill. But now it feels like we've just got an army now building around this thing and it's just getting easier to push up.
+
+And the reason why is, as you said, what we're seeing in America. And we do lag behind that by however many years— nobody knows— but we will follow them. But I just didn't expect— if you think about it, the US has a strategic Bitcoin reserve. I mean, just thinking about that, people still forget it. It's like, that's a huge deal that this is happening.
+
+So when you just look at that— the number one superpower country in the world has a strategic Bitcoin reserve. That tells you a lot around where the adoption is. And it gives it— for people that maybe don't understand Bitcoin yet or haven't gone down that rabbit hole— it gives it the credibility as well. That, "Oh, countries are looking at buying this thing. Maybe I should go and have a look at it."
+
+So now we're seeing— and that's just snowballed from there. There's just so much bullish news that's coming out weekly. Like, I do a weekly newsletter and it's so fun. It's so fun writing it now. Like, during the bear market, it was also fun, but now there's just so much stuff. And it's gone from taking an hour or two to like 4 hours now to pull this thing together.
+
+The amount of adoption that is happening is just insane. And the price isn't reflecting that, in my opinion anyway.
+
+**James:**
+(0:13:00) Yet.
+
+**Jordan Walker:**
+(0:13:02) Exactly. Yet.
+
+**James:**
+(0:13:05) Okay, cool. And, you know, I want to touch on— I think the FCA mentioned recently, I can't remember the exact wording they used, but investigating whether to open up crypto ETNs. Have you got any thoughts on that?
+
+**Jordan Walker:**
+(0:13:20) Yeah. So, we ran a Bitcoin town hall on this. So yeah, we run an X spaces every week. And we got experts on who know a lot more about this than me. But so I'll just repeat what they were saying essentially.
+
+Is yeah, these ETNs are not ETFs. They're very different things. And when they put out a consultation like this— so they put out a consultation to get feedback on opening up ETNs to the UK retail market. And apparently, when they do something like this, they've already made their mind up. That's just, "Okay, we'll let you feel like you've been involved."
+
+So it feels like that's coming. And then the next step is an ETF, or the unbanning of an ETF. And it feels like that unraveling of the hostility is starting to happen. Because at the moment, if you look at Bitcoin companies, they can't market— a lot of them struggle to market in the UK. But once these ETFs come in, that will all change.
+
+And then that also has ripple effects around— okay, Bitcoin can be seen a lot more in the UK on advertising. It can get talked about a lot more. Retail will start getting interested in this, given it might be Bitcoin products. So there's then education around Bitcoin products and Bitcoin.
+
+And that's something I'm seeing with the likes of Smarter Web as well. I'm a big fan of Bitcoin treasury companies. And what I've seen is people getting involved— and friends of mine, I'm just speaking from personal perspective— friends of mine buying into it because of number go up. And they don't understand Bitcoin. But it's then driven them to understand Bitcoin. Because you won't understand what the treasury companies are unless you know what Bitcoin is and have confidence in Bitcoin, that underlying asset, why they're doing what they're doing.
+
+So I'm actually seeing it as a huge positive that more Bitcoin spoken about in mainstream— the more it comes up as just a word, the more people get used to it. Then it will drive them to understanding what this thing is. Because a lot of people have been booing it and putting it off.
+
+I've been told I'm crazy multiple times. I'm sure you have as well. I'm sure lots of people listening. I love that line where they're like, "Oh, you're crazy. It's all a scam." And it's like, "You've done no research. You've done absolutely no effort in. And you're telling me I'm the mad one." It's so funny. And the harder you push back on that, the more crazy that you look as well. So you just have to be like, "Okay, that's good. Well, you'll come around one day."
+
+**James:**
+(0:15:55) You'll get Bitcoin at the price you deserve.
+
+**Jordan Walker:**
+(0:15:58) Right. Exactly.
+
+**James:**
+(0:16:00) Yeah. My personal experience is a bunch of people I know, including my family members, have invested in SWC off the back of me. And all but two of them don't understand Bitcoin. But I'm using it as an opportunity to— the door's open now for me to actually have intelligent conversation about it rather than, "Oh, Bitcoin's just a scam."
+
+And it's quite exciting actually because it's people I care about and they're now interested. The first thing I do is send them Joe Bryan's "What's the Problem" video and then go, "Look, if you get it off the back of that, let's have a proper conversation. If you're still not interested after that, then, you know, we'll talk another time," kind of thing.
+
+**Jordan Walker:**
+(0:16:40) Yeah, it's also about how do you ease people into Bitcoin as well. Because it's not an easy thing to understand and it's totally flipping what you thought on its head and telling you that the current system that we're— the monetary system that we're using— is actually pretty shit when you're looking at store of value anyway. When you're looking at medium of exchange, unit of account, yes, that works. But it's then how do you take them down that rabbit hole gently? Because you don't want to just take them down full force. Because that's quite a scary thing to do.
+
+And I think Joe's video is great as a starting point on, "Okay, this is what the problem is. This is how fiat infects different parts of our lives."
+
+And then the one that I then put people on to— I don't know if you've read it, and it's not a hugely popular book, but it's "Bitcoin: Hard Money You Can't Fuck With." It's a great book because it tells Bitcoin through a story again, which is why I add it on after Joe's, and it eases people in better than just being like, "Okay, here's The Bitcoin Standard. Go and read it. Grind through it."
+
+Because The Bitcoin Standard, you have to read it at some point. But it's no easy read if you're new to Bitcoin. So it's about being able to meet people where they are and slowly take them through it, rather than just going in guns blazing, "Everything you thought was wrong. Here's a new thing, this magical internet money, this new technology." It's a very difficult mindset shift.
+
+**James:**
+(0:18:10) Yeah, it's quite a hard sell to go in hard. I like Larry Lepard's book as the sort of next level. Because although it's US-focused, it's kind of like, "This is a sequence of events that have led to where we're at now." And most people can follow it, you know.
+
+**Jordan Walker:**
+(0:18:28) So he also tells it through a story as well, which is what I love. Yeah. Larry's would be up there with maybe the next one that I'd recommend as well. And there's so many now. It's just knowing which ones to put them in and what order.
+
+I think two of the greatest books I've read are "The Fourth Turning" and "The Sovereign Individual." And man, the amount of times that it took me to read those, just picking them up, putting them down, picking them up. But at the same time, they're like two of my favorite books around Bitcoin, but they're not actually directly saying Bitcoin. Yeah, it's interesting, the whole— I love looking at how you should be introducing people to Bitcoin. And I've learned different ways of doing it and, as I said, meeting people where they are. So if someone is interested in the more techy side, to know, "Okay, I need to give you something that's a little bit more technical that you'll understand."
+
+**James:**
+(0:19:25) Cool. And you mentioned earlier about— maybe we're gathering some momentum on the pushing the boulder up the hill in the UK. Do you think the Bitcoin treasury companies, the UK ones, are helping with that? Do you think that's part of the army?
+
+**Jordan Walker:**
+(0:19:42) Massively. Yeah, I think everyone— what we're seeing is the excitement. One, the excitement from America coming over to the UK is like, "Oh, we're not doomed anymore, I guess. We're going to get there."
+
+**James:**
+(0:19:55) Yeah.
+
+**Jordan Walker:**
+(0:19:57) Well, these treasury companies around the world popping up, and then specifically in UK as well, it is like a marketing tool for Bitcoin. Because, as I was saying, I'm seeing people buy it in their SIPPs, in their— they'll buy it and then they'll be like, "Oh, why is this just doubled?" And it's like, "Oh, maybe I should actually look into what this company is," or these companies are, whatever ones they're getting involved in. And it's actually making people learn about Bitcoin.
+
+And it's getting Bitcoin named in mainstream media as well. Like, we've seen it in the— is it the Mail on Sunday? We've seen Smarter Web on the Mail on Sunday, the Financial Times, CNBC.
+
+**James:**
+(0:20:35) CNBC. Yeah.
+
+**Jordan Walker:**
+(0:20:37) Hat off to Andrew for handling that one very well. But it's getting Bitcoin named and that's the important thing for me— it's getting more exposure for Bitcoin. And then the next stage is, okay, well, people need to then learn about Bitcoin. And why are these Bitcoin treasury companies accumulating Bitcoin?
+
+The one I like to use, or what I like to say when people can't really understand what's happening, is I use McDonald's as an example. I don't know if you've ever come across this, but— I did it in a presentation I've given to quite a few companies— McDonald's isn't a fast food chain. It's a real estate company. And lots of people don't really realize this. And if you've seen the film, there's a film about this called "The Founder." Great film. But it's just telling the story of how McDonald's came about.
+
+And McDonald's, last time I checked, I think on their accounts last year, they had about $45 billion worth of real estate on their balance sheet. It's probably quite a lot more than that now.
+
+So McDonald's are actually a real estate company. And they've been accumulating an asset or assets over the years. And that's almost like their financial moat, is what I like to call it. They've got their operating business, which is their burgers and fries franchisee chain, which is massive. But then in the background, they've been buying up land, real estate, which then means that they don't just last decades, they last centuries.
+
+And I think in the next 5 years— I want to say they've been around for a century. So yeah, they're coming up for a century-old company. And yeah, real estate was good over those years, but now we've got a new thing. We've got digital— let's just call it digital real estate.
+
+And this is a good way of making it relatable to people— you've seen companies do this before. They've moved that cash into an asset. And what we're seeing now is we're seeing companies move it into a more finite asset.
+
+So it's a good way of just making it a little bit relatable and see that, "Oh, other companies have actually done a similar style of strategy before over the years." But now it's just understanding Bitcoin. Once that clicks, it's like, "Okay, this makes total sense. How do I get it on my balance sheet?"
+
+**James:**
+(0:23:00) And where do you think we are with regards to the four-year cycle, bull market and things like that? Do you think— do you have a feeling that it's kind of been pushed back and delayed by all the tariff stuff and all those kind of things? Like, America hasn't started printing properly yet. Or do you think, you know, we're running up to the end of the year and that's when it's going to go pop?
+
+**Jordan Walker:**
+(0:23:22) It's a very difficult one to say whether the four-year cycles are still in play. I think somewhat they are. Yeah, I'm not good at predict— nobody can predict what we're going to do.
+
+But I just remember from 2020, 2021 kind of era, there was this whole narrative around a super cycle and "it's different this time." And I think it was Dan Held that coined the super cycle, I want to say. And it wasn't different that time.
+
+But this time, I don't know. There's dramatically more— there's a huge amount more of capital getting flowed into Bitcoin. And people that are not selling— that's also a thing. So like these treasury companies, if they start to look like they're selling Bitcoin, that's suicidal. So they're just holding on to this. Same with— you've seen ETFs just accumulating Bitcoin. Although I think treasury companies are actually doing it faster at the moment.
+
+So I think we'll see somewhat of a four-year cycle still. We might not get the dramatic pull-downs that we've seen. But I always think conservatively in my head. So I always base everything on four-year cycles. That's what we've seen historically. So let's predict that's what it's going to do in the future.
+
+And that actually doesn't change the strategy of really anything. It's you will be buying Bitcoin whatever the price. So actually it doesn't really matter. If it draws down, if it has a blowoff top October, November this year and it draws down, then cool. It's a little bit cheaper. That's nice.
+
+And when we're speaking to businesses, educating businesses, we are speaking with that historic four-year cycle in mind because it's a long-term play. Like, we're talking to businesses and we need to know that they're thinking long-term as well. It's a big education piece around, "Okay, well, you need to be thinking decades with this." So that's really important.
+
+And the four-year cycle— yeah, I don't have a simple answer for you unfortunately. But I always think in those terms because that's what could happen.
+
+When the ETFs came out in January 2024, there was a big narrative around, "Oh, will this be like the gold ETF that launched— the first gold ETF in the US?" I think it was 2003, I want to say. And it pretty much went on— I think it was a 9-year, you need to verify this, I'm just doing this off the top of my head— a 9-year bull market with a little blip in the middle, but it just rocketed.
+
+So there was a strong narrative around that, and I'm not saying that couldn't happen. It totally could because now Bitcoin is eating everything and now it's in the capital markets of so many jurisdictions.
+
+This is exciting and nobody knows. It's into the unknown. And it's something that we understand and we have understood for such a long time. Bitcoin hasn't changed. The world has changed around it and people are educating themselves around it.
+
+So what could happen over the next 5 to 10 years is— yeah, I'm very bullish and excited to see.
+
+The last point— sorry, I know I'm talking a lot— the last point is I'm very excited about this period that we're living in. Like, we're living in such a period of change and it's really cool to see that we get to experience what's happening here. The revolution of how we actually use money globally, transfer value globally.
+
+And a lot of people that I know are very just pessimistic in life and I come bounding in with optimism and I'm like, "This is— we're living through one of the greatest periods of change that we will see or we have seen before previously." It's very exciting.
+
+**James:**
+(0:27:00) I mean, yeah, it's massively exciting. I think Jesse Myers calls it the "once in a species" event. And I think he's bang on with that.
+
+I guess— you know, everyone who's watched any of my videos knows I'm SWC all the way. But I do genuinely believe there's room for multiple Bitcoin treasuries in the UK, and that some will also be successful.
+
+What are your thoughts on the maybe slightly more shady copycats that maybe don't know the playbook or, you know, they're just getting on the bandwagon because number go up? Do you think that could be damaging for Bitcoin and the other treasuries?
+
+**Jordan Walker:**
+(0:27:40) So I agree with you. There's obviously room in each jurisdiction for lots of Bitcoin companies, treasury companies. Eventually— this is all short-term as well— eventually every company will have Bitcoin on its balance sheet. And it's just companies capitalizing on, "Okay, we can get cheap Bitcoin and nobody really knows this playbook yet."
+
+So there's definitely room for quite a lot— lots of treasury companies within each market. And but you're right, there is also going to be copycats. And people come in, try and just jump on the bandwagon.
+
+And I don't think it would be necessarily bad for Bitcoin because I don't believe that these companies could get big enough to then influence anything. But yeah, there is— I'm seeing a few that don't understand Bitcoin or you can see that they've just pivoted very quickly.
+
+Whereas a telltale sign for me is if a company goes public and they've been accumulating Bitcoin for years prior to that. If their CEO, the founder, whoever it is understands Bitcoin. They built a solid team. Like, it's not just an easy thing. You can't just put Bitcoin on your balance sheet and your number goes up of your share price. It's not that simple.
+
+It is— you need to understand what this thing is. You then need to build a team around it who know what they're doing. Like, that's such a huge thing. If anyone's trying to assess Bitcoin treasury companies, you have to be looking at the team and what's the strategy and execution as well. Like, are they sticking to that? Because as soon as they start to veer off, then that's a red flag for me.
+
+So inevitably you're going to get copycats, people that jump on the bandwagon. It's not going to work for them. But they will maybe have a bit of Bitcoin on their balance sheet though, which is a plus side.
+
+But eventually in the long term, we're going to see most companies will have Bitcoin on their balance sheet. And yeah, that's my take on the whole landscape because it's evolving so fast as well.
+
+Like, over the past 3 months, I've had to learn all of these terms like MNAV, days to cover, all of this. Like, it's a big learning curve for a lot of people as well. So yeah, it's important to do your own research on these sorts of things.
+
+And I would say that Bitcoin treasury companies, when you're looking at safety and all of that, it comes with risks. Whereas with Bitcoin, that's my savings account essentially. And that's the only thing I can trust really.
+
+But then at the same time, you're seeing treasury companies that are doing amazing things. And there's so much capital out there locked up that's getting slowly released into Bitcoin, which is a nice thing to see. And then education also follows this, as I'm seeing.
+
+**James:**
+(0:30:25) Yeah, I think Saylor called it the digital gold rush. You know, the next 10 years or so. I'm not sure at the pace that these treasuries are starting to accumulate Bitcoin if that's going to last 10 years. Like, the numbers are crazy. But, you know, what do I know? I don't want to call out the GOAT as being wrong, but it just feels like, you know, he's already at 600,000 coins, you know. Treasuries consumed— was it 120,000 coins last month?
+
+**Jordan Walker:**
+(0:30:55) I can't remember the figures. Was it last quarter? Last quarter maybe.
+
+**James:**
+(0:31:00) But it was— yeah, the pace is astounding. So yes, it's a super exciting time for us to be alive and in the space as well.
+
+Thank you very much, Jordan. That's been awesome to have you on. Where can people find you and the Bitcoin Collective so, you know, they can find you on X or whatever?
+
+**Jordan Walker:**
+(0:31:20) Yeah. Well, you can just go to our website, bitcoincollective.co. Or you can reach out to me. I'm jayw132 on X.
+
+**James:**
+(0:31:30) Just rolls off the tongue.
+
+**Jordan Walker:**
+(0:31:32) Yeah. Everyone always asks me, "Why 132?" And the answer is because 123 wasn't available.
+
+But yeah, please reach out to us, especially if you've got a business as well and you're in the UK and you're looking into all these public companies, what they're doing. Like, there's a lot of UK companies that are holding Bitcoin that are just not speaking about it. And there's a lot that need help with— how do you do this? How do you take the friction out of this?
+
+And then of course we'll be running this event. So look out on socials for that. And come along and yeah, just get involved.
+
+**James:**
+(0:32:05) Perfect. Thanks again, Jordan.
+
+**Jordan Walker:**
+(0:32:08) Awesome. Thank you for having me on.
+
+---
+
+**End of transcript**

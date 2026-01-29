@@ -1,0 +1,222 @@
+# AQUIS: SWC: The Smarter Web Company is a Bitcoin Treasury Company
+**Interview with CEO Andrew Webley**
+**Date: 2025-04-30**
+**Video ID: 33dCHP09C_8**
+**URL: https://www.youtube.com/watch?v=33dCHP09C_8**
+**Duration: ~25-30 minutes (estimated)**
+**Channel: Bitcoin Treasuries Podcast**
+**Host: Tim Cotsman**
+**Guest: Andrew Webley (Founder & CEO, The Smarter Web Company)**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- Andrew's career background: 10 years at Hargreaves Lansdown (UK's largest retail broker), helped list it on LSE
+- 15 years building The Smarter Web Company as a profitable web design/CMS business with 250+ clients
+- Personal Bitcoin journey: discovered ~10 years ago, pivotal moment finding Strategy (MicroStrategy) 4.5 years ago
+- Decision to create a UK Bitcoin treasury company after failing to find one worth investing in
+- Tyler Evans (Bitcoin Magazine, MetaPlanet director) joining as company director
+- IPO process: ~4 months from decision to listing (typically 6-12 months), listed on Aquis Stock Exchange
+- Aquis vs LSE comparison: lighter regulation, lower costs, £30M NAV threshold for LSE migration
+- UK tax advantages: ISAs and SIPPs (tax wrappers) work regardless of which exchange
+- Treasury strategy: traditional equity raises first, more complex instruments (convertibles, ATM-equivalents) later
+- Upcoming events: Bitcoin Conference Vegas (May), Hong Kong (August), Prague, Abu Dhabi (December)
+
+---
+
+**Tim Cotsman:**
+(0:00:00) Welcome back to the Bitcoin Treasuries podcast. I'm Tim Cotsman. I'm here with Andrew Webley, the founder and CEO of the Smarter Web Company. Andrew, thanks for joining us.
+
+**Andrew Webley:**
+(0:00:12) Thanks for having me.
+
+**Tim Cotsman:**
+(0:00:14) Before we started rolling, we were talking about New York, which is where I'm based, and London, where you're based, and that you just had a trip over here. You want to dive into your New York experience versus your London experience?
+
+**Andrew Webley:**
+(0:00:28) Yeah. So we got back about two or three weeks ago. It was just in the midst of us concluding all the pre-work ready for our IPO which happened about a week ago in the UK. I had booked it months and months ago. You know, so it just fell in that way.
+
+And I was saying to you earlier, it was really funny because, you know, capital city - well, it's not your capital, but in England we think of it as your capital. And it was absolutely fantastic. You know, all the people were so friendly. You know, I go to London. I love London because I'm from the UK. It's an amazing place, but all the people there, little bit miserable, quite rude at times actually.
+
+But you go to New York and the positivity and the energy and all that side of things was just absolutely fantastic. It was a brilliant couple of days actually.
+
+**Tim Cotsman:**
+(0:01:20) Awesome. Could you tell us a little bit about your background and maybe your personal journey to Bitcoin and then we'll get into the corporate side of it?
+
+**Andrew Webley:**
+(0:01:30) Yeah. So, I started my career in 1999, was months before the dot-com crash, so 25 years ago. And I was lucky, I suppose. So the internet was just kicking off then. Google hadn't been invented yet - well, certainly wasn't known then. We used to use a search engine called Alta Vista.
+
+And I joined what was a very small company in Bristol, which is where I live, which is in the southwest of the UK. And it was just luck, I suppose. You know, the internet was starting. I joined a very small company which was run by two incredible people, Peter Hargreaves and Steve Lansdown. And I was lucky enough to start my career in the right company, in the right sector, in something that I enjoyed.
+
+And then over a 10-year period, I grew through the company. I left as the head of online, so I was responsible for the online business. We listed it on the stock market. It later became a FTSE 100 company. It's now being taken private again. So it grew to be one of the biggest 100 companies in the UK.
+
+I normally describe it to people as a well-paid apprenticeship, really. But it was absolutely fantastic. And, you know, even in the last few days, I've had a lovely email from Peter Hargreaves, you know, saying how pleased he is to see the company go to this new chapter.
+
+So that was the first 10 years - I worked at Hargreaves Lansdown, the most successful retail broker in the UK.
+
+After that, what I wanted to do is - because I'm a developer, you know, development, online marketing, that's my passion away from Bitcoin - I wanted to set up my own company. I was 30 years old at the time. And so what I did is I built what I believe is one of the best content management systems in the world, and then I built the whole business around it. So how we deliver it to the clients, how we sell it to the clients, you know, it's all done remotely like way before COVID came along and, you know, remote working became trendy.
+
+And it's gone really well over that 15-year period. So I'm very proud to say it's been a profitable business every single year for 15 years. And I'm even prouder to say that we've now listed it on the stock market in the UK. You know, it's fantastic.
+
+Then alongside that, what happened, you see, was almost 10 years ago, I found Bitcoin. And, you know, it was very different to how it is now. You know, and I could see the potential. You know, I didn't have anything like the level of conviction that I've got now. You know, to me now it's by far the best asset in the world. You know, it's the only thing that I think is as certain as you can get for the future. You know, we'll get onto that in a minute.
+
+But I dabbled in it in different ways. Bought it, sold it, bought it, sold it. You know, all those things. I've got friends today who got into it before I did. They bought it. They've never sold it. I can't tell people that I've done that because that's not what I did.
+
+And over a period of time through a lot of learning, a lot of reading, a lot of watching, you know, I started to understand it. And then the sort of pivotal moment for me was about four years ago, probably four and a half years ago now, roughly, when I stumbled across Strategy, then called MicroStrategy.
+
+Now since the outset of my career, I've been interested in investing. You know, I've invested in lots of different things - commodities, currencies, obviously companies. And when I found Michael Saylor's Strategy, I just couldn't believe what a fantastic idea it was. I.e., you use the public company model and then you buy an asset. You know, obviously this is before ETFs and all this sort of stuff in the States, and very, very early, I think, for that level of conviction.
+
+And so I invested in that. I still hold that today. And then what happened from there was after about two years, so two and a half years ago from where we're talking today, I started looking at the UK market and I was thinking, right, you know, I've got this much money in the UK, this much money in the US, small bit internationally, you know, and then some other assets. And the UK money that I had, I wanted to invest in a UK company. You know, we all invest in different countries, different things, etc., etc., but you know, you like to invest where you live as well. Or certainly I do anyway, most of the time.
+
+And so I started looking around to try and find something similar that I could invest in in the UK, you know. No more complicated than that. And I couldn't find anything that I felt was worth investing in.
+
+So, you know, that search went on months and months and months, checking the announcements every single day. "Is there a company coming out?" Thinking to myself, "This is crazy. You know, somebody's surely going to do this. It's the most obvious idea in the world." And it just didn't happen.
+
+So then what happened from there is early in 2024, I started thinking, well, you know, if no one else is going to do it, you know, maybe I'll do it. You know, at least that way I'd have a high level of conviction in the management, you know, without being arrogant about it. You know, I would understand the direction. It would be aligned with how I wanted to do it, etc., etc.
+
+So I started thinking, right, how can I do this? And, you know, for anyone that's never set up or ever listed a public company, you know, it's quite expensive. It takes quite a lot of time. You need quite a big team. You know, we probably had 30 people approximately working on the IPO, something like that. Anyway, and it's difficult, right?
+
+So then what I did is I spoke to somebody around about the middle, maybe just after the middle of 2024, end of Q3, something like that. And I said, "Right, I've worked out how I can do it. So this is what I want to do. This is how I'm going to do it. What do you think?" You know, they've got a lot of public market experience, very knowledgeable, a little bit older than me.
+
+And they said to me immediately, they said, "That's an amazing idea. You know, I'll help you do that if you want to do that, but change this one aspect of it." And, you know, "I'll help you do it."
+
+And so I couldn't believe that. I couldn't believe how well that went. And that really, that was the pivotal moment that it went from, you know, something I've been thinking about, something that I'd started trying to plan, to becoming a reality.
+
+So what we did from there is we mobilized the troops, you know, the lawyers, the auditors, the, you know, the brokers, all these sorts of people that you need as part of the team. And we started the journey that we've sort of, you know, just got to this key milestone of actually becoming a quoted company.
+
+We were very lucky with all of that as well because, you know, once we started thinking, right, this is how we're going to do it, this is the team, etc., I started speaking to people that I've met along the way. And one of my friends said to me, they said, "Right, you need to speak to this guy," and this guy said, "You need to speak to, you know, my boss."
+
+So I did that. And it was, you know, like a lot of things in your life when something just happens to be at the right place and the right time, you know. I'm a big believer in sort of, you know, fate and things, you know. I work very, very hard, but you know, I think you do need a little bit of luck along the way as well.
+
+And so that's how I got started speaking to somebody called Tyler Evans, who's joined our company. He's the director of our company. He runs the biggest Bitcoin media company in the world, you know, Bitcoin Magazine, the Bitcoin Conference.
+
+And so we had this call. It was, I don't know, a week before Christmas, let's say, because I can remember on Christmas Eve, we were chatting on WhatsApp and I was picking up a takeaway or something. And we were all getting quite excited. You know, little did we know that we had like four months of, you know, seven days a week, 15 hours a day following. But we're still excited, but we're certainly excited without the full realization of the work then.
+
+And it was just the right place, right time because he had, or has, a lot of success with a company that he's involved in called MetaPlanet in Japan. And also some other companies in other countries. And they believe that, you know, every market should have one of these companies, you know, that can be a different company, but the same general thing which buys Bitcoin on the balance sheet.
+
+So he immediately said, "Yeah, you know, sounds great. Love your background. You know, can I get involved?" And we said, "Yeah, that would be great."
+
+And then from there it was just the grind of getting all the work that you need to do if you want to be a public company done. You know, which is just a process at the end of the day, albeit one that takes quite a long time.
+
+And then that got us to where we are today. So, you know, it's Wednesday evening today. So, you know, we've had four days of being a public company, you know, with people buying and selling the shares. You know, the price has responded well, the volumes responded well. The feedback's been incredible from the people. You know, that's been really, really great to see. You know, because you want, you know, if you believe in something and you're doing it for, you know, the right reasons and other people can see that. It's really amazing to see, you know, the emails, the DMs, the LinkedIn messages, all these things that have come in, you know, to show that, you know, obviously we're not alone. There's lots of other people thinking that this is a great thing for the UK.
+
+So, yeah, that's my background and how we got to today.
+
+[SPONSOR BREAK - Bitcoin 2025 Vegas, On-Ramp Bitcoin Custody, Strategy Tracker]
+
+**Tim Cotsman:**
+(0:12:30) That seems quite quick from, if I'm understanding correctly, Q4 of last year to April of 2025, a pretty quick turnaround from having conversations to going public. Is there anything more that you'd like to share in that regard? And are there minimums to qualify to be a public company in that market? You know, as quarters of profitability, things like that?
+
+**Andrew Webley:**
+(0:12:55) Yeah. So, there's a whole host of different rules, you know, in the UK for all of these sorts of things. It's, you know, it's a very, very regulated country. It's not as forward thinking with digital assets as some other countries. You know, I always say that, you know, pretty much with everything, we're, you know, probably two, three years behind the States in a lot of things. So, it's, you know, in that regard, it's a very, very good time in my opinion for doing something like this in the UK.
+
+Four months. If you ask most people, they'd probably tell you, you know, six months, maybe a year. You might get the odd person that tells you it might be slightly less, three months maybe. I'm an ambitious person. You know, I work very, very hard. We literally every single day we tried to get things done, you know, to get to that position. And the end result was about four months, which is pretty good going. I think you'd struggle to beat that.
+
+In terms of the requirements, so in the UK, we have effectively two recognized stock exchanges. So we have the London Stock Exchange, which is the big brother, if you like, and then we have something called the Aquis Stock Exchange, which is what we're listed on.
+
+The Aquis Stock Exchange has got about a hundred companies listed on it. They're typically, you know, startup, smaller, or, I suppose it's not the best word, but let's say interesting businesses. There's a lighter regulation, but there's still a very thorough regulation. The rules are fairly similar.
+
+The main difference between the two markets is that to be fully listed on the London Stock Exchange, you've got to have a net asset value that's above £30 million. So, for example, our plan potentially in time is to migrate from Aquis to the LSE. But for us, we'd probably wait until we had a valuation of £40 million or more because of the volatility. You know, you have to prove to the exchange that you are above that level.
+
+Now, obviously, if you look on the London Stock Exchange, you'll see a whole host of companies that are valued significantly below that because, well, a) it's a newer rule and b) share prices go down as well as up.
+
+So the main one of the barriers, if you like, is that net asset value. So, you know, for us, it's just a combination of the valuation of the operating business and then a valuation of the cash that we've got there as well. So if I look at our market cap as we close today, it's £6 million. So that's a small company. But, you know, if we can grow it, you know, responsibly but aggressively, you know, we will be able to make that transition when we feel it's the right time.
+
+The other reason why you do it away from, you know, that threshold is the regulation side of things. So, you know, the London Stock Exchange is more regulated than the Aquis Stock Exchange. So, therefore, it takes longer and it costs a lot more money. I can't tell you the figure because I'm probably not allowed to, but it cost us to get listed. But the London Stock Exchange would be a multiple of that. You would probably be lucky to do it for a million pounds.
+
+So, you know, it depends what the business is, you know, the value of it, profitability, the amount that you're raising and all these things. But you can see that to pay effectively a million pounds in fees, you know, is quite onerous to smaller businesses, even if you were, you know, around about that threshold.
+
+So for us, it was all about the speed of us getting onto a market. And that's why we went down that route.
+
+Now, international investors won't necessarily see this reason, but from a UK investor's point of view, it doesn't really matter whether you invest in something that's listed on, you know, one market or the other or indeed an international market if your broker covers it. Because in the UK, a lot of us, we will buy shares in ISAs and SIPPs, which are tax wrappers. You know, one's a pension, one's just a regular saving type product. So they're just wrappers, nothing more than that, but they give you certain tax advantages, either money in, you know, relief on the way in or on the growth, so you don't pay like the capital gains tax on the gain.
+
+So it doesn't really matter in all honesty which market you're on. And indeed on the London Stock Exchange, you know, if you look at the volume in our stock so far, the volume's actually higher than a lot of the smaller companies on the London Stock Exchange. So I think from a business point of view, you would struggle to justify the increased expense and the time, you know, in addition to the fact that we wanted to get our company out there and get listed, you know, as quickly as possible and then grow it from there. So, you know, there's a couple of reasons, but I hope that explains some of them.
+
+**Tim Cotsman:**
+(0:17:45) Absolutely. When you see what Strategy has done with their Bitcoin treasury strategy and you see MetaPlanet and others, what's your thought process around that and what bits and pieces from what they're doing could you see maybe applying to your business moving forward?
+
+**Andrew Webley:**
+(0:18:05) Yes. So the, I suppose, the key difference with us - and I don't know whether this will change in the future, a lot of it will be delivered will be based on what we think is right for the business alongside the regulations in the UK. So this is as we are today. I can't really say how it will look in 6, 12, 24 months, you know.
+
+But right now, the thing that's different about us is we're a small but profitable operating business that's got, you know, quite large growth potential. You know, double, triple wouldn't be out of this world, you know, within a 12-month period. You know, with the right market conditions in terms of trading, that is nothing to do with the stock market.
+
+So we've got this business which is quite good because, you know, it can scale and it can also cover costs. So that's one thing that's similar or different, whichever way you want to look at it.
+
+And then alongside that, we've got our belief which is, you know, based on my belief of how we manage our treasury, which is very, very similar to a lot of other companies, you know, and obviously heavily inspired by those guys.
+
+Now what they do on the treasury management side is obviously way bigger than what we're doing at the moment, but it isn't really any different. And in fact, one of our directors, Tyler Evans, is a director of MetaPlanet and he's been instrumental in that. So I don't think that it's too difficult for anyone to see the similarities and what, you know, the knowledge that's been learned elsewhere applied, you know, to other businesses, for example, ours.
+
+In the shorter term though, our priority is to grow the business without too many complications because we're a smaller company at the moment. And so the traditional equity route, which is very easy to raise money from a procedure point of view in the UK, you know, it is the right route for us in the shorter term.
+
+There isn't any point, any need in doing more complicated products which obviously Strategy has done, MetaPlanet will do in the future - they've started to do with the way that they do their equivalent of an ATM offering, you know, with the convertible floating warrant. So all of those same tools exist, you know, largely, in the UK. An ATM doesn't exist, but there's other ways of doing similar. So we've got the, you know, tools in our toolbox.
+
+But in the shorter term, you know, because the retail investors that have got behind us and supported it are so important to us, then the right thing for them and the right thing for the business is just traditional equity raises, you know, as and when the market conditions allow, and then build on that over time with different structures around that.
+
+One of the things that I think is worth also saying though is that it isn't only about the company getting the capital. It's also about where the capital comes from. In fact, that's more important. So it's about the flow of capital.
+
+So in the UK, there's certain funds, you know, quite a lot of them in fact, that can only invest in UK equities. So we're giving them an alternative type of company to invest in. You know, a good company, very transparent, you know, with its innovative approach to digital assets, obviously Bitcoin.
+
+And so that's a flow of capital. So, you know, if we decide in the future that we want to do something like, I don't know, like some sort of a preference share or convertible or some sort of debt product, you know, it wouldn't be so much about doing it for structuring the capital flow for the business. It's more about structuring the deal for where the capital's flowing from.
+
+So I think that's one thing, you know, one of many things that Michael Saylor's done so fantastically well, and that is, you know, be really forward thinking about how you can structure yourself to get in front of pools of capital that wouldn't come into you otherwise.
+
+So in the shorter term, there's plenty of capital with things like straightforward equity in the UK. And then obviously once that grows and those people, you know, get on board with that, then we'll look for those other sources of capital which, to be fair, are bigger sources of capital - the debt markets as an example, and even international capital, you know, that want some UK exposure or they want, you know, technology exposure or digital assets exposure or whatever it may be.
+
+So as part of our strategy, we've obviously looked at all of those things. But because we've only just got started, you know, we'll go down the traditional equity raise, ideally at a premium, and then build it from there.
+
+[SPONSOR BREAK - Bitcoin for Corporations, BTC Prague, Arch Lending, Stamp Seed]
+
+**Tim Cotsman:**
+(0:22:45) Can you tell us about the operating side of the business, the product and service offerings and that operating side?
+
+**Andrew Webley:**
+(0:22:55) Yeah, sure. So, you know, obviously I'm incredibly proud of it. You know, I've plowed 15 years of my life into it. It started with a system that I thought would be the best type of system in its space.
+
+And, you know, we've done pretty well, to be fair. We've got over 250 websites that are live on our system. We are very profitable. There's really good margins in it. Most importantly, it's a really, really good service for the clients. It's probably cheaper and better than what they could get from most other people.
+
+The level of support that they get is really, really first class. You know, they can phone our office, it will get answered in a few rings. They can email, you know, we normally do our very best to get back to people out of hours, but, you know, obviously promptly within hours. So it's the sort of customer service that I think people should get from any type of business.
+
+What we actually do for people is - it's mostly small to medium-sized businesses, but then we get some other things like, you know, sports people, authors, these sorts of people, charities. So we design and build bespoke websites.
+
+So somebody would come to us. They want a website. Our website's very informative. We're very transparent. The prices are on the website. We accept Bitcoin as well if you prefer rather than, you know, pounds, dollars, etc.
+
+So they sign up to the service. We talk to them about it if they want to, or they can just read about it and then sign up. And then we go through the same process for every single project. So we design it, we build it, we help them with the content, we get the website live. And then once the website is live, they can update it themselves through the content management system, or they can pay us an hourly fee and we'll do it for them. We do the marketing if they want us to do that. We're really good at that. We do that for ourselves as well.
+
+So it's a service that's a good quality service, but the market's vast as well. And when I said earlier about you wouldn't have to think too hard about how we can double or triple that in quite a short space of time, you know, you can see 250 websites sounds like a lot, but it's nothing when you think that there's, you know, probably one to two million smaller businesses in the UK. And that's not even before you get onto the international market because, you know, obviously where you deliver something remotely, you can deliver it to any jurisdiction in the same way.
+
+So it's a really, really good business that we've built. And if you combine the business with the approach to the digital asset side of things, I think it offers someone who's looking to invest in a UK company, a smaller UK company that's, you know, sort of comes with other risks of course, but also potentially comes with better returns. It offers quite an exciting opportunity.
+
+**Tim Cotsman:**
+(0:25:45) Where can people find you and the firm online? And are there any resources that you've used that you would recommend to other people? And any events, whether virtual or in person, that you might be attending throughout the rest of this year that you'd like to highlight?
+
+**Andrew Webley:**
+(0:26:00) Yes. So the best way to find out about our business is to go to our website which is www.smarterwebcompany.co.uk. That's a great starting point.
+
+When we listed on the stock market last week, last Friday, we put live our investor relations website. So you can find a link at the top of the screen for that. So you can see all about our different packages, what we do, how much we charge, you know, all that sort of stuff. But then you can also go into the dedicated investor relations section where you can see more about the business as opposed to the service that we offer our clients.
+
+So all of that information is online on our investor relations website. You can see the announcements we've made to the stock market. You know, this morning we announced that we've increased the digital assets in our treasury, you know, the numbers, that sort of stuff. You can also see things like the admission document, you know, the team, all this stuff.
+
+In terms of where we'll be for the next couple of months, now it's going to be quite a busy year actually in terms of going out and seeing people at all of these different things.
+
+So, you know, we'll be at the Bitcoin Conference in Vegas, which is at the end of May. We'll be at the Bitcoin Conference in Hong Kong. That's in August. We'll be at the Bitcoin Conference in Abu Dhabi. That's in December, I believe. Maybe November. Pretty sure it's December. So we'll be there.
+
+We've also been invited to Bitcoin Prague, which is, you know, a similar type of event but very focused on European. So we'll be there. I'm not sure exactly when yet, but we've been invited and we've said, "Yeah, we'd love to come."
+
+And then there's also more London-focused events as well. So in the UK, there's lots of groups around the country that, you know, are very Bitcoin focused but then also have embraced the, you know, the public company treasury model. So, you know, we've been invited to go and speak at a few of these things and meet some of them. You know, wherever possible, we've said we'll do it.
+
+And then there's other organizations in the UK like the Bitcoin Collective, for example. They're a really great group of people. They're doing an event in, I think it's May. So we'll go there.
+
+So we'll go, you know, to as many of these things as we can. And if anyone out there is organizing an event and, you know, they think that we'd be someone useful to have, then, you know, we're always happy to talk about our experiences and what we've done. And, you know, if it helps just one or two other people, then it's definitely worth doing.
+
+So, yeah, it should be quite a fun year, really.
+
+**Tim Cotsman:**
+(0:28:30) Awesome. Well, super appreciate your time today, Andrew Webley, founder and CEO of the Smarter Web Company. Look forward to following along and watching your journey here. Thank you so much for your time.
+
+**Andrew Webley:**
+(0:28:45) Appreciate it. Thank you.
+
+---
+
+**End of transcript**

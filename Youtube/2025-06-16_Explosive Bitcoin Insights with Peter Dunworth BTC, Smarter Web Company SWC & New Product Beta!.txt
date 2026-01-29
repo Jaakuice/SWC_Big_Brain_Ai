@@ -1,0 +1,362 @@
+# Explosive Bitcoin Insights with Peter Dunworth: BTC, Smarter Web Company SWC & New Product Beta!
+**Interview with Peter Dunworth, The Bitcoin Advisor**
+**Date: 2025-06-16 (mentioned in transcript)**
+**Video ID: mXR-1azWX8U**
+**URL: https://www.youtube.com/watch?v=mXR-1azWX8U**
+**Duration: ~45-60 minutes (estimated)**
+**Channel: SWC Community**
+**Host: SWC Community Host**
+**Guest: Peter Dunworth (Founder, The Bitcoin Advisor / Family Office)**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- Peter's background: 30 years in finance, 15 years running family office, 10 years advising clients on Bitcoin
+- Runs "world's largest Bitcoin advisor firm" with ~500 clients globally - focus on self-custody and inheritance planning
+- Bold predictions: $1-10M Bitcoin in 5 years, $10M in 10 years, $1 BILLION Bitcoin in less than 20 years
+- Bitcoin treasury companies as "liquidity sinks" creating escape velocity - coins never coming back to market
+- Zeno's paradox analogy: small companies (SWC) can grow faster than large ones (Strategy) - "first step vs thousandth step"
+- UK market opportunity: London as mega market, but regulatory risk of "snatching defeat from jaws of victory"
+- What makes successful BTC treasury: COMMITMENT from management - "pig vs chicken" analogy (committed vs just involved)
+- MNAV management: premiums above 10x invite shorts, need to crush premium through equity raises
+- New product announcement: loanmycoins.com - 95% LTV Bitcoin loans, no margin calls, no counterparty risk, 5% interest
+- Loan product thesis: borrow against Bitcoin to buy faster-moving BTC treasury stocks, potential 4-20x Bitcoin returns
+
+---
+
+**Host:**
+(0:00:00) So I've seen you on loads of podcasts. I think your kind of work rate is maybe challenging Andrew Webley in family. But for those people who haven't kind of seen you or don't know who you are, can you give us a bit of background - you know, how you got into Bitcoin, what you do now, where you think things are going?
+
+**Peter Dunworth:**
+(0:00:25) That's a good question. I think probably like everyone out there, I got into Bitcoin reluctantly. And I was told about Bitcoin when it was $3 and just ignored all thoughts of purchasing that. And sadly, there was a high degree of hubris on my part because I worked in traditional finance and I was an investment adviser. I worked in a family office and we gave investment advice. And I thought I knew better than my brother who was telling me, "Hey, maybe you should buy some of this." And I just dismissed it.
+
+So, it was a very painful and costly error, which I like to remind myself of. Because it's a great lesson and I think most Bitcoiners have that moment where they were told about it, they ignored it, and then it ended up being their most costly and most regrettable financial mistake.
+
+(0:01:15) But I kind of get the feeling - and this is sort of jumping head first into this - and sorry, I might just finish off on this thought - that basically I run a family office. I've done this for the last 15 years. I've been in finance for 25, nearly, yeah, nearly 30 years. Studied accounting and finance, worked in credit markets, worked in credit, worked in the equity side. We help families basically look after and preserve their wealth long-term through looking at different structures, looking at credit, looking at all sorts of investment options.
+
+And 10 years ago, we started giving advice to clients on Bitcoin. And it started out with some very hesitant or conservative advice that, "Hey, maybe try putting in 1 to 2% of your net assets and if it's a catastrophic failure, it's a bad day in the stock market." That was how we sort of framed it for our clients.
+
+(0:02:05) And then fast forward to where we are today. We run probably the world's largest Bitcoin advisor firm which looks after nearly 500 clients globally. We help clients procure and secure their Bitcoin in self-custody and provide a framework of redundancies into that self-custody arrangement that - although this sounds fairly morbid - that it is the gist of it. If our clients do happen to pass away for whatever reason, the most important thing is that their Bitcoin is going to be preserved and passed down to their beneficiaries. And we've got a foolproof system that delivers that in a way that allows them to self-custody it.
+
+So, it's really the best of both worlds and it helps our clients have peace of mind to know that whatever they do, they can't muck up their Bitcoin and the transfer of that to their loved ones.
+
+**Host:**
+(0:03:00) That's fantastic. I want to talk a little bit about Bitcoin and sort of trapped capital markets. So capital markets that, you know, can't access Bitcoin easily or directly. You know, there's a few markets around the world where that's more challenging. The UK is one of them. Japan is one of them. Not so much in - well, it's still massive in the States with them sort of starting to roll out slightly new laws and it's opening up the market a bit. But what are your thoughts on sort of that scenario and how that plays out a bit?
+
+**Peter Dunworth:**
+(0:03:35) I think we're seeing the US sort of - to paraphrase this, and I dare say probably a lot of our listeners are going to be global but predominantly from the UK. Would that be a fair assumption?
+
+**Host:**
+(0:03:48) Yeah. Although, you know, a lot more Americans are coming on board now. So, probably - I got to say, I really, really enjoy watching these Americans come on board with these foreign investments that they never had any concern about. And it's fun watching on Twitter hearing all of the whinging, talking about, "Oh, I've been up all night watching MetaPlanet" or your company. It's just so much fun because the shoe's on the other foot for a change. Normally I'm up at sort of 3:00 in the morning watching the US close or the UK market, and it's fun to see the shoe on the other foot for the first time.
+
+**Peter Dunworth:**
+(0:04:25) But you sort of raise a really interesting point that there's a lot of capital tied up in these markets that haven't really had the ability to purchase Bitcoin. And this is where, despite the UK regulatory authorities saying, "Hey, we want to be the leader in crypto for the world," it really hasn't translated to a favorable regulatory environment for crypto companies.
+
+And what's really interesting is - and this is what's fun to watch with the Smarter Web Company - is it feels like the SEC or the UK equivalent has kind of jumped the shark when it comes to just eating the crypto regulator's lunch in the UK. They've said, "Right, you can't do it. We're going to approve this Bitcoin Treasury company." And now it's off to the races. And they've totally missed the boat and they're just sort of left holding their proverbial in their hand in the wind. It's like, oh my goodness, they've totally missed the boat on that.
+
+(0:05:15) And this is to a larger point. The US with their new government, new administration is actually looking at Bitcoin in very favorable terms and trying to be very proactive. And I saw Hester Peirce, the head of the SEC, has now come out two days ago and said, "Hey, banks can custody this." That was on the back of the repeal of SAB 121, which basically lowers the capital requirements for actually holding it on a bank balance sheet. It was prohibitively expensive to do that before the repeal of SAB 121.
+
+So, despite the UK wanting to be the market leader in this, sadly the world follows the US and whatever the US does, it just sort of trickles down and filters through. And I look at this and I think it's funny that the UK regulators with the approval of the Bitcoin Treasury companies has actually just totally muted any sort of crypto regulation that's going to come to pass.
+
+(0:06:05) And this is probably a bigger point - that all of that speculation that was happening around alt season has now been totally diverted to the Bitcoin treasury companies. And this is where I've got to say, I find this just endlessly fascinating. Being in Bitcoin for 10 years, watching the mania and speculation of altcoin just totally jump the crypto markets and come full face into the traditional financial markets. I'm just literally rubbing my hands together watching what's going to happen. And the traditional finance market is going to figure out what volatility is all about. They have seen nothing yet.
+
+**Host:**
+(0:06:45) I mean, yeah, it's crazy to think that this whole market, the alt season is basically Bitcoin treasury companies, right? The number of people with, you know, in their Twitter name that has joined communities doing a treasury company is pretty insane. So yeah, and you know, that basically means it's all going into the underlying asset, Bitcoin. It's looking like a pretty good setup for this run.
+
+So, you know, I feel like when I've watched some of your podcasts in the past, you kind of made people like Samson Mow look like bears with some predictions. So, let's do a little bit on that because I think that always gets people's juices flowing a bit. Where do you see - I don't know, let's say the next five years - what do you see?
+
+**Peter Dunworth:**
+(0:07:30) I think we're going to see Bitcoin at somewhere between 1 and 10 million in the next five years. If we look at 10 years, I think we'll see $10 million a coin. And it's not that outrageous. It's going to be a 100x from where we are now.
+
+And I look at, you know, sort of being in and around this space giving advice to clients on this for the last nine years, nearly 10 - the end of the year, we'll be in our 10th year doing this. We've got clients sitting on 150x return in Bitcoin. And that's in less than 10 years.
+
+(0:08:05) So I look at this and think, well, we're now getting larger pools of capital. We're now getting, you know, innovations like the Bitcoin Treasury companies - they're liquidity sinks that are basically taking all of the available Bitcoin off the market.
+
+And I actually think this is going to speed up, you know, Samson's Omega candle or my bullish predictions because we now have Bitcoin sinks that are going to take all the available Bitcoin. And by the very nature, their reason for being - these Bitcoin treasury companies cannot sell the Bitcoin. So that Bitcoin is never coming back to market. They really have to muck things up dramatically or a regulator needs to step in in order to, you know, help those coins be redistributed.
+
+(0:08:50) And I look at this and think we're in a space in time that I never thought we would be this quickly. And I didn't think it would come from Bitcoin treasury companies. The innovation that Saylor has brought to the market is something that I never dreamed of. And I mean, he will go down as a financial wizard. There'll be business case studies. He'll usher in a completely new paradigm in traditional finance.
+
+And he is, I think, the person most responsible for bringing in a playbook that we can all copy. And this is where I think Andrew - I'd be shocked if he hasn't had help from, you know, the Strategy team in implementing this.
+
+(0:09:30) And what's really funny about this is in every other market, every other facet of life, it's a zero-sum game. But this is a game we can all play, help each other, and everyone benefits because we push the price up.
+
+And this is where, sort of to look at this, you know, the next say 5 to 10 years, I think we'll see a $10 million Bitcoin, which is 100x from here. And, you know, so we get to 10 million. And people look at this - and this is going to sound outrageous - but I actually think we'll see a billion dollar Bitcoin in less than 20 years.
+
+(0:10:05) And the ironic thing is, it says, "Yeah, a billion dollar Bitcoin." And to me, it makes perfect sense. Yeah, that's a 100x jump from here to 10 years. And then 10 years after that, it's another 100x jump. And conceptually, that sounds so hard to do. But if you peel back the layers and think about this - the more and more that these Bitcoin treasury companies take off the market and hodl, the longer and the more hodlers there are in the market who take Bitcoin off the market and don't have any available, the further integrated into our financial system that Bitcoin becomes.
+
+I believe it's the purest form of collateral we have ever seen - that everything will be backed by Bitcoin. At which point in time, you'll wonder whether or not, you know, what is the reason for being when it comes to fiat.
+
+(0:10:55) And if we just stripped everything back today and we had to apply the metrics that we've got today for valuing Bitcoin - and we had all of those things in place where we had the Bitcoin sinks with the Bitcoin treasury companies holding it never to bring it to market, we've got, you know, lending facilities around so that no one ever has to sell their Bitcoin to monetize it, they can just use lending facilities to do that - if we were looking at that today, we've got roughly $7 trillion worth of basically transactions that happen on a daily basis that would need to be facilitated by whatever is minted on the day.
+
+Now, we only mint 450 coins today, which tells me if you divide, you know, 7 trillion per day by the amount of minted Bitcoin, it comes up to a number that's more than 14 billion. Now, I'm not saying it should be 14 billion, but that's a pretty simple way to get us into the billions.
+
+(0:11:50) And I'm pretty certain there are a whole host of other measures that can get us there. And this is where, once 8 billion people are actually focused on that - and this is a game that 8 billion people can collectively play for the benefit of all mankind - you know, billion dollar Bitcoin isn't beyond the realm of possibility.
+
+**Host:**
+(0:12:10) Just blows my mind. That's just - yeah, that's something else. Thank you. So, a bit more on to Bitcoin treasuries then. Do you see that as something that's speeding up kind of where you're at with your predictions? Or do you think it was inevitable? You know, what's your kind of take on the difference it's making and why?
+
+**Peter Dunworth:**
+(0:12:35) I think it's a huge catalyst for bringing what I call the forever cycle, or what British Hodl calls the forever cycle. And I'm going to say, I find British Hodl very, very amusing.
+
+And I think we might be at that point in time where the demand created from these Bitcoin treasury companies is going to be sufficient to create escape velocity when it comes to price.
+
+(0:13:00) And this is where I want to take a step back to talk about, say, Zeno's paradox. I'm not sure if you're familiar with that, but I think the TL;DR on Zeno's paradox is that it's very easy for small companies to have much faster growth than the big companies.
+
+And Zeno's paradox is basically the thought experiment that you're a meter away from the wall and every step you take you get 50% closer to it. Now Saylor's on his thousandth step and he's a millimeter away from the wall, and Smarter Web Company has just taken its first step.
+
+So you look at the astronomical gains it's made and it's like, "Oh well, you know, that's the case." But as you approach the wall, it gets infinitely harder to achieve that.
+
+(0:13:45) And I look at this and think what Saylor's building out at the moment is going to be paramount - that can be copied in the UK market. This is where I think Smarter Web Company is in such a unique position because basically London is a huge market globally, has access to European markets, it's got great connections with the US, it's a mega market when it comes to that.
+
+And this is where I think Smarter Web Company will be a beneficiary of that, much like say MetaPlanet's got some very unique nuances to that market - it's basically got really cheap capital, it's had no growth for 30 years, it's had no income for 30 years, it's got a high savings ratio, it's basically provided the yen carry trade, it's probably the largest market for the Eurodollar. All those things are really powerful.
+
+(0:14:30) But I look at, you know, the UK has got its own benefits. And this is where the locally domiciled leader in that marketplace is going to dominate and then have most of the capital flow.
+
+But back to this escape velocity or, you know, that Saylor's building with all of his debt instruments - this to me is going to be the very thing that creates the demand and the marginal price of Bitcoin, because he's basically creating that siphon from the debt markets, the bond market, into Bitcoin.
+
+And this is a playbook that no doubt Smarter Web Company, MetaPlanet, everyone will follow with their local or domestic market. But it's a really clever way of reinvigorating and putting a second step into that S-curve.
+
+(0:15:15) So I look at this and I think, you know, Saylor with Strategy - he's basically gone through the S-curve and flattened out on the equities market. And what he's built with all the credit products is a secondary S-curve to now swallow all of the capital out of the bond markets. And the best part is he gives the playbook away for free. And you guys can do that to the UK bond market and MetaPlanet can do it to Japan.
+
+And every local industry will have their anointed Bitcoin treasury company to do the thing. And the best part is that every Bitcoiner on earth benefits from, I guess, the aggressive accretion of these Bitcoin treasury companies.
+
+**Host:**
+(0:15:55) Okay, so this is kind of more of a generic question. What do you think makes a successful Bitcoin treasury company? You know, let's say 10 copycats turn up in one jurisdiction - what's going to set one of those apart from the rest?
+
+**Peter Dunworth:**
+(0:16:12) I think the number one thing is commitment. So, what is the commitment of the team - the management team, the CEO, CFO, COO, the Chief Bitcoin Officer? You know, how committed are they to this decision to become a Bitcoin treasury company?
+
+You look at GME - they said, "Oh yeah, we're doing it," and the whole market started frothing over it. And then they came out with the announcement at Vegas and the whole market went, like, just very, very substandard when it comes to expectation versus reality.
+
+(0:16:45) And this is where I'm sort of reminded about the story of the pig and the chicken when it comes to breakfast. I'm not sure if you're familiar with that story. So, talking about putting bacon and eggs on a plate, and you know, in short, it's a story of commitment. You know, the chicken's serious because it's their egg on the plate, but the pig's committed because it's his ass on the plate.
+
+And this is where any of these treasury companies, I think, are going to be wildly successful if from the top down they communicate. Firstly, they need to communicate, and they need to be 100% committed to the decision. If there is any hint that they're not committed to this decision on turning and pivoting from whatever company they do, whatever business they've done, into a Bitcoin treasury company, the market and the Bitcoiners, the investors are going to sniff that out immediately and they're going to abandon ship.
+
+(0:17:35) So I look at that and think commitment is the number one thing that all of these Bitcoin treasury CEOs and companies need to convey to the market - that they are 100% committed to this decision and they will make that happen. And I think that's played out with everything we've seen to date.
+
+**Host:**
+(0:17:52) So, you know, Smarter Web Company is backed by UTXO Management via their 2K Capital substitute, which, you know, aligns with MetaPlanet. MetaPlanet have had, you know, crazy success over the last 12 months, and it's great to see - they've eaten up the Japanese market.
+
+So, with Smarter Web being backed by the same investment company, UTXO Management, as MetaPlanet, it seems like, at least from where I'm sat, that they're executing the playbook which, you know, from Saylor, but faster. Do you feel like with each iteration of Bitcoin treasury companies, they're working out how to sort of make it more efficient and really have to deliver quicker than the previous one? Do you think that's what we're going to see in four months?
+
+**Peter Dunworth:**
+(0:18:35) I draw a lot of parallels to a fellow Englishman, Bannister, with the 4-minute mile. People told you it was impossible. And, you know, people said to Saylor, "That's not possible. You can't do that. That'll never happen." Anyway, he's forged ground. He's beaten a path, a track that everyone can follow. And sure enough, there's going to be copycats all over the world that are going to do exactly what he's done. And this is the outrageous thing - he's supportive of and helping that happen.
+
+(0:19:05) And I look at this and think, hats off to Smarter Web Company in, you know, having the foresight to say, "You know what, we're going to do this. We're going to give it a crack and make that happen." And you guys are Smarter Web Company, fastest growing company in this space. It's, you know, a great story for the UK.
+
+What's really funny as a traditional investment adviser - I can't think of the last investment company that I would have put money into that's UK-based. In short, Europe has been uninvestable, including the UK. And I know Brexit happened and the rest of it, but I'm just going to lump the UK into it and just say the UK, UK worse off, more so than say Europe, has been uninvestable.
+
+(0:19:50) Like, what on earth do you guys do there anymore? Nothing. Like, nothing within the FTSE that I want to own. Like, even the insurance companies and, you know, the banks - they're not as great as they used to be. And that was really a London-centric thing.
+
+I look at this, I think, wow, look at this. This is the first UK company that I personally have put money into in decades.
+
+**Host:**
+(0:20:15) So you're invest - I have put money in. So, full disclosure.
+
+**Peter Dunworth:**
+(0:20:20) Yes.
+
+**Host:**
+(0:20:22) Amazing. Welcome aboard.
+
+**Peter Dunworth:**
+(0:20:24) Thank you.
+
+**Host:**
+(0:20:26) Yeah, it kind of feels like Smarter Web Company is bringing back the sort of excitement in the UK market. So the performance of UK equities has been lackluster - let's put it kindly. It's been shocking.
+
+And all of a sudden, there's this company that - maybe unsurprisingly because of that performance - is, you know, the fastest growing company in the UK. It's already the biggest on the Aquis exchange. It's moving at such a speed that the trajectory kind of says, you know, FTSE 100 maybe by the end of the year isn't completely out of the question. Which I think is going to blow some minds in traditional finance. What do you think?
+
+**Peter Dunworth:**
+(0:21:05) I think it's well and truly within reach. I look at what's happening and I think the sticking point with this is going to be the regulators and the FTSE itself. Do they want to have a Bitcoin treasury company?
+
+My concern is that the UK regulators are going to snatch defeat from the jaws of victory and kosh it. That's my biggest fear. That is the biggest problem I see with this - that, you know, the UK have just had a habit of really mucking good things up.
+
+(0:21:40) And I look at this and think, you know, not - there's a lot of brilliant things about the UK. It's very conservative. It's, you know, comes from traditional values. It means that things operate a certain way that don't go outside the box.
+
+And my concern is that the regulators and the, you know, the powers that be to put it into the FTSE will look at this and see that as something that they don't want to endorse for whatever reason. And that to me is the biggest threat to the Smarter Web Company. That would be an absolute travesty and a tragedy for the UK as a whole if they kosh that.
+
+(0:22:15) And what's going to be really interesting is I think they would meet all of the conditions for entry from a financial perspective. It's just a matter of whether or not the regulators and the powers that be are going to approve Smarter Web Company joining the FTSE.
+
+**Host:**
+(0:22:30) I mean, yeah, that's always been my biggest sort of risk that I've focused on. There's two things that kind of at least somewhat allay my fears on that. One is - do you remember Argo Blockchain?
+
+**Peter Dunworth:**
+(0:22:42) Yeah, I do. I did pay attention to that.
+
+**Host:**
+(0:22:45) You know that they got on FTSE listed. So, that kind of opens the door a crack at least. And the other one was - I don't know if you noticed, but the FCA are, it would seem, intending to open up access to crypto ETNs in the coming months, which is a bit of a reverse of the previous trend of locking down. Yeah, kind of following America's lead, which again - it feels like maybe that's the beginning of the turning of the tide on the regulatory front. I know it's still an awfully long way to go, but what do you think?
+
+**Peter Dunworth:**
+(0:23:20) You know what? In maybe the most glowing light possible, maybe it won't matter if it doesn't get listed on the FTSE.
+
+You know what would be funny? If it didn't get listed on the FTSE and then this little exchange ended up being bigger than the London Stock Exchange and they fumbled the ball and just totally blew it. And all of a sudden, this little exchange just rockets on the back of the Bitcoin Treasury companies into prominence and being a far bigger exchange than the London Stock Exchange.
+
+(0:23:55) And with everything that's gone on in the UK in the last say 20 years, I wouldn't be surprised if that happened. So maybe there's nothing to worry about. Andrew will just sail through, and if FTSE says no, it's right, we'll just do it without you.
+
+And I think, on a serious note, there's a groundswell of discontent. I don't know if this is what we see in the news, but I feel like this just isn't a UK-centric thing. I think this is a Western democracy thing - that there is a huge amount of discontent and people are searching for hope in a market that is otherwise void of it.
+
+(0:24:30) Smarter Web Company is a great story and it's one of hope and inspiration. And I think that's based on the fact that it is powered by Bitcoin, which is hope and inspiration.
+
+So I look at that and think it's going to be a story that gets adopted and will go into, I think, you know, GameStop fame locally for the UK market. There'll be, if there isn't already, there'll be Reddit boards and all sorts of fanaticism around this. Because this is a company that is actually bringing hope to the UK where I think a lot of people feel quite despondent at this point in time.
+
+**Host:**
+(0:25:05) What's your kind of impression of SWC so far? And I guess, you know, you just said you've invested. What about it kind of said, "Yeah, okay. I'm going to put some funds on the line with this"?
+
+**Peter Dunworth:**
+(0:25:18) I think Andrew is a very impressive person. I think he's shown a commitment to the Bitcoin Treasury ethos that is one that is backable. The initial growth and the size of it - I think it's one that we're in a marketplace at the moment which is, I think, it's not a matter of the big eating the small, it's the fast eating the slow.
+
+And work rate has been second to none in this space. He's obviously starting from a very small base, so there is a lot of upside to that. But he has great energy. He presents very well. He has probably the number one thing that I think is of import when it comes to this strategy, which is commitment.
+
+(0:26:00) So, that's something that is investable. But if those sort of measurements or attitudes change, then I think that's worth reassessing.
+
+But I look at this and I think these Bitcoin treasury companies to me represent a very similar path to what has been done with Bitcoin - in that, you know, you start at the top of the rabbit hole and then you learn a little bit more. So you go a little bit further, a little bit deeper. And basically, anyone who's at the bottom of the rabbit hole knows all of those trials and tribulations that a Bitcoiner has to go through in order to get to the bottom.
+
+(0:26:35) And I look at that and I think, just as a Bitcoiner enters a rabbit hole, a company enters the Bitcoin treasury rabbit hole. And we've seen what happens with Saylor, with MetaPlanet. Those companies are further down the journey. Smarter Web Company is, you know, on pace to achieve what those did, but they're in a very different market.
+
+And I look at this and think, you know, we now have a pattern emerging. We had an outlier in Strategy who - you know, Saylor went on every podcast, he did every media appearance that he was asked to do for the last four years. The man has been the greatest advocate that Bitcoin has ever had and pushed so hard on that, never mentioning Strategy. He let others do that, but he was pushing Bitcoin the whole way because that was what he could talk about.
+
+(0:27:20) And I look at that and think, it took four years of him absolutely hammering, hammering this message before MetaPlanet picked up and said, "Yeah, we'll do that too."
+
+I look at this and think, and now we've seen MetaPlanet do it. They've had outrageous success. We've seen Smarter Web Company do it, on track to achieve the same level of success. I think just simple pattern recognition - you look at this and think, right, okay, well, they're doing everything they did and that company did, and these companies have gone from, you know, billion dollar enterprises to hundred billion dollar enterprises. And obviously MetaPlanet's not there yet, but they're on track to do the same thing.
+
+(0:28:00) It doesn't take a genius to think, well, there's a very high likelihood that they'll achieve the same level of outcomes they've got over the same period of time. But they've got the benefit of being able to, I guess, achieve those outcomes at a shorter period because they're getting help from everyone who's done it before.
+
+**Host:**
+(0:28:20) Yeah. And, you know, then you got the likes of Nakamoto saying they want a Bitcoin treasury in every jurisdiction. It feels like we're at the beginning, gentle bit of the swirl of how big this is going to get. There's a tidal wave coming and we're just kind of paddling around in the start of that.
+
+**Peter Dunworth:**
+(0:28:40) Yeah. We don't realize what's coming, but there is a wave of capital that we can't comprehend the size of that needs to fit into this tiny finite resource or asset called Bitcoin. There's only 21 million of them.
+
+I look at, you know, what we've got on the agenda. You know, Michael Saylor - he'll get to a million. He'll probably get to 2 million. MetaPlanet - they might get to a million. Smarter Web Company could get to a million Bitcoin. All of a sudden, there's four, five million that are off the market forever.
+
+(0:29:10) So what happens when that absolute scarcity meets infinite demand?
+
+And this is to my point around the Bitcoin treasury companies. I'm not worried about them puking their coins up because the second they sell a coin, their whole business model is over. And I dare say Andrew hasn't had this level of success ever in his life, and he's very intent and has aligned interests and incentive to make sure that this keeps going. I mean, why would he change that?
+
+So, I think it's just a matter of - and would shareholders allow him to do that? I don't know. But this is where, you know, there's a clear path to this. And this is what's going to bring on the Omega candle that Samson talks about. I think, you know, we're going to run out of Bitcoin.
+
+**Host:**
+(0:29:55) Yeah. I mean, it's not - at least it seems at the moment. What do you think Smarter Web Company need to do from here? You know, they've got through their early infancy. They're still in infancy. They're gaining traction. The raises are getting bigger. You know, the Bitcoin buys are getting bigger. It's all being done currently through equity raises. Where do they go from here, do you think? Like, what would you do if you were Andrew?
+
+**Peter Dunworth:**
+(0:30:20) I think you need to crush that MNAV premium at the moment. What's it currently trading at?
+
+**Host:**
+(0:30:26) I couldn't tell you this second. It was 15 and then it dropped to about - I'm including cash in this - it dropped to about seven or eight after the last raise. But then it's gone up again already and they haven't even bought the Bitcoin yet because the money doesn't land until Thursday from that raise. So, I guess it's probably trading 12, 13, 14, somewhere around there.
+
+**Peter Dunworth:**
+(0:30:48) I think it might actually be more like double that.
+
+**Host:**
+(0:30:52) Including cash.
+
+**Peter Dunworth:**
+(0:30:54) Wow.
+
+**Host:**
+(0:30:55) Yeah.
+
+**Peter Dunworth:**
+(0:30:57) I think you really need to - if I'm Andrew, you'll know the exact numbers, but that premium needs to be brought down dramatically. I don't think anything more than 10 is healthy from a long-term. And I understand the juxtaposition that you're facing where, you know, you really want that MNAV to be 10, 20, call it 100, because for every dollar in, you get 100 Bitcoin. It's a conundrum. It's really a choice.
+
+(0:31:30) And this is where I think when the premiums are substantially over 10 for an extended period of time, that welcomes in people who are going to short the stock or sell to capture that premium. Whereas if it's sub 10, then you get to capture that premium and set the premium through time. So you need to have that consistency.
+
+And to be fair, he knows this better than me. So I find it amusing asking that question because he's all over this. He does this stuff back to front. And I feel embarrassed trying to give him a lesson on this. But yeah, you asked the question and he's well aware of it. He knows exactly what that is. You can't let it go too low. He can't let it go too high.
+
+(0:32:10) I dare say if he looked at it today, which is, what is it, the 16th, 17th, 16th of June, it's trading at multiple more than 10. I think he'd look at that and think, "That's too high. We need to squash that down. We need to issue a whole lot more." And, you know, "We need to capture that premium because that delivers the most value to our shareholders." And he knows what the game is better than I. So, I'll just ignore what I've said, Andrew, and you just keep doing you.
+
+**Host:**
+(0:32:38) So, what we're saying is you need to get Learn to raise big to crush that MNAV. We could do that too.
+
+You know, you're based in Australia. As far as I'm aware, there's only one Bitcoin treasury that's set up so far - Locate, LOC on it. What's your take on that?
+
+**Peter Dunworth:**
+(0:32:55) I don't know enough about it, to tell you the truth. And I think they're very early to the party. So, to the conversation we had earlier about commitment - I hope they are the pig, not the chicken when it comes to being committed to this.
+
+And I think if they are the pig, not chicken, they're going to be rewarded and the market will throw money at it. And I think the Bitcoin treasury companies that adopt this will be the biggest company in their market.
+
+(0:33:25) So Locate has, ironically, an opportunity to become bigger than all of our banks. And what's crazy about the Australian stock market is that we have two things that we do better than basically anyone on earth. One is mining and the other is banking. Our banks - we've got four of them, five of them if you include Macquarie - are basically the biggest banks per capita in the world by the proverbial mile. Nowhere else on earth comes close to the size of this.
+
+And to give you an indication, I think the top four or five banks, the banking sector accounts for nearly 40% of our stock market, which is insane. And all they do is facilitate transaction, savings, and loan accounts.
+
+(0:34:05) And if Locate were to dedicate themselves to this Bitcoin Treasury company business, they have the ability to be bigger than all of these banks. They have the ability to be bigger than the biggest miner - like not Bitcoin miner, the biggest miner BHP. And it's going to take them maybe 10 years to get there. Now, whether or not they're up for that journey or not, I don't know.
+
+Same with Smarter Web Company. You've got that opportunity in the UK. MetaPlanet's got that in Japan. Strategy will achieve that globally and be the biggest company on earth, I believe. And it'll deliver Michael Saylor as the wealthiest man on earth. And truth be told, I'd be so happy to see that. I'd be absolutely thrilled for him. I think that's the least he deserves for putting Bitcoin on the map and, you know, raising that profile.
+
+**Host:**
+(0:34:50) Yeah, I mean, he's the GOAT. He deserves everything he gets from Strategy's success because he's helped Bitcoin as well in his space. So, yeah, really happy that he did what he did.
+
+You mentioned before we got started about, did I have cold storage, was I prepared to sell it? And this might upset some of the maxis what you're going to say, I think. But where were you going with that?
+
+**Peter Dunworth:**
+(0:35:15) That just - what I was going to talk to you, and probably an offline conversation is better than an online one, but we're here, so let's do it.
+
+We have created a loan product which allows you to borrow 95% on your Bitcoin. There's no counterparty risk. There's no margin call. You borrow 95% and the interest rate's 5%. And it's denominated in Bitcoin.
+
+(0:35:45) And so I look at this and think this loan product is the perfect loan product for someone who doesn't want to sell their Bitcoin and incur the taxable event of that, and access the equity that they've got in their Bitcoin stack and borrow on that to go and buy a faster moving horse in, say, Smarter Web Company.
+
+And I look at that and think this product is going to be wildly popular amongst the Bitcoin treasury bros because it allows you to unlock the equity. And let's face it, the only people who are in Bitcoin treasury companies now are Bitcoin guys who understand Bitcoin and then they understand the financial markets and the implications of leverage and how they can outperform Bitcoin.
+
+(0:36:25) And I think, to me, on a risk-adjusted basis, this loan product is going to allow Bitcoiners to unlock the equity that they've got in their Bitcoin without incurring a taxable event, but most importantly apply that to a Bitcoin treasury company that is going to allow them to outperform Bitcoin in a Bitcoin-denominated sense and effectively yield Bitcoin to add more Bitcoin to their cold storage. That's - that to me is the outrageous thing about this.
+
+**Host:**
+(0:36:55) Sorry, it's blowing my mind. I'm just trying to take all that in. Is this product available now?
+
+**Peter Dunworth:**
+(0:37:02) Yes, we are in beta testing at the moment. And if anyone is interested in it, they can go to loanmycoins.com and put their details down. And as soon as we're able to, we'll be able to deliver that.
+
+But I can tell you, as someone who deeply cares about Bitcoiners and is open and transparent with everything I do, this is a loan product that I've done myself. So this is something I helped create. This is a product that I want to create for myself because the existing loan products that we've got out there - they have counterparty risk, they've got margin calls. And the other problem that we've got is that they've got very low loan-to-value ratios on them.
+
+(0:37:45) You know, in order to say get $500,000 US, you need to put up 10 Bitcoins for collateral, and then it's subject to counterparty risk and you could potentially lose it in a margin call.
+
+Whereas this loan allows you to put up five Bitcoin to get exposure to $500,000. And alternatively, what it allows you to do over every other lending product in the market - if you're really bullish and think this is a great strategy for yourself - rather than getting 500,000 with 10 Bitcoins, you can get a million dollars US with 10 Bitcoins and get greater exposure.
+
+(0:38:20) Now, that's a conversation for people to look out for and figure out themselves. But this is a product that I wanted for myself personally and basically worked really hard to bring to market because I thought, well, I see an opportunity here to outperform Bitcoin. It's a way for me to, with a very small percentage of my stack, risk that with known risks in the marketplace, to effectively outperform Bitcoin and add to my Bitcoin stack.
+
+And this is where the work I've done on these Bitcoin treasury companies - I look at this and think this isn't like a savings account for your Bitcoin where you're going to get 3% return on your Bitcoin. This is an asymmetrical bet on an asymmetrical bet.
+
+(0:39:00) And I look at this, in the calculations I've done. I look at this and think for every one Bitcoin into these Bitcoin treasury companies over the next say two to five years, there's an opportunity to turn that one Bitcoin into somewhere between 4 to 20 Bitcoin.
+
+And once people understand that opportunity, they're going to be like, "Right, that's the loan product I want because I get maximum exposure to that and I get no counterparty risk, no margin call, and it's a 5% interest rate. But I get to take that equity and that capital and apply that to a faster moving horse with, say, the Smarter Web Company."
+
+(0:39:40) I think there's an opportunity to turn one Bitcoin into somewhere between 4 to 20 Bitcoin. Now, that doesn't come without risk, but that's the kind of investment that I want to make with my Bitcoin.
+
+I don't think getting a 3% return on my Bitcoin with a savings account represents a good return or good use of my Bitcoin. I think that exposes me to a massive amount of risk that I don't want to take. But I'm prepared to risk a percentage of my Bitcoin stack if it means I can 4 to 20x the Bitcoin that I'm applying to that investment.
+
+And this is where these Bitcoin treasury companies represent that opportunity in my world and my calculations.
+
+**Host:**
+(0:40:15) That's amazing. Thanks for sharing that even though you weren't maybe quite ready. Thank you so much for coming on, Peter. It's been a pleasure to talk to you. It's the first time we've met and, you know, you made me more bullish just by talking to you. Where can people find you? You know, Twitter, on the internet?
+
+**Peter Dunworth:**
+(0:40:35) Well, the internet's really easy. We've got a website called thebitcoinadvisor.com. So, it's advisor with an ER, not an OR, which most Brits would be familiar with, and us being Australian aren't. Feels very American.
+
+But you can also find me on X at Peter BTC Advisor, again with an ER. So, any questions, anything I can help with - we specialize in helping people procure and secure Bitcoin.
+
+(0:41:05) But I've got to say, it's fun watching these Bitcoin treasury companies really give it to traditional finance and bring Bitcoin in the house. And it feels like the foxes in the hen house with these treasury companies. And I've got to say, I'm rooting for you and wish all of these companies the greatest of success because I think ultimately it will be very positive for Bitcoin.
+
+**Host:**
+(0:41:30) Thank you. Cool. I think that's it. Unless there's anything you wanted to cover?
+
+**Peter Dunworth:**
+(0:41:35) No, I just think keep doing what you're doing. People are going to absolutely love it. And I think there'll be a groundswell of support locally. And this is where, I think, it's going to be fun watching these Bitcoin Treasury companies evolve because there's going to be, you know, it's like the Olympics - you know, a UK version, a Japanese version, American. I'm not sure if the Australian version will get up, but I'm rooting for them and want Australia to be the best.
+
+And look, it's a fun, productive competition that I think is beneficial for everyone in Bitcoin. So, wish you luck. Hope you build the community out to be a monster.
+
+**Host:**
+(0:42:10) Thanks. Yeah. And, you know, keep in touch as well because I love your content. Even if you're going on other podcasts and stuff and I've missed it, just drop me a message and I'll share it on X and stuff like that because I love your content. Yeah. Just how super positive you are is awesome.
+
+**Peter Dunworth:**
+(0:42:28) Appreciate it.
+
+**Host:**
+(0:42:30) Cool. Well, thank you, Peter. Thank you so much.
+
+**Peter Dunworth:**
+(0:42:33) I really appreciate you having me.
+
+---
+
+**End of transcript**

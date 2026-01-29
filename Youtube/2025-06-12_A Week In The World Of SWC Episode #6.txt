@@ -1,0 +1,342 @@
+# A Week In The World Of SWC Episode #6
+**Date: 2025-06-12**
+**Video ID: uTOQfnoaoDg**
+**URL: https://www.youtube.com/watch?v=uTOQfnoaoDg**
+**Duration: ~60 minutes**
+**Channel: SWC Community**
+**Host: James**
+**Guest: Andrew Webley (CEO, The Smarter Web Company)**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- Weekly roundup: 45 BTC bought, £13.4M raised, OTCQB listing live, share price peaked at 149.76p
+- OTCQB US listing success: ~40% of volume now on American market, ahead of schedule
+- Community milestone: passed 1,000 members; growing publicity from Adam Livingston, Adrien Morris, Marty Party, Micro to Macro
+- Capital markets strategy: equity preferred over debt/convertibles at current stage; multiple offers declined due to unfavorable terms
+- UK regulatory framework: transparency rules, fair disclosure to all shareholders simultaneously
+- 1,000 Bitcoin target in 4 months progressing well; longer-term targets to be defined after 6 months as public company
+- Institutional investor interest growing: mix of UK and global capital, no names disclosed until TR1 filings
+- Retail participation pathways: sophisticated investors (£50k+) can contact company; future LSE listing could open retail access
+- London Digital Assets Conference appearance (Tuesday); session oversubscribed by 50%+
+- Key person risk addressed: operational structure already in place; growth-focused hires imminent via upcoming RNS
+
+---
+
+**James:**
+(0:00:00) Back. Um, good to have you back on, Andrew. Um, very grateful that you can spare the time with us. Um, I thought I'd start this quickly with just a little roundup of the last seven days. Um, and sort of a bit of some of the publicity that's gone on more recently. Um, so in the last seven days SWC have bought 45 Bitcoin. Um, they've raised 13.4 million pounds with the OTCQB listing has gone live and the share price peaked today at 149.76p. How are you feeling about all that, Andrew? Because that's one hell of a week.
+
+**Andrew Webley:**
+(0:00:45) Yeah. So, since we started um life as a public company, which was, you know, six, seven weeks ago, was it five weeks? I'm not really sure how long it's been, to be honest. Feels like quite a long time. Um, you know, we've just tried to get better every single week. Um, you know, it's been a good week. Um, you know, we had a really well-supported raise, um, you know, you know, a week ago, as you say. Um, you know, we're continuing with the strategy. Everything's going well, you know, on the web design side of things. You know, we're really busy. Um, you know, the acquisition stuff is all, you know, under control as one would expect. Um, the treasury side of things is, you know, I believe it's being deployed in the way that I think is right. Um, so, you know, we're getting there. We're just getting started, aren't we?
+
+**James:**
+(0:01:30) Yeah. Yeah. Yeah.
+
+**Andrew Webley:**
+(0:01:32) I'd said that quite a few times actually when I put the slides together for Vegas I obviously had to come up with a title and um you know I'll probably still be saying that in six months you know because you know that's still quite young isn't it? If you're trying to build a really big successful company that's respected globally then um you know 6 months into it, nine months into it, 12 months into it is, you know, I think we can still use the same phrase. Um, I was really pleased um with the OTC listing because um we announced fairly early on that we had started that process. Um, and uh Jamie who works in the business um has worked really hard on that. You know, there's a lot of, you know, as with everything in a public company, there's a lot of forms that need to be completed. Um, and um, he pushed really hard on that. Um, he's got a really good relationship with the OTC people and I was so pleased um that we got it in, you know, a week, two weeks ahead of schedule. Um, it was quite nice as well because um it was quite unusual with the um the way that the stock was already trading in the US. Um, you know, and you know, but being relatively hard for people to buy. Um, but that's quite unusual, you know, a smaller UK company um even with an OTC listing may not get that much volume but to have that before and then to see yesterday I worked it out last night and I think about 40% or something like that, not quite 50%, of the volume was on the American market.
+
+And then, you know, I was getting ready to do this podcast which will come out on Monday last night um 10:00 our time, so 10 till 11:00, and then I had a telephone call afterwards so I have been putting the hours in um everyone will be pleased to hear I hope. Um, the, you know, I got a message from someone saying have you seen this YouTube video and you know there's more stuff just coming out all the time. So I'm quite looking forward to actually 2:30 today to see what the volume's like in America today. Um, if you remember back to when we started trading in the UK, you know, you probably had a week, two weeks, 3 weeks, you know, when, you know, the volume builds and stuff. And I've got no reason to think that the US will be any different to that. Um, you know, and that will really help um in terms of, you know, our sort of, you know, developing, you know, global audience and stuff. And, you know, on that note, this morning I saw the community has got past a thousand visitors, not visitors, members. Um, you know, so that's growing. Everything is heading in the right direction and all we can do as a business is keep, you know, sticking to the mission which hasn't actually changed since we started. Um, keep trying to do our best for everyone which is obviously what we're doing.
+
+**James:**
+(0:04:15) Yeah. And kind of on the publicity front, um, you know, just some names that I've noticed down over the last just over 24 hours maybe. Um, mainly I think due to the OTCQB listing going through. Adam Livingston's done an amazing video that is so so bullish. Um, it's hard, I had to pinch myself. Um, and I'm really glad I waited till this morning to watch it because um I don't think I'd have slept last night. Um, Adrien Morris has given us a mention. Uh, Marty Party, Micro to Macro, MS MSTR True North name dropped us at the beginning of theirs. Um, and obviously, you know, Tim Kotzman's getting you back on. And I think he said it's the 16th that's coming out. So that's one for everyone to keep an eye open for. I mean, what's it like seeing, I don't know, the reach of SWC expanding, you know, particularly over the water in America, but um just, you know, it's, well, the exponential growth in community members kind of seems to be matching the Bitcoin accumulation strategy um and the share price. You know, it's all kind of number go up. What does that feel like?
+
+**Andrew Webley:**
+(0:05:20) Yeah, it's obviously pretty cool. Um, you know, it's just it's nice for lots of people to see all the work that we've put in. Um, you know, and why we're doing it and everyone to understand everything. Um, you know, it's, um, it's, you know, pressure is the wrong word, I suppose, you know, like because there's more eyes looking at you. Um, you know, but it doesn't really matter whether you know you've got 100, a thousand, 10,000, 100,000 people looking at you if you're delivering the same strategy. The business is the same as it was when we IPO'd um albeit with quite a bit more capital. Um, you know, it's, you just have to have a, you know, sort of, you know, stick to the mission. It's no more complicated than that really, you know. The numbers are different, you know, you buy, for example, on the treasury side, you buy more Bitcoin, you know, than you bought, you know, sort of a month ago, you know, in a day, for example. And, you know, but we've got all the business processes, the business processes have been geared for, you know, without changing a single thing, probably 10 times as much money as is flowing through to, you know, to sort of handle those things. And we also have already spoken to the people that will help us when we get past that particular um, you know, stage as well.
+
+So, it's great though, you know, like take the videos that you mentioned, all those names, you know, like what people have to remember is that, you know, I haven't met a lot of these people before. I've never spoken to some of these people. These are all people like you and I that love the space, that see that we're doing, you know, an okay job. Um, that, you know, like to talk about it and it's really nice to see, you know, other like-minded people, you know, think that you're doing an okay job. Um, so it's, yeah, it's pretty cool.
+
+**James:**
+(0:07:00) So on the um on the basis of doing an okay job um which is very British of you. Um, I'd just like to share this chart because it's my favorite. Um, does the orange line look like an okay job to you?
+
+**Andrew Webley:**
+(0:07:15) Um, well it could be steeper, couldn't it? Um, so, um, yeah, I'm obviously happy with the way that we're executing the strategy. Um, you know, I'm so I'm not disappointed. I'm not trying to say that I'm disappointed. I'm obviously not disappointed. I, you know, I think that everything's gone okay so far, but, you know, the more important thing is what happens next, you know. So, you know, if I keep doing what I've been doing, then, you know, I'll still be saying that I've done an okay job. You know, um, you know, I don't see anything changing on that trajectory. Um, you know, what line would we have to get past? It's about 500, the red line above us. So, you know, obviously that's the way I look at things. I look at, you know, as I've said to you before, I look at targets, milestones, continuous improvement, and all those things. So, um, you know, I think the target is pretty clear for everyone to see, the immediate target. Um, and then, you know, where we go from there, you know, like, but at the same time as saying that, you know, if it took me an extra half a week to do something, it probably wouldn't actually affect the stats that everyone likes looking at for us. So, you know, we just keep steering the ship in the right direction and um, you know, it should be okay.
+
+**James:**
+(0:08:25) Okay. That chart though, that's one of my favorite ones as well, you know, and obviously selfishly, you know, I do love the Webley tracker. Um, I think Nick's done an amazing job of those tools and, you know, purely as a developer speaking, you know, I think they're really, really smart.
+
+**Andrew Webley:**
+(0:08:40) Yeah, that's my favorite one. Needs more orange though, doesn't it?
+
+**James:**
+(0:08:45) It definitely needs more orange. I'm sure there's more orange to come. Um, just on kind of stats and things um before we dive into the questions. Um, so this was from Crab Apple on X yesterday. Um, so if we were listed on the LSE, uh, our turnover in GDP of shares traded, we would have ranked at number 108th. Um, that's a pretty impressive stat for a— Oh, I'm not sharing the right. Let's just get that right. I'm just going to share the window that way. Okay. So, yeah, 108 in share turnover yesterday, uh, if we were listed on the LSE. That's not bad for a company that IPO'd six, seven weeks ago and is on Aquis, right?
+
+**Andrew Webley:**
+(0:09:30) Yeah, it's not bad. Um, you know, the fact, um, as far as I'm aware of the matter, is that we are the fastest growing UK company this year. Um, probably by quite a big margin. Um, I must reach out to our broker and get the latest stats on that. Um, but I'm pretty damn confident that we are by a good margin the fastest growing UK company. And then if you look at the liquidity of the stock, um, which, you know, is only going to get better, you know, all things being equal, um, then, um, yeah, it's pretty good. Because, you know, you know, I do my shopping at, you know, sort of Tesco's, you know, those sorts of places. And you're looking at us alongside those sorts of companies there, you know, like Tesco's are obviously going to be above us I would imagine in those 100-ish stocks above us. Uh, BP, Shell, um, you know, all these things, Lloyds Bank, you know, Barclays, whatever, you know. So if you take it in the context of that, um, you know, most people will know that you've got the Footsie 100, then you've got the Footsie 250, add the two together that's the Footsie 350. So if not on market cap but on liquidity, it's pretty impressive. Um, you know, and, um, yeah, I'm really pleased to see that.
+
+**James:**
+(0:10:45) Yeah. I mean, we've beaten ITV apparently. So, you know—
+
+**Andrew Webley:**
+(0:10:50) Nobody watches ITV anymore though, do they? I don't think we're allowed to say that.
+
+**James:**
+(0:10:55) Yeah. Sorry, watch ITV. It's just I personally don't watch ITV that often. Is that better?
+
+**Andrew Webley:**
+(0:11:00) Yeah. I can't say it's on my list. Um, okay.
+
+**James:**
+(0:11:05) And just this sort of final um chart bit I wanted to share today. Um, again Crab Apple coming up with the stats that's kind of comparing UK volume to OTC volume. Um, and you know, yesterday OTCQB went live um and look at how the volume shot up. I, you may not be able to comment on this, but I'm confident that today the OTCQB um could actually trade a higher volume than um the Aquis main listing. Um, just looking at that chart and the publicity that's come out in the last 24 hours, you did sort of mention it, uh, that volume tends to increase over time. Um, so are you thinking there'll be a flipping at some point?
+
+**Andrew Webley:**
+(0:11:50) Um, so I think the volume will increase um on the Aquis listing and the OTC side of things. Um, some days it will be less than it was the previous day because that's the way these things work. But over the long term, um, you know, I think it will just, you know, increase. Um, you know, if you look at things like MetaPlanet, for example, with their OTC listing or even their Japanese listing, actually, um, you know, it just gets better and better and better, you know. Um, so, you know, I think we're quite a long way away of saying, you know, the volume is getting, you know, to that sort of stage.
+
+If you look back at us, you know, over these, you know, however many weeks it's been, um, in terms of the consistent, um, you know, sort of lion's share of the volume on Aquis, you know, it's been very, very consistent for a growing period of time. Um, I'm looking forward to seeing whether it does flip, you know, the Aquis volume or not. Um, I wouldn't really want to make a prediction. I wouldn't be surprised if it did. Um, but I don't necessarily think that I need to make that prediction if that's okay. But yeah, we'll see, won't we?
+
+**James:**
+(0:13:00) Sure. Okay, let's dive into some of the questions. Um, so firstly, um, Michael Saylor and MSTR and a lot of the community analysts that surround that um are talking a lot about the sort of three billion, uh, 300 trillion bond market and the capital pools that they're looking to target and all that kind of thing. I think people are getting a bit excited about, you know, what the options are for SWC in the UK. Um, are you able to sort of say which capital markets you're looking at targeting? Um, and maybe, uh, what sort of timeline we might be looking at for the adaptation of the business to go into those?
+
+**Andrew Webley:**
+(0:13:45) Yeah. So, I can talk around it um without going into too many specifics. So, um, you know, my job is to um to grow the business, you know, as quickly and responsibly as possible um across the stated business strategy. Um, if people want to give us capital, um, then that will assist the business in furthering its objective. Um, and you know, obviously I believe in Bitcoin, so that's where I hold capital, you know, pending um, you know, sort of other opportunities.
+
+So I get a lot of people now offering me capital. Um, and um, I think the best way of everyone thinking about this is most of the people that will be asking the question are shareholders, right? So they need to think what would they do in my situation or what do they think is best for the business, not necessarily what are other people doing. Um, because, you know, my job is to do what's right for the business at the time.
+
+So I've declined um quite a few offers of capital because I don't think that it's the right capital for us at the moment. Um, and um, I think I'm probably allowed to say that I find it quite comical that some of the people that I've declined have then come back to me and then I've declined again and then they've come back to me. So clearly they're quite keen.
+
+Um, so I think the best capital for the business right now is equity. Um, if you look at what we've done where every single raise has been a better price, every single raise has been a slightly larger, sometimes quite a bit larger amount of money. Um, I think that's the right way of doing it.
+
+Um, you know, bonds are ultimately debt. Um, are we too small at the moment for debt? I believe we probably are. Um, you know, when, you know, the sort of, um, things are going great, you know, everyone, you know, takes risks and I'm not prepared to take those risks. So, and what I mean by that is let's say we took some debt for example, um, you know, which we may or may not take in the future, but let's say we did that right now. So, you know, it doesn't matter how much, we don't need that for the example, but we take some debt. Now that makes the business more complicated, um, because what if um Bitcoin, where the majority of our treasury is held, um, broadly speaking, um, you know, has a terrible three months. What are the terms of that debt? You know, can that debt be called back? You know, can it be, is it left in? You know, obviously it'd be 0% because, you know, no one in their right mind would agree to any other type of debt um for this particular type of business. Um, but there will be strings attached to it.
+
+And then the flip side of that is that debt normally converts, you know, so that's why they're called convertibles. Um, so that only works with volume which we clearly have. Um, but who's in control of that? So in a corporate finance um world, the debt holders are above the equity holders in terms of when things aren't going great, in terms of they get their money back first. Um, but if the debt holders are also responsible for the conversion terms, i.e. it's all agreed at the start but they don't have to convert until they want to convert, does it then make it harder to raise the next pool of capital and does that mean that the debt holders will stop you raising the next pool of capital unless the pool of capital also comes from them, thereby making your negotiation position worse.
+
+So, you know, I think when we get to a certain size, which, you know, is considerably larger, I think you need to look at those sorts of things. But when you've got loads of different offers from loads of different people on loads of different terms, some of which are great, some of which are not so good for us at the moment. I think that's the way of playing it. I don't think um I don't think we need to do anything particularly silly.
+
+And when if you do a debt deal, you know, or not a particularly good equity deal in the wrong way, um, you know, the company isn't benefiting from near on 100% of that capital, whereas that's my job to get the company to benefit from near as damn. So, I think people will like seeing how we're navigating this in the not too distant future. Um, and I suppose because I'm not allowed to say what these several things that we're doing are, um, you know, or considering doing are, um, I think all I'd say to people is, you know, please be rest assured that, you know, we've got multiple plans that are pretty exciting. Um, that when I can communicate them, I will. Um, and I'm very much looking forward to communicating those. Um, but please be assured that, you know, I'm running this business for the benefit of the shareholders. Um, and, um, you know, like we say, you know, with the other things that we've been doing, so far so good. And I'm pretty sure we've got a very, very sensible way of doing all these things. So, you know, as soon as I can share those things I will.
+
+That, you know, we look at every option and we're, you know, we've had a lot of offers from some pretty good names that people will get quite excited about, but I, you know, if I was looking at that and then I read the terms, I'd be a bit less excited. Um, and so that wouldn't be as good for us. So, a bit of a long-winded answer, but hopefully that's some help.
+
+**James:**
+(0:18:45) Sure. Um, okay. So on the sort of topic of, you know, things you can't talk about, things you can talk about, um, you know, UK regulations are pretty different to America um and other places in the world. Um, can you maybe give a little bit of an outline as to what you can and can't talk about because I think, uh, there's a lot of drive from the community to find out more. They, you know, they want to know what they're investing in. They want to know what the future prospects are. Um, and you know, other, in other jurisdictions, people are saying, "Oh, we're going to do this or we're going to do that." And people are hungry for SWC to be doing the same. Um, so yeah, is there sort of any guidelines that maybe you can point people in the direction of or—
+
+**Andrew Webley:**
+(0:19:30) Yeah. Yeah, sure. I can explain it. So, um, the regulations are quite simple. When you're a public company, you cannot treat people differently. Um, so if I tell you something that the market as a whole doesn't know, well, a) that's morally wrong, but b) as far as the rules go, that is wrong. Um, so that's the point of the announcements. You announce stuff and then everyone's got it fairly and people can see that.
+
+Um, so the rules aren't any more complicated than that. So if you take what we were just saying about capital for example a moment ago, if I told you some of those plans, then, you know, that wouldn't be right because we haven't communicated that with the market as a whole and we're not ready to communicate those plans at this particular moment in time.
+
+So the easiest way for everyone to think about it is that, you know, we want to be as transparent, and I believe we have been incredibly transparent with everything, um, you know, sort of, you know, since we started. Um, but we do have to comply by the rules because they are there for, you know, very, very good reasons. Um, and it's to create that level playing field with everyone. Um, and that's all the rules are.
+
+So what you'll see in the fullness of time um is, you know, we will put more time um and people into showing where we believe we're heading in the future. But because it's quite early days for us, you know, a lot of that sort of forward guidance um is stuff that we can't really say at the moment. So that's why we have to say on particular things, you know, we can't really comment on that at this stage.
+
+So I do think we're doing a good job in terms of the transparency of where we're up to. Um, in terms of the future, you know, there will be more work that's done on that, you know, over the coming weeks and months and years, you know, so that we can give people a bit more, you know, sort of, you know, I'm not sure whether you're allowed to use the word forward guidance, but, um, you know, that's ultimately what it is.
+
+So, um, so yeah, that, I think that will probably help. But you have to be careful about announcing stuff in the correct way because, you know, that's the right way of doing things. And if I was investing in a company and they weren't doing it in the correct way, then, you know, that would be something that I'd be quite concerned about.
+
+**James:**
+(0:21:30) Yeah. Um, but something you have spoken about, uh, before, um, and is getting more and more interest is, you know, initial stake in the ground of a thousand Bitcoin in six months was your, was your hope—
+
+**Andrew Webley:**
+(0:21:45) Um, four months I said, didn't I?
+
+**James:**
+(0:21:48) Did I say six months? I said MetaPlanet did it in six months, I want to do it in four.
+
+**Andrew Webley:**
+(0:21:52) Okay, misquoting you.
+
+**James:**
+(0:21:55) Um, so, okay, in four months. We're— that's looking promising um based on our current trajectory. I think people want to hear what's the next big number. Where are we going from here? Um, with the likes of, you know, MetaPlanet and, uh, AltBG coming out with some longer term, uh, maybe not expectations but aims. Um, what are SWC's aims?
+
+**Andrew Webley:**
+(0:22:20) So I think without wanting to dodge the question too much, um, I think it would be fair to expect, say, within the first or after the first six months of being a public company to have some of those longer-term plans defined. I think that would be quite reasonable for everyone. Um, so I think that's probably the way to handle that one.
+
+Um, once we pass, all things being well, um, a thousand Bitcoin within four months, all things being well, um, I think it would be quite sensible for us to, you know, have that, um, and, you know, i.e. the next target, not the longer term piece. Um, you know, I'm not sure whether, and this will be a really interesting one to watch, um, you know, sort of in terms of what people say and what we believe and everything. You know, my approach of continuous improvement as you become bigger and bigger, maybe that isn't, you know, the approach that everyone wants, and I then have to have some of those more formal targets.
+
+So, um, let's just get through, you know, past the first target, define the next target, and then see that side of things. You know, we do have a, you know, a sort of, you know, the 10-year plan that we defined right at the outset to try and explain the strategy because what became very evident is some people didn't understand the different bits of the business and how they all interlink in terms of, you know, the operating business with the Bitcoin treasury policy.
+
+So, we did do that, but, you know, obviously that hasn't got, you know, "we're going to get to X, Y, Z." Um, you know, "one, two, three" actually would be a better example, isn't it? Um, you know, so yeah, I can take that on board and we can definitely, like we do with everything else, try and improve that side of what we're doing for everyone.
+
+**James:**
+(0:24:00) Sure. Um, so are you able to shed any light on, uh, the existing institutional investors, you know, maybe naming them if you're able to, or, um, but also, you know, their motivations, what they like about it, why are they interested. Um, are they dipping their toe in at this stage and, you know, they've got deeper pockets? Uh, just a sort of general expansion on that.
+
+**Andrew Webley:**
+(0:24:25) Yeah. Yeah. So, um, so I can't name any names. Um, in the UK, if somebody owns more than 3% of a company, they file a TR1 with the company and then that's how they become public on the share register.
+
+Um, I'm really pleased that we've got some really good support from some good people so far. Um, you know, we've had, when we look at all the different raises, we've had, you know, some very, very small amounts and then, you know, some larger amounts from the same people. Um, we've had new names come in on different raises.
+
+So, if I look at the last raise that we did last week, there were some new names on there that hadn't come in before. One of them I had a meeting with them earlier in the day when they didn't know that we were doing a capital raise. Um, we made them inside later in the day and then um they participated in it with incredibly short notice. Um, you know, I've had a subsequent meeting with those people again actually yesterday. Um, you know, and so you've got a whole mixed bag really.
+
+Um, so I can't name any names. Um, there is a growing part of that side of things, um, which is good. Um, what we were saying earlier about capital and, you know, my approach with equity versus debt, um, you know, clearly there's some quite good names that would prefer debt, um, that, you know, have either come in or have said they won't do it um at this stage.
+
+Um, I had a quite a funny call yesterday with somebody that was interested in putting in quite a lot of capital. Um, and, um, on that front, you know, I made it clear like I did with everyone else that, you know, it's at the market price um through equity. Um, they certainly didn't say no, to be clear, they haven't said yes yet. Um, and, um, so yeah, we're just speaking to all the people. It's definitely getting a bit easier.
+
+Um, I think visible stock with so much support and, you know, the community and everything else that supports it, I think that makes it a bit easier. Um, you know, I suppose for a lot of institutional investors, they can clearly see that we're, you know, growing and we're doing most things quite well. Um, and I think we're probably, you know, in that point where people can see that and even though it's quite a short time period, they can see that there is a time period there. So, I think that gives them confidence.
+
+Um, so I'm pretty pleased with how it's all going in terms of where these people are. Um, you know, some are in the UK and some are not in the UK. Um, so, you know, we haven't got, uh, um, a disproportionate amount of global or UK capital, um, you know, in the book, which is just how books ended up being, you know, in terms of the cap table.
+
+Um, I would like to see more support from UK institutions to be fair. Um, I would just keep working on them and speaking to them. I had a great call with one of the fund managers, um, yesterday, who, um, not yesterday, last week, um, when we were doing the capital raise, and I was really hoping actually that he would, um, you know, put in a reasonable amount, and that particular one didn't. Um, he understands what we're doing, um, and, um, you know, maybe he'll support us further down the line. Um, you know, so it's just my job to speak to these people and to explain it just like I was doing with the IPO and just like I was doing last week. And, you know, if it's right for them at that point in time, then hopefully they'll support us.
+
+Um, you know, it's, I'm obviously tremendously happy with the support that we've got from the retail investors in the UK. That's more important to me than the UK fund managers. Um, you know, like not wanting to sort of alienate them. Um, but, you know, I would like to see that side of things going. I find it a bit easier global capital. Um, I think maybe they understand companies like my company a bit more maybe. Um, you know, I don't know why I find it a bit easier on the global versus the UK institutional capital.
+
+Um, but, you know, we're, you know, as you can see from the amounts that we've raised, it's, um, you know, pretty good. Um, especially as we're doing it in the right way as far as I'm concerned, which is at the market price so that, you know, we go back to that level playing field which is pretty important to me.
+
+**James:**
+(0:28:15) Speaking of the level playing field, there's definitely still a hunger from retail um to try and get involved in providing capital. Um, have you— might not be able to say what you are currently planning, you know, UK regulations and all that, but is there maybe a timeline when retail might get a look again?
+
+**Andrew Webley:**
+(0:28:35) Yeah. So, um, so there's lots of things that are happening. So for example, um, you know, should we move to the LSE for example in the future, um, then, you know, retail would be able to support those things then. Um, you know, there's nothing stopping, uh, larger retail investors, um, from contacting and saying, you know, should we do a raise in the future, if they're classed as a qualified investor. Um, you know, so that probably means, you know, at least £50,000 in a single investment. Um, there's other criteria but that's in terms of taking part, you know, in another thing.
+
+Um, so there's nothing to stop those people getting in touch with the company and saying, look, if you are going to do a raise, then do that. Retail investors are doing more than one could reasonably expect in terms of, you know, creating the liquidity in the stock, and obviously that benefits the retail investors because, you know, the share price goes up and then we can hopefully, up, and then we can raise money and then we can, um, you know, reset our MNAV and then go again.
+
+Um, so, you know, yes, in simple terms, if it's a raise and the money comes direct to the company, it's arguably better in a way, but the secondary market is so important because that's the thing that allows you to raise money and it creates that premium and then it does reset the MNAV and then it goes again.
+
+So I think everyone needs to look at it holistically and look at the, you know, the fact that those two things are so important. And that's why, you know, the discount model that some companies use is so pathetic. Um, because particularly with a business that's doing a strategy like this, you know, it's basically taking money out of one person's pocket and putting it into the other one, you know. Whereas with the way that we do it, you know, it's all fair.
+
+So, um, but yeah, I think that's the best thing to do. For any larger investors that are classed as sophisticated investors, they can get in touch with the company. We'll put their name on our list. Um, they'll be welcome to participate, not because I don't want the other people participating, but because that's what the FCA rules are.
+
+Um, and then I think when people see some of the other strategies that we've got in place, I think they'll see how we've managed to um come up with very, very good solutions for these sorts of things. And then slightly longer term but not long term in, you know, the grand scale of things, I think retail investors will be able to do what we did with the RAP and things in the past. Um, you know, so there's lots of things that people can do um, you know, to help on those fronts.
+
+**James:**
+(0:31:00) Thank you. Um, so I believe you're talking at the London Digital Assets Conference next week. Um, some names have been thrown around. Uh, have you got any plans to meet with Richard Bowworth or Jeff Park? Um, being that, you know, they're kind of big in the field of Bitcoin treasury companies at the moment. Um, or any other names that you're hoping to meet?
+
+**Andrew Webley:**
+(0:31:25) Yes. So probably have to be careful with how I answer that one, but rest assured that my diary is full um around, um, you know, the next couple of weeks anyway. Um, so I wouldn't want to comment on individual people. Um, I don't think that would be good for the company and that side of things. Um, I'm aware of the names that you say. Um, and, um, I'm very much looking forward to the event.
+
+I had an email yesterday um from the session that I'm talking at. Um, and, um, off the top of my head, I think it was not quite 100% but probably more than 50% above the capacity in terms of the people that expressed an interest in hearing that. Um, so that's good. Um, because that means that there's more people that want to get into the room than they will allow into the room. So that shows demand.
+
+Um, I haven't been through the company names yet to see if any of those are people that I've spoken to yet or if they're people that, you know, would be, you know, sort of good contenders um from a sort of a future capital point of view. Um, you know, looking forward to talking to them just like I look forward to talk to, you know, everyone else.
+
+So, it'll be quite good. I've invited one of our lawyers to join me as well, which is maybe a brave move, some might say. Um, but, um, you know, they've been very helpful in the process so far and I thought it would be quite nice for them to, you know, meet some of these people and to hear what I say to people when I'm talking to people about what we're doing as a company as a whole. Um, so yeah, I'm looking forward to it and that's Tuesday. I can't remember the time. I believe it might be 11 something like that in the morning.
+
+**James:**
+(0:33:00) So, you know, speaking of people, um, there's been a lot of questions of how is, uh, Smarter Web Company going to expand, uh, its roster. Um, you know, is it going to be more people on the website design side so, you know, it can fund the day-to-day costs, or is it going to be, I don't know, all the way through to perhaps bigger names that have, uh, sort of capital market knowledge or, um, or Bitcoin treasury knowledge, uh, to help you, you know, because at the moment, not that you're a single point failure, but you kind of are.
+
+**Andrew Webley:**
+(0:33:30) Yeah. Yeah. Yeah. Yeah. I would say as it was in the video, if I get hit by a bus.
+
+**James:**
+(0:33:35) Yeah.
+
+**Andrew Webley:**
+(0:33:38) It's obviously it's not just about, um, the reason why people are asking the question, though. It's about what's right for the business in terms of key person risk. Um, so it's something that I'm acutely aware of. Um, and that I've got a plan to address it. Um, obviously that will change over time as well, i.e. bigger, more people.
+
+Um, what I've said to everyone about this is that the most important thing for me is that obviously we get it done pretty damn quick, but I need to find the right people. Um, and one of the things that I was doing when I was in Vegas was I was meeting lots of different people on the capital market side of things, but also with a view of who can actually help with some of this stuff. Um, and I think I'm quite close um on some of that. Um, pretty damn close actually. Um, and, um, you know, and in the sort of the near future, I think people will like um how I'm proposing to address some of that.
+
+Um, from a— so that's more in terms of driving the business forward and allowing me to communicate with more people by having, you know, more bodies basically. Um, but, you know, right from the outset, since before we listed, everything's structured as you would expect. So when people talk about key person risk, they're talking more about the business growth, not in terms of how we work operationally because how we're structured operationally.
+
+Um, you know, because I, you know, put a lot of effort into the detail of these things. It's all been designed around exactly what I would want if I was investing in something. So, God forbid I die this afternoon, um, then, you know, things like the web design business can carry on exactly as it is. You know, the Bitcoin that we've got is all custodied in the right way and I can't even take it out if I wanted to, you know. Um, but no one person in the business can do that. Um, so you've got multiple people, you know, a lot of people in different parts of the country/world would have to die all at the same time for that to be a problem.
+
+Um, so even though we're a small business with a, you know, incredibly low cost base, you know, I would, um, I'd love to see some analysis of businesses with a 250 million pound market cap and look at what the CEO's paid and then look at what the overall costs of the business are. I think we'd probably be the cheapest, and cheapest is good in that example.
+
+Um, you know, I think we've done a good job in terms of structuring it as people would want it to be structured. Um, but don't get confused people with um the key person risk in terms of business growth with the key person risk of things being structured properly. They're two different things. So that's all fine. The growth is the one that I've got, um, you know, sort of things at work, and you know, you'll probably be seeing an RNS in the not too distant future on one or two of the things that I'll be doing on that front.
+
+So, it's a good question to ask and, um, I was really pleased when I saw that video that came out last night that that was identified as a risk because, you know, I'm thinking about these things and I like the fact that other people are seeing those things.
+
+**James:**
+(0:36:30) Great. Um, this is a fun question. Bristol Rovers or Bristol City?
+
+**Andrew Webley:**
+(0:36:35) Well, I don't really want to alienate anyone here. So, um, you know, people get quite passionate about football. Um, my former boss, Steven Lansdown, owns Bristol City and nowadays Bristol Bears, the rugby team. Um, for my entire life, I would not really be that welcome if I said I supported Bristol Rovers. My wife's family, my father-in-law, supports Bristol Rovers, would you believe?
+
+Um, so, you know, I wouldn't put it this way. If you gave me some tickets to go to a game, if it was Bristol City, I'd be there. If it's Bristol Rovers, you'd probably get an excuse. How to say I'm a City fan without saying I'm a City fan. I wouldn't go far to say I'm a City fan, but if push came to shove, I would be firmly in the Bristol City camp than I would be in the Bristol Rovers camp.
+
+Um, and, um, you know, I've got allegiance to them in multiple parts of my history, you know. So, you know, um, you know, apart from obviously my wife's family who support Bristol Rovers but, um, that's that. I'm more of a rugby fan though, um, so I actually support Bristol and Bath. Um, I go and watch both of them play, um, a couple of times a year if I can. Um, and, um, but then, you know, even though I live on the outskirts of Bristol, if I had to support one or the other, contrary to, you know, what Steve Lansdown may like me to say, I would support Bath um out of the two.
+
+**James:**
+(0:38:00) Well, I look forward to an extra Bath Derby then.
+
+**Andrew Webley:**
+(0:38:05) Yeah. Yeah. Yeah.
+
+**James:**
+(0:38:08) Um, back to the serious questions. Um, are you— when it comes to up-listing, you know, there's been a lot of us that are quite keen on it. Um, although there are some drawbacks to it as well. Um, yeah, kind of weighing up the pros and cons. Um, is it a size thing? Is it, you know, the equity raise scenarios? Um, is there a tipping point, I guess, where it's kind of like, yeah, we've got to go for it. Um, and, you know, if you're able to share any of that sort of stuff, what does that look like?
+
+**Andrew Webley:**
+(0:38:40) Yeah. So I think the important thing um for everyone to understand with moving to a different market, albeit in the same country, is that the company, should they be pursuing such a strategy, wouldn't actually be able to tell everyone until quite near the end of that process. Um, so let's say you started that process. Um, you're probably looking at, let's say, 4 months, maybe 5 months, you know, probably not any longer than that. Um, you know, if you did it properly, like obviously we would, um, with good advisers like what we've got. Um, you know, and you probably as a company, you probably wouldn't want to or wouldn't be allowed to say stuff until much further down the road.
+
+Um, you know, for the main attraction to me of the LSE is that, you know, Aquis doesn't have passive investment funds, i.e. tracker funds, whereas, you know, clearly the LSE does. Um, so I think, you know, there's a big argument for if you're a large company why you would want to be there. I don't think the liquidity thing is something that really holds any weight in the argument. It used to be what everyone used to say to us, you know, when we were starting, but I think we've proved that one wrong.
+
+Um, funnily enough, from a fundraising point of view on the main market, it's getting better because the FCA are changing the amount of money that you can raise without doing a supplementary prospectus. Um, which will probably quite nicely tie in quite nicely into the timescales that we may or may not be working towards.
+
+Um, the Aquis, the great thing about Aquis is, providing you're a decent company um that's got good interest in you, you can raise money um without, from, not from retail admittedly, but from institutions, um, you know, really quickly, um, without any sort of onerous um sort of requirements, assuming you've got your capital structure correctly designed, which again, ours was designed by me even before we listed.
+
+Um, so, um, you know, we could raise, you know, if somebody came to me with a check for one half billion pounds today, I— to be fair, I probably wouldn't accept all of it. I'd probably accept some of it and then take the rest when the share price went up by another 100, 200, etc. percent because of the reset MNAV type argument. But ignoring that sort of point, if someone turned up with a check for one half billion pounds, um, I'm pretty confident I could accept that and some more with the headroom that we've got with the way that I designed it all from the outset. And you couldn't do that on the LSE.
+
+Um, so, you know, I think everyone needs to understand the pros and cons of the different things, but, you know, the bottom line is that, um, you know, are you going to be one of the biggest companies in the UK on Aquis? You're not, are you?
+
+**James:**
+(0:41:30) Okay. Yeah, I think that kind of clears things up for people. Um, David Bailey tweeted, uh, a while back— this is under his Nakamoto hat— um, that they want to replicate, I think it was Strife, um, STRF, in every jurisdiction. Are there any plans for, uh, SWC to sort of enter that preferred share um kind of market?
+
+**Andrew Webley:**
+(0:41:55) Yeah, I think it's a bit like the convert conversation. So yes, you use all the tools in the toolbox but at the appropriate time. Um, you know, we, um, you know, if you look at Micro Strategy, obviously the example, um, then, you know, they do a lot of those things, um, but, you know, they're the biggest in the world, you know. Um, and they've been doing this for what is it, over four and a half years now.
+
+Um, so I think if you look at the other companies like MetaPlanet, for example, um, they, some of their instruments are related to their equity, but they haven't got um the different products in place at the moment. Um, so I think it would be the same as my other plans that yes, of course, we're thinking all of these things through for the right time. Um, but those would follow those other types of things.
+
+Um, you know, because if you take a step back from all of this, it is all about capital flows, right? So, you know, would you get a bond fund manager that would want a product like that to invest in a company like us right now? Probably not. Um, once we're five times, 10 times as big, would you get someone to invest in a company like us? Probably.
+
+So, you know, that would give you an idea of, you know, when you get past certain milestones, those products are worth having because unless you've got a demand for a particular product, i.e. capital demand, i.e. capital flowing, then you don't need that product. Um, so you're best off to think about these things as a company. This is us thinking about these things, but, you know, you do the right things at the right time.
+
+**James:**
+(0:43:25) Sure. Um, I think I asked you this on a previous, uh, episode, but, um, it's come up several times since then. Um, MetaPlanet with their cash secured put strategy for purchasing Bitcoin. Um, so they either get a discount on the Bitcoin or they get a premium on the money that they put up. Is that something that SWC are able to do or, um, and are we doing it?
+
+**Andrew Webley:**
+(0:43:50) Yes. So, um, I've actually got a test that's being run at the moment, um, by, um, somebody that's incredibly experienced in that space. Um, and, uh, we've been monitoring it on a daily basis, um, for approximately the last week and a half. Um, it's been a good time to, uh, monitor it because Bitcoin's been going up and then it's come off a little bit today. Um, and, um, so it's quite a good real world scenario because obviously that strategy arguably doesn't work as well actually in a falling Bitcoin price. Um, but you create, um, obviously, you know, revenue from, you know, the option part of that.
+
+Um, it goes a little bit against what a lot of people believe in which is, you know, the smash buy argument which we don't exactly follow but we're sort of as close to that within responsible boundaries as one may be. Um, the devil's in the detail with all this stuff. So by doing that strategy, you introduce a couple of things. Um, so one of the things is, you know, what happens if Bitcoin rips when you're looking to deploy. Clearly that's not good with that strategy. Um, and then the other subtlety is yes, you create a revenue through the option element, but you also effectively may have different charges for acquiring um the Bitcoin when you buy it, um, whether that's FX charges or just the spread/commission, however they slice it up.
+
+The way that we buy all of our Bitcoin is incredibly, um, good from a charging point of view. Um, so if you have a look at one of our Bitcoin buy announcements and you think that the, um, the price is, you know, the dollar price is not quite as good or it's better than what it should be, it's because of the time that we've bought it. It's got nothing to do with charges. Um, the charges are incredibly low.
+
+Um, so, yes, we have got a real world test case being run at the moment. I'm not decided yet because I can sway myself either way, but I'll look at the data at the end. And then once you look at the data, that will be pretty clear. Obviously, it works to the benefit or it doesn't work. Um, but then the other thing that you have to overlay on that is the risk, i.e. what if that goes wrong when you're doing it.
+
+And obviously for someone like us, um, the worst thing that could happen is everyone believes in your approach to treasury management. You haven't deployed that capital which is growing at an increasing amount with subsequent fundings and Bitcoin rips to the upside. Um, that's worse than deploying the capital, Bitcoin going to the downside, because everyone's aware of how we run the business and what we do with regards to treasury management. And I think I'd be quite uncomfortable with that outcome.
+
+So I'm not going to make a decision until we get to the end of that test. But, you know, like absolute almost anything else that people are thinking of, you know, we've either looked at it or we're looking at it so we can try and make the right decisions. So, it's a good shout.
+
+Um, I believe, um, and I'm happy to be corrected on this, that MetaPlanet only did in that, in their very early days. Um, if you look at their approach now and certainly what they say in their presentations, they're very focused on the speed that it takes from the capital to be fully into Bitcoin. Um, or to use Saylor's way of putting it: "You know, I always want to be short the dollar." That's what he says. Um, i.e. if he's got cash, he's long the dollar.
+
+So, um, I'm not going to prejudge that work that we're doing on that. Um, but I'm sort of more leaning on the no than the yes because of the things that I've explained. So, but I'll try my best to make the right decision and, you know, sort of, you know, share that with everyone in the fullness of time.
+
+**James:**
+(0:47:30) Um, so we only got a few minutes left. Um, just wanted to highlight to people about, um, the new merch that's on the horizon. Um, can you share kind of when people can expect it to land and all that kind of thing?
+
+**Andrew Webley:**
+(0:47:45) Yes, it's been ordered, um, now, um, as of this morning. Uh, I have looked at the poll that we did. Um, so for the t-shirts, we've ordered, um, all different designs. For the hoodies, we decided to order the top two designs. Um, so we haven't ordered the rocket. Um, you know, because you can get that in the t-shirt, but that was the least popular on the poll or certainly was before we joined this call. I suspect that the numbers aren't any different, although we can always check that.
+
+Um, so we've ordered it. Um, the people manufacturing it, it's been manufactured in the UK. Um, that will be, um, they suggested it be about two weeks. So, um, then it'll be on the website in two weeks time then. So, we'll probably put it on the website, um, you know, a day or two before we've actually got it. Um, you know, because, you know, that's okay. We don't want to take the orders and have people waiting a week or two because, you know, it's better to do it that way.
+
+Um, in terms of the caps, the caps, I haven't got the sample yet. I'm assured that I will get the sample any day. Um, I'm hoping that the sample is the quality that I would expect. And then we will order the, um, the caps from the people that have made the sample for the cap. Um, if the cap isn't as good, then it's going to be the hoodies and t-shirts will be here first and then the caps thereafter.
+
+Um, so, you know, until I see the sample, the quality of the sample, you know, I can't order, um, you know, the rest of it. You know, I went to the place yesterday who are making the t-shirts and the hoodies so I could feel them in person because I wanted to feel the quality of, um, the thing and see the printing of something else to make sure that I was happy with that.
+
+Um, so yeah, we'll have them in the not too distant future. It's something that I'm very keen on. I know people are keen on it as well. Um, you know, without wanting to offend anyone, it's not been the top of my priorities because it's, you know, the fun round the edges. Um, but, you know, we are getting that done like we've got everything else done. Um, and yeah, I'm looking forward to, um, you know, seeing if people, you know, sort of want to, um, you know, buy them and then we'll get them sent out to them.
+
+**James:**
+(0:49:45) And just quickly if you can, uh, maybe round up some of the events or, um, you know, conferences and things that you're heading to in the coming weeks, um, and months, just so that if people are going, they know to look out for you and that kind of thing.
+
+**Andrew Webley:**
+(0:50:00) Yeah, sure. So, um, so we've got that Digi Assets thing in London next Tuesday. Um, there's a Bitcoin Surrey meet up on Tuesday evening that I'm going to after that. I've got two meetings between that on my way to there. Um, so that should be good.
+
+Um, there's a potential event that's being organized. I believe it's at the end of June, start of July. Um, that was um something that they asked me to speak at yesterday. Um, and that should be quite good. Um, that's very much, retail investors are welcome um to that, you know. So, um, that will be, um, that's more of a city event, um, as opposed to a Bitcoin event.
+
+Um, uh, so that should be good. Um, the, I was invited to go to Bitcoin Prague, but, um, I couldn't make that work with the diary and my other commitments and the travel um side of that. So that was a bit disappointing because I was looking forward to going to that. You know, Vegas was a great place to meet lots of people as you know.
+
+Um, at the end of August, um, you've got the next Bitcoin conference which is in Hong Kong, two days towards the end of August. Um, providing you don't mind humidity, um, that will be a great event. Um, you know, the again, as you know, the production of the whole event in Vegas was absolute first class. Um, so, um, so I'm looking forward to that.
+
+And then also later in the year they've got the one in Abu Dhabi as well. Um, which, um, you know, my buddy organizes so I'll definitely be there. Um, and, um, uh, there's a few other things that we've got.
+
+So thinking slightly further ahead. I can't remember what I'm doing in August to be honest, but in September we've got the Feast. Um, that should be really good. My, I believe my little brother's booked a ticket to that as well, so that'd be nice to see him. I don't see him as often as I would like. I think it's almost sold out actually.
+
+**James:**
+(0:51:45) Well, is it?
+
+**Andrew Webley:**
+(0:51:48) Yeah. So, it's quite limited, the spaces, but, you know, it will be good because the food looks awesome and it'll be a good bunch of people because we all like Bitcoin. So, um, so yeah, I'm looking forward to that. Um, yeah, thank you to Henry for organizing that.
+
+Um, and, um, I'm sure there's other things that are in the diary, but, you know, it's sort of let's get through the next week and then, uh, sort of see what we do from there. I'm not very good at planning some of this stuff. Um, but I am getting better at planning this stuff. So, um, you know, um, that should be good.
+
+So yeah, there's plenty going on in terms of those events, but again, you know, I've got to get the balance right. I have to get the balance right between being sat at my desk doing what I need to do and then also doing that side of things. And then when other people join the team, some of those things will be easier because then there'll be more people to send out to all these different places.
+
+Um, you know, and one of the people that will probably come and work with us, you know, he'll be really great at doing some of that stuff, um, alongside me. So, you know, we'll, we're getting out to events and we'll get out to more events, you know.
+
+**James:**
+(0:52:50) Fantastic. Well, thank you very much for joining today, Andrew. Um, we've kind of slightly gone over the hour, but, um, really appreciate your time and I know, um, we look forward to seeing you again in the future, but I know it won't be quite as regular as it started. Um, just to mention to everyone, please can you like and subscribe? Can you get the community out there? Can you, um, just generally spread the SWC word because, um, that's what's bringing retail in is getting the word out there. So, um, thanks for all your help in the community and looking forward to the week ahead, especially 2:30 this afternoon when America come online. Um, it'll be good.
+
+**Andrew Webley:**
+(0:53:30) Yeah. And we're back to the normal, uh, Friday at 12:30 p.m. next week. Thanks, guys.
+
+**James:**
+(0:53:35) Thanks, James.
+
+---
+
+**End of transcript**

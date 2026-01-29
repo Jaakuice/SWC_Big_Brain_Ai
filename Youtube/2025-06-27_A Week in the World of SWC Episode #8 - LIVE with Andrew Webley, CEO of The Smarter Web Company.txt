@@ -1,0 +1,381 @@
+# A Week in the World of SWC - Episode #8
+**LIVE with Andrew Webley, CEO of The Smarter Web Company**
+**Date: 2025-06-27**
+**Video ID: tIS4K2KQFNM**
+**URL: https://www.youtube.com/watch?v=tIS4K2KQFNM**
+**Duration: ~45-60 minutes (estimated)**
+**Channel: A Week In The World Of SWC**
+**Host: James**
+**Guest: Andrew Webley (CEO, The Smarter Web Company)**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- Andrew's private meeting with Michael Saylor in London - strategic advice and endorsement of SWC's pure equity approach
+- Strategic investor speculation - privacy requirements and 3% disclosure threshold in UK
+- £100M+ treasury achieved in just 2 months of being listed
+- ATM facility mechanics - cannot sell below previous day's close, evaluating effectiveness
+- Book build vs ATM vs subscription pricing and commission structures (0-5% book builds, 3% ATM)
+- UK Bitcoin treasury company saturation concerns - focus on quality execution vs "opportunistic" newcomers
+- Convertible bonds consideration - "never say never" but currently focused on equity
+- Short interest and market mechanics on Aquis - limited borrowing availability
+- Upcoming events: Peter House London, Hong Kong Bitcoin Conference, UK event in September
+- Next Bitcoin target hinted at closer to 2,000 than 5,000 (21 million / 1% reference)
+
+---
+
+**James:**
+(0:00:00) Okay, and we're here. Thank you very much for taking the time. Um, just before we get going, everything is not financial advice. This is for information and entertainment purposes only, and all opinions are people's own. Okay, that's that out the way. I want to dive straight into probably for me what was one of the exciting parts of the week which is yesterday when you met with Saylor. Having met him in Vegas, you know, only a month ago, what was it like? What did you talk about? And was it just like a private meeting? Was it just you and him or? Tell us more.
+
+**Andrew Webley:**
+(0:00:45) Yeah. So, they reached out to me before Prague. You know, because they wanted to speak to me. And we couldn't make it happen, unfortunately, because I've been, you know, incredibly busy with everything that I've got to do. And we agreed that we'd meet up in London. So that's what we did. So, I was in London yesterday. I had a talk at Aquis. So I had another meeting in the afternoon and there was, you know, a gap. So we met up for an hour. And yeah, we had a great chat actually. It was amazing.
+
+It was quite funny because he gave me some really good ideas. You know, he agrees with our strategy. He believes that the way that we're funding the business is very, very sensible, i.e. pure equity. Nothing else than that, you know, until much, much further down the road. And he thinks that we're doing a great job. He thinks that we've got a good position in the UK. He thinks that, you know, we'll be the dominant force for years to come and we can grow past my ambitions.
+
+It was really funny because obviously, you know, I've been an investor in Strategy for about five years and, you know, he's so - I've seen so many videos with him and, you know, obviously I've got tremendous respect for him but, you know, me, him, and his CEO sat in the room and he was prepending everything with, you know, "Smarter this, Smarter that," you know, and it was really cool.
+
+And I think when you speak to somebody who's done a lot, you can often learn from what they've done that they wouldn't do again. So there were certain conversations that we had which I won't go into where he was saying, "Well, don't do these things, do these things." And, you know, it was really kind of him to take the time and to offer to be there in case we have any questions at any time. So, yeah, I was really looking forward to it.
+
+Somebody was speaking to me before I went there and they was saying, you know, I was like, "I've got to be gone in 5 minutes," because I had to get there. I was almost late, actually. And they were saying, I said, "Oh, it's a really important meeting with somebody and I can't tell you any more than that because I didn't know whether he'd be happy for me to tell anyone, you see." And so I was really biting my lip, you know, not to say anything about it.
+
+And then, you know, at the end I thought, well, I gave him some Smarter Web Company t-shirts, actually. You know, because I got a couple of samples of those. And then I said to him, "Oh, could we maybe get a photo and would you mind if I put it on social media because I'm very conscious that whilst this week has been the best week ever for the company, it's been the worst week ever for the share price." And he was fine. He said, "Yeah, let's go and find someone with a better light." And we took a picture and then I walked out of the meeting and stuck it on X. Brilliant.
+
+**James:**
+(0:03:30) And, you know, this kind of leads to the next question I guess. People are reading the tea leaves or looking for breadcrumbs and stuff based on the wording of the strategic investor on Monday. Is that Michael Saylor?
+
+**Andrew Webley:**
+(0:03:45) I can't say anything about that because, you know, it's a private matter. You know, in the UK you disclose if you get over 3%. So, it's the same question as when people ask me about who's in the various different books that we've done. You know, I can't say. It's private. And everything that gets disclosed or needs to get disclosed does get disclosed.
+
+You know, I'm really grateful to everyone that supported us to date both by buying shares on the market and both by taking part in the institutional raises and the retail raises, you know, and that private subscription that we've done. But, you know, I can't say things that I'm not meant to say and it wouldn't be fair to whoever it may be.
+
+**James:**
+(0:04:20) I kind of knew the answer, but it came up a lot and so worth asking, wasn't it, just in case. Had to ask it.
+
+**Andrew Webley:**
+(0:04:28) Privacy important. So, you know, I wouldn't want people, well, actually, funny enough, there's been an awful lot of rumors going around this week about the company, and some of them are quite hurtful, quite offensive. But, you know, I was going to say that I wouldn't want people saying things about me or my company that aren't true, but, you know, I just do what I believe is right and others will do what they believe is right. So, you know, we'll carry on on that basis.
+
+**James:**
+(0:04:55) Yeah, I think that's fair. Obviously SWC update - you know, you've already mentioned it's been a pretty tough week on the market. What would you like to say or remind shareholders about with regards SWC and the sort of where we go from here?
+
+**Andrew Webley:**
+(0:05:10) Well, so we've been listed for just over two months now and it's been an incredible two months. You know, I'm working tirelessly to get things done. You know, my last call ended last night at 11:30 UK time. I was up about half 4. We had an RNS out yesterday morning. You know, just, you know, an easy one. You know, I did my best to do all the meetings that I did to the best of my ability and, so I'm certainly trying my best on that front.
+
+The company is stronger than it's ever been. You know, we've got a treasury using publicly available information of over 100 million pounds. That's pretty good for a company that's been listed for 2 months. You know, I believe that the company's in the strongest position that it's been by far, you know, compared with, you know, when we started the week. You know, I always say that I want to do better each week.
+
+You know, I'm not in control of the share price. You know, I believe it's incredible value. It's probably almost the cheapest that it's ever been since we've been listed. If you're looking at the underlying, you know, holdings, the operating business is doing well. You know, there's been more than one sale this week. So, you know, obviously can't say any more than that, but, you know, that's pretty good.
+
+So, everything's going really well. It's just the share price isn't. And, you know, I think part of the reason, if we're all honest about that, is that there's an incredible number of, you know, tiny tiny little companies, most of which don't own any Bitcoin, most of which have never bought any Bitcoin. You know, in terms of the people running them, you know, in our sector, I don't think that helps the UK as a whole. But I also see it as temporary.
+
+So, you know, my job is to stick to the mission, to keep focusing on that, to try and push things forward every week. And that's what I'm doing. You know, I bought some shares today. I bought some shares yesterday. You know, I see it as a fantastic opportunity for my private money to do that. And I just keep doing the best job that I can do. And keep trying to push it forward.
+
+You know, I'm amazed that people like Michael Saylor want to, you know, spend time and help us. I've had another message today from another very well-respected person who wants to see me next week as well. So, you know, do my best to make the time for them. And on that side of things, it's going fantastically well.
+
+You know, I spent some time yesterday with somebody to try and understand what was happening on the market side of things. I can't tell you who that is, but, you know, they're going to be one of the best persons to be able to give me that information. And, yeah, it's just a case of, you know, pushing on with the mission. No more complicated than that.
+
+**James:**
+(0:07:45) Awesome. So the next question, I'm moving on to the sort of community ones now. The first one's a bit of fun. It's from Adrien Morris who you went on his podcast the other day. I would ask if he still thinks that we are possibly hypothetically maybe doing okay. In addition, after SWC reaches 1,000 BTC, if that's maybe officially the moment we go from okay to somewhat good.
+
+**Andrew Webley:**
+(0:08:10) Yeah. Well, we are doing okay. That's for sure. Probably - well, I think everyone knows based on the amount of cash that we've got that, you know, we've clearly got ourselves to a position where we've beaten that initial target.
+
+Jesse and myself have been talking about the next target and we've got a number there.
+
+**James:**
+(0:08:30) Can you share it with us?
+
+**Andrew Webley:**
+(0:08:32) Probably not today. I'd be interested to know what everyone - because the number that we've come up with is fairly obvious to guess actually. And looking at my spreadsheet, I would say that we're not actually that far away from being able to get to that number with a clear and defined path.
+
+So, I think you need to give us a couple more days, maybe a little bit longer. We're working on a new investor deck because that's something that we can put on the website so people can understand the detail a little bit more. I'm getting a lot of conversations with people where they are, you know, they've got much bigger amounts of money but they're very unfamiliar with the space and that's a thing that a lot of people don't realize actually about the UK particularly. You know, some of the global capital, a lot of the institutional capital in the UK doesn't understand the space anywhere near as well as the retail investors.
+
+So that deck that we're talking about, which probably will be done by mid next week with a bit of luck. They've been working on it for about two weeks with me. So, you know, we are close. But I want it to be good and strong and to have some of the things that people have said, you know, to make it better. And that will probably have that target in there. You know, a sort of internal company target, maybe that's how we'll phrase it.
+
+**James:**
+(0:09:40) Sure. I mean, there's a lot of numbers being thrown around. When we spoke in Vegas, you were sort of like, "I don't know if the next target should be 2,000 or 5,000."
+
+**Andrew Webley:**
+(0:09:50) Well, you clue. So, obviously 21 million is the number of Bitcoin that will ever exist. A lot of people talk about 1% and then you can go on those sorts of basis. So, it ends up being a lot closer to 2,000 than 5,000. There you go.
+
+**James:**
+(0:10:05) Okay. All right. I think people can read into that. 
+
+**Andrew Webley:**
+(0:10:10) But the funny thing about it is we'll, you know, all being well, we'll in my opinion smash that target incredibly quickly. So obviously there'll be another target thereafter.
+
+**James:**
+(0:10:20) Sure. All right. That's good to hear. Okay, so some sort of slightly more technical questions. People are trying to, you know, project forward because that's what we all like to do. But they're kind of concentrating on, you know, the money - where's the money coming from? Which levers are you pulling and why and when and all that kind of stuff. So, the next one is: when is it best to use the book build or a subscription or the ATM or, you know, all three at once? If you're not using one, why wouldn't you use it? That kind of thing.
+
+**Andrew Webley:**
+(0:10:50) Yeah. So it's quite an easy question to answer that one. So the book build side of things, I work very hard to, you know, sort of juggle the potential capital that's interested and try and pull it in, you know, in chunks basically. So you'll do that, you know, periodically when you think that it's the right time to do it.
+
+So the right time is a balance between the capital being available and the business's growth plans, you know, and the share price really because that's an important consideration too. At the end of the day, however you generate capital, it needs to be beneficial to the business and the business is owned by its shareholders. So, yeah, that's the first thing. That's the book build side of things.
+
+The ATM side of things, I think, is a bit misunderstood. Actually, I did my best to make it very clear, and I think that I worded it far better than it could have been worded had it been written by someone that wasn't trying to put it in my style.
+
+But the ATM is incredibly simple. You know, we cannot sell shares below the price that it closed at yesterday. You know, that in a nutshell is it. So, you know, another way of saying that is you cannot sell it on a down day.
+
+So, expanding on that, you would want to sell, you know, a reasonable quantity of shares when the market allowed you to do it. So, you know, if it was an up day, which I know seems like a distant memory to a lot of people, but we did have a lot of up days for 2 months before we had, you know, a week like this. You know, on an up day, what you would do is you wouldn't just throttle the share price by dumping your stock, you know. So it's getting the balance between, you know, raising capital for the company through the ATM and, you know, allowing the shareholders, you know, to see a bit of growth on that front. And, you know, if the ATM operator cannot do that successfully then I'll find another one that can do it.
+
+But, you know, obviously I don't know how the ATM's gone so far. I just know which days have been down days and because of that I know that, you know, it won't have been used on those days because that's the terms of the contract.
+
+So I think we just have to evaluate it properly. I did get one or two messages the last couple of days saying, you know, "Can you put an announcement out saying you're not using the ATM." It's like, well, I can't, because, you know, they use it in line with the contract which is do not sell on a down day. You know, and that's intentionally why we only put a relatively small number of shares into the facility because, you know, we wanted to evaluate it properly, you know, because it was a new thing for the UK.
+
+In terms of one-off subscriptions, then, you know, if somebody wants to put some capital in then, you know, we did that on Monday. They, you know, I said to the subscriber, "Do you want to wait for the next book build?" You know, or not, and they wanted to put it in then. So, you know, we can always do that, you know, if we want to do that, if it's in the interests of the company.
+
+So it's a combination of all those things, you know, and for the foreseeable future, as we're talking right now, that's it. You know, we haven't got any sort of plans to do a convertible, you know, right now. You know, we haven't got - we've looked at them and I don't think that any of them are particularly beneficial at this stage.
+
+So, you know, that is the short-term strategy. You know, and we've got some very good ideas about what things will look like in the future, but I've always been honest with people. People can always see that, you know, what we've done has been for the benefit of everyone. You know, and I would never do something that I didn't believe was the right thing to do for everyone. You know, obviously I will make mistakes, you know, that's human nature. But, you know, I believe in how we're moving forward. And, you know, we've got an incredible amount of capital within two months. You know, over a hundred million pounds, you know, that's got to be up there with some sort of a record.
+
+**James:**
+(0:14:30) Yeah. It's incredible. Okay. So, there's been a few questions and I know you can't tell us who it is and the privacy and all that kind of stuff. But I think maybe people are looking for a little bit of, well, to use Jamie's term, color around the outside around, you know, is it predominantly the same people returning raise after raise? Is it new people? Are they predominantly US-based? You know, those kind of vague sort of color to add to the picture.
+
+**Andrew Webley:**
+(0:14:55) Yeah, I can say something on that. In terms of, it's a mixture between UK and international capital. It's a mixture between high net worths and institutions. It's a mixture between some new people and some existing people.
+
+And one of the questions that I got, I think it might have been earlier today from someone, was, you know, "What are all these people like?" You know, that they put money in, you know, which was announced yesterday morning, the share price is, you know, considerably lower than it was then, and I've not had one single one of those people say anything to me other than, you know, they're really looking forward to the future.
+
+So, you know, it may be that some of them haven't spoken to me that, you know, are disappointed with the reaction that we got from, you know, a very good at-the-market priced placing. But, you know, no one said anything to me other than that they're very much looking forward to the future and that's important to me because it's important to have, you know, shareholders that understand where we're going. They understand that the business does look very cheap right now as far as we're concerned anyway. And, yeah, we're lucky to have good support, you know.
+
+It's quite hard work, you know. If you look at the emerging sort of, you know, group in the UK, you know, you'll note that some of them can't raise institutional capital. They, you know, you can work that one out by yourself by looking at recent fundraising activities. You can see that they can't raise more than - I don't even know what the next best figure is, but it's probably like four or five million. You know, we raised over 40 million pounds in what, is it 5 hours or something?
+
+You know, and that shows that, you know, we've got people that believe in what we're doing. You know, and so, yeah, that's what I mean when I say that it's been a tough week share price-wise but it's been a great week company-wise. You know, and I can't say any more than that about the breakdown of the book, you know, because that only goes to the people that are actually - like the people in the book don't even see each other, you know. The advisors and the brokers, they'll see the majority of that. But yeah, the people in the book don't even know each - well, they probably do, some of them will know each other, but they don't necessarily know amounts, you know, names, specifics, and things like that. It's all very private. That's how it works.
+
+**James:**
+(0:17:15) Yeah. And, you know, you mentioned again the best week, 41.2 million, biggest raise yet. Comfortably should take us over 1,000 Bitcoin when, you know, when it lands and when it's converted to Bitcoin. You know, from a news perspective, it's been a phenomenal week.
+
+**Andrew Webley:**
+(0:17:30) Yeah. You know, also this week, don't forget that we had our biggest ever Bitcoin buy announced. It was almost, in terms of, you know, number of Bitcoin, it was very nearly 200 Bitcoin. You know, 200 Bitcoin in a single announcement. That was almost double the previous number.
+
+If you, you know, even if you're only looking at Bitcoin per share gain, which I'm just checking now in the sheet, you know, it's a significant increase. So, Bitcoin per share gain basically factors in the number of shares in issue at that point. And in my spreadsheet, I view all the figures worse than they are in real life, you know, in terms of like the treasury and, I put in certain things into the number of shares for example, you know, the entire ATM facility I put in there even though, you know, most of it isn't applicable at this stage.
+
+So, you know, that's an incredible growth in terms of Bitcoin per share in a short space of time. So, yeah, it has been a good week in terms of the company and, you know, let's hope that next week is a better week as well.
+
+**James:**
+(0:18:30) Questions around, does it feel like maybe there's kind of a saturation in the BTC TC market in the UK, you know, with new ones popping up day to day?
+
+**Andrew Webley:**
+(0:18:42) Well, so if you look at this globally and we've been very clear about this is that we believe there'll be one dominant force in each geographical region. So, you know, in France you've got the Blockchain Group. You know, in Japan you've got MetaPlanet. In the UK, you've got us.
+
+Now, there probably is space for one or two other people in certain regions. There'll be nothing like the person that leads the market. I don't think that it's possible to sort of say who they may be, if at all. You know, time will tell on that one.
+
+I think there's probably been, you know, people that have been getting involved in the space that, you know, don't understand the model that we're following so much. And that's why I've, you know, constantly tried to say to people about whatever you're investing in, whether it's us or, you know, another sector, you know, please, please, you know, do the research, make sure that you understand what you're investing in.
+
+There will be, you know, people chasing those winners, you know, piling into the next one, you know, without even reading the announcement, you know. No names about that one, but there's one particularly shady one at the moment.
+
+So, the saturation doesn't really worry me. It worries me in the sense of I don't like to see people buying something that I think is, you know, crap. But, you know, that's nothing that is down to me or that I can control, you know. I think people just need to look at whatever they're investing in and do their research, you know.
+
+You know, I think it's probably going to be a short-term thing. I'd imagine on the basis that a lot of these companies have done, you know, everything from cannabis to AI to helium to oil and gas to whatever, I think they probably, you know, they'll probably be on to the next bandwagon, you know, in a couple of weeks or months, you know.
+
+So, you know, we just have to stick to the plan at the end of the day. What we're doing is something that has worked for many, many years in a number of different countries. And, you know, we just have to focus on our train tracks, you know.
+
+And funnily enough, I was talking to Simon from MetaPlanet about it actually the other day. I said, "What do you think about this? It's quite strange. You know, in the UK there's, you know, a whole host of these things cropping up." He said, "Just don't even worry about it. Just focus on what you're doing. You know, it doesn't matter."
+
+So, that's the plan. And, you know, even when I met with Saylor yesterday and, you know, he was very confident that, you know, we're on the path. You know, I've talked about where we want to be, you know, in terms of the FTSE 100, you know, one of the biggest companies in the UK, and he was putting a few zeros on that. So, you know, we'll just stick to the plan. Yeah, as always.
+
+**James:**
+(0:21:15) Okay. So, firstly, apologies for the noise that was in the background a minute ago. So, when an institution comes along and says, you know, "I want to be in a book build." Who kind of dictates when that book build happens? Is it you or them?
+
+**Andrew Webley:**
+(0:21:30) Yeah. So, I, you know, obviously I'm the CEO. I make all the decisions, you know, good or bad. Sometimes at the very last minute.
+
+The way that we do it is if someone's interested in putting capital into the business, they'll make themselves known. That might be direct with me, that might be with one of the brokers that, you know. So we know, you know, quite a lot of people that we've been speaking to in some cases for quite a long time. And we know who's sort of serious, who wants to have a couple of meetings or, you know, might want some more information and all that sort of stuff.
+
+And then I will decide when I want to raise the money. And then what I'll do is I'll bring the brokers inside, you know, quite close to the end. You know, because you want to keep a very, very tight circle on that. And then I'll start putting it together. And then, you know, on the run-up to, you know, 4:30 on that day when we announce them, you know, I'll have the RNS ready to go. Obviously, price, you know, highlighted because we don't know that price. I'll work with our advisor to, you know, I'll probably send it to them an hour before. Obviously, I'll speak to them before and say that this is what I'm planning to do. Are you happy with this?
+
+But, you know, I'll get them the announcement and then, you know, then we'll, you know, we'll take the orders, you know.
+
+**James:**
+(0:22:45) Okay, cool. So someone was asking about a sort of future scenario of - obviously we've used up the wrap limit unless a full prospectus is issued or we uplist, in which case a prospectus has to be issued anyway. Would they come back into play potentially then with an LSE listing or are they done?
+
+**Andrew Webley:**
+(0:23:05) Yeah. So Aquis is a fantastic place to raise money because providing you've got the headroom, which we do, you can raise a lot of money if there's a demand from people for your stock. So Aquis is better than the LSE in that regard. Much better.
+
+The LSE is getting better. So at the moment, if you are LSE listed and you want to raise additional capital, I believe the cap is 20%. With a prospectus - so, well, it might be 20% and then above that with a prospectus, actually, apologies. Obviously, we're not listed on the LSE at the moment so I'm a bit rough on those rules, although I'm getting up to speed pretty quick.
+
+So, Aquis is better for raising money, right, in most ways. With us, you'll probably see a prospectus being done if we are announcing that we're moving to a different market in the future.
+
+One of the reasons why we came up with the ATM facility is so that if people want to buy the shares, they can buy the shares, you know. We can effectively place shares which will end up, you know, on the market. And, you know, when people are buying and selling shares, you know, like me buying shares this morning, I'm buying those shares from someone, you know, indirectly through a market maker.
+
+So, you know, the great thing about the way that we raise money at the market price to whoever's in the book build, and then the ATM, you're buying them at the market price and we're getting 97% of the proceeds. You know, people can buy shares and support the company whenever they want. You know, so, you know, am I going to do a prospectus, you know, for when we're on Aquis? Probably not. Because, you know, a prospectus may appear, you know, in a similar time period, you know, subject to what we decide. So, yeah, that was a bit of a long-winded answer but hopefully it sort of covers it.
+
+**James:**
+(0:24:55) Yeah, and actually it leads on to one of the other questions that was asked - sort of the cost difference, I suppose, between the ATM and a book build. Are they similar? Is one cheaper? You know?
+
+**Andrew Webley:**
+(0:25:08) Yeah, it's harder than you would think actually. So, I think I'm allowed to say what commission we pay in our raises. You know, I say almost everything and that's the way that we'll keep going.
+
+So, we pay a slightly lower commission on the book builds now. But then any money that I raise from people that I know, we pay a much lower commission between zero and a little bit more dependent on how we're settling the deal.
+
+So, the figure for the book builds is basically between zero and 5%, right? That's the commission. So, you know, we're doing really well on that front because of how the books get built and who sources some of the capital. So that's the book builds.
+
+Everyone knows the ATM's 3%. Or the subscription that is similar to an ATM actually. You've got to get the terms right. So, 3% is great. If you look at other similar such arrangements, for example an ATM in the US, you know, that's about 3%. Those big companies like Strategy will pay in fees. So, that's why I came up with 3%, you know, it was a take it or leave it deal, you know, if you want to do it with us. And so we get 97% of that money. So, you know, you raise a million pounds, you get 970 grand. You know, 30 grand, bit annoying that you have to share that with someone, but they are providing a service. So, it's not quite 100% of it that we keep, but it's pretty good.
+
+**James:**
+(0:26:35) Getting some questions in the chat. That I think we've already covered, but just to make it clear. The way I've understood it, and then you can tell me whether I've got it right or not. Maybe we were all misunderstanding it, but there's no current plans to do convertible bonds. But never say never.
+
+**Andrew Webley:**
+(0:26:52) Well, so we had a good chat about this yesterday, Michael Saylor and I. And probably can't tell you the conclusions of those.
+
+But if you think about it, you know, equity is great. That ties into the model. You know, you're in control. Yeah. There's other ways that you can do things where you're in control. You know, if you look at a convertible, you have to be incredibly careful of the details. You know, I've just explained how we do the subscription agreement, the rolling one, which is similar to perhaps an ATM. You know, in terms of, you know, we get 97% of the money. You know, we want as much fiat money as we can that we can deploy into the treasury as I believe it should be run, i.e. buying Bitcoin as opposed to fiat.
+
+So you need to look at the terms of these convertibles and, you know, if I'm honest about it, there are good ones out there. Some of them are absolutely shocking, borderline criminal in my opinion. And, you know, I want nothing to do with that sort of stuff.
+
+So, yeah, I wouldn't say never. If I could get one that I felt was excellent for the company, I would consider it. You know, we're lucky to have, you know, really good advisors that can help me with some of these things. And we've now got, you know, sort of other people that have kindly said that they'll give us their time whenever we need it, you know. So we've got people, you know, that are, you know, pretty good at running a company like this that, you know, so I can get the advice from people that I trust and I respect. And so never say never. At the moment, absolutely not.
+
+**James:**
+(0:28:25) So just to loop back to Adrien Morris's thing, if Saylor is "pretty good"...
+
+**Andrew Webley:**
+(0:28:32) Well, just like you said, you know, we've got some people that have - he's excellent. You know, he's excellent. You know, we're okay and he's excellent.
+
+**James:**
+(0:28:42) All right. Okay. That gives us the scale.
+
+**Andrew Webley:**
+(0:28:45) He's right at the top of the game, you know. He's amazing.
+
+**James:**
+(0:28:50) Fantastic. Okay. So, kind of back to the slew of other companies, not necessarily just UK ones. But, you know, they're popping up around the world. They're going to carry on popping up. That's what's going to happen.
+
+**Andrew Webley:**
+(0:29:02) Yeah, absolutely.
+
+**James:**
+(0:29:04) What do you think - what's the USP for SWC or what are the core things that you think someone should look for if they're looking to invest in a Bitcoin treasury?
+
+**Andrew Webley:**
+(0:29:15) Yeah. So, I think you need to sort of believe that Bitcoin is the very best asset in the world, you know, without stating the obvious. You probably need to accept that a degree of that is because, you know, fiat currencies have failed us and they've failed our children big time. So I think you need to believe in Bitcoin to start with.
+
+If you do believe in Bitcoin, then I think you need to understand why a company that holds Bitcoin on its balance sheet is good. You know, potentially good, because you're getting exposure to whatever the business is. So, in our case, a web design business and their treasury. So, that's the next thing.
+
+I think the next thing is you've got to have confidence in the management. So, have they bought Bitcoin before? You know, just at a simple level, do they actually understand what it is? You know, it's quite simple things. And I think that then you would get that list of companies down a lot, lot smaller than it is.
+
+The next thing is probably, you know, have these people had good careers? You know, have they done the right thing? You know, can you trust them? You know, have they made any bad decisions or any catastrophic decisions in one particular case? You know, and is that a mistake that you can live with? You know, so you can give people another chance or is it, you know, something that's quite bad, so you don't want to give them another chance. You know, you probably don't need to give them another chance specifically in the UK.
+
+So, I think you need to do your research just like you're doing anything else. In terms of the international side of things, then you've got to come back to, you know, in my opinion, our view. You know, so, you know, I hold six - haven't bought any more since we talked last - you know, companies that have got Bitcoin on their balance sheet, and I believe that they're serving their markets very, very well. And I believe that you need to have people that are based in a country that understand that country, you know, with all the quirks that we have in different countries where we live. You know, to get the most out of that model there. Access to capital, understanding the rules, understanding marketing, you know, just working on the same time zone, you know, is quite useful, although my time zone's pretty big at the moment.
+
+So, yeah, I think, you know, and the more companies in this space the better, as long as they do it properly. You know, they actually buy some Bitcoin, they actually care about it, they're not just trying to do it as a promote, you know, because the five things that they've done before in their listed company haven't worked out.
+
+So anyone that does it sincerely and does it well and executes well, you know, they would get my respect for sure.
+
+**James:**
+(0:31:50) Brilliant. So, you know, this question comes up on a daily basis online and you've definitely answered it before, but, you know, there's a lot of new shareholders around now. Do you see like the FCA or UK legislation as a threat or a difficulty or a hurdle? You know, where are you at with regards?
+
+**Andrew Webley:**
+(0:32:10) I see it as a big opportunity. Actually, I see it as a big opportunity for people in the UK to get access to Bitcoin. And I hope the FCA in the not too distant future will allow Bitcoin ETFs, ETNs, if you want to call them those. I see it as an absolutely fantastic thing.
+
+You know, the banks, for example, if they could be more crypto friendly, that would be great. We're very lucky with the banks that we use that they are. But, you know, I think anything that makes it more accessible will be a good thing.
+
+I think there's a slight concern with, you know, what looks like a bit of a saturated or a frothy or an opportunistic, sort of mini sector that's appeared over the last couple of weeks. I don't think that that's a good look for any of us. But that will pass. And, you know, some of them will hopefully work out and most of them won't.
+
+So, you know, I think that that concerns me a little bit, but anything that can make the regulations better would get my vote. You know, I've had conversations and indeed yesterday I said again, I said, you know, "You guys need to sort of, you know, see all of this and think what can we do to make this better for the investors?" You know, and I'm suggesting that as much as, you know - well, they're not really suggesting too much to us because we've done it all already - but, you know, I'm pushing that one more than, you know, people probably see, you know, because I care about it.
+
+You know, anything that makes, you know - I wouldn't want, you know, things to be massively over-regulated because that's not a good thing either. But I do think that you need the right regulations to, you know, to protect everyone, including the companies in the space, you know.
+
+**James:**
+(0:33:50) Yeah. And someone's just put in the YouTube chat, if fiat's going to zero against Bitcoin, why wouldn't you want to take on some debt, you know, in those circumstances?
+
+**Andrew Webley:**
+(0:34:00) Yeah. So, you don't want to be overleveraged at the same time though. So, for example, let's say you had a load of debt, for example, that was, you know, whatever price, it doesn't matter, but then let's say that that debt was also secured against the underlying Bitcoin that had been bought with that debt, for example, which is perfectly possible with some of these smaller companies, maybe even not disclosed. Then, you know, what's going to happen then with, you know, if that debt can't be exercised, i.e. it doesn't convert, you know, you're going to have a big, big problem on your hands.
+
+You know, we've got a great balance sheet. You know, over 100 million pounds, you know, or equivalent, you know, because obviously a lot of it's held in Bitcoin. You know, and that's a strong position to be in. But I don't feel confident at the moment in taking debt. You know, I don't think we need to at the moment if we can take equity.
+
+So the "if it's going to zero" comment, you know, that's equally applicable to equity, you know. We had a good chat yesterday about Bitcoin-backed debt and the pros and cons of that as well.
+
+So it's quite a complicated subject matter. I think what I'd say to everyone is, you know, I'm looking at all of the different options and I've had loads of things, you know, some reasonable, some terrible. And, you know, I think people just have to trust me that I'm doing my very, very best. You know, I'm focused on making this very, very successful. We've had a, you know, a good start.
+
+And for me personally, you know, I need this to work over one, three, five, 10 years. And that's all I'm focused on. You know, how can I make my company one of the biggest companies in the UK and then the world? You know, get taken seriously by, you know, people that are, you know, sort of knowledgeable on companies that structure their finances in this way. You know, and if I can't do that job in the future and people don't think that I'm the right person to do it, then, you know, that's fine as well. But for the moment, I think that I'm getting it mostly right.
+
+So, you know, I'll look at everything all of the time, but as I say, you know, we haven't got any plans in the short term. We haven't got anything on the table that, you know, would be right for the company at this stage. So, you know, therefore, we're not doing anything other than what everyone knows about - straight equity, ATMs responsibly, and individual subscriptions should we feel it's right for the company.
+
+**James:**
+(0:36:20) Brilliant. So there's a lot of talk, I think, based off the back of the share price action this week about short interest. You know, people have brought up the whole Chanos and Saylor - go long BTC, short the LBEs. Do you think that poses a problem for SWC? Do you think - you know, a lot of people are unclear whether Aquis can be shorted or not. The Apex section, I believe, can't, but we're in the Access section and there doesn't seem to be any data available online on that.
+
+**Andrew Webley:**
+(0:36:50) Well, you can short anything you want in theory, right? So, you know, contrary to what they say, if you and I, you know, if you own some shares and I do a deal with you that I want to sell that same number of shares and you lend me those shares, then I've got to borrow. So, you can short anything that you want. You know, you can short anything that you want illegally as well, you know, if you're that sort of a person. You know, it might go bad, really bad, you know, possibly really quick.
+
+But you can short anything that you want as long as you get a borrow, because it would be I would be selling your shares on the market and then I would have a contract with you that, you know, when you want to call that borrow in, I will buy those shares in the market and deliver them to you.
+
+I think it'd be quite difficult to short our stock on any massive size. I'm aware of some of the rumors. But it's not like say Strategy in the States, for example, where, you know, there's a lot of banks that hold a lot of stock and they've got different cost centers that will be responsible for earning a yield on the stock that's held, you know.
+
+So I've never really understood why they do that - why, you know, you would effectively, you know, be a business and then, you know, you've got that profit center there and then you've got that profit center there that's effectively, you know, weakening a stock to earn, you know, maybe a couple of percent a year or something by lending that stock.
+
+You know, take my old employer, Hargreaves, for example, and anyone can check this. They can read it in their terms. They do not offer any of the stock on their platform out for lending. So, you know, an awful lot of our stock is held at places where it will not be lent. So, therefore, that stock cannot be used for shorting.
+
+But there will be some of it, I'm sure. You know, I think it's a bit of a murky world that whole thing, you know. You know, there's one particular person that I've been made aware of who hasn't actually reached out to me. You know, I'd quite like to have a chat to them actually. But, you know, they've not used the telephone number on the website or the email address to reach out to me. So maybe they could, you know, unless they just want to keep saying what they're saying.
+
+And, you know, maybe they have got a short. Maybe it's a big short. I was told that they borrowed a load of money to do the short from a credible source. So, you know, I think some of it does go on, but I don't think it's of any size that particularly is any relevance. You know, it's probably, you know, like a 10 grand short or something like that. You know, it's probably not a significant short that, you know, is massively going to move the market. But I might be wrong.
+
+**James:**
+(0:39:30) Sure. And kind of back to, I guess, kind of more political FCA stuff. Has - are you aware of any political interest in SWC and the other BTCTCs? And, you know, has your local MP even shown an interest, you know? Is there...
+
+**Andrew Webley:**
+(0:39:48) Good point there. So one of the things I've got to do, which I must confess I haven't done yet, is now that we're back at a Bristol address formally, as of Monday, I need to write to the local MP to, you know, to let them know that, you know, what we've done and perhaps they could, you know, sort of do whatever they do, you know, to support us.
+
+So I must do that, but I haven't done it yet. Maybe I'll do it this weekend. You know, away from that, you know, I hope that they're looking at the sector, you know, the powers that be, to, you know, make sure that it's being, you know, controlled and that there isn't anyone doing things that they shouldn't be doing. But, you know, other than that, no, I'm not aware of anything.
+
+**James:**
+(0:40:30) Sure. And then, I know you can never give away details because rules and regs, but are we to expect more news next week? You know, it seems like we get news every week, you know. Is that going to continue?
+
+**Andrew Webley:**
+(0:40:45) Yeah. So, to be open and transparent as usual, that, you know, we'll announce things when we need to announce things. You know, clearly we've got a lot of money that needs to be deployed next week. So, I think I'll probably try and surprise people with the pattern of that, although with five days in the week, it's quite difficult to mix it up that much. So, yeah, you know, I think that's quite a likely thing for people to expect.
+
+In the sense of being open as well though, I'm not sure whether we'd bother raising any capital at this level purely from a share price level. You know, I've got interest for capital, but I don't think I'd take it right now, to be honest with you. You know, that decision and opinion will change, you know, obviously, you know, as we navigate, because, you know, I do want to keep my acceleration going. But I've got loads of options for that anyway.
+
+So, you know, if some of the things that we've done to date, you know, don't work for my shareholders, and by that I mean in terms of share price and the business accelerating at the rate that I want, I've got plenty more tricks up my sleeves on that one. Not that I've got any sleeves on today. I've got a t-shirt on, you know.
+
+But yeah, I've got plenty of ideas of, you know, alternative ways that could be accommodated. You know, very beneficial. You know, people would love those things as well. So, yeah, you know, I don't think I've let anyone down to date, have I? I think we've had news every week. You know, often more than one bit of news. So yeah, there's no reason why that won't continue.
+
+**James:**
+(0:42:15) Cool. And I guess that kind of links on to the final question that I've got, which is, you know, is it more difficult to raise capital when the share price has gone down or is it just a case of there's people that are interested and they'll enter whenever?
+
+**Andrew Webley:**
+(0:42:30) Yeah. So, sort of yes and no, really. It's in a way it's easier, because, you know, they're getting more for their money. But it's harder for me.
+
+So, a lot of the people that support the raises, they're not even fussed about the price. Sometimes they'll put their order in before I even tell them what the closing price was, you know. So, sort of yes and no is probably the best answer to that one.
+
+If you really had to say, "Well, you can't say yes or no. You have to give me an answer." I'd probably say the lower the share price, the easier it is, you know. But that's the market's job at the end of the day. The market's job is to set the share price. And if the market believes that we're valued at, like, you know, two pound, you know, as opposed to £3 or £4 or £1.50 or whatever, then that's what the price is, you know.
+
+**James:**
+(0:43:20) Brilliant. Actually, I've got one more. Are there any upcoming events that you're attending that people could potentially see you at or attend themselves?
+
+**Andrew Webley:**
+(0:43:30) Yeah. So, the next event actually is, you know, one of our brokers, Peter House, is doing an event in London on Thursday, this Thursday afternoon. So I'll be there. I've got a really packed day actually before. And then that's at 3:00. And I think that's sort of, you know, some advisors, you know, I think it might be full, to be fair. But, you know, sort of maybe contact them and say you're a Smarter Web shareholder and hopefully I'll make some space. So that's one thing in the very near future.
+
+There is, you know, of course, there's the Bitcoin conference in Hong Kong where I'll be speaking, which I'm very much looking forward to. That'll be really good. It's smaller than the Vegas one. But they're doing the same sort of, you know, program with, you know, ourselves from the UK, MetaPlanet, Strategy - I'm not sure who from Strategy will be there, actually. But basically, you know, the companies that are doing it well. So that'll be a great event.
+
+Henry the Chef is doing a second event in September, a bit of a bigger event. So, that'll be quite nice as well because, you know, that would be nice to, you know, meet more people.
+
+There's a couple of other things. There's another UK-based event in September. There's - yeah, there's bound to be other things. So apologies to anyone that I've sort of forgotten there. But, you know, what I'll always try and do is, you know, a week, two weeks before things, you know, put them out there so that, you know, people can be, you know, aware of these things that are going on. I'll stick them on X, you know.
+
+So, yeah, there are plenty of things going on. Looking further afield, you know, maybe next year, whether it's the Bitcoin for Corporations event, which I believe is in maybe March off the top of my head, might be February. Obviously, you know, the conference in April. Might be another good event coming up in the UK that we shouldn't really talk about. Might be a biannual thing. That'd be quite exciting when I can talk about that one.
+
+So, yeah, there's plenty going on. And of course, the highlight of the Bitcoin conference calendar is the Abu Dhabi event, which my friend organizes. So if Greg's watching, he'll be quite pleased I've not forgotten that one. And that's a fantastic event. Coincides with the F1. So, you know, people that like F1 can go to the F1 and then go to the Bitcoin conference. So that's a pretty good weekend.
+
+So yeah, there's plenty going on.
+
+**James:**
+(0:45:55) Brilliant. Okay. Well, thank you very much for your time, Andrew.
+
+**Andrew Webley:**
+(0:46:00) Pleasure.
+
+**James:**
+(0:46:02) It's always great to have you on and, yeah, we look forward to you relentlessly executing for another two months, two years, 20 years.
+
+**Andrew Webley:**
+(0:46:10) Yeah, we will just keep doing our best. And, you know, we appreciate everyone's support. You know, even on a tough week like this week share price-wise, you know, most people have been pretty positive. You know, if anyone ever has got any ideas of what we could do better, then, you know, feel free to shout. And, you know, we just, you know, stick to the plan and hopefully, you know, continue trying to move it forward.
+
+**James:**
+(0:46:35) Fantastic. Next week, Andrew won't be with us, but it'll be Jamie the Desert Ape back with me and it'll be a slightly different time. It'll be 11:00 a.m. UK time. Because it's my son's first sports day and I'm not missing that.
+
+**Andrew Webley:**
+(0:46:50) Have a good time.
+
+**James:**
+(0:46:52) Thank you. Thanks everyone. Bye.
+
+---
+
+**End of transcript**

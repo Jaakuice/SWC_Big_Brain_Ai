@@ -1,0 +1,389 @@
+# A Week In The World Of SWC Episode #19
+**Date: 2025-10-16**
+**Video ID: VB7s-9SG3h8**
+**URL: https://www.youtube.com/watch?v=VB7s-9SG3h8**
+**Duration: ~53:24**
+**Channel: James (SWC and BTC)**
+**Host: James**
+**Guests: Jamie (Institutional Crypto Background), Zincs (Community Analyst)**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- MNAV compression since June: sector-wide, not just SWC; velocity surprised even leading analysts
+- Capital rotation from BTC treasuries to miners/AI plays (e.g., Iren up 400%)
+- US PIPE deal unlocks damaging sentiment; some companies down 96%+
+- Leverage options: Bitcoin as collateral via custodian lending desks; ~9-10% rates, 60-65% LTV
+- Smarter Convert demand likely low currently; traditional leverage preferred path forward
+- LSE uplisting: board requirements may already be met; pipeline of funding awaiting listing
+- Time preference: MSTR didn't surpass 2021 ATH until 2024 (3 years); patience required
+- BTC in gold terms significantly below ATH (~$160k+ needed); institutional targets $1M by 2030
+- UK unique mission: difficult to buy BTC directly; SWC could provide pension/tracker access
+- FTSE 250 automatic inclusion when criteria met; UK lacks beta/exciting stocks - SWC fills gap
+
+---
+
+**James:**
+(0:00:03) Jamie, Zincs, thank you very much for joining me. Um, it's been a while since I've spoken to you, Jamie. Um, Zincs not so long, but it's first time we've all been on at the same time, so this hopefully will be a good discussion.
+
+**Jamie:**
+(0:00:17) Yeah, lots to talk about. So, looking forward to it and thanks for setting it up, James.
+
+**James:**
+(0:00:24) No worries. Um, let's start with, I guess, the the the bit that Andy in the comments already doesn't want me to talk about, but the state of the sector. Um, and what's kind of going on right now? Um, Jamie, do you want to start and see what what your thoughts on on what's going on? Maybe why?
+
+**Jamie:**
+(0:00:37) Well, I I was I was actually going to hand it over to Zincs and and the reason for that, sorry, not to pass the buck, was I've been at um Digital Asset Summit for the last three days. So, I was going to get him to sort of give his view because he's very much been um had a holistic view of the of the other treasury companies and I was just going to come in over the top with some additional feedback. Would that be okay?
+
+**James:**
+(0:01:01) Yeah, that's fine. No worries.
+
+**Zincs:**
+(0:01:07) Um obviously we've seen a period of MNAV compression which has started since you know the end of June really. Um we've had severe MNAV compression across the board. It's not not just Smarter Web uh MetaPlanet Capital B all the Bitcoin treasury companies really you know MSTR's trading you know under $300. Um, you know, even more recently, we just had a massive crypto liquidation event. You know, a lot of people were, you know, sort of leverage trading. Um, 10x, 20x millions of dollars on these altcoins. And then, you know, Trump came out talking about tariffs on China again. And, you know, we saw a liquidation cascade.
+
+(0:01:55) Um, of course, that was only more recently. Uh we've been going down since the end of June, been seeing MNAV compression. That's for the reasons why I think you know we probably had a lot of exuberance in the space um you know a dilution in the sense of you know so many new Bitcoin treasury companies in the UK for example you know we've had you know since the announcement of Smarter Web we've had 20 plus companies um so I think people are just fatigued.
+
+(0:02:32) And um eventually we saw a rotation of capital. Uh I've made a post that shows essentially since the end of June some of these Bitcoin mining/AI plays for example Iren is up 400%. Um and previously the miners were down in the dumps for 12 months plus. So I think what we're seeing is a rotation of capital um into the miners and just people essentially you know over the hype, the initial hype of Bitcoin treasuries and now you know people just have a lot more questions, the scrutiny is a lot higher.
+
+(0:03:05) It doesn't help that you know the Bitcoin price has been muted as well you know uh as I said to you before we came live you know Bitcoin is currently underperforming the S&P 500 year to date. Gold has been on an amazing run. So I think capital is just interested in other things right now to be honest.
+
+**Jamie:**
+(0:03:26) Yeah, completely agree with all of those. Um I think the one piece of feedback I've really had from speaking with retail and institutional investors is it's really the scope or the velocity of the compression that's taken people by surprise. Naturally, everyone has an understanding that we do go through these cycles in terms of the compression and the expansion of MNAV. But I think the rate at which the MNAVs compressed from double digits to single low single digits effectively within the space of two to three months took everyone by surprise and that includes you know what we call some of the leading analysts within the spaces or people that have very strong voices uh and not just within you know Smarter Web but within some of the other leading companies as well.
+
+(0:04:18) Um, I think one of the things that's obviously been a little bit frustrating, like you said, is that right at the same time there has been a big shift in terms of attention to some of the Bitcoin miners and AI plays. And over the summer when we had that strong period of sort of—over the summer when we had that period of low volatility specifically during the month of August there was sort of what felt like some forced capitulation that was going on in a low liquidity environment that compounded the moves.
+
+(0:04:50) And then subsequently I do feel you know unfortunately the MetaPlanet international offering um whilst it was you know longer term could still be constructive for them and they added a lot of Bitcoin on the balance sheet, there were some um uh some questions around the execution of the deal and that just obviously was a sort of a negative for sentiment.
+
+(0:05:08) And I think again as Zincs said people probably felt a little bit too overexposed to the sector uh and certainly I do think there has been some opportunistic buying on the way down but again I do feel some of that um has then subsequently ended up being cut because I think people really didn't expect to see us go back to effectively one MNAV you know, people started to buy in when it was two, etc. or three, low single digits. Um, so again, some of that opportunistic money has come out.
+
+(0:05:39) But the one thing I do think that we can count on is the fact that everything within crypto is cyclical, especially Bitcoin. And whilst we have been in that sort of sideways period uh where it really hasn't done anything apart from you know effectively last Friday which was headline driven, over the course of the next couple of months I do feel we're in a constructive place to move higher.
+
+(0:05:59) And that's predominantly driven by one—again I don't have a strong view on this—but if we get some positive announcement on the trade tariff headlines for US and China and two, two US rate cuts to come probably at the end of December and one uh in December and one in December as well. Both of 25 bps um which should I think you know help push us higher into the year end.
+
+(0:06:24) Especially because a lot of the leverage has been taken out the system as well and one of the key things to remember for funds is once you've gone through a significant period of de-risking, people get very worried coming into year end when they feel underexposed. Uh and the reason for that is because there's only a couple of months within um to catch up if the index moves extremely high over the course of the next couple of months into year end. They all have to chase it to make sure that they're at least benchmarked to the index performance.
+
+(0:06:56) So I think the setup could be constructive and you know from my perspective that really is got going to be what kickstarts sentiment coming back into the sector.
+
+**Zincs:**
+(0:07:08) I I would just like to add um also the the PIPE unlocks in in in the US. I think—
+
+**Jamie:**
+(0:07:13) Good point.
+
+**Zincs:**
+(0:07:15) That's not you know done any favors. You know we've seen multiple now um these companies just completely you know crash and just look like pump and dumps to be honest. Um you know down 96% and then going down a further 25% it's going to kill sentiment. Um and yeah, I think people are just reeling from that as well. So overall, this space is just, you know, far from, you know, in a good place right now.
+
+**James:**
+(0:07:43) Yeah. I mean, just to add my my sort of two pennies at the end is um if you look at how run how hot the the space was running, um you know, May June time, it was going to correct. Um, now I didn't—I don't—some people obviously saw it coming because they would have sold the top and and walked away very happily. But um I certainly didn't see it coming. Uh and well I saw the saw that there would be a correction but I didn't think it would be a three to four month correction and certainly didn't think we'd be going down to levels that we've come to.
+
+(0:08:20) But that said, looking back in hindsight to 2020, um the the chart kind of shows it was likely to happen. Um but we can only tell that in in hindsight. Obviously, money's still in miners. I think, you know, they run first, Bitcoin runs second. So, Bitcoin's due a run perhaps. Um but we'll get on to on to Bitcoin in a bit. Um, so I'm hopeful of a of a rotation of capital back into the space. Um, well certainly before the end of the year anyway. Um, hopefully.
+
+**Jamie:**
+(0:09:00) Yeah. I mean, yeah, I mean, for instance, I mean, you know, sorry, um, James, I mean, gold has—everyone's been clearly watching the gold chart, which, you know, has tended historically to be a lead indicator. Um, and I know that's got its own reasons for strong outperformance, but again, I do think it's another potential indicator that the setup is constructive going into year end.
+
+**James:**
+(0:09:22) Yeah. So, we are where we are. Uh, I think we're comfortably sub 1x MNAV now. Um, what do you guys see? You know, uh, Jesse and, uh, Andrew have sort of hinted at some things, but what do you see as the realistic options that, uh, SWC have got to, you know, get it going again?
+
+**Zincs:**
+(0:09:50) I I've been thinking about this and I think the last thing I want to see is any bad capital raising. Um, I think with the space where it is at right now, I just, you know, the last deal, you know, people had their opinions. It wasn't my favorite deal, but, you know, I accepted it.
+
+(0:10:07) I think, you know, I wouldn't want to see something like that right now, but what we can do, and of course, it depends on demand is two things. Obviously, we've got Smarter Convert, but I don't know if the demand for that is there right now. Probably isn't to be honest. If I'm thinking about it.
+
+(0:10:30) And then the other thing is just taking on traditional leverage. Um, you know, I, you know, I think there's definitely room for Smarter Web to take on quite a bit of leverage. If you, you know, if you count the Smarter Convert or if you don't, it's still just either no leverage or just small percentage anyways. And you know, I think, you know, there's room for us to definitely ramp that up.
+
+**Jamie:**
+(0:11:01) Yeah, I I I completely agree. I think, you know, one of the things that Zincs mentioned that's um worth focusing on is that I think the community's got a good understanding of like what we don't want in terms of fundraising. And so that's, you know, discounted equity raises. Again, to reiterate what he said, I know there was some two-way discussion around the previous raise. From my own perspective, for what it's worth, I thought it was constructive. Um, and it helped to get another 100 Bitcoin onto the balance sheet.
+
+(0:11:33) What's needed now feels like some form of debt to help us lever up. And one of the good things for us is that we have, you know, 2,600 odd Bitcoin on the balance sheet, which can be used as collateral. Smarter Web have now extensive relationships with a variety of different people within crypto that potentially could allow for that to be used as collateral for some form of debt finance.
+
+(0:11:57) Debt financing. There's conversations that can be had with traditional um banks or traditional managers to provide some form of debt financing against the Bitcoin as collateral and really to try to make it as long as long duration as possible with as little uh with the interest rate as low as possible that's then compounded or eroded by the effective um compounded annual growth rate of Bitcoin.
+
+(0:12:25) And so really that for me is where we can start. I think it probably feels like a good um opportunity to now start looking at that to to lever up um and certain perspective that would be the next constructive move.
+
+**James:**
+(0:12:46) Okay. So yeah, using debt to lever up, fine. Um what sort of ways would you would you guys look at um if you were were Andrew or or Jesse?
+
+**Zincs:**
+(0:12:52) So I think of this as you know you know what would I do as an individual firstly you know the options that are available to us as individuals. Theoretically we can put our Bitcoin up as collateral—even Coinbase do it I think they do have a limit of only like a million dollars but let's say if you wanted to put your Bitcoin up uh as collateral I think you can actually get uh perpetual loans um and I think there's some companies that do it at less than 10%. You know so essentially kind of similar to you know you know the prefs in a way.
+
+(0:13:33) Um so if the company is able to do that obviously you know they have you know different options available to them I would be very happy and comfortable with you know putting 25% of the Bitcoin or you know something like that as collateral taking on some sort of um perpetual debt you know at less than 10% and then just using that to buy more Bitcoin.
+
+(0:14:03) Um you know that's obviously other than the Smarter Convert you know I think that would be the you know number one uh way—issue you know equity at a premium longer duration. If we look at Capital B I think half of their Bitcoin was acquired in that way um issued at around you know 30% premium and you know at 5-year duration so either either one either of those options, I'd be very happy.
+
+**Jamie:**
+(0:14:36) Sorry guys, can you hear a big punch from audio? Is there some crackling going on in the—
+
+**James:**
+(0:14:43) You're quite badly. Yeah.
+
+**Jamie:**
+(0:14:49) Is that coming from me or from you? I wonder why. Can Can you hear me now?
+
+**James:**
+(0:14:54) No, it's fine when when you start.
+
+**Jamie:**
+(0:14:56) Yeah, I've got I've got here. So just trying to understand why it's not working. Is is that coming across a bit clearer? I apologize. Can I leave? Come back.
+
+**James:**
+(0:15:09) Yeah, sure.
+
+(0:15:15) Okay. So debt, what about the timing of debt? So when do you—when would you Zincs pull the trigger um on on leveraging up? Would you do it the moment, you know, we're at a sub one MNAV or would you wait for things to settle? You know, where's your mind at on that?
+
+**Zincs:**
+(0:15:36) I'd do it as soon as we could get the right terms for it. Um, you know, Bitcoin is at a favorable price right now, I think. Um, so as soon as possible, I I don't think, you know, we'd have to time it at all really. Um the good thing about Smarter Web is obviously it has an operating business that you know is profitable and can cover some costs when you know.
+
+(0:16:00) So I think as long as the debt is perpetual and and I think there perhaps is some options available to do that. Um you know why not when—would it else be a better time when Bitcoin's trading at you know this price? Um, so yeah.
+
+**James:**
+(0:16:18) Why would you think to do it in a different time or—
+
+(0:16:31) No, I I guess I mean this was more more my thoughts around equity raises back when when we were above 1 MNAV. Um, that timing them while sentiment is still draining away from the sector and not just SWC specific. If it is SWC specific, then you know, pull the levers, right? Um, but if the sector is is is out of fashion, then, you know, raise money while you can and then save some things up your sleeve for when uh things have settled down a bit to try and then get it all moving again. Um, as opposed to like the equivalent of like catching a falling knife. Does that make sense?
+
+**Zincs:**
+(0:17:22) I hear what you're saying, like, you know, strike when the momentum's, you know, it it'll have a greater impact if when a ball is rolling. But then again, I'm I'm of the opinion that perhaps, you know, sentiment won't change too much until Bitcoin itself starts moving. Um, so if we can acquire the Bitcoin at a cheaper price now, then why not? Um, you know, that's that's—
+
+**Jamie:**
+(0:17:44) Hey guys, can you hear me now?
+
+**James:**
+(0:17:49) Perfect. Right. I'm really sorry about that. Apologies.
+
+**Jamie:**
+(0:17:52) That's okay. That's loads better.
+
+**James:**
+(0:17:54) Um we Jamie, we're just sort of finishing up a conversation, but good to get your input about um the timing of leverage. Um so, you know, is it just as soon as you can get the uh access to it? Um or is is there a potential for timing it?
+
+**Jamie:**
+(0:18:10) Um yeah, correct. So, so from my perspective, so first of all, just to go back to the original question with with how it works. So, you know, I I've obviously um got a background in institutional crypto. Uh so, for those who don't know, the the way that it works is that a lot of um custodians um and exchanges, but primarily custodians now have dedicated lending desks and they lend uh to their customers for a variety of different reasons.
+
+(0:18:42) And obviously within that range, customers have different tierings based on the amount of Bitcoin that they have, their credibility, their regional jurisdiction, etc. Some rough numbers here to help frame it. So at the moment where we're seeing rates on an annualized basis are around 10%. For some really strong institutional clients, you can get around 9%. So that's obviously if you want to borrow $1 million, you have to pay back 90,000 to 100 grand.
+
+(0:19:10) The LTV or the amount of collateral that you're required to put up is normally around 60 to 65%. So what that means is if I want to borrow a million dollars of fiat, I have to put up $650,000 worth of um Bitcoin as collateral. And then that subsequently moves depending on the price of the Bitcoin and if there's any margin calls.
+
+(0:19:41) So from my perspective, you know, or from uh for education, remember the collateral or the Bitcoin never actually leaves the custodian anyway. So it's already sat there. So it's sitting there doing nothing at the moment. So, a lot of these uh custodians are trying to build lending desks because it's for them one of the the best areas in order to to obviously get fees and to then build ancillary services around the clients that they service.
+
+(0:20:06) So, the way that it would work in practice would be client X would go to the custodian and say, "Hey, we're thinking about borrowing within this type of range. Could you guys give me a menu or a matrix of how it would look depending on the different levels of duration, depending on the different levels of uh of um collateral that we could put and variety of different LTVs as well."
+
+(0:20:33) And so some of these will be fixed. It could be a fixed rate which tends to be the standard practice. It could be floating but normally for institutions they and for um um and for uh the lenders they like to have it fixed. That's the preferred method. So once someone has this uh specific matrix, they'll then be able to decide what's best for them.
+
+(0:20:52) There can be a negotiating period for individual bits of criteria. They'll then look to strike the deal, sign the the MLA, the the master lending agreement. Um and so yeah, that for instance would be how it would work in practice. And again this is standard practice across all types of institutional custodians and institutional market makers and obviously prime brokers as well. This is a very very common practice within crypto not just for institutions but for high net worth individuals as well.
+
+**James:**
+(0:21:28) So Andy Smith has just put in the chat um is this why Andrew has done this new tie up with Coinbase? You know, uh, well, that's that's probably just because obviously they're the main custodians, uh, custodians. I think they hold Strategy's, uh, Bitcoin as well.
+
+(0:21:48) Um, actually, eventually I would I would like to see that move to a British company when when when the time is right. Um, cuz it kind of makes sense to me that these local champions have their Bitcoin in their own countries. Um, but obviously Coinbase is far far ahead when it comes to this sort of stuff. So, it's probably better right now to keep it with them.
+
+**Jamie:**
+(0:22:07) Yeah, I I don't have any information on on Andy's question, but I think you know the the point I was trying to flag is how would this actually work in practice. One of the key things to highlight is that these types of deals can move fairly quickly and can be structured depending on the MLA, which is the master lending agreement, where someone looking to explore something like this.
+
+(0:22:26) This for me would probably be the route that they would go down if they were going to do it because they obviously have Bitcoin sat with a custodian already. Whereas if they were going to go to say a traditional bank, say a UK high street bank, etc., the terms would likely be much higher. You'd be dealing with people that would probably less crypto friendly or less less crypto-savvy. And there would potentially be a lot more clauses around um clauses around any specific loan.
+
+**Zincs:**
+(0:23:01) Sure. Can I just add like um in that situation if Smarter Web were to do that obviously the downside would be you know if Bitcoin fell you know half in price they may then would have to add more Bitcoin as collateral in order to you know stop it from—
+
+**Jamie:**
+(0:23:19) Absolutely. So there would obviously let's just say Bitcoin was to um have another draw down there depending on whatever the terms were there would then need—there would be a subsequent margin call whether it would need to be topped up. So really it's trying to structure something that gives the right amount of size for—again, this is all hypothetical—for Smarter Web to be able to get what they feel is the right amount of Bitcoin yield for this specific quarter to keep what they feel is like a sustainable uptrend.
+
+(0:23:52) Versus and then on the right terms which would effectively allow it one to have what they feel is an attractive or um a competitive rate in terms of the amount that needs to be paid back but also in terms of the LTV in terms of what would the level of the draw down of Bitcoin need to be before they have to top up.
+
+(0:24:13) So, you know, they've obviously got 2,500. You know, they've got 300 million um you know, give or take worth of Bitcoin there. Clearly, you know, from my perspective, they won't all go out and use everything in one go. There may be a period whereby one could assume um they may go through a small exercise to get everything working to see how how it works, to maybe test market reaction, see what people think, etc. This from my perspective could be like a next step into seeing how that could work. Does that make sense?
+
+**James:**
+(0:24:47) Yeah. Yeah. Yeah. Um, okay. So, moving on to—well, it's been a hot topic for a little while because Andrew started dropping hints back in August, but the LSE uplisting. Um, from my perspective, uh, and obviously I don't know the inside running and and prospectuses and all that kind of stuff cuz that's all all super secret inside stuff, but from what we know from the outside that it looks like the one piece that we're waiting on is the recruitment of the final non-executive director um to complete the board as as the requirement. Otherwise, it to me it feels like we would have already had the the uplisting announcement. What do you guys think on that?
+
+**Zincs:**
+(0:25:37) So, the the the thing is I thought this was covered already. I thought we already had the sufficient criteria uh met and Nick who usually does his due diligence very well made a comment saying that in fact we need someone else. But then he came back later saying that actually it was fine already.
+
+(0:25:56) So I actually don't think that's necessarily the problem right now. But I may be wrong. Um you know it was a while ago now since I last had a look at it. But either way I I'm hopeful that we can get an uplisting before the end of the year. Um, but with with sentiment right now with the market, I don't think, you know, it's it's as important or as it's going to have that much of an impact as it would have done back in June, for example, but still very important for the company nevertheless.
+
+**Jamie:**
+(0:26:33) Yeah, I don't have a strong view on on this point, James, so apologies if I can't add any additional color here.
+
+**James:**
+(0:26:39) No, that's cool. Um it was just you know something that we know is ticking on in the background and uh if you guys had anything to talk about it then then great.
+
+(0:26:48) But um sort of off the back of that I know I know Zincs just said I'm not sure it would make that much difference in in current sentiment. Um you know, Andrew and Jesse have have both said, you know, they've been doing countless podcasts and stuff recently. Um that there is essentially a pipeline of funding available um upon listing. Um does that not get you excited, Zincs?
+
+**Zincs:**
+(0:27:16) Yeah, it does. But now obviously where the market is right now it just—the question is you know the funding you know if we're below 1 MNAV what's what's the terms going to be. I think the prospects of funding is good when you know the company's in a good place or share price is you know at a sufficient MNAV.
+
+(0:27:46) What would funding look like now if you know that's that's what I'm thinking about. How would it actually work? How would you do an equity raise when we're trading getting below 1 MNAV?
+
+**James:**
+(0:27:59) Well, yes. So, I was thinking, you know, back to my sort of timing of of leverage, etc. Um, you know, leverage at the right time, LSE uplisting. Um, get the MNAV above one, do a raise. If it works, it works.
+
+**Zincs:**
+(0:28:16) That's that's that's the difficulty with these uh Bitcoin treasuries. Until they're able to reach sufficient scale and you know are able to have MNAV agnostic ways of raising capital like the prefs it is difficult you know to see how you know essentially you you just have to wait and see because we could get an uplist, could add leverage, and it could still be trading below 1 MNAV. Then what what do you do?
+
+**James:**
+(0:28:46) Yeah, exactly. I mean I I think as well, you know, all all you know, these are all hypothetical situations, but you know, sort of just to pivot slightly, you know, I think one of the things is that we're obviously in a big period of learning at the moment. You know, it's still not even been 6 months since, you know, we did the IPO.
+
+(0:29:05) And certainly I think when we look back from where we came you know it's—Smarter Web has exceeded most people's expectations certainly in terms of what they've achieved um over the course of the last six months and going through a period of transition at the moment both in terms of you know what the identity looks like given current market conditions, what's going on with Bitcoin etc. There's a lot of um you know there's a it's a very delicate balance at the moment and I think so far the company's done a fantastic job in terms of trying to manage that.
+
+**Jamie:**
+(0:29:40) Um and so you know one of the things you know that I've been particularly um pleased about is that there is a lot of constructive dialogue and conversation going on within the community about different things that we can do and different ways that we can potentially look to continue to um raise funds to continue to purchase Bitcoin, you know, what does it mean if we go sub 1x MNAV? Um, what does it mean were if there were to be an uplisting, etc.
+
+(0:30:06) Um, so but you know the thing that I would implore most people is just to have again just a little bit of patience as well because the sentiment can turn extremely quickly just as how quickly as it turned in terms of when it when we started rolling over from June to now, it can quickly just as inflect and all of a sudden like all these conversations that we've been having you know effectively then just dissolve and we're back to where we were previously in terms of much more attractive MNAV levels to do the equity raises, etc.
+
+(0:30:41) So from my perspective I still think we're in a very very strong position and you know for now as well you know from my perspective not everything has to be done immediately. Sometimes the best things to do are actually to wait you know like it is—there's nothing wrong with actually waiting and that's not passive waiting it's active waiting.
+
+(0:30:59) So it doesn't mean that nothing's being done in the background. It still means that the company are engaging with various stakeholders whether it's the community, shareholders, potential investors, banks etc to put together variety of different um things to discuss with regards to strategic implementation. But nothing actually has to be executed or acted on.
+
+(0:31:19) Uh and sometimes maybe that actually could be the best thing to do is actually just to sort of sit and wait especially during this period of sort of market uncertainty which feels like it's being very macro-led. I'm not sure Zincs if you've got any sort of thoughts on that but uh you know just wanted to um reiterate that not everything has to be done immediately.
+
+**Zincs:**
+(0:31:45) Yeah. Yeah. No, I I I agree and I think that relatively the relative strength of Smarter Web has actually only increased in you know this bare market for the Bitcoin treasuries. In fact, I think each—you know previously everyone was going down the risk curve but now in times like this people perhaps can appreciate you know Strategy far more because they have that MNAV agnostic way to raise capital.
+
+(0:32:13) So I think you know Smarter Web is going to benefit once sentiment in the entire space changes. Um you know we're not going to have a scenario where Smarter Web's successful but MetaPlanet and Strategy are not. So you know like Jamie said perhaps we just have to wait for the wider market to pivot.
+
+(0:32:40) But with that being said, I still think that the relative strength of Smarter Web, especially as it positioned in the UK, it's it's it's just far stronger than what it was previously because, you know, the scale that we were able to reach before this happened has allowed us to, you know, have 10x more Bitcoin than the next person, the next company. And and obviously the Bitcoin per share has been consistently moving higher as well.
+
+**Jamie:**
+(0:33:05) And certainly that's one of the things that Smarter Web Management I'm sure working on is like how do they very succinctly um put together the message that differentiates them from other competitors because clearly what we saw in the US was that there was big saturation and a lot of these um Bitcoin treasury companies got um sort of banded under the same umbrella and it was very hard to distinguish uh in terms of what was quality.
+
+(0:33:30) And then that then got muddied by a lot of these Ethereum competitors coming along, the Solana competitors along which then obviously drew uh attraction, rotated capital and attention away as well. We haven't seen that in the UK. Everything sort of been primarily Bitcoin focused.
+
+(0:33:47) But again, it's trying to get a very succinct message in terms of what's been building in the background in terms of, you know, the Bitcoin per share progress, you know, the operating business progress, you know, the ongoing building out of the organization, etc.
+
+(0:34:06) Um but I do think you know one of the things to flag and sort of just um moving the conversation back slightly in terms of sentiment. It is worth flagging that um when I was at the DS conference this week even though Bitcoin is at sort of—was close to all-time highs that doesn't necessarily also mean that sentiment in terms of Bitcoin is is also at all-time highs. They're not sort of—there's not that one-to-one correlation.
+
+(0:34:32) So I actually went around speaking to a variety of asset managers um hedge fund managers etc saying look on a scale of 1 to 10 if 10 was max bullish in terms of you think the market conditions and setup are super constructive going into year end where do you think we are and and most people were sort of like around a seven uh to a to a seven and a half at the moment.
+
+(0:34:52) So, you know, from from my perspective, even though we're at all time, even though, you know, I know there's been like a little bit of push back in terms of the the business model saying, well, you know, Smarter Web, if they can't raise money when Bitcoin sentiment or Bitcoin's at all-time high and sentiment's at all-time highs, then, you know, what does that say about the business model?
+
+(0:35:10) I think it is important to have that nuance that actually despite where price is, there is still a little bit of a disconnect in terms of sentiment. So that for me gives Smarter Web some room to move forward uh in the future over the next few months.
+
+**James:**
+(0:35:23) Yeah. And then um just kind of linking into uh the the sort of have patience thing. Um I kind of wanted to talk a little bit about time preference.
+
+(0:35:42) So, if we're all sat watching our—watching the charts, watching the ticker, whatever, um, minute by minute, that actually makes us have an even higher time preference than perhaps we naturally would have done if we were out touching grass, right?
+
+(0:36:00) Um, if you bought into this for a, I don't know, one month, two month turnaround, then you know, sure, this this is even more painful if if you bought in back in June, July, whatever. I'm not saying it's not painful if you've got a longer time preference because it still is, right?
+
+(0:36:20) But what do—like from where I'm sat I'm thinking well you know 4, 8, 10 years time this seems like a no-brainer to me. Um, Bitcoin's only going to go up. Uh, and you know, Jesse put it much more eloquently than I'm going to in in his uh podcast yesterday um about deserving a premium even if you're only delivering, you know, a one or one and a half percent per quarter um uh yield on on your Bitcoin. Um because compounding that over a time period and Bitcoin's keger—that's sort of insane gains, right? Zincs, what do you think?
+
+**Zincs:**
+(0:37:11) I think definitely having a lower time preference is a must. Um and to put it into perspective, when I first bought MSTR in 2020, it made an all-time high in 2021, and we did not see another all-time high. It didn't surpass its all-time high from 2021 until 3 years later in 2024.
+
+(0:37:30) So that is 3 years of you know holding you know a company and you know if you've been in Bitcoin uh for more than one cycle you you you've been through this already. Um of course it's it's a bit different now because you know Bitcoin is not necessarily in a bare market.
+
+(0:37:52) Um and it's you know time frames is you know sped up with these Bitcoin treasuries. People want to see you know price going up every week but you know the reality of the market is that you have to be prepared to hold your positions for years really.
+
+(0:38:07) Um you know in TradFi they say you know don't invest with any cash that you need within the next 5 years for example. Um, and I think you just have to roll with the punches.
+
+(0:38:15) And you know, Bitcoin itself, I know we're close to all-time highs in uh the USD and then the dollar, but when you actually denominate it in gold, we're actually quite significantly below our all-time high. Um, which is how I prefer to denominate uh Bitcoin in because, you know, the dollar's just being debased extremely quickly.
+
+(0:38:45) So, if you look at the gold price, uh, you know, Bitcoin will have to cross well over $160,000 now for it to be at its all-time high in gold. And I think we've barely even had any sort of exuberance or, you know, bull market feeling for Bitcoin itself. Um, so yeah.
+
+**Jamie:**
+(0:39:06) Yeah, I I I I completely agree on that point as well. I mean, think one of the things um from my perspective is when I was at this uh institutional summit this week, you know, people talking about the long-term story of Bitcoin. This is not new, but you know, a lot of those targets for 2030 that are being still publicly stated are a million dollars by 2030.
+
+(0:39:25) You know, that's guys like um Fidelity talking about that um Arc, BlackRock, uh Coinbase, variety of leading figures within the industry going on and actively saying on the tape that that's where we're going to be within the space of, you know, effectively, you know, four or five years.
+
+(0:39:50) Um and so if you can have that time preference, then from my perspective, I think you are going to be in a in a in a good place. But, you know, that's not to discredit all the frustration that people within the entire sector are feeling.
+
+(0:40:03) And I I think it would be a disservice to sort of not acknowledge that. You know, everyone's in the same boat. There's a lot of people that bought too early. There's a lot of people that didn't sell when they could have. And there's a lot of could have, should have, would have um from everyone.
+
+(0:40:19) But I think you know the one thing to go back on is and to fall back on is the fact that if you fundamentally believe that Bitcoin is going to compound over the course of the next five years and obviously within that there will be volatility there will be draw downs and that is because of consistent fiat debasement which global bankers are consistently saying they're still seeing then you have a very strong chance that you are going to be on the right side of the money over the long term because Bitcoin will appreciate and just by default, so too should these, you know, um, Bitcoin treasury companies get pulled up in tandem.
+
+(0:40:51) And clearly, there will be a spread in terms of which ones outperform and underperform, but I do feel that is in in its terms a very solid anchor to keep going back to.
+
+**Zincs:**
+(0:41:05) Yeah, I just want to add as well like, you know, the Bitcoin power law, which is not as bullish as a million dollars by 2030. You know, 2030 has it at $500,000 and has it at 1 million in 2033.
+
+(0:41:22) So, you know, you should only really, to be honest, be buying these Bitcoin treasury companies if you have complete conviction in the underlying. Otherwise, in times like this, you're going to struggle. Um, you know, so you need to have that conviction in the underlying. You need to have conviction in Bitcoin. Know what you're holding.
+
+(0:41:41) And and the last point I just want to add is even though the share price is down from, you know, its all-time high since IPO, it is still up 26x. So, you know, it's not like the company hasn't done extremely well in terms of share price this year. It's just from its all-time highs. Obviously, it's down significantly like all the Bitcoin treasury companies.
+
+**Jamie:**
+(0:42:05) Yeah, I I think that's a really good point, Zincs, to look back because, you know, it is so easy in hindsight to to see, but you know, I think certainly if people were going to ask in at the end of April when we did the IPO, you know, what would you what would be your sort of knock out the park um price target? And I think most people would have said if we got to 100p, that would be um pretty um that would be a really decent result.
+
+(0:42:31) And you know I don't think anyone expected obviously the the level and the velocity of the rise you know not not just within Smarter Web but the entire sector as well. Um so I do think like you said that you sort of have to reframe it when you look at it.
+
+(0:42:43) I think it's what's been painful just sort of where it's come from. But you know if you actually look at what it's done since IPO it's still one of the best performing equities globally. It's still one of the best performing IPOs in the UK. You know, it's it's still been very very successful all within that six-month period.
+
+**James:**
+(0:43:01) Yeah, I can't remember which year Zincs said it gets to a million dollars, but um I'm kind of looking forward to being able to draw that straight line chart which takes the volatility out um kind of eight years time or whatever. Um and just going, yeah, it went from point A to point B and yeah, it was pretty wild along the way, but um how amazing is that kind of thing?
+
+**Jamie:**
+(0:43:20) Yeah, exactly. And you know again you know I I know we sort of come back to the volatility but you know this is—I'm I'm using the the quote here from Michael Saylor that the volatility is a feature not a bug.
+
+(0:43:37) And you know in order to have the outsized returns you have to obviously be able to take the the significant draw downs as well. And you know again it it can be very frustrating and very painful for a lot of people especially those that have been in crypto and are used to those types of cycles. Um you know it's it's not easy for a lot of people but that is really what gives the juice when the sentiment you know inflects and we do have that period where momentum is running.
+
+(0:44:07) Um you know one of the things I also wanted to mention you know what from my perspective personally what gets me up in the morning about Smarter Web is the fact that you know we've got a very unique mission here right in the UK it's still very very difficult to buy Bitcoin in ETFs or Bitcoin exposure if you're a retail holder.
+
+(0:44:25) Now, I know we know that, but a lot of people still within Asia, Europe, and the US don't actually recognize that we're in this very, very specific category. They still think it's very easy for people to be able to get Bitcoin exposure. And they also don't recognize how difficult it is to be able to buy it in terms of on exchange, i.e. to send money from your local UK bank account to an exchange. It's not particularly easy.
+
+(0:44:50) And so Smarter Web from my perspective has a very strong mission here to what I hope will be to get into a variety of different trackers that effectively a lot of UK pension funds hold, asset managers hold and people indirectly and without some of them a large proportion without even knowing subsequently then have access to the best performing asset in the world.
+
+(0:45:15) And you know to be blunt there's not a lot of great stuff going on in the UK. There's not a lot for us to shout about. And so this for me is a big thing and it's certainly from my perspective, you know, one of the things that I think that the community galvanizes around and I think it is worth re-highlighting.
+
+**Zincs:**
+(0:45:33) Can I just add to that as well? You put it brilliantly. I am completely optimistic and bullish on Smarter Web long-term. The short-term stuff, who knows, right? We, you know, we can discuss these things, analyze, make predictions, but I think it's very clear that the route to getting onto the LSE and then the Footsie 250 and then eventually the Footsie 100 is actually, you know, quite easy for Smarter Web relatively because we have Bitcoin.
+
+(0:46:00) Um, even if we traded at, you know, our NAV, eventually it's only a matter of time before we qualify for the Footsie 250. And with automatic inclusion, you know, it's just, you know, it's not a political process like in the US, it will happen.
+
+(0:46:23) And, you know, all Bitcoin needs to do is double in price or, you know, trade over $200,000 or something like that. And we would be able to automatically qualify into the Footsie 250.
+
+(0:46:36) And I think once that happens, this company will then be able to, you know, be on certain desks of these fund managers and because a lot of people don't want to touch a stock that's trading on Aquis to be honest with you. Um, and the credibility, the institutional credibility, you know, all all sorts of institutional capital will open up to Smarter Web once it gets on the LSE, once it's in these indexes.
+
+(0:46:59) Not just the passive flows but also the active flows from people that want to get outperformance. You know, in the UK there, you know, these some fund managers have mandates where they can only buy, you know, UK equities, for example, on certain exchanges, in certain indexes. And if you want that extra juice, you're looking in a Footsie 250, what company are you really going to pick? JD Sports, you know?
+
+**Jamie:**
+(0:47:28) So yeah, you you make a great point there, Zincs, and it's worth re-highlighting again why Smarter Web will be um so um a very unique stock when or if it does get listed at some point in the future because one of the things that the UK is starved of is beta or volatility in terms of its um equities that it offers.
+
+(0:47:48) Because if you look at the Footsie 100, it's arguably the most defensive major 100 index globally. Like all our top stocks are defensive stocks. They're either pharmaceuticals, they're consumer companies, they're utilities, they're tobacco companies.
+
+(0:48:06) We don't have an index construct like the US which is predominantly tech heavy. So what that means is that it's very very difficult for active fund managers to outperform because you know they don't have a huge amount of options. The stocks that provide beta are probably things like the banks and the miners but outside of that it's very few and far between. We don't actually have any great tech companies.
+
+(0:48:39) So there's a big place or there is a big gap for a stock to have a much higher volatility profile than the entire index and and a variety of other stocks as well. And I think that's what's going to make Smarter Web uh what makes it such an interesting um prospect, you know, for the future in terms of what its plans are um as it grows and starts to get included in uh various other indices if that happens.
+
+**Zincs:**
+(0:49:06) I just want to add one just quickly. Uh the Footsie 100 the last 10 years the CAGR has been 5%. So you know you say defensive I say extremely boring high dividends you know there's there's nothing in there that you really want to have in your portfolio if you want outperformance.
+
+(0:49:24) Um so you know there was a few times earlier in the year where Smarter Web was the most traded stock in the—on you know one of the biggest brokers in the UK and we—this was on the Aquis exchange you know people on Trading 212 for example couldn't get involved.
+
+(0:49:43) And I think for the first time in the UK once we get the uplisting there's going to be a stock for you know everyone to sort of rally around. Uh in the US they have Tesla they got all sorts options available to them. You know, in the UK, there's nothing to get excited about.
+
+(0:49:57) So, when that does happen, you know, Smarter Web's in a good place to be that fun stock. Um, and and the benefits that will come with that should, you know, be huge.
+
+**Jamie:**
+(0:50:05) Yeah. Yeah. Exactly. You know, there's still a huge amount of people outside the crypto sphere that don't even know about Smarter Web because it might not even be accessible on the stock app trading app that they currently use.
+
+(0:50:23) And as you know, as it grows in terms of profile and starts to come into new distribution methods via different trading houses, different trading apps, that naturally is then going to help the community to grow.
+
+(0:50:38) And you know it does like you said the the identity does fit in terms of trying to get Bitcoin as you know younger generation around something that they can get behind. Um, that's interesting because like you said like in the UK again like when you look at the top—our top stocks in the UK?
+
+(0:50:51) They're things like you know Glaxo um Unilever, Diageo, you know LSE um British American Tobacco—things things like that you know it's there's nothing particularly interesting that I think people can get behind.
+
+**James:**
+(0:51:10) And on that note, I think we'll we'll we'll call it a day there. Thank you very much, guys. Uh really appreciate you taking the time to share your thoughts on, you know, where we're at at the moment and and what the potential future holds for us so as shareholders. Um is there any final thoughts that you'd like to add?
+
+**Jamie:**
+(0:51:28) Yeah, I wanted to say um thank you James for for everything that you're doing at the moment because I know—said it before, but you know consistently putting together the different content with different people coming on and being there and and sort of being an anchor to get all these different types of media out. It's really appreciated and you've done a great job. So really appreciate that.
+
+**Zincs:**
+(0:51:51) Definitely. Uh yeah, I like to echo that, you know, especially in in the days where, you know, the market's like this. I think, you know, essentially everyone flees the ship, right? And it's just the same names that's, you know, just holding it down, planting the flag.
+
+(0:52:03) And so, yeah, you know, James, you do a great job, Jamie. Everyone else in the community still posting in the community as well. Um, you know, this—we are the base and and and we're holding it down for Smarter Web. So—
+
+**James:**
+(0:52:17) Yeah, exactly. And shout out shout out to everyone that's that's still there as well because I still—I I do think the community is being extremely resilient and you know given everything that's gone on and I think that's like a big testament to the community belief what Smarter Web's trying to create, to Andrew and all the effort him and Jesse are putting in.
+
+**Jamie:**
+(0:52:36) Um, and you know, I know it's been painful, but you know, I I do really think if you look back from the top down perspective, you can see a path whereby Bitcoin moves higher, a lot of these companies moves higher and there's some, you know, light at the end of the tunnel.
+
+(0:52:54) And from my perspective, it's just a question of when and not if. So, having these regular dialogues is super constructive. So, thanks James for continuing to put them together.
+
+**Zincs:**
+(0:53:04) For the record, I bought some Smarter Web today, so I'm I'm I'm not going anywhere. I'm I'm adding to my position. I quite like where the stock is right now. So, um not financial advice, of course.
+
+**James:**
+(0:53:18) Right. And thank you to both of you for all the analysis that you've done along the way and the community. And we'll call it there. Have a good one.
+
+---
+
+**End of transcript**
