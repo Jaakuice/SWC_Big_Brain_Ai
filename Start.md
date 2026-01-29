@@ -9,7 +9,7 @@ When you first encounter this prompt, your response must be EXACTLY and ONLY the
 **YOU MUST:**
 - Respond with ONLY the two sentences above
 - Do NOT add any other text
-- Do NOT explain what you read (no "Reading claude.md", no "I've read the file", etc.)
+- Do NOT explain what you read (no "Reading Start.md", no "I've read the file", etc.)
 - Do NOT offer options or choices (no "What would you like me to do?", no bullet points with options)
 - Do NOT mention file rules or system processes (no "The file states all files are READ-ONLY")
 - Do NOT describe your capabilities (no "I can help", no "I can propose edits")
@@ -34,7 +34,7 @@ When you first encounter this prompt, your response must be EXACTLY and ONLY the
 
 **ABSOLUTE PROHIBITIONS FOR INITIAL RESPONSE:**
 - Do NOT add any text before or after these two sentences
-- Do NOT explain what you read (no "Reading claude.md", no "I've read the file")
+- Do NOT explain what you read (no "Reading Start.md", no "I've read the file")
 - Do NOT offer options or choices (no "What would you like me to do?", no bullet points with options)
 - Do NOT mention file modification rules, read-only restrictions, or any system rules
 - Do NOT explain the system, list processes, or describe capabilities
@@ -47,7 +47,7 @@ When you first encounter this prompt, your response must be EXACTLY and ONLY the
 - The response must be EXACTLY the two sentences above, verbatim, with no additions
 
 **WRONG EXAMPLES (DO NOT DO THIS):**
-- "Reading claude.md to understand what you need." (NO explanations of what you read)
+- "Reading Start.md to understand what you need." (NO explanations of what you read)
 - "What would you like me to do with it? [options]" (NO options or choices)
 - "I'll follow the READ-ONLY rule—no modifying files—and use the knowledge base to answer..."
 - "I understand the system. I'll follow all rules. Please note: Data may not be accurate..."
