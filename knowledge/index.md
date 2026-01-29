@@ -46,6 +46,7 @@ This index maps queries to relevant data sources and provides selection guidance
 **Purpose:** Core quantitative dataset
 **Key Fields:** Date/Time, Share prices, BTC price (GBP), BTC balance, Bitcoin purchases, Share issuance, Market cap, mNAV, Sats per share, Cash, Yield metrics, Tennyson signals
 **Time Range:** IPO (2025-04-25) onwards, hourly/daily granularity
+**Triggers:** share price, BTC balance, Bitcoin holdings, mNAV, sats per share, market cap, volume, yield, how much Bitcoin, current price, historical data, trends, graph, plot, chart, calculate, projection, performance, returns, dilution, shares outstanding, cash position, ATH, price history
 **Selection Tips:**
 - Use for any quantitative query
 - Filter by date range for trend analysis
@@ -55,6 +56,7 @@ This index maps queries to relevant data sources and provides selection guidance
 ### `/RNS/` (106 PDFs)
 **Purpose:** Official regulatory announcements
 **Date Range:** April 2025 - January 2026
+**Triggers:** RNS, regulatory, official announcement, Bitcoin purchase announcement, placing, fundraise, bookbuild, subscription, director appointment, TR1, major shareholder, trading update, AGM, general meeting, results, official filing, when did SWC buy Bitcoin, how much did they raise, new director
 **Key Types:**
 - Bitcoin purchase announcements (filter by "Bitcoin" or "purchase")
 - Share issuances (filter by "placing", "subscription", "bookbuild")
@@ -71,6 +73,7 @@ This index maps queries to relevant data sources and provides selection guidance
 ### `/Youtube/` (90 .txt files)
 **Purpose:** Video transcripts with CEO insights and strategy discussions
 **Date Range:** April 2025 - January 2026
+**Triggers:** YouTube, video, interview, podcast, transcript, what did Andrew say, CEO commentary, strategy discussion, Bitcoin Treasuries World, BTW, Week In The World, mNAV update, investor call, presentation, panel, conference, True North Now, IG interview
 **Key Series:**
 - "A Week In The World Of SWC" (Episodes #3-21) - Weekly updates
 - "Smarter Webley Wednesdays" - Regular CEO segments
@@ -88,6 +91,7 @@ This index maps queries to relevant data sources and provides selection guidance
 **Date Range:** June 2024 - January 2026
 **Format:** `posts-YYYY-MM.json`
 **Statistics:** 861 meaningful posts
+**Triggers:** Andrew Webley, Andy, @asjwebley, CEO tweets, what did Andrew tweet, Andrew's view, CEO opinion, Webley said, think like Andy, Andrew's perspective, CEO social media
 **Selection Tips:**
 - Use monthly files for time-specific queries
 - Load recent months (2026-01, 2025-12) for "latest" queries
@@ -99,6 +103,7 @@ This index maps queries to relevant data sources and provides selection guidance
 **Purpose:** Official company announcements and updates
 **Date Range:** March 2025 - January 2026
 **Format:** `posts-YYYY-MM.json`
+**Triggers:** @smarterwebuk, company tweets, official Twitter/X, SWC social media, company announcement tweet, what did SWC tweet, corporate social media
 **Selection Tips:**
 - Use for official company communication
 - Cross-reference with RNS for formal announcements
@@ -108,6 +113,7 @@ This index maps queries to relevant data sources and provides selection guidance
 **Purpose:** Independent Bitcoin treasury company analysis
 **Date Range:** February 2025 - January 2026
 **Format:** `posts-YYYY-MM.json`
+**Triggers:** Croesus, @Croesus_BTC, Jesse Myers tweets, Bitcoin treasury analysis, independent analysis, what did Croesus say, market commentary, think like Croesus
 **Selection Tips:**
 - Use for independent perspective on SWC
 - Cross-reference with official sources for verification
@@ -117,6 +123,7 @@ This index maps queries to relevant data sources and provides selection guidance
 **Purpose:** Broker research and deal documentation
 **Date Range:** May 2025 - October 2025
 **Naming:** `DL_SWC_*.pdf` (Deal Letters), `RES_SWC_*.pdf` (Research Reports)
+**Triggers:** Tennyson, broker research, broker note, deal letter, research report, analyst estimate, price target, broker analysis, yield estimate, Tennyson Securities, broker recommendation, investment research
 **Selection Tips:**
 - Use for broker analysis and yield estimates
 - Cross-reference with CSV for validation
@@ -150,9 +157,16 @@ This index maps queries to relevant data sources and provides selection guidance
 **Purpose:** Historical media coverage and external perspective
 **Types:** News articles (.txt), TV appearances (.txt)
 **Date Range:** March 2025 - September 2025
+**Key Files & Triggers:**
+| Subdirectory | Use When Query Mentions |
+|--------------|------------------------|
+| `/News articles/` (9 files) | news, press, media, Daily Mail, Blockspace, external perspective, MicroStrategy comparison, FTSE 100, JD Wetherspoon, public perception |
+| `/Tv appearances/` (1 file) | CNBC, Squawk Box, TV interview, television appearance, Andrew Webley interview |
+
 **Selection Tips:**
-- Use for external perspective and historical context
-- Cross-reference with official sources for accuracy
+- Use for external/third-party perspective on SWC
+- Use when asking "what did the press say" or "how was SWC covered"
+- Cross-reference with official sources (RNS, prospectus) for accuracy
 
 ---
 
@@ -263,6 +277,25 @@ This index maps queries to relevant data sources and provides selection guidance
   - IPO period: April-May 2025
   - Growth period: June-July 2025
   - Recent period: November 2025 - January 2026
+
+---
+
+---
+
+## Specialized Index Files (in `/knowledge/`)
+
+These files provide additional guidance for specific query types:
+
+| File | Use When | Triggers |
+|------|----------|----------|
+| `rns_index.md` | Need to find specific RNS types | RNS categories, which RNS to use, RNS types |
+| `youtube_index.md` | Need to find specific YouTube videos | video series, episode list, which YouTube to use |
+| `example_bitcoin_purchases.md` | Bitcoin purchase timeline reference | purchase timeline, BTC acquisitions |
+| `example_ceo_statements.md` | CEO statement patterns | CEO quotes, what Andrew said |
+| `example_financial_metrics.md` | Financial metric guidance | which metrics, how to calculate |
+| `example_timeline_events.md` | Key event timeline | timeline, key dates, milestones |
+
+**Tip:** Use these specialized indexes when the main index points you to a large category (RNS, YouTube) and you need help narrowing down to specific files.
 
 ---
 
