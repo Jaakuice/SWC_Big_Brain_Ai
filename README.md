@@ -19,6 +19,7 @@
 - [Disclaimer](#disclaimer)
 - [Contributing](#contributing)
 - [Project Structure](#project-structure)
+- [About the Creator](#about-the-creator)
 - [Acknowledgments](#acknowledgments)
 
 ---
@@ -385,6 +386,24 @@ SWC-Ai/
 ├── Smarter Web/                 # Company documents (9 files)
 └── Legacy media/                # Historical coverage (10 TXT files)
 ```
+
+---
+
+## 👤 About the Creator
+
+This dataset was gathered and is maintained by **[@DivBy21](https://x.com/DivBy21)**.
+
+The repository represents:
+- Data collection and extraction from multiple sources
+- Transcript processing and organization
+- Building structured knowledge management systems
+- Creating AI-optimized documentation and indexing
+
+This project aims to provide the most comprehensive publicly available dataset on the Bitcoin treasury company The Smarter Web Company.
+
+**Connect:**
+- Twitter/X: [@DivBy21](https://x.com/DivBy21)
+- GitHub: This repository
 
 ---
 
