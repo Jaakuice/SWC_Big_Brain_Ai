@@ -4,9 +4,9 @@
 
 > **A comprehensive dataset for analyzing the first UK-listed company with a Bitcoin treasury strategy**
 
-[![Data](https://img.shields.io/badge/Data-293%20files-blue)](https://github.com/Jaakuice/SWC_Big_Brain_Ai)
+[![Data](https://img.shields.io/badge/Data-294%20files-blue)](https://github.com/Jaakuice/SWC_Big_Brain_Ai)
 [![YouTube](https://img.shields.io/badge/YouTube-90%20transcripts-red)](https://github.com/Jaakuice/SWC_Big_Brain_Ai)
-[![Tweets](https://img.shields.io/badge/Tweets-1,281%20posts-1DA1F2)](https://github.com/Jaakuice/SWC_Big_Brain_Ai)
+[![Tweets](https://img.shields.io/badge/Tweets-1,296%20posts-1DA1F2)](https://github.com/Jaakuice/SWC_Big_Brain_Ai)
 
 ---
 
