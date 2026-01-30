@@ -4,21 +4,22 @@
 
 This directory contains structured data extracted from @asjwebley's X.com timeline.
 
-**Extracted:** January 27, 2026 at 10:30 AM
+**Source:** `@asjwebley_X.html` (saved Nitter frontend page); `Andrew Webley (@asjwebley) _ lightbrd.html` (lightbrd snapshot).
+**Extracted:** January 27, 2026 at 12:05 PM; **updated** January 30, 2026 with missing tweets from lightbrd HTML.
 **Total Timeline Items:** 1330
-**Meaningful Posts:** 861
+**Meaningful Posts:** 865 (including 4 added from lightbrd snapshot)
 **Filtered Out:** 469
 
 ## Statistics
 
 ### By Post Type
-- **original**: 225
+- **original**: 227
 - **quote**: 91
-- **reply**: 527
+- **reply**: 529
 - **repost_with_comment**: 18
 
 ### By Month
-- **2026-01**: 36 posts
+- **2026-01**: 40 posts
 - **2025-12**: 46 posts
 - **2025-11**: 56 posts
 - **2025-10**: 55 posts
@@ -40,7 +41,7 @@ This directory contains structured data extracted from @asjwebley's X.com timeli
 ## Files
 
 Monthly JSON files in format `posts-YYYY-MM.json`:
-- `posts-2026-01.json` (36 posts)
+- `posts-2026-01.json` (40 posts)
 - `posts-2025-12.json` (46 posts)
 - `posts-2025-11.json` (56 posts)
 - `posts-2025-10.json` (55 posts)
@@ -99,6 +100,16 @@ Posts were filtered to exclude:
 - **Source elements:** `<div class="timeline-item" data-username="asjwebley">`
 - **Text extraction:** Excludes quoted content from quote tweets
 - **Engagement data:** Snapshot from January 27, 2026
+
+## January 2026 update (lightbrd HTML)
+
+Four missing tweets were added to `posts-2026-01.json` from `Andrew Webley (@asjwebley) _ lightbrd.html`:
+- **2017143724858286103** (Jan 30) — Original: Bitcoin as store of value / corporate treasury (personal view).
+- **2016764105114181898** (Jan 29) — Original: Speaking at MadBitcoin_2026, Madrid, May 2026.
+- **2016782854198321312** (Jan 29) — Reply: Event agenda timing, invite to say hello.
+- **2016566382045884614** (Jan 28) — Reply: Aquis to LSE / AIM to Main Market examples.
+
+Media arrays were left empty (no media URLs added) per archive policy.
 
 ## Usage
 
