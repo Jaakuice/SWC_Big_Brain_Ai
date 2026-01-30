@@ -1,0 +1,111 @@
+THIS ANNOUNCEMENT AND THE INFORMATION CONTAINED HEREIN IS RESTRICTED AND IS
+NOT FOR RELEASE, PUBLICATION OR DISTRIBUTION, IN WHOLE OR IN PART, DIRECTLY OR
+INDIRECTLY, IN OR INTO THE UNITED STATES, AUSTRALIA, CANADA, THE REPUBLIC OF
+SOUTH AFRICA OR JAPAN OR ANY OTHER JURISDICTION IN WHICH SUCH RELEASE,
+PUBLICATION OR DISTRIBUTION WOULD BREACH ANY APPLICABLE LAW OR REGULATION.
+
+THIS ANNOUNCEMENT IS FOR INFORMATION PURPOSES ONLY AND DOES NOT CONSTITUTE
+OR CONTAIN ANY INVITATION, SOLICITATION, RECOMMENDATION, OFFER OR ADVICE TO
+ANY PERSON TO SUBSCRIBE FOR, OTHERWISE ACQUIRE OR DISPOSE OF ANY SECURITIES IN
+THE SMARTER WEB COMPANY PLC WHERE SUCH OFFER WOULD BREACH ANY APPLICABLE
+LAW OR REGULATION.
+
+THE INFORMATION CONTAINED WITHIN THIS ANNOUNCEMENT IS DEEMED BY THE
+COMPANY TO CONSTITUTE INSIDE INFORMATION STIPULATED UNDER THE MARKET ABUSE
+REGULATION (EU) NO. 596/2014 AS IT FORMS PART OF THE DOMESTIC LAW OF THE UNITED
+KINGDOM BY VIRTUE OF THE EUROPEAN UNION (WITHDRAWAL) ACT 2018 (AS AMENDED)
+("UK MAR"). UPON THE PUBLICATION OF THIS ANNOUNCEMENT VIA THE REGULATORY
+INFORMATION SERVICE, THIS INSIDE INFORMATION IS NOW CONSIDERED TO BE IN THE
+PUBLIC DOMAIN.
+
+06 August 2025
+
+The Smarter Web Company PLC
+(“The Smarter Web Company” or "Company")
+
+Smarter Convert - $21 Million Subscription
+
+The Smarter Web Company (AQUIS: SWC | OTCQB: TSWCF | FRA: 3M8) is pleased to
+announce the launch of Smarter Convert, a strategic, interest free capital-raising initiative
+structured as a convertible bond, denominated in Bitcoin. This innovative instrument has
+been fully subscribed by TOBAM for $21 million, a respected institutional investor and
+independent, employee-owned asset management firm founded in 2006 by Yves Choueifaty.
+TOBAM has been actively engaged in the Bitcoin space since 2016.
+
+Smarter Convert has been developed in partnership with TOBAM. The structure is designed
+to align incentives across stakeholders while offering appropriate downside protection.
+TOBAM has subscribed through three of its managed funds. It is intended that further bonds
+could be issued in the future, to other investors, including TOBAM, at future market prices,
+using this same structure.
+
+On 05 August 2025 the closing share price of The Smarter Web Company equity was £1.95
+per share. Therefore, the Reference Share Price (“Reference Share Price”) for this initial
+tranche of Smarter Convert is set to £1.95. The Reference USD Exchange Rate (“Reference
+USD Exchange Rate”) for funds received by the Company in USD is 1.3288 GBP/USD.
+Key terms of the Smarter Convert instrument include:
+
+• Conversion Share Price (“Conversion Share Price”): Investors may convert into equity
+at a 5% premium to the Reference Share Price.
+• Forced Conversion: After an initial 6-month period, the Company has the right to force
+conversion into equity if the share price trades 50% above the Conversion Share Price,
+for a period of 10 trading days.
+• Downside Protection: If the bonds are not converted within 12 months, the Company
+will repay 98% of the bond value to investors.
+• The bond's principal value is denominated in Bitcoin. This means the amount
+repayable at maturity (if not converted into equity) will be adjusted based on the price
+of Bitcoin at that time. If the value of Bitcoin increases, the repayment amount
+increases; if the value of Bitcoin decreases, the repayment amount decreases.
+However, the Conversion Share Price is fixed in GBP, as stated above.
+
+Smarter Convert offers the potential to raise capital at a premium to the current market price,
+while also allowing the Company to increase its Bitcoin holdings. However, the total amount
+of Bitcoin to be acquired through this initiative will be capped at approximately 30% of the
+Company’s existing unencumbered treasury Bitcoin holdings, ensuring prudent and measured
+growth.
+
+Scenario Analysis: Smarter Convert - Illustrating Potential Outcomes
+
+To help investors understand the potential impact of Smarter Convert, two illustrative
+scenarios have been modelled - representing both downside and upside outcomes:
+
+“Worst Case” Scenario
+
+If the share price does not rise meaningfully over the next 12 months, it may not be attractive
+for investors to convert their bonds into equity. In this case, investors may request repayment
+of 98% of the bond’s value at maturity. The Smarter Web Company would retain the
+remaining 2% - this effectively offsets expenses incurred from using this capital-raising
+initiative.
+
+“Best Case” Scenario
+
+If the share price rises above the Conversion Share Price, investors may choose to convert
+their bonds into equity. Alternatively, if the share price trades at or above a 50% premium to
+the Conversion Share Price for at least 10 consecutive trading days after the initial six-month
+period, the Company has the right to force conversion.
+
+In this scenario, The Smarter Web Company achieves a capital raise at a premium based on
+the Conversion Share Price being higher than the Reference Share Price, resulting in
+approximately 5% less dilution compared to a traditional equity raise, at the issue date of the
+bond.
+
+Impact On Shares In Issue
+
+If all bonds are converted into equity a total of 7,718,551 shares will be issued. This is
+calculated at $21 million converted into equity at the Reference USD Exchange Rate divided
+by the Conversion Share Price.
+
+Yves Choueifaty, CEO of TOBAM said “TOBAM is driven by a commitment to long-term
+alignment - combining discipline in execution with clarity in design and a drive for innovation.
+Smarter Convert exemplifies this - offering prudent downside protection, premium equity
+participation, and a Bitcoin-denominated structure that reflects our conviction in Bitcoin as
+the next cornerstone of trust. We greatly valued the constructive dialogue with Andrew and
+his team in shaping this transaction, which sets a new benchmark for responsible, innovation-
+driven capital raising.”
+
+Andrew Webley, CEO of The Smarter Web Company said “We have been building our Bitcoin-
+backed balance sheet with laser focus, and today’s announcement marks yet another first for
+the UK capital markets. I am grateful to Yves and his team for their collaboration and support
+in bringing this innovative structure to life. We believe that this new structure will open up a
+new segment of capital for the Company and complement our existing funding strategies as
+we pursue our ambition to make The Smarter Web Company into one of the largest publicly
+listed companies in the UK.”

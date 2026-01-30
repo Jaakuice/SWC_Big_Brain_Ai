@@ -1,0 +1,119 @@
+TR-1: Standard form for notification of major holdings
+
+NOTIFICATION OF MAJOR HOLDINGS (to be sent to the relevant issuer and to the FCA in Microsoft
+Word format if possible) i
+
+1a. Identity of the issuer or the underlying issuer
+of existing shares to which voting rights are at-
+GB00BPJHZ015
+tached ii:
+1b. Please indicate if the issuer is a non-UK issuer (please mark with an “X” if appropriate)
+Non-UK issuer
+
+2. Reason for the notification (please mark the appropriate box or boxes with an “X”)
+
+An acquisition or disposal of voting rights
+
+An acquisition or disposal of financial instruments
+
+An event changing the breakdown of voting rights
+
+Other (please specify) iii: Issuer increasing its ordinary share capital/total voting rights X
+
+3. Details of person subject to the notification obligation iv
+Name Long Run Capital II, LP
+City and country of registered office (if applicable) San Francisco, USA
+
+4. Full name of shareholder(s) (if different from 3.) v
+
+Name
+
+City and country of registered office (if applicable)
+
+5. Date on which the threshold was crossed or
+29/May/2025
+reached vi:
+
+6. Date on which issuer notified (DD/MM/YYYY): 2/July/2025
+
+7. Total positions of person(s) subject to the notification obligation
+% of voting rights Total number of
+% of voting rights at-
+through financial instru- Total of both in % voting rights held
+tached to shares (to-
+ments (8.A + 8.B) in issuer (8.A +
+tal of 8. A)
+(total of 8.B 1 + 8.B 2) 8.B) vii
+Resulting situation
+on the date on which
+threshold was
+2.84% - 2.84% 5,338,308
+crossed or reached
+Position of previous
+notification (if 3.63% - 3.63%
+applicable)
+
+8. Notified details of the resulting situation on the date on which the threshold was crossed or
+reached viii
+A: Voting rights attached to shares
+Class/type of Number of voting rights ix % of voting rights
+shares
+ISIN code (if possible) Direct Indirect Direct Indirect
+(DTR5.1) (DTR5.2.1) (DTR5.1) (DTR5.2.1)
+Ordinary shares
+GB00BPJHZ015 5,338,308 2.84%
+
+SUBTOTAL 8. A 5,338,308 2.84%
+
+B 1: Financial Instruments according to DTR5.3.1R (1) (a)
+Number of voting rights
+Type of financial in- Expiration Exercise/ that may be acquired if
+% of voting rights
+strument date x Conversion Period xi the instrument is
+exercised/converted.
+
+SUBTOTAL 8. B 1
+
+B 2: Financial Instruments with similar economic effect according to DTR5.3.1R (1) (b)
+Exercise/ Physical or
+Type of financial Expiration Number of
+Conversion Pe- cash % of voting rights
+instrument date x voting rights
+riod xi Settlement xii
+
+SUBTOTAL
+8.B.2
+9. Information in relation to the person subject to the notification obligation
+(please mark the
+applicable box with an “X”)
+Person subject to the notification obligation is not controlled by any natural person or legal entity and does not
+control any other undertaking(s) holding directly or indirectly an interest in the (underlying) issuer xiii
+
+Full chain of controlled undertakings through which the voting rights and/or the
+financial instruments are effectively held starting with the ultimate controlling natural person or legal entity
+(please add additional rows as necessary) xiv
+Name of controlled % of voting
+undertaking rights
+% of voting through finan- Total of both if
+rights if it equals cial instru- it equals or is
+Name xv or is higher than ments if it higher than the
+the notifiable equals or is notifiable
+threshold higher than threshold
+the notifiable
+threshold
+Long Run Capital Long Run Capital II,
+2.84%
+Management LLC L.P.
+
+10. In case of proxy voting, please identify:
+Name of the proxy holder
+
+The number and % of voting rights held
+
+The date until which the voting rights will be
+held
+
+11. Additional information xvi
+Place of completion Carmel-by-the-sea, CA, USA
+
+Date of completion 2, July 2025
