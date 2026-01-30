@@ -113,7 +113,7 @@ Contains historical media coverage and appearances related to SWC.
 ---
 
 ### **`/RNS/`** (106 files)
-- **Type:** PDF documents
+- **Type:** TXT documents
 - **Content:** Regulatory News Service (RNS) announcements - official company filings and disclosures required by UK stock exchange regulations
 - **Date Range:** April 2025 - January 2026
 - **Key Document Types:**
@@ -148,11 +148,11 @@ Contains company-specific documents, presentations, and corporate information.
 ---
 
 ### **`/Tennyson/`** (20 files)
-- **Type:** PDF documents
+- **Type:** TXT documents
 - **Content:** Research reports and deal letters from Tennyson Securities (corporate adviser/broker)
 - **File Naming Convention:**
-  - `DL_SWC_*.pdf` - Deal Letters (dates in DDMMYY format)
-  - `RES_SWC_*.pdf` - Research Reports (dates in DDMMYY format)
+  - `DL_SWC_*.txt` - Deal Letters (dates in DDMMYY format)
+  - `RES_SWC_*.txt` - Research Reports (dates in DDMMYY format)
 - **Date Range:** May 2025 - October 2025
 - **Purpose:** Broker research, deal documentation, and investment analysis
 
@@ -237,9 +237,9 @@ Contains structured social media data extracted from X.com (Twitter) accounts re
 | knowledge | 10 | MD, CSV |
 | Legacy media/News articles | 9 | TXT |
 | Legacy media/Tv appearances | 1 | TXT |
-| RNS | 106 | PDF |
+| RNS | 106 | TXT |
 | Smarter Web | 9 | TXT |
-| Tennyson | 20 | PDF |
+| Tennyson | 20 | TXT |
 | Tweets/asjwebley | 19 | JSON, MD |
 | Tweets/Croesus_BTC | 13 | JSON, MD |
 | Tweets/smarterwebuk | 12 | JSON, MD |
