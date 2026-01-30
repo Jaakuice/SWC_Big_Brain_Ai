@@ -4,19 +4,19 @@
 
 This directory contains structured data extracted from @smarterwebuk's X.com timeline.
 
-**Extracted:** January 27, 2026 at 12:30 PM
+**Extracted:** January 27, 2026 at 12:30 PM; **updated** with missing tweets from lightbrd HTML snapshot.
 **Total Timeline Items:** 134
-**Meaningful Posts:** 132
+**Meaningful Posts:** 136 (including 4 added from lightbrd snapshot)
 **Filtered Out:** 2
 
 ## Statistics
 
 ### By Post Type
-- **original**: 129
+- **original**: 133
 - **quote**: 3
 
 ### By Month
-- **2026-01**: 20 posts
+- **2026-01**: 24 posts
 - **2025-12**: 12 posts
 - **2025-11**: 8 posts
 - **2025-10**: 8 posts
@@ -31,7 +31,7 @@ This directory contains structured data extracted from @smarterwebuk's X.com tim
 ## Files
 
 Monthly JSON files in format `posts-YYYY-MM.json`:
-- `posts-2026-01.json` (20 posts)
+- `posts-2026-01.json` (24 posts)
 - `posts-2025-12.json` (12 posts)
 - `posts-2025-11.json` (8 posts)
 - `posts-2025-10.json` (8 posts)
@@ -83,6 +83,16 @@ Posts were filtered to exclude:
 - **Source elements:** `<div class="timeline-item" data-username="smarterwebuk">`
 - **Text extraction:** Excludes quoted content from quote tweets
 - **Engagement data:** Snapshot from January 27, 2026
+
+## January 2026 update (lightbrd HTML)
+
+Four missing tweets were added to `posts-2026-01.json` from `The Smarter Web Company (@smarterwebuk) _ lightbrd.html`:
+- **2016487226209689736** (Jan 28) — Original: RNS Result of General Meeting (resolution passed on a poll); thread starter.
+- **2016487244635205843** (Jan 28) — Original: Thread reply with link to RNS on website.
+- **2014058448447574245** (Jan 21) — Original: Livestream Friday with @asjwebley & @Croesus_BTC (LSE uplist, prospectus, 2026); 23 Jan 2pm UK.
+- **2013144566128414786** (Jan 19) — Original: Announcement Bitcoin Treasuries Unconference UK (Bristol, one-day event, link in comments).
+
+Media arrays were left empty (no media URLs added) per archive policy.
 
 ## Usage
 
