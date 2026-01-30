@@ -13,11 +13,12 @@ This guide will walk you through everything step-by-step, from downloading the f
 3. [Step 1: Download the Files](#step-1-download-the-files)
 4. [Step 2: Choose Your AI Assistant](#step-2-choose-your-ai-assistant)
 5. [Step 3: Open the Project](#step-3-open-the-project)
-6. [Step 4: Ask Your First Question](#step-4-ask-your-first-question)
-7. [How to Write Good Questions](#how-to-write-good-questions)
-8. [Example Questions You Can Ask](#example-questions-you-can-ask)
-9. [Troubleshooting](#troubleshooting)
-10. [What's Next?](#whats-next)
+6. [Step 4: Set Up the AI (Important First Step!)](#step-4-set-up-the-ai-important-first-step)
+7. [Step 5: Ask Your First Question](#step-5-ask-your-first-question)
+8. [How to Write Good Questions](#how-to-write-good-questions)
+9. [Example Questions You Can Ask](#example-questions-you-can-ask)
+10. [Troubleshooting](#troubleshooting)
+11. [What's Next?](#whats-next)
 
 ---
 
@@ -188,22 +189,72 @@ Now that you have your AI assistant installed, let's open the SWC files:
 
 ---
 
-## Step 4: Ask Your First Question
+## Step 4: Set Up the AI (Important First Step!)
 
-Now for the fun part! Let's ask your first question.
+Before asking questions, you need to "activate" the AI by sending it the `Start.md` file. This file contains instructions that tell the AI how to properly search through and analyze the SWC data.
 
 ### If Using Cursor:
 
 1. **Open the chat** (press `Ctrl+L` or `Cmd+L`)
 
-2. **Type your question**, for example:
+2. **Open the `Start.md` file:**
+   - In the left sidebar, find and click on `Start.md` (it's in the main folder)
+   - The file will open in the editor
+
+3. **Send the file to the AI:**
+   - You can either:
+     - **Option A:** Copy all the text from `Start.md` (Ctrl+A, then Ctrl+C) and paste it into the chat
+     - **Option B:** In Cursor, you can drag the file into the chat, or use `@Start.md` to reference it
+     - **Option C:** Simply type `@Start.md` in the chat and press Enter
+
+4. **Press Enter** to send it
+
+5. **The AI will respond** with a brief message acknowledging it's ready to help
+
+### If Using Claude Code:
+
+1. **Open or reference the `Start.md` file:**
+   - If you can see the file in the file browser, click on it to open it
+   - Copy all the contents (Ctrl+A, then Ctrl+C)
+
+2. **Paste it into the chat:**
+   - Click in the chat box
+   - Paste the contents (Ctrl+V)
+
+3. **Press Enter**
+
+4. **The AI will respond** confirming it's ready
+
+### If Using ChatGPT:
+
+1. **Open `Start.md`** from your downloaded folder in a text editor (like Notepad on Windows or TextEdit on Mac)
+
+2. **Copy all the contents** (Ctrl+A, then Ctrl+C)
+
+3. **Paste into ChatGPT:**
+   - Click in the chat box
+   - Paste the contents (Ctrl+V)
+
+4. **Press Enter**
+
+5. **The AI will respond** confirming it's ready
+
+---
+
+## Step 5: Ask Your First Question
+
+Now that the AI is set up, you can ask your first question!
+
+### If Using Cursor:
+
+1. **In the chat**, type your question, for example:
    ```
    How much Bitcoin does SWC currently hold?
    ```
 
-3. **Press Enter**
+2. **Press Enter**
 
-4. **Wait for the answer** - The AI will search through all the files and give you an answer with sources!
+3. **Wait for the answer** - The AI will search through all the files and give you an answer with sources!
 
 ### If Using Claude Code:
 
@@ -217,12 +268,9 @@ Now for the fun part! Let's ask your first question.
 
 1. **Type your question** in the chat
 
-2. **Mention that you've uploaded SWC files**, for example:
-   ```
-   I've uploaded files about The Smarter Web Company. How much Bitcoin does SWC currently hold?
-   ```
+2. **Press Enter**
 
-3. **Press Enter**
+3. **The AI will search through the uploaded files and respond**
 
 ---
 
@@ -486,11 +534,16 @@ If you're stuck:
 1. Open Cursor
 2. File → Open Folder → Select `SWC_Big_Brain_Ai` folder
 
-**Ask Questions:**
+**Set Up AI (Important!):**
 1. Press `Ctrl+L` (or `Cmd+L` on Mac) to open chat
-2. Type your question
+2. Type `@Start.md` or paste the contents of `Start.md` into the chat
 3. Press Enter
-4. Read the answer!
+4. Wait for AI confirmation
+
+**Ask Questions:**
+1. Type your question in the chat
+2. Press Enter
+3. Read the answer!
 
 **Good Question Format:**
 - Be specific
