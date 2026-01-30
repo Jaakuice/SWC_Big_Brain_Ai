@@ -52,15 +52,15 @@ This dataset enables deep analysis across multiple dimensions:
 | Category | Count | Description | Date Range |
 |----------|-------|-------------|------------|
 | **YouTube Transcripts** | 90 | Video content (~35-40 hours) | Apr 2025 - Jan 2026 |
-| **CEO Tweets** | 861 | @asjwebley curated posts | Jun 2024 - Jan 2026 |
-| **Company Tweets** | 132 | @smarterwebuk curated posts | Mar 2025 - Jan 2026 |
-| **Analyst Tweets** | 288 | @Croesus_BTC curated posts | Feb 2025 - Jan 2026 |
+| **CEO Tweets** | 865 | @asjwebley curated posts | Jun 2024 - Jan 2026 |
+| **Company Tweets** | 136 | @smarterwebuk curated posts | Mar 2025 - Jan 2026 |
+| **Analyst Tweets** | 295 | @Croesus_BTC curated posts | Feb 2025 - Jan 2026 |
 | **RNS Filings** | 106 | Regulatory PDFs | Apr 2025 - Jan 2026 |
 | **Research Reports** | 20 | Tennyson broker analysis | May 2025 - Oct 2025 |
 | **Financial Data** | 1 | CSV time-series (hourly/daily) | Apr 2025+ |
-| **Company Docs** | 10 | Prospectus, admission docs | Various |
+| **Company Docs** | 9 | Prospectus, admission docs | Various |
 | **Media Articles** | 10 | News coverage, TV appearances | Mar 2025 - Sep 2025 |
-| **TOTAL** | **~293 files** | | |
+| **TOTAL** | **~294 files** | | |
 
 ---
 
@@ -317,7 +317,7 @@ Or download and extract the repository to your workspace.
 ## 📋 Data Quality and Sources
 
 ### Reliability Hierarchy
-1. **RNS PDFs:** Official regulatory documents (highest reliability)
+1. **RNSs:** Official regulatory documents (highest reliability)
 2. **CSV Data:** Manually compiled/scraped quantitative data (verify sources)
 3. **YouTube Transcripts:** Extracted/transcribed (may contain errors)
 4. **Tweet Data:** Extracted from X.com (engagement metrics are snapshots)
@@ -364,18 +364,23 @@ SWC-Ai/
 ├── README.md                    # This file
 ├── FILE_STRUCTURE.md            # Detailed file structure documentation
 ├── Start.md                    # System prompt for Claude Projects
-├── Smarter Web Data.csv         # Core financial time-series data
-├── knowledge/                   # Knowledge management files
+├── knowledge/                   # Knowledge management files (10 files)
 │   ├── index.md                 # Main knowledge index
-│   ├── youtube_index.md         # YouTube transcript index
 │   ├── rns_index.md             # RNS document index
-│   └── example_*.md             # Example reference files
+│   ├── youtube_index.md         # YouTube transcript index
+│   ├── useful_links.md          # External links and resources
+│   ├── share_count_timeline.md  # Share dilution timeline
+│   ├── example_bitcoin_purchases.md    # Reference examples
+│   ├── example_ceo_statements.md       # Reference examples
+│   ├── example_financial_metrics.md    # Reference examples
+│   ├── example_timeline_events.md      # Reference examples
+│   └── Smarter Web Data.csv     # Core financial time-series data
 ├── RNS/                         # Regulatory News Service filings (106 PDFs)
 ├── Youtube/                     # YouTube transcripts (90 TXT files)
 ├── Tweets/                      # Social media archives
-│   ├── asjwebley/               # CEO tweets (861 posts)
-│   ├── smarterwebuk/            # Company tweets (132 posts)
-│   └── Croesus_BTC/             # Analyst tweets (288 posts)
+│   ├── asjwebley/               # CEO tweets (865 posts)
+│   ├── smarterwebuk/            # Company tweets (136 posts)
+│   └── Croesus_BTC/             # Analyst tweets (295 posts)
 ├── Tennyson/                    # Broker research (20 PDFs)
 ├── Smarter Web/                 # Company documents (9 files)
 └── Legacy media/                # Historical coverage (10 TXT files)
