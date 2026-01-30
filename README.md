@@ -63,6 +63,10 @@ This dataset enables deep analysis across multiple dimensions:
 
 ---
 
+https://github.com/user-attachments/assets/c45cf19c-ebe8-4ca6-8970-85775ce60e36
+
+---
+
 ## 💡 Example Queries
 
 This dataset is ideal for use with AI tools like **Claude Projects** (progressive disclosure setups). Here are example prompts you could ask an AI with this knowledge base uploaded:
