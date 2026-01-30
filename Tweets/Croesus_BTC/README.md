@@ -4,19 +4,19 @@
 
 This directory contains structured data extracted from @Croesus_BTC's X.com timeline.
 
-**Extracted:** January 27, 2026 at 01:18 PM
+**Extracted:** January 27, 2026 at 01:18 PM; **updated** with missing tweets from lightbrd HTML snapshot.
 **Total Timeline Items:** 304
-**Meaningful Posts:** 288
+**Meaningful Posts:** 295 (including 7 added from lightbrd snapshot)
 **Filtered Out:** 16
 
 ## Statistics
 
 ### By Post Type
-- **original**: 197
-- **quote**: 91
+- **original**: 202
+- **quote**: 93
 
 ### By Month
-- **2026-01**: 30 posts
+- **2026-01**: 37 posts
 - **2025-12**: 1 posts
 - **2025-11**: 11 posts
 - **2025-10**: 19 posts
@@ -32,7 +32,7 @@ This directory contains structured data extracted from @Croesus_BTC's X.com time
 ## Files
 
 Monthly JSON files in format `posts-YYYY-MM.json`:
-- `posts-2026-01.json` (30 posts)
+- `posts-2026-01.json` (37 posts)
 - `posts-2025-12.json` (1 posts)
 - `posts-2025-11.json` (11 posts)
 - `posts-2025-10.json` (19 posts)
@@ -85,6 +85,19 @@ Posts were filtered to exclude:
 - **Source elements:** `<div class="timeline-item" data-username="Croesus_BTC">`
 - **Text extraction:** Excludes quoted content from quote tweets
 - **Engagement data:** Snapshot from January 27, 2026
+
+## January 2026 update (lightbrd HTML)
+
+Seven missing tweets were added to `posts-2026-01.json` from `Jesse Myers (Croesus 🔴) (@Croesus_BTC) _ lightbrd.html`:
+- **2017248257714381094** (Jan 30) — Quote: Silver -18% since posting (follow-up to Silver video).
+- **2016942069386822026** (Jan 29) — Original: Silver +283%, history says it will end poorly.
+- **2016883864241582189** (Jan 29) — Original: Two outcomes — Saylor runs out of capital or Bitcoin bid to incredible heights.
+- **2016537677911183385** (Jan 28) — Quote: SWC on track for LSE uplist; quoted @Toffeebdm.
+- **2016520476919578927** (Jan 28) — Original: Strategy accumulation; 10% of all BTC?
+- **2016237848953839718** (Jan 27) — Original: Gold vs dollar (dollar going down in value).
+- **2016201868230177176** (Jan 27) — Original: The Bitcoin Standard / Silver rally (thread starter).
+
+Media arrays were left empty (no media URLs added) per archive policy.
 
 ## Usage
 
