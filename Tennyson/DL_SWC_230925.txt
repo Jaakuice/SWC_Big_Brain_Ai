@@ -1,0 +1,35 @@
+THE SMARTER WEB COMPANY PLC
+(SWC PZ)
+BUY
+BITCOIN PURCHASE TAKES BTC STACK TO 2,525
+Tennyson Securities, Technology Research
+23 September 2025
+The UK’s flagship Bitcoin Treasury Company, The Smarter Web Company (SWC PZ) has announced a
+£4.6 million purchase of Bitcoin, just a day after confirming a £5.0 million equity raise from its ATM
+facility. The purchase takes the company’s overall stack from 2,470 to 2,525 and makes it the
+twenty-ninth biggest public company in the world in terms of Bitcoin on the balance sheet. The
+purchase increases the company’s sats per share 2.2% from 905 to 926 and takes its QTD Bitcoin
+yield (the increase in sats per share) to 301%. Overall in the 153 days since its IPO in April, SWC has
+raised £209 million of external capital, of which 99% has been deployed for Bitcoin purchases. The
+company’s Bitcoin treasury is currently valued at £211 million, meaning SWC has generated a gain
+on its Bitcoin holdings of c.£2.9 million since going public in April.
+With signs that the mNAV compression which affected sentiment throughout August starting to
+bottom out, this morning’s news is a reminder to investors that the ATM facility continues to be a
+significant competitive differentiator for SWC, which remains the only UK-listed player with such a
+facility in place. The ability to continue to raise equity at market to fund accretive Bitcoin purchases
+allows the company to maintain its Bitcoin yield even when market conditions are more
+challenging. And it is why at an mNAV of just 1.39x the stock remains attractively valued at current
+levels. We maintain our BUY recommendation.
+Diluted Diluted QTD
+Price Treasury Market Cap mNAV BTC Yield
+Company Ticker (LCL) (BTC) ($M) ($M) (x) (%)
+Strategy MSTR 335.9 639,985 72,267.6 107,324.9 1.49 5.3%
+Metaplanet 3350 589.0 25,555 3,494.6 5,716.3 1.64 11.7%
+Smarter Web Company SWC 107.5 2,525 285.5 401.8 1.39 300.9%
+Capital B ALCPB 1.15 2,249 254.0 453.4 1.79 19.4%
+Satsuma SATS 1.65 1,149 202.7 431.0 2.13 n/a
+H100 Group H100 5.80 1,047 118.2 220.5 1.87 264.2%
+Coinsilium COIN 3.42 182 20.5 22.5 1.10 88.5%
+Vaultz Capital V3TC 4.75 135 15.2 13.7 0.90 48.1%
+London Bitcoin Co BTC 4.85 86 9.7 22.8 2.35 33.3%
+BHodl plc HODL 21.00 0 15.3 29.4 1.92 n/a
