@@ -1,6 +1,4 @@
-# SWC Big Brain Ai: The Smarter Web Company Knowledge Base
-
-<img width="924" height="613" alt="aScreenshot_20260129_135215" src="https://github.com/user-attachments/assets/57fbc226-8dbd-4536-8b3a-18908ca18630" />
+<img width="1300" height="800" alt="bScreenshot_20260129_135215" src="https://github.com/user-attachments/assets/2ce5a260-2ebe-424b-a9b8-c883bf2b7c5b" />
 
 > **A comprehensive dataset for analyzing the first UK-listed company with a Bitcoin treasury strategy**
 
@@ -55,7 +53,7 @@ This dataset enables deep analysis across multiple dimensions:
 | **YouTube Transcripts** | 90 | Video content (~35-40 hours) | Apr 2025 - Jan 2026 |
 | **CEO Tweets** | 865 | @asjwebley curated posts | Jun 2024 - Jan 2026 |
 | **Company Tweets** | 136 | @smarterwebuk curated posts | Mar 2025 - Jan 2026 |
-| **Analyst Tweets** | 295 | @Croesus_BTC curated posts | Feb 2025 - Jan 2026 |
+| **HoBS Tweets** | 295 | @Croesus_BTC curated posts | Feb 2025 - Jan 2026 |
 | **RNS Filings** | 106 | Regulatory PDFs | Apr 2025 - Jan 2026 |
 | **Research Reports** | 20 | Tennyson broker analysis | May 2025 - Oct 2025 |
 | **Financial Data** | 1 | CSV time-series (hourly/daily) | Apr 2025+ |
