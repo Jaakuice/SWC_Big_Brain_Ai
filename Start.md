@@ -140,11 +140,34 @@ Provide a comprehensive answer with:
 
 ## Comprehensive File Selection Triggers
 
-### Financial/Treasury Metrics, Trends, Calculations, Projections, Plots
-**Primary:** `Smarter Web Data.csv` (or `swc_data_legible.csv` if available)
-- Contains: Date/Time, Share prices, BTC price (GBP), BTC balance, Bitcoin purchases, Share issuance, Market cap, mNAV, Sats per share, Cash, Yield metrics, Tennyson signals
-- **Triggers:** share price, BTC balance, Bitcoin holdings, mNAV, sats per share, market cap, volume, yield, how much Bitcoin, current price, historical data, trends, graph, plot, chart, calculate, projection, performance, returns, dilution, shares outstanding, cash position, ATH, all-time high, price history
-- **Cross-reference with:** RNS PDFs (for official purchase announcements), YouTube transcripts (for CEO commentary), Tennyson PDFs (for broker analysis)
+### Knowledge Management Files
+**Location:** `/knowledge/` directory (10 files: 9 MD + 1 CSV)
+
+**Index and Navigation Files:**
+- **`knowledge/index.md`** - Main knowledge index for mapping queries to file categories
+  - **Triggers:** start here, index, what files, which file, file map, knowledge base overview, where to find
+- **`knowledge/rns_index.md`** - Detailed RNS categorization and selection guide
+  - **Triggers:** which RNS, find RNS, RNS categories, RNS filing types, regulatory filing types
+- **`knowledge/youtube_index.md`** - Video series breakdown and episode guide
+  - **Triggers:** which video, find video, episode guide, video series, YouTube index, video list
+
+**Reference and Timeline Files:**
+- **`knowledge/useful_links.md`** - External links and resources
+  - **Triggers:** links, external resources, websites, official links, URLs, where to find more
+- **`knowledge/share_count_timeline.md`** - Share dilution and capital raises timeline
+  - **Triggers:** share dilution, share issuance timeline, capital raises timeline, dilution history, when did shares get issued, fundraising history
+
+**Example Files (Reference patterns for common queries):**
+- **`knowledge/example_bitcoin_purchases.md`** - Reference examples for Bitcoin purchase queries
+- **`knowledge/example_ceo_statements.md`** - Reference examples for CEO statement queries
+- **`knowledge/example_financial_metrics.md`** - Reference examples for financial metric queries
+- **`knowledge/example_timeline_events.md`** - Reference examples for timeline/event queries
+
+**Financial Data File:**
+- **`knowledge/Smarter Web Data.csv`** - Core financial time-series data (moved from root)
+  - Contains: Date/Time, Share prices, BTC price (GBP), BTC balance, Bitcoin purchases, Share issuance, Market cap, mNAV, Sats per share, Cash, Yield metrics, Tennyson signals
+  - **Triggers:** share price, BTC balance, Bitcoin holdings, mNAV, sats per share, market cap, volume, yield, how much Bitcoin, current price, historical data, trends, graph, plot, chart, calculate, projection, performance, returns, dilution, shares outstanding, cash position, ATH, all-time high, price history
+  - **Cross-reference with:** RNS PDFs (for official purchase announcements), YouTube transcripts (for CEO commentary), Tennyson PDFs (for broker analysis)
 
 ### Regulatory Announcements (RNS)
 **Location:** `/RNS/` PDFs
@@ -277,10 +300,10 @@ Provide a comprehensive answer with:
 
 **Code standards:**
 - Efficient, commented code
-- Reference files by exact name/path
+- Reference files by exact name/path (e.g., `knowledge/Smarter Web Data.csv`)
 - **ONLY READ files - never write, modify, or save**
 - Use appropriate libraries:
-  - `pandas` for CSV operations (READ ONLY - use `pd.read_csv()`, never `df.to_csv()`)
+  - `pandas` for CSV operations (READ ONLY - use `pd.read_csv('knowledge/Smarter Web Data.csv')`, never `df.to_csv()`)
   - `json` for tweet files (READ ONLY - use `json.load()`, never `json.dump()`)
   - `matplotlib`/`seaborn` for plots (display only, never save to files)
   - `numpy` for numerical operations
@@ -296,7 +319,7 @@ Provide a comprehensive answer with:
 Always cite sources in format: `[filename.ext: relevant excerpt or line reference]`
 
 **Citation Examples:**
-- Good: `[Smarter Web Data.csv: Row for 2026-01-22 shows BTC Balance = 2,664]`
+- Good: `[knowledge/Smarter Web Data.csv: Row for 2026-01-22 shows BTC Balance = 2,664]`
 - Good: `[posts-2026-01.json: Tweet from Jan 17 states "we published our prospectus"]`
 - Bad: `The CSV shows...` (no specific file/location)
 - Bad: `According to the data...` (no citation at all)
@@ -325,7 +348,7 @@ If data is missing: "Not covered in available files—suggest adding [specific f
 
 1. **Normalize:** "sats per share" = "BTC Sats Per Share" or "Sats Per Share" in CSV
 2. **Index check:** @mention `knowledge/index.md` → identifies CSV as primary source
-3. **Select:** `Smarter Web Data.csv` (1 file sufficient for quantitative query)
+3. **Select:** `knowledge/Smarter Web Data.csv` (1 file sufficient for quantitative query)
 4. **Execute code:** Filter CSV for IPO date (2025-04-25) and latest date, extract "BTC Sats Per Share" column, calculate change
 5. **Synthesize:** Report current value, IPO value, change, cite CSV with specific dates
 
