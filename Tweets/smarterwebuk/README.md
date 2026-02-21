@@ -4,19 +4,20 @@
 
 This directory contains structured data extracted from @smarterwebuk's X.com timeline.
 
-**Extracted:** January 27, 2026 at 12:30 PM; **updated** with missing tweets from lightbrd HTML snapshot.
-**Total Timeline Items:** 134
-**Meaningful Posts:** 136 (including 4 added from lightbrd snapshot)
-**Filtered Out:** 2
+**Extracted:** January 27, 2026 at 12:30 PM; **updated** with missing tweets from lightbrd HTML snapshot; **updated** February 19, 2026 with Jan/Feb 2026 tweets from lightbrd HTML.
+**Total Timeline Items:** 134+
+**Meaningful Posts:** 148
+**Filtered Out:** 2+
 
 ## Statistics
 
 ### By Post Type
-- **original**: 133
-- **quote**: 3
+- **original**: 144
+- **quote**: 4
 
 ### By Month
-- **2026-01**: 24 posts
+- **2026-02**: 11 posts
+- **2026-01**: 25 posts
 - **2025-12**: 12 posts
 - **2025-11**: 8 posts
 - **2025-10**: 8 posts
@@ -31,7 +32,8 @@ This directory contains structured data extracted from @smarterwebuk's X.com tim
 ## Files
 
 Monthly JSON files in format `posts-YYYY-MM.json`:
-- `posts-2026-01.json` (24 posts)
+- `posts-2026-02.json` (11 posts)
+- `posts-2026-01.json` (25 posts)
 - `posts-2025-12.json` (12 posts)
 - `posts-2025-11.json` (8 posts)
 - `posts-2025-10.json` (8 posts)
@@ -82,7 +84,7 @@ Posts were filtered to exclude:
 - **Parser:** BeautifulSoup4 with lxml
 - **Source elements:** `<div class="timeline-item" data-username="smarterwebuk">`
 - **Text extraction:** Excludes quoted content from quote tweets
-- **Engagement data:** Snapshot from January 27, 2026
+- **Engagement data:** Snapshot from January 27, 2026; February 2026 data from February 19, 2026
 
 ## January 2026 update (lightbrd HTML)
 
@@ -93,6 +95,15 @@ Four missing tweets were added to `posts-2026-01.json` from `The Smarter Web Com
 - **2013144566128414786** (Jan 19) — Original: Announcement Bitcoin Treasuries Unconference UK (Bristol, one-day event, link in comments).
 
 Media arrays were left empty (no media URLs added) per archive policy.
+
+## February 2026 update (lightbrd HTML)
+
+January 2026 updated with 1 additional tweet (24 → 25 posts) and February 2026 added (11 posts) from `The Smarter Web Company (@smarterwebuk) _ lightbrd.html` snapshot taken February 19, 2026.
+
+New January post:
+- **2015810149818990613** (Jan 26) — Original: Directing to Laura via support email.
+
+February 2026 (11 posts): RNS announcements (First Day of Dealings, Bitcoin Purchase 15 BTC, two Subscription Agreement Updates), LSE opening bell quote tweet, Bitcoin Treasuries Unconference speaker announcement (Fong), livestream promo, broker/share dealing info update request.
 
 ## Usage
 
