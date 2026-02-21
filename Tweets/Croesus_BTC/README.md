@@ -4,19 +4,21 @@
 
 This directory contains structured data extracted from @Croesus_BTC's X.com timeline.
 
-**Extracted:** January 27, 2026 at 01:18 PM; **updated** with missing tweets from lightbrd HTML snapshot.
-**Total Timeline Items:** 304
-**Meaningful Posts:** 295 (including 7 added from lightbrd snapshot)
-**Filtered Out:** 16
+**Extracted:** January 27, 2026 at 01:18 PM; **updated** with missing tweets from lightbrd HTML snapshot; **updated** February 19, 2026 with Jan/Feb 2026 tweets from lightbrd HTML.
+**Total Timeline Items:** 304+
+**Meaningful Posts:** 430
+**Filtered Out:** 16+
 
 ## Statistics
 
 ### By Post Type
-- **original**: 202
-- **quote**: 93
+- **original**: 261
+- **quote**: 99
+- **reply**: 70
 
 ### By Month
-- **2026-01**: 37 posts
+- **2026-02**: 59 posts
+- **2026-01**: 113 posts
 - **2025-12**: 1 posts
 - **2025-11**: 11 posts
 - **2025-10**: 19 posts
@@ -32,7 +34,8 @@ This directory contains structured data extracted from @Croesus_BTC's X.com time
 ## Files
 
 Monthly JSON files in format `posts-YYYY-MM.json`:
-- `posts-2026-01.json` (37 posts)
+- `posts-2026-02.json` (59 posts)
+- `posts-2026-01.json` (113 posts)
 - `posts-2025-12.json` (1 posts)
 - `posts-2025-11.json` (11 posts)
 - `posts-2025-10.json` (19 posts)
@@ -84,7 +87,7 @@ Posts were filtered to exclude:
 - **Parser:** BeautifulSoup4 with lxml
 - **Source elements:** `<div class="timeline-item" data-username="Croesus_BTC">`
 - **Text extraction:** Excludes quoted content from quote tweets
-- **Engagement data:** Snapshot from January 27, 2026
+- **Engagement data:** Snapshot from January 27, 2026; February 2026 data from February 19, 2026
 
 ## January 2026 update (lightbrd HTML)
 
@@ -98,6 +101,14 @@ Seven missing tweets were added to `posts-2026-01.json` from `Jesse Myers (Croes
 - **2016201868230177176** (Jan 27) — Original: The Bitcoin Standard / Silver rally (thread starter).
 
 Media arrays were left empty (no media URLs added) per archive policy.
+
+## February 2026 update (lightbrd HTML)
+
+January 2026 updated with 76 additional tweets (37 → 113 posts) and February 2026 added (59 posts) from `Jesse Myers (@Croesus_BTC) _ lightbrd.html` snapshot taken February 19, 2026.
+
+The lightbrd HTML contained significantly more tweets & replies than the original Nitter extraction. New January posts include silver analysis thread replies, Strategy accumulation debate, Bitcoin Standard discussion, and SWC/LSE commentary.
+
+February 2026 (59 posts): LSE listing day celebration (572 likes), "Dumb enough to be bullish" (692 likes), Bitcoin 20M supply milestone (2,135 likes), Strategy unsustainability thread (2,542 likes), SWC Bitcoin Treasuries Unconference speakers, livestream with Andrew, bear market sentiment commentary.
 
 ## Usage
 
