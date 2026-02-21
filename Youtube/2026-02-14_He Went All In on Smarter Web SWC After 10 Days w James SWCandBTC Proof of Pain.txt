@@ -1,0 +1,404 @@
+# He Went All In on Smarter Web (SWC) After 10 Days w/ James @SWCandBTC | Proof of Pain
+**Date: 2026-02-14 (Friday)**
+**Video ID: Vxl1BU33TgQ**
+**URL: https://www.youtube.com/watch?v=Vxl1BU33TgQ**
+**Channel: Proof of Pain**
+**Host: Proof of Pain (Solo Host)**
+**Guest: James (@ourgoodlifeuk / @SWCandBTC)**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- James's Bitcoin journey: mining in 2011, GPU mining altcoins in 2017, 2018 crash, locking BTC away until 2024
+- Orange pilling process: Lawrence Lepard's "The Big Print", Michael Saylor's 100-hour recommendation
+- Joe Bryan's "What's The Problem?" video as a normie-friendly Bitcoin education tool
+- Pension exposure to Bitcoin: discovering Strategy (MSTR), then pivoting to Smarter Web Company
+- Building the SWC community on X and starting YouTube/spaces content
+- SWC highlights from IPO era: weekly equity raises, retail participation, rapid Bitcoin accumulation
+- The IPO-to-peak run (2.5p to £5) in ~8 weeks, followed by a 95% drawdown from peak
+- Bitcoin treasury thesis under stress: no excessive debt, no margin calls, ability to weather a Bitcoin winter
+- Strategy's preferred stocks (STRK, STRF, STLC/Stretch): collateralization concerns and common stock pressure
+- Flywheel mechanics: sentiment-driven, cycles reset, institutional interest growing even in bear market
+- M&A in the Bitcoin treasury space: Strive's acquisition of Similar, potential for SWC acquisitions
+- Why buy a treasury company over spot Bitcoin: trapped capital (pensions, ISAs) and outperforming BTC per share
+- Bitcoin in the UK: small but growing community, mainstream media still hostile, government inaction
+- Price predictions: MSTR $1,500-$2,000 in 4 years, SWC £15-£20, Bitcoin bearish top $350,000+
+- Bear market vs correction debate: 4 months in, potentially 8 months remaining
+
+---
+
+**Host:**
+(0:00:00) Hey everyone, thank you for coming back to the Proof of Pain podcast. I have James here as a guest today. He's a UK podcaster and Bitcoin adoption advocate. I've been a big fan of his for about a year now, I think, is when he started coming on the scene and he started talking about Bitcoin, but also Smarter Web. So, I figured I'd give the microphone over to James and he can give a little bit of a background on himself and how he got into both Bitcoin and the treasury companies.
+
+**James:**
+(0:00:40) Okay, cool. I'm much more used to being in your seat than this one, but let's give it a go. So yeah, Bitcoin, I actually heard about it really quite early on. I want to say 2011. And me and a few guys at work were kind of trying our hand at mining it. Didn't really know anything about it. Didn't believe in it. Just kind of thought, well, this is pretty cool and I was into tech. So we had a bit of fun, but that was kind of it. It went back in a box and I forgot about it until 2017.
+
+(0:01:14) And I have to admit this is my altcoin phase. I think a lot of Bitcoiners have been through it. Maybe not all of them, but I had to endure that. And I wasn't sort of buying and investing and trading and stuff like that. I was GPU mining. So I had rigs of like six GPUs per rig and had a whole bunch of them. And I was mining altcoins, but I was getting paid in Bitcoin. So it was really basic. You could buy these kits from China that you kind of screwed together that you could fit your GPUs on. And I was buying like secondhand motherboards off eBay and trying to source graphics cards from all over because there was a bit of a shortage at the time.
+
+And it was good fun and it was particularly good fun in 2017 because everything was going up. I think at the start of the year it was $1,000 a Bitcoin roughly.
+
+**Host:**
+Yeah.
+
+**James:**
+(0:02:33) And by the end of the year, around Christmas time, it was best part of $20,000. And it's like, this is great. This is going to go on forever. I'm printing money. I'm having the best time of my life. And then 2018 turned around and I think Bitcoin lost nearly 70% of its value in 8 weeks, I want to say. And you know, it was just like, this is painful.
+
+And I was still mining because I was like, it's going to come back. It's fine. Not a problem. And it didn't. And electricity prices in the UK are insane. They're even more insane now, but they were still bad back then. And so yeah, it just came to the point where this was not economically viable anymore. Switched off the rigs, sold the graphics cards, and went on my merry way again.
+
+But the difference this time was that I actually kept some of the Bitcoin. I wouldn't say I was a Bitcoiner, but I had got to the point where I felt like, okay, there's enough kind of people and interest in this that it's worth keeping some. And hopefully one day it'll be worth, you know, whatever. And my stance has changed a bit since then, but that was kind of the thinking at the time.
+
+**Host:**
+Were you mining Monero? Because I remember back then it was mostly like Ethereum, Zcash, those kind of things.
+
+**James:**
+So, it was Monero that I was mining. I managed to lay my hands on a bunch of graphics cards that were particularly good at mining that. There was a platform called NiceHash where you basically supply the hash rate and other people buy it off you or rent it from you, and you get paid in Bitcoin and they get whatever the rewards are from mining. And so I was just putting my rigs on there and people were buying the hash rate. And it was almost always Monero that was the most profitable one for me. So that's what I was pointing at.
+
+**Host:**
+I do remember NiceHash. I think there were a couple other ones. So other people are just basically renting your hardware and then you just take a percentage. It's almost like decentralized cloud mining. You just point your rigs at a server or a mining pool and you get paid for that hash rate that you supply.
+
+**James:**
+Yeah, it was pretty cool.
+
+**Host:**
+Well, at least you got paid in Bitcoin. You kept at least some of it. Did you just forget about it for a couple years? Did you study back then and try to understand it or did you wait until the next bull run?
+
+**James:**
+(0:05:36) No. So this is kind of where I'm maybe different to your average Bitcoiner. I still didn't get it in 2017. I just thought I'll hang on to it just in case. Literally locked it away, forgot about it. And I hadn't studied it. I knew there'd only be 21 million. I got the basics of it, but none of it twigged. None of it said to me - I didn't have that orange pill moment.
+
+And you know, there was a lot less content around then. There was a lot less YouTube videos and X was, well, Twitter as it was. So I kind of just locked it away and then I genuinely didn't look at Bitcoin until 2024.
+
+**Host:**
+Wow.
+
+**James:**
+After 2018, because I started a family. I was busy doing that. I changed careers, had a lot going on in my life. And yeah, I just thought, you know, I was busy. I didn't even, and this might be wild to hear, but I didn't even hear about Bitcoin having a bull run or anything. There was no headline that got my attention or anything to make me want to check. So maybe I just dodged it. And I think quite fortuitously really because it meant that I just sat that one out.
+
+(0:07:53) And then 2024 came around, you know, Trump getting in and it was kind of like, oh, sugar. You know, this thing's back. I'd better go check that it's all still there and all that kind of thing. And I thought, okay, right, now's the time to actually properly learn about this. So I kind of went and did Michael Saylor's recommendation, 100 hours, which led to many hundred hours more.
+
+And yeah, I read a few books and the one that particularly I enjoyed and kind of hit me was Lawrence Lepard's book, The Big Print. It kind of - I was like, this is the book that normies need to read. They need to be like one level above normie to want to read it and actually want to understand it and want to get it. But it's as plain English as I think you can explain the topic. And so I'm grateful for him for writing it because that was the one that made the penny drop and stick.
+
+**Host:**
+So I definitely read that book. He does such a good job and the nice thing about it is that he doesn't - it's almost like the Bitcoin Standard where he goes into a long intro and then towards the end is where he says, okay, this is the problem, here's the solution. He provides multiple solutions like gold and whatnot.
+
+When you try to orange pill, it's so difficult because people have to be ready and open and be willing to be wrong. It sounds awesome when Bitcoin's at 126,000 or whatever it was, and you're like, maybe now is the time to learn.
+
+**James:**
+(0:12:32) 126K, like people's instant reaction is, oh, I've missed it. They don't want it at the top. They don't want it at the bottom. And that's fine. They're not ready. And one day my belief is that the world will get to a certain point where people will be ready because they'll have to be ready.
+
+But until then, there's kind of two groups of people in my mind. There's people with like a fixed mindset of this is how everything works, this is how it's always been done, and so just keep treading the path and all will be fine with the world. And then there's the growth mindset people who are interested, they're intrigued, they want to learn. And even if they stumble across Bitcoin not because they're interested in Bitcoin, but they've got that mindset, then they orange pill themselves. You don't even need to intervene.
+
+It comes from two angles. Either you're just naturally curious and you stumble on it and you want to learn, or something went wrong and you're trying to find a solution. Those are the two people that are the easiest to orange pill. If you try to force anything on anyone, from my personal experience, you're just wasting time. And it's actually worse because you might even turn them away because when it does go up, it's almost like "I told you so" and their ego gets in the way and they don't want to admit that they were wrong.
+
+**Host:**
+So the idea of Bitcoin for me is helping people, right? There's nothing selfish about it. I mean, I guess if everybody adopts it, then Bitcoin goes up. So I guess there is a level of selfishness there. But really, it's more of trying to educate people and try for them to understand, hey look, the money that you have is losing value. There's multiple solutions to this problem. And this, in my opinion, is one of the best, if not the best solution out there.
+
+It's such a big topic that that's why it's so nice to have a book like The Big Print or The Bitcoin Standard. But the problem with The Bitcoin Standard is it's in the name, and people have such - just the word Bitcoin, their eyes roll over or they just don't want to or they don't even understand it. They think it's going to be too techy, it's not for me, or I heard about Bitcoin before, I don't want to deal with this, this is just some scam. So that's the problem with The Bitcoin Standard. The name itself could throw some people off. Books like The Big Print, I think, do a better job in that sense because it's kind of like a sly roundabout way of introducing it.
+
+**James:**
+Yeah. And there's a great video. Have you heard of a guy called Joe Bryan?
+
+**Host:**
+Yes.
+
+**James:**
+His video, "What's The Problem?" which is on the channel Sats versus Fiat on YouTube. If you haven't seen it, anyone watching this, go watch it. It's brilliant. It takes like 30 minutes of your time and he does an excellent job and his voice is so calm. It's just a joy to listen to.
+
+And he just takes people through step by step kind of what's wrong with fiat money. And at no point, you know, he mentions Satoshis, but he at no point is he talking about Bitcoin directly and then just right at the end it kind of all comes together and I think it's just so incredibly well put together.
+
+I've been lucky enough to meet Joe a couple of times now. And arguably I'd say he's got to be up there with one of, if not the nicest person in Bitcoin. He's just such a nice guy and has time for people. He wants to talk about Bitcoin. He wants to talk to people about Bitcoin and he just wants to talk to people. So yeah, great guy.
+
+**Host:**
+(0:14:49) That's one of the better videos out there. For me, it was the old Antonopoulos videos, but like you said earlier, there weren't that many. It was really just him. Roger Ver, which obviously he's switched sides. There were a couple other people. You know who was great? Jun Seth. He actually I think he had one of the first, if not the first Bitcoin podcast. Bitcoin Uncensored. I wasn't there for when it first started, but I was able to find some old recordings of it. You're like this fly on the wall of a past era. You wish you can go back and make just a couple clicks. Just a couple clicks would make such a difference.
+
+So 2024 you dug in. Actually end of 2024, beginning of 2025, you dug in and you started understanding Bitcoin and it clicked. How does that go from that orange pilling moment into your first foray into the Bitcoin treasury space?
+
+**James:**
+(0:15:04) The sequence of events was kind of, oh, I've got this money in my pension. What can I do with that? How can I get some kind of exposure to Bitcoin with that? Because I'm not a wealthy guy and the majority of my paper wealth is in my pension. And so it was like, I need to get that exposed to Bitcoin somehow.
+
+So I came across MSTR, which I think is kind of obvious, especially having watched however many Michael Saylor videos as part of my hours. So I invested in that and then the search quite quickly went on to, why isn't anyone else doing this around the world? And it was like, okay, well, there's these guys in Japan, MetaPlanet, but I can't buy that with where my pension is at the moment. Incredibly difficult to get hold of in the UK. Well, not incredibly, more challenging to get hold of.
+
+But there's no one in the UK doing it. Like why is that? I don't understand. Saylor's been at it for four or five years and we've only got like a handful of companies across the world.
+
+(0:17:17) And this was probably by this point maybe February last year, February '25. And then, interacting with Bitcoiners, UK Bitcoiners on X, I heard about - so it was the guys that set up the Bitcoin Collective and the Bitcoin Business Network in the UK. They hadn't set those things up at the time, but they ran like town halls and spaces, regular spaces about Bitcoin. And suddenly there was one by this guy Andrew Webley and it was about the Smarter Web Company and how it was going to do a Bitcoin treasury in the UK and I was like, wow, this is pretty cool.
+
+And I got off the spaces, signed up for an AJ Bell account, which is the broker in the UK that was doing the IPO. And again, not a wealthy guy. I put in the minimum amount that you could and then waited for IPO day.
+
+(0:18:26) But at the same time I was kind of like, what makes a Bitcoin treasury successful or what makes a company successful? And is there anything I can do to help this gain some traction?
+
+And so my first thought was, well, there's nothing I can do. Who am I? And then my second thought a few days later was kind of, oh, I could set up a community on X and get the people who are interested in it talking about it. Irresponsibly Long MSTR is massive. The MetaPlanet one was getting pretty big. That seems to be part of the recipe for success. I'm not saying the reason, but part of the recipe.
+
+So I had to upgrade my X account. I didn't even have - I had like the free account - and started a community. And I thought there'll be like 10 or 20 of us just asking each other questions and discussing what we thought was good, bad, ugly, whatever. And it got wild pretty quick. And I think it made me realize how many Bitcoiners in the UK there actually were. Being in the southwest of the country, it's kind of like a lower population part of the country. So you don't interact with Bitcoiners that much.
+
+And yeah, it kind of exploded and I think a week past the IPO, everyone's like, oh, you should organize spaces so we can all chat about it. And I was like, okay, brilliant. I did that and Andrew Webley and David Bailey turned up on the space.
+
+**Host:**
+They just popped in?
+
+**James:**
+Yeah. I was like, oh, okay, cool. Now I've got to like ask questions and stuff, which was not - there was no prep for this. I thought we were just having like a group discussion about Smarter Web. And then yeah, it kind of snowballed from there. I did one more spaces and then people were like, we've got to do video. So then it moved to video and kind of here we are.
+
+**Host:**
+Do you remember when the community started? Because if I had to guess, I want to say maybe end of March or April.
+
+**James:**
+It was either the very end of April or yeah, it must have been in April.
+
+**Host:**
+So not even a year yet. It feels like a long time.
+
+**James:**
+A lot's happened in that time.
+
+**Host:**
+(0:24:34) So much has happened. Can you give - I know it's going to be hard - but let's go to the pre-IPO. Was that around February or March?
+
+**James:**
+So I can't remember the exact dates, but I know the actual IPO happened on the 25th of April. And I think it was maybe 10 days before that that I heard about it. So let's say 15th of April, somewhere around there.
+
+And yeah, it's all a bit of a blur because everything just happened so quickly. Andrew just blew it out of the park with equity raises and every week there was news. Every week, every week. So it was really easy to do what I was doing, which is talk to people about it, ask questions, because there was so much going on. And yeah, it was really exciting times.
+
+**Host:**
+Did you ever have any exposure to Strategy or MicroStrategy at the time?
+
+**James:**
+Well, yeah, just for a short period. Because I wanted to get my pension exposed to Bitcoin. In the UK, it's really difficult.
+
+**Host:**
+So that was your best exposure, Strategy, and then you shifted to Smarter Web?
+
+**James:**
+Yeah. So I think it was 10 days after IPO or nine, something like that. Hargreaves Lansdown, where my pension is - again, another UK broker - they brought Smarter Web online so I could buy it through my brokerage account. And by that point I'd listened to the spaces with Andrew, I'd spoken to him directly on a spaces, news was coming out, and yeah, so I just switched it all to Smarter Web.
+
+**Host:**
+Just went all in. All in like all on black. You just pushed all your chips over.
+
+**James:**
+Pretty much. I mean, I felt like I had enough of a measure of the man to decide that he was fully committed. This wasn't just a bit of a punt. He was all in. And I believe in Bitcoin. So that was a tick.
+
+And yes, it was risky. I'm not going to pretend it wasn't risky. And some would say a complete gamble. But I was looking at it from a basis of MSTR being the Leviathan, right? They're swallowing up Bitcoin, but also in percentage terms, what they're swallowing up is getting smaller because of the size of their stack. So their growth potential was a lot less than Smarter Web. Smarter Web starting at basically zero, their growth potential was off the charts but more risky. So yeah, I took the punt and it's worked out all right.
+
+**Host:**
+(0:29:29) Can you give, as best you can, the most important highlights of Smarter Web from IPO until where we are today?
+
+**James:**
+Oh, damn. I wish I had it all in front of me. The best I can probably do is more of a description of that first period - it lasted like 8 weeks or nine weeks. And it was kind of every morning waiting for an RNS, which is the Regulatory News Service, how companies are supposed to publish market-sensitive information in the UK.
+
+And Andrew basically set up a framework - he wasn't going to do a Saylor where it got announced every Monday. He wanted to keep it interesting. Not for the sake of being interesting, but so people can't game the system and trade off it. But most of the important news would happen at 7:00 a.m. UK time - that'd be Bitcoin purchases or the amount that was raised in a raise.
+
+But then between 4:30 and 5:30 p.m., after trading had closed for the day, we'd all be there with bated breath waiting for another RNS saying that they were going to open another raise round. And in the beginning retail got to participate in that. Which was just super exciting.
+
+And each week this was happening - basically every single week, I think in the first eight, maybe there was one week it didn't happen - and retail could get involved, you could say how much you wanted to commit and you could buy your shares directly from SWC and with that money they went and bought the Bitcoin. But each week the amount that was raised was going up. And so the amount of Bitcoin was going up and it was just compounding at such a rate that it was just insane.
+
+And that really was the point - because why didn't I just buy Bitcoin? Well, because I'm not a wealthy person, I don't earn a huge amount of money. So my DCA at these current prices, which at the time was 100K or whatever, is barely making a dent. I'm not adding significantly to my stack anymore. So now if I can find a way to speed-run that, I'm going to be interested. And if someone's able to compound that for me on my behalf by me buying and holding something, then I had the ability to start making a dent again.
+
+So the aim is always more Bitcoin. And for me this was the only way to make that a meaningful investment.
+
+Those first eight weeks - I remember being on vacation. I think it was in June, like mid-June. And I see £9 and I'm like, what? No. This can't be. It opened the day at like £4 or £6 and it ran up to £9 and it quickly dumped back down. And that whole weekend was a blur. Honestly, my mind was not on vacation.
+
+**Host:**
+I think up until maybe July was probably peak. From March, April to like June, July was definitely peak treasury company era or phase one, let's call it. And since, there have been some moments, but it's been pretty painful.
+
+(0:29:29) So we're in the phase where it's harsh, but it's all driven by Bitcoin's price action. So whether you believe in cycles or you don't, the reality is that we were at 126K a couple months ago, maybe 4 months, $126,000. We're currently at $68,000 or so. Pretty big correction.
+
+But I guess my question for you now would be - has your thesis in Bitcoin since you've been orange pilled changed at all? And following on that, has your Bitcoin treasury thesis stayed the same or has it shifted?
+
+**James:**
+(0:34:54) Yeah. Not much is the short answer. But when I think about that 2018 drawdown in Bitcoin and I remember feeling physically sick, genuinely, just watching the numbers tumble. It was awful.
+
+And then I think about treasuries - it was June 19th, right, was the peak for SWC. I remember it well because it was a really sunny day. I'd gone down to the pub at like 3:00 Friday afternoon.
+
+**Host:**
+You're like, "All drinks on me."
+
+**James:**
+I'd met a fellow SWC investor and I just kept checking my phone, refreshing the page, checking my portfolio, and I was just laughing because it had got just ridiculous. And that should have been the message to say maybe you should just trim some off here. But I didn't.
+
+And that drawdown, which I think at one point was like a 95% drawdown from peak to trough - that came second to the 2018 Bitcoin. I believe now in Bitcoin so I'm not worried about the base asset that I'm invested in. I'm invested in a company that hasn't taken ridiculous risks. It hasn't loaded up its balance sheet with debt. It hasn't got ridiculous convertible bonds and all that kind of stuff.
+
+So actually, provided they can weather a Bitcoin winter, then it's game on again when that comes around. And that's kind of my thesis - do I think Bitcoin's going to die because it's having a bear market at the moment? No. Do I think Smarter Web is going to fumble the ball? No.
+
+And they don't have any - like Saylor, I know this in hindsight now, but he had that Silvergate debt that was a bit of a problem for him in the 2022 bear market. He managed to pull that off and all was good. But when I was looking at Smarter Web it's like, well, they don't have that. So as long as they can keep the lights on, then nothing's changed.
+
+**Host:**
+They do have that convertible bond but it's denominated in Bitcoin though, right? And I think that was only a 12-month term.
+
+**James:**
+Yes. So they did that in August and yeah, it's a 12-month term until this August and they may have to give that Bitcoin back. I think the share price has got to be at £1.95 or above. So I don't know what that is in dollars, but maybe $2.60 something like that.
+
+I'm not here to say that will happen or won't happen, but I think it works out to roughly 10% of their Bitcoin, about 250 Bitcoin, that they would have to return should they not meet the terms of that. But it's not like they're getting margin called on some massive debt that is going to obliterate half the stack or make them be forced sellers of Bitcoin. This is just returning the bond.
+
+**Host:**
+Do you think the flywheel is still valid or do you think it's shifted? And now that Strategy and Strive have preferreds, do you think a company has to be big enough that they have to have these other vehicles to be successful, or can we just go back to the simple flywheel?
+
+**James:**
+Great question. I think - this is my personal view, so I don't know if I'm right or not - let's take a step back. I think cycles are a thing. And I'm not talking about Bitcoin cycles. I'm talking about market cycles. They are a thing. They repeat all over different markets in different parts of the world. The S&P 500 has a four-year cycle. Gold has an eight-year cycle. The DXY has a three-year cycle. There's cycles everywhere.
+
+And one of the things that cycles do is they reset sentiment. So you go all the way up to euphoria and then all the way down to fear and despair and then the cycle resets and off we go again. Part of that sentiment reset affects people psychologically. When you get back to euphoria again, we know how this ends and yet people are still buying the top. That's how euphoria happens. And with a bear market, sentiment's in the toilet and people are like, oh, it's over. But we know that's not how it ends. These things come back again.
+
+So the flywheel is relying on sentiment in order for it to spin. And it's my personal belief that sentiment will return to the sector. More than likely it'll be just before Bitcoin starts turning up again, because Strategy led Bitcoin - it turned up just slightly before Bitcoin did. And I suspect treasuries will probably do the same again. And then the flywheel's back.
+
+Maybe it doesn't get as crazy next time. Maybe - I can't remember what the peak mNAV was on Smarter Web, but it was in the 20s.
+
+**Host:**
+It was over 20.
+
+**James:**
+Yeah, it's mad now thinking about it. But maybe they tap out at 2, maybe 5, maybe 7, I don't know. But if it's above 1, then the flywheel works.
+
+And so yeah, I think it does work and I think there's more institutional interest in treasuries even though we're in a bear market. I think the education piece that Saylor's been doing and the likes of Andrew Webley and Dylan and Simon Gerovich - they've all been educating institutional investors, which means they're going to want to get a good deal when the time is right. So that will be part of the next flywheel spinning up in my opinion.
+
+And then the preferreds. I kind of flip-flop a little bit on preferreds. I'm not saying I could come up with anything better because I absolutely couldn't. But what we're seeing is they're earning their place at the moment. The likes of Stretch (STLC) coming back to par every month or very close to par every month is a sign of that. Bitcoin's been tanking since October. And yet, last time I checked, Stretch was at like $99.70. Which is phenomenal.
+
+So that bit works or is working, and in my head that bit only grows as interest grows. And maybe Strategy gets a better credit rating and all that kind of stuff.
+
+I guess the thing that really bugs me about preferreds is the collateralization and how you maintain that. So let's say you wanted 5:1 collateralization. So you've got to have $500 of Bitcoin for every $100 of Stretch that you sell. Which means if I sell $100 of Stretch, I've got to sell $400 of common stock in order to maintain that level of collateralization. Which puts a hell of a pressure on the common stock.
+
+As the interest in Stretch grows, can the common stock support that? I mean, maybe it can. In a Bitcoin rising market, that's going to be no problem. But we're in what I think is a bear market right now. And Saylor's been hammering the ATM, which makes sense - he wants to accumulate more Bitcoin. But at close to 1 mNAV, if not 1 mNAV, which on the face of it means that the common stock sales haven't been accretive.
+
+**Host:**
+They've been dilutionary.
+
+**James:**
+Yeah. But when you add in the $100 of Stretch, then it is actually accretive. I haven't deep-dived into the math, but it bothers me that that kind of collateralization and the amount of pressure that it puts on the common stock - but I haven't looked into the maths enough to weigh in.
+
+**Host:**
+I think - so I had this conversation with Mike Flom, he goes by Grain of Salt. Anybody who hasn't seen that interview, they should. For me, I don't like anything that's perpetual, especially debt. I get it - if you can earn that spread, if Bitcoin continues to earn at the lowest 15% per year and you're paying 11%, obviously you have a 4% spread gain. The math makes sense. It's just the "what if."
+
+And Saylor has answered a lot of these what-ifs by having a pool of money. I'm just very against debt in general. But I do understand why they did it. I understand that it's a tool. Mike Flom has said that perpetuals have been around, but it's not a very common thing, especially in equities. It was at the very end of 2024, but really 2025 was the preferred era. That whole thing - Strategy really changed as a company as soon as the preferreds came in. That original thesis that a lot of us bought into - it's different now. It's a different beast. Before it was some sort of a turbocharged engine, now it's a rocket. And I do think that Saylor has the right team to figure it out. A little bit of caution is where I'm at.
+
+**James:**
+Yeah. For sure. And I think that's why the collateralization thing bothers me. But the thing I think about with regards to Strategy and their preferreds is that if you're considering the perpetual aspect, STRK and STRF will end up being like rounding errors. Because I don't think they're going to get big enough to cause Strategy a problem when Bitcoin's CAGR drops to where it's in the danger zone. But also STRK - I think a lot of people will convert in the future. So that one will shrink in size rather than grow potentially.
+
+STRF - he does have the option just to not pay it, right? It's written there in plain English.
+
+**Host:**
+Yeah.
+
+**James:**
+And I think STRF is the junk one. And then so really it's Stretch, STLC, that is the elephant in the room. Because it does feel like it is his iPhone moment. It's the moment that he created a product that the world is actually going to buy and in quite some quantity. But it's variable rate. So he can just drop the rate as Bitcoin's CAGR drops. He drops the rate on Stretch and it eventually just fizzles out. They're trying to peg it to $100.
+
+**Host:**
+I think there is a base. I think I don't think it can go below the Fed rate. I forgot what the details are, but I think there is a floor to the rate.
+
+**James:**
+Yeah. So it's the Fed rate, but Bitcoin CAGR should always be above the Fed rate. As long as nothing breaks.
+
+**Host:**
+Yeah, as long as they're printing money, Bitcoin is going to go up.
+
+**James:**
+And if the Fed rate's 5%, Bitcoin, I don't know, will be 7%. So they can just put Stretch at 5 and just keep it there. Like, they don't have to peg it to 100. They want to, that's their aim.
+
+**Host:**
+Right. But companies pivot all the time.
+
+**James:**
+That's true. Yeah. When the time comes, when margins are too tight, it's just like, okay, now it's just a 5% bond effectively. Do what you will with it kind of thing.
+
+**Host:**
+(0:46:11) You mentioned companies shifting and pivoting. I know that Saylor has said that they're not ever interested in acquisitions, but I look at the smaller Bitcoin treasury companies and I can't help, especially now with mNAVs being drastically low, thinking that a lot of these could be acquisition targets. Do you see that happening? Do you think Smarter Web or others like Capital B might be targets?
+
+**James:**
+I mean, never say never. I think there will be lots of M&As in the space. Strive have just completed the first one, buying Similar. And their sort of MO is that they've got the skill set, they've got the knowledge to go and do these M&As. So I fully expect them to do more.
+
+Saylor has said he doesn't want to - it's a distraction. He'd have to employ people specifically to do that that he doesn't currently have in house. And that's his stance right now. Maybe that'll change in the future when Bitcoin gets more and more scarce and it's more and more expensive to acquire. Maybe M&As come back on the table.
+
+I've been thinking of it more in the terms of, is Smarter Web going to buy anyone even smaller? And I get the impression that the risks and costs involved - it would have to be a really good deal. Just the legal and accountancy and advisers and all that kind of stuff that goes with it. And then potentially making people redundant and all of that kind of stuff. That's not a quick, simple, easy task. So they'd have to be trading at significantly below 1 mNAV to make that attractive.
+
+And Smarter Web's back at around 1.1 mNAV. Which isn't amazing, but it's not below 1. Which means there's stuff they can do. Below 1 mNAV, life's a bit harder. Above 1, it's a bit easier.
+
+**Host:**
+What does success look like for Bitcoin treasury companies, especially the smaller ones like Capital B and Smarter Web? What does success look like in the next 3 to 5 years? Is it just sticking to the exact same plan? Maybe implementing some preferreds? And what would you think is failure for Bitcoin treasury companies as a retail investor?
+
+**James:**
+Okay, so I think the next 3 to 5 years are going to be pretty exciting. It might be a slow start because it's pretty challenging at the moment. But two things are going to happen.
+
+One, we're going to find out whether preferreds are as good as we think they are. Because let's go back a little bit - around this time last year, Saylor was doing like $2 billion convertible bonds and everyone was just like, wow, this is amazing. Basically free money. And then there was this sting in the tail with all the delta hedging and everything that went with it. It's like, oh, actually there is a price to pay for this free money. And now we get to find out if that's the case with preferreds or not.
+
+And I don't think it's going to be the same. But the next 3 to 5 years is really where we get to find that out. And so assuming that preferreds are as good as we think they are, then that's got to be the aim for the likes of Smarter Web and Capital B. How do we scale to a size where we can do that and launch them in our respective jurisdictions?
+
+And meanwhile, there's going to be more and more small companies putting Bitcoin on the balance sheet. Maybe they're running the treasury play, maybe they're not. Bigger companies, the Bitcoin miners, they're pivoting to AI because it suits their business model, it suits their infrastructure, it gives them resiliency when Bitcoin's going down temporarily. So there's going to be a lot of change in the next 3 to 5 years. And it's not just about preferreds, it's about Bitcoin, the global economy.
+
+Because as a retail investor, the only reason you would buy a treasury company over buying Bitcoin is either because it's trapped capital that you can't directly buy Bitcoin - so in the UK like pensions and ISA savings accounts - or it's because you believe that that company is going to acquire more Bitcoin per share and therefore you are going to outperform Bitcoin with that money over a long enough period of time.
+
+And I'm not saying everyone should go all in on treasury companies. I think spot Bitcoin first, cold storage is the answer. But the quote that stays with me, and it's actually from Jesse Myers from Smarter Web - well actually it's Saylor, but Jesse told me - he said, if Bitcoin is the risk-free rate, right, and your entire net worth is in Bitcoin, then your whole portfolio has no risk in it. And so there must be room in a portfolio for some risk. And that kind of stuck with me. It's like, yeah, I've got my Bitcoin. I wish it was more, but there's room in my portfolio for some risk and that's for me Smarter Web.
+
+**Host:**
+I think that's perfectly said. For me, it's the same thing. It was purely in a Roth IRA and it was that same thesis. A lot of people are forgetting - it's trapped capital or you try to outperform Bitcoin. But that's dangerous. Strategy itself almost hit $100. I think it tagged just under $100. It was about $100 from just a couple months ago when it was at $460-$470. What you were saying about having a drawdown of like 95%. That is not for everybody.
+
+**James:**
+Yeah. And I think everyone's freaking out - oh, MSTR tagged $100. And it's like, well, yeah, but go back four years and it was like $12. So in four years, you've gone from $12 to $100. I'll take it. Sure, it was $500 not that long ago, but you still ended up on like a 7x or whatever. I'd say that's pretty good going. And that's the thing with Bitcoin as well.
+
+I often just look at the chart with the 200-week moving average and just go to the monthly time frame and you get this lovely line that just sweeps up, mostly underneath the chart. And it's like, that is the trajectory, this is where we're going.
+
+And it's just such a nice way to remind yourself that, ooh it's dropped 50% from all-time high. So what? Last bear market the bottom was 16K. And now maybe it drops to 50K, but that's still a triple in four years. And that's considering that this bull market has been lackluster, a bit disappointing.
+
+I don't think that's going to be the case next time. The macroeconomics that's lining up, the time that takes to get into the system and convert to gains in risk-on assets, means that the next bull run's looking pretty tasty.
+
+**Host:**
+(0:56:32) How's Bitcoin in the UK in general? What's the vibe?
+
+**James:**
+Okay. So I would say the Bitcoin community is relatively small. But it is growing, which is good. I would say that the general public's consensus on Bitcoin is that it's a scam or, you know, it's gambling, whatever. I wouldn't maybe go as far as hostile, but mainstream media - did you see that Financial Times article that came out at the weekend?
+
+**Host:**
+It's 69% above what it's worth or something like that.
+
+**James:**
+And that's what people are reading, that's what they're being fed. So of course they're not going to be jumping up and down saying tell me about Bitcoin. But it is growing. It is changing. We're starting to get more events, meetups, all that kind of stuff. So it is an exciting time.
+
+I think the biggest issue is that the government that we've got in place claims they want to be the crypto hub of the world, but has done sweet FA to actually deliver on that. So hopefully with a change in government, we might start making some progress.
+
+**Host:**
+(0:58:10) What do you see - I'm going to give you the time frame, it could be a year, 5 years, 10 years, whatever you want - where do you see Bitcoin, Strategy, Smarter Web being?
+
+**James:**
+Oh, okay. Firstly, I suck at price predictions.
+
+**Host:**
+Everybody does.
+
+**James:**
+So MSTR, I mean, if it doesn't hit like $1,500 in the next four years, then I'd be shocked. But I don't follow it quite as tightly as I had done. I want to say $2,000 just because it's a round number.
+
+Smarter Web - I mean, it's like take something that's incredibly volatile and then add more volatility to it. So we peaked - the closing price in the UK, the highest closing price this year was £5 a share. And it IPO'd at 2.5p. And it did that in 8 weeks. Okay. So what's that? That's a 200x in 8 weeks.
+
+Am I going to see a 200x in 8 weeks again with SWC? No, I'm not expecting that. Do I think we reach all-time highs in the next four years? Yes. Do I think we smash the existing all-time high? Yes.
+
+So if MSTR was like $500ish at the peak and I'm saying $1,500, that's three times. I could see SWC £15 to £20 a share. Assuming the whole bull run happens, all that kind of stuff.
+
+Bitcoin - I mean, it feels like we're on the precipice of the S-curve, where it just kind of moons. And with the likes of Bitcoin treasuries buying up a significant amount of the supply, it feels like this cycle could be the one.
+
+But then Bitcoiners say that every cycle. So I don't know. I think my bearish top for this cycle is probably $350,000. But it could be a lot higher than that.
+
+**Host:**
+Do you think this is the official bear market or is it just a correction?
+
+**James:**
+I mean, I'm here for both. If it's a correction, then great, we get going up again soon. If it's a full bear market, then okay, cheap sats for a bit and we go again by the end of the year. It's just a time thing. It's either going to be soon or not quite so soon, but it's still not a long time. It's just a let's go touch some grass for a few months.
+
+**Host:**
+Yeah. So the way I see it, if it is a bear market, you could say the bear market started in October. So we're already four months in. I think they might push it down to maybe as low as $55,000, which would be the current 200-week moving average. I could see a crazy last push down to those numbers or maybe $50,000 where everybody's like, okay, that's it. It's dead. And that's when the shift will happen. Or we just base here for a couple more weeks or months.
+
+I just can't see how - especially with the move that gold has had, and there's so much going on and so much money printing. And with AI, there's going to be a lot of unemployment. They're going to have to print the money for some sort of unemployment compensation, right? Or that could be UBI or who knows what. But that's going to be money printing. Where's the money going to come from? You can tax the robots, you can tax the AI, but you can only tax so much. They're going to have to print the money. That money is going to find its way into certain things. There's only a few things - real estate, stocks, gold, silver, I guess, Bitcoin. And of all of those, for me, it's just a no-brainer that it would be Bitcoin.
+
+Traditionally, Bitcoin's bear markets lasted about 12 months. So we're four months in. Could be eight months, right? That's kind of how I'm managing my expectations right now. In 8 months, we're off, we go again.
+
+**James:**
+And whatever happens in between happens in between. Because do you know what I'm not going to start doing? Selling my Bitcoin and hoping to buy back lower. Because what if it's tomorrow or next week or next month and I'm waiting for October and the train's left the station and I've screwed it right up?
+
+So that's the whole strategy, right? I don't need to time anything. I can just chill, wait it out. Time is my friend and off we go again. So yeah, I get to enjoy that this time and just sort of go, okay, if it pukes to 30K, I don't care. Because I know - well, I believe - it will come back and so therefore it doesn't matter.
+
+**Host:**
+(1:05:02) That's a good way to wrap it up. James, thank you so much for your time, sharing your wisdom, your Bitcoin treasury space expertise. Can you tell folks how to find you?
+
+**James:**
+Sure. Basically on X, @OurGoodLifeUK. On YouTube it's @SWCandBTC. It's pretty much all just SWC content, but those are the two places you can find me. And yeah, hoping to be out there producing content throughout the bear market. And when that ends, it gets exciting again.
+
+**Host:**
+Yeah. Well, I think it'll happen sooner than most realize. All right, James, thank you so much for your time. I hope you have a great one.
+
+---
+
+**End of transcript**

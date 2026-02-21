@@ -1,0 +1,291 @@
+# Bitcoin Treasuries World #57 - Smarter Webley Wednesday w/Andrew: LSE Effect, Index Inclusion
+**Date: 2026-02-11 (Tuesday)**
+**Video ID: -VngzGE3C5Y**
+**URL: https://www.youtube.com/live/-VngzGE3C5Y**
+**Channel: Bitcoin Treasuries World (Anders)**
+**Host: Anders (Bitcoin Treasuries World)**
+**Guest: Andrew Webley (CEO and Founder, The Smarter Web Company)**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- SWC now close to 2,700 BTC after announcing 15 BTC purchase (plus 10 BTC two weeks prior)
+- LSE uplisting as a structural defining moment: two IPOs in under 10 months
+- FTSE index inclusion mechanics: All Share, Small Cap eligibility (~£88M market cap threshold)
+- FTSE 250 pathway and the importance of passive money flows alongside active capital
+- Institutional capital access: cold inbound from major investment companies since LSE listing
+- Three days of meetings in London post-uplisting with hedge funds, long-only funds, family offices
+- mNAV discussion: tight around 1.0-1.1, all upside essentially free for investors at current levels
+- Bitcoin yield: approximately -0.5% current quarter due to £1.5M one-time LSE admission costs
+- Capital raising philosophy: no discount, no warrants, seeking long-term strategic investors over quick sellers
+- Operating business: relatively flat but growing, goal to cover all company costs from operations
+- Never wanting to be forced to sell Bitcoin - operating business as survival backstop
+- Bitcoin Treasuries Unconference UK: May 29th in Bristol, speaker lineup including Fong (CEO of Strategy)
+- Strategy World in Vegas: SWC among small number of international companies invited to speak
+- Other upcoming events: Peter McCormack's Cheat Code, Madrid conference, Ireland conference
+- Scale matters: growing overall BTC stack reduces cost percentage even if BTC per share stays flat
+- Liquidity and average daily volume (ADV) as key metrics for institutional allocation sizing
+
+---
+
+**Anders:**
+(0:00:00) Morning, good afternoon, and good evening in UK and welcome to Bitcoin Treasuries World 57 where I today have Andrew Webley, founder and CEO of the Smarter Web Company in UK, which in I don't know if it's less than 10 months now or so have taken the company from owning I think it was 2.3, 2.4 Bitcoin to today announcing another 15 Bitcoin bought and getting close to 2,700 Bitcoin. So many amazing things have happened for you, Andrew. But first of all, I mean, and the company, but first of all good to see you as always. Looking forward to this. How are you doing and welcome to the show.
+
+**Andrew Webley:**
+Yeah, nice to see you, Anders. Yeah, it's been a pretty busy couple of weeks. We're really pleased with everything that we've managed to deliver for the shareholders this year so far. We're incredibly excited about the near-term as well as obviously the medium to long term. And the company couldn't be in a better place right now in my opinion. So yeah, it's been a pivotal couple of weeks really and I'm very much looking forward to the next couple of days and weeks.
+
+**Anders:**
+Yeah. Me too. And I think all your shareholders too. And congratulations on that super milestone of getting uplisted from the smaller Aquis exchange to the main exchange in England or United Kingdom. I don't know if it covers everything. But London Stock Exchange with all the good things that come with that. Last time, you know, we were counting on it last time you were here. Nothing is 100% sure until it happens. It happened. It's amazing. Congratulations on that.
+
+**Andrew Webley:**
+Yeah, thank you. It was, you know, a lot of work went into it. It took many months to get to that point and obviously we couldn't say until right at the end what we were aiming for. I actually did three days of meetings in London immediately following the uplisting. And the reoccurring theme that was coming out of those meetings is the understanding by lots of, you know, whether it's hedge funds, long-only funds, family offices, these sorts of people, of the structural significance of it.
+
+So I think we'll look back in 6 months, 24 months, whatever, and see it as a structural defining moment of the company. We've been a public company for almost 10 months. So we've done two IPOs effectively in that time period alongside building a balance sheet with well on the way to almost 3,000 Bitcoin. So we've done lots of things over the last 10 months, but to do two IPOs is pretty cool.
+
+But what everyone needs to understand and be realistic as well - things need Bitcoin sentiment and things do take weeks or months, not hours or days. But there's so many investors out there that can only invest in a London Stock Exchange company as opposed to an Aquis company. Not that it wasn't a great market for us. So this is a structural moment for where we want to be. We cannot be the company that I want us to be without this main market listing.
+
+To give you another example, in two, three weeks or something like that, the next index inclusions will be announced and we're too small at the moment for the FTSE 250. We're on a path to it in my opinion. But we will be potentially in the FTSE All Share. And that's mega important.
+
+**Anders:**
+FTSE All Caps you said, right?
+
+**Andrew Webley:**
+FTSE All Share.
+
+**Anders:**
+All Share, which means you will be included because you're one of the LSE shares.
+
+**Andrew Webley:**
+Yeah, there's a, I think it's 88 million pound market cap threshold for it. So the way it works is FTSE 100, then you've got the 250. You add those two together, you've got the FTSE 350. Then you've got the FTSE Small Cap. And if you take the FTSE 350 and the FTSE Small Cap, that's the FTSE All Share. And then underneath that you've got something called the FTSE Micro Cap.
+
+So I believe that we'll probably be in the FTSE All Share and the FTSE Small Cap. Small Cap being 88-ish million pound plus for inclusion. So the flows that we're expecting from the FTSE All Share inclusion are not that different to the bottom end of the FTSE 250.
+
+And the reason why that's so important is the passive money is really important for the business. Yes, we're speaking to lots of active money. But it's the active money plus the passive money. So yeah, there's loads of catalysts in the very, very short term which I'm quite excited about.
+
+**Anders:**
+Me too. Absolutely. And I think most of your investors, everyone that understands what's going on. By the way, before we go further, I just want to - so I changed, reversed the t-shirt today because I just love this British flag Bitcoin logo. And then we got the Smarter Web there as well. This is not a Bitcoin treasury company, just so you know. It's not a competitor. I just like the cap.
+
+So let me understand. When you say the FTSE 100 and then the 250 together is FTSE 350. Does that mean the 250 doesn't include the 100 biggest? Because to me, FTSE 250, I'm thinking that's the 250 biggest shares on London Stock Exchange, but it's below the FTSE 100. So...
+
+**Andrew Webley:**
+Yeah. It's called the FTSE 350 which comprises the FTSE 100, then the FTSE 250. So that's the 350 biggest companies. So the FTSE 250 is the 250 biggest after the 100. But the FTSE All Share is the FTSE 350 plus the FTSE Small Cap all added together. And then underneath that you've got the FTSE Micro Cap.
+
+There are other conditions, well another condition which is liquidity, but we're incredibly liquid. In fact we're one of the most liquid stocks in the UK by number of shares, I believe also by flows actually of retail buying.
+
+So yeah, there's no concerns that I've got on that. And I can't wait. When we first listed in April 2025, and I said that I wanted us to be one of the biggest companies in the UK - clearly, that will take a little bit of time. But we're well on the path and if we can continue executing, the team can continue working, which I've got zero doubt that they will, the future's so exciting.
+
+And then if you overlay that with the way that we build our business, which is obviously on a Bitcoin balance sheet - when Bitcoin starts to outperform again, whether that's today, tomorrow, a month, 3 months, who knows? Yeah, it's not going to get any more exciting than that in my opinion.
+
+**Anders:**
+No, I agree. And there are treasury companies that are doing well now including yours despite Bitcoin actually being, per definition, in a bear market. And I hope people don't forget that at the end of the day the model works really really well when Bitcoin is moving up. So if you are making it when Bitcoin is going down, things are looking really good structurally and the upside is going to be phenomenal.
+
+So again on those indexes - this is one of the things that excites me a lot about your uplisting to London Stock Exchange. As I understand it from you, even the Micro Cap, you are guaranteed to go into at least one or the other if not two. Right? Already you're saying they're rebalancing in March, they will do the picture of market caps of the different companies of London Stock Exchange. And then as I saw someone write, it takes effect like that index will start buying your shares around the 20th to 23rd of March and there's just no way out of that. That's going to happen, right?
+
+**Andrew Webley:**
+Yeah. Well, you know that I don't like to sort of bank on things until they happen, but yeah, it's near as damn it a certainty. But let's wait for early March. Let's get the announcement from FTSE that we've made it into the indexes and then everyone will know that that will happen by the buying towards the end of the month.
+
+Clearly there's institutions out there, some of which we've spoken to, that have specialist teams that understand these movements and you would expect that they take positions around what's going to happen.
+
+So let's wait until it happens. And sort of look forward to that moment because to have a UK Bitcoin treasury company included in main internationally respected indexes - that's a good thing for Bitcoin, for Smarter Web, for our shareholders. And it's the path towards where we go forward from here.
+
+On your comment as well about it being a tough market. I think everyone needs to understand that it is a tough market at the moment. One of the comments that I've seen online is people asking about our current quarter Bitcoin yield which is approximately minus 0.5%. It might be worth briefly explaining that just so that everyone understands.
+
+So what we say to people is that our model works in different market conditions - an up, flat, and a down market. It does work better in an up market. Actually a modestly up market as opposed to a violently up market. But clearly there's costs to the business. We've got the team. We've announced recently in our prospectus what it cost us to do the admission to the London Stock Exchange. It's approximately 1.5 million pounds.
+
+So yes, we've got an operating business that we're growing that we're looking forward to talking about a lot more in the not too distant future. But we do have costs. And when mNAVs are very tight - so on the large, we've traded at a positive, i.e. above one mNAV, but there was a period when we were below with the end of tax year selling in the US. It's harder to sell equity to deliver that Bitcoin yield. And when you overlay the additional costs, then that's why you have a negative half a percent using rough numbers.
+
+We believe that in most quarters, maybe every quarter, we can deliver a positive Bitcoin yield. But obviously that requires us to do what we're intending to do over the coming weeks and months. So what I would ask people is to understand why those numbers are like they are. And to understand that we're trying to make the decisions that work for months and quarters, not necessarily days and weeks. And to trust us in the sense that we believe that we know how to run the model properly.
+
+**Anders:**
+And I think hopefully a lot of people understand that such a thing as 1.5 million pounds to uplist to LSE is a one-time cost. You have to invest to get returns and obviously the upside of being on LSE is so massive. It's absolutely a must investment from your side. And when you take money aside that you need for something like that, it's not going to necessarily mean more sats per share. So there'll be maybe periods like this where it goes negative and then it builds back up and goes positive. We saw it with Strategy last quarter and also MetaPlanet. I think it was maybe Q3 at a certain stage had negative and then it's because you're making decisions that you overall believe are very good and important for the company and then you come back.
+
+**Andrew Webley:**
+Yeah. And so today we announced another 15 Bitcoin bought.
+
+**Anders:**
+Yeah, congratulations. That was another thing I wanted to mention. Sorry about that. Congratulations on the announcement of another 15 Bitcoin today, please.
+
+**Andrew Webley:**
+Yeah, and two weeks ago approximately, we announced another 10 bought. So in a tough market, if you can show relative strength and grow, I think that's quite good. Because what you're trying to do with this sort of model is you're trying to grow your Bitcoin per share alongside your wider activities, but you're also trying to grow your overall Bitcoin stack.
+
+So as a secondary metric, if you can maintain a flat Bitcoin per share, but you can grow the Bitcoin stack, it does give you more scale. And if you go back to the costs that I was talking about - the staff, we want the best staff. I believe we've got the best staff. And they all work incredibly hard trying to deliver the strategy that we as a team think is the right strategy. Obviously then as a percentage of your assets it comes down. So scale is important for lots and lots of reasons.
+
+Clearly the objective is to grow the Bitcoin per share but at the same time if you can grow the scale of the company I think it's beneficial as well. So yeah, I'm ever so pleased with how everything's structured at the moment. As I say, I think it's a structural moment for the company. And I'm very much looking forward to some of the things that we've got coming up.
+
+**Anders:**
+No, absolutely. And me too. And I think most of your investors too. But by the way it was an interesting point you made that you've done two IPOs because I think a lot of us don't think about that. You went on Aquis, everything good, and then most of us got to hear about you and now you've done the LSE IPO. But you've done two, it's quite a feat. And thank you for your hard work, Andrew.
+
+So before we jump to - you put out a tweet here with I think some great things we should talk about. Some of them we've already touched upon. Before we go into those topics, your business in terms of profit, loss, break even - if we look away from the treasury model of running the business. Is the business itself at a break even point if we take away the ability to sell shares at a premium? Or where are you at approximately there?
+
+**Andrew Webley:**
+Yeah. So in the near future our end of year results will come out. In our prospectus which was published recently around the listing there's fairly current figures actually, not quite the full year figures that will come out later this month. But I think the fairest way of describing it while still being fully compliant is that the operating business has been relatively flat.
+
+So without wanting to create too much of a negative picture, the operating business has been relatively flat. Although we believe in the potential of it and we can talk about that at later sessions once we've published certain things. But at the same time clearly the costs of the business have gone up considerably, albeit they're still very tightly managed.
+
+So I can't really answer your question in a compliant fashion other than say that if somebody looks at all the information out there, it's fairly obvious what the position is. And my intention over the coming years is to grow our business responsibly. And I believe that we can get to that position where our operating business will cover our costs. And that's all I'm trying to do.
+
+Like the operating business is something that I understand greatly. I've got a clear plan that we've been very transparent about how we'll grow that in a way that's beneficial to shareholders whilst at the same time not being a risky business. There's lots of reoccurring revenue, very few bad debtors, all the things that are important. And I believe that puts us on that pathway.
+
+Because one of the things that's come up from a lot of the discussions that we've had with people is they want to understand how the costs of the business can be managed by the business as opposed to using the treasury. So what that really means in simple terms is that if you've got a bad year, let's say, where you can't raise a penny using any of the ways that we can raise capital, then you just carry on, bunker down and the operating business pays for the survival.
+
+What you never want to do as a Bitcoin treasury company is you never want to be forced to sell any Bitcoin. And that's certainly not the position that we're engineering the business to be in.
+
+So yeah, I think the operating business is an important part of what we do that doesn't get enough attention. It's a really good service. So anyone out there that needs a website, get in touch with us and we'll explain what we can do. It's really cost-effective. And it's an important part of our group and something that I'm very proud of.
+
+**Anders:**
+Well I think that's an excellent answer, Andrew. Appreciate that. So let's take a look because you - I think bottom line, you know what's going on better than anyone. We've spoken about the two announcements of buying Bitcoin already this year. And they're not just tiny. And the London Stock Exchange uplisting. Which of the other - what's the - like how has this all been for you? Let me put it that way. The last month. Let me first hear that before we go further. Like it must have been crazy and exciting and great experience. Like this is life, big life moment.
+
+**Andrew Webley:**
+Yeah, I'm delighted. I'm delighted that we managed to get the business listed on the London Stock Exchange. It was awesome. It is a bit of a blur because, you know, for example when we finish today I've still got a few more hours to do and then tomorrow more, the next day more, the next day more. It never stops and that's great because there's always exciting things going on that we're working towards.
+
+So for me personally, it's not like that week was something that we were working towards and then you enjoy it and all that sort of stuff. It's literally just a part of the day and then you go on to meetings. And we had a great shareholder drinks reception actually in the evening of the day, which actually was one of the most enjoyable bits for me because that was probably the most chilled out that I was in that whole week, just talking to different shareholders.
+
+So I think the reality is for me that of course I'm proud of it and I'm delighted that we delivered that for our shareholders. We really care about delivering everything that we say we will do if we can. But it's probably one of those things that in 10 years time I look back at it and I think, well, that was pretty cool. I've got the photos of it that I can look back at maybe.
+
+But yeah, it was great. I had my son there with me. It was nice for him to see that. Because he sacrifices a lot. Or I like to think he sacrifices a lot by not having me around so much. Maybe he doesn't mind. But yeah, it was great to be able to do that and to share it with so many shareholders and the team and the advisers. Yeah, it was great. But for me, I look forward. I don't really look back. I'm so focused on what we need to do for the next couple of weeks and the next couple of months that I just want to get it all done, and then after we've done that, I want to do some more.
+
+**Anders:**
+No, I can see that you are basically always on a mission for the next steps. So you don't get to take a week going back and talking about it.
+
+I'm looking at your list of topics. I think actually we've covered a lot of them. So the London Stock Exchange, the Bitcoin purchases. We do need to talk about - maybe we should finish with that - the event that you're hosting, which is exciting. We've talked about the index inclusions.
+
+So apart from all of that, as you told me, there's things you can talk about and then there's things you can't talk about. Generally, I think what excites investors, definitely me, is the access to capital, institutional capital that you have now that you didn't have before.
+
+And I just want to make one point real quick also to investors. So last time I checked, your mNAV was just around one, like 1.01 or something like that. So when people buy shares in SWC, they're essentially only paying for the Bitcoin that you already have on the balance sheet. The entire upside of all the passive buying that's going to come from the indexes and everything else that's going to happen, the ability to have leverage upside when Bitcoin moves up - all of that right now as an investor you're getting for free.
+
+And it's mostly like that across the board for treasury companies, but you're right around one, which means all right, the upside is free, which is wild, but that's how markets operate. It takes a while before the old generation or the dinosaurs and different people wake up to see it and understand it. So I think that's a point worth mentioning that the upside right now is free. Do you have any thoughts on that? What you think about that situation?
+
+**Andrew Webley:**
+Yeah. Well, you're right. If you're paying, say, a 1 or 1.1 mNAV, something like that, for something that effectively is going to grow that Bitcoin per share, then to me that's incredible value. But this is the way markets work. The peak fear, the lack of sentiment or anything like that, that's what creates the opportunities at the end of the day. And it's a bit brutal but it's how it is.
+
+What we have to do as a company is we have to make sure that the strategy is right for the medium to long term, which I believe it is. And just keep executing. Keep speaking, keep showing people what we're doing, explaining why we think it's the right thing to do, and hopefully that's what then gets support.
+
+Alongside that, if you look at the London Stock Exchange, it's one of the best markets in the world. So the credibility that gives in terms of attracting new capital - the number of phone calls that we've had, in fact, even this afternoon, we've had a cold email come in from a massive investment company that wants to meet us. It's just stuff that wouldn't have happened before. Which will take time to have the conversations and explain why a Bitcoin treasury company deserves to exist, what the opportunity is, but it's getting so much easier. And that's why I'm so excited right now because when I know what we're working on, the conversations we're having, where we're trying to get to - it's pretty good.
+
+But for our shareholders they're obviously not sat at my desk seeing the emails that I'm seeing and having the phone calls that I'm having and going to see people like I am. And that's why it's my job to try and share with them in the most transparent way within the rules what's going on so that they can make an informed decision. And that's all we're trying to do at the end of the day. We're trying to give people the truth. Do it honestly, openly, transparently, compliantly. And then allow them to make the decision of whether they think it's worth holding shares in our company.
+
+**Anders:**
+And the example you mentioned about the email from a big institutional investor, I think that's one of the things that we've been looking forward to as investors from before the uplisting. And we've seen your mNAV go from - I think it bottomed out at around 0.69 which was insane. I remember posting about it and here we are back up at one. So that was a very nice rise in the share price over January approximately.
+
+And understandably it will take some time. Then you got to have a meeting and this and that. But something must already have been starting to flow in, I'm thinking from institutions to erase the negative premium and really carry the share forward in January which was before the uplisting. So that's in anticipation of what's going to happen. But is there anything you can say now about new investors stepping up to the plate? Did it already happen or are we maybe going to have to wait a few months or a couple of quarters or something like that before this institutional money which is available for you now starts to flow into the shares?
+
+**Andrew Webley:**
+I'd be absolutely amazed if we've got to wait months. That would be a pretty bad result as far as I'm concerned.
+
+My job is to try and attract the right capital which is at the right terms at the right moment. So we debate this internally a lot. I believe that what we're doing is the right approach. And I am pretty optimistic about how all of that will materialize.
+
+Because what you don't want to do is - let's say you've got a pot of money here and a pot of money here, both of which are being offered to you on identical terms. So let's just say a regular equity raise, no discount, no warrants, like we've done almost all of the time, i.e., no discount, no warrants. We did warrants once. Those two pots of capital, even if they're the same amount, are not the same because one might be a very long-term strategic investor. The other one might be somebody that wants to sell the shares as quickly as they can. If you've got that choice, clearly it's better to take the strategic investor.
+
+So we're speaking to lots of people in the UK and internationally at the moment and my job is to try and make sure that we get the right investors, which is harder. There's loads of capital out there. But I want the right capital because if you look at the secondary market in our stock, we're building liquidity. We've obviously got an ATM-style facility that can be used sensibly alongside that, but we want to respect that market and we don't want people effectively killing the share price.
+
+So I think how I'm doing it is the right way of doing it. It's certainly what we're doing. And that's what I can really say on that.
+
+**Anders:**
+Sure. So what I pick up on is what you're talking about is not institutional investors buying on the market, same conditions and price as everyone else. It is a decision you're making when it is something you consider very valuable or big money or whatever for the company, where you go in and which can generate yield for the shareholders and all of this, where you then may do some kind of favorable terms in terms of warrants or something?
+
+**Andrew Webley:**
+No, okay, just wanted to - so if you look at the liquidity in the stock, that's a mixture of institutions that want to take some stock and retail investors. It's the market. In terms of moving forward, when we do specific equity raises, we'll do them subject to what the market conditions are at the time. So those traditionally historically have always been at-the-market offerings. And I'm not planning to change that.
+
+So I could easily place a load of stock with a whopping great big discount, but that's not in the interest of the company and its shareholders. So I'm not planning to do that. Whilst at the same time, we're not saying that at a point in the future that might need to change, but our intention is to do exactly what we've always done, which is offer equity.
+
+And to be honest, because we're now listed on the London Stock Exchange and we've got the prospectus that's come out, we can offer the same raise to retail investors at the same time. So when we decide that it's the right moment to do an equity raise, hopefully at the current share price - the share price at the time which I hope will be higher - then we can offer it on the same terms to everyone, which is what we did in the early days. And I think that's the right approach for us at the moment.
+
+Warrants are something that you offer to people to get a raise away effectively. A warrant, you can make a case that it's a bit like a discount if you like. But I don't think that we need to offer those. That's not saying that we won't ever offer them again. It depends on what the needs of the company are at that point in time. But my intention is that we will just keep doing exactly what we've done, which is look for the right capital that wants to support us because they believe in the company. Not because you've given them a discount or warrants or something like that.
+
+Every company's got to do what's right for them and market conditions change all the time, but I don't really see any reason why we need to discount that and I don't think our shareholders would like it either.
+
+**Anders:**
+Okay. So I get that. That's a - love that answer, Andrew. I guess the way to understand it is when you're making a decision whether to work with or take money from this investor or not, it is because if it's at a 1.2, 1.5, 2, 3, whatever mNAV, it's a no-brainer pretty much no matter what. So I'm guessing it's you're bringing this up in a situation where the mNAV is not - the premium is not very high, where you consider whether that's worth it or not to create the shares and sell them if you want that investor. Is that correct or am I completely off here, Andrew?
+
+**Andrew Webley:**
+Yeah, kind of. So when you factor in the charges and all the other things that you have to be aware of when you effectively sell some shares to somebody and then deploy that into Bitcoin, you probably don't want to do it below a 1.05, 1.1 mNAV, something like that. The margins get quite tight.
+
+We're pretty good at the deployment of capital so that we can manage any sort of market slippage in addition to the charges. So you just need to do it right. I think we've got everything as right as we can. We've got things that we're changing in the future around that as well.
+
+But yeah, if you're in a tight mNAV scenario, you just need to do it in the right way. It's as simple as that. And then that's what allows you to deliver that positive Bitcoin yield potentially.
+
+It's also about size as well. Because we look a lot at the volume of our stock. It's called average daily volume, ADV. And if you're speaking to investors, a lot of them will price their allocation size against what your volume is. And that's why, if people look back at all of our interviews, they'll see why we care so much about liquidity. Because it's really important.
+
+But I believe that our strategy over the next couple of months is optimized and perfect for growing the company where we want to grow it. And the metrics that I'm focusing on are Bitcoin per share and Bitcoin yield and overall Bitcoin held. So I believe that I can deliver that in whatever market conditions exist for the next few months. And that's what I'm going to do.
+
+**Anders:**
+Awesome. And yeah, makes a lot of sense. I agree with all of that, Andrew. And I just want to say that I do believe that with the upside of SWC, it belongs in every single portfolio pretty much in my opinion, if someone has access to buying the shares because of the tremendous upside. And sure, nobody knows exactly what's going to happen this year. You're probably going to end up the year, even if it was a full-on traditional four-year cycle bear market, you probably end up with more Bitcoin per share at the end of the day or end of the year, sats per share at the end of the year.
+
+Why don't we move on to talk about the event you're hosting. Tell us all about it that is coming here in the springtime.
+
+**Andrew Webley:**
+Yes. So we are organizing the Bitcoin Treasuries Unconference UK which is at the end of May. If you want to go to our website, you can find out more information about it. You can buy tickets. If you use the code OFFER10, you can get 10% off the tickets. We've got a fantastic lineup of UK and international speakers. We announced earlier today that Fong will be speaking there. We've got other names that we'll announce over the coming weeks and months. We've got some great sponsors and we believe that it'll be a great day of content.
+
+I wanted to organize this event because I wanted a really good event for Bitcoin treasuries in the UK. And that's the aim. That's what we're going to put on with this great collection of sponsors and speakers that we've put together.
+
+But then alongside that there's quite a few global events that have started to get booked in. So at the end of February I'm one of the small number of international companies that have been asked to speak at Strategy World in Vegas. I'm looking forward to that. I'm looking forward to seeing the team over there and all the partners that we work with in the States. I've only got a couple of days there but they're pretty much full already. So that'll be good and I'm looking forward to talking about the Bitcoin treasury model in the UK. I was actually working on the slides for that earlier today which has been greatly helped by Jesse, our Head of Bitcoin Strategy. So that's something that I'm looking forward to in the immediate term.
+
+And then after that there's a nice guy called Peter McCormack. He has got something called Cheat Code which is an event in the UK in Bedford. He's invited us to talk at that. There's also a conference in Madrid. There's another one in Ireland that we've been invited to talk at. So we're trying to get to as many of these things as we can later in the year. There's a couple of other events as well which I've already got booked in.
+
+So I'm just trying to get the balance between doing our own event, going to good events in different parts of the world where we can tell our story, we can try and contribute to the content that people enjoy, and where I can meet various different partners or investors or whatever it may be, but at the same time trying to balance all the work that happens at the desk. There's a lot of meetings that we have to do face to face, increasingly so, and that takes time as well.
+
+But the events are - you're very lucky to be invited to participate in them and I believe that sharing our story with other companies and people looking to start companies is the right thing to do and obviously I'm really proud to be able to tell it.
+
+**Anders:**
+No, absolutely. And it's awesome you get that opportunity to come out and it's a great way of showcasing SWC internationally. I want to, just for the people that do want to attend - if you can just guide us on your website. So if people go to smarterwebcompany.co.uk, where should I go here to get tickets and see more about this?
+
+**Andrew Webley:**
+So if you hover over Bitcoin Treasury in the navigation and then click on Bitcoin Treasuries Unconference UK.
+
+**Anders:**
+Of course.
+
+**Andrew Webley:**
+And then that will load the page. You can buy the tickets at the start but if you scroll down a little bit, let's have a look at some of the speakers since we're here. So we've got Alex from Capital B. We've got obviously my good self. And then we've got Jesse. Joe Bryant. He's a great guy, really respected UK personality. After that we've got Jordan, an amazing person as well, really knowledgeable on Bitcoin. And been very supportive of our company. We've got Fong. He's the CEO of Strategy, a company that I greatly look up to. Who else have we got there? Tim. Yeah, Tim's great. He's been really supportive. We're doing the conference in partnership with him. Tyler, really well respected. He sits on the board of MetaPlanet, set up the Bitcoin conference.
+
+And then we've got a load of other people as well. Alan, Broker, Coinbase, Tobam, Roxom, Vaults, BHoddle, Gary Smith, great guy, Bitcoin Chef, one of the nicest people that you'll meet. Matt from Strive, a lawyer, a financial adviser, Peter Lane, Roy, Sam, Sander. I had dinner with him the other night actually from H100. Scott - that's a potential company that could do really well in the UK. Zinc, he's going to be dialing in virtually because he likes to keep his identity a little bit back. The Bitcoin Libertarian, again, one of the nicest people you'll meet. And we've got more people that we're adding on. Just so I've mentioned all the names - Stephie, and of course the Africa Bitcoin Corporation as well. That's a company that's got a different model that's designed for the developing world rather than the developed world. It's quite interesting.
+
+So yeah, we've put together a panel of people that I think can present lots and lots of different sides of what a Bitcoin treasury company can do. I think there's one maybe gap in there at the moment, which is we could probably do with a few more private companies that have chosen to adopt the model as well. That might be quite interesting. But we've got bases covered.
+
+**Anders:**
+That sounds - by the way, it's the first time I see - let me just go back here. But I think it's the first time I've seen that the VIP tickets are not five or 10 times the normal ticket. It's what, 40 or 50% more. So starting at 210 I think it was for tickets. That sounds like that's an amazing speaker lineup you have there, Andrew. It looks great. Absolutely.
+
+**Andrew Webley:**
+And several people - we're really trying to put on a day of great content because I wanted a conference that I could go to that had great content all day long. That's why we've decided to put on the content for the conference and I believe we'll deliver that.
+
+And for anyone that wants to buy one of the VIP tickets, I'm not actually sure how many we've got left now. I will check that at some point. But the VIP tickets, you get priority seating and then you also get a meal in the evening. So we've got an amazing independent restaurant very close to the venue with the speakers and the sponsors and some of our partners. So that'll be fun as well. With a menu that I'm yet to sign off on, but I will do and I'll make sure it's nice.
+
+So yeah, it should be good. And if it works and people enjoy it and they think that it was well managed, then maybe we'll make it an annual event or something like that.
+
+**Anders:**
+Yeah. And also that would be great and I do hope I can make it over. If not this time, next time we can talk about that. But yeah, great. It looks great. And just a reminder, so that was May 29th in Bristol, UK, if anyone's interested.
+
+When I saw the speaker lineup, I noticed Joe Bryant. He's also speaking - he's the first speaker at Bitcoin Copenhagenpunk.com where I'll be speaking too, and I'll mention treasuries there as well. So that'll be fun. That's the 21st of March if anyone's in Denmark. Primarily a Danish Bitcoin conference, but Joe will be there. They'll be speaking in English.
+
+So that looks like an amazing event and I noticed one thing you said, like you're putting this on yourself and putting things together the way you believe it will be good. I personally hosted four Bitcoin parties over the years, 2022, 2023, 2024, in the US, and every single time I focused on making it so that's what I want to attend, that would be great. And I think that's what ended up people really loving them because when you do it with a focus on creating something that you will love, it usually tends to be a great event at the end of the day.
+
+**Andrew Webley:**
+Yeah, that's why this event is all about Bitcoin treasury companies. This isn't a wider Bitcoin event. There's lots of other big and small events that are purely focused on Bitcoin that then might also include Bitcoin treasury companies. But this event is all about Bitcoin treasury companies. So the strategies, investors, the regulations, different strategies. That's very important to add. What's working, what hasn't worked. It's a very specific thing, but it's something that I'm passionate about and I think it can be a fantastic day for anyone that's interested in that space. So yeah, if interested in it, go to the website, have a look, buy a ticket, come along.
+
+**Anders:**
+Absolutely. And we went through the website so people know where to go and find it on smarterwebcompany.co.uk for anyone interested. I am sure it's going to be very well worth their time. If you're an investor in general, if you're a Bitcoiner, that's going to be worthwhile to attend for sure.
+
+Andrew, I can't believe actually so much time has gone by already. So I just want to hand it over to you if there's anything else. I think we've covered most of - well, all the topics that we've spoken about initially. Is there anything else you want to add here at the end?
+
+**Andrew Webley:**
+Well, it's obviously been a busy couple of weeks and at the same time it's been quite a volatile couple of weeks for our shareholders and people interested in Bitcoin. So it's easy for me to say that I believe that we've got the model right. And I do. I'm incredibly excited about the future and I hope that by seeing the things that we've been able to talk about very recently, people can see that the business is genuinely growing even in a tougher market.
+
+And we're truly grateful to everyone that's supported us to get us to this stage. But in our opinion, the future is - what we've done so far is great. We've got to a reasonable size, nothing like what we want to be. And if shareholders want to support us and join us for the coming months and years and beyond, then we're looking forward to sharing this with them all.
+
+**Anders:**
+Thank you, Andrew. And just congratulations on doing two IPOs in - is it 10 months or so? Congratulations on your two double-digit purchases of Bitcoin this year during this market. I think the future is bright and the next 10 years are going to be phenomenal for Smarter Web. You'll probably be in 10 years one of the biggest companies in the UK in my opinion. I don't know. And maybe it doesn't go that way. Maybe it takes longer time. I definitely think you'll get there. Nobody knows how long time it will take.
+
+And also just congratulations to all the investors right now being able to buy SWC without any premium and having all of that upside for free and in a company that is proving that they can even buy Bitcoin in a very negative Bitcoin market. So once things start turning around, I think we'll see a lot of that optimism, the premium and the model running as sentiment comes back to Bitcoin. I think once again it's going to be phenomenal and all of you are going to take big strides in Bitcoin accumulation per share in the treasury company.
+
+So again, thank you, Andrew. Good to see you as always. Thank you for your time. Love this and we'll do it again soon when there's more to talk about and thank you for prioritizing to jump on here Bitcoin Treasuries World soon after the different announcements before and after LSE uplisting. I really appreciate it. Thank you for your time, Andrew.
+
+**Andrew Webley:**
+No worries. And thank you for taking the time to speak to us as always. And yeah, look forward to the next update.
+
+**Anders:**
+Absolutely. Awesome. And also thank you to everyone watching.
+
+---
+
+**End of transcript**

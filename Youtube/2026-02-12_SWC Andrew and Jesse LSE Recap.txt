@@ -1,0 +1,323 @@
+# SWC - Andrew & Jesse - LSE Recap
+**Date: 2026-02-12 (Thursday) [Livestream]**
+**Video ID: JJWQUkW7Y2g**
+**URL: https://www.youtube.com/live/JJWQUkW7Y2g**
+**Channel: The Smarter Web Company**
+**Hosts: Jesse Myers (Head of Bitcoin Strategy), Andrew Webley (CEO)**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- LSE uplisting recap: pressing the button, orange and black confetti, signing the historic book
+- 80-100 people at the ceremony - LSE rep said she'd never seen that many at an opening
+- Oxo Tower dinner the night before with team members from across the UK and US
+- Andrew's emotional family thank-you speech at the ceremony
+- Shareholder drinks reception: Andrew's favourite part of the week, open conversations, team bonding
+- Shareholders introducing themselves by Twitter handles rather than real names
+- Retail investors are far ahead of institutional investors in understanding Bitcoin treasury value proposition
+- Market structure change: from Aquis market-maker-driven system to LSE SETS order-driven system
+- Tighter spreads, more accessibility, more international reach on LSE
+- SWC was ~60% of all Aquis volume during its 9+ months there
+- Stamp duty exemption: 3-year stamp duty holiday as a new LSE listing - first company to benefit
+- 100-120 vol stock with no stamp duty = unique position for active managers seeking volatility
+- FTSE index inclusion: eligible for FTSE Small Cap and All Share as of now
+- Back-of-envelope math: ~13 million shares of buying power from FTSE Small Cap inclusion (~3-5% of available shares)
+- FTSE 250 inclusion would be 5-10x the inflows of Small Cap; requires ~2.5x current market cap
+- Snapshot taken in March, takes effect end of March
+- Institutional meetings in London: ~15 meetings over 3 days, half wouldn't have happened without LSE listing
+- Increasing conversations with large American banks; cold inbound from a very large company
+- SWC has 4.3x more Bitcoin than the next closest UK competitor
+- Upcoming events: Strategy World (end of Feb), Peter McCormack's Cheat Code event (end of March), Madrid conference, Bitcoin Island
+- SWC's own UK Bitcoin Treasury event with Tim and Ed (from NYC event), ~30 speakers, ~8 sponsors
+- CEOs from Strategy, Capital B, H100, and Strive confirmed to speak
+- Annual report coming soon - first ever for the company
+- 2026 Bitcoin purchases: 10 BTC in January + 15 BTC in February = 25 BTC year-to-date
+- On track for positive Bitcoin yield despite significant uplisting costs this quarter
+- Strategy World: SWC is one of only four international Bitcoin treasury companies invited alongside Orange (Brazil), MetaPlanet (Japan), and Capital B
+- New investor deck coming to website within weeks, featuring Jesse's "world famous slide" with a UK tint
+
+---
+
+**Jesse Myers:**
+(0:00:00) All right. Well, hello everyone. We are doing another Smarter Web livestream with Andrew Webley and Jesse Myers here. We've got a lot to talk about today as we are fresh back from the London Stock Exchange uplisting last week. So a lot to talk about there and all the events in London. And it's a new chapter for Smarter Web Company as we are now on the London Stock Exchange main market and all that brings. So we have a lot to talk about today.
+
+Andrew, how are you feeling? First of all, how are you feeling in the wake of what was quite a big week last week?
+
+**Andrew Webley:**
+Yeah, it was an incredible week. Brilliant milestone for the company and its shareholders. Very busy week because you and I did all those meetings afterwards in London. But yeah, it was good. It still doesn't feel real if I'm honest. But yeah, it was a great moment and I think most of the feedback that I've had from people, whether it's our colleagues or the shareholders or my brother and my best friend that were all there, everyone said that it was great. So yeah, great moment for the company.
+
+**Jesse Myers:**
+Yeah. So for those who don't know, we had a balcony full of Smarter Web employees and advisers and shareholders. There were 80 to 100 people there in full. And the LSE put on a little event in a side room for us. And it was all quite a blur from my perspective. I'm sure for you as well. But since so few people have been in that position, Andrew, that you were in, of pressing that button to go live with a stock on a stock market, I think people would love to hear your experience of that moment and the moments around it.
+
+**Andrew Webley:**
+Yes. So what happened was it was Tuesday morning at 8:00 when the UK market opens. But we went to London on Monday afternoon so that we were there. And we had a meal with the team and stuff which was great. And I was walking with Alex, who works in the web design business, and my son Josh as well. We were having a little walk around where we were staying and we thought we'd go and find out where the London Stock Exchange was.
+
+So we went up and they couldn't have been more welcoming. They let us in so we could have a quick look at where we'd be going on the Tuesday. And then we all went there on Tuesday morning pretty early. Shareholders were already there and it was already starting to get a bit of a buzz about it.
+
+And then the lady who was looking after us for the day at the LSE, she talked us through what happened. I had decided, and I said to Jesse the day before, that I wanted to press the button with him. We wanted to do it together. And so we sort of worked out when we needed to press the button. And then it's a bit of a blur really. You do that, there's confetti which they had ordered in for us - orange and black confetti. And it was really cool.
+
+And then afterwards we signed a book that they've been signing these books for hundreds of years and they keep them in the National Archives. So that was really great that lots of shareholders signed the book as well. I did a brief speech which was fine for the large part, but then I thanked my family and that was a bit emotional.
+
+And then yeah, we finished up and carried on with the meetings. It's one of those things where in weeks or months when we look back at it, we'll realize how special it was, but everyone seemed to enjoy it. And for the company, the most important thing is that we're on one of the best exchanges in the world. And I believe it will be a core part of us delivering the mission that I'm determined to deliver with you and the rest of the team.
+
+**Jesse Myers:**
+Absolutely agree. Yeah, it was definitely a blur. The lady joked with us right beforehand that you have to press the button otherwise the stock exchange won't start trading, which about 10 seconds before threw me for a loop even though it was clearly a joke.
+
+**Andrew Webley:**
+Yeah, I don't want to spoil the magic of the button, but I don't think the button was doing anything. I think it was more prop. But one thing that they did say to us was that often with a new issue you stand there afterwards once the market's open, you don't see any trades. Whereas with our stock, we saw trades go through. And it just shows the support that we've got from the shareholders, many of which couldn't have been there. Pretty cool really.
+
+**Jesse Myers:**
+Yeah, absolutely. The same lady was telling me afterwards that she can't remember there ever being this many people at one of these, which I think is a testament to the Smarter Web Company community and shareholder base.
+
+Ultimately this strategy only works if there are enough people in a particular market that are passionate about Bitcoin and want exposure to this kind of model - the treasury company model of trying to increase Bitcoin ownership over time by using capital market tools to increase Bitcoin per share. And most companies don't have that kind of passionate community or base. And I think that really stood out.
+
+And I think it kind of piqued the interest of the London Stock Exchange representatives that were there, as they were trying to wrap their heads around why was this thing so special. And that was a pretty cool little sign to London markets as we took over with orange confetti and all.
+
+**Andrew Webley:**
+Yeah. And all the branding that was on all the different screens, saying our different straplines and the graphics that we use and digital capital and Bitcoin and all these different things - it really felt like the London capital markets had welcomed us into them. Which was special.
+
+And the two things that I'd add to that is that when we did the meetings, the attitudes of people - without sounding conceited - the respect that investors seem to have for the company, with the fact that we said we would do something and we've done it, was pretty good.
+
+And then the other thing that I think is definitely worth highlighting is that it is a big achievement for the company to get over this milestone, but this is all about the future. This is about what opportunities can we capitalize on by having this listing on one of the best exchanges in the world, growing the liquidity, targeting index funds and so on and so forth. More global capital. And all of those things.
+
+I say it all the time that this is about looking forward, not looking back. And I think that is the attitude that we've got as a team at the moment. And that's why the next few months should be so exciting.
+
+**Jesse Myers:**
+Perfectly said. Let's get into the meetings and sort of what's changed now on LSE. But before that, I want to give you one final compliment - you came up with, you had the foresight to realize that this was an opportunity to put a statement up on our graphic that would be included in the photos for the uplisting. And you chose what I think was a perfect statement: "Bitcoin is Digital Capital" with The Smarter Web Company logo right next to it. And I think that is the perfect encapsulation of what we are trying to do, what we're bringing to the London Stock Exchange. And it packs it all into just a few words. So thank you for coming up with that. I think we'll look back on that statement in those photos as hopefully prescient.
+
+**Andrew Webley:**
+Yeah. Well, all the little bits of the company - people sometimes look externally and they think that's quite good or that was lucky or whatever. But all of those screens were done by design. We mocked them all up in advance. We knew exactly what the photos would look like. We knew what every word would look like, the different potential angles that would be taken. And we wanted to get the company and its messages and the branding across. And I think we achieved that.
+
+**Jesse Myers:**
+Absolutely. So yeah, what I think we should talk about next is first what is different now on the London Stock Exchange. For example, how the market structure is done and executed, and if any of the key metrics are starting to look a little different or how we think that'll play out. So what's different and then how did the meetings go last week and what was the tone - was it any different from previously when we were on Aquis.
+
+So yeah, if you want to walk everybody through, Andrew, the shift from market maker to SETS structure and how things are going now on the London Stock Exchange for the share.
+
+**Andrew Webley:**
+Yeah. So the SETS system is basically an order-driven system. What that means is that if you're a small company and you haven't got any liquidity, the market makers serve a very valid function in the sense that they'll buy shares from you or sell you shares. The point of the market maker is to provide the liquidity in a market.
+
+As a stock becomes more liquid, more traded, there's more buyers and sellers, I suppose the need for a market maker decreases. Which means that you can have an order-driven system, which is a true market. It's basically an electronic system that meets or matches buyers and sellers.
+
+Now you still have market makers in there because they'll be taking a view, working orders for clients and so forth. But they're just putting the buys and sells in just like anyone else. And what that means is in some ways you would potentially get a more volatile stock, which is a good thing. But it also means that in theory you should get tighter spreads because you're actually participating with other market participants.
+
+If you look at any of the biggest stocks in the world, that's how they all work. But that said, a market-maker-driven stock is necessary if you haven't got any liquidity. So an extreme example is there's nobody out there that wants to buy or sell. So the market maker will whack on a pretty hefty slice in order for then taking that stock for a period of time until they can buy or sell it.
+
+An order-driven system, which is what we're on now, SETS, is great. And if you look at the volumes since we went onto the LSE - not so much because of the way it's an order-driven system, but because of the accessibility, i.e. it's easier for more people to access it, more platforms, more international reach and so forth - in theory, all of that adds to the liquidity.
+
+And that's why we talk so much about liquidity, because liquidity is absolutely essential. From the company's perspective, it's really important. It allows certain things to be used like the ATM-style facility. It allows you to place stock because a lot of the investors will look at your ADV, your average daily volume, in terms of how much of a position they would take. So the more liquid, the more volume you've got, the more money that you can raise effectively. So yeah, it's a good thing for a company like us and into the future.
+
+**Jesse Myers:**
+Yeah, for folks who weren't aware, on the Aquis exchange, Smarter Web was almost 60% of all the volume during the time that Smarter Web was on that exchange. And that really speaks to there's not that much volume on that exchange, and so market makers were an important part of creating liquidity and allowing trades to happen.
+
+And as we scale, market makers should play less and less of a role. And we're already seeing that to an extent on the London Stock Exchange. At times spreads have been quite a bit tighter. Sometimes market makers are the primary players. Just kind of based on the moment. So we'll hopefully continue to see that shift over time as more and more people engage with the stock and hopefully bring more and more liquidity, which is of course a vital part of our strategy with the ATM-style facility.
+
+Yeah, so wanted to also touch on the shareholder event that we had, the drinks event. Get your reflections on that, Andrew, and then we can talk about meetings that we had in London, the sort of feedback we're getting there. And also want to touch on the stamp duty point as well.
+
+How did you feel about the drinks and the turnout there, and what kind of conversations did you have?
+
+**Andrew Webley:**
+So the shareholder drinks was probably my favourite bit of the whole week actually. Because we'd had a very busy day. Went back to the hotel for sort of 20 minutes. I think we did the same thing, which was quickly go to our rooms - rather than getting ready, fire up Twitter or X and just retweet a load of things. And then straight to it.
+
+But I really enjoyed it because everyone had open conversations. It was a bit more laid-back than the meetings that we were having during the day. And it was a great opportunity to say thank you to everyone. So we bought everyone a drink, I believe. It wasn't a mega bar bill, but we did leave the card behind the bar. We got some food - reasonable sliders and fries. Who doesn't like sliders and fries?
+
+And it was just nice to talk to people. And quite a lot of the team were there. It was nice to catch up with Tyler. He had come over from America, was going back the day after. One or two of our other investors from America were there, which was nice. And lots of people that I've either seen on X or in some cases engaged with on X were there, and you can put a face to the name. Everyone was introducing themselves as their Twitter handles, not their real names. Which was quite cool.
+
+And some of the shareholders I knew already because they had been to maybe the general meeting that we did, or they had emailed in or things like that. But it was really nice just to chat to people. And it was nice to see you, Sean, Tyler, etc., all there talking to people as well. Because everyone needs to realize that of course I set the business up and I play an important part in the business, but it's not just me. It's a whole team of people. And it's nice for me to see those people speaking to shareholders because it helps me then when we're having our private conversations and taking the input from everyone. So yeah, it was great. I really enjoyed it and it absolutely flew by. I think 3 hours, maybe a bit longer, something like that.
+
+**Jesse Myers:**
+Yeah, it was really special. In particular, I felt the contrast between talking to shareholders who are Bitcoiners and who understand Bitcoin treasury companies, and of course our meetings during the day, which are with generally institutional investors who don't understand Bitcoin or maybe don't understand Bitcoin treasury strategy.
+
+My big takeaway was just how far ahead retail is in understanding the value proposition here. And again, it's one of those things where you want to find yourself in a place like that, intellectually and as an investor. I think you want to find yourself in a place where you have asymmetric information or understanding, just because you've done your homework and dug in deep enough.
+
+So it's always very encouraging to be around Smarter Web shareholders. That was my first time around many of them. And it was great to have people introducing themselves based on their Twitter handles because frankly that's what's more relevant in this global community that's kind of shaped around our Twitter activity. And it was wonderful to put a face to all those names.
+
+But it was a real stunning moment for me of just reminding me of just how ahead retail is in understanding the value proposition here. And how passionate our shareholders are about that value proposition. People understand what we're trying to do here, which is Bitcoin is digital capital and we think it's the way to deliver a winning business in the 21st century, by building a balance sheet of digital capital and hoping and expecting that it will appreciate faster than anything else out there. And of course, eventually getting to novel fixed income products powered by Bitcoin. That's also part of the overall goal here.
+
+And yeah, it was very energizing to me to hear the passion of our investors at a time when we've just been through a six-to-eight-month downtrend. And for the most part, people are unshaken by that and excited about the future. And we are excited about the future. So it was a highlight of the week for me in London to get to meet all of our shareholders - just a small fraction of them really - and chat about the future and hear their excitement for what we're doing.
+
+**Andrew Webley:**
+If you think about it as well, there's so few opportunities in capital markets where retail investors understand something, get into something, in theory get all or most of the upside relative to institutional investors. The system normally isn't - it's flipped the other way round normally. So that's why we've all as retail investors got such an edge. We can put the effort in. We can understand these things. And then the institutions can come in further down the line. And that's quite unique and that's very Bitcoin as well. It's awesome.
+
+**Jesse Myers:**
+It is one of the defining novelties about Bitcoin - that the more you think you know about finance and money, the harder it is for you to see what Bitcoin is doing and its value proposition. And that means that there's a sort of reverse order of adoption where retail has an opportunity with Bitcoin to get to it first and has for the last 16 years.
+
+And institutions are by their nature committee-based decision apparatus where it takes a tipping point of a certain percentage of minds in that institution to understand the value proposition before it can be considered. So retail has always had an edge in Bitcoin. And I think that's true with Bitcoin treasury companies as well.
+
+So moving on to the meetings that we had in London and are having globally right now. Would love to get your thoughts on how those meetings have felt versus prior rounds of non-deal roadshows that we've done when we were on the Aquis exchange, last fall, last summer.
+
+**Andrew Webley:**
+Yeah. So if we think back to the early days, there was lots of interest but then there was lots of people that basically said they can't invest in us because they can only invest in an LSE stock. So what we hoped and what we believe we've been able to do by making this move is we've removed that from the equation. And I genuinely 100% believe that we have and it will give us the desired effect.
+
+So what everyone needs to understand is that for years from now - I don't know, two years, three years, maybe even longer - there's so much work that we've all got to do to explain what the qualities of a Bitcoin treasury company are and why it is the very best thing to hold ever.
+
+Now if I think back 9 or 10 months ago, those conversations are way easier. Way, way easier. And now we don't have that thing at the end, or to be fair even before we can get the meeting, which is "we can't invest in you, come back when you're on the LSE" type thing.
+
+So when I did our weekly update the other day and I referred to it as a structural moment in the company, that can't be understated. It's so important as part of where we're going. And that's not just for the UK capital either. It's as important, or maybe even more important, for the international capital.
+
+So I know that it's going to have the effect that we want because it's already having that effect. In pretty much all of those meetings, I'd imagine at least half of the meetings we wouldn't have been able to have without having the LSE listing.
+
+And I know from the emails - I did a spaces yesterday, and an hour before that spaces, we had a cold email from somebody that works for a very, very big company, that obviously we're not going to say the name. And they literally just emailed in asking to get in touch with us and to speak to us. And these sorts of things are so important because this is how we do our bit for educating the world on why digital capital is the perfect capital to build a business on. And why we believe that the companies that adopt digital capital will become the most valuable companies in the world.
+
+So yeah, I'm really pleased with it. We have had an increasing number of conversations with large American banks as well. There's one of them that we've been speaking to for quite a few months now that I'm very keen to work with. But there's another two or three of them that are now keen to work with us as well.
+
+So I think everyone gets it. In our new deck, which we hope will go on our website within the next couple of weeks, Jesse's done his world-famous slide with a UK tint on it. And the bottom line is the UK is the second most important capital market in the world and we are on the best exchange on that market. So we're in the top two capital markets in the world. You can make a case that it's the top three, but we'll go with the top two. And this is all just so important for what we need to do because the model relies on using the capital markets to grow the business. And we're in pole position for that now.
+
+**Jesse Myers:**
+Absolutely. Yeah, if I had to reflect on our meetings in London and how they felt different - we had probably 15 meetings over the course of three days there.
+
+**Andrew Webley:**
+Yeah, approximately.
+
+**Jesse Myers:**
+And I'd say that the overarching takeaway for me was that by and large the institutional investors were trying to understand, trying to figure out why Smarter Web was emerging as the healthiest Bitcoin treasury company in the UK. Because a lot of other Bitcoin treasury companies popped up starting in Q2 last year. And none have good volume at this point in time. And we have 4.3 times as much Bitcoin as the next closest competitor. And that puts us in a great position in the UK.
+
+And it felt like the institutional investors were trying to understand, all right, we still like this model, we want to be familiar with or invested in whoever's the leader in the UK. And it looks like that's Smarter Web. So there's a lot of education going on about why we're different and what about our approach to the model has been a differentiator.
+
+So I think that puts us in a great position going forward for turning some of those conversations into eventual investors. Because the UK is such an attractive capital market to be running this playbook in. And that's not going away as long as we remain in position. We continue to follow the sort of MetaPlanet playbook.
+
+**Andrew Webley:**
+No, I completely agree with that. Yeah, should we touch on the stamp duty point? Because we've got some news that's come out today. And this is another great example of why it's so important to have such an active community of investors alongside the internal team working together to further a company.
+
+So we had a belief that we would not have any stamp duty applied to buys of our stock. In the UK, for a London Stock Exchange stock, you pay half a percent stamp duty when you buy the shares. And in the budget towards the end of last year, the government refreshingly made a good decision that any new listing would not have stamp duty applied to it. Which, because Aquis isn't treated in the same way as the main market, meant that basically we were classed as a new listing.
+
+I believe that we're the first company to come to the market that is in that place. So the brokers weren't really ready for that system. There was a bit of confusion. But as I've understood it, what that means is that any people that have bought stock already and paid stamp duty, the brokers have refunded it or will refund it. And it looks like they've got a uniform policy on that as of yesterday or today, something like that.
+
+So it's quite important because it means that for 3 years you can buy Smarter Web shares without paying that additional tax. Just one of the many little things. And we've been working quite hard with our advisers behind the scenes just to sort of get the understanding. And as is very normal with anything new, sometimes things don't go perfectly smoothly. But we've got there. And I've seen from our community that HL, AJ Bell, the two biggest brokers in the UK, and I believe Interactive Investor have also got it right as well.
+
+**Jesse Myers:**
+Yeah. We don't really know how much that'll matter over the next three years, but I'm cautiously quite excited about that position that we now have in the market.
+
+For some context for folks, we did a little bit of research about how much volatility UK stocks have. Out of the FTSE 350, the highest vol stock at the point in time we took this measurement was 66 vol. And at that point in time, ours was about 120. It's about 100 right now. So we're about twice as volatile as the most volatile stock in the FTSE 350.
+
+And that is good from my point of view and I think from the point of view of many active managers running funds who are looking for vol, looking for performance. That's especially relevant if you're looking to trade, if you have an active strategy that involves trading. And that's where not having stamp duty is quite a nice addition. So not only are we the most volatile stock out there, but there's also no cost for going in and out of positions with our stock while there is with pretty much everything else on the London Stock Exchange.
+
+So that puts us in a unique position. And hopefully over the coming weeks, months, and years, active managers will learn about that benefit of trading in our stock and will hopefully start to incorporate it more into their active strategies. Which will just generate more volume, which of course then plays right into our ATM-style facility and would allow us to execute that with greater scale. So hopefully that is a tailwind, as many things are right now for Smarter Web Company. That is one additional tailwind that could bear significant fruit over time.
+
+**Andrew Webley:**
+Yeah, I completely agree. And it's probably a good moment to then go on to the index side of things because lots of people are interested in that. And I know that we're both incredibly excited about that. So why don't you explain the index side of things.
+
+**Jesse Myers:**
+Yeah, so now that we're on the London Stock Exchange, we are eligible to be included in indices, whereas we weren't on Aquis. Andrew is more familiar with how it works in the UK, but my understanding is there's the FTSE 100, there's the FTSE 250 underneath that, and then there's the FTSE Small Cap. And all of those together constitute the FTSE All Share.
+
+So we are now - we meet the criteria as of now for the FTSE Small Cap index. And that would also mean the All Share as well. We don't yet meet the criteria for FTSE 250, which would be two to two-and-a-half times from where we are in terms of market cap. But hopefully we get there in the not-too-distant future. Though everyone should be patient with that.
+
+But our understanding of the FTSE Small Cap index is that that is a snapshot that is taken in March based on the metrics for all the eligible stocks at that point in time. And then you're included or not included based on whether you meet the threshold for the set of criteria. And if it was taken today, we would meet those criteria. We will see where we're at at the moment of time that the snapshot is taken in March.
+
+But if we are included, our sort of back-of-the-envelope math about the scale of that is that it would amount to 13 million shares of buying power that would be coming into the stock, just based on index weighting and how much capital is tracking that index. And that would turn into an automated purchase of our shares to the tune of that scale shortly after the snapshot in March. That's my understanding of it. Andrew, let me know what I got wrong so I can be better next time.
+
+**Andrew Webley:**
+That was perfect, Jesse. The only thing that I would add, using my back-of-the-envelope maths, is that if you view the potential shares as a percentage of the shares available, you'd be looking at let's call it 3% of all the shares available. However, there are a lot of those shares that aren't available because UTXO own a percentage of the company. I own a percentage of the company. Lots of other people own shares that they're not selling.
+
+So if you put just my shares and UTXO shares onto that, you're looking at - if our maths is correct - the indexes need at least 5% of all of the available shares. And then that percentage in theory goes up. So I don't know what that will mean. I just, when I look at the volumes that go through every day and then I think in a very short space of time they need to find another 10, 13, 15 million shares - it's quite interesting to think what that could do.
+
+So I'm actually really looking forward to it because I believe the cutoff date is the earlier part of March when the FTSE announce who gets included in the indexes, and then it takes effect later, towards the end of March. So I'm really looking forward to seeing how that actually works. And what it means for the share price, what it means for our capital-raising strategies, and so on and so forth.
+
+**Jesse Myers:**
+And I would add too that this does seem to matter a fair bit to institutional investors. They're always looking for catalysts for why should we be excited about your stock, what's coming on the horizon. And this is one of those big things. It's quite objective, the impact that it will have. Hard to quantify, but there will objectively be an impact if we are included in the index in March.
+
+**Andrew Webley:**
+And don't forget as well that it's - the way that this year may go, there's so many different catalysts. And when you look at one or two of them, you can say, oh, well, that's good, but that's not mega. But if you put them all together, I can see it so clearly how we can get, all being well, onto the FTSE 250 in the not-too-distant future.
+
+And when I think about some of the things we're working on plus the index inclusion plus certain capital raises plus what I believe Bitcoin will do - you can see these catalysts stacking on top of each other every single month or quarter. Things happening that take us on that pathway. And that's the great thing about the model - providing you can get the capital-raising strategies right and execute efficiently, it all builds and compounds.
+
+So just like we're trying to build the Bitcoin ownership per share as one of our key metrics, the actual model is fueling itself. And then you overlay things like the scalable nature of the ATM-style facility as an example. And it all just fuels each other. And then you have to sort of bring yourself down a little bit because you get a bit excited about it.
+
+**Jesse Myers:**
+Yeah, it really is a game of numbers where everything compounds and tiny little advantages stack up in that compounding game. So yeah, the scale of the FTSE Small Cap is something like 13 million shares. And if or when we get to FTSE 250 inclusion, our sort of back-of-the-envelope math there is in pound terms, it would be 5 to 10 times the inflows from the FTSE Small Cap inclusion. So that would be an additional catalyst.
+
+And then of course every time the market cap increases and there's a quarterly rebalance, that would result in an additional inflow from those index trackers as well. So on the index front, there's a lot of reason to be excited about us now being on the London Stock Exchange as the leading Bitcoin balance sheet in the UK. And that puts us in a fantastic position to keep building on that lead and increasingly hopefully being viewed as an attractive way to get risk capital, equitized Bitcoin exposure, where we are trying to grow Bitcoin ownership and not track Bitcoin necessarily, but we're trying to grow Bitcoin ownership. That's a unique value proposition that hasn't existed truly on the London Stock Exchange and now does.
+
+**Andrew Webley:**
+Yeah. So I guess that's a good time to segue into what else is on the horizon for Smarter Web. There's a lot of events coming up. If you want to kind of talk through what you're looking forward to and when those things will be.
+
+Yeah. So the next event that we're going to is Strategy World, which is the last week in February. Very much looking forward to going to that. We've been invited to do a talk on Bitcoin treasury companies and the UK outlook for that. So Jesse and I have worked on a subset of our new investor deck for that purpose. So that should be great. It's not only going to be great to be there and to be presenting to such a big audience, but it's also a real compliment to be invited to go there and to get the support from them on assisting with some of our meetings and things.
+
+So yeah, I'm looking forward to that. I make no apologies, Jesse, for the diary being quite busy when we're out there. And it should be a great couple of days.
+
+**Jesse Myers:**
+Yes, agreed. And for just a little behind the scenes on how that looks or is structured - Strategy's done quite a cool thing where as part of the sign-up for that, you tick the boxes on who you'd like to meet. And all the entities are shown there, the banks and other service providers. And then there's a little section for Bitcoin treasury companies - and there are just four international Bitcoin treasury companies: Smarter Web, Orange in Brazil, MetaPlanet in Japan, and Capital B.
+
+And I think that's no mistake. I think that is a curated set that Saylor himself has chosen because he likes that capital market, he likes the management teams. And as he said in early January, Strategy doesn't intend to compete in those markets.
+
+So I think for those reasons we are on that list. And there's a lot of banks and service providers that we're excited to meet. So it's a cool way that they've structured their networking. All those banks would have gone through that same page and tried to figure out who they want to get to know while at Strategy World. And I think we probably stood out, since we are one of four possible clients in that list. So very much looking forward to that.
+
+What else do we have on the horizon here, Andrew?
+
+**Andrew Webley:**
+Yeah. So Peter McCormack reached out to me the other day and said, could I speak at his Cheat Code event? Which I said, yeah, no problem, that would be nice. That's the end of March, I believe. And then in the early part of May, I think it is - I'd have to check the dates actually - there's the first conference of its type in Madrid. Looking forward to that. And also Bitcoin Island, which I've not actually put out on my Twitter yet, but I will be soon. So that should be good.
+
+And then of course the thing that we're very excited about - we've been putting our own event together. So we wanted to do an event in the UK, a Bitcoin Treasury event, not a wider Bitcoin event, a Bitcoin Treasury event.
+
+And we decided towards the end of last year that we would do that. We were chatting with Tim and Ed who put on the event that Jesse and I went to in New York in September. And they said that they would like to do an event. And obviously then we both said, well, let's do it together.
+
+So we've got almost 30 announced speakers. Approximately eight announced sponsors. Some great names there. The people that we respect internationally and then lots of other people from the UK scene that we think can add to the content. The event is all about content at the end of the day. It's about having a really good day of content.
+
+So yeah, we've put that together and you can visit our website to buy tickets for it. We've tried to price them fairly because the event costs money to put on. And we're going to try and make it a very, very good day of content and the wider environment and so forth.
+
+**Jesse Myers:**
+Yeah, I'm looking forward to it as well. We have, as of yesterday, CEOs from Strategy - so that's Phong Le - Capital B, H100, and Strive. So that's a handful of the leading Bitcoin treasury companies in the world. And maybe we'll add others as well. We'll see.
+
+And so I think it's going to be a pretty stacked lineup of content. And yeah, we're excited about partnering with Tim and Ed to bring their very successful format that they did in New York City, the primary leading capital market in the world, to the UK, which is the number two capital hub in the world.
+
+And so I'm excited about having Smarter Web planting a flag saying, we're here, we're part of the Bitcoin fabric of the UK, and we're here for the long haul, and we're here to talk about Bitcoin treasuries globally. So I think it's going to be quite a cool day. Looking forward to being there.
+
+**Andrew Webley:**
+Yeah, I completely agree. There are a couple of other events that I haven't quite scheduled yet. And one of the learnings from last year was we've got to make sure that we go to the right events. Because the days are quite difficult to fit everything in. And when you add on travel to that as well, it really does take up a lot of your desk time.
+
+So we'll promise our shareholders that we'll do our best to manage the diaries so that we can get the most out of absolutely everything that's presented in front of us. The events are great to spread the word, to take part in the wider conversation. But our focus is how can we get X amount bigger than we are at the moment. And so we do need a lot of time at our desks, going to meet investors in person. Sometimes we tie the two things together, which works quite well. Like New York's a great place for that, as an example.
+
+So yeah, we'll try our best to make sure that the diaries are as optimized as they can be so that we can get the most value out of every single week that passes us by.
+
+**Jesse Myers:**
+Yeah, we also have just kind of an event on the horizon - soon our annual report will be out. So that'll be something for shareholders to digest if they'd like. And part of getting the machinery going of a public company. This year being the first year that we've done that and then every subsequent year will be slightly easier I guess to just keep that humming. Any comments on that?
+
+**Andrew Webley:**
+Yeah. So obviously we have to be quite careful about what we can say with the timings and all the rest of it of the annual report. But I'm so pleased with how it's looking. I can't wait to show it to the shareholders so they can see how far we've come in 10 months.
+
+The report - Albert, our CFO, has worked incredibly hard on it with support from Jesse, myself, and a couple of other people in the team. And it looks awesome. So I'm really looking forward to that coming out in the not-too-distant future. And then that takes us past that milestone and as you say we can build on it every year. But we wanted a report that was fitting for a company that we're trying to become. And so yeah, it hopefully will be well received by shareholders when it comes out.
+
+**Jesse Myers:**
+Yes, agreed. And then the final thing I had noted down in my notes which we somehow skipped right past, but it's worth talking about, is Smarter Web has been adding Bitcoin to its Bitcoin treasury here in 2026. We're 6 weeks into the year. We've had two buys. One was 10 Bitcoin in January and then - gosh, was that yesterday? Yesterday - we announced 15 Bitcoin.
+
+So that totals 25 so far in 2026. And these are not huge numbers. But I think from my perspective it's quite notable and frankly exciting that we've been able to add Bitcoin at all, given the climate for Bitcoin and Bitcoin treasury companies right now is quite tough. And liquidity for most Bitcoin treasury companies globally is very poor or non-existent. The fact that we've been able to accumulate this amount of Bitcoin is, I think, a sign of strength, a sign of health. And hopefully, depending on if Bitcoin trends in the positive direction, which we have not really seen in a number of months, potentially a sign of what's possible if enthusiasm for Bitcoin, or at least sentiment, shifts at all. Any thoughts there, Andrew?
+
+**Andrew Webley:**
+Yeah, so obviously the point of a Bitcoin treasury company is to buy Bitcoin. And you buy Bitcoin to increase the Bitcoin per share, arguably the most important metric.
+
+Now for balance, this quarter we've had some significant costs, the uplisting. So it's harder. We believe we're on track to deliver a positive Bitcoin yield. That's the objective every quarter - to deliver a positive Bitcoin yield. It's no more complicated than that. We do our very best to run the business properly so that we can deploy as much of our excess capital into Bitcoin because there's no point in holding anything other than Bitcoin over the long term.
+
+So yeah, I'm sort of pleased that we've started buying some. It would be nice if it was a bit more. I've got visions of the first wave of the company and the way that we scaled it up and up and up. And we're just deploying the capital that we've got. And if it turns out that it ends up being like that, then so be it.
+
+So yeah, it's good. You've got to start somewhere, I suppose. And it's meaningful amounts in a tough market. So yeah, it's amazing when you put a Bitcoin buy RNS out. Let's see what the rest of the coming weeks and months bring and then judge it from there.
+
+**Jesse Myers:**
+I suppose that's what everybody would hope to hear from the CEO of a Bitcoin treasury company. Rather unsatisfied with the amount of Bitcoin that we have been able to buy recently and wants to buy more, as you can clearly tell. So that's I think the right disposition to have.
+
+Yeah. So those are all the topics I had for us to cover. Andrew, any sort of final thoughts or other topics you wanted to make sure to touch on? Otherwise we can wrap it here.
+
+**Andrew Webley:**
+Yeah. Normally I say a different thing at this point, but I just wanted to say on behalf of our shareholders, to you Jesse, thank you for everything that you've done so far. When I saw everyone meeting you and talking to you, they all really appreciate everything that you've done. I know you're as pumped as I am about the months that lie ahead. And yeah, I just wanted to say thank you on behalf of the wider team and the shareholders for where you've helped us get to today. And now let's crack on with where we want to go to tomorrow.
+
+**Jesse Myers:**
+Well, thank you. That was unexpected. And yeah, meeting the shareholders, many of them said some very kind things. And from my point of view, it's slightly confusing because this is the most exciting thing happening in the world. Of course I want to be a part of this.
+
+And I think what we've clearly seen with Strategy in the US and MetaPlanet in Japan is this model works and can generate tremendous value. And if that continues into the future, the leading Bitcoin treasury company in every capital market in the world becomes one of, if not the most valuable company in that market. This is a seismic shift for capital and for public companies.
+
+And the opportunity to be a part of that as an employee and as a shareholder - and hopefully everyone who's a shareholder feels the same way - is quite thrilling. So nothing else I'd rather be doing.
+
+And Andrew, obviously everyone is delighted to be a part of the story you're bringing to UK capital markets. And it was quite cool to see the British pride was quite palpable at the drinks event in particular, as everyone is excited to have something in their SIP and ISA that they're excited about, and that feels like true innovation.
+
+Rather than a common theme that I heard a lot about in London, which was that UK equities are defensive by nature historically. Meaning defence stocks, but also pharmaceutical stocks - things that are very resilient and cash-flow-heavy and low growth. So to have something that's very different from that, innovative and bold, is something that has really resonated with shareholders and showed up in that drinks event. And it's all because of what you're pushing.
+
+So I think it's an honour to be a part of that. And hopefully you had a few moments on the train back to Bristol to really reflect on how important this has been for shareholders. And hopefully we continue to deliver what we aim to do and really bring a jolt to UK capital markets in general.
+
+**Andrew Webley:**
+100%. Let's do it.
+
+**Jesse Myers:**
+Awesome. All right. We'll leave it here everybody. We'll do another one of these sessions in a few weeks. Let me know any sort of feedback or questions that you have and we'll be sure to get to them next time.
+
+---
+
+**End of transcript**

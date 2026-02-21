@@ -1,0 +1,199 @@
+# Bitcoin isn't volatile, people are: Smarter Web Company CEO on LSE listing & treasury strategy
+**Date: 2026-02-06 (Friday)**
+**Video ID: 9uijSwbdJhw**
+**URL: https://www.youtube.com/watch?v=9uijSwbdJhw**
+**Channel: Unknown (Interviewer: Rich)**
+**Host: Rich (Interviewer)**
+**Guests: Andrew Webley (CEO, The Smarter Web Company), Jesse Myers (Head of Bitcoin Strategy, The Smarter Web Company)**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- The emotional rollercoaster: £20M to £1B to £150M market cap in 10 months
+- Key metrics: Bitcoin per share up ~50% and total stack doubled despite share price decline
+- Business model works in good, flat, or bad markets - different tools for different scenarios
+- LSE listing process locked certain strategic tools for months (November-December)
+- Strategy alone bought 4x more Bitcoin than was mined globally in January 2026
+- Why early Bitcoin holders are selling at $100K: locking in wealth from sub-$1 entries
+- The four-year cycle narrative: self-fulfilling prophecy based on halving schedule
+- Gold vs Bitcoin: Bitcoin remains "best performing asset in the world ever" despite one bad year
+- "Bitcoin isn't volatile, people are" - volatile days in Bitcoin skew positive (upside outliers)
+- SWC stock has 100-120 vol, most volatile stock in FTSE 250 is about half that
+- LSE listing unlocks: larger equity capital pools, potential preferred equity instruments, index inclusion
+- Building products on Bitcoin for different risk profiles (like Strategy's preferreds)
+- Debt strategy: prefer debt for stock buybacks over Bitcoin purchases
+- 0.7x mNAV is a "screaming buy" for company buybacks - authority secured for up to 10% of equity
+- Currently zero debt; intelligent use of single-digit cost-of-capital leverage when appropriate
+- ATM facility selling equity above 1 mNAV is accretive for scale even if not mega-accretive for BTC/share
+- Hash rate as key metric: hockey stick chart reinforcing Bitcoin's network strength
+- 2026 outlook: bearish sentiment tends to happen near bottoms; wouldn't be surprised if significantly higher by year-end
+
+---
+
+**Rich:**
+(0:00:00) Welcome everybody. I'm here with the management team of the London Stock Exchange's newest listed company, the Smarter Web Company. Gentlemen, thank you very much for joining me. First of all, Andrew Webley, CEO, Jesse Myers, Head of Bitcoin Strategy.
+
+Gents, it's been a very intense ride. Let's say that 10 months has seen you go from being worth £20 million market cap to a billion and then back to where we sit today at £150ish million. How has that emotional rollercoaster affected the way that you can act? And obviously the flywheel situation - it was just perfect at four times, three times, two times. But as you get down to one times mNAV, how does your strategy change?
+
+**Andrew Webley:**
+(0:01:06) Well, it depends how you think about things. There's a couple of different parts to that question.
+
+If we look at the peak of our share price, which was July 2025, since then, in a decreasing share price, we've increased our Bitcoin per share by approximately 50%. And we've approximately doubled our overall Bitcoin stack.
+
+So the two most important metrics are probably firstly Bitcoin per share and then secondly the overall Bitcoin stack, because that's what gives you size so in the future we can do other things. Bitcoin per share most important for shareholders, for the company then overall Bitcoin stack. So in a decreasing share price we've still made progress. Yes, the fiat share price is down considerably, but the Bitcoin per share is up considerably. So that's the first thing.
+
+And then the second thing is to think about what is the model. Clearly in a very high-sentiment market, there's things that you can do. But you need a business that can work in all scenarios. So our business works in a good market, a flat market, a bad market. There's different things that you can do in different scenarios. So you can still create a return.
+
+(0:03:03) There's other complications though, because up until very recently, we've been in the LSE listing process. So there's been certain things that we haven't been able to do which we would have potentially done otherwise. There's tools in our toolbox that were, let's say, locked. For example, in November and December, because we were in the final stages of then telling people about the prospectus, which at the time we couldn't even tell them that we couldn't tell them about, because of that.
+
+And then the other thing to overlay onto that is how you communicate with people. We can't control the Bitcoin price. We can't control our share price. We can control what we do as a business, what decisions we make. We can control the information that we tell our shareholders. And we can show up in the good times, the bad times, all the time.
+
+**Rich:**
+(0:03:54) You say you can't control the Bitcoin price. To what degree, Jesse, do you think that Strategy's purchases of Bitcoin, and all the other companies that were getting onto the train at the same time, was affecting the Bitcoin price? And now that support's gone because you're not at two times mNAV anymore - they're all trading around one. There's not the demand for Bitcoin that there was.
+
+**Jesse Myers:**
+You could view it that way. I think it's important for people to remember about Bitcoin that there's a fixed amount of Bitcoin. There will only ever be 21 million whole coins, divisible. And that's based on a mining schedule where the amount of new Bitcoin being mined every day gets cut in half every four years, and that's permanent.
+
+And so there's no amount of increase of price that can cause there to be more new supply created, which is true of gold or silver - as the price goes up then they will mine more because it becomes economic to do so.
+
+And if you look at the mining flows - how much Bitcoin has been mined in the first month of the year and how much Bitcoin did Strategy buy in the first month of this year - Strategy alone, one entity, bought four times more Bitcoin than was created in the first month of this year.
+
+So that's what I think about and focus on, because if that continues, and I think it will, then there's only one direction for the price of Bitcoin to eventually go. The reason the price has been going down despite that imbalance is because some holders are selling. Some long-term holders, especially people who bought in the early days or who are in high profits, have been selling. But there's a finite amount of that.
+
+**Rich:**
+(0:06:15) Why have they been selling? That completely goes against your vision that Bitcoin is going to a million, let's say, to pick a round number. Why are they selling at $100,000?
+
+**Jesse Myers:**
+Well, if you think about it, half of the supply was released in the first four years when the price of Bitcoin was, call it a dollar. And for those guys who got in very early, they're sitting on immense fortunes. In the last couple years, one of them went to space, one of them's building their own personal space station, and then who knows about all the other ones who are quite private.
+
+And I think the reality is they're selling to lock in their wealth and transfer out of this asset into other assets.
+
+(0:08:24) And then on top of that, there's a narrative of the four-year cycle. And that's been how Bitcoin has traded for its 16-year history because of the halvings. It seems to line up where there's a halving of new supply issuance and then over the next 18 months there's a bull market and then a bear market after that. And so that has become self-fulfilling because people expect that to happen again.
+
+**Rich:**
+But that's all it is, isn't it? Just because there's been three occurrences doesn't mean that a fourth time it's going to follow the same.
+
+**Jesse Myers:**
+Correct. And yet I think it's an important narrative that some of the early holders have lived and died by for so long and it has worked for so long. The timing of that would have been October of last year would have been the expected peak, and then it's been a little self-fulfilling where that has kind of been the local top.
+
+But the macro setup for Bitcoin is great. And I think the fact that 2025 was not a great year for Bitcoin sentiment overall - started with high expectations and ended with expectations of continued downside - that kind of pattern has played out historically for Bitcoin in its bear markets. Where if you have a bad or disappointing year, that tends to be followed by some very good years where maybe you start out with expectations of not much and a lot of fear at bottoms or local bottoms, and then the next few years tend to be very good. So we might find ourselves there now.
+
+**Rich:**
+(0:09:08) But previously you haven't had gold and even silver as a competitor, right, Andrew? It's been the crypto crowd who've wanted to buy Bitcoin. Now they've been let down by it in the past 12 months and suddenly, have they found a new thing to believe in?
+
+**Andrew Webley:**
+Well, I'm not sure whether it's necessarily the crypto crowd. And I think we need to give gold and silver a bit of a break. Yes, they've had a good year or so, but they haven't exactly performed for decades. If we look at Bitcoin for almost two decades, it's performed pretty well. Clearly the best performing asset in the world ever. So if there's one bad year every now and then, which was a negative 6% year, it's not that bad.
+
+**Rich:**
+It's turning into a pretty bad January, February though.
+
+**Andrew Webley:**
+(0:10:08) Yeah. But it's all about timescales. And that's why I say to people that I've got no idea what Bitcoin is going to do this afternoon, tomorrow - up, down, or unchanged. It's obviously going to do one of those things, but which one, I don't know.
+
+I have a 100% conviction that over a medium-to-long-term time period, Bitcoin is going to go up and then it's going to keep going up and then go up some more. So of course that might be wrong, but over a reasonable time period - I remember when I first started working in financial services, I think they said that every investment should be bought for six years. And a lot of the time people think that you can invest for three months. That's a trade.
+
+So I think Bitcoin is doing absolutely fine. And you need the volatility.
+
+**Rich:**
+It's not doing fine though, is it? Because price movements create demand. And you must be absolutely dying to get your hands on funds to buy the cheap Bitcoin.
+
+**Andrew Webley:**
+Well, you've identified the thing that not everyone realizes with the model. A lot of people think that a low Bitcoin price is good for a Bitcoin treasury company when really a flat or a slightly increasing Bitcoin price is probably better. The reason why a terrible Bitcoin price is not good for a Bitcoin treasury company is because it's also about the availability of capital and the confidence.
+
+So that's why you need an asset that is becoming more and more popular. I personally think that right now where we're sitting is the ideal time because from a company point of view, we've got the London Stock Exchange listing and a lot of other shorter-term catalysts I believe. And then from an external point of view, we've potentially got a Bitcoin price that I believe is over the worst of it. Which will then bring stuff back in and then how high do we go? We'll have to wait and see.
+
+**Rich:**
+(0:13:28) Your mNAV hit 0.7 at one point over the Christmas and New Year time. Jesse, did you start to think the model was broken?
+
+**Jesse Myers:**
+No. I think it's very important for everyone to understand about the Bitcoin treasury model that "volatility is vitality" is a popular phrase in the space. It's very true.
+
+In traditional markets, volatility is viewed as a bad thing because volatile days tend to be downside days with bonds and equities. But with Bitcoin, it's the opposite. With Bitcoin, the volatile days, the real outliers, are the really good days. The histogram of daily returns skews positive. So that's good volatility. You want that volatility.
+
+And a Bitcoin treasury company takes that volatility and manages to amplify it. Our stock has 100 to 120 vol. The most volatile stock in the FTSE 250 is about half of that. So we are a volatile stock for UK markets, but it's good vol also. It's the kind of vol that Bitcoin brings to portfolios, but cranked up. Because that's how it trades.
+
+That comes with the territory. You can't have 100x growth without significant volatility to the downside. And all you can do at that point is remind yourself of your conviction and remember that this is about accumulating Bitcoin, increasing Bitcoin per share for the long haul because of where you think Bitcoin's going 10 years from now, not where it's going 3 months from now.
+
+And in light of that, Bitcoin sentiment has always ebbed and flowed. People get really excited about it when it's going up and then they lose that conviction when it's going down. But it's still the same asset. Bitcoin isn't volatile. It's people who are volatile in reaction to Bitcoin.
+
+**Rich:**
+(0:14:03) I like that explanation. That volatility also gives opportunity though, doesn't it, to new forms of capital? For example, the converts. What opportunities now open up that the listing gives you?
+
+**Andrew Webley:**
+Well, in the short term, there's a tremendous amount of things that we can do because the amount of equity capital that is potentially available to a company that's listed on the London Stock Exchange is pretty impressive, when you also factor in things like our ATM-style facility and the indexes and things like that.
+
+But if we're thinking further afield, then there's lots of other things that we may or may not do in the future. What we need to do at the moment is focus on executing to get the size that we need to get into the company.
+
+It may be in the future that we explore things like what Strategy's done with preferreds. MetaPlanet in Japan has done them. Strive also in the States has done them. They're the three companies that have done them so far.
+
+The really exciting thing about those products is that you can access capital that wouldn't necessarily be exposed to a very volatile investment. The reason why we believe that not everyone in the world will own Bitcoin is because for the next 5, 10, 15 years, you will have that volatility there. And some people don't want that.
+
+So what Saylor has been able to do in the States is say, I will build this product that will pay you 10, 11, whatever percent a year. And in return for doing that, I will take the volatility and I will keep whatever I'm left with above that rate that I've guaranteed to pay you forever.
+
+So there's a whole host of things that you can do that are built on Bitcoin that are suitable for other people. We often compare it to the internet. When I started working with the internet, it was obviously something that some people didn't think had a future. I think we all understand that it's here to stay. And Bitcoin's like that. We're building our company on the Bitcoin network. We're building our balance sheet on Bitcoin because it's the very best digital capital that there is, and then we can do things with that capital.
+
+**Rich:**
+(0:16:25) Talking about balance sheet, is there a price that Bitcoin drops to that it makes much more sense to take on more debt? Because $76,000 Bitcoin, you can probably get debt for 8% or less than that. At what stage - because there's a bigger responsibility on the London Stock Exchange now - you've got your long-term strategy which is Bitcoin and you've got your responsibility to your shareholders, which is below a one times mNAV, buy back stock. But both of those are determined on getting funds which means you need capital. Is taking out debt a potential route?
+
+**Jesse Myers:**
+I think we view it as intelligent use of debt can be a good thing. And you have to pick the right time and the right terms for that debt. That's one of the advantages of a public company. Most Bitcoin holders would love to take out a personal loan and buy Bitcoin with single-digit cost of capital. And you can't get that as an individual, but as a public company with a solid balance sheet, you can.
+
+And it's about finding the right times to use that and then delevering at times also, so that you can make the most of that lever without getting stuck with whatever debt you've taken on and never delevering.
+
+We're constantly evaluating the right strategies for that and the right timing for that. And now being on the main market, that makes it even better for us to explore those opportunities and ways to prudently put to work a small amount of leverage.
+
+At the moment we have zero debt. And you can argue about what's the right amount of leverage. Maybe it's zero. Maybe it's 10%. Maybe some people believe higher would be better.
+
+And that's also part of what Michael Saylor has innovated with Strategy in the US - shifting to these preferred equity instruments that allow for a higher leverage ratio because the debt covenants aren't there. So it's a lower risk form of debt for the company. And there's a lot we can do now and into the future with those levers.
+
+**Andrew Webley:**
+It's also worth remembering that if you look at our ATM-style facility, as long as we're selling equity above 1 mNAV, that can be accretive as well. Because yes, it's not mega accretive in terms of increasing the Bitcoin per share, but it is accretive in terms of getting that scale. When you get that scale, you've got other types of debt, for example the preferreds, available to you.
+
+So the only thing that we can almost guarantee to our shareholders is that we'll aim to make the right decisions at the right time.
+
+(0:19:34) But I think just on the case of the buyback - there was clearly a large seller in the market over the end of December and January. And they had to come out and disclose that they were selling the stock.
+
+**Rich:**
+Now, in that case, would it not have been more prudent at a 0.75 times mNAV for you to just go and bid the seller and buy back the stock and cancel it?
+
+**Andrew Webley:**
+In simple terms, yes. But because we were going through the LSE listing process, we couldn't do that.
+
+**Jesse Myers:**
+Same thing happened again.
+
+**Andrew Webley:**
+Yeah. So I would say, with my current way of thinking, a 0.7 mNAV - that's a screaming buy for the company to buy the stock back.
+
+And I'm not actually much of a fan of using debt to buy Bitcoin. I'm more of a fan of using debt to buy your stock back. This is debt that we can get at the moment, as opposed to preferred debt which is very different because that is about using debt to buy Bitcoin, potentially.
+
+So yeah, anyone that follows our announcements will see that in advance we actually got the authority. So should that happen right now, we would have that option because we've got the authority from our shareholders to buy up to 10% of our equity back.
+
+Now, sometimes people say to me, if you're trading at like a 0.98 mNAV, are you going to buy your shares back? Well, you wouldn't bother. The market should be pricing you. But if it's an extreme scenario like 0.7, then I would certainly speak to Jesse and see if Jesse supported it and then we would convene the board and probably get cracking.
+
+**Rich:**
+(0:21:33) Good stuff, gentlemen. Thank you so much for joining me today. It's been great to get an update, especially at such an important time in the company's history. And if I was going to give you a very last question - where is the Bitcoin price going to be at the end of 2026?
+
+**Jesse Myers:**
+Yeah, I'll give you an unsatisfying answer. I think we don't know what Bitcoin's going to do on a short-term horizon, but the longer you look out, the more its properties will win out and the price, I believe, will go up.
+
+So if people are expecting anything in particular, Bitcoin tends to do the opposite. I feel like sentiment at the moment is rather bearish. And that tends to happen at or near a bottom. So I wouldn't be surprised if the price of Bitcoin is significantly higher at the end of this year.
+
+**Rich:**
+(0:22:17) And you're talking about fund flows. So how much is being mined versus how much is being bought? Is there any other metric that people should look at, such as the cost of electricity, that kind of thing?
+
+**Jesse Myers:**
+Well, sure. The hash rate is important in Bitcoin. That's the amount of computational power supporting the network. And that is a hockey stick chart, up and to the right, and will continue to be so. And I think the longer that goes on, the stronger Bitcoin becomes. And it reinforces the central thesis that Bitcoin is a neutral reserve asset that nobody controls for the digital age, and it is a digital perfection on the properties that make gold attractive.
+
+And we think that is here to stay. We think it's the best asset of the 21st century and we're going to keep building a balance sheet built on Bitcoin in the way that Strategy has in the US and the way that MetaPlanet has in Japan, and we're going to do that in the UK.
+
+**Rich:**
+And exciting it is to watch. Thank you very much, gents. We'll see you soon.
+
+**Andrew Webley:**
+Thank you.
+
+---
+
+**End of transcript**
