@@ -97,11 +97,11 @@ Contains knowledge management files for organizing and navigating the dataset.
 ### **`/Legacy media/`**
 Contains historical media coverage and appearances related to SWC.
 
-#### **`/Legacy media/News articles/`** (9 files)
+#### **`/Legacy media/News articles/`** (12 files)
 - **Type:** Text files (.txt)
 - **Content:** News articles from various publications covering SWC's IPO, Bitcoin strategy, and growth
-- **Sources:** Blockspace Media, Daily Mail Online, and other financial news outlets
-- **Date Range:** March 2025 - September 2025
+- **Sources:** Blockspace Media, Daily Mail Online, This is Money, Bloomberg, London Stock Exchange, and other financial news outlets
+- **Date Range:** March 2025 - February 2026
 - **Topics:** IPO announcement, Bitcoin treasury strategy, share price performance, comparisons to MicroStrategy, FTSE 100 aspirations
 
 #### **`/Legacy media/Tv appearances/`** (1 file)
@@ -112,10 +112,10 @@ Contains historical media coverage and appearances related to SWC.
 
 ---
 
-### **`/RNS/`** (106 files)
-- **Type:** TXT documents
+### **`/RNS/`** (113 files)
+- **Type:** Text documents
 - **Content:** Regulatory News Service (RNS) announcements - official company filings and disclosures required by UK stock exchange regulations
-- **Date Range:** April 2025 - January 2026
+- **Date Range:** April 2025 - February 2026
 - **Key Document Types:**
   - IPO and admission documents
   - Bitcoin purchase announcements
@@ -136,10 +136,12 @@ Contains company-specific documents, presentations, and corporate information.
 
 **Files:**
 - **`16-01-2026-swc-prospectus.txt`** - FCA-approved prospectus for LSE Main Market uplisting, risk factors, official disclosures
+- **`2026-02-20-SWC-Annual-Report.txt`** - Full year annual report, FY2025 financial statements, yearly accounts
 - **`AdmissionDocument.txt`** - Original AQUIS/AQSE IPO admission document, reverse takeover details, shell company history
-- **`smarterweb-investor-presentation.txt`** - Official investor presentation deck, investment thesis
+- **`smarterweb-investor-presentation Digital. Capital. Designed. February 2026.txt`** - Latest investor presentation deck (February 2026), current investment thesis
+- **`smarterweb-investor-presentation.txt`** - Original investor presentation deck, investment thesis
 - **`2025-07-16-P-BYD-Ratio.txt`** - Jesse Myers research on P/BYD (Price-to-Bitcoin-Yield-Dilution) valuation methodology
-- **`2025-07-25-interim-results.txt`** - H1 2025 interim financial statements, CEO statement, balance sheet
+- **`2025-07-25-Half year financial report.txt`** - H1 2025 interim financial statements, CEO statement, balance sheet
 - **`Corporate governance...txt`** - QCA Code compliance, 10 governance principles
 - **`Directors & advisers...txt`** - Board of directors bios (Andrew Webley, Albert Soleiman, Sean Wade, Randal Casson, Martin Thomas, Tyler Evans), advisers list
 - **`Equity snapshot...txt`** - Shares outstanding, warrants, major shareholders (210k Capital, Webley family), Smarter Convert
@@ -148,11 +150,11 @@ Contains company-specific documents, presentations, and corporate information.
 ---
 
 ### **`/Tennyson/`** (20 files)
-- **Type:** TXT documents
+- **Type:** PDF documents
 - **Content:** Research reports and deal letters from Tennyson Securities (corporate adviser/broker)
 - **File Naming Convention:**
-  - `DL_SWC_*.txt` - Deal Letters (dates in DDMMYY format)
-  - `RES_SWC_*.txt` - Research Reports (dates in DDMMYY format)
+  - `DL_SWC_*.pdf` - Deal Letters (dates in DDMMYY format)
+  - `RES_SWC_*.pdf` - Research Reports (dates in DDMMYY format)
 - **Date Range:** May 2025 - October 2025
 - **Purpose:** Broker research, deal documentation, and investment analysis
 
@@ -161,39 +163,39 @@ Contains company-specific documents, presentations, and corporate information.
 ### **`/Tweets/`**
 Contains structured social media data extracted from X.com (Twitter) accounts related to SWC.
 
-#### **`/Tweets/asjwebley/`** (19 files: 18 JSON + 1 README)
+#### **`/Tweets/asjwebley/`** (20 files: 19 JSON + 1 README)
 - **Account:** @asjwebley (Andrew Webley, CEO of SWC)
 - **Content:** Monthly JSON files containing structured post data
-- **Date Range:** June 2024 - January 2026
+- **Date Range:** June 2024 - February 2026
 - **File Format:** `posts-YYYY-MM.json`
 - **Data Includes:** Post type (original/reply/quote/repost), text content, engagement metrics (likes, reposts, comments), timestamps, media attachments, permalinks
-- **Statistics:** 865 meaningful posts from 1,330 total timeline items
+- **Statistics:** 894 meaningful posts from 1,330+ total timeline items
 - **README.md:** Contains extraction metadata, statistics, JSON schema documentation, and usage examples
 
-#### **`/Tweets/Croesus_BTC/`** (13 files: 12 JSON + 1 README)
+#### **`/Tweets/Croesus_BTC/`** (14 files: 13 JSON + 1 README)
 - **Account:** @Croesus_BTC
 - **Content:** Monthly JSON files with structured post data
-- **Date Range:** February 2025 - January 2026
+- **Date Range:** February 2025 - February 2026
 - **File Format:** `posts-YYYY-MM.json`
-- **Statistics:** 295 meaningful posts
+- **Statistics:** 430 meaningful posts
 - **Purpose:** Bitcoin treasury company analysis and commentary account
 
-#### **`/Tweets/smarterwebuk/`** (12 files: 11 JSON + 1 README)
+#### **`/Tweets/smarterwebuk/`** (13 files: 12 JSON + 1 README)
 - **Account:** @smarterwebuk (Official SWC company account)
 - **Content:** Monthly JSON files with structured post data
-- **Date Range:** March 2025 - January 2026
+- **Date Range:** March 2025 - February 2026
 - **File Format:** `posts-YYYY-MM.json`
-- **Statistics:** 136 meaningful posts
+- **Statistics:** 148 meaningful posts
 - **Purpose:** Official company announcements and updates
 
 ---
 
-### **`/Youtube/`** (90 files)
+### **`/Youtube/`** (96 files)
 - **Type:** Text files (.txt)
 - **Content:** Transcripts and summaries of YouTube videos featuring SWC, Andrew Webley, or related Bitcoin treasury content
-- **Date Range:** April 2025 - January 2026
+- **Date Range:** April 2025 - February 2026
 - **Video Types:**
-  - "A Week In The World Of SWC" weekly series (Episodes #3-21)
+  - "A Week In The World Of SWC" weekly series (Episodes #3-22)
   - "Smarter Webley Wednesdays" regular segments on Bitcoin Treasuries World
   - Interviews with Andrew Webley on various channels
   - Bitcoin treasury analysis videos
@@ -214,7 +216,7 @@ Contains structured social media data extracted from X.com (Twitter) accounts re
 
 ### Timeline Coverage
 - **IPO Date:** April 25, 2025
-- **Data Collection:** Comprehensive coverage from pre-IPO (March 2025) through January 2026
+- **Data Collection:** Comprehensive coverage from pre-IPO (March 2025) through February 2026
 - **Update Frequency:**
   - RNS: Real-time regulatory filings
   - YouTube: Regular weekly/bi-weekly content
@@ -235,16 +237,16 @@ Contains structured social media data extracted from X.com (Twitter) accounts re
 |-----------|------------|------------|
 | Root | 3 | MD |
 | knowledge | 10 | MD, CSV |
-| Legacy media/News articles | 9 | TXT |
+| Legacy media/News articles | 12 | TXT |
 | Legacy media/Tv appearances | 1 | TXT |
-| RNS | 106 | TXT |
-| Smarter Web | 9 | TXT |
-| Tennyson | 20 | TXT |
-| Tweets/asjwebley | 19 | JSON, MD |
-| Tweets/Croesus_BTC | 13 | JSON, MD |
-| Tweets/smarterwebuk | 12 | JSON, MD |
-| Youtube | 90 | TXT |
-| **TOTAL** | **~294 files** | |
+| RNS | 113 | TXT |
+| Smarter Web | 11 | TXT |
+| Tennyson | 20 | PDF |
+| Tweets/asjwebley | 20 | JSON, MD |
+| Tweets/Croesus_BTC | 14 | JSON, MD |
+| Tweets/smarterwebuk | 13 | JSON, MD |
+| Youtube | 96 | TXT |
+| **TOTAL** | **~313 files** | |
 
 ---
 
@@ -271,5 +273,5 @@ Contains structured social media data extracted from X.com (Twitter) accounts re
 
 ---
 
-*Last Updated: January 2026*
+*Last Updated: February 2026*
 *Project Focus: The Smarter Web Company (SWC) - UK Bitcoin Treasury Company Analysis*
