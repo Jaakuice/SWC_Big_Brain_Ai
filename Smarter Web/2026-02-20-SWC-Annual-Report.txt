@@ -1,0 +1,8117 @@
+Annual Report
+For the year ended 31 October 2025
+
+Digital.
+Capital.
+Designed.
+
+At a glance
+Our Story
+Chair’s statement
+Chief Executive’s Statement
+Financial review
+Key Highlights
+Strategy and Objectives
+Acquisition Strategy
+Principal risks and uncertainties
+Section 172 Statement
+
+
+Board of Directors
+The role of the Board
+Chairman’s governance overview
+Audit & Risk Committee report
+Nomination Committee report
+Remuneration Committee report
+Directors’ report
+
+
+Independent auditor’s report
+Consolidated statement of total comprehensive income
+Consolidated statement of financial position
+Consolidated statement of changes in equity
+Consolidated statement of cash flow
+Notes to the consolidated financial statements
+Notes to the parent company financial statements
+Directors, Company Secretary, Registered Office and Advisers
+
+
+Strategic report
+
+
+At a glance
+
+Building better
+websites. Powered
+by digital capital.
+Founded in 2009, The Smarter Web Company PLC is a UK-based web design
+& online marketing business powered by digital capital. We create beautiful
+websites that help brands grow and we manage a Bitcoin treasury that builds
+long-term value. Through its operating subsidiary, Smarter Web Operations,
+the Company delivers bespoke, mobile-friendly websites and a focused range
+of digital services to small and medium-sized businesses, start-ups, and ownermanaged firms. The business has built a loyal, diversified client base by offering
+high-quality digital solutions without the cost structure of large agencies.
+Since 2022, The Smarter Web Company has extended this digital-first
+philosophy to its balance sheet by accepting Bitcoin as payment and in 2025 we
+adopted a formal Bitcoin Treasury Policy, the majority of treasury assets are held
+in Bitcoin, reflecting the Board’s belief in its long-term value as a scarce, resilient
+asset aligned with the future of digital services and capital management.
+As of 31 October 2025, the Company has accumulated 2,660 Bitcoin, making
+it the largest corporate Bitcoin treasury in the UK by a large margin, and one of
+the largest globally.
+
+SWC treasury 430% the size of #2
+2660 BTC*
+
+There could be a Strategy in every region…
+because it’s hard for us as a US public
+company to access those [capital markets].
+Phong Le
+CEO, Strategy Inc (NSDQ: MSTR)
+
+Smarter Web Co.
+
+620 BTC
+
+182 BTC
+
+155 BTC
+
+#2 Pubco
+
+#3 Pubco
+
+#4 Pubco
+
+* as at 31 October 2025.
+
+
+Our Story
+
+2009
+Founded as a web design
+& online marketing
+business
+In the same year that Bitcoin’s
+creator, Satoshi Nakamoto,
+mined the first block of the
+Bitcoin blockchain, known as
+the Genesis Block.
+
+2017
+Our founder, Andrew
+Webley, first discovered
+Bitcoin
+Viewing it initially as a
+volatile emerging asset and
+with the potential of a medium
+of exchange.
+
+
+2010
+
+2015
+
+The Apple iPad was first
+launched
+
+Responsive web design
+becomes standard
+
+The launch of the iPad in
+2010 marked a turning point
+in digital design, pushing
+websites to adapt seamlessly
+to both touch and smaller
+screen sizes. Within just a
+few years, responsive layouts
+became the new normal
+across the web design
+industry, reshaping how users
+expected to browse and
+interact online.
+
+In 2015, the CMS was
+relaunched, giving SWC
+the capability to deliver fully
+responsive web design.
+This update positioned
+the platform in line with
+modern standards, at a time
+when responsive websites
+were rapidly becoming the
+industry default.
+
+2019
+
+2020
+
+Proving a model long
+before everyone else
+
+MicroStrategy pivoted
+to Bitcoin
+
+In 2019, as Covid emerged
+and businesses across the
+world rapidly shifted to remote
+working, many were forced
+to adapt to a new way of
+operating. SWC, however,
+was already a decade ahead
+– having worked remotely
+with clients for ten years and
+proving the model long before
+it became mainstream.
+
+A defining moment that
+inspired Andrew’s vision.
+Watching Michael Saylor
+successfully merge a publicly
+listed company with Bitcoin as
+a treasury asset revealed what
+was possible when corporate
+finance met digital capital.
+This was Andrew’s “Bitcoin
+moment,” sparking the
+strategic thinking that would
+later shape The Smarter Web
+Company PLC’s own Bitcoin
+treasury approach.
+
+Strategic report
+
+2022
+Our founder began
+searching for a UK-listed
+company with a Bitcoin
+treasury strategy
+One that placed shareholders
+at the centre while actively
+using capital market tools
+to grow Bitcoin per share as
+it progressed an operating
+business strategy. In 2022,
+The Smarter Web Company
+also began accepting payment
+for its services in Bitcoin.
+
+2024
+A decision was made
+After several years of
+searching for a UK company
+with a true Bitcoin treasury
+strategy, Andrew realised the
+only way forward was to take
+his own business public.
+
+
+2025
+The Smarter Web
+Company PLC listed on
+the Aquis Exchange
+Within two months, grew from
+a 2.5p listing price to exceed a
+£1 billion market capitalisation
+(as at 21 June 2025) – making
+it one of the most successful
+IPOs in UK history. In its
+first six months as a public
+company, SWC raised over
+£225 million, establishing a
+strong foundation based on
+digital capital.
+
+2026
+Admission To The London Stock
+Exchange’s Main Market
+On 03 February 2026 The Smarter Web
+Company PLC began trading on the London
+Stock Exchange’s Main Market for listed
+securities, one of the world’s most historic and
+important stock exchanges.
+
+
+Chair’s statement
+Sean Wade
+Non-Executive
+Chairman
+
+2025 has been
+a landmark year
+for The Smarter
+Web Company
+Dear Shareholders,
+
+Financial results
+
+I am delighted to present the inaugural Full Year
+Results for The Smarter Web Company PLC for
+the financial year ended 31 October 2025; and
+to report on the successful implementation,
+during the year, of the Group’s strategy and the
+progress of our 10 year plan.
+
+The focus of the Board during the financial year has been on
+the sustainable growth of the Company’s balance sheet through
+expansion of the Bitcoin treasury to build a balance sheet
+founded on what the Board believe to the be the best digital
+capital. The Board believe this will give the Company a solid
+foundation for the business to deliver on its 10 year plan.
+
+Overview
+2025 was a foundational year for the Group, starting with
+our listing in April 2025 on the AQSE Growth Market, the
+exponential growth of our balance sheet under our Bitcoin
+Treasury Policy and our 10 year plan, to the build up of our
+Board with recruitment of experienced and diverse talent. All of
+which laid the foundation for our listing on the Main Market of
+the London Stock Exchange on 3 February 2026 giving access
+to one of the premier global capital markets and growing our
+shareholder base.
+On behalf of the entire Board of Directors I would like to extend
+my gratitude to our dedicated team for the achievements during
+this financial year and beyond and to our Shareholders for their
+continued support.
+
+
+The Group achieved a profit before tax of £2,835,848 for the
+year, however if one off gains and fair value adjustment credit of
+£4,308,224 were excluded, the result would have been a loss
+before tax of £1,472,376. During the year the Company raised
+in excess of £209 million in capital and a further £16 million
+through convertible loans and acquired 2,660 Bitcoin in
+treasury, both a significant achievement from a standing start.
+
+Strategic report
+
+
+Chair’s statement continued
+
+Corporate Strategy and Operating
+Business
+The Group’s operating business delivers quality and affordable
+web design services to small and medium-sized enterprises
+across the UK. Performance during the year was in line with the
+Board’s expectations, and the Board remains confident in the
+long-term potential of the business.
+A key component of the Group’s strategy is to grow the web
+design business through selective and disciplined acquisitions.
+The Board believes acquisition-led growth will strengthen the
+Group’s capabilities, enhance scale, and support progress
+towards sustainable profitability. All opportunities will be
+assessed against clear Board-set criteria to ensure alignment
+with long-term shareholder interests.
+
+Dividend Policy
+The Company does not intend to pay dividends in the
+foreseeable future. Surplus capital is expected to be reinvested
+into the operating business, deployed in pursuit of value
+accretive acquisitions, or retained in accordance with the
+Group’s Bitcoin treasury policy. The Board will continue to
+review the dividend policy periodically, balancing reinvestment
+requirements with long-term shareholder value creation.
+
+Outlook
+
+Bitcoin Treasury Strategy
+
+2025 has been a landmark year for The Smarter Web Company,
+and the Board is confident the Group is well positioned to build
+on this progress as Andrew and the executive team continue
+to execute the 10 year plan. With a stable operating platform, a
+clear acquisition framework, and a differentiated balance sheet,
+the Company enters the year ahead with confidence.
+
+Alongside its organic growth and acquisition strategy, the
+Group has continued to build its balance sheet by allocating a
+significant portion of its corporate treasury to Bitcoin. During
+the financial year we accumulated 2,660 Bitcoin via various
+activities in capital markets.
+
+It only remains for me to thank Andrew and the executive
+team for their leadership and commitment, all employees for
+their contribution during this important year, and our advisers
+and shareholders for their continued support as the Company
+continues to execute its 10 year plan.
+
+The Board believes Bitcoin represents a compelling long-term
+store of value, an increasingly relevant form of digital capital, and
+a hedge against fiat currency inflation, with the Bitcoin Treasury
+Policy supporting investment and growth across the Group.
+
+Corporate Governance
+The Board is responsible for leading and controlling the Group
+and has overall authority for the management and conduct
+of the Group’s business, its strategy and development. It is
+committed to the highest standards of corporate governance for
+a Main Market-listed company.
+
+Sean Wade
+Non-Executive Chairman
+19 February 2026
+
+The Company will report to its Shareholders, on an ongoing
+basis, on its compliance with the UK Corporate Governance
+Code in accordance with the UK Listing Rules.
+As envisaged by the UK Corporate Governance Code, the
+Board has established three committees: an Audit and Risk
+Committee, a Remuneration Committee and a Nomination
+Committee. The Board has also established a Disclosure
+Committee. If the need should arise, the Board may establish
+additional committees as appropriate.
+
+
+Chief Executive’s
+Statement
+Andrew Webley
+CEO
+
+#1
+
+#1*
+
+LSE
+
+#3
+
+Bitcoin treasury
+company in the
+UK
+
+admitted to the
+Main Market
+
+I am pleased to present my report for the year
+ended 31 October 2025, a year that marked an
+important period of progress for the Company
+alongside our start to life as a publicly traded
+company.
+
+Operating Business and Strategy
+
+performing UK
+listed equity in
+2025
+
+Bitcoin treasury
+community globally
+
+Bitcoin Treasury Strategy
+Alongside our operating strategy, the Group’s Bitcoin balance
+sheet has never been stronger. During the year, we continued to
+execute on our treasury strategy and are proud to be the largest
+Bitcoin treasury company in the UK.
+
+The Group’s operating business has continued to perform in line
+with our expectations during the year. Our underlying operations
+are stable, and we remain confident in the long-term potential
+of the operating business.
+
+At the year end, the Company held 2,660 Bitcoin, with a market
+value of approximately £220 million. This position provides the
+Group with a robust and differentiated balance sheet, which we
+believe strengthens our long-term financial resilience.
+
+We firmly believe that acquisitions are a key driver in advancing
+our operating business. Our acquisition strategy is focused on
+selectively acquiring high-quality, cash-generative businesses
+with recurring revenue that strengthen our core capabilities and
+accelerate our return to sustainable profitability. This approach
+is consistent with our long-term ambition to build a large,
+profitable operating business.
+
+Whilst we acknowledge that Bitcoin is a volatile asset, our
+conviction remains unwavering. We believe Bitcoin represents
+the best asset the world has ever seen, combining scarcity,
+security, and global liquidity in a way unmatched by any
+alternative store of value. Our belief in Bitcoin as a long-term
+strategic asset is undoubted, and we remain committed to this
+approach.
+
+We have explored several opportunities and believe that by
+using our balance sheet, and cash flows from any acquisitions,
+we can progress this strategy in an exciting way. We remain
+disciplined in our capital allocation and are committed to
+ensuring that any acquisition activity enhances shareholder
+value and contributes meaningfully over the medium term.
+
+Over the coming months we aim to increase our treasury and
+are excited by the opportunities presented by this.
+
+*market capitalisation over £50m
+
+
+Strategic report
+
+
+Chief Executive’s Statement continued
+
+People, Governance and Community
+During the year, we have grown the team and expanded the
+Board, ensuring that the Company has the depth of talent,
+experience, and governance required to deliver on its strategy. I
+would like to thank all our employees, directors, and advisers for
+their hard work, commitment, and professionalism throughout
+the year.
+We are also fortunate to have one of the most engaged
+shareholder bases in the market. With the third-largest retail
+investor community within the Bitcoin treasury space, we are
+extremely grateful for the continued support and belief shown
+by our shareholders. This support does not go unnoticed,
+and we remain focused on delivering long-term value for all
+stakeholders.
+
+London Stock Exchange Listing
+In April 2025, the Company successfully listed its shares on
+the Aquis Stock Exchange, providing an efficient and flexible
+platform to access public capital at an early stage of our growth
+as a listed business. This initial listing enabled us to establish a
+public market presence, broaden our shareholder base, and
+build the governance, reporting and operational disciplines
+required of a publicly traded company.
+
+In February 2026, reflecting the scale of the business achieved
+and our long-term growth ambitions, the Company transferred
+its listing to the Main Market of the London Stock Exchange.
+The London Stock Exchange is one of the world’s leading capital
+markets and provides a highly credible platform for companies
+of our size and aspirations. A Main Market listing enhances the
+Company’s profile with institutional investors, improves share
+liquidity, and provides access to a deeper and more diverse pool
+of long-term capital. It also positions the Company alongside
+established UK and international businesses, reinforcing
+our commitment to the highest standards of governance,
+transparency and regulatory compliance.
+We believe the London Stock Exchange is the appropriate
+venue to support the next phase of our development, enabling
+us to pursue strategic growth opportunities, attract and retain
+high-quality talent, and deliver sustainable long-term value for
+shareholders.
+
+Outlook
+Looking ahead, we will maintain laser focus on executing our
+strategy, strengthening our operating business, advancing
+our acquisition pipeline, and continuing to manage our
+Bitcoin treasury responsibly. We enter 2026 and beyond with
+confidence, ambition, and a clear plan to advance the Company
+and create enduring shareholder value.
+Andrew Webley
+CEO
+19 February 2026
+
+
+10 Year Plan
+The Smarter Web Company has established a
+clear 10-year strategic ambition to become one
+of the largest publicly listed companies in the UK,
+underpinned by disciplined growth, balance sheet
+strength, and long-term shareholder value creation.
+The strategy is structured around three complementary pillars:
+A 	Organic growth of the Group’s profitable web design and
+
+digital services business
+
+In the near term, the Group is focused on scaling its operating
+business to become sustainably cash generative while
+continuing to develop its Bitcoin treasury strategy. Over
+the medium to long term, the Company intends to pursue
+strategically attractive acquisitions, supported by operating cash
+flows and capital markets tools, while steadily increasing Bitcoin
+holdings per share. Together, these initiatives are intended to
+support progression through major UK equity indices, broaden
+the Company’s global investor base, and establish a robust
+platform for sustainable growth over the coming decade.
+
+B 	Selective acquisitions designed to enhance operating cash
+
+A
+
+flows, resilience, and scalability
+C 	Continued execution of a Bitcoin treasury strategy intended
+
+Organic growth
+opportunities
+
+to strengthen the balance sheet and increase Bitcoin per
+share over time
+
+Company ambition
+Focused on growth with an ambition to be
+one of the largest public companies in the
+UK; growth will be managed with a focus on
+creating shareholder value.
+10-year strategic plan
+
+A
+
+Organic growth
+opportunities
+
+B
+
+Acquisition
+strategy
+
+10-year
+plan
+
+C
+Bitcoin
+treasury
+strategy
+
+B
+Acquisition
+strategy
+
+C
+
+Bitcoin treasury
+strategy
+
+• Shorter-term
+
+• Medium- and long-term
+
+• Long-term value creation
+
+• Scale client base (currently
+250+) through growing
+awareness of SWC & its services
+
+• Explore strategically attractive
+acquisitions to grow core
+business
+
+• Convert treasury assets into
+Bitcoin & accumulate with free
+cash flows
+
+• Expand range of services to
+grow per client revenue
+
+• Leverage strength of balance
+sheet
+
+• Continuous improvement of
+product offerings
+
+• Strengthen operating cash flows,
+growing operating business
+
+• Utilise capital market fundraising
+options to add to Bitcoin
+holdings when beneficial
+
+• Integrate AI efficiency
+tools into business
+processes
+
+• Leverage increased
+cash flows to further
+Bitcoin treasury
+strategy
+
+• Follow best practices of
+established
+international
+playbook for Bitcoin
+treasury strategy
+
+Strategic timeline
+Leverage public company profile
+to grow client base
+
+
+Accumulate Bitcoin
+
+Short term
+
+Medium term
+
+Leverage Bitcoin strategy
+publicity to grow
+
+Evaluate acquisition
+opportunities
+
+Continue accumulating;
+evaluate acquisitions
+
+Build Bitcoin product offerings
+into core business
+
+Leverage balance sheet to
+acquire when sensible
+
+Layer in capital markets tools for
+accumulation
+
+
+Long term
+
+Strategic report
+
+
+Financial review
+Albert Soleiman
+CFO
+
+£209.4m
+
+Capital raised and a further £16 million
+through convertible notes
+
+2,660
+Bitcoin held
+
+Operating model
+Lean and scalable
+
+Low gearing levels
+A remarkable amount has been achieved over
+the past year and we are excited about the
+opportunities we see ahead for the business
+as we focus on building an efficient operating
+model that is built to scale and support the
+Company’s strategic 10-year plan to deliver
+shareholder value.
+Our Bitcoin Treasury strategy is enabling us to build a strong
+balance sheet founded upon Bitcoin with minimal gearing
+and without exposure to fiat debt. This creates a sustainable
+and robust foundation allowing the Company to capitalise on
+opportunities as they present themselves. Our commitment
+to retaining sufficient working capital to fund operating costs
+provides us stability to weather the volatility in the financial
+markets.
+Our focus is on establishing an efficient operating model
+that can scale and support the business as it delivers on its
+strategy and growth ambitions. We have achieved this through
+being laser focused on costs and applying stringent return on
+investment criteria in our capital allocation decision making.
+During the year, the business transitioned from a start-up to
+a Main Market listed entity, with the associated costs of the
+listing process as well as investment in building out enduring
+governance frameworks with the addition of key hires including
+expansion of our Board.
+
+Costs associated with the listing process are one-off due to the
+nature of the project and totalled £1.35 million of which £660k
+was recognised in 2025 and the balance will be reflected in the
+following financial year.
+Our web design business performed in line with expectations in
+what has been a transformational year for the Group, delivering
+strong gross margins of over 87% albeit on low levels of
+revenue. Despite the low revenue outturn for the year, the high
+margin profile of the web design business gives us reason for
+optimism and supports our strategic ambitions to invest in its
+growth through organic and inorganic avenues.
+At the end of the financial year the Group had acquired a total
+of 2,660 Bitcoin, a significant achievement from a standing
+start. The rate of acquisition slowed following the conclusion
+of the 2025 financial year due to wider market conditions
+however we are optimistic that the rate of Bitcoin acquisition will
+reaccelerate in the coming months.
+Operationally, the Group has designed an efficient and scalable
+operating model that will deliver for shareholders for the long
+term.
+Albert Soleiman
+CFO
+19 February 2026
+
+
+Bitcoin as Digital Capital
+We believe that Bitcoin is
+the best asset the world
+has ever seen:
+
+•	A finite supply: Only 21 million Bitcoin will ever exist, making
+it uniquely scarce as a store of value.
+•	Engineered for long-term appreciation: Its programmed,
+diminishing issuance creates increasing scarcity over time.
+• Decentralised and censorship-resistant: No government,
+company or individual can control the Bitcoin network.
+• Superior to traditional assets: As digital, transferable, and
+verifiable capital, Bitcoin offers advantages over both gold
+and fiat currency.
+As such, our approach to digital assets is firmly “Bitcoin only.”
+Bitcoin provides a transparent, liquid and scarce reserve asset,
+with no single government, company or individual able to control
+its supply. Because of its attractive properties, Bitcoin has been
+the best performing major asset in the world over its lifetime.
+
+Bitcoin is the best performing asset in the world
+2011
+
+Bitcoin (BTC)
+
+2012
+
+2013
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+2011-25
+2025 CAGR
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+1473% 186% 5507% -58%
+
+35%
+
+125% 1331%
+
+-73%
+
+95% 301%
+
+66% -66% 156% 121%
+
+-6%
+
+131%
+
+US Nasdaq 100
+
+3%
+
+18%
+
+37%
+
+19%
+
+10%
+
+7%
+
+33%
+
+0%
+
+39%
+
+49%
+
+27%
+
+-33%
+
+55%
+
+26%
+
+21%
+
+19%
+
+US Large Caps
+
+2%
+
+16%
+
+32%
+
+14%
+
+1%
+
+12%
+
+22%
+
+-5%
+
+31%
+
+18%
+
+29%
+
+-18%
+
+26%
+
+25%
+
+18%
+
+14%
+
+US REITS
+
+9%
+
+18%
+
+2%
+
+30%
+
+2%
+
+9%
+
+5%
+
+-6%
+
+29%
+
+-5%
+
+41%
+
+-26%
+
+12%
+
+5%
+
+3%
+
+7%
+
+Gold
+
+10%
+
+7%
+
+-28%
+
+-2%
+
+-11%
+
+8%
+
+13%
+
+-2%
+
+18%
+
+25%
+
+-4%
+
+-1%
+
+13%
+
+27%
+
+64%
+
+7%
+
+US Total Bond Mkt
+
+8%
+
+4%
+
+-2%
+
+6%
+
+1%
+
+3%
+
+4%
+
+0%
+
+9%
+
+8%
+
+2%
+
+-13%
+
+5%
+
+1%
+
+7%
+
+2%
+
+US Cash
+
+0%
+
+0%
+
+0%
+
+0%
+
+0%
+
+0%
+
+1%
+
+2%
+
+2%
+
+0%
+
+0%
+
+1%
+
+5%
+
+5%
+
+4%
+
+1%
+
+Commodities
+
+-3%
+
+4%
+
+-8%
+
+-28%
+
+-28%
+
+19%
+
+5%
+
+-12%
+
+12%
+
+-8%
+
+41%
+
+19%
+
+-6%
+
+2%
+
+8%
+
+0%
+
+Source: Creative Planning analysis (creativeplanning.com)
+
+Bitcoin is still just 0.2% of global asset value
+Bitcoin:
+£1.5T
+
+Gold:
+£17T
+
+Art, cars, &
+collectibles:
+£20T
+
+Real estate:
+£286T
+
+Total global
+asset value:
+~£760T
+
+
+Equities:
+£102T
+
+Bonds:
+E239T
+
+Money:
+£97T
+
+Strategic report
+
+
+Building a Balance Sheet
+on Digital Capital
+The Smarter Web Company is a UK-based web design
+agency, founded in 2009 by Andrew Webley, specialising
+in creating bespoke, mobile-friendly websites for small and
+medium-sized businesses. For 15 years, SWC operated as
+a profitable small business based in Bristol. The Smarter
+Web Company began accepting Bitcoin as a form of
+payment in 2022.
+When Michael Saylor turned his US public company,
+MicroStrategy, into a “Bitcoin treasury company,” Andrew
+believed this was a brilliant model to strengthen a business by
+building a balance sheet of Digital Capital. Eventually, Andrew
+decided to deploy a similar treasury strategy for The Smarter
+Web Company, by taking the 15-year old company public.
+In April 2025, The Smarter Web Company IPO’ed on the Aquis
+exchange as the first Bitcoin treasury company in the UK.
+Utilising capital market tools available to public companies, the
+Company began to build its Bitcoin treasury.
+The market responded positively to this vision and execution.
+The Smarter Web Company was the UK’s best performing
+public equity in 2025* and in February 2026 uplisted to
+The London Stock Exchange.
+Today, The Smarter Web Company has the largest Bitcoin
+Treasury amongst UK public companies and amongst the
+largest globally. The company aspires to continue building its
+balance sheet to eventually join the FTSE 250 and then the
+FTSE 100.
+As it strives for these goals, The Smarter Web Company will
+continue to focus on its thesis that Bitcoin is the best balance
+sheet asset for a company to capitalise itself on, and that
+accumulating a robust treasury of Digital Capital is a key enabler
+of operating success and delivering shareholder value.
+
+Bitcoin Held
+3,000
+2,500
+2,000
+1,500
+
+2,660 BTC as of
+31 October 2025
+
+1,000
+
+May
+
+Jun
+
+Jul
+
+Aug
+
+Sep
+
+Oct
+
+Nov
+
+2025 Asset Performance
+1200%
+
+22%
+9%
+-6%
+The Smarter
+Web Company
+
+Bitcoin
+
+FTSE
+
+FTSE
+
+Note: All figures shown are for the calendar year
+
+Market Cap of Aspirational Milestones
+
+The Smarter Web Company carries forward Britain’s history of
+innovation. We carry that spirit forward as the UK’s leading listed
+company with Bitcoin on its balance sheet. Digital capital for a
+digital age.
+
+~75
+
+~4.5
+
+0.2
+
+~0.54
+
+The Smarter
+Web Company
+
+FTSE 250
+inclusion
+
+FTSE 100
+inclusion
+
+FTSE 100
+Top 10
+
+SWC growth
+from current
+
++1.8x
+
++23x
+
++396x
+
+Note: Market cap figures as of 21 January 2026
+
+*market capitalisation over £50m
+
+
+Key Highlights
+UK’s #1
+Performer1
+
+2,664 Bitcoin2
+
+~£225 million
+
+Accumulated since
+IPO in April 2025
+
+Raised to purchase
+Bitcoin in 2025
+
+#1 in UK
+
+~£1 billion
+
+Share price
+appreciation
+in 2025
+
+Largest Bitcoin
+treasury in UK, 430%
+the size of
+next largest
+
+Approximate notional
+share value traded
+since IPO in April 2025
+
+Uplisted to LSE
+
+#3 Community
+
+UK Retail #10
+
+Uplisted from Aquis
+to LSE Main Market
+roughly 9 months
+after IPO
+
+Third largest
+shareholder community
+group of Bitcoin
+treasury companies
+globally3
+
+10th most bought
+stock by UK retail
+investors
+in 2025
+
+Ranked #1 out of
+UK-listed public
+companies for share
+price performance
+in 2025
+
++1,200%
+Share Price
+
+The information above is provided for illustrative purposes only. Trading volumes and performance metrics are based on publicly available data and
+internal analysis. Past performance is not indicative of future results.
+
+
+market capitalisation over £50m
+
+
+as at 13 January 2026
+
+
+based on X community followers
+
+
+Strategic report
+
+
+Strategy and Objectives
+The Smarter Web Company follows a simple strategy
+designed for value creation over the long term. We are
+thinking in decades, and we believe that there is a huge
+opportunity to scale the business over the next 10 years
+and beyond.
+While we do not have definite Bitcoin accumulation targets,
+we believe we can accumulate a much larger balance sheet of
+Digital Capital as the leading Bitcoin-powered public company
+in the UK. This will be instrumental in helping us to achieve
+our objective of eventually becoming one of the largest public
+companies in the UK.
+
+Our strategy involves the interwoven elements of our web design
+operating business, selective acquisitions to scale the business,
+and the supercharging of our balance sheet via the remarkable
+properties of Bitcoin as Digital Capital.
+Since the process of going public in early 2025, we have
+articulated this strategy as our 10-Year Plan, consisting of these
+core pillars.
+
+Pathway to success over 10 years
+Activities & goals
+
+Year 1
+
+Aquis → LSE Main Market listing
+Aggressively scale BTC treasury,
+increasing Bitcoin per share
+Establish diverse investor base: UK
+& global, retail & institutions
+Implement range of capital
+market fundraising strategies
+Grow operating business organically
+and/or via acquisition
+New capital market products
+Expand global market access,
+distribution, and liquidity
+Robust suite of capital market
+products and tools
+Consistent track record of
+delivering BTC Yield
+
+Year 10
+
+Global investor base with
+multi-index inclusion
+
+
+Acquisition Strategy
+The Group’s acquisition strategy focuses on identifying
+businesses with strong operating cash flows, attractive
+economics, and a clear strategic fit with the existing web
+design and digital services platform. The Board intends
+to prioritise acquisitions that can be integrated efficiently,
+enhance recurring revenues, and deliver operational
+synergies.
+Transactions will be pursued selectively and structured to align
+management incentives, while preserving balance sheet strength
+and maintaining a disciplined approach to capital allocation.
+
+Long-Term Future Acquisition Strategy
+Consideration
+
+Smarter Web acquisition strategy
+
+Target
+characteristics
+
+The acquisition strategy is focused on
+targeting operating cash flows with a 3 to 4 years payback
+
+Strategic fit
+
+Identify strategically attractive acquisitions to grow
+core business and deliver cost efficiencies
+
+Operating
+synergy
+
+Plan to acquire and manage from a distance initially
+and then retain separate brands whilst introducing
+efficiency and increase recurring revenue
+
+Same industry
+vs. new
+
+Consider diversification to improve operating cash
+flow and / or reduce sector dependency
+
+Funding
+
+A mix of stock and cash components to
+complement the Bitcoin treasury strategy
+
+Selectivity
+
+The Smarter Web Company will only make acquisitions
+where the Directors believe the timing and opportunity
+is appropriate to deliver our strategic objectives
+
+The Smarter Web can selectively utilise balance sheet strength to acquire
+operating businesses with attractive economics and strategic value,
+boosting annual operating income
+
+
+Strategic report
+
+
+Utilising The Balance Sheet
+Market cap*
+
+Operating profits*
+
+Deal structure*
+
+Assumes acquisition cost
+3.5x operating profits
+
+£500m
+
+£8m
+
+£508m
+
+£2.3m
+
+£2.34m
+
+•	30% stock upfront;
+70% paid over 3 years
+(“earn out”)
+•	Earn out ensures
+operating team remains
+in place & motivated
+•	Operating profits from
+acquired business
+should largely cover
+the earn out acquisition
+payments Y1-Y3
+
+£0.04m
+Now
+
+Acq.
+
+Post Acq.
+
+Now
+
+% increase: 1.5%
+
+Acq.
+
+Post Acq.
+
+% increase:+5,850%
+
+Acquisition payback timeline*
+£13.8m
+
+£8.0m
+
+•	If operating profits dip
+post-acq, provisions
+can be in place to
+reduce earn out
+payments
+•	Strength of Bitcoin
+balance sheet provides
+backup payment
+methods of stock
+issuance
+
+Payback in Y4
+
+£2.3m
+
+YO
+
+Y1
+
+Acquisition cost
+
+Y2
+
+Y3
+
+Y4
+
+Y5
+
+Y6
+
+Total
+
+Operating profits
+
+*Illustrative
+
+
+Principal risks
+and uncertainties
+Risk
+
+Explanation
+
+Mitigation and controls
+
+Valuation risk
+
+Bitcoin prices have historically been volatile and remain
+subject to elevated volatility which can directly impact the
+balance sheet and overall net asset values. Prices are also
+quoted in USD which creates valuation risk in terms of
+pricing and foreign currency valuations.
+
+Bitcoin prices and their impact on the Company’s valuation
+are tracked in real time and published on its website for full
+transparency.
+
+Bitcoin is held with third party custodians and is not self
+custodied by the Company leaving it exposed to the
+custodian’s solvency and security protocols.
+
+The Company seeks to diversify its Bitcoin holding across
+multiple top tier custodians offering institutional grade custody
+solutions. Each custodian is selected based on strict internal
+criteria and once onboarded is regularly monitored to ensure
+continued adherence to these standards.
+
+Counterparty risk
+
+Fair value assessments are carried out on a bi-annual basis
+with the results communicated to shareholders and disclosed
+in the financial statements.
+
+Custodians selected by the Group to hold Bitcoin each
+provide segregated custody wallets to ensure the Group’s
+Bitcoin is not co-mingled with assets of the custodian.
+All custodians provide the Company with SOC reports which
+are included as part of the Company’s ongoing monitoring of
+its custodians.
+Liquidity risk
+
+The Company’s active web design business does not
+generate sufficient cashflow to cover the operating costs
+of the business in particular the increased cost base
+associated with being a listed business. This exposes the
+business to liquidity risk during times where it is unable to
+raise funds from the capital markets.
+
+The Company has committed to retaining a minimum of
+12 months working capital liquidity to meet its financial
+obligations and fund its operating costs. Several potential
+working capital scenarios are considered to allow
+management adequate planning time for remedial action in a
+liquidity stress should they arise.
+
+Banking risk
+
+Banks may not be willing to provide bank accounts or
+banking related services to the Company due to its large
+holding of Bitcoin. Whilst the Company holds Bitcoin as
+a treasury asset and is not involved in activities that would
+require it be regulated, banks may be unwilling to provide
+it services as it is not regulated by a recognised regulator.
+
+The Company is regularly reviewing its banking relationships
+and seeking to diversify those relationships while remaining
+disciplined in selecting reliable and secure banking partners.
+
+Competition risk
+
+Web design is an intensely competitive market dominated
+by larger players and increasingly new entrants leveraging
+of artificial intelligence tools. This risks the web design
+business failing to realise its growth plans and achieving
+acceptable returns on investments made.
+
+Management is confident in its strategy of targeting small to
+medium enterprises and offering them a quality service at
+competitive pricing as well as establishing lasting relationships
+through personalised service offerings. Inorganic growth
+opportunities are assessed against strict internal hurdles for
+returns on investment to ensure growth by acquisition is value
+accretive for the Group.
+
+
+Strategic report
+
+
+Section 172 Statement
+Relationship with
+Shareholders
+
+Interests of Employees
+
+The Company understands its
+responsibilities towards all of our
+shareholders and the Board continues
+to take account of the interests of these
+shareholders when taking key decisions.
+
+Our people are central to our success
+and delivering on our 10 year plan. The
+Board engages with employees through:
+
+The Directors are mindful of their duty
+under Section 172 of the Companies
+Act 2006 (“Section 172”) to act in a way
+which they consider, in good faith, is
+most likely to promote the success of the
+Company for the benefit of its members as
+a whole. In doing so, the Board consider
+the matters set out in Section 172.
+
+•	Share Participation: Maintaining
+a Share Dealing Code and seeking
+shareholder approval for an employee
+equity plan to align employee interests
+with long-term shareholder value.
+
+•	Open Communication: Regular
+dialogues and feedback loops to
+ensure a transparent environment.
+
+Fostering Business
+Relationships
+•	Customers: We aim to provide
+access to high quality web services at
+affordable prices to give customers in
+the small to medium enterprise sector
+the ability to build an online presence
+and empowering them to grow their
+business.
+• Suppliers: We prioritise ethical
+sourcing and professional integrity. We
+appointed Coinbase Institutional as an
+additional Bitcoin custody partner to
+mitigate counterparty risk and enhance
+transparency.
+
+Long-Term Consequences
+of Decisions
+
+Maintaining High Standards
+of Business Conduct
+
+Acting Fairly with our
+Shareholders
+
+The Board’s primary focus in 2025 was
+the successful transition to a public
+company via its listing on the Aquis Stock
+Exchange in April 2025 which provided
+the foundation for implementing our
+“The 10 Year Plan”, which includes as its
+cornerstone the Bitcoin treasury policy.
+
+Following the IPO on AQSE, the Board
+has reinforced its governance structures
+to ensure they remain “fit for purpose”.
+As an AQSE listed business we adhered
+to the QCA Corporate Governance
+Code to maintain a reputation for integrity
+and transparency in the public markets.
+The move to the Main Market will require
+adherence to the stringent rules of the UK
+Financial Conduct Authority’s Official List.
+
+The Board ensures all members are
+treated fairly. This is achieved through
+transparent reporting and maintaining
+an open dialogue with investors via the
+Company’s investor relations website.
+
+The Board remains committed to its
+core web services business, focused
+on increasing our portfolio of over 250
+active client websites through targeted
+marketing (organic growth) and actively
+progressing an acquisition strategy
+targeting other web agencies to grow
+client numbers and recurring revenue.
+A key development in January 2026
+was the announcement of the intention
+to cancel the AQSE listing and seek
+admission to the LSE’s Main Market on
+or around 3 February 2026. This move
+is intended to increase market visibility,
+broaden the institutional investor base,
+and improve share liquidity, securing the
+Company’s future growth potential.
+
+
+Impact on Community and
+Environment
+The Company is committed to digital
+inclusion and high ethical standards,
+providing access to digital assets to its
+shareholders, supporting local businesses
+through its web design business and
+operating efficiently as a digital-first business.
+
+During 2025, the Company successfully
+raised over £209.4 million in equity
+capital across multiple placings with no
+long-term debt. This was primarily to fund
+our “The 10 Year Plan” and acquire a
+significant treasury position in Bitcoin.
+The Board acknowledges that the FCA
+considers investment in Bitcoin high risk
+and that the value of holdings can fluctuate
+significantly. As of October 2025, the
+Company held approximately 2,660 Bitcoin
+as part of its treasury policy, acquired at
+an average price of roughly £82,800 per
+Bitcoin. The Board remains transparent about
+these risks and the Company’s material
+exposure to Bitcoin, which is intended to be
+accretive to shareholders.
+
+The Strategic Report was approved by
+the Board and was signed on behalf of
+the board by
+Andrew Webley
+Chief Executive Officer
+19 February 2026
+
+Governance
+In this section
+Board of Directors
+The role of the Board
+Chairman’s governance overview
+Audit & Risk Committee report
+Nomination Committee report
+Remuneration Committee report
+Directors’ report
+
+
+Board of directors
+
+Sean Wade
+
+Andrew Webley
+
+Albert Soleiman
+
+Sean is Chief Executive Officer of
+AIM-listed Power Metal Resources. He
+is an experienced corporate executive
+with over 30 years’ experience in
+capital markets and corporate business
+development across the natural
+resources, financial and technology
+sectors. He has board level experience
+in multiple jurisdictions and sits on
+the boards of a number of listed and
+unlisted companies. He also chairs the
+Nomination Committee.
+
+Andrew began his career in 1999
+at Hargreaves Lansdown, where
+he progressed to Head of Online
+after playing a lead role in the early
+development of its online activities.
+
+Albert is a qualified chartered accountant
+having qualified with KPMG in 2001. He
+brings over 20 years of financial and
+leadership experience, most recently
+served as Chief Financial Officer at
+CMC Markets PLC, a constituent of
+the FTSE 250, where he played a
+key role in driving its diversification
+strategy notably leading the build out
+of its investment platform and leading
+a strategic realignment of the business.
+Prior to this, he held a senior finance
+position at Bitfury Group, a global leader
+in Blockchain technology solutions and
+Bitcoin mining.
+
+Non-Executive Chairman
+
+CEO
+
+In 2009, he founded Smarter Web
+Operations, building it into a successful
+and profitable business over the next
+fifteen years. In April 2025, Andrew led
+the Company through its Initial IPO and
+its subsequent equity fundraisings, which
+have raised over £200 million.
+As CEO, Andrew is responsible for
+the strategic direction and delivering
+shareholder value.
+
+
+CFO
+
+Albert has previously held several Senior
+Management Functions including SMF1,
+SMF2, SMF3 and SMF16 and prior to that
+the CF10A function.
+
+Strategic report
+
+
+Board of directors continued
+
+Tyler Evans
+
+Randal Casson
+
+Martin Thomas
+
+Tyler is the Chief Investment Officer of
+Kindly MD Inc. (NASDAQ: NAKA), where
+he leads the firm’s Bitcoin investment
+strategy. He is also the co-founder and
+CIO of UTXO Management, a premier
+asset manager focused on Bitcoinnative opportunities across public and
+private markets. Tyler co-founded BTC
+Inc., the publisher of Bitcoin Magazine
+and producer of the annual Bitcoin
+Conference. He currently serves on the
+boards of Metaplanet Inc. (TSE: 3350),
+The Smarter Web Company PLC (AQSE:
+SWC) and Matador Inc. (TSXV: MATA). A
+Bitcoin investor since 2013, Tyler is also
+an active mentor with the Bitcoin Startup
+Lab and Draper BitcoinFi accelerator.
+
+Randal qualified as a chartered
+accountant with PwC where he worked
+for 35 years, the last 22 years of which
+he was an audit partner. He retired from
+PwC on 30 June 2022. On 1 July 2022
+Randal was appointed to the board
+of Games Workshop Group plc and
+became senior independent director on
+26 November 2024.
+
+Since January 2022, Martin has served
+as a consultant at the law firm Wedlake
+Bell LLP, from where he was previously a
+Partner from January 2018 to December
+2021. During his more than 35-year legal
+career, Martin also served as a Partner
+of Watson Farley & Williams LLP from
+February 2015 to April 2017 and as
+consultant of the same firm from May 2017
+to May 2018. He is currently also a NonExecutive Director of Diversified Energy
+Company plc (NYSE: DEC; LSE: DEC).
+Martin earned a Bachelor of Laws from
+the University of Reading and completed
+his Law Society Final Examinations at The
+College of Law in the UK.
+
+Non-Executive Director
+
+Senior Independent Non-Executive
+Director
+
+Independent Non-Executive Director
+
+
+The role of the Board
+Governance Framework & Control
+
+The Board is responsible for the long-term
+sustainable success of the Group, delivering
+value for shareholders and other stakeholders
+by providing leadership and strategic oversight
+within a framework of effective controls which
+enables risk to be assessed and managed.
+
+To support the Board in its duties, authority is delegated to three
+standing committees:
+1.	Audit and Risk Committee: Oversees financial reporting,
+internal controls, and risk management systems.
+2.	Remuneration Committee: Ensures executive pay is
+aligned with the long-term strategic goals and the Group’s
+performance.
+
+The Board is responsible for setting the Group’s strategy,
+ensuring adequate resources are in place to deliver the strategy
+and the overall culture of the business.
+
+3.	Nomination Committee: Reviews the Board’s composition to
+ensure a balance of skills, including appropriate expertise.
+
+The Board has ultimate responsibility to prepare the Annual
+Report and Financial Accounts and to ensure that appropriate
+internal controls and risk management activities are in place.
+
+Bitcoin Treasury Policy Oversight
+Fundamental to the strategy of the Group is the execution of the
+Bitcoin Treasury Policy. The Board regularly reviews the policy to
+ensure that it delivers on its objective of prudently growing the
+balance sheet whilst mitigating risk and ensuring the Company
+has sufficient working capital available to fund its operations.
+
+Section 172 Statement
+The Board acts in a way that it considers, in good faith,
+promotes the success of the Company for the benefit of its
+members as a whole, while having regard to the interests of
+our clients, our employees, our shareholders and the regulatory
+standards of the London Stock Exchange.
+
+Board Composition
+Name
+
+Position
+
+Board
+
+Sean Wade
+
+Non-Executive Chairman
+
+l
+
+Randal Casson
+
+Senior Independent Non-Executive Director
+
+l
+
+Martin Thomas
+
+Independent Non-Executive Director
+
+l
+
+Tyler Evans
+
+Non-Executive Director
+
+l
+
+Andrew Webley
+
+Chief Executive Officer
+
+l
+
+Albert Soleiman
+
+Chief Financial Officer
+
+l
+
+
+Audit
+
+Remuneration
+
+Nomination
+
+l
+
+l
+
+l
+
+l
+
+l
+
+l
+
+l
+
+l
+
+Strategic report
+
+
+Chairman’s governance
+overview
+Dear Shareholder,
+On behalf of the Board, I am pleased to present the Group’s
+Governance report for the year ended 31 October 2025. As
+we celebrate the milestone of admission to the Main Market of
+the London Stock Exchange on 3 February 2026, and all that
+has been achieved by the Group in the past year, the Board
+remains focused on supporting management in delivering on
+the Group’s strategy and delivering value for our shareholders
+and stakeholders.
+The Board recognises that effective governance is key to the
+Group’s sustained success and our governance framework
+enables decisions to be made in line with the business
+objectives and that appropriate oversight and challenge is
+provided. My role as Chairman is to ensure the Board operates
+with the transparency and discipline required of a listed entity,
+while fostering a culture that supports delivery of high-quality
+web design services alongside building a strong balance sheet
+on the back of our Bitcoin Treasury Policy.
+
+UK Corporate Governance Code
+The past year has been transformative for the Group. We have
+transitioned from the Aquis Stock Exchange to the Main Market
+of the LSE, a move that demands the highest standards of
+stewardship. Our governance framework is designed to bridge
+the gap between robust corporate oversight whilst supporting
+delivery of our strategy.
+From 25 April 2025 to 2 February 2026, the Company adopted
+the QCA Code of Governance and after the year being
+reported, upon joining the Main Market of the London Stock
+Exchange (commercial company) on 3 February 2026, the
+Company adopted the UK Corporate Governance Code with
+some exceptions that we are working to implement, as we strive
+to support our ambitious growth plans within the framework of
+strong governance that delivers for all our stakeholders.
+As envisaged by the UK Corporate Governance Code, the
+Board has established three committees: an Audit and Risk
+Committee, a Remuneration Committee and a Nomination
+Committee. The Board has also established a Disclosure
+Committee. If the need should arise, the Board may establish
+additional committees as appropriate.
+The UK Corporate Governance Code recommends that at least
+half the board of directors of a UK listed company (excluding
+the Chair) should comprise “independent” non-executive
+directors. The majority of the Board will comprise Non-Executive
+Directors, with half of the Board, comprising Randal Casson,
+Martin Thomas and Sean Wade, regarded by the Company as
+independent Non-Executive Directors within the meaning of the
+
+UK Corporate Governance Code and free from any business or
+other relationship that could materially interfere with the exercise
+of their independent judgement.
+Whilst the Company does not currently comply with the
+recommendation that more than half of the Board (excluding
+the Chair) are independent Non-Executive Directors, the
+balance of the Board is deemed to be appropriate to provide
+adequate corporate governance at this stage in the Company’s
+development. It is, however, noted that the Company intends to
+comply with this requirement of the UK Corporate Governance
+Code and accordingly will actively seek to appoint a further
+independent Non-Executive Director in due course subject to
+identifying appropriate candidates.
+
+Board Composition and Diversity
+Our Board brings together a wealth of experience. With the
+appointment of Randal Casson and Martin Thomas, we have
+ensured a strong independent voice with a diverse skill set to
+challenge management and protect shareholder interests.
+As the Company develops further, the Board will continue
+to review its composition to ensure a suitably diverse Board,
+one that best serves the interests of both shareholders and
+customers.
+These appointments and the progress made on our governance
+frameworks has led to us implementing Board committees
+commensurate with a listed business including audit and risk,
+remuneration and nomination committee all of which are
+reported upon in the subsequent sections. Other committees
+and advisory boards will be kept under review and implemented
+as relevant.
+
+Looking Ahead
+Governance is not a static exercise. As we scale, the Board
+will continue to evolve its oversight of the business, its control
+environment and the effectiveness of its risk management
+procedures. This will involve, among other things, an annual
+Board Effectiveness Review.
+We remain committed to open communication with our
+shareholders and look forward to engaging with you during our
+first year on the Main Market.
+Sean Wade
+Non-Executive Chairman
+19 February 2026
+
+
+Audit & Risk Committee
+report
+During the year ended 31 October 2025, the initial members
+of the Audit Committee were Andrew Webley and Mario
+Visconti. The Committee met once to approve the Company’s
+unaudited interim results (for six months ending 30 April 2025)
+following the Company’s move to the AQSE Growth Market.
+On 1 October 2025 Randal Casson joined the Board of the
+Company and was additionally appointed as chair of the
+Audit Committee. On 8 January 2026 Martin Thomas joined
+the Board of the Company and also the Audit Committee. In
+preparation for the uplisting to the Main Market, Andrew and
+Mario resigned from the Audit Committee, which was also
+renamed the Audit and Risk Committee. The Committee has
+met once since the end of the year.
+
+Audit and Risk Committee membership
+The UK Corporate Governance Code recommends that the
+Audit and Risk Committee comprise at least two members
+who are both independent Non-Executive Directors (Randal
+Casson and Martin Thomas) and includes one member with
+recent and relevant financial experience (Randal Casson). The
+Chair of the Board should not be a member of the Audit and
+Risk Committee. The Company therefore complies with the UK
+Corporate Governance Code recommendation with effect from
+8 January 2026.
+By invitation, the Company’s Chief Financial Officer, Chief
+Executive Officer, and representatives of the Company’s auditor
+also attend Committee meetings. The Committee Chair attends
+the Company’s annual general meeting to respond to any
+shareholder questions on the Committee’s activities.
+
+Committee responsibilities
+The terms of reference of the Audit and Risk Committee
+(available on the Company’s website) set out the responsibilities
+of the Committee.
+
+External auditor
+The Company’s auditor changed to PKF Littlejohn LLP; they
+were appointed the Company’s auditor from 21 August 2025
+following the resignation of Alder Shine LLP. The Company
+received a statement from the departing auditor that indicated
+there were no matters Adler Shine LLP considered necessary
+to be brought to the attention of the Company’s members
+(pursuant to Companies Act 2006 ss. 519(2) and 519(3B)).
+
+
+Following their appointment as auditor, PKF Littlejohn LLP was
+also engaged in the uplisting project as Reporting Accountant
+for the Prospectus that supported the Company joining the
+Main Market on 3 February 2026. This Prospectus is available
+from the Company’s website. The Audit team was separate to
+the Reporting Accountant team.
+The Audit Committee (now constituted as the Audit and Risk
+Committee) assists the Board in discharging its responsibilities
+with regard to financial reporting, external and internal audits
+and controls, including reviewing the Company’s annual and
+half-yearly financial statements, making recommendations on
+the appointment, reappointment and removal of the external
+auditor, monitoring the independence of the external auditor,
+reviewing the objectivity and effectiveness of the audit process
+reviewing the scope and fees of the audit and non-audit work
+undertaken by the external auditor, and considering the need for
+an internal audit function.
+
+Audit services
+For the year-ended 31 October 2025, audit fees were £68,500.
+
+Non-audit services
+There were no non-audit services during the year to
+31 October 2025. Since the year end the auditor performed
+the role of Reporting Accountant in the uplisting, for which it
+received a fee of £151,500.
+The Committee were satisfied that the auditor’s independence
+was not compromised by this non-audit service due to the use
+of a separate team.
+
+Internal Audit
+The Committee considered the need for an internal audit
+function and concluded that this is not necessary given the
+current size and scope of the Company’s activities.
+Randal Casson
+Chair of the Audit and Risk Committee
+19 February 2026
+
+Strategic report
+
+
+Nominations Committee
+report
+During year ended 31 October 2025, the Company did not
+establish a Nominations Committee owing to the size of the
+business. Matters dealt with by a Nominations Committee, were
+managed by the Board. During the year, the Board met to
+consider and make the following board appointments:
+•	Randal Casson as an independent non-executive director
+(appointed: 1 October 2025)
+•	Albert Soleiman as Chief Financial Officer (appointed:
+1 September 2025)
+On 8 January 2026, Martin Thomas was appointed as an
+independent non-executive director.
+Following the Company’s admission to the Main Market of the
+London Stock Exchange on 3 February 2026, the Company has
+established a Nominations Committee. The Committee assists the
+Board in reviewing the structure, composition and make-up of the
+Board and any committees of the Board, succession planning,
+evaluating the balance of skills, experience, independence and
+knowledge on the Board and leading the process for Board
+appointments and making recommendations to the Board on
+such matters. It is also responsible for assisting with any evaluation
+process to assess the overall and individual performance of the
+Board and its committees and reviewing the policies on diversity
+and progress on achieving objectives under the policy.
+
+The UK Corporate Governance Code recommends that a
+majority of the members of the Nomination Committee should
+be independent Non-Executive Directors. As the UK Corporate
+Governance Code does not restrict the Chair of the Company from
+being a member of the Nomination Committee, the Company’s
+three independent Non-Executive Directors (Sean Wade, Randal
+Casson and Martin Thomas) will be the initial members of the
+Nomination Committee and the Company will comply with the UK
+Corporate Governance Code recommendation.
+The Nomination Committee is made up of a minimum of three
+members. The Nomination Committee is chaired by Sean Wade.
+The Nomination Committee will meet at least once per year and
+otherwise as the Chair of the committee, or a majority of the
+committee members, shall require.
+In accordance with Provision 21 of the UK Corporate
+Governance Code, the Company will undertake an annual
+review of the performance of the Board and Board committees,
+the chair and individual directors.
+The Board currently does not comply with the recommendation
+of the UK Corporate Governance Code (Provision 11) that more
+than half of the Board, excluding the Chair, are independent
+non-executive directors, the Company intends to appoint
+another independent non-executive director. The Committee
+will be active in relation to such appointment.
+Sean Wade
+Chair of the Nomination Committee
+19 February 2026
+
+
+Remuneration Committee
+Report
+Annual Statement from the Chair of the
+Remuneration Committee
+
+The outcomes of the salary reviews and bonus allocation are set
+out below in the auditable part of this report.
+
+As the Chair of the Remuneration Committee,
+I am pleased to present our Remuneration
+Report for the year ended 31 October 2025.
+
+Committee Membership
+
+This report comprises two sections: ﬁrst, this, my annual
+statement as Chair of the Remuneration Committee; second, the
+proposed Remuneration Policy which will be put for approval by
+shareholders at this year’s Annual General Meeting (“AGM”).
+
+• Executive and senior management salaries;
+
+The Committee’s objective is to ensure executive pay is
+competitive and directly aligned with the Company’s strategic
+“10 Year Plan” rewarding the growth of our web design business
+(both organically and through acquisition) and the successful
+stewardship of our Bitcoin Treasury strategy whilst ensuring due
+consideration is given to all of our key stakeholders.
+
+The Committee consists of independent Non-Executive
+Directors who meet during the year to review:
+
+• The proposed employee equity plan;
+•	The implementation of the Share Dealing Code for Directors
+and PDMRs; and
+•	Incentive structures linked to the upcoming Main Market
+listing in February 2026.
+
+Directors’ Remuneration Policy
+Our policy is designed to attract and retain high-calibre leadership to drive the Company strategy and deliver for shareholders.
+Element
+
+Purpose and Link to Strategy
+
+Operation and Performance Framework
+
+Base Salary
+
+Reflects the role’s scope and the individual’s experience.
+
+Reviewed annually, taking into account the Company’s growth
+and that of its asset base.
+
+Benefits
+
+Standard competitive package.
+
+Includes pension contributions.
+
+Annual Bonus
+
+Rewards delivery of short-term financial and operational KPIs.
+
+Tied to growth in web service revenue, successful integration of
+acquisitions, and Bitcoin treasury performance.
+
+Long-Term
+Incentive Plan
+(LTIP)
+
+Aligns executive interests with shareholders.
+
+Primarily delivered through share-based awards, focusing
+on long-term share price performance, growth in market
+capitalisation and the successful transition to the Main Market.
+
+The Committee considers performance from both a strategic and
+financial perspective as well as stakeholder outcomes. During the
+year, the Company achieved a number of significant milestones
+including the IPO on AQSE in April 2025, over £209.4 million of
+capital raises, 2,660 Bitcoin acquired and ultimately the admission
+on 3 February 2026. The web design business continues to perform
+in line with expectations during a period of significant change
+for the Group, and while no acquisitions have been completed
+in the period, the Board continues to review strategic acquisition
+opportunities.
+The Company operates in a transparent manner with its
+shareholders openly sharing its strategy and progress on a
+regular basis.
+During the year, the Committee discussed the bonus allocation
+and salary reviews for all the employees of the Company
+including Directors and discussed the operation of and
+participation of the proposed employee equity plan.
+
+The outcomes for the Directors were as follows:
+Name
+
+Role
+
+Base salary
+
+Cash bonus
+Equity
+potential Participation
+
+Andrew Webley CEO
+
+£450,000 Up to 100%
+
+Yes
+
+Albert Soleiman CFO
+
+£300,000 Up to 100%
+
+Yes
+
+Sean Wade
+
+Chairman
+
+£150,000
+
+n/a
+
+No
+
+Tyler Evans
+
+NED
+
+£75,000
+
+n/a
+
+No
+
+Randal Casson
+
+NED (and SID)
+
+£75,000
+
+n/a
+
+No
+
+Martin Thomas
+
+NED
+
+£60,000
+
+n/a
+
+No
+
+These salaries and potential bonus allocations remain
+unchanged for the Directors for the coming year.
+
+Strategic report
+
+
+Remuneration Committee Report continued
+
+The details of the proposed equity scheme are provided below.
+
+Shareholding guidelines
+Executive Directors are required to build up a holding of 300%
+of base annual salary. Executive Directors will be required to build
+up to this level over a period of ﬁve years, starting from the date
+of our Main Market listing in February 2026 for the Executive
+Directors who were in their role at that time and from the date of
+appointment for any recruits in future. Executive Directors will be
+required to retain at least 50% of shares vesting (net of tax) until
+the guideline level is achieved. For the purposes of satisfying the
+shareholding requirement, shares held by a connected person
+(e.g. a spouse) will be considered to be included.
+
+Clawback and malus provisions
+Awards under the LTIP will be subject to provisions that allow
+the Committee to withhold, reduce or require the repayment of
+awards after vesting if there is found to have been: (a) material
+misstatement of the Company’s ﬁnancial results; (b) gross
+misconduct on the part of the award holder; or (c) any other
+material event as the Committee considers appropriate.
+
+Service contracts
+The Executive Directors are employed under contracts of
+employment with The Smarter Web Company PLC. The principal
+terms of the Executive Directors’ service contracts are as follows:
+Executive
+Director
+
+Position
+
+Contract date
+
+Notice
+period
+
+Andrew Webley Chief Executive Officer
+
+24 April 2025 12 months
+
+Albert Soleiman Chief Financial Officer
+
+1 September 2025 6 months
+
+Non-Executive Directors are all on a three-month notice period.
+
+Sean Wade
+Randal Casson
+Tyler Evans
+
+Contract date
+
+•	The number of shares which the awards will deliver will be
+determined as a percentage of the issued share capital of the
+Company at the time a milestone is achieved. The LTIP may
+therefore be categorised as a “value creation plan” or “VCP”,
+rather than a standard “long-term incentive plan” or “LTIP”,
+under which awards are granted over numbers of shares
+which are fixed at the time of grant, subject to achievement of
+certain performance conditions.
+•	The Company’s intention is that the LTIP will be put to
+shareholders for their approval at the Company’s first AGM
+after the Uplisting. It is intended to have a single operation,
+in that one round of awards will be granted immediately
+following the AGM and then the LTIP will close to new grants.
+The Company would then need to seek further shareholder
+approval to grant equity based incentive awards in the future.
+Given the context of the Uplisting, the Company has taken
+into account features which are considered market standard
+for a VCP operated by a company listed on the Main Market.
+In particular, the Company has considered the commentary
+on VCPs on pages 12 and 13 of the Investment Association’s
+Principles of Remuneration and the “Remuneration” section of
+the UK Corporate Governance Code (“UKCGC”).
+The milestones and equity grants are as follows:
+Andrew Webley
+Market
+Capitalisation
+
+The contracts have no ﬁxed duration.
+
+Non-Executive Director
+
+•	If all milestones are achieved, Andrew Webley will receive
+options over shares equal to 1.2% of the Company and
+Albert Soleiman will receive options over shares equal to 0.5%
+of the Company.
+
+Performance
+Award
+
+Share price
+
+Performance
+Award
+
+£2.5 billion
+
+0.06%
+
+£5
+
+0.06%
+
+0.12%
+
+£5 billion
+
+0.06%
+
+£7
+
+0.06%
+
+0.12%
+
+Total
+
+Notice period
+
+£10 billion
+
+0.06%
+
+£10
+
+0.06%
+
+0.12%
+
+24 April 2025
+
+3 months
+
+£20 billion
+
+0.06%
+
+£13
+
+0.06%
+
+0.12%
+
+1 October 2025
+
+3 months
+
+£40 billion
+
+0.06%
+
+£17
+
+0.06%
+
+0.12%
+
+24 April 2025
+
+3 months
+
+£80 billion
+
+0.06%
+
+£21
+
+0.06%
+
+0.12%
+
+8 January 2026
+
+3 months
+
+£100 billion
+
+0.06%
+
+£25
+
+0.06%
+
+0.12%
+
+Proposed Long Term Incentive Plan
+
+£130 billion
+
+0.06%
+
+£30
+
+0.06%
+
+0.12%
+
+£160 billion
+
+0.06%
+
+£35
+
+0.06%
+
+0.12%
+
+The Company is proposing to implement a Long Term Incentive
+Plan (“LTIP”) for its Executive Directors and key staff.
+
+£200 billion
+
+0.06%
+
+£40
+
+0.06%
+
+0.12%
+
+Total
+
+0.6%
+
+0.6%
+
+1.2%
+
+Martin Thomas
+
+The key features of the proposed plan for executive directors are
+as follows:
+•	The LTIP will deliver awards of shares to participants when
+certain market capitalisation and share price milestones are
+achieved. These are set out below for each Executive Director.
+
+
+Remuneration Committee Report continued
+
+Albert Soleiman
+Market
+Capitalisation
+
+The awards will time vest in thirds on the third, fourth and fifth
+anniversaries of the award date as follows:
+
+Performance
+Award
+
+Share price
+
+Performance
+Award
+
+Total
+
+£2.5 billion
+
+0.025%
+
+£5
+
+0.025%
+
+0.05%
+
+£5 billion
+
+0.025%
+
+£7
+
+0.025%
+
+0.05%
+
+£10 billion
+
+0.025%
+
+£10
+
+0.025%
+
+0.05%
+
+£20 billion
+
+0.025%
+
+£13
+
+0.025%
+
+0.05%
+
+• Conversion before 3rd anniversary of award date:
+- 1/3 vests on 3rd anniversary
+- 1/3 vests on 4th anniversary
+- 1/3 vests on 5th anniversary
+•	Conversion after 3rd anniversary of award date but before
+4th anniversary of award date:
+
+£40 billion
+
+0.025%
+
+£17
+
+0.025%
+
+0.05%
+
+£80 billion
+
+0.025%
+
+£21
+
+0.025%
+
+0.05%
+
+£100 billion
+
+0.025%
+
+£25
+
+0.025%
+
+0.05%
+
+- 1/3 vests immediately
+
+£130 billion
+
+0.025%
+
+£30
+
+0.025%
+
+0.05%
+
+- 1/3 vests on 4th anniversary
+- 1/3 vests on 5th anniversary
+
+£160 billion
+
+0.025%
+
+£35
+
+0.025%
+
+0.05%
+
+£200 billion
+
+0.025%
+
+£40
+
+0.025%
+
+0.05%
+
+Total
+
+0.25%
+
+0.25%
+
+0.5%
+
+•	Conversion after 4th anniversary of award date but before
+5th anniversary of award date:
+- 2/3 vests immediately
+
+Time based conditions
+
+- 1/3 vests on 5th anniversary
+
+The awards vest and may be converted to shares (“Conversion”)
+once the above milestones have been achieved and the time
+based conditions have been met. The time based conditions
+have been set so that awards do not vest and may not be
+converted for at least 3 years from the date of grant.
+
+• Conversion after 5th anniversary of award date:
+- Full vesting immediately
+
+Salary and Bonus outcomes for the year to October 2025 (auditable part of this report)
+Position
+
+Salary
+£
+
+Bonus
+£
+
+Pension
+£
+
+Other
+£
+
+Total
+£
+
+Andrew Webley
+
+CEO
+
+170,000
+
+245,000
+
+
+416,437
+
+Albert Soleiman*
+
+CFO
+
+50,000
+
+50,000
+
+
+Non-executive Chairman
+
+56,000
+
+Senior NED
+
+6,250
+
+6,250
+
+Tyler Evans
+
+NED
+
+27,000
+
+27,000
+
+Martin Thomas***
+
+NED
+
+-
+
+-
+
+Mario Visconti****
+
+CFO
+
+18,000
+
+Name
+
+Directors
+
+Sean Wade
+Randal Casson**
+
+100,183
+18,000
+
+
+13,000
+
+74,000
+
+31,367
+
+* Albert Soleiman joined the Board on 1 September 2025
+** Randal Casson joined the Board on 1 October 2025
+*** Martin Thomas joined the Board after the conclusion of the financial year
+**** Mario Visconti stepped down from the Board on 1 September 2025
+
+The amount of the bonus reflects performance during the year ended 31 October 2025. It excludes any bonus payments to be
+made in respect of the year ending 31 October 2026, which will be determined based on individual performance, overall company
+performance, and the successful uplisting of the Company to the Main Market.
+Randal Casson
+Chair of the Remuneration Committee
+19 February 2026
+
+
+Strategic report
+
+
+Directors’ report
+The Smarter Web Company PLC (the ‘Company’) – having
+changed its name from Uranium Energy Exploration PLC on
+25 April 2025 – is a public company incorporated in England
+and Wales (company number 00092343) with its registered
+address at 160 Aztec West, Almondsbury, Bristol, BS32 4TU,
+United Kingdom. The Company’s Legal Entity Identifier (LEI) is
+213800VQO9FUG4PZMP73.
+The Company’s website is at www.smarterwebcompany.co.uk.
+
+In addition to the listings listed above, on 11 June 2025 the
+Company’s Ordinary Shares approved to trade on the OTCQB
+Venture Market in the United States.
+
+Dividend
+The Directors do not propose a dividend (2024: £nil dividend) for
+the year.
+
+The Company is the sole shareholder of both Smarter Web
+Operations Limited and SWC Holdings Malta Limited and holds
+100 per cent. of the voting rights over each such subsidiary.
+
+As reported in the Company’s prospectus supporting its admission
+to the Main Market of the London Stock Exchange (16 January 2026
+– copy available from the Company’s website), the Directors have
+no intention to pay dividends for the foreseeable future, with excess
+profits expected to be applied to further growth of the business or
+held in treasury pursuant the Group’s Bitcoin Treasury Policy. The
+Company will review the dividend policy periodically, and any future
+payment of dividends will be subject to maintaining an appropriate
+level of dividend cover and the need to retain sufficient funds for
+reinvestment in the business, to finance any capital expenditure and
+for other working capital purposes. The Group does not currently
+have distributable reserves to pay dividends and there is no certainty
+that the Group will ever pay a dividend.
+
+Management report
+
+Directors
+
+For the purpose of DTR 4.1.8 R:
+
+The names and biographical details of the Directors as at the date
+of this Annual Report are given on pages 20 to 21.
+
+The Group comprises three companies as set out below:
+1) the Company was incorporated in England on 1 March 1907;
+2)	The Smarter Web Operations Limited was incorporated in
+England and Wales on 30 December 2009 with company
+number 07113945; and
+3)	SWC Holdings Malta Limited was incorporated in Malta on
+20 October 2025 with company number C 113537.
+
+Review of the Company’s business
+
+pp. 10 to 12
+
+Description of principal risks and uncertainties facing
+the Company
+
+pp. 16
+
+Corporate events and listings
+Date
+
+Event
+
+20 March 2025
+
+The Company adopted new Articles of Association by
+special resolution.1
+
+25 April 2025
+
+Company’s name changed from Uranium Energy
+Exploration PLC to The Smarter Web Company PLC
+by special resolution and the Company acquired
+the entire issued share capital of The Smarter Web
+Company Operations Limited.
+
+Directors serving during the year were:
+Sean Edward Wade1
+
+(Non-Executive Chairman)
+Appointed 4 August 2022
+
+Andrew Simon John Webley
+
+(Chief Executive Officer)
+Re-appointed 24 April 20252
+
+Albert Soleiman
+
+(Chief Financial Officer)
+Appointed 1 September 2025
+
+Tyler Matthew Evans1
+
+(Non-Executive Director)
+Appointed 27 January 2025
+
+Randal Casson1
+
+(Non-Executive Director)
+Appointed 1 October 2025
+
+Mario Visconti
+
+Appointed 24 March 2022,
+resigned 1 September 2025
+Appointed 24 October 2022,
+resigned 9 January 2025
+
+25 April 2025
+
+Admitted to the Aquis Stock Exchange Growth
+Market.2
+
+Alexander John Barblett
+
+11 June 2025
+
+The Company’s Ordinary shares approved to trade on
+the OTCQB Venture Market in the United States.
+
+1	Considered by the Board to be independent. Martin Thomas who was appointed
+on 8 January 2026 is also considered by the Board to be independent.
+
+3 February 2026
+
+Admitted to the commercial company category of the
+Main Market of the London Stock Exchange.
+
+1	Replacement Articles of Association were adopted at general meeting held on
+2 December 2025. A copy of the Company’s current Articles of Association is
+available at the Company’s website (Shareholders tab – Financial reports & circulars).
+2	At 08:00 on 3 February 2026, the Company’s Ordinary shares ceased trading on
+Aquis (AQSE) and joined the Main Market (commercial company category) of the
+London Stock Exchange (08:00 on 3 February 2026). A copy of the circular issued
+by the Company can be found on the Company’s website.
+
+
+First appointed as director on 10 January 2025 to 4 April 2025.
+
+Details of the Directors’ service contracts can be found on
+page 27, and all Directors will stand for re-election at the
+Company’s AGM.
+All directors standing for re-election at the AGM have a service
+contract in place.
+
+Director’s Report continued
+
+Disclosures of information – UKLR 6.6.4 R
+Requirement:
+
+Location:
+
+Statement of the amount of interest capitalised by
+None.
+the Company (UKLR 6.6.1R (1))
+Information required by UKLR 6.2.23R
+(Publication of unaudited financial information)
+(UKLR 6.6.1R(2))
+
+None.
+
+Long-term incentive schemes as required by
+UKLR 9.3.3R (UKLR 6.6.1R(3))
+
+Details can be found
+on pages 27 to 28
+of the Directors’
+remuneration report.
+
+Arrangements under which a director of the
+company has waived or agreed to waive any
+emoluments from the company or any subsidiary
+undertaking (UKLR 6.6.1R(4))
+
+None.
+
+Where a director has agreed to waive future
+emoluments (UKLR 6.6.1R(5))
+
+None.
+
+Allotment for cash of equity securities made
+during the year (UKLR 6.6.1R(6))
+
+Note 20.
+
+Allotment for cash of equity securities made
+during the year – unlisted major subsidiary of the None.
+Company (UKLR 6.6.1R(7))
+Details of any contract of significance subsisting
+during the year (UKLR 6.6.1R(9))
+
+None except for
+Andrew Webley’s
+service contract.
+
+Details of any contract for the provision of
+services to the Company or any of its subsidiary
+undertakings by a controlling shareholder
+(UKLR 6.6.1R(10))
+
+None.
+
+Details of any arrangement under which a
+shareholder has waived or agreed to waive any
+dividends (UKLR 6.6.1R(11))
+
+Not applicable.
+
+Where a shareholder has agreed to waive future
+dividends, details of such waiver, together with
+those relating to dividends which are payable
+during the year (UKLR 6.6.1R(12))
+
+Not applicable.
+
+Statement of compliance regarding UKLR 6.2.3R
+– controlling shareholder (UKLR 6.6.1R(13))
+
+Not applicable.
+
+Substantial shareholding
+The Company has been notified under DTR 5 of the following
+interests of 3% or more in the issued share capital of the
+Company as at 31 October 2025 and at 13 February 2026, the
+latest practicable date prior to the publication of this report.
+As at 31 October 2025
+Number % holding of
+of £0.001 issued share
+Ordinary capital of the
+Company
+shares1
+
+As at 13 February 2026
+Number % holding of
+of £0.001 issued share
+Ordinary capital of the
+Company
+shares2
+
+210k Capital L.P.3
+
+39,000,000
+
+12.99
+
+39,000,000
+
+11.14
+
+Andrew Webley &
+family (including
+those held by
+Joanna Webley)
+
+27,418,732
+
+9.13
+
+27,418,732
+
+7.83
+
+1	The allotted share capital of the Company was 300,237,093 Ordinary shares of
+£0.001 each and 7,050,000 Deferred shares of £0.049 each. Ordinary shares
+in the capital of the Company with a nominal value of £0.001 each with ISIN
+GB00BPJHZ015 and SEDOL of BPJHZ015.
+2	The allotted share capital of the Company is 350,237,093 Ordinary shares of £0.001
+each and 7,050,000 Deferred shares of £0.049 each.
+3	210k Capital is a fund managed by UTXO Management GP, LLC. Tyler Evans, a
+Non‑Executive Director of the Company, is a co-founder and Chief Investment Officer
+of UTXO Management GP, LLC and a limited partner of 210k Capital. Tyler Evans
+holds a 3.51 per cent. limited partner interest in 210k Capital.
+
+Directors and employees
+Since 3 February 2026, the Company was admitted to the
+commercial company category of the London Stock Exchange
+and in compliance with UKLR 6.6.6 R(9) makes the following
+diversity report as at 13 February 2026:
+
+No of board Percentage
+members of the board
+
+Number
+of senior
+positions on
+the board
+Number in Percentage
+(CEO, CFO,
+executive of executive
+SID and
+chair) management management
+
+Men
+
+
+80%
+
+Women
+
+
+20%
+
+Not specified/
+prefer not to say
+
+
+100%
+
+Mixed/Multiple
+ethnic groups
+
+
+ETHNICITY
+White British
+or other White
+(including minority
+– white groups)
+
+
+Asian/Asian British
+
+
+Black/African/
+Caribbean/Black
+British
+
+
+Other ethnic group
+
+
+Not specified/
+prefer not to say
+
+
+Strategic report
+
+
+Director’s Report continued
+
+The data set out in the table above was collected by consulting
+the Company’s Directors and employees.
+
+Financial instruments
+
+As no director is a woman, the Company has not met the target
+of 40% of board members who are women; nor is a director
+from a minority ethnic background. The Company makes
+appointments to the board and to executive management based
+on relevant experience and skills and on merit.
+
+TCFD-related matters
+
+Attendance by Directors at Board and
+Committee meetings in year-ended
+31 October 2025
+Board
+Total meetings
+
+
+Sean Wade
+
+
+Andrew Webley1
+
+
+Albert Soleiman2
+
+
+Tyler Evans3
+
+
+Randal Casson
+
+Audit Remuneration
+
+
+Mario Visconti5
+Alexander Barblett
+
+
+1	Appointed as director between 10 January 2025 and 4 April 2025 and from
+24 April 2025
+
+Appointed as director on 1 September 2025
+
+
+Appointed as director on 27 January 2025
+
+
+Appointed as director on 1 October 2025
+
+
+Resigned as director on 1 September 2025
+
+
+Resigned as director on 9 January 2025
+
+For year-ended 31 October 2025, the Company did not form a
+Nominations Committee. Nominations were considered by the
+Board. With the Company joining the Main Market of the London
+Stock Exchange as a commercial company and its adoption of
+the UK Corporate Governance Code from 3 February 2026, the
+Company now has the following Board Committees:
+
+Risks associated with the use of financial instruments by the
+Company are reported in Note 26 to the Financial Statements.
+
+During year ended 31 October 2025 the Company was an
+unquoted company and did not meet the requirements to
+report greenhouse emissions or energy consumption under The
+Large and Medium-sized Companies and Group (Accounts and
+Reports) Regulations 2008.
+After the year being reported, on 3 February 2026, the
+Company’s securities - Ordinary Shares of GBP0.001 each; fully
+paid (ISIN: GB00BPJHZ015) – were admitted to the Official List
+at which time the Company became a quoted company. The
+Company has 11 employees and no physical office. The nature
+of the Company’s operations require it to operate standard
+office equipment only. Additionally, many staff work from home.
+Consequently, the Company has a small carbon footprint and
+does not consume over 40,000 kWh and accordingly energy
+consumption and energy efficiency disclosures have not been
+provided in this report.
+As a consequence of the small carbon footprint of the Company
+and that the Company has become subject to the UK Listing
+Rules reporting regime since 3 February 2026 when it became
+a commercial company admitted to the Main Market of the
+London Stock Exchange the Company has not included in this
+report financial related disclosures consistent with the TCFD
+Recommended Disclosure.
+
+Corporate governance statements
+
+• Audit and Risk Committee
+
+From 25 April 2025 to 2 February 2026, the Company adopted
+the QCA Code of Governance (details of the Code are available
+from https://www.theqca.com/qca-corporate-governancecode-public/), and after the year being reported, upon joining
+the Main Market of the London Stock Exchange (commercial
+company) on 3 February 2026, the Company adopted the UK
+Corporate Governance Code (available from https://www.frc.
+org.uk/library/standards-codes-policy/corporate-governance/ukcorporate-governance-code/).
+
+The details and membership of these Committees can be found
+on the Company’s website (under Shareholders > Corporate
+governance).
+
+The Board is responsible for leading and controlling the Group
+and has overall authority for the management and conduct of
+the Group’s business and its strategy and development.
+
+Political donations and expenditure
+
+The Board is committed to the highest standards of corporate
+governance.
+
+• Disclosure Committee
+• Nomination Committee
+• Remuneration Committee
+
+During the year, there were no political donations made by the
+Company nor did it incur any political expenditure (2024: £nil).
+
+Other than as noted below, following Admission to the Main
+Market of the London Stock Exchange on 3 February 2026,
+
+
+Director’s Report continued
+
+the Group will comply, and intends to continue to comply, with
+the relevant principles and provisions of the UK Corporate
+Governance Code.
+The Company will report to its Shareholders on its compliance
+with the UK Corporate Governance Code in accordance with
+the UK Listing Rules.
+As envisaged by the UK Corporate Governance Code, the
+Board has established three committees: an Audit and Risk
+Committee, a Remuneration Committee and a Nomination
+Committee. The Board has also established a Disclosure
+Committee. If the need should arise, the Board may establish
+additional committees as appropriate.
+The UK Corporate Governance Code recommends that at least
+half the board of directors of a UK listed company (excluding the
+Chair) should comprise “independent” non-executive directors.
+On Admission, the majority of the Board will comprise NonExecutive Directors, with half of the Board, comprising Randal
+Casson, Martin Thomas and Sean Wade, regarded by the
+Company as independent Non-Executive Directors within the
+meaning of the UK Corporate Governance Code and free from
+any business or other relationship that could materially interfere
+with the exercise of their independent judgement.
+Whilst it is noted that Sean previously served as an executive
+director of Uranium Energy Exploration plc (the Company’s
+former name prior to the reverse takeover on 24 April 2025),
+since that transaction Sean has not held any executive or
+operational role within the Company. Furthermore, the Board
+considers Sean’s shareholding to be at a level that does not
+compromise his independence; therefore, the Board regards
+Sean as independent.
+Accordingly, whilst the Company does not currently comply with
+the recommendation that more than half of the Board (excluding
+the Chair) are independent Non-Executive Directors, the
+balance of the Board is deemed to be appropriate to provide
+adequate corporate governance at this stage in the Company’s
+development. It is, however, noted that the Company intends to
+comply with this requirement of the UK Corporate Governance
+Code and accordingly will actively seek to appoint a further
+independent Non-Executive Director in due course subject to
+identifying appropriate candidates. If the Company has not
+appointed more independent Non-Executive Directors when
+it publishes its next annual report it will make appropriate
+disclosures and explanations regarding the composition of the
+Company’s Board.
+The UK Corporate Governance Code recommends that the
+Board should appoint one of its independent Non-Executive
+Directors to be the senior independent director (SID) to provide
+a sounding board for the Chair and to serve as an intermediary
+
+for the other Directors when necessary. The SID should be
+available to shareholders if concerns remain unresolved after
+contacting the Chair or the executive directors through the
+normal channels, or where such channel of communication is
+inappropriate. The Company’s SID is Randal Casson.
+The UK Corporate Governance Code further recommends
+that a workforce engagement director is appointed; being
+an individual that understands the Group’s and other key
+stakeholders’ views to be taken into consideration in Board
+discussions and decision-making. The Company’s workforce
+engagement director is Randal Casson.
+The UK Corporate Governance Code further recommends that
+directors should be subject to annual re-election. The Company
+intends to comply with this recommendation.
+In the future, the Company may seek to incentivise its NonExecutive Directors through the issue of share options, including
+through the Discretionary Share Plans, provided that this does
+not compromise the independence of its independent NonExecutive Directors.
+The UK Corporate Governance Code recommends that the
+pension contribution rates for executive directors should be aligned
+with those available to the workforce. At present the executive
+directors of the Company are entitled to maximum employer
+pension contributions of 5 per cent. of qualifying earnings, and
+non-board employees are entitled to maximum employer pension
+contributions of 3 per cent. of qualifying earnings.
+
+Share dealing
+The Group has adopted, with effect from Admission to the
+London Stock Exchange, a code of securities dealings in relation
+to the Ordinary shares and a policy with respect to entry into
+transactions with persons related to the Group which aids
+compliance with the UK Market Abuse Regulation and will apply
+to the Directors and other relevant employees of the Group.
+
+Post balance sheet events
+For a summary of post balance sheet events, see Note 30 to the
+Financial Statements.
+
+Statement as to disclosure to auditors
+The Directors who were in office on the date of approval of
+these financial statements have confirmed that, as far as they
+are aware, there is no relevant audit information of which
+the Auditor is unaware. The Directors have each confirmed
+that they have taken all the steps that they ought to have
+taken as Directors in order to make themselves aware of any
+relevant audit information and to establish that it has been
+communicated to the Auditor.
+
+Strategic report
+
+
+Director’s Report continued
+
+Auditor appointment
+A resolution to reappoint PKF Littlejohn LLP as Auditor will be
+proposed at the Company’s forthcoming AGM.
+
+Statement of Directors’ responsibilities in
+respect of the Directors’ Report and the
+Financial Statements
+Statement of Directors’ responsibilities
+The Directors are responsible for preparing the Annual Report
+and the Group and Parent Company financial statements in
+accordance with applicable law and regulations.
+Company law requires the Directors to prepare Group and Parent
+Company financial statements for each financial year. Under that
+law, they are required to prepare the Group financial statements in
+accordance with UK-adopted international accounting standards
+and applicable law and have elected to prepare the Parent
+Company financial statements on the same basis.
+Under Company law, the Directors must not approve the
+financial statements unless they are satisfied that they give a
+true and fair view of the state of affairs of the Group and Parent
+Company and of the Group’s profit or loss for that period. In
+preparing each of the Group and Parent Company financial
+statements, the Directors are required to:
+•	Select suitable accounting policies and then apply them
+consistently;
+•	Make judgements and estimates that are reasonable, relevant,
+reliable and prudent;
+•	State whether they have been prepared in accordance with
+applicable accounting standards in conformity with the
+requirements of the Companies Act 2006;
+•	Assess the Group and Parent Company’s ability to continue
+as a going concern, disclosing, as applicable, matters related
+to going concern; and
+•	Use the going concern basis of accounting unless they either
+intend to liquidate the Group or the Parent Company or to
+cease operations, or have no realistic alternative but to do so.
+The Directors are responsible for keeping adequate accounting
+records that are sufficient to show and explain the Company’s
+transactions and disclose with reasonable accuracy, at any
+time, the financial position of the Company and enable
+them to ensure that its financial statements comply with
+the Companies Act 2006. They are responsible for such
+internal control as they determine is necessary to enable the
+preparation of financial statements that are free from material
+misstatement, whether due to fraud or error, and have general
+responsibility for taking such steps as are reasonably open to
+
+them to safeguard the assets of the Group and to prevent and
+detect fraud and other irregularities.
+Under applicable law and regulations, the Directors are also
+responsible for preparing a Strategic Report, Directors’ Report,
+Directors’ Remuneration Report and Corporate Governance
+Statement that comply with that law and those regulations. The
+Directors are responsible for the maintenance and integrity
+of the corporate and financial information included on the
+Company’s website.
+
+Responsibility statement of the Directors in respect
+of the Annual Financial Report
+Each of the Directors, whose names and functions are set out
+on pages 20 to 22 of this Annual Report, confirm that, to the
+best of their knowledge:
+•	The financial statements, prepared in accordance with the
+applicable set of accounting standards, give a true and fair
+view of the assets, liabilities, financial position and profit or
+loss of the Company and the undertakings included in the
+consolidation taken as a whole; and
+•	The Strategic Report/Directors’ Report include a fair review of
+the development and performance of the business and the
+position of the issuer and the undertakings included in the
+consolidation taken as a whole, together with a description of
+the principal risks and uncertainties that they face.
+The Directors consider the Annual Report and Accounts, taken
+as a whole, is fair, balanced and understandable and provides
+the information necessary for Shareholders to assess the
+Company’s position and performance, business model and
+strategy.
+
+Adopting the going concern statement
+(UKLR 6.6.6 R(3))
+The Directors have prepared the financial accounts of the
+Company on the basis that it is a going concern. The going
+concern statement is on page 44.
+Signed on behalf of the Board by
+
+Sean Wade
+Non-Executive Chairman
+Date: 19 February 2026
+
+
+Financial
+statements
+In this section
+Independent auditor’s report
+Consolidated statement of total comprehensive income
+Consolidated statement of financial position
+Consolidated statement of changes in equity
+Consolidated statement of cash flow
+Notes to the consolidated financial statements
+Notes to the parent company financial statements
+IBC Directors, Company Secretary, Registered Office and Advisers
+
+
+Strategic report
+
+
+Independent
+auditor’s report
+Opinion
+
+Conclusions relating to going concern
+
+We have audited the financial statements of The Smarter Web
+Company PLC (the ‘parent company’) and its subsidiaries (the
+‘group’) for the year ended 31 October 2025 which comprise
+the Consolidated Statement of Comprehensive Income, the
+Consolidated and parent Company Statements of Financial
+Position, the Consolidated and parent Company Statements of
+Changes in Equity, the Consolidated Statement of Cash Flows
+and notes to the financial statements, including significant
+accounting policies. The financial reporting framework that has
+been applied in the preparation of the group financial statements
+is applicable law and UK-adopted international accounting
+standards and as regards the parent company financial
+statements, as applied in accordance with the provisions of the
+Companies Act 2006. The financial reporting framework that has
+been applied in the preparation of the parent company financial
+statements is applicable law and United Kingdom Accounting
+Standards, including FRS 101 Reduced Disclosure Framework.
+
+In auditing the financial statements, we have concluded that
+the directors’ use of the going concern basis of accounting in
+the preparation of the financial statements is appropriate. Our
+evaluation of the directors’ assessment of the group’s and parent
+company’s ability to continue to adopt the going concern basis
+of accounting included:
+
+In our opinion:
+•	the financial statements give a true and fair view of the state
+of the group’s and of the parent company’s affairs as at
+31 October 2025 and of the group’s profit for the year then
+ended;
+•	the group financial statements have been properly prepared
+in accordance with UK-adopted international accounting
+standards;
+•	the parent company financial statements have been properly
+prepared in accordance with United Kingdom Generally
+Accepted Accounting Practice; and
+•	the financial statements have been prepared in accordance
+with the requirements of the Companies Act 2006.
+
+•	Reviewing the directors’ assessment of going concern and
+disclosures within the financial statements;
+•	Determining if all relevant information has been included in
+the assessment of going concern, including considering the
+completeness of forecast expenditure;
+•	Analysing the forecasts up to 30 June 2026 and reviewing
+the key underlying assumptions in relation to expenditure and
+checking the mathematical accuracy of management’s going
+concern model;
+•	Challenging management over the key underlying
+assumptions and inputs;
+• Performed a sensitivity analysis on assumptions used; and
+•	Inspecting the bank balances up to the date of approval of
+the financial statements.
+Based on the work we have performed, we have not identified
+any material uncertainties relating to events or conditions that,
+individually or collectively, may cast significant doubt on the
+group’s or parent company’s ability to continue as a going
+concern for a period of at least twelve months from when the
+financial statements are authorised for issue.
+Our responsibilities and the responsibilities of the directors with
+respect to going concern are described in the relevant sections
+of this report.
+
+Basis for opinion
+We conducted our audit in accordance with International
+Standards on Auditing (UK) (ISAs (UK)) and applicable law. Our
+responsibilities under those standards are further described
+in the Auditor’s responsibilities for the audit of the financial
+statements section of our report. We are independent of the
+group and parent company in accordance with the ethical
+requirements that are relevant to our audit of the financial
+statements in the UK, including the FRC’s Ethical Standard as
+applied to listed entities, and we have fulfilled our other ethical
+responsibilities in accordance with these requirements. We
+believe that the audit evidence we have obtained is sufficient
+and appropriate to provide a basis for our opinion.
+
+
+Independent auditor’s report continued
+
+Our application of materiality
+Materiality is an expression of the relative significance of a particular matter in the context of the financial statements as a whole.
+An item, either individually or in aggregate, is considered material if omitting it or misstating it could reasonably be expected to
+influence decisions that users make on the basis of an entity’s financial statements. Materiality has both quantitative and qualitative
+characteristics. It depends on the size or nature of the item or error judged in the particular circumstances of its omission
+or misstatement.
+
+Entity
+
+Overall materiality
+
+Performance
+materiality
+
+Triviality
+
+Basis for materiality
+
+Consolidated
+financial
+statements
+
+£2,100,000
+
+£1,450,000
+
+£105,000
+
+Group materiality based on 1% of net assets. We set this
+benchmark because users’ focus at present is on the valuation
+of its bitcoin treasury whilst the group seeks to expand its
+primary operations, net assets is therefore the most relevant
+benchmark, and 1% provides an appropriately conservative
+threshold given cryptocurrency price volatility.
+We have applied performance materiality at 70% of overall
+materiality, reflecting the client’s low-risk profile while
+accommodating the incremental risk associated with the
+first‑year audit and operating environment.
+
+The Smarter Web £1,967,000
+Company Plc
+
+£1,377,000
+
+£104,000
+
+Permitted percentage of group performance materiality.
+
+We also determine a level of performance materiality which we use to assess the extent of testing needed to reduce the risk that the
+aggregated uncorrected and undetected misstatements exceeds materiality for the financial statements as a whole to an acceptably
+low level. Performance materiality was set at being 70% of materiality for the financial statements as a whole. The performance
+materiality threshold was considered to be sufficient to provide coverage of significant and residual risks to the balances within the
+financial statements representing risk areas and those that require management judgements and estimates.
+We applied the concept of materiality both in planning and performing our audit, and in evaluating the impact of misstatements.
+
+Our approach to the audit
+In designing our audit approach, we determined materiality and assessed risk of material misstatement in the financial statements.
+In particular, we looked at areas involving significant accounting estimates and judgements by the directors, including the valuation
+of cryptocurrency assets and classification and valuation of convertible loan notes. For the most significant assessed risks of
+misstatement, the procedures performed are outlined below in the key audit matters section of this report. We re-assessed the risks
+throughout the audit process and concluded that the scope remained in line with that determined at the planning stage of the audit,
+with The Smarter Web Company PLC being the only material component.
+
+
+Strategic report
+
+
+Independent auditor’s report continued
+
+Key audit matters
+Key audit matters are those matters that, in our professional judgment, were of most significance in our audit of the financial
+statements of the current period and include the most significant assessed risks of material misstatement (whether or not due to
+fraud) we identified, including those which had the greatest effect on: the overall audit strategy, the allocation of resources in the
+audit; and directing the efforts of the engagement team. These matters were addressed in the context of our audit of the financial
+statements as a whole, and in forming our opinion thereon, and we do not provide a separate opinion on these matters.
+Key Audit Matter
+
+How our scope addressed this matter
+
+Recognition and valuation of cryptocurrency assets (Note 14)
+At the year end, the Group holds £220m
+worth of Bitcoin across multiple wallets
+and platforms. This creates heightened risk
+around existence, rights and obligations,
+and valuation. The decentralised nature of
+cryptocurrency, combined with the use of
+multiple wallets and exchanges, increases
+the risk of misappropriation, loss of access,
+or misstatement. Additionally, Bitcoin’s price
+volatility poses a significant risk to accurate
+valuation at the reporting date.
+
+Our procedures included:
+•	Confirming good title to and quantities of the crypto assets within the Group’s wallets and obtain
+direct confirmation from the custodian;
+•	Review and testing underlying agreements giving rise to the receipt of crypto assets;
+•	Agreeing the fair values of the crypto assets at the and year-end date and reperforming valuation
+against alternative sources;
+•	Discussing with management the strategy for the holding of digital assets and reviewing the
+relevant accounting treatment applied; and
+•	Substantively testing transfers of cryptocurrency assets between wallets on different platforms.
+
+Recognition and valuation of the Group’s
+Based on the procedures performed, no misstatements were identified, and we conclude that the
+cryptocurrency assets (Note 14) was a key
+Group’s Bitcoin holdings existed, were under the Group’s control, and were appropriately valued at
+audit matter due to the material magnitude
+the reporting date.
+of the £220m Bitcoin balance, the
+decentralised custody across multiple wallets
+and platforms, and the high price volatility
+at the reporting date, which increased the
+risk of misstatement in existence, rights and
+valuation and required significant auditor
+judgement and effort.
+
+Other information
+The other information comprises the information included in the annual report, other than the financial statements and our auditor’s
+report thereon. The directors are responsible for the other information contained within the annual report. Our opinion on the group
+and parent company financial statements does not cover the other information and, except to the extent otherwise explicitly stated
+in our report, we do not express any form of assurance conclusion thereon. Our responsibility is to read the other information and, in
+doing so, consider whether the other information is materially inconsistent with the financial statements or our knowledge obtained
+in the course of the audit, or otherwise appears to be materially misstated. If we identify such material inconsistencies or apparent
+material misstatements, we are required to determine whether this gives rise to a material misstatement in the financial statements
+themselves. If, based on the work we have performed, we conclude that there is a material misstatement of this other information, we
+are required to report that fact.
+We have nothing to report in this regard.
+
+
+Independent auditor’s report continued
+
+Opinions on other matters prescribed by
+the Companies Act 2006
+
+Auditor’s responsibilities for the audit of
+the financial statements
+
+In our opinion, based on the work undertaken in the course of
+the audit:
+
+Our objectives are to obtain reasonable assurance about
+whether the financial statements as a whole are free from
+material misstatement, whether due to fraud or error, and to
+issue an auditor’s report that includes our opinion. Reasonable
+assurance is a high level of assurance but is not a guarantee
+that an audit conducted in accordance with ISAs (UK) will always
+detect a material misstatement when it exists. Misstatements
+can arise from fraud or error and are considered material if,
+individually or in the aggregate, they could reasonably be
+expected to influence the economic decisions of users taken on
+the basis of these financial statements.
+
+•	the information given in the strategic report and the directors’
+report for the financial year for which the financial statements
+are prepared is consistent with the financial statements; and
+• the strategic report and the directors’ report have been
+prepared in accordance with applicable legal requirements.
+
+Matters on which we are required to
+report by exception
+In the light of the knowledge and understanding of the group
+and the parent company and their environment obtained
+in the course of the audit, we have not identified material
+misstatements in the strategic report or the directors’ report.
+We have nothing to report in respect of the following matters in
+relation to which the Companies Act 2006 requires us to report
+to you if, in our opinion:
+•	adequate accounting records have not been kept by the
+parent company, or returns adequate for our audit have not
+been received from branches not visited by us; or
+•	the parent company financial statements are not in
+agreement with the accounting records and returns; or
+•	certain disclosures of directors’ remuneration specified by law
+are not made; or
+•	we have not received all the information and explanations we
+require for our audit.
+
+Responsibilities of directors
+As explained more fully in the directors’ responsibilities
+statement, the directors are responsible for the preparation
+of the group and parent company financial statements and
+for being satisfied that they give a true and fair view, and for
+such internal control as the directors determine is necessary to
+enable the preparation of financial statements that are free from
+material misstatement, whether due to fraud or error.
+In preparing the group and parent company financial
+statements, the directors are responsible for assessing the
+group’s and the parent company’s ability to continue as a going
+concern, disclosing, as applicable, matters related to going
+concern and using the going concern basis of accounting
+unless the directors either intend to liquidate the group or the
+parent company or to cease operations, or have no realistic
+alternative but to do so.
+
+
+Irregularities, including fraud, are instances of non-compliance
+with laws and regulations. We design procedures in line with our
+responsibilities, outlined above, to detect material misstatements
+in respect of irregularities, including fraud. The extent to which
+our procedures are capable of detecting irregularities, including
+fraud is detailed below:
+•	We obtained an understanding of the group and the sector
+in which it operates to identify laws and regulations that
+could reasonably be expected to have a direct effect on
+the financial statements. We obtained our understanding in
+this regard through discussions with management, industry
+research and application of cumulative audit knowledge.
+•	We determined the principal laws and regulations relevant to
+the group in this regard to be those arising from:
+o
+
+	Quoted Companies Alliance Corporate Governance Code
+(QCA Code)
+
+o
+
+	Aquis Stock Exchange (AQSE) Rules
+
+o
+
+	UK Companies Act 2006
+
+o
+
+	Financial Conduct Authority (FCA)
+
+o
+
+	Market Abuse Regulation (MAR)
+
+o
+
+	UK General Data Protection Regulation (UK GDPR)
+
+o
+
+	Data Protection Act 2018
+
+o
+
+	Consumer Rights Act 2015
+
+o
+
+	Electronic Commerce (EC Directive) Regulations 2002,
+Money laundering & Fraud
+
+o
+
+	FCA Crypto Asset Oversight
+
+o
+
+	HMRC Crypto Asset Tax Guidance
+
+Strategic report
+
+
+Independent auditor’s report continued
+
+• We designed our audit procedures to ensure the audit
+team considered whether there were any indications of
+non‑compliance by the group with those laws and regulations.
+These procedures included, but were not limited to:
+o
+
+	Making enquiries of management;
+
+o
+
+	Review of board minutes with governance and Regulatory
+News Service announcements; and
+
+o
+
+	Review of legal and professional fees and understanding
+the nature of the costs and the existence of any
+non‑compliance with laws and regulations.
+
+•	We also identified the risks of material misstatement of the
+financial statements due to fraud. We considered, in addition
+to the non-rebuttable presumption of a risk of fraud arising
+from management override of controls, that there were no
+other significant fraud risks.
+•	As in all of our audits, we addressed the risk of fraud arising
+from management override of controls by performing audit
+procedures which included, but were not limited to: the
+testing of journals; reviewing accounting estimates for
+evidence of bias; and evaluating the business rationale of any
+significant transactions that are unusual or outside the normal
+course of business.
+
+Use of our report
+This report is made solely to the company’s members, as
+a body, in accordance with Chapter 3 of Part 16 of the
+Companies Act 2006. Our audit work has been undertaken so
+that we might state to the company’s members those matters
+we are required to state to them in an auditor’s report and for
+no other purpose. To the fullest extent permitted by law, we do
+not accept or assume responsibility to anyone, other than the
+company and the company’s members as a body, for our audit
+work, for this report, or for the opinions we have formed.
+
+Nicholas Joel (Senior Statutory Auditor) 15 Westferry Circus
+For and on behalf of PKF Littlejohn LLP
+Canary Wharf
+Statutory Auditor
+London E14 4HD
+19 February 2026
+
+Because of the inherent limitations of an audit, there is a
+risk that we will not detect all irregularities, including those
+leading to a material misstatement in the financial statements
+or non‑compliance with regulation. This risk increases the
+more that compliance with a law or regulation is removed
+from the events and transactions reflected in the financial
+statements, as we will be less likely to become aware of
+instances of non-compliance. The risk is also greater regarding
+irregularities occurring due to fraud rather than error, as fraud
+involves intentional concealment, forgery, collusion, omission
+or misrepresentation.
+A further description of our responsibilities for the audit of
+the financial statements is located on the Financial Reporting
+Council’s website at: www.frc.org.uk/auditorsresponsibilities. This
+description forms part of our auditor’s report.
+
+
+Consolidated statement
+of total comprehensive income
+for the year ended 31 October 2025
+
+Notes
+
+31 October
+
+31 October
+
+2025
+
+2024
+
+£
+
+£
+
+70,029
+
+-
+
+(9,236)
+
+-
+
+Continuing operations
+Revenue
+
+
+Cost of sales
+Gross profit
+Administrative expenses
+
+60,793
+
+-
+
+(1,838,685)
+
+(504,701)
+
+Operating loss
+
+
+(1,777,892)
+
+(504,701)
+
+Other income
+
+
+660,260
+
+-
+
+Other gains and losses
+
+
+4,308,224
+
+-
+
+Finance costs
+
+
+Profit / (loss) before taxation
+Tax expense
+
+
+Total comprehensive income / (loss) for the year attributable to owners
+of the parent
+
+(354,744)
+
+-
+
+2,835,848
+
+(504,701)
+
+(1,211,307)
+
+-
+
+1,624,541
+
+(504,701)
+
+Earnings per share from continuing operations attributable to owners of the parent:
+Basic earnings/(loss) per share (pence)
+
+
+1.24
+
+(7.16)
+
+Diluted loss per share (pence)
+
+
+(1.52)
+
+(7.16)
+
+The notes of page 44 to 63 form part of these financial statements.
+
+
+Strategic report
+
+
+Consolidated statement
+of financial position
+As at 31 October 2025
+
+Notes
+
+31 October
+
+31 October
+
+2025
+
+2024
+
+£
+
+£
+
+-
+
+Assets
+Non-current assets
+Financial assets
+
+
+1,649
+
+Cryptocurrency
+
+
+220,003,460
+
+-
+
+Intangible assets
+
+
+1,031,501
+
+-
+
+Property, plant and equipment
+
+
+16,206
+
+-
+
+Right of use assets
+
+
+18,199
+
+-
+
+221,071,015
+
+-
+
+466,259
+
+2,200
+
+Total non-current assets
+Current assets
+Trade and other receivables
+
+
+Cash and cash equivalents
+
+
+Total current assets
+Total assets
+
+1,503,118
+
+109,252
+
+1,969,377
+
+111,452
+
+223,040,392
+
+111,452
+
+Liabilities
+Current liabilities
+Trade and other payables
+
+
+375,087
+
+27,440
+
+Borrowings
+
+
+10,957,578
+
+1,005,396
+
+Lease liabilities
+
+
+Total current liabilities
+
+30,112
+
+-
+
+11,362,777
+
+1,032,836
+
+Non-current liabilities
+Lease liabilities
+
+
+7,523
+
+-
+
+Deferred tax liabilities
+
+
+1,290,740
+
+-
+
+Total non-current liabilities
+
+1,298,263
+
+-
+
+Total liabilities
+
+12,661,040
+
+1,032,836
+
+Net assets / (liabilities)
+
+210,379,352
+
+(921,384)
+
+EQUITY
+Share capital
+
+
+645,687
+
+352,500
+
+Share premium
+
+
+208,760,100
+
+1,515,032
+
+618,689
+
+-
+
+
+1,180,063
+
+-
+
+(825,187)
+
+(2,788,916)
+
+210,379,352
+
+(921,384)
+
+Merger relief reserve
+Warrant reserve
+Accumulated losses
+Total equity
+The notes of page 44 to 63 form part of these financial statements.
+
+The consolidated financial statements of The Smarter Web Company Plc, company registered number 00092343, were approved by the board, and
+authorised for issue on 19 February 2026 and signed on its behalf by:
+
+Albert Soleiman
+Chief Financial Officer
+
+
+Consolidated statement of changes
+in equity
+for the year ended 31 October 2025
+
+As at 31 October 2023
+Total comprehensive loss for the year
+At 31 October 2024
+Total comprehensive income for the year
+
+Share
+
+Share
+
+Merger
+
+Warrant
+
+Accumulated
+
+Total
+
+capital
+
+premium
+
+relief reserve
+
+reserve
+
+losses
+
+equity
+
+£
+
+£
+
+£
+
+£
+
+£
+
+£
+
+352,500
+
+1,515,032
+
+-
+
+-
+
+(2,284,215)
+
+(416,683)
+
+-
+
+-
+
+-
+
+-
+
+(504,701)
+
+(504,701)
+
+352,500
+
+1,515,032
+
+-
+
+-
+
+(2,788,916)
+
+(921,384)
+
+-
+
+-
+
+-
+
+-
+
+1,624,541
+
+1,624,541
+
+Transactions with owners in their capacity as owners:
+199,570
+
+212,390,172
+
+-
+
+-
+
+-
+
+212,589,742
+
+Issue costs
+
+Shares issued
+
+-
+
+(6,403,923)
+
+-
+
+833,306
+
+-
+
+(5,570,617)
+
+Share-based payments – advisor warrants
+
+-
+
+(30,095)
+
+-
+
+30,095
+
+-
+
+-
+
+Acquisition of subsidiary
+
+25,779
+
+-
+
+618,689
+
+316,662
+
+-
+
+961,130
+
+Conversion of convertible loan note
+
+67,838
+
+1,288,914
+
+-
+
+-
+
+339,188
+
+1,695,940
+
+Total transactions with owners
+
+293,187 207,245,068
+
+618,689
+
+1,180,063
+
+339,188
+
+209,676,195
+
+As at 31 October 2025
+
+645,687 208,760,100
+
+618,689
+
+1,180,063
+
+(825,187) 210,379,352
+
+
+Strategic report
+
+
+Consolidated statement of cash flow
+for the year ended 31 October 2025
+
+Notes
+
+31 October
+
+31 October
+
+2025
+
+2024
+
+£
+
+£
+
+2,835,848
+
+(504,701)
+
+Cash flows from operating activities
+Profit/(loss) before taxation
+Adjustments for:
+Depreciation of property, plant and equipment
+
+
+6,051
+
+-
+
+Amortisation of right of use assets
+
+
+7,798
+
+-
+
+Amortisation of intangible assets
+
+
+10,186
+
+-
+
+Loan write off
+
+
+(660,260)
+
+-
+
+Other gains and losses
+
+
+(4,308,224)
+
+-
+
+Finance costs
+
+
+339,188
+
+-
+
+Expenses settled in shares
+
+
+20,000
+
+-
+
+(1,749,413)
+
+(504,701)
+
+(191,374)
+
+12,741
+
+Operating cash flows before movements in working capital
+(Increase)/decrease in trade and other receivables
+Increase/(decrease) in trade and other payables
+Net cash used in operating activities
+
+313,233
+
+(72,699)
+
+(1,627,554)
+
+(564,659)
+
+Cash flows from investing activities
+Purchase of cryptocurrency
+
+
+(219,946,439)
+
+-
+
+Acquisition of subsidiary, net of cash acquired
+
+
+(77,701)
+
+-
+
+Loan advanced to subsidiary prior to acquisition
+
+
+(559,600)
+
+-
+
+Purchase of property, plant and equipment
+
+
+(10,899)
+
+-
+
+Proceeds from disposal of financial assets
+
+
+Net cash used in investing activities
+
+89,630
+
+-
+
+(220,505,009)
+
+-
+
+Cash flows from financing activities
+Proceeds from issue of share capital
+
+
+212,317,803
+
+-
+
+Issue costs
+
+
+(5,602,117)
+
+-
+
+Proceeds from borrowings
+
+
+16,989,203
+
+664,856
+
+Repayment of borrowings
+
+
+(173,853)
+
+-
+
+Lease principal paid
+
+
+Net cash generated from financing activities
+Net increase in cash and cash equivalents
+Cash and cash equivalents at beginning of year
+Cash and cash equivalents at end of year
+
+
+(4,607)
+
+-
+
+223,526,429
+
+664,856
+
+1,393,866
+
+100,197
+
+109,252
+
+9,055
+
+1,503,118
+
+109,252
+
+Significant non-cash transactions during the year relate to the Group’s borrowings detailed in note 24; the acquisition of subsidiary detailed in note 28;
+and the settlement of share issue costs detailed in note 20.
+The notes of page 44 to 63 form part of these financial statements.
+
+
+Notes to the consolidated financial
+statements
+For the year ended 31 October 2025
+
+1. General Information
+The Smarter Web Company Plc (the “Company”), formerly
+Uranium Energy Exploration Plc, is a public limited company
+incorporated and domiciled in England and Wales. The
+Company’s registered address is 160 Aztec West, Almondsbury,
+Bristol, United Kingdom, BS32 4TU.
+On 25 April 2025, the Company acquired the entire issued
+share capital of The Smarter Web Company Operations Limited
+(“SWC Ltd”) and listed on the Aquis Stock Exchange. Details
+of the acquisition are included in note 28. After the year end,
+the Company’s shares were admitted to trading on the London
+Stock Exchange.
+
+2. Material Accounting Policies
+(a) Basis of preparation of financial statements
+The consolidated financial statements have been prepared
+in accordance with UK-adopted International Accounting
+Standards (“IAS”) and the requirements of the Companies
+Act 2006. The consolidated financial statements have been
+prepared under the historical cost convention, except for
+revaluation of assets and liabilities recognised at fair value.
+The consolidated financial statements include the results of
+the Company and its subsidiaries (together the “Group”) and
+are presented in Pound Sterling, which is the presentational
+currency.
+The preparation of consolidated financial statements in
+conformity with IAS requires the use of certain critical
+accounting estimates. It also requires Directors to exercise their
+judgement in the process of applying the Group’s accounting
+policies. The areas involving a higher degree of judgement
+or complexity, or areas where assumptions and estimates are
+significant to the consolidated financial statements are disclosed
+in note 3.
+Going concern
+As at 31 October 2025 the Group had a cash balance of
+£1,503,118 (31 October 2024: £109,252), and net assets of
+£210,379,352 (31 October 2024: net liabilities £921,384).
+The Directors have considered the applicability of the going
+concern basis in the preparation of these consolidated financial
+statements. This included the review of internal budgets and
+financial results which show, taking into account reasonably
+probable changes in financial performance that the Group
+should be able to operate within the level of its current funding
+arrangements.
+
+
+The Directors have a reasonable expectation that the Group
+will have ample resources to continue in operation for the
+foreseeable future, underpinned by the successful completion
+of several fundraises during the year, which have further
+strengthened the Group’s liquidity position. For this reason,
+the Directors have adopted the going concern basis in the
+preparation of these consolidated financial statements.
+
+(b) New and amended standards and
+interpretations
+The following amendments to IAS became effective for the
+annual reporting period beginning on 1 November 2024 and
+did not have a material impact on the consolidated financial
+statements:
+•	Amendments to IAS 1 – ‘Classification of Liabilities as
+Current or Non-current’;
+•	Amendments to IAS 7 and IFRS 7 – ‘Supplier Finance
+Arrangements’;
+•	Amendments to IAS 1 – ‘Non-current Liabilities with
+Covenants’; and
+•	Amendments to IFRS 16 – ‘Lease Liability in a Sale and
+Leaseback’.
+At the date of approval of these financial statements, the
+following standards and interpretations which have not been
+applied in these financial statements were in issue but not yet
+effective:
+
+Standard
+
+Effective for
+accounting
+periods beginning
+on or after
+
+Amendments to IAS 21 – ‘Lack of
+Exchangeability’
+
+1 January 2025
+
+Amendments to IFRS 7 and IFRS 9 –
+‘Classification and Measurement of Financial
+Instruments and Contracts referencing naturedependant electricity’
+
+1 January 2026
+
+Annual improvements to IFRS accounting
+standards (volume 11)
+
+1 January 2026
+
+IFRS 18 – ‘Presentation and Disclosures in
+Financial Statements’
+
+1 January 2027
+
+IFRS 19 – Subsidiaries without Public
+Accountability: Disclosures
+
+1 January 2025
+(Not yet endorsed
+in the UK)
+
+The Directors do not expect that the adoption of these
+standards will have a material impact on the consolidated
+financial statements in future periods.
+
+Strategic report
+
+
+Notes to the consolidated financial statements continued
+
+(c) Basis of consolidation
+Subsidiaries are entities controlled by the Company. Control
+exists when the Company is exposed to, or has rights to,
+variable returns from its involvement with the entity and has the
+ability to affect those returns through its power over the entity.
+The consolidated financial statements incorporate the results
+of business combinations using the acquisition method. In the
+consolidated statement of financial position, the acquiree’s
+identifiable assets and liabilities are initially recognised at their fair
+values at the acquisition date. The results of acquired operations
+are included in the consolidated statement of comprehensive
+income from the date on which control is obtained. They are
+deconsolidated from the date on which control ceases.
+Intragroup balances, and any gains and losses or income and
+expenses arising from intragroup transactions, are eliminated in
+preparing the consolidated financial statements.
+
+(d) Cryptocurrency
+The Group’s holding in Bitcoin is accounted for as an intangible
+asset with an indefinite useful economic life. Bitcoin is traded in
+an active market and the Directors have adopted the revaluation
+measurement model.
+Bitcoin purchases are initially recognised at cost and are
+subsequently re-valued to fair value based on the market price
+provided by the Group’s cryptocurrency brokers. Increases in
+the carrying amounts arising on revaluation are recognised,
+net of tax, in other comprehensive income and accumulated in
+the revaluation reserve in equity. To the extent that the increase
+reverses a decrease previously recognised in profit or loss,
+the increase is first recognised in profit or loss. Decreases that
+reverse previous increases of the same asset are first recognised
+in other comprehensive income to the extent of the remaining
+surplus attributable to the asset. All other decreases are charged
+to profit or loss.
+On disposal, any associated revaluation surplus is transferred
+directly to retained earnings and is not recycled through profit
+or loss.
+Cryptocurrency is held for long term appreciation in line with
+the Group’s treasury policy and therefore is classified as a noncurrent asset in the consolidated statement of financial position.
+
+(e) Other intangible assets
+Goodwill
+Goodwill represents the excess of the cost of a business
+combination over the Group’s interest in the fair value of
+identifiable assets, liabilities and contingent liabilities acquired.
+Goodwill is not amortised and is stated at cost less any
+accumulated impairment losses.
+
+The recoverable amount of goodwill is tested for impairment
+annually or when events or changes in circumstance indicate
+that it might be impaired. Impairment charges are deducted
+from the carrying value and recognised immediately in the
+consolidated statement of comprehensive income. For the
+purpose of impairment testing, goodwill is allocated to each
+of the Group’s cash-generating units expected to benefit from
+synergies of the combination. If the recoverable amount of the
+cash generating unit is less than the carrying amount of the
+unit, the impairment loss is allocated first to reduce the carrying
+amount of any goodwill allocated to the unit and then to the
+other assets of the unit pro-rata based on the carrying amount
+of each asset in the unit. An impairment loss recognised for
+goodwill is not reversed in a subsequent period.
+Acquisition related intangible assets
+Net assets acquired as part of a business combination includes
+an assessment of the fair value of separately identifiable
+acquisition-related intangible assets, in addition to other
+assets, liabilities and contingent liabilities purchased. These are
+amortised on a straight-line basis over their useful lives which
+are individually assessed.
+The intangible assets acquired by the Group in a business
+combination, and their useful economic lives and the methods
+used to determine the cost of each intangible are as follows:
+Amortisation period of intangible assets
+Intangible asset
+
+Amortisation period
+
+Brand
+
+15 years
+
+Customer relationships
+
+15 years
+
+Software
+
+15 years
+
+(f) Property, plant and equipment
+Property, plant and equipment are stated at cost less
+accumulated depreciation. Depreciation is recognised so as to
+write off the cost of assets less their residual values over their
+useful lives on the following basis:
+Furniture and fittings
+
+10% straight-line basis
+
+(g) Right-of-use asset
+The Group recognises right-of-use assets under lease
+agreements in which it is the lessee. The underlying asset
+comprises a motor vehicle and is used in the normal course
+of business. The right-of-use asset is initially measured at
+the present value of lease payments made at or before the
+commencement date as well as any initial direct costs and an
+estimate of costs to be incurred in dismantling the asset. Lease
+incentives are deducted from the cost of the right-of-use asset.
+The right-of-use asset is depreciated over the lease-term and if
+necessary impaired in accordance with applicable standards.
+
+Notes to the consolidated financial statements continued
+
+(h) Lease liabilities
+The lease liability is initially measured at the present value of the
+lease payments that are not paid at that date, discounted using
+the rate implicit in the lease. The lease liability is subsequently
+measured by increasing the carrying amount to reflect interest
+on the lease liability (application of the effective interest
+method) and by reducing the carrying amount to reflect the
+lease payments made. No lease modification or reassessment
+changes have been made during the reporting period from
+changes in any lease terms or rent charges.
+
+(i) Equity
+Share capital
+Share capital represents the nominal value of ordinary equity
+shares.
+Share premium
+Share premium represents the excess over nominal value
+of the fair value of consideration received for equity shares.
+Incremental costs directly attributable to the issue of new equity
+shares are deducted from the share premium account.
+Merger relief reserve
+Merger relief reserve represents the excess over nominal value
+of the fair value of consideration received for equity shares
+issued by the Company as part of an acquisition of subsidiary,
+where merger relief under section 612 of the Companies Act
+2006 applies.
+Warrant reserve
+Warrant reserve represents the fair value of outstanding warrants
+as at the date of issue by the Company.
+Accumulated losses
+Retained earnings and accumulated losses consist of cumulative
+net gains and losses recognised in the consolidated statement
+of comprehensive income plus transactions recognised directly
+in equity.
+
+(j) Financial assets
+Classification
+The Group classifies its financial assets into two categories,
+being financial assets held at amortised cost and financial assets
+held at fair value through profit or loss.
+Amortised cost
+Financial assets held at amortised cost comprise trade and other
+receivables and cash and cash equivalents.
+These assets are non-derivative financial assets with fixed
+or determinable payments that are not quoted in an active
+market. They arise principally through the provision of goods
+
+and services to customers (e.g., trade receivables) but also
+incorporate other types of financial assets where the objective is
+to hold their assets in order to collect contractual cash flows and
+the contractual cash flows are solely payments of the principal
+and interest. They are initially recognised at fair value plus
+transaction costs that are directly attributable to their acquisition
+or issue and are subsequently carried at amortised cost using
+the effective interest rate method, less provision for impairment.
+Impairment provisions for trade and other receivables are
+recognised based on the simplified approach within IFRS
+9 using the lifetime expected credit losses (“ECL”) method.
+During this process the probability of the non-payment of
+the receivables is assessed. This probability is then multiplied
+by the amount of the expected loss arising from default to
+determine the lifetime ECL for the receivables. For trade and
+other receivables, which are reported net, such provisions are
+recorded in a separate provision account with the loss being
+recognised within administrative expenses in the consolidated
+statement of comprehensive income. On confirmation that
+the trade or other receivable will not be collectable, the gross
+carrying value of the asset is written off against the associated
+provision.
+Fair value through profit or loss
+Financial assets held at fair value through profit or loss comprise
+equity investments. These are carried in the statement of
+financial position at fair value. Subsequent to initial recognition,
+changes in fair value are recognised in profit or loss.
+
+(k) Cash and cash equivalents
+Cash and cash equivalents comprise of balances held in
+current bank accounts and payment processors that are readily
+available for use in the Group’s operations.
+
+(l) Financial liabilities
+The Group’s financial liabilities are classified as either carried at
+fair value through profit or loss (“FVTPL”) or at amortised cost.
+Financial liabilities are classified as current liabilities unless,
+at the end of the reporting period, the Group has a right to
+defer settlement of the liability for at least 12 months after the
+reporting period.
+Financial liabilities carried at FVTPL and Day 1 losses
+The Group’s financial liabilities carried at FVTPL consist of
+Smarter Convert CLN, detailed in note 24(d), which has been
+designated by the Directors as carried at FVTPL. The Directors
+can designate a financial liability as carried at FVTPL when it
+forms part of a contract containing one or more non-closely
+related embedded derivatives, and IFRS 9 Financial Instrument
+(“IFRS 9”) permits the entire combined contract to be
+designated as such.
+
+Strategic report
+
+
+Notes to the consolidated financial statements continued
+
+Financial liabilities carried at FVTPL are initially recognised at fair
+value with the associated transaction costs recognised in profit
+or loss. If the fair value at initial recognition is determined using
+a Level 3 valuation technique and is higher than the transaction
+price (being the gross proceeds received), then the resulting
+difference represents a loss (“Day 1 loss”) and is released into the
+profit or loss over the term of the instrument on a straight-line
+basis within other gains and losses.
+Changes in the fair value of the financial liabilities that are
+designated as carried at FVTPL are recognised in profit or loss
+within other gains and losses, except for the amount of change
+in the fair value of the financial liability that is attributable to
+changes in the credit risk of that liability which is recognised in
+other comprehensive income.
+Financial liabilities carried at FVTPL are presented net of Day
+1 losses on the face of the consolidated statement of financial
+position.
+Financial liabilities carried at amortised cost
+The Group’s financial liabilities carried at amortised cost
+comprise of trade and other payables and borrowings not
+designated as carried at FVTPL and are recognised initially at
+fair value based on amounts exchanged, net of transaction costs
+and are subsequently measured at amortised cost using the
+effective interest method.
+
+(m) Equity instruments
+An equity instrument is any contract that evidences a residual
+interest in the assets of an entity after deducting all its liabilities.
+Equity instruments issued by the Group are recognised at the
+proceeds received, net of direct issue costs.
+
+(n) Compound instruments
+The component parts of convertible loan notes issued by
+the Group are classified separately as financial liabilities and
+equity in accordance with the substance of the contractual
+arrangements and the definitions of a financial liability and an
+equity instrument. A conversion option that will be settled by the
+exchange of a fixed amount of cash or another financial asset
+for a fixed number of equity instruments issued by the Group is
+an equity instrument.
+
+(o) Revenue
+Revenue is measured at the fair value of the consideration
+received or receivable and represents amounts receivable
+for services provided in the normal course of business, net of
+discounts and VAT.
+The Group’s revenue arises from the provision of website
+development services. Revenue is recognised by reference to
+the stage of completion of the contract. The stage of completion
+
+of a contract is measured by comparing the costs incurred
+for work performed to date to the total estimated contract
+costs. Revenue is only recognised to the extent of recoverable
+expenses when the outcome of a contract cannot be estimated
+reliably.
+
+(p) Employee benefits: pension obligations
+The Group operates a defined contribution plan for its
+employees. A defined contribution plan is a pension plan under
+which the Group pays fixed contributions into a separate entity.
+Once the contributions have been paid the Group has no
+further payment obligations. The contributions are recognised
+as an expense in profit or loss when they fall due. If contribution
+payments exceed the contribution due for service, the excess is
+recognised as a prepayment.
+
+(q) Other income and gains
+Other income and gains comprise of net gains and losses on
+instruments held at fair value through profit or loss and loans
+written off during the year.
+
+(r) Finance costs
+Finance costs comprise of interest payable on leases and other
+financial liabilities which are expensed in the period in which
+they are incurred.
+
+(s) Taxation
+Corporation tax for the period presented comprises current and
+deferred tax. Current and deferred tax are recognised in profit
+or loss, except when they relate to items that are recognised in
+other comprehensive income, in which case they are recognised
+in other comprehensive income.
+Current tax
+The tax currently payable is based on taxable profit for the year.
+Taxable profit differs from net profit as reported in profit or loss
+because it excludes items of income or expense that are taxable
+or deductible in other years and it further excludes items that
+are never taxable or deductible. The Group’s liability for current
+tax is calculated using tax rates that have been enacted or
+substantively enacted by the end of the reporting period.
+Deferred tax
+Deferred tax is the tax expected to be payable or recoverable
+on differences between the carrying amounts of assets
+and liabilities in consolidated financial statements and the
+corresponding tax bases used in the computation of taxable
+profit and is accounted for using the liability method. Deferred
+tax liabilities are generally recognised for all taxable temporary
+differences and deferred tax assets are recognised to the
+extent that it is probable that taxable profits will be available
+
+
+Notes to the consolidated financial statements continued
+
+against which deductible temporary differences can be utilised.
+Such assets and liabilities are not recognised if the temporary
+difference arises from the initial recognition (other than in a
+business combination or for transactions that give rise to equal
+taxable and deductible temporary differences) of other assets
+and liabilities in a transaction that affects neither the taxable
+profit nor the accounting profit. In addition, a deferred tax
+liability is not recognised if the temporary difference arises from
+the initial recognition of goodwill.
+The carrying amount of deferred tax assets is reviewed at
+each reporting date and reduced to the extent that it is no
+longer probable that sufficient taxable profits will be available
+to allow all or part of the asset to be recovered. Deferred tax
+is calculated at the tax rates that are expected to apply in the
+period when the liability is settled, or the asset is realised based
+on tax laws and rates that have been enacted or substantively
+enacted at the reporting date.
+Deferred tax assets and liabilities are offset when there is a
+legally enforceable right to offset current tax assets against
+current tax liabilities, when they relate to income taxes levied by
+the same taxation authority and the Directors intend to settle the
+Group’s current tax assets and liabilities on a net basis.
+
+(t) Share-based payments
+Equity-settled share-based payment transactions with parties
+other than employees are measured at the fair value of the
+goods or services received, except where that fair value cannot
+be estimated reliably, in which case they are measured at the fair
+value of the equity instruments granted, measured at the date
+the entity obtains the goods, or the counterparty renders the
+service. The share-based payment expense is either recognised
+in profit or loss or recognised as deduction in share premium.
+A corresponding increase in the warrant reserve is also
+recognised.
+
+(u) Operating segments
+Operating segments are reported in a manner consistent
+with the internal reporting provided to the chief operating
+decision-maker (“CODM”). The CODM, who is responsible
+for allocating resources and assessing performance of the
+operating segments, has been identified as the Board of
+Directors that makes strategic decisions. The Group consists
+of one operating segment, being the provision of website
+development services and therefore no segmental reporting is
+presented.
+
+
+3. Critical accounting judgements and
+key sources of estimation uncertainty
+In the application of the accounting policies, which are
+described in note 2, the Directors are required to make
+judgements, estimates and assumptions which affect reported
+income, expenses, assets, liabilities and disclosure of contingent
+assets and liabilities. The estimates and associated assumptions
+are based on historical experience, expectations of future events
+and other factors that are believed to be reasonable under the
+circumstances. Actual results in the future could differ from
+such estimates. The estimates and underlying assumptions
+are reviewed on an on-going basis. Revisions to accounting
+estimates are recognised in the period in which the revision is
+made.
+
+(a) Critical judgements in applying the Group’s
+accounting policies
+Accounting for warrants attached to convertible loan notes
+Warrants that were issued in conjunction with the conversion of
+convertible loan notes (see note 21) have been accounted for
+from the date of conversion when the terms of instruments were
+determined, as opposed to the date of inception of the loans.
+On conversion and issue of the warrants, the warrants met the
+definition of equity instruments under IAS 32, and accordingly,
+were recognised in the warrant reserve at fair value with a
+corresponding reduction in share premium.
+
+(b) Key sources of estimated uncertainty
+Identifiable assets and liabilities assumed on acquisition of
+subsidiary
+The fair value of intangible assets acquired through business
+combinations involves the use of valuation techniques and the
+estimation of future cash flows to be generated over several
+years. Further details of the business combination are included
+in note 28.
+Valuation of Smarter Convert CLN
+Smarter Convert CLN is a financial liability carried at FVTPL.
+Its valuation requires the use of the Monte Carlo method
+to estimate the Company’s future share price as well as
+the Directors’ estimate of future price of Bitcoin. Details of
+instrument and the valuation technique used are included in
+notes 24(d) and 26(b) respectively.
+
+Strategic report
+
+
+Notes to the consolidated financial statements continued
+
+4. Revenue
+31 October 2025
+
+31 October 2024
+
+£
+
+£
+
+70,029
+
+-
+
+70,029
+
+-
+
+31 October 2025
+
+31 October 2024
+
+£
+
+£
+
+Depreciation of property, plant and equipment
+
+6,051
+
+-
+
+Amortisation of right-of-use assets
+
+7,798
+
+-
+
+Amortisation of intangible assets
+
+10,186
+
+-
+
+Employee benefits expense (note 7)
+
+837,120
+
+76,000
+
+Auditor remuneration (note 6)
+
+220,000
+
+9,175
+
+Professional and legal fees
+
+300,014
+
+330,790
+
+Listing fees
+
+331,400
+
+-
+
+Revenue from website design services
+
+No single customer accounted for more than 10% of total revenue (31 October 2024: none).
+
+5. Operating loss
+
+Operating loss is presented after charging:
+
+6. Auditor Remuneration
+During the year, the Group obtained the following services from the Company’s auditors, PKF Littlejohn LLP (2024: Adler Shine LLP):
+31 October 2025
+
+Fees payable for the audit of the Group and Company financial statements
+
+31 October 2024
+
+£
+
+£
+
+68,500
+
+8,250
+
+151,500
+
+-
+
+Fees payable to the Company’s auditor for other permitted non-audit services:
+- corporate finance services: reporting accountant
+- tax compliance services
+
+-
+
+1,285
+
+Total auditor remuneration
+
+220,000
+
+9,535
+
+31 October 2025
+
+31 October 2024
+
+7. Employee benefit expense
+£
+
+£
+
+Wages and salaries
+
+738,518
+
+76,000
+
+Social security costs
+
+96,512
+
+-
+
+Pension costs
+
+2,090
+
+-
+
+837,120
+
+76,000
+
+31 October 2025
+
+31 October 2024
+
+No.
+
+No.
+
+
+The average number of employees during the period was:
+
+Directors
+Staff
+
+
+-
+
+
+Directors’ remuneration is disclosed within the Directors’ Remuneration Report.
+
+Notes to the consolidated financial statements continued
+
+8. Other income
+
+Cancellation of loan (note 24(b))
+
+31 October 2025
+
+31 October 2024
+
+£
+
+£
+
+660,260
+
+-
+
+660,260
+
+-
+
+Other gains of £660,260 consists of the loan from Power Metal Resources Plc which was agreed to be written off as detailed further
+in note 24(b).
+
+9. Other gains and losses
+31 October 2025
+
+31 October 2024
+
+£
+
+£
+
+Gain on change in fair value of Smarter Convert CLN (note 24(d))
+
+6,434,435
+
+-
+
+Release of Day 1 losses on Smarter Convert CLN (note 24(d))
+
+(1,588,280)
+
+-
+
+Gain on change in fair value of listed securities (note 13)
+Loss on change in fair value of cryptocurrency assets (note 14)
+
+5,794
+
+-
+
+(543,725)
+
+-
+
+4,308,224
+
+-
+
+31 October 2025
+
+31 October 2024
+
+£
+
+£
+
+339,188
+
+-
+
+10. Finance costs
+
+Uplift on convertible loan note (note 24(a))
+Exchange rate gains and losses
+
+15,556
+
+-
+
+354,744
+
+-
+
+31 October 2025
+
+31 October 2024
+
+£
+
+£
+
+-
+
+-
+
+Movements in deferred tax
+
+1,211,307
+
+-
+
+Total tax charge
+
+1,211,307
+
+-
+
+31 October 2025
+
+31 October 2024
+
+£
+
+£
+
+2,835,848
+
+(504,701)
+
+708,962
+
+(95,893)
+
+Expenses not deductible for tax purposes
+
+157,854
+
+34,742
+
+Effect of tax losses not recognised as deferred tax assets
+
+344,491
+
+61,151
+
+Total tax charge for the year
+
+1,211,307
+
+-
+
+11. Tax expense
+
+Current tax charge
+
+Total tax charge for the year can be reconciled to the profit/(loss) for the year as follows:
+
+Profit/(loss) before taxation
+Profit/(loss) before tax multiplied by the UK standard rate of corporation tax of 25%
+(31 October 2024: small companies’ rate of 19%)
+Effects of:
+
+
+Strategic report
+
+
+Notes to the consolidated financial statements continued
+
+12. Earnings per share
+Basic earnings per share
+Basic earnings per share is calculated by dividing the profit/(loss) attributable to equity holders of the Company by the weighted
+average number of ordinary shares in issue during the year.
+
+Profit/(loss) attributable to equity holders of the Company
+Weighted average number of ordinary shares in issue
+Basic earnings / (loss) per share (pence)
+
+31 October 2025
+
+31 October 2024
+
+£
+
+£
+
+1,624,541
+
+(504,701)
+
+130,792,601
+
+7,500,000
+
+1.24
+
+(7.16)
+
+Diluted earnings per share
+Diluted earnings per share adjusts the figures used in the determination of basic earnings per share as follows:
+•	the profit figure is adjusted to account for the after-tax effect of interest and other financing costs associated with dilutive potential
+ordinary shares; and
+•	the weighted average number of additional ordinary shares that would have been outstanding, assuming the conversion of all
+dilutive potential ordinary shares.
+31 October 2025
+
+31 October 2024
+
+£
+
+£
+
+Loss attributable to equity holders of the Company
+
+2,010,075
+
+504,701
+
+Weighted average number of ordinary shares in issue
+
+132,632,365
+
+7,500,000
+
+1.52
+
+7.16
+
+31 October 2025
+
+31 October 2024
+
+£
+
+£
+
+1,624,541
+
+(504,701)
+
+Gain on fair value of Smarter Convert CLN
+
+(6,434,435)
+
+-
+
+Release of Day 1 loss
+
+1,588,280
+
+-
+
+Tax impact of adjustments above
+
+1,211,539
+
+-
+
+(2,010,075)
+
+(504,701)
+
+Diluted loss per share (pence)
+
+Reconciliation of earnings used in calculating diluted loss per share is detailed below:
+
+Profit/(loss) attributable to equity holders of the Company used in calculating basic earnings
+per share
+Adjustments assuming conversion of Smarter Convert CLN (note 24b) – add back:
+
+Loss attributable to the ordinary equity holders of the Company used in calculating diluted
+earnings per share
+
+Reconciliation of the weighted average number of ordinary shares in issue used in calculating diluted loss per share is detailed below:
+
+Weighted average number of ordinary shares used in calculating basic earnings per share
+Impact of conversion of Smarter Convert CLN
+Weighted average number of ordinary shares used in calculating diluted earnings per share
+
+31 October 2025
+
+31 October 2024
+
+£
+
+£
+
+130,792,601
+
+7,500,000
+
+1,839,764
+
+-
+
+132,632,365
+
+7,500,000
+
+Other instruments that give rise to dilutive potential ordinary shares are the warrants issued by the Company and detailed in note 21.
+Deferred shares do not carry dividend rights and thus no separate earnings per share calculations have been presented.
+
+
+Notes to the consolidated financial statements continued
+
+13. Financial assets
+31 October 2025
+
+31 October 2024
+
+£
+
+£
+
+-
+
+-
+
+85,485
+
+-
+
+Fair value
+
+Listed securities
+Opening balance
+Additions on acquisition of subsidiary
+Fair value gain
+Disposal
+Closing balance
+
+5,794
+
+-
+
+(89,630)
+
+-
+
+1,649
+
+-
+
+Power Metal Resources Plc
+The Company’s subsidiary held shares in Power Metal Resources Plc to the value of £83,835 at date of acquisition. On the 14 July
+2025, these were disposed of by the subsidiary for a £5,794 profit.
+
+Great Western Mining Corporation Plc
+The Company’s subsidiary held shares in Great Western Mining Corporation Plc to the value of £1,650 at date of acquisition. At the
+year end the value of the shares was £1,649. The difference of £1 has been recognised in profit or loss.
+
+14. Cryptocurrency
+Bitcoin
+
+Fair value
+
+£
+
+As at 1 November 2024
+
+-
+
+Additions – on acquisition of subsidiary
+
+600,746
+
+Additions
+
+219,946,439
+
+Fair value loss, recognised in profit or loss
+
+(543,725)
+
+As at 31 October 2025
+
+220,003,460
+
+The fair value of Bitcoin as at 31 October 2025 was calculated by reference to the unadjusted market price as at 23:59 UK time on
+31 October 2025, provided by the Group’s bitcoin broker, which is a Level 1 input under the fair value hierarchy of IFRS 13 (see note
+26(b)). Had Bitcoin been measured on a historical cost basis, its carrying value would have been £220,547,184 as at 31 October 2025
+(31 October 2024: £nil).
+
+15. Intangible assets
+Goodwill
+£
+
+Intangible
+asset - software
+£
+
+Intangible
+asset - customer
+relationships
+£
+
+Intangible
+asset – brand
+£
+
+Total
+£
+
+Cost
+As at 01 November 2024
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Acquisition of subsidiary
+
+746,315
+
+15,079
+
+267,424
+
+12,869
+
+1,041,687
+
+As at 31 October 2025
+
+746,315
+
+15,079
+
+267,424
+
+12,869
+
+1,041,687
+
+Accumulated amortisation
+As at 01 November 2024
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Amortisation
+
+-
+
+
+9,222
+
+
+10,186
+
+As at 31 October 2025
+
+-
+
+
+9,222
+
+
+10,186
+
+As at 31 October 2025
+
+746,315
+
+14,559
+
+258,202
+
+12,425
+
+1,031,501
+
+As at 31 October 2024
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Carrying amount
+
+Goodwill arose on the acquisition of subsidiary as detailed in note 28.
+
+Strategic report
+
+
+Notes to the consolidated financial statements continued
+
+16. Property, plant and equipment
+Fixtures and fittings
+£
+
+Cost
+As at 01 November 2024
+
+-
+
+Additions on acquisition of subsidiary
+
+11,358
+
+Additions
+
+10,899
+
+As at 31 October 2025
+
+22,257
+
+Accumulated depreciation
+As at 01 November 2024
+
+-
+
+Depreciation
+
+6,051
+
+As at 31 October 2025
+
+6,051
+
+Carrying amount
+As at 31 October 2025
+
+16,206
+
+As at 31 October 2024
+
+-
+
+17. Right-of-use asset
+Motor vehicles
+£
+
+Cost
+As at 01 November 2024
+
+-
+
+Acquisition of subsidiary
+
+25,997
+
+As at 31 October 2025
+
+25,997
+
+Accumulated depreciation
+As at 01 November 2024
+
+-
+
+Depreciation
+
+7,798
+
+As at 31 October 2025
+
+7,798
+
+Carrying amount
+As at 31 October 2025
+
+18,199
+
+As at 31 October 2024
+
+-
+
+18. Trade and other receivables
+31 October 2025
+
+31 October 2024
+
+£
+
+£
+
+VAT receivable
+
+86,759
+
+-
+
+Prepayments
+
+89,523
+
+-
+
+289,977
+
+2,200
+
+466,259
+
+2,200
+
+Other receivables
+
+The other receivables balance of £289,977 includes £271,938 of funds due for ATM shares placed on 31 October 2025 (31 October
+2024: £nil), which were received subsequent to the year end.
+
+
+Notes to the consolidated financial statements continued
+
+19. Cash and cash equivalents
+31 October 2025
+
+Cash at bank and on hand
+
+31 October 2024
+
+£
+
+£
+
+1,503,118
+
+109,252
+
+All cash held are denominated in GBP. The majority of the cash balance is held at year-end is with a banking institution with a
+credit rating of A+. During the year, some cash balances were held with payment processors for a short period of time to facilitate
+transactions.
+
+20. Share capital and share premium
+31 October 2025
+
+31 October 2024
+
+£
+
+£
+
+Ordinary shares of 0.1p each
+
+300,237
+
+7,050
+
+Deferred shares of 4.9p each
+
+345,450
+
+345,450
+
+Total share capital
+
+645,687
+
+352,500
+
+208,760,100
+
+1,515,032
+
+Share capital:
+
+Share premium
+
+Ordinary shares
+Ordinary shares of 0.1p each entitle the holders to receive dividends as declared from time to time and to vote at meetings of the
+Company. All ordinary shares rank equally with regard the Company’s residual net assets. There are no restrictions on the transfer of
+shares.
+During the year ended 31 October 2025, the Company issued new ordinary shares as detailed below:
+No of Shares
+
+Share capital
+
+Share Premium
+
+No.
+
+£
+
+£
+
+£
+
+7,050,000
+
+7,050
+
+1,515,032
+
+1,522,082
+
+Acquisition of subsidiary*
+
+25,778,732
+
+25,779
+
+-
+
+25,779
+
+Conversion of convertible loan notes
+
+67,837,603
+
+67,838
+
+1,288,914
+
+1,356,752
+
+As at 1 November 2024
+
+Total
+
+Transactions on 25 April 2025:
+
+Advisor shares issued
+Placing and subscription shares
+7 May 2025 - Ordinary 1p shares
+
+21,154,128
+
+21,154
+
+495,449
+
+516,603
+
+25,080,894
+
+25,081
+
+601,941
+
+627,022
+
+139,851,357
+
+139,852
+
+2,386,304
+
+2,526,156
+
+14,015,320
+
+14,015
+
+2,228,436
+
+2,242,451
+3,451,460
+
+14 May 2025 - Ordinary 1p shares
+
+12,783,185
+
+12,783
+
+3,438,677
+
+22 May 2025 - Ordinary 1p shares
+
+13,942,805
+
+13,942
+
+6,818,032
+
+6,831,974
+
+4 June 2025 - Ordinary 1p shares
+
+16,538,799
+
+16,539
+
+13,379,888
+
+13,396,427
+
+16 June 2025 - Ordinary 1p shares
+
+16,297,627
+
+16,298
+
+29,319,431
+
+29,335,729
+
+22 June 2025 - Ordinary 1p shares
+
+766,719
+
+
+3,794,492
+
+3,795,259
+
+25 June 2025 - Ordinary 1p shares
+
+14,221,623
+
+14,222
+
+41,228,485
+
+41,242,707
+
+7 July 2025 - Ordinary 1p shares
+
+7,000,000
+
+7,000
+
+22,867,310
+
+22,874,310
+
+8 July 2025 - Ordinary 1p shares
+
+3,182,013
+
+3,181
+
+10,338,361
+
+10,341,542
+
+9 July 2025 - Ordinary 1p shares
+
+14,000,000
+
+14,000
+
+30,969,514
+
+30,983,514
+
+17 July 2025 - Ordinary 1p shares
+
+5,947,099
+
+5,947
+
+17,537,995
+
+17,543,942
+
+1 August 2025 - Ordinary 1p shares
+
+2,560,975
+
+2,561
+
+5,247,438
+
+5,249,999
+
+1 August 2025 - Ordinary 1p shares
+
+1,398,931
+
+1,399
+
+2,866,410
+
+2,867,809
+
+
+Strategic report
+
+
+Notes to the consolidated financial statements continued
+
+No of Shares
+
+Share capital
+
+Share Premium
+
+Total
+
+No.
+
+£
+
+£
+
+£
+
+4 September 2025 - Ordinary 1p shares
+
+21,000,000
+
+21,000
+
+11,587,354
+
+11,608,354
+
+6 October 2025 - Ordinary 1p shares
+
+9,680,640
+
+9,681
+
+9,670,959
+
+9,680,640
+
+Share issue costs
+
+-
+
+-
+
+(5,600,712)
+
+(5,600,712)
+
+Warrants issued on conversion of convertible
+loan notes
+
+-
+
+-
+
+(833,306)
+
+(833,306)
+
+300,237,093
+
+300,237
+
+208,760,100
+
+209,060,337
+
+As at 31 October 2025
+
+* On acquisition of subsidiary, a merger relief reserve of £618,689 was recognised on the shares issued.
+
+On 25 April 2025, following successful admission to Aquis the Company issued 139,851,357 Ordinary 0.1p shares for net proceeds
+of £2,640,827. This consisted of 25,778,732 issued to sellers of SWC Ltd in consideration (see note 28), 67,837,603 were issued to
+pre-IPO investors on settlement of the convertible loan note (see note 24), 21,154,128 were issued in lieu of payment of expenses for
+advisors, 18,856,894 were issued as part of the subscription and the remaining 6,224,000 were the number of placing shares issued.
+On 9 July 2025, the Company issued 14,000,000 shares pursuant to a fundraising agreement with its broker (“ATM Facility”)
+whereby the broker subscribes to the shares at nominal value and subsequently places the shares with investors. Any premium
+over nominal value achieved through the placing by the broker is passed to the Company less commission. All shares were placed
+as at year end.
+On 4 September 2025, the Company issued 21,000,000 at par value pursuant to a subscription agreement with its broker. Under the
+agreement, the broker may sell ordinary shares on behalf of the Company subject to agreed restrictions, including weekly volume limits
+linked to market trading closing price, and the Company will benefit by receiving approximately 97% of the net proceeds of any sales
+of the shares achieved by the broker. As at 31 October 2025, a balance of 17,722,000 shares had not yet been placed. At 31 October
+2025, £271,938 of the proceeds relating to the shares issued under the subscription agreement had not yet been received by the
+Company and has been recognised within other receivables. The proceeds were received subsequent to the year-end.
+
+Deferred shares
+The Company has 7,050,000 Deferred shares of 4.9p each in issue (2024: 7,050,000 Deferred shares). Deferred shares are not
+transferable, do not carry any rights to attend meetings of the Company, to receive dividends or distributions, except for return of capital
+on a winding up once the holders of ordinary shares have first received a return on capital of £1,000,000 in respect of each Ordinary
+share held by them. The Company may acquire from the holder of Deferred shares all of their Deferred shares for a total consideration of
+1 pence.
+
+21. Warrant reserve
+No.
+
+Opening balance
+
+£
+
+-
+
+-
+
+67,837,603
+
+833,306
+
+Warrants issued on acquisition of subsidiary (note 28)
+
+25,778,732
+
+316,662
+
+Share-based payment – advisor warrants
+
+2,450,000
+
+30,095
+
+Warrants issued on 6 October 2025
+
+9,680,640
+
+-
+
+Closing balance
+
+105,746,975
+
+1,180,063
+
+Warrants issued on conversion of the CLN (note 24(a))
+
+
+Notes to the consolidated financial statements continued
+
+On 25 April 2025, the Company issued 96,066,335 warrants, exercisable at 2.5 pence per ordinary shares between 25 April 2026
+and 25 April 2028. These warrants have been recognised at fair value, which has been determined using the Black Scholes model
+with the following inputs:
+2.5p warrants
+
+Share price at the date of grant (pence)
+
+2.500
+
+Exercise price (pence)
+
+2.500
+
+Dividend yield
+
+0%
+
+Time until exercise, assumed to be the mid-point when exercisable
+
+2.0 years
+
+Annual risk-free interest rate
+
+3.66%
+
+Volatility
+
+89.26%
+
+Resulting fair value per warrant (pence)
+
+1.228
+
+As part of the Aquis IPO, the Company issued further 2,450,000 warrants to advisors on the same terms as the warrants detailed
+above. This represents an equity settled share-based payment, which was recognised at the fair value of the warrants issued.
+On 9 October 2025, the Company issued warrants in connection with an equity placing of 9,680,640 ordinary shares. The warrants
+entitle the holder to subscribe for one ordinary share at a fixed exercise price of £1.50 and are exercisable over a contractual term of
+36 months. As the placing price for the shares and warrants of £1.00 was below the quoted market price of the Company’s shares of
+£1.02 at the grant date, no fair value is attributed to these warrants.
+No warrants were issued during the year ended 31 October 2024.
+The warrants are not subsequently revalued.
+
+22. Lease liabilities
+31 October 2025
+
+31 October 2024
+
+£
+
+£
+
+Current liabilities
+
+30,112
+
+-
+
+Non-current liabilities
+
+7,523
+
+-
+
+37,635
+
+-
+
+The Group leases motor vehicles. With the exception of short-term leases and leases of low value underlying assets, each lease is
+reflected on the consolidated statement of financial position as a right-of-use asset (note 17) and a lease liability.
+The Group has recognised one motor vehicle lease in the twelve months ended 31 October 2025 as a result of acquisition of
+subsidiary (note 28). The hire purchase agreement includes the option to purchase the motor vehicle at the end of lease term
+in November 2028, which is expected to be exercised, and the rate implicit in the lease is 0%. No finance charges have been
+recognised in profit or loss in relation to the lease.
+
+23. Trade and other payables
+31 October 2025
+
+31 October 2024
+
+£
+
+£
+
+Trade payables
+
+118,633
+
+
+Accruals
+
+21,775
+
+14,785
+
+VAT payable
+Other creditors
+
+
+-
+
+12,625
+
+234,679
+
+-
+
+375,087
+
+27,440
+
+Strategic report
+
+
+Notes to the consolidated financial statements continued
+
+24. Borrowings
+31 October 2025
+
+31 October 2024
+
+£
+
+£
+
+Convertible loan facility
+
+-
+
+50,000
+
+Loan from Power Metal Resources Plc
+
+-
+
+562,291
+
+Other borrowings
+
+-
+
+393,105
+
+Smarter Convert CLN
+
+10,957,578
+
+-
+
+10,957,578
+
+1,005,396
+
+(a) February 2025 Convertible loan note
+In February 2025, the Company issued convertible loan notes (“Feb CLN”) to various pre-IPO investors, totalling £1,356,752 who
+had originally subscribed for shares in the Company in connection with a previous aborted IPO. The loan notes entitled the holders to
+receive shares on IPO at a 20% discount to the IPO price, along with one warrant for each share received.
+The loan notes had the option to be redeemed in cash in the event of a default. The loan notes mandatorily converted to shares on
+IPO date, being 25 April 2025. The effective interest on the financial liability element of the loan note is recorded as a finance cost
+of £339,188. On IPO, the terms of the warrants were finalised and entitled the shareholders to subscribe for additional shares at fixed
+price, the IPO price, leading to the warrants being recognised as equity instruments at fair value. The value of the warrants issued
+totals £833,306 and is recognised in equity in the Warrant Reserve, with the corresponding reduction in share premium as part of
+IPO share issue costs.
+
+(b) Loan from Power Metal Resources Plc
+The loan from Power Metal Resources Plc (“POW”) was written off during the year ended 31 October 2025 with the corresponding
+gain recognised in other income in profit or loss. The loan from POW was provided in connection with an acquisition opportunity
+related to an asset owned by POW, however the transaction ultimately did not complete, and the loan was written off. At the time
+of the write-off, Sean Wade was the chief executive officer of both POW and the Company however he did not have a controlling
+interest in either company.
+
+(c) Convertible loan facility and other borrowings
+The Convertible loan facility was also repaid during the period. Other borrowings consisted of pre-IPO investors who were either
+repaid or refinanced into Feb CLN detailed above.
+
+(d) Smarter Convert CLN
+On 5 August 2025, the Company issued a convertible loan note (“Smarter Convert CLN”) raising gross proceeds of £15,803,733,
+which were used to acquire 177.8909127 Bitcoins and are held in a segregated wallet. The instrument is interest-free and has a
+term of one year. On maturity, the instrument can be settled as follows, at the option of the noteholders (“Settlement”):
+(i) Full or partial conversion of the notes into Company shares at £2.0475 per share; or
+(ii) Transfer of the Bitcoin acquired less transaction costs; or
+(iii) Payment of the equivalent of the value of Bitcoin in GBP, USD, or EUR;
+The noteholders have the option to trigger Settlement at any time. The Company has the option to trigger Settlement after
+5 February 2026, if both the market price of the Company shares exceeds £3.07125 per share for 10 consecutive trading days,
+and the percentage increase in the Company’s share price over that period exceeds the percentage increase in the price of Bitcoin.
+
+
+Notes to the consolidated financial statements continued
+
+The instrument was analysed in accordance with the requirements of IAS 32 and IFRS 9 and the Directors have elected on initial
+recognition to designate the whole instrument as a financial liability measured at fair value through profit or loss as the instrument
+contains a non-closely-related embedded derivative.
+The fair value of Smarter Convert CLN at initial recognition was calculated using Level 3 valuation techniques detailed in note 26(b).
+As the fair value at of the liability at initial recognition exceeds the cash proceeds, the resulting loss, Day 1 loss, is released into the
+profit or loss over the term of instrument. The initial recognition of Smarter Convert CLN is detailed below:
+£
+
+Fair value of Smarter Convert CLN
+
+22,156,853
+
+Less: cash proceeds
+
+(15,803,733)
+
+Day 1 loss to be released over the term of the instrument
+
+6,353,120
+
+As at 31 October 2025, the fair value of Smarter Convert CLN reduced to £15,722,418 with corresponding gain of £6,434,435
+recognised in other gains and losses. Day 1 losses of £1,588,280 were released into profit or loss as an expense within other gains
+and losses.
+Changes in the carrying values of Smarter Convert CLN and its components are detailed below:
+Fair value of Smarter
+Convert CLN
+
+Day 1 Deferred Loss
+
+Total
+
+£
+
+£
+
+£
+
+-
+
+-
+
+-
+
+Initial recognition
+
+22,156,853
+
+(6,353,120)
+
+15,803,733
+
+Change in fair value of Smarter Convert CLN
+
+(6,434,435)
+
+-
+
+(6,434,435)
+
+-
+
+1,588,280
+
+1,588,280
+
+15,722,418
+
+(4,764,840)
+
+10,957,578
+
+At 1 November 2024
+
+Release of Day 1 losses
+At 31 October 2025
+
+Movements in Group’s borrowings are detailed below:
+
+Balance as at 1 November 2024
+
+Convertible
+loan facility
+£
+
+Loan from
+POW
+£
+
+Other
+borrowings
+£
+
+Feb 2025 CLN
+£
+
+Smarter
+Convert CLN
+£
+
+Total
+£
+
+50,000
+
+562,291
+
+393,105
+
+-
+
+-
+
+1,005,396
+
+Drawdowns
+
+-
+
+97,969
+
+12,000
+
+1,075,501
+
+15,803,733
+
+16,989,203
+
+Repayments
+
+(50,000)
+
+-
+
+(123,853)
+
+-
+
+-
+
+(173,853)
+
+-
+
+(660,260)
+
+-
+
+-
+
+-
+
+(660,260)
+
+Write-off
+Refinance into CLN
+
+-
+
+-
+
+(281,252)
+
+281,252
+
+-
+
+-
+
+Conversion into shares and warrants
+
+-
+
+-
+
+-
+
+(1,356,753)
+
+-
+
+(1,356,753)
+
+Release of Day 1 losses
+
+-
+
+-
+
+-
+
+-
+
+1,588,280
+
+1,588,280
+
+Change in fair value
+
+-
+
+-
+
+-
+
+-
+
+(6,434,435)
+
+(6,434,435)
+
+Balance as at 31 October 2025
+
+-
+
+-
+
+-
+
+-
+
+10,957,578
+
+10,957,578
+
+
+Strategic report
+
+
+Notes to the consolidated financial statements continued
+
+25. Deferred tax liability
+Revaluation of
+Crypto currency
+£
+
+Intangible
+assets
+£
+
+Other timing
+differences
+£
+
+Smarter
+Convert CLN
+£
+
+Total
+£
+
+As at 1 November 2024
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Acquisition of subsidiary
+
+2,314
+
+(73,843)
+
+(7,904)
+
+-
+
+(79,433)
+
+Credited profit or loss
+
+(2,314)
+
+2,546
+
+-
+
+(1,211,539)
+
+(1,211,307)
+
+As at 31 October 2025
+
+-
+
+(71,297)
+
+(7,904)
+
+(1,211,539)
+
+(1,290,740)
+
+Deferred tax has been measured at the enacted corporation tax rate of 25%. As at 31 October 2025, the Group has unused tax
+losses of £1,970,512 (2024: £1,145,530) available for offset against future profits. No deferred tax asset has been recognised in respect
+of these losses (2024: £nil) as it is not considered probable that there will be future taxable profits available. All tax losses arose in the
+UK and may be carried forward indefinitely.
+
+26. Financial instruments
+(a) Categories of financial instruments
+31 October 2025
+
+31 October 2024
+
+£
+
+£
+
+289,977
+
+2,200
+
+1,503,119
+
+109,252
+
+1,793,096
+
+111,452
+
+Financial assets
+Financial assets at amortised cost:
+Other receivables
+Cash and cash equivalents
+Financial assets at fair value through profit or loss:
+Listed securities
+Total financial assets
+
+1,649
+
+-
+
+1,794,745
+
+111,452
+
+31 October 2025
+
+31 October 2024
+
+£
+
+£
+
+Financial liabilities
+Financial liabilities at amortised cost:
+Trade payables
+
+118,633
+
+
+Accruals
+
+21,775
+
+14,785
+
+Other creditors
+
+234,679
+
+Borrowings
+Lease liabilities
+
+1,005,396
+
+37,635
+
+-
+
+412,722
+
+1,020,211
+
+Financial liabilities at fair value through profit or loss:
+Smarter Convert CLN, excluding Day 1 losses
+
+15,722,418
+
+-
+
+Total financial liabilities
+
+16,135,140
+
+1,020,211
+
+Financial instruments exclude prepayments, VAT, taxation and social security liability balances.
+There are no material differences between the carrying value and fair value of the Group’s financial instruments carried at amortised
+cost because of their short maturities.
+All financial instruments are denominated in GBP.
+
+
+Notes to the consolidated financial statements continued
+
+(b) Fair value hierarchy
+Some of the Group’s financial assets are measured at fair value at the end of each reporting period. Valuation techniques in
+determining the fair values are divided into three levels based on the quality of inputs. There were no transfers between fair value
+hierarchies in the period ended 31 October 2025. (2024: None)
+Level 1 – Quoted market prices
+Fair value is determined by reference to unadjusted quoted prices for identical assets and liabilities in active markets where the quoted
+price is readily available.
+The following financial assets are recognised at fair value through profit or loss and are classified within the Level 1 category:
+
+Listed securities
+
+31 October 2025
+
+31 October 2024
+
+£
+
+£
+
+1,649
+
+-
+
+Level 2 – Valuation techniques using observable inputs
+Fair value is determined using inputs other than quoted prices included in Level 1 that are unobservable, directly or indirectly.
+There were no level 2 inputs during the year.
+Level 3 – Valuation techniques using significant unobservable inputs
+Fair value is dependent on significant inputs that are unobservable. The following financial liabilities are recognised at fair value
+through profit or loss and are classified within the Level 3 category:
+
+Fair value of Smarter Convert CLN
+
+31 October 2025
+
+31 October 2024
+
+£
+
+£
+
+15,722,418
+
+-
+
+Valuation technique and inputs
+The fair value of the Smarter Convert CLN at initial recognition and 31 October 2025 was estimated using a Monte Carlo simulation
+model. The key inputs into the valuations were as follows:
+5 August 2025
+
+31 October 2025
+
+Company share price
+
+£2.00
+
+£0.535
+
+Risk-free rate
+
+3.72%
+
+3.65%
+
+Annualised volatility of Company shares
+Bitcoin price at 5 August 2026
+
+118%
+
+133%
+
+US$ 122,055
+
+US$ 116,210
+
+Bitcoin prices at 5 August 2026 were derived from forward prices. The volatility of Company shares was derived from a peer group of
+comparable listed companies as the Company shares have not been listed for a sufficiently long period.
+No change the fair value of the Smarter Convert CLN is attributable to the changes in Company’s credit risk.
+Transfers between levels of the fair value hierarchy
+There were no transfers between levels of the fair value hierarchy during the year.
+
+(c)
+
+Risk management
+
+The Board of Directors has overall responsibility for the establishment and oversight of the Group’s risk management framework.
+The Group’s risk management policies are established to identify and analyse the risks faced by the Group, to set appropriate risk
+limits and controls, and to monitor risks and adherence to limits. Risk management policies and systems are reviewed regularly
+to reflect changes in market conditions and the Group’s activities. The Group, through its training, management standards and
+procedures, aims to develop a disciplined and constructive control environment in which all employees understand their roles and
+obligations.
+The main financial risks arising from the Group’s financial instruments are market risk, credit risk and liquidity risk.
+
+Strategic report
+
+
+Notes to the consolidated financial statements continued
+
+Credit risk
+Credit risk is the risk of financial loss if a customer or counterparty to a financial instrument fails to meet its contractual obligations.
+The carrying amount of financial assets represents the maximum credit exposure. For the Group, credit risk arises primarily from
+cash balances held at banks and other receivables. The risk in relation to cash balances is mitigated by keeping cash with reputable
+financial institutions with a high credit rating and keeping cash balances with payment processors for only as long as necessary.
+Liquidity risk
+Liquidity risk arises from the possibility that the Company and its subsidiaries might encounter difficulty in settling its debts or
+otherwise meeting its obligations related to financial liabilities. The Directors manage this risk by monitoring its financial resources and
+carefully planning its expenditure programmes. The Group has successfully raised finance, and the Directors consider the Group’s
+investment in cryptocurrencies to be highly liquid.
+Contractual maturity dates of the Group’s financial liabilities are detailed below. The amounts are undiscounted contractual payments
+and thus include future interest and charges.
+
+As at 31 October 2025
+
+Trade and other payable excluding non-financial liabilities
+Lease liabilities
+
+Less than
+
+After
+
+12 months
+
+12 months
+
+£
+
+£
+
+£
+
+375,087
+
+-
+
+375,087
+
+9,212
+
+28,423
+
+37,635
+
+Total
+
+Smarter Convert CLN
+
+15,619,518
+
+-
+
+15,619,518
+
+Total
+
+16,003,817
+
+28,423
+
+16,032,240
+
+As at 31 October 2024
+
+Trade and other payable excluding non-financial liabilities
+
+Less than
+
+After
+
+12 months
+
+12 months
+
+Total
+
+£
+
+£
+
+£
+
+14,815
+
+-
+
+14,815
+
+Borrowings
+
+1,005,396
+
+-
+
+1,005,396
+
+Total
+
+1,020,211
+
+-
+
+1,020,211
+
+The contractual amount payable on the Smarter Convert CLN, as detailed in note 24(d), is based on the price of Bitcoin at the date of
+settlement and is subject to the noteholder electing to redeem the note in cash, unless converted earlier by the Company. The figure
+used in the table above is based on the Directors’ estimated price of Bitcoin when the instrument matures on 25 August 2026.
+The Group has sufficient cash reserves to meet its lease and trade and other payables liabilities.
+Market risk
+The Group is not materially exposed to currency and interest rate risk. The Group’s market risk exposure is limited to price fluctuations
+in the value of Bitcoin, which the Directors monitor closely and do not generally rely on to fund working capital requirements. The
+Group’s remaining investment in listed securities is minimal and is not considered material.
+
+(d) Capital risk management
+The Board’s objectives when managing capital are to safeguard the Group’s ability to continue as a going concern, to enable the
+Group to continue its principal activities, and to maintain an optimal capital structure to reduce the cost of capital. The Group’s capital
+consists primarily of equity.
+
+
+Notes to the consolidated financial statements continued
+
+27. Related party transactions
+Related parties comprise of key management personnel who are the Directors of the Company. Their remuneration is detailed below:
+31 October 2025
+
+Short-term employment benefits
+
+31 October 2024
+
+£
+
+£
+
+652,463
+
+76,000
+
+Social security costs
+
+1,284
+
+-
+
+653,747
+
+76,000
+
+Keysford Limited, in which Sean Edward Wade is a Director, charged consultancy fees for the year ended 31 October 2025 of
+£18,000 (31 October 2024: £56,000), which are included within the table above. The amount owed to Keysford Limited at
+31 October 2025 was £nil (31 October 2024: £nil).
+123 Accounting Solutions Limited, in which Mario Visconti is a Director, charged consultancy fees for the year ended 31 October
+2025 of £13,000 (31 October 2024: £20,000), which are included within the table above. The amount owed to 123 Accounting
+Solutions Limited at 31 October 2025 was £nil (31 October 2024: £nil).
+Tyler Evans, a Director of the Company, received an Aquis admission success fee of £24,000 settled in shares of Company at the
+Aquis admission price of 2.5 pence.
+Within borrowings arising on acquisition of SWC Ltd, there was a balance of £694 owed to Andrew Webley and £1,401 Jo Webley.
+These represent loans made by the Director and a person connected to the Director. Both amounts were repaid during the year
+ended 31 October 2025.
+Andrew Webley and Jo Webley were the selling shareholders of SWC Ltd, which was acquired during the interim period. Details of
+the consideration transferred are included in note 28.
+In addition, Andrew Webley subscribed to 1,600,000 shares at the Aquis admission price of 2.5 pence.
+
+28. Business combinations
+On 25 April 2025, the Company completed the acquisition of the entire issued share capital of SWC Ltd, a web design
+company. As part of the consideration, the Company issued ordinary shares to the former shareholders of SWC Ltd, giving them
+35% ownership of the enlarged group and SWC’s CEO, joined the Company’s board.
+The fair value of assets acquired and the resulting goodwill is detailed below is detailed below:
+£
+
+Intangible asset – Cryptocurrency
+
+600,746
+
+Other intangible assets
+
+295,371
+
+Property, plant and equipment
+
+11,358
+
+Right of use assets
+
+25,997
+
+Trade and other receivables
+
+
+Financial assets – listed securities
+
+85,485
+
+Cash and cash equivalents
+
+12,299
+
+Trade and other payables
+
+(43,819)
+
+Borrowings
+
+(2,095)
+
+Lease liabilities
+
+(42,241)
+
+Deferred tax liability
+
+(79,433)
+
+Net identifiable assets acquired
+
+864,415
+
+Goodwill
+Consideration
+
+746,315
+1,610,730
+
+Strategic report
+
+
+Notes to the consolidated financial statements continued
+
+The goodwill is attributable to the workforce and an increase in market share. It will not be deductible for tax purposes.
+
+Purchase consideration
+£
+
+Issue of 25,778,732 ordinary shares
+
+644,468
+
+Cash consideration
+
+90,000
+
+Warrants issued to sellers as consideration
+
+316,662
+
+Loan advanced by the Company prior to acquisition
+
+559,600
+1,610,730
+
+The fair value of the ordinary shares issued as the part of the consideration was determined based on the Aquis IPO price. The fair
+value of the warrants issued as part of the consideration is detailed in note 21. The acquisition related costs were immaterial.
+
+Cash flow
+£
+
+Cash paid as consideration
+
+(90,000)
+
+Less cash acquired at acquisition
+
+12,299
+
+Net cash outflow on acquisition
+
+(77,701)
+
+Revenue and profit contribution
+The acquired business contributed revenues of £70,029 and net profit of £8,005 to the Group for the period from acquisition to
+31 October 2025. If the acquisition had occurred on 1 November 2024, consolidated pro-forma revenue and profit for the year ended
+31 October 2025 would have been £154,738 and £184,858 respectively.
+
+29. Subsidiaries
+As at 31 October 2025, the Company had the following subsidiaries:
+Proportion of equity shares and
+voting rights held by the Company
+
+Nature of business
+
+160 Aztec West, Almondsbury, Bristol,
+United Kingdom, BS32 4TU
+
+100%
+
+Web portals
+
+230 Works Business Centre Second
+Floor, Triq Ilkungress Ewkaristiku, Mosta,
+MST 9039, Malta
+
+100%
+
+Treasury company
+
+Company
+
+Registered office
+
+The Smarter Web Company Operations
+Limited (formerly The Smarter Web
+Company Limited)
+SWC Holdings Malta Limited
+
+30. Post Balance Sheet Events
+On 23 December 2025, the Company entered into a new subscription agreement with Shard Merchant Capital Ltd, replacing the
+subscription agreement entered into on 3 September 2025. The agreement provides for the issue of 50,000,000 new ordinary
+shares at par value and also covers 13,240,500 ordinary shares previously issued and not yet sold, resulting in an aggregate available
+allocation of 63,240,500 ordinary shares. Under the agreement, Shard Merchant Capital Ltd may sell ordinary shares on behalf of
+the Company subject to agreed restrictions, including weekly volume limits linked to market trading closing price, and the Company’s
+ability to suspend or recommence sales at its discretion, with the Company entitled to receive approximately 98.25% of the gross
+proceeds from any shares sold. Admission to trading of the new ordinary shares took place on 2 January 2026.
+On 3 February 2026, the Company’s ordinary shares were admitted to trading on Commercial Companies (Equity Shares) category
+of the Main Market of the London Stock Exchange.
+
+
+Company statement of financial position
+As at 31 October 2025
+
+Notes
+
+31 October
+
+31 October
+
+2025
+
+2024
+
+£
+
+£
+
+Assets
+Non-current assets
+Investment in subsidiaries
+
+C5
+
+1,051,131
+
+
+Cryptocurrency
+
+C6
+
+220,003,460
+
+-
+
+Property, plant and equipment
+
+C7
+
+5,928
+
+-
+
+221,060,519
+
+
+467,062
+
+3,374
+
+Total non-current assets
+Current assets
+Trade and other receivables
+
+C8
+
+Cash and cash equivalents
+
+C9
+
+Total current assets
+Total assets
+
+1,463,923
+
+109,252
+
+1,930,985
+
+112,626
+
+222,991,504
+
+112,627
+
+Liabilities
+Current liabilities
+Trade and other payables
+
+C10
+
+450,080
+
+27,441
+
+Borrowings
+
+C11
+
+10,957,578
+
+1,005,396
+
+11,407,658
+
+1,032,837
+
+Total current liabilities
+Non-current liabilities
+Deferred tax liabilities
+
+C12
+
+Total non-current liabilities
+Net assets
+
+1,211,539
+
+-
+
+1,211,539
+
+-
+
+210,372,307
+
+(920,210)
+
+Equity
+Share capital
+
+C13
+
+645,687
+
+352,500
+
+Share premium
+
+C13
+
+208,760,100
+
+1,515,032
+
+618,689
+
+-
+
+Merger relief reserve
+Warrant reserve
+Accumulated losses
+Total equity
+
+C13
+
+1,180,063
+
+-
+
+(832,232)
+
+(2,787,742)
+
+210,372,307
+
+(920,210)
+
+The notes of page 66 to 69 form part of these financial statements.
+Under s408 of the Companies Act 2006 the Company is exempt from the requirement to present its own statement of comprehensive income.
+The profit after tax for the year ended 31 October 2025 was £1,616,322 (2024: loss £504,701).
+The financial statements of The Smarter Web Company Plc, company registered number 00092343, were approved by the board, and authorised
+for issue on 19 February 2026 and signed on its behalf by:
+
+Albert Soleiman
+Chief Financial Officer
+
+
+Strategic report
+
+
+Company statement of changes in equity
+for the year ended 31 October 2025
+
+As at 31 October 2023
+Total comprehensive loss for the year
+At 31 October 2024
+Total comprehensive income for the year
+
+Share
+
+Share
+
+Merger
+
+Warrant
+
+Accumulated
+
+Total
+
+capital
+
+premium
+
+relief reserve
+
+reserve
+
+losses
+
+equity
+
+£
+
+£
+
+£
+
+£
+
+£
+
+£
+
+352,500
+
+1,515,032
+
+-
+
+-
+
+(2,283,041)
+
+(415,509)
+
+-
+
+-
+
+-
+
+-
+
+(504,701)
+
+(504,701)
+
+352,500
+
+1,515,032
+
+-
+
+-
+
+(2,787,742)
+
+(920,210)
+
+-
+
+-
+
+-
+
+-
+
+1,616,322
+
+1,616,322
+
+Transactions with owners:
+199,570
+
+212,390,172
+
+-
+
+-
+
+-
+
+212,589,742
+
+Issue costs
+
+Shares issued
+
+-
+
+(6,403,923)
+
+-
+
+833,306
+
+-
+
+(5,570,617)
+
+Share-based payments – advisor warrants
+
+-
+
+(30,095)
+
+-
+
+30,095
+
+-
+
+-
+
+Acquisition of subsidiary
+
+25,779
+
+-
+
+618,689
+
+316,662
+
+-
+
+961,130
+
+Conversion of convertible loan note
+
+67,838
+
+1,288,914
+
+-
+
+-
+
+339,188
+
+1,695,940
+
+Total transactions with owners
+
+293,187 207,245,068
+
+618,689
+
+1,180,063
+
+339,188
+
+209,676,195
+
+As at 31 October 2025
+
+645,687 208,760,100
+
+618,689
+
+1,180,063
+
+(832,232) 210,372,307
+
+
+Notes to the parent company
+financial statements
+for the year ended 31 October 2025
+
+C1 Basis of preparation of the Company
+financial statements
+The Company meets the definition of a qualifying entity
+under FRS 100 ‘Financial Reporting Standard 100’ issued by
+the Financial Reporting Council. Accordingly, the financial
+statements have been prepared in accordance with FRS 101
+‘Reduced Disclosure Framework’ and in accordance with
+the Companies Act 2006 as applicable to companies using
+FRS 101.
+The Company previously prepared its financial statements in
+accordance with IAS. Due to the similarities between FRS 101
+and IAS, there are no adjustments on transition to FRS 101.
+The Company financial statements have been prepared on the
+going concern basis and under the historical cost convention,
+except for revaluation of assets and liabilities recognised at
+fair value.
+The Company financial statements are presented in Pound
+Sterling, which is its functional and presentational currency.
+Preparation of financial statements under FRS 101 requires the
+application of the recognition, measurement and disclosure
+requirements of IAS but allows for the following disclosure
+exemptions:
+•	FRS 101.8 (d): the requirements of IFRS 7 ‘Financial
+Instruments: Disclosures’ to make disclosures about financial
+instruments;
+•	FRS 101.8 (e): the requirements of IFRS 13 ‘Fair Value
+Measurement’ (disclosure of valuation techniques and inputs
+used for fair value measurement of assets and liabilities);
+•	FRS 101.8 (g): the requirements of paragraphs 10(d),
+10(f), 16, 38A, 38B, 38C, 38D, 111, and 134 to 136 of IAS 1
+‘Presentation of Financial Statements’ to produce a cash flow
+statement and to make an explicit and unreserved statement
+of compliance with IFRSs, additional comparative information
+and capital management information;
+•	FRS 101.8 (h): the requirements of IAS 7 ‘Statements of Cash
+Flows’ to produce a cash flow statement and related notes;
+
+•	FRS 101.8 (i): the requirements of paragraphs 30 and 31 of
+IAS 8 ‘Accounting Policies, Changes in Accounting Estimates
+and Errors’ to include a list of new IFRSs that have been
+issued but that have yet to be applied;
+•	FRS 101.8 (j): the requirements of paragraph 17 of IAS 24
+‘Related Party Disclosures’ (key management compensation);
+•	FRS 101.8 (k): the requirements of IAS 24 ‘Related Party
+Disclosures’ to disclose related party transactions entered
+between two or more members of a group, provided that any
+subsidiary which is party to a transaction is wholly owned by
+such a member.
+•	FRS 101.7A: the requirements of paragraphs 6-21 of IFRS 1
+‘First Time Adoption of International Financial Reporting
+Standards to present an opening statement of financial
+position at the date of transition.
+The preparation of financial statements in conformity with
+FRS 101 requires the use of certain critical accounting estimates.
+It also requires management to exercise its judgement in the
+process of applying the Company’s accounting policies. The
+areas involving a higher degree of judgement or complexity, or
+areas where assumptions and estimates are significant to the
+financial statements are disclosed in note 3 to the consolidated
+financial statements.
+
+C2 Material accounting policies
+The adopted principal accounting policies are the same as
+those set out in note 2 to the consolidated financial statements.
+The accounting policy described below is in addition to the
+accounting policies disclosed in the consolidated financial
+statements and is specific to the Company’s standalone
+financial statements.
+
+Investment in subsidiaries
+Equity investments in the Company’s subsidiaries are stated
+at cost, which is the fair value of the consideration paid, less
+impairment.
+
+C3 Auditors’ remuneration
+Auditors’ remuneration is disclosed within note 4 to the
+consolidated financial statements.
+
+
+Strategic report
+
+
+Notes to the parent company financial statements continued
+
+C4 Employees and Directors
+The average number of employees and directors during the year was:
+31 October 2025
+
+31 October 2024
+
+No.
+
+No.
+
+Directors
+
+
+Staff
+
+
+-
+
+
+31 October 2025
+
+31 October 2024
+
+No.
+
+No.
+
+1,051,131
+
+
+Directors’ remuneration is disclosed within the Directors’ Remuneration Report.
+
+C5 Investment in subsidiaries
+
+Investment in subsidiaries
+
+The list of subsidiaries is included in note 29 to the consolidated financial statements. Changes in the investment in subsidiaries
+balance is detailed below:
+31 October 2025
+£
+
+Cost at 1 November 2024
+
+
+Acquisition of SWC Ltd
+
+1,051,130
+
+Carrying amount at 31 October 2025
+
+1,051,131
+
+During the year, the Company acquired 100% of the issued share capital of SWC Ltd. Details of the consideration transferred are
+included in note 28 to the consolidated financial statements.
+
+C6 Cryptocurrency
+£
+
+Fair value
+As at 1 November 2024
+Additions
+Fair value losses, recognised in profit or loss
+As at 31 October 2025
+
+220,547,185
+(543,725)
+220,003,460
+
+The fair value of Bitcoin as at 31 October 2025 was calculated by reference to the unadjusted market price as at 23:59 UK time on
+31 October 2025, provided by the Group’s bitcoin broker. Had Bitcoin been measured on a historical cost basis, its carrying value
+would have been £220,547,184 as at 31 October 2025 (31 October 2024: £nil).
+
+
+Notes to the parent company financial statements continued
+
+C7 Property, plant and equipment
+Fixtures and fittings
+£
+
+Cost
+As at 01 November 2024
+
+-
+
+Additions
+
+5,598
+
+As at 31 October 2025
+
+5,598
+
+Accumulated depreciation
+As at 01 November 2024
+
+-
+
+Depreciation
+
+
+As at 31 October 2025
+
+
+Carrying amount
+As at 31 October 2025
+
+5,928
+
+C8 Trade and other receivables
+31 October 2025
+
+31 October 2024
+
+£
+
+£
+
+-
+
+1,174
+
+VAT receivables
+
+87,564
+
+-
+
+Prepayments
+
+89,521
+
+-
+
+289,977
+
+2,200
+
+467,062
+
+3,374
+
+Intercompany receivable
+
+Other receivables
+
+The other receivables balance of £289,977 includes £271,938 of funds due for ATM shares placed on 31 October 2025 (31 October
+2024: £nil), which were received subsequent to the year end.
+
+C9 Cash and cash equivalents
+
+Cash at bank and on hand
+
+31 October 2025
+
+31 October 2024
+
+£
+
+£
+
+1,463,923
+
+109,252
+
+31 October 2025
+
+31 October 2024
+
+£
+
+£
+
+All cash held are denominated in GBP.
+
+C10 Trade and other payables
+
+Intercompany payable
+
+60,970
+
+-
+
+Trade payables
+
+118,633
+
+
+Accruals
+
+34,275
+
+14,785
+
+-
+
+12,625
+
+VAT payable
+Other creditors
+
+
+236,202
+
+-
+
+450,080
+
+27,441
+
+Strategic report
+
+
+Notes to the parent company financial statements continued
+
+C11 Borrowings
+Please refer to note 24 to the consolidated financial statements.
+
+C12 Deferred tax liability
+Smarter Convert CLN
+
+Total
+
+£
+
+£
+
+As at 1 November 2024
+
+-
+
+-
+
+Charged to profit or loss
+
+1,211,539
+
+1,211,539
+
+As at 31 October 2025
+
+1,211,539
+
+1,211,539
+
+Deferred tax has been measured at the enacted corporation tax rate of 25%. As at 31 October 2025, the Company has unused
+tax losses of £1,988,685 (2024: £1,145,530) available for offset against future profits. No deferred tax asset has been recognised in
+respect of these losses (2024: £nil) as it is not considered probable that there will be future taxable profits available. All tax losses
+arose in the UK and may be carried forward indefinitely.
+
+C13 Share capital and other reserves
+Details of the Company’s share capital and share premium are included in note 20 to the consolidated financial statements. Details of
+the Warrant Reserve are included in notes 21 to the consolidated financial statements respectively.
+
+C14 Related party transactions
+In preparing these parent company financial statements, the Company has taken advantage of the exemption available under
+FRS 101 from the disclosure requirements of IAS 24 Related Party Disclosures. The Company has not entered into any related party
+transactions with directors or persons connected with them that were not conducted on normal market terms during the year.
+
+C15 Post Balance Sheet Events
+Details of post balance sheet events are included in note 30 to the consolidated financial statements.
+
+
+Designed and
+printed by:
+
+perivan.com
+
+Directors, Company Secretary,
+Registered Office and Advisers
+Directors
+Sean Edward Wade (Independent Non-Executive Chairman)
+Andrew Simon John Webley (Chief Executive Officer)
+Albert Soleiman (Chief Financial Officer)
+Randal Casson (Independent Non-Executive Director)*
+Tyler Matthew Evans (Non-Executive Director)
+Martin Keith Thomas (Independent Non-Executive Director)
+* Senior Independent Director
+
+Company Secretary
+MSP Corporate Services Limited
+27–28 Eastcastle Street
+London
+W1W 8DH
+United Kingdom
+Registered Office of the Company
+160 Aztec West
+Almondsbury
+Bristol
+BS32 4TU
+United Kingdom
+Financial Adviser
+Strand Hanson Limited
+26 Mount Row
+London
+W1K 3SQ
+United Kingdom
+Broker
+Shard Capital Partners LLP
+(trading as Tennyson Securities)
+36–38 Cornhill
+London
+EC3V 3NG
+United Kingdom
+English Legal Advisers to the Company
+Hill Dickinson LLP
+The Broadgate Tower
+20 Primrose Street
+London
+EC4A 2EW
+United Kingdom
+US Legal Advisers to the Company
+Snell & Wilmer LLP
+One East Washington Street
+Suite 2700
+Phoenix
+Arizona
+United States of America
+
+Auditors
+PKF Littlejohn LLP
+15 Westferry Circus
+Canary Wharf
+London
+E14 4HD
+United Kingdom
+Registrar
+Share Registrars Limited
+3 Millennium Centre
+Crosby Way
+Farnham
+Surrey
+GU9 7XX
+United Kingdom
+
+
