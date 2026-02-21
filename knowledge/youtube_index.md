@@ -8,7 +8,7 @@ High-level thematic grouping of YouTube videos to aid in date-based and topic-ba
 ## Video Series
 
 ### "A Week In The World Of SWC" (Weekly Series)
-**Episodes:** #3-21 (Episodes #1-2 not in dataset)
+**Episodes:** #3-22 (Episodes #1-2 not in dataset)
 **Frequency:** Weekly updates
 **Host:** Andrew Webley (CEO)
 **Content:** Weekly company updates, Bitcoin purchases, share price discussions, strategy updates
@@ -23,6 +23,7 @@ High-level thematic grouping of YouTube videos to aid in date-based and topic-ba
 - Episode #10: 2025-07-11
 - Episode #11: 2025-07-23
 - Episode #21: 2026-01-14
+- Episode #22: 2026-02-19
 
 **Selection Tip:** Use for regular CEO updates and weekly company progress.
 
@@ -40,6 +41,7 @@ High-level thematic grouping of YouTube videos to aid in date-based and topic-ba
 - Episode #38: 2025-07-02 (CEO Update On The Growth Engine)
 - Episode #54: 2025-12-03 (General Update)
 - Episode #56: 2026-01-19 (Monday) - LSE Uplisting and Catalysts 2026
+- Episode #57: 2026-02-11 - LSE Effect, Index Inclusion
 
 **Selection Tip:** Use for in-depth strategy discussions and CEO insights.
 
@@ -89,7 +91,7 @@ High-level thematic grouping of YouTube videos to aid in date-based and topic-ba
 
 ---
 
-### Recent Developments (November 2025 - January 2026)
+### Recent Developments (November 2025 - February 2026)
 - 2025-11-28: THE SMARTER WEB COMPANY: GETTING STRONGER THROUGH VOLATILITY ANDREW WEBLEY
 - 2025-12-02: The Smarter Web Company General Meeting - 02 December 2025
 - 2025-12-03: Bitcoin Treasuries World #54 - Smarter Webley Wednesday w/Andrew Webley - General Update
@@ -98,6 +100,12 @@ High-level thematic grouping of YouTube videos to aid in date-based and topic-ba
 - 2026-01-21: 🇬🇧SMARTER WEB COMPANY LISTED ON UK STOCK EXCHANGE & UPCOMING CONFERENCE⚡️ANDREW WEBLEY🗣️
 - 2026-01-22: SWC The Smarter Web Company Growth Story Isn't Over London Stock Exchange Next
 - 2026-01-23: Smarter Web - Uplist to London Stock Exchange - Livestream discussion
+- 2026-02-05: CEO rings London Stock Exchange bell - Better than my wedding day - Smarter Web IPO story
+- 2026-02-06: Bitcoin isn't volatile people are - Smarter Web Company CEO on LSE listing and treasury strategy
+- 2026-02-11: Bitcoin Treasuries World #57 - Smarter Webley Wednesday w/Andrew - LSE Effect, Index Inclusion
+- 2026-02-12: SWC Andrew and Jesse LSE Recap
+- 2026-02-14: He Went All In on Smarter Web SWC After 10 Days w/James SWCandBTC - Proof of Pain
+- 2026-02-19: A Week In The World Of SWC Episode #22
 
 **Selection Tip:** Use for latest developments, LSE uplisting, and current strategy.
 
@@ -129,7 +137,7 @@ High-level thematic grouping of YouTube videos to aid in date-based and topic-ba
 - **Pre-IPO (March-April 2025):** Limited content, focus on IPO announcement videos
 - **IPO Period (April-May 2025):** IPO discussions, early strategy
 - **Growth Period (June-July 2025):** Heavy content, mNAV updates, growth narrative
-- **Recent Period (November 2025 - January 2026):** LSE uplisting, current strategy
+- **Recent Period (November 2025 - February 2026):** LSE uplisting, current strategy
 
 ### By Topic
 - **Bitcoin Strategy:** Filter by "Bitcoin", "treasury", "mNAV"
