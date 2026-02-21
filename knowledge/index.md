@@ -54,9 +54,9 @@ This index maps queries to relevant data sources and provides selection guidance
 - Cross-reference with RNS for purchase dates
 - Use code execution for filtering, aggregation, plots
 
-### `/RNS/` (106 PDFs)
+### `/RNS/` (113 files)
 **Purpose:** Official regulatory announcements
-**Date Range:** April 2025 - January 2026
+**Date Range:** April 2025 - February 2026
 **Triggers:** RNS, regulatory, official announcement, Bitcoin purchase announcement, placing, fundraise, bookbuild, subscription, director appointment, TR1, major shareholder, trading update, AGM, general meeting, results, official filing, when did SWC buy Bitcoin, how much did they raise, new director
 **Key Types:**
 - Bitcoin purchase announcements (filter by "Bitcoin" or "purchase")
@@ -71,12 +71,12 @@ This index maps queries to relevant data sources and provides selection guidance
 - Keyword search in filenames for type-specific queries
 - Cross-reference with CSV for quantitative validation
 
-### `/Youtube/` (90 .txt files)
+### `/Youtube/` (96 .txt files)
 **Purpose:** Video transcripts with CEO insights and strategy discussions
-**Date Range:** April 2025 - January 2026
+**Date Range:** April 2025 - February 2026
 **Triggers:** YouTube, video, interview, podcast, transcript, what did Andrew say, CEO commentary, strategy discussion, Bitcoin Treasuries World, BTW, Week In The World, mNAV update, investor call, presentation, panel, conference, True North Now, IG interview
 **Key Series:**
-- "A Week In The World Of SWC" (Episodes #3-21) - Weekly updates
+- "A Week In The World Of SWC" (Episodes #3-22) - Weekly updates
 - "Smarter Webley Wednesdays" - Regular CEO segments
 - mNAV update videos - Quantitative updates
 - Interviews and panel discussions
@@ -131,16 +131,18 @@ This index maps queries to relevant data sources and provides selection guidance
 - Filter by date for time-specific research
 - Use for investment analysis and projections
 
-### `/Smarter Web/` (9 text files)
+### `/Smarter Web/` (11 text files)
 **Purpose:** Company documents, governance, investor materials, research
 **Key Files & Triggers:**
 | File | Use When Query Mentions |
 |------|------------------------|
 | `16-01-2026-swc-prospectus.txt` | prospectus, LSE uplisting, FCA, risk factors, Main Market, Bitcoin treasury risks, regulatory |
+| `2026-02-20-SWC-Annual-Report.txt` | annual report, full year results, FY2025, annual accounts, yearly financials |
 | `AdmissionDocument.txt` | AQUIS, AQSE, IPO, how went public, listing, reverse takeover, shell company, history, founding |
+| `smarterweb-investor-presentation Digital. Capital. Designed. February 2026.txt` | latest investor presentation, Feb 2026 deck, current pitch deck, Digital Capital Designed |
 | `smarterweb-investor-presentation.txt` | investor presentation, investment thesis, pitch deck, why invest, valuation, strategy |
 | `2025-07-16-P-BYD-Ratio.txt` | P/BYD, valuation, Jesse Myers, how to value Bitcoin companies, yield, mNAV methodology |
-| `2025-07-25-interim-results.txt` | interim results, H1 2025, financials, earnings, profit/loss, revenue, balance sheet |
+| `2025-07-25-Half year financial report.txt` | interim results, H1 2025, financials, earnings, profit/loss, revenue, balance sheet |
 | `Corporate governance...txt` | corporate governance, QCA Code, governance principles, board responsibilities, compliance |
 | `Directors & advisers...txt` | board, directors, advisers, Tyler Evans, Sean Wade, Randal Casson, Martin Thomas, Albert Soleiman, CFO, chairman |
 | `Equity snapshot...txt` | shares outstanding, warrants, shareholders, dilution, ownership, 210k Capital, Smarter Convert |
