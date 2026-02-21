@@ -2,9 +2,9 @@
 
 > **A comprehensive dataset for analyzing the first UK-listed company with a Bitcoin treasury strategy**
 
-[![Data](https://img.shields.io/badge/Data-294%20files-blue)](https://github.com/Jaakuice/SWC_Big_Brain_Ai)
-[![YouTube](https://img.shields.io/badge/YouTube-90%20transcripts-red)](https://github.com/Jaakuice/SWC_Big_Brain_Ai)
-[![Tweets](https://img.shields.io/badge/Tweets-1,296%20posts-1DA1F2)](https://github.com/Jaakuice/SWC_Big_Brain_Ai)
+[![Data](https://img.shields.io/badge/Data-313%20files-blue)](https://github.com/Jaakuice/SWC_Big_Brain_Ai)
+[![YouTube](https://img.shields.io/badge/YouTube-96%20transcripts-red)](https://github.com/Jaakuice/SWC_Big_Brain_Ai)
+[![Tweets](https://img.shields.io/badge/Tweets-1,472%20posts-1DA1F2)](https://github.com/Jaakuice/SWC_Big_Brain_Ai)
 
 ---
 
@@ -13,6 +13,8 @@
 - [Description](#description)
 - [Data Overview](#data-overview)
 - [Example Queries](#example-queries)
+- [Setup for AI Analysis](#setup-for-ai-analysis)
+  - [Complete Beginner's Guide](#-new-to-ai-assistants-or-coding)
 - [Data Quality and Sources](#data-quality-and-sources)
 - [Disclaimer](#disclaimer)
 - [Contributing](#contributing)
@@ -29,9 +31,9 @@ This repository contains a comprehensive, structured dataset for analyzing **The
 ### What Makes This Dataset Valuable
 
 - **First-of-its-kind:** First UK-listed company with Bitcoin treasury strategy
-- **Comprehensive coverage:** 90+ YouTube transcripts, 106 regulatory filings, financial time-series data, and social media archives
+- **Comprehensive coverage:** 96+ YouTube transcripts, 113 regulatory filings, financial time-series data, and social media archives
 - **Multi-source analysis:** Combines official regulatory data (RNS), quantitative metrics (CSV), CEO commentary (tweets/YouTube), and independent analysis
-- **Time-series depth:** Data spans from pre-IPO (March 2025) through January 2026, capturing the complete journey from IPO to growth
+- **Time-series depth:** Data spans from pre-IPO (March 2025) through February 2026, capturing the complete journey from IPO to growth
 - **AI-ready:** Optimized for use with AI tools like Claude Projects, enabling progressive disclosure and intelligent querying
 
 ### Analysis Capabilities
@@ -50,20 +52,16 @@ This dataset enables deep analysis across multiple dimensions:
 
 | Category | Count | Description | Date Range |
 |----------|-------|-------------|------------|
-| **YouTube Transcripts** | 90 | Video content (~35-40 hours) | Apr 2025 - Jan 2026 |
-| **CEO Tweets** | 865 | @asjwebley curated posts | Jun 2024 - Jan 2026 |
-| **Company Tweets** | 136 | @smarterwebuk curated posts | Mar 2025 - Jan 2026 |
-| **HoBS Tweets** | 295 | @Croesus_BTC curated posts | Feb 2025 - Jan 2026 |
-| **RNS Filings** | 106 | Regulatory PDFs | Apr 2025 - Jan 2026 |
+| **YouTube Transcripts** | 96 | Video content (~40-45 hours) | Apr 2025 - Feb 2026 |
+| **CEO Tweets** | 894 | @asjwebley curated posts | Jun 2024 - Feb 2026 |
+| **Company Tweets** | 148 | @smarterwebuk curated posts | Mar 2025 - Feb 2026 |
+| **HoBS Tweets** | 430 | @Croesus_BTC curated posts | Feb 2025 - Feb 2026 |
+| **RNS Filings** | 113 | Regulatory filings | Apr 2025 - Feb 2026 |
 | **Research Reports** | 20 | Tennyson broker analysis | May 2025 - Oct 2025 |
 | **Financial Data** | 1 | CSV time-series (hourly/daily) | Apr 2025+ |
-| **Company Docs** | 9 | Prospectus, admission docs | Various |
-| **Media Articles** | 10 | News coverage, TV appearances | Mar 2025 - Sep 2025 |
-| **TOTAL** | **~294 files** | | |
-
----
-
-https://github.com/user-attachments/assets/d836d220-919d-408f-99b8-4a4334ff0386
+| **Company Docs** | 11 | Prospectus, admission docs, annual report | Various |
+| **Media Articles** | 13 | News coverage, TV appearances | Mar 2025 - Feb 2026 |
+| **TOTAL** | **~313 files** | | |
 
 ---
 
@@ -76,28 +74,19 @@ This dataset is ideal for use with AI tools like **Claude Projects** (progressiv
 <details>
 <summary>Click to view example response</summary>
 
-Based on the financial data in the CSV file, here's how SWC's sats per share has evolved since IPO:                                                           
-                                                                                                                                                                
-  Current Status:                                                                                                                                               
-  The current sats per share stands at 677 sats as of January 30, 2026. This represents a remarkable increase from the IPO level of just 1 sat per share on     
-  April 25, 2025.                                                                                                                                               
-                                                                                                                                                                
-  Change Since IPO:                                                                                                                                             
-  - Absolute increase: +676 sats per share                                                                                                                      
-  - Percentage increase: +71,413%                                                                                                                               
-  - Time period: 280 days                                                                                                                                       
-                                                                                                                                                                
-  Key Drivers:                                                                                                                                                  
-  The dramatic increase in sats per share reflects SWC's aggressive Bitcoin treasury strategy execution:                                                        
-                                                                                                                                                                
-  1. Bitcoin Accumulation: The company has grown its Bitcoin holdings from 2.30 BTC at IPO to 2,674 BTC currently—a 1,162x increase in absolute Bitcoin         
-  holdings.                                                                                                                                                     
-  2. Share Dilution Impact: While total shares outstanding increased from 146.9 million to 350.2 million (138% dilution), the Bitcoin accumulation significantly
-   outpaced this dilution, resulting in the strong sats per share growth.                                                                                       
-  3. Capital Deployment: The company has used capital raises (reflected in the share issuance) to aggressively acquire Bitcoin, with the Bitcoin accumulation   
-  rate far exceeding the share dilution rate.                                                                                                                   
-                                                                                                                                                                
-  [Data source: knowledge/Smarter Web Data.csv - rows for 2025-04-25 (IPO) and 2026-01-30 (latest)]  
+**Current Sats Per Share:** 894.02 sats per share (as of January 22, 2026)
+
+**Change Since IPO:**
+- At IPO (April 25, 2025): 1.57 sats per share
+- As of January 22, 2026: 894.02 sats per share
+- **Increase:** +892.45 sats per share (+57,001.15%)
+
+This increase reflects:
+- Bitcoin purchases increasing the BTC balance
+- Share issuances affecting the denominator
+- Bitcoin price movements affecting the BTC balance value
+
+**Source:** `Smarter Web Data.csv` - IPO date (2025-04-25) and latest entry (2026-01-22)
 
 > ⚠️ This analysis is based on publicly available data and should not be considered financial advice. Past performance is not indicative of future results.
 
@@ -288,6 +277,8 @@ The graph is saved at 300 DPI resolution (4175 x 2985 pixels) and shows the prog
 
 ### Setup for AI Analysis
 
+> **👋 New to AI assistants or coding?** Check out our **[Complete Beginner's Guide](BEGINNER_GUIDE.md)** - it walks you through everything step-by-step, from download to asking your first question. No technical knowledge required!
+
 #### Quick Start
 
 ### 1. Clone or Download the Repository
@@ -387,15 +378,15 @@ SWC-Ai/
 │   ├── example_financial_metrics.md    # Reference examples
 │   ├── example_timeline_events.md      # Reference examples
 │   └── Smarter Web Data.csv     # Core financial time-series data
-├── RNS/                         # Regulatory News Service filings (106 PDFs)
-├── Youtube/                     # YouTube transcripts (90 TXT files)
+├── RNS/                         # Regulatory News Service filings (113 files)
+├── Youtube/                     # YouTube transcripts (96 TXT files)
 ├── Tweets/                      # Social media archives
-│   ├── asjwebley/               # CEO tweets (865 posts)
-│   ├── smarterwebuk/            # Company tweets (136 posts)
-│   └── Croesus_BTC/             # Analyst tweets (295 posts)
+│   ├── asjwebley/               # CEO tweets (894 posts)
+│   ├── smarterwebuk/            # Company tweets (148 posts)
+│   └── Croesus_BTC/             # Analyst tweets (430 posts)
 ├── Tennyson/                    # Broker research (20 PDFs)
-├── Smarter Web/                 # Company documents (9 files)
-└── Legacy media/                # Historical coverage (10 TXT files)
+├── Smarter Web/                 # Company documents (11 files)
+└── Legacy media/                # Historical coverage (13 TXT files)
 ```
 
 ---
@@ -426,6 +417,6 @@ This project aims to provide the most comprehensive publicly available dataset o
 
 ---
 
-**Last Updated:** January 2026
+**Last Updated:** February 2026
 
 > This repository provides a comprehensive knowledge base for analyzing The Smarter Web Company's unique journey as the first UK-listed company with a Bitcoin treasury strategy.
