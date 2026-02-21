@@ -5,21 +5,22 @@
 This directory contains structured data extracted from @asjwebley's X.com timeline.
 
 **Source:** `@asjwebley_X.html` (saved Nitter frontend page); `Andrew Webley (@asjwebley) _ lightbrd.html` (lightbrd snapshot).
-**Extracted:** January 27, 2026 at 12:05 PM; **updated** January 30, 2026 with missing tweets from lightbrd HTML.
-**Total Timeline Items:** 1330
-**Meaningful Posts:** 865 (including 4 added from lightbrd snapshot)
-**Filtered Out:** 469
+**Extracted:** January 27, 2026 at 12:05 PM; **updated** January 30, 2026 with missing tweets from lightbrd HTML; **updated** February 19, 2026 with Jan/Feb 2026 tweets from lightbrd HTML.
+**Total Timeline Items:** 1330+
+**Meaningful Posts:** 894
+**Filtered Out:** 469+
 
 ## Statistics
 
 ### By Post Type
-- **original**: 227
-- **quote**: 91
-- **reply**: 529
+- **original**: 239
+- **quote**: 101
+- **reply**: 536
 - **repost_with_comment**: 18
 
 ### By Month
-- **2026-01**: 40 posts
+- **2026-02**: 26 posts
+- **2026-01**: 43 posts
 - **2025-12**: 46 posts
 - **2025-11**: 56 posts
 - **2025-10**: 55 posts
@@ -41,7 +42,8 @@ This directory contains structured data extracted from @asjwebley's X.com timeli
 ## Files
 
 Monthly JSON files in format `posts-YYYY-MM.json`:
-- `posts-2026-01.json` (40 posts)
+- `posts-2026-02.json` (26 posts)
+- `posts-2026-01.json` (43 posts)
 - `posts-2025-12.json` (46 posts)
 - `posts-2025-11.json` (56 posts)
 - `posts-2025-10.json` (55 posts)
@@ -99,7 +101,7 @@ Posts were filtered to exclude:
 - **Parser:** BeautifulSoup4 with lxml
 - **Source elements:** `<div class="timeline-item" data-username="asjwebley">`
 - **Text extraction:** Excludes quoted content from quote tweets
-- **Engagement data:** Snapshot from January 27, 2026
+- **Engagement data:** Snapshot from January 27, 2026; February 2026 data from February 19, 2026
 
 ## January 2026 update (lightbrd HTML)
 
@@ -110,6 +112,17 @@ Four missing tweets were added to `posts-2026-01.json` from `Andrew Webley (@asj
 - **2016566382045884614** (Jan 28) — Reply: Aquis to LSE / AIM to Main Market examples.
 
 Media arrays were left empty (no media URLs added) per archive policy.
+
+## February 2026 update (lightbrd HTML)
+
+January 2026 updated with 3 additional tweets (40 → 43 posts) and February 2026 added (26 posts) from `Andrew Webley (@asjwebley) _ lightbrd.html` snapshot taken February 19, 2026.
+
+New January posts:
+- **2017704095847465158** (Jan 31) — Original: Follow-up on Bitcoin price action.
+- **2017515205794631930** (Jan 31) — Reply: Attending an event.
+- **2017473893502505241** (Jan 31) — Quote: Weekly update on Aquis listing anniversary week.
+
+February 2026 (26 posts): LSE listing day, Strategy World announcement, weekly updates, Bitcoin purchase announcements, stamp duty inquiry, unconference promotion. 14 low-content replies filtered out.
 
 ## Usage
 
