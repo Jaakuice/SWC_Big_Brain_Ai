@@ -74,19 +74,24 @@ This dataset is ideal for use with AI tools like **Claude Projects** (progressiv
 <details>
 <summary>Click to view example response</summary>
 
-**Current Sats Per Share:** 894.02 sats per share (as of January 22, 2026)
-
-**Change Since IPO:**
-- At IPO (April 25, 2025): 1.57 sats per share
-- As of January 22, 2026: 894.02 sats per share
-- **Increase:** +892.45 sats per share (+57,001.15%)
-
-This increase reflects:
-- Bitcoin purchases increasing the BTC balance
-- Share issuances affecting the denominator
-- Bitcoin price movements affecting the BTC balance value
-
-**Source:** `Smarter Web Data.csv` - IPO date (2025-04-25) and latest entry (2026-01-22)
+Based on the financial data in the CSV file, here's how SWC's sats per share has evolved since IPO:                                                           
+                                                                                                                                                               
+  Current Status:                                                                                                                                               
+  The current sats per share stands at 677 sats as of January 30, 2026. This represents a remarkable increase from the IPO level of just 1 sat per share on April 25, 2025.    
+  
+  Change Since IPO:                                                                                                                                             
+  - Absolute increase: +676 sats per share                                                                                                                      
+  - Percentage increase: +71,413%                                                                                                                               
+  - Time period: 280 days                                                                                                                                       
+                                                                                                                                                             
+  Key Drivers:                                                                                                                                                  
+  The dramatic increase in sats per share reflects SWC's aggressive Bitcoin treasury strategy execution:                                                        
+                                                                                                                                                   
+  1. Bitcoin Accumulation: The company has grown its Bitcoin holdings from 2.30 BTC at IPO to 2,674 BTC currently—a 1,162x increase in absolute Bitcoin holdings.
+  2. Share Dilution Impact: While total shares outstanding increased from 146.9 million to 350.2 million (138% dilution), the Bitcoin accumulation significantly outpaced this dilution, resulting in the strong sats per share growth.                                                                                       
+  3. Capital Deployment: The company has used capital raises (reflected in the share issuance) to aggressively acquire Bitcoin, with the Bitcoin accumulation rate far exceeding the share dilution rate. 
+                                                                                                                                                           
+  [Data source: knowledge/Smarter Web Data.csv - rows for 2025-04-25 (IPO) and 2026-01-30 (latest)]  
 
 > ⚠️ This analysis is based on publicly available data and should not be considered financial advice. Past performance is not indicative of future results.
 
