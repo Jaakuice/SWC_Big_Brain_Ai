@@ -21,7 +21,7 @@ Categories of RNS types with date patterns and examples to aid in selection.
 
 ### Bitcoin Purchase Announcements
 **Keywords:** "Bitcoin", "purchase", "acquisition", "treasury"
-**Date Range:** April 2025 - January 2026
+**Date Range:** April 2025 - February 2026
 **Frequency:** Irregular, following fundraising or cash generation
 **Content:** Official announcements of Bitcoin purchases, amounts, rationale
 
@@ -33,7 +33,7 @@ Categories of RNS types with date patterns and examples to aid in selection.
 
 ### Share Issuance and Fundraising
 **Keywords:** "placing", "subscription", "bookbuild", "accelerated", "fundraising", "raise"
-**Date Range:** April 2025 - January 2026
+**Date Range:** April 2025 - February 2026
 **Types:**
 - Accelerated bookbuilds (ABB)
 - Subscriptions
@@ -48,7 +48,7 @@ Categories of RNS types with date patterns and examples to aid in selection.
 
 ### Director Appointments and Changes
 **Keywords:** "director", "appointment", "resignation", "board"
-**Date Range:** April 2025 - January 2026
+**Date Range:** April 2025 - February 2026
 **Content:** Board changes, director appointments, governance updates
 
 **Selection Tip:** Use for understanding governance and leadership changes.
@@ -122,11 +122,14 @@ Categories of RNS types with date patterns and examples to aid in selection.
 - Trading updates
 - Interim results (July 2025)
 
-### Recent Period (November 2025 - January 2026)
+### Recent Period (November 2025 - February 2026)
 - General meetings
 - Trading updates
 - Ongoing Bitcoin purchases
 - Corporate updates
+- LSE Main Market First Day of Dealings (February 2026)
+- Subscription agreement updates
+- Bitcoin purchase announcements
 
 ---
 
@@ -150,8 +153,8 @@ Categories of RNS types with date patterns and examples to aid in selection.
 
 ## File Count and Coverage
 
-**Total Files:** 106 PDFs
-**Date Range:** April 2025 - January 2026
+**Total Files:** 112 PDFs
+**Date Range:** April 2025 - February 2026
 **Coverage:** Comprehensive regulatory record of all material company events
 
 ---
@@ -169,7 +172,7 @@ Categories of RNS types with date patterns and examples to aid in selection.
 ## Example Queries and File Selection
 
 ### "All Bitcoin purchases announced by SWC"
-**Selection:** Filter RNS files by "Bitcoin" or "purchase" keyword, date range: April 2025 - January 2026
+**Selection:** Filter RNS files by "Bitcoin" or "purchase" keyword, date range: April 2025 - February 2026
 **Cross-reference:** CSV for quantitative validation
 
 ### "What RNS announcements were made in July 2025?"
