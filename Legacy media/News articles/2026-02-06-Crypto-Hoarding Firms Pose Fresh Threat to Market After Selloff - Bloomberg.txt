@@ -1,0 +1,47 @@
+Crypto-Hoarding Firms Pose Fresh Threat to Market After Rout
+
+By Suvashree Ghosh and Emily Nicolle
+February 6, 2026 at 1:15 PM GMT
+Updated on February 6, 2026 at 2:40 PM GMT
+
+Crypto-hoarding treasury companies, which helped turbocharge a digital-asset rally in last year's first nine months, are now at risk of sparking market contagion as selling pressure mounts.
+
+Publicly traded digital-asset treasuries, or DATs, have operated on the premise that accumulating specific cryptocurrencies would generate sustained stock market premiums. With the crypto market enduring its worst selloff since the aftermath of FTX's collapse, the cracks in that narrative are starting to show.
+
+Crypto treasuries could come under increased pressure to sell assets, according to an analysis of the top 20 DATs by Tokenize Capital Managing Partner Hayden Hughes. The threat to wider markets, Hughes said, comes more from the hit to investor confidence should these firms turn mass sellers.
+
+Bitcoin has fallen by almost half from its October peak above $126,000, leading a selloff that has erased almost $2 trillion in value from the broader crypto market. As prices drop, DATs without revenue will be forced to sell their crypto to fund basic operations, Hughes said.
+
+"For digital asset treasury companies with no revenue, no operating business, and no way to exit their treasury positions without destroying the market for those positions, the drawdown is existential," Hughes wrote in a report. "We call this the Hotel California trade: You can check in, but you can't check out."
+
+'Run Like Zombies'
+
+Still, these DATs can "run like zombie companies," said Pratik Kala, head of research at Apollo Crypto, a digital-asset hedge fund. The companies can borrow against their tokens, sell small quantities of them, or use options strategies to generate income, he added.
+
+DATs selling tokens is no longer unprecedented. Peter Thiel-backed Ethzilla Corp. sold $74.5 million of its Ether stockpile in December — its second sale. In November, FG Nexus disclosed that it sold almost 11,000 Ether, worth about $30 million at the time, to buy back shares. Sequans Communications sold part of its Bitcoin holdings that month to pay down debt.
+
+"The risk to broader markets isn't the direct selling pressure from DATs," Hughes said in an email. "It's the narrative contagion."
+
+Once a DAT files a corporate disclosure stating it sold a certain amount of crypto to fund its operations, it "shatters the thesis that these companies are permanent, conviction-driven accumulators," Hughes said. Falling DAT stock prices combined with exchange-traded fund outflows — more than $2 billion has exited US spot Bitcoin ETFs in the past month alone — could push the original cryptocurrency into the $50,000 to $55,000 range, he said.
+
+In the past year, 150 of the largest DATs have seen their median stock price tumble 62%, more than even Bitcoin, according to data compiled by Bloomberg. Several of these firms now trade at a discount to their holdings.
+
+The DATs that are most at risk include Enlivex Therapeutics Ltd., which accumulates the illiquid token RAIN, Twenty One Capital Inc. and XRP accumulator Evernorth Holdings Inc., according to Hughes's analysis. Twenty One Capital is backed by SoftBank Group Corp. and stablecoin issuer Tether Holdings Ltd.
+
+"Enlivex has no plans to sell its RAIN holdings," the company said in a statement. "We intend to continue increasing our position over time and remain the only publicly traded company offering direct exposure to prediction markets."
+
+Twenty One Capital and Evernorth didn't immediately respond to emailed requests for comment.
+
+Trump Media & Technology Group Corp., which holds Bitcoin and Cronos tokens, and Ether treasury BitMine Immersion Technologies Inc. have a medium-to-high probability of survival.
+
+"The Hotel California trade is being tested in real time," Hughes wrote, "and for the most vulnerable names, the music has stopped."
+
+Andrew Webley, chief executive officer of a DAT called The Smarter Web Company Plc, said he has no plans to sell.
+
+The company has mostly used equity to fund its Bitcoin purchases, Webley said, eschewing the complex debt structures used by some other DATs. Maintaining a healthy operating business alongside its Bitcoin treasury is what will keep the firm — whose main business is web design — afloat where others fail, he said.
+
+After initially debuting on a smaller UK exchange, The Smarter Web Company moved its listing to London's main market on Tuesday.
+
+"I'd probably sell you one of my arms before I'd sell you any of the Bitcoin," he said.
+
+— With assistance from Monique Mulima
