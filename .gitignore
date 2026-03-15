@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+SSH_SETUP.md
+GITHUB_SETUP.md
+reference.md
+.claude/
+scripts/
+Youtube/raw/
