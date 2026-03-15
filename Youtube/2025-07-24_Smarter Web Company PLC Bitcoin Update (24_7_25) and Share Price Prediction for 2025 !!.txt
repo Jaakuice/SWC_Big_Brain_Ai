@@ -1,0 +1,90 @@
+# Smarter Web Company PLC Bitcoin Update (24/7/25) and Share Price Prediction for 2025 !!
+**Date: 2025-07-24**
+**Video ID: PLQovwJVpc4**
+**URL: https://www.youtube.com/watch?v=PLQovwJVpc4**
+**Duration: ~18:42**
+**Channel: VOSTRA**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- SWC share price closed at £2.15, down 3% on the day, with mNAV compressing to ~3.4x
+- ATM (At-The-Market) share issuance mechanism only operates on up days
+- Capital raises: £88M in June, £51M so far in July, £153M total raised
+- Share dilution analysis: 12% increase in July vs 24% in June, and its relationship to sats per share
+- Jesse Meyers' analysis comparing SWC's BTC accumulation rate favorably against other major Bitcoin treasury companies
+- End-of-year 2025 price prediction model with three scenarios: bear (£2), base (£3.74), bull (£6.19)
+- Key model variables: monthly capital raise amount, mNAV multiple, and Bitcoin price
+- Bear case assumes £50M/month, mNAV of 2, BTC at $100K → ~5,000 BTC, share price £2
+- Base case assumes £80M/month, mNAV of 3, BTC at $120K → ~6,300 BTC, share price £3.74
+- Capital efficiency analysis: higher mNAV fundraising is more dilutive but offset by premium valuation; average scenario yields ~7,000 BTC and ~£4 share price (~100% upside)
+
+---
+
+**Vostra:**
+(0:00:00) Welcome everybody to the Vostra channel. How are you? Another day, 24th of July. We are looking at the SWC share price action this week. We are updating the model, having a look at Twitter, and stay till the end because I have for you a price prediction for end of year 2025.
+
+(0:00:27) A lot of people have been asking me for this. I have taken the latest available information, crunched some numbers. So, I'm looking forward to stepping you through that. But let's get back to the 24th of July. The share price today has closed at a bid of 2.15, 3% down on yesterday.
+
+(0:00:56) I see. I hear you ask, what is going on? Why is the market — the market, as we speak, the US is still trading at $3, slightly down on yesterday too. As it stands, the ATM would not be functioning as much because it only operates on up days. So let's see if that kicks into action tomorrow.
+
+(0:01:27) If you're new to the channel, let's go to the SWC model first before we look at the price prediction there, which you caught a glimpse of. I will step you through that towards the end. So, make sure you stay. Okay, so the 2.15 takes us to approximately hovering around the 3.4 mNAV. It's come down from five. Will it come back up or is it going to stagnate at these levels? That is the question. What is the market doing? Is it understanding the treasury company? Is it just a phase? Is it a cycle?
+
+(0:02:06) Are we going to see a turnaround? Let's see. Tomorrow will be key to understand where it all closes out. Right. So, we have the share price there closing. I also want to summarize that in June the business raised £88 million. In July the business has so far raised 51 million almost.
+
+(0:02:36) As you can see, there is the ATM in the background, which means there's shares being sold in the market on up days, and that's 14 million shares. You can see that in the month of July we are looking at approximately a share increase issuance of about 12%, just over 12%. In the previous month of June we had 24% of increase in shares.
+
+(0:03:12) I highlight those figures because this is the rate at which we are increasing our dilution compared to the sats per share change. Comparing those together allows you to see how efficient the capital dilution process is.
+
+(0:03:33) So that, ladies and gentlemen, is the share price and the total funds raised so far, £153 million. Is there going to be a strategic placement? Is there going to be another book build? I wouldn't expect another book build this month.
+
+(0:03:55) The ATM is in action. The approximately 30 million forecast raised there would take the business to 81 million for the month of July and a sats per share of around about 800 sats per share according to this model, and a total number of bitcoins of just over 2,100. And that would be a fantastic place to finish if you were to ask me.
+
+(0:04:37) Excellent stuff. Right, moving on. We've updated the model. We've understood where we are in the game. Twitter, with the current sentiment in the market — let's see what the SWC Twitter page is saying. John Thor: "Here are the two most compelling charts that I'm aware of in global finance," from Jesse Meyers. Let's click into what Jesse Meyers is talking about.
+
+(0:05:02) The two most compelling charts that Jesse is aware of in global finance: the rate of Bitcoin accumulation and the mNAV chart. The mNAV has now compressed to circa 3.4x. Yes, that corroborates the model that we just updated.
+
+(0:05:24) What else? So, this brings the same market. The market is a machine for finding equilibrium, says Jesse. To summarize, it's surprising to me at times that the market has such trouble keeping sight to fundamentals when the high growth brings high volatility, which in turn brings downside price swings that rattle sentiment. Meanwhile, if you do your own research and are comfortable with numbers, you may just find the next Meta Planet. Happy hunting.
+
+(0:05:49) So, Jesse there comparing the mNAV, the volatility the market is ascribing this business model, and the rate of accumulation of BTC for the Smarter Web Company. You can clearly see here — let me zoom in — the fastest horse in the game, raising Bitcoin faster than any of the other major companies. Really important to highlight that. It shows the capital efficiency plan. It shows the execution.
+
+(0:06:19) And yeah, those are the differentiators as we continue the market understanding this business model. Excellent post there by Jesse.
+
+(0:06:36) What else? "The show goes on," says Alan Smith. Yes, of course the show goes on. What's going on with the volume in the US? Yeah, Mr. Webble's been silent this week. There must be something cooking. There is always cooking going on when there is silence. You can believe that. I wouldn't be surprised if there's a BTC purchase announcement tomorrow. Let's see what can happen.
+
+(0:07:06) Right, price prediction. End of year 2025. I have been asked for some price predictions. I have taken the latest available information and tried to crunch some numbers here for you. Let me step you through the game plan here.
+
+(0:07:27) Right. So, what we have here is your classic bear case, base case, bull case, and what I've taken actually is an average of all three to see where that flushes out. As we saw on the model just before, we are at approximately 1,800 bitcoins. That's the current level.
+
+(0:07:48) What the main variables in this business model for me are: the ability to raise capital efficiently at a consistent rate, the mNAV, and the Bitcoin price. These three things here are what fundamentally drive the analysis of price predictions.
+
+(0:08:08) So what I've taken here, everybody, is a predicted bear case scenario of how much cash would be raised for the rest of the year, and I've assumed there's 5 months remaining — August, September, October, November, December.
+
+(0:08:26) In the bear case scenario, I've taken a sum of £50 million per month. If we go back to our actual model, we can see that in the prior month, the business raised £88 million. In the current month, the business has already raised 51 million, just shy of, and on the verge of potentially closing another 30 million. So you can see that the 80 million pounds has been achieved in a negative sentiment environment. So for me, a 50 million pound per month cash raise is more than sufficient for a bear case scenario, and I think that is very justifiable.
+
+(0:09:25) So with the 50 million per month, we've also here looked at a mNAV compressing to two. That is an mNAV compressing to two. A BTC price of $100,000. So this is, ladies and gentlemen, the bear case scenario at this level.
+
+(0:09:49) The other variable here to note is the current mNAV of 3.5. If this mNAV hovers around at this area and the fundraises are all done at the 3.5 level — this is currently showing just shy of £2.15, the current level of the share price — well, then at this level, we can then model out the share issuances and the future mNAV to get the new forecast share price at those points.
+
+(0:10:24) So as you can see, £250 million — now, in order to be able to get to the £250 million, shares have to be issued so that cash can be raised. Therefore we would be at an mNAV of 3.5 current mNAV. The additional shares issued would be just north of 117 million shares. That would take the total shares in issuance to approximately 383 million shares, at a future mNAV of two — a conservative bear case scenario of a 2 mNAV.
+
+(0:11:06) The 250 million pounds raised would, at a Bitcoin price of $100,000, enable the business to get to a total BTC by end of 2025 of just over 5,000 bitcoins. The 5,000 bitcoins would result in a net asset value of just shy of £400 million. At an mNAV of two, that brings you to a market cap of £774 million. With 383 million shares in issuance at that point, you would expect a forecast share price of £2.
+
+(0:11:46) Ladies and gentlemen, this is the bear case scenario. A lot of people ask me why would the share price be going down in an environment where the bitcoins are increasing and cash is being raised. Well, here, ladies and gentlemen, you have it outlined for you in black and white — how the share price can go down even in an environment where you're raising cash. It's highly, highly, highly influenced by the mNAV. This is what the market is valuing the business model at. The mNAV at two would mean that the share price would be in a bear case environment of £2.
+
+(0:12:35) Moving on to the base case environment. The base case environment has taken the 80 million pounds per month current trajectory and extrapolated that out for the following five months. So, as long as the £80 million per month level of funding is maintained for the rest of the year, that would expect us to get to £400 million of cash raise at a Bitcoin price of $120,000. That would mean that the total bitcoins by the end of 2025 would come to a total amount in the region of 6,300 bitcoins, just over, with an mNAV of three in the base case environment. We would have a market cap of 3x the net asset value. Total shares issued in that situation of just over 450 million shares, and that, ladies and gentlemen, would equate to a share price of £3.74.
+
+(0:13:46) The bull case environment would be £150 million raised for the rest of the 5 months remaining of the year. Can this happen? Why not? There is plenty of capital in the market. Can we get back up to mNAVs of four or north of four? Will the Bitcoin price get to $150,000? A lot of people think it could potentially.
+
+(0:14:18) With these parameters in play, we can expect to get to over 8,500 bitcoins by the end of the year. And that would mean a market cap of £3.8 billion at an mNAV of four. This would give a share price of approximately £6.19. That is a bull case situation of £6.19.
+
+(0:14:49) Again, all of this highlighting very well why it's so important — the mNAV. And the cash forecast here is in effect a function of the BTC yield, because in order to buy BTC you need the cash. Therefore the forecast has been built in this manner.
+
+(0:15:14) If I just scroll a little bit below, you can actually see in these three environments the sats per share approximately doubles from the current number of sats per share. So we get an approximate 100% increase in our sats per share in this environment, and the share price increases differently depending on which scenario it is — the base case, the bear case, or the bull case.
+
+(0:15:45) You can actually see that in a bull case environment, it is not as effective to raise at this level of mNAV, because what you can see here is although the price is showing me a nice juicy 6.19, the Bitcoin per share in this situation has gone up by 100% but we've issued 132% more shares. Of course, it works out well because the mNAV in a bull case environment we forecast for — however, from a capital efficiency point of view, it would make sense to raise at higher mNAVs in order to achieve this bull case goal, if that makes sense.
+
+(0:16:39) What I've then done on the average column here is just taken an average of the three environments, the three scenarios, and I get to a Bitcoin stack of just under 7,000 bitcoins, ladies and gentlemen. A capital raise of £466 million, an mNAV of three, a Bitcoin price of $123,000. In this environment, I am getting an average share price forecast of just under £4.
+
+(0:17:18) This would represent a 100% increase in the share price from where it is currently sitting at. So there you go. This is the bear case, the base case, the bull case, and the average case — the Vostradamus. No financial advice. This is all financial entertainment.

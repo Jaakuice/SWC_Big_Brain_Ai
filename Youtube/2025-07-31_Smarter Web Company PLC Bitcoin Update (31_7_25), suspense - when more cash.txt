@@ -1,0 +1,80 @@
+# Smarter Web Company PLC Bitcoin Update (31/7/25), suspense - when more cash ??
+**Date: 2025-07-31**
+**Video ID: hk75GN5dQzM**
+**URL: https://www.youtube.com/watch?v=hk75GN5dQzM**
+**Duration: ~12:30**
+**Channel: VOSTRA**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- Smarter Web Company (SWC) share price closed at 2.35 (up ~8%) on July 31st
+- ATM (At-The-Market) equity program actively selling shares to raise cash for Bitcoin purchases
+- ATM has collected approximately £3.4 million so far, with more expected
+- MSTR (MicroStrategy) earnings report releasing that evening — first time reporting Bitcoin gains through P&L under new FASB rules
+- MNAV (multiple of net asset value) compression across Bitcoin treasury companies, sitting around 3.3x for SWC
+- Differences between IFRS and US GAAP accounting treatment for Bitcoin as an asset
+- Potential for a new book build if share price continues upward (previous book build at 2.95)
+- Flywheel mechanics: BTC-denominated convertible notes, preferred securities, and regular equity raises
+- Skepticism toward non-Bitcoin (Solana, ETH) treasury company models due to higher risk
+- Bitcoin positioned as an institutionally adopted financial asset class, distinct from technology plays
+
+---
+
+**Vostra:**
+(0:00:01) Smarter Web Company share price closing action on the 31st of July, the last day of the month. Hope everyone is well. This is the fastest growing business in the United Kingdom. If you're not watching this on the WSA channel, I have no idea what you are doing. By now, you should know the Smarter Web Company is accumulating Bitcoin on its balance sheet. Right, let's get straight into it.
+
+(0:00:29) So the bid price has closed 2.35. You can see that's 8% almost up on yesterday.
+
+(0:00:38) Let's go across to the charts. SWC. There you go. The second day in a row of trading up. So we know what that means, right? The ATM. Have a look at the ATM video that was released if you don't know what an ATM is. But basically this means shares are being sold in the market and the business is collecting cash. Every time there's an update as it were, the share price is trading positively, which means that shares are being sold in the market which the business can then use to buy Bitcoins.
+
+(0:01:15) Great stuff. So, second day in a row, we can see that the trading has been quite negative across the market the last couple of weeks or so. And yeah, it's very interesting to observe the marketplace. It looks like it's a kind of a sentiment-wide, market-wide MNAV compression, but we can see that SWC and MSTR are pulling away today. The other two main players — ALTG down, Meta Planet is showing down.
+
+(0:01:52) There is definitely something going on in the market. I can sense it. I can feel it. I can smell it. MSTR, for those people following MSTR's journey, the godfather of the Bitcoin Treasury playbook, they are releasing their earnings report tonight. Will be very interesting to see. This is the first time MSTR is going to be talking about, reporting their gains, their Bitcoin gains. Traditionally through their accounting rules, they have been basically putting all of that gain on their balance sheet. But now with the change in FASB rules, the accounting rules over in the United States, they can report any gains in their Bitcoin through the profit and loss.
+
+(0:02:37) So analysts out there are completely bewildered. They do not know how to treat that and there could be knock-on impacts in international financial reporting standards based on how that works. Because as far as the understanding here is, the Bitcoins under IFRS are recognized as intangible assets, and those intangible assets — you report any gains on the balance sheet through the OCI, if you guys know your accounting, that's part of the balance sheet, and then any impairments or losses through the P&L.
+
+(0:03:12) So yeah, the way the accounting treatment works differently under IFRS versus US GAAP, and therefore it will be an extremely important call to see how the market reacts to that. There could be market-wide Bitcoin treasury impact for that, because that means that other treasuries can potentially be valued in a similar manner. So all to see. Let's see what happens there.
+
+(0:03:38) Let's just check where the MNAV sits then. The MNAV there around the 3.3. We did think that there was going to be a book build. There was no book build today. The price is moving in the right direction. Remember, for one to be able to happen — 2.95 was the previous book build. So, we're not far off from reaching those levels. Can one happen tomorrow?
+
+(0:04:04) Let's see. There could be some positive momentum moving into tomorrow off the back of the MSTR earnings call.
+
+(0:04:13) The ATM — let's go across to what the ATM... this is John Thor keeps this. Shout out to John Thor. We can see that the ATM has been printing today and earlier this week. Looks like it's collected so far £3.4 million plus whatever is added to today.
+
+(0:04:34) So this, if the up days continue — the previous ATM sort of completed across five days of up-day trading over a 3-week period approximately. Can this finish next week and funds be released from there? I would think that there was more to come as well, just by understanding how the business likes to keep stacking there. I would think that there's more still coming. So, let's see. Tomorrow could be quite interesting. We thought today was interesting. Every day — this is like a movie. Suspense is building.
+
+(0:05:16) Let's quickly go across to your YouTube comments. Thanks for leaving those. Make sure you're liking and subscribing.
+
+(0:05:26) Miss Ali Jack writes: "Vostra, some days are better than others. Keep the faith. When the world wakes up to a Bitcoin strategy on the balance sheet, all public companies would have wished they'd done it. Thankfully, we back the Smarter Web." 100% precisely. Absolutely. Yeah, this is when the MNAV is crashing, sentiments are a little bit down, but keep the faith everyone, says Miss Ali Jack.
+
+(0:05:50) Grant Mail 4112: "Thanks very much for taking the time to explain the ATM. Really well explained." No problemo. That was on the MNAV. People asking about what impacts the share price — there's actually a whole separate video now about the ATM, so make sure you check that one out if you haven't seen it.
+
+(0:06:06) Neil Rogers 1341: "I still believe SWC will be a rocket. Right now, it's being filled with BTC fuel, but soon she'll be to the stars. Just hold and don't look at the ticker for now. Love the videos, Vostra. Keep them coming." Thank you very much. Yeah, again, the MNAV crashing is part of the game, right? Expansion, compression. We always know — work out your 1x MNAV, your floor. That will then help give you confidence at what levels you need the business to get to in terms of its BTC stacking. So you can then work out your sort of time horizons from there. That's quite an important metric to understand, I'd say, your 1x MNAV level.
+
+(0:06:48) Andy Smith: "What a day." Yeah, when you're following the share price action — I don't know how to explain it to be honest, because it's only the people in this environment that understand what's going on. When you step back and you ask Joe on the street, they'll be looking at you — and like I said before, they'll think, "Should I call the ambulance and get you sectioned, or what should we do here?" Because these guys are just buying Bitcoin like it's going out of fashion and not many people understand that. No, not at all.
+
+(0:07:20) I don't know what to say, but at least you need to spend I think one week studying Bitcoin minimum, then you might get some stuff. Other than that, I mean, Bitcoin has to have been in your agenda to be able to understand what's going on here with these Bitcoin treasury companies.
+
+(0:07:45) There's lots of different opinions. That's what we like about this space as well. It's new. It's evolving. People are learning. Metrics are new. Everything is new. And that's where opportunity is, right? Where things are just becoming understood. And everyone here — I mean, look at the nicheness of this channel. This is a very niche channel. You know, 400-odd of you guys that are subscribed here. You're understanding the game. I can only imagine you're understanding the game because not a lot of people are.
+
+(0:08:19) Manin 69: "Hey, thanks for the book build info. Really appreciate." No problem. That was in some other videos, but I've made a whole separate video now for book build and ATM because this question kept coming up time and time again.
+
+(0:08:37) Miss Ali Jack says: "The flywheel is in motion."
+
+(0:08:43) Yeah, I mean the flywheel. So, I'm listening to lots of interviews from the experts and there are always tricks to get the flywheel flying even in a compressed MNAV scenario. You can use BTC-denominated convertible notes. You can issue preferred securities. Of course, that comes in a bit later down in the game when the balance sheet is a bit bigger, but that's the game. You can get quite far just doing the regular equity raises. So there's plenty of opportunity, plenty of runway to build the floors.
+
+(0:09:21) And people are learning all the time and they're learning all the tricks against whoever's playing the trading tricks as well. I think there was a comment from Richard Byworth earlier today. He commented that there's market movement going on. There's short sellers. I don't think it's easy to do so on Aquis, but there's tricks of the trade, right? So everyone's going to learn and the market's going to start pricing these things accordingly.
+
+(0:09:46) John Mahoney says: "Thanks, Vostra." Cheers.
+
+(0:09:51) Giles Bodger 3572: "So if we see the share price below a previous book build price and they announce a new book build, then you might want to spread bet that cookie back up to the new book build price. Not financial advice, purely entertainment." It's always pure entertainment here, Giles, on this channel. Do with that information what you like. I mean, there's different — people will trade, people will short, people will buy, people will be long, people will be short, people will sell out, people will do whatever they want to do. That's the magic of the business, right? This is real life playing in the markets.
+
+(0:10:27) It's funny how the share price can only do two things, right? It can only go up or down. Sometimes actually it does just stay the same. So you could argue there's three things it could do, but with those three things, the emotions and the levels of human psychology that you get to is just millions of different permutations, right?
+
+(0:10:53) Anyway, The Hybrid Effect 637: "When moon?"
+
+(0:10:59) This is — yeah, I mean look, the "when moon" and all of this kind of terminology — at the end of the day, this is backed by a pristine — stealing words from people that use these words — asset, right? So that's the difference. I know there's a lot — I've been hearing about other treasuries popping up, Solana treasuries, ETH treasuries. I really don't understand how those treasuries can operate. These are — at a very basic level, this is an institutionally adopted financial asset class, and I just don't know how the other coins can adopt similar treasury plays because fundamentally this is an asset class underlying the business model. For me, the other sorts of coins are more technology plays and therefore open to a hell of a lot more risk. Huge, huge amount more risk.
+
+(0:12:08) Paul Cotum says: "Awesome. Thank you, Vostra. I keep hearing the terminology, but I didn't really understand the mechanics of it." That's the ATM book build Smarter Web Company PLC video that went out earlier. If you haven't watched that, make sure you watch that. Make sure you liked. Make sure you subscribe. Plenty more coming your way. Ciao for now. See you tomorrow. Bye.

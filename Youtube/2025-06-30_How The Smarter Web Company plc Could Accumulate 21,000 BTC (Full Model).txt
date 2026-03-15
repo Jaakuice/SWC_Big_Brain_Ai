@@ -1,0 +1,106 @@
+# How The Smarter Web Company plc Could Accumulate 21,000 BTC (Full Model)
+**Date: 2025-06-30**
+**Video ID: 7jcsfZdVzgA**
+**URL: https://www.youtube.com/watch?v=7jcsfZdVzgA**
+**Duration: ~16:02**
+**Channel: VOSTRA**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- Introduction to The Smarter Web Company (SWC) Plc, a UK-listed microcap on the Aquis market pursuing a Bitcoin treasury strategy
+- Walkthrough of a financial model outlining SWC's pathway to accumulating 21,000 BTC
+- Explanation of key metrics: mNAV (multiple of Net Asset Value), sats per share, Bitcoin yield, and days to cover
+- SWC's rapid fundraising success: approximately £102 million raised in two months since IPO
+- How the ATM (At-The-Market) share placement mechanism works for continuous capital raising
+- The model's two key input variables: mNAV multiple and Bitcoin price
+- Share price predictions based on different mNAV scenarios (ranging from 5x to 20x)
+- Bitcoin yield per share growth from 17 sats to ~500 sats since IPO
+- Stress testing the model: impact of BTC price dropping to $60K vs rising to $120K
+- Risk factors including BTC price dumps, dilution mechanics, and potential short selling activity
+
+---
+
+**Vostra (Host):**
+(0:00:02) Cool. Hello everyone. I had a few DMs about this financial model, so I thought I'd just go over it and post it on here.
+
+(0:00:13) Ladies and gentlemen, you are looking at one of the most mispriced Bitcoin plays on the market right now. Can't believe anyone's not talking about it really.
+
+(0:00:27) I wanted to talk to you about SWC, the Smarter Web Company, the business that is on a mission to buy Bitcoin in the UK. It IPO'd on the 25th of April, as you can see. And yeah, this is a full financial model outlining the path to 21,000 bitcoins, I would say. On my Twitter or X, I posted a path to 10,000 bitcoin, but I'm going to update all of that with the latest information I've gathered, including mNAVs, and yeah, just step through this model and then let's see where it goes.
+
+(0:01:16) So very quickly, if you don't know about the Smarter Web Company, it's a UK listed Aquis market business. It's a web design, web agency business. It's currently running the Bitcoin treasury model which I think a lot of you guys who probably look at this model would be aware of. But in essence, the company raises cash, buys bitcoins, issues shares, and the cycle continues.
+
+(0:01:46) Recently took a bit of a hit as the whole sector did in the share price last week. But I think this sets the stage for a real opportunity. Let's go through what's happened on the business so far.
+
+(0:01:58) Okay, so what we have here, I'll just go through column by column. Right, we've got capital item. This is literally just what's happened — when IPO, book or wrap. It's the type of fundraising mechanism.
+
+(0:02:20) So let's go through all the columns. It's the date, this says what it is on the tin, what raise it was, the share price at that point, the increase from the prior share price, number of shares, increase in shares percentage, the market cap after the raise has been done, how much was raised, the total potential BTC.
+
+(0:02:47) Now that kind of fluctuates because I built this model to read off the forecast bitcoin price. The net asset value, which is the bitcoins multiplied by the price of the bitcoin. And in this I've assumed that they use all the cash up, just for simplicity. I mean there's a few things around — some people don't want to calculate like that. I do.
+
+(0:03:19) Then I've got two columns here for mNAV. I've put one just after the raise. So when they've put the cash in the tin and the bitcoins potential total, what is the mNAV at that point? And then the second column here, P, it aims to track what the mNAV rises up to before the next raise. So what the market cap would be prior to the next raise and that drives the share price.
+
+(0:03:53) Quickly run through the rest of the columns. The market cap here is the current market cap, what it's trading at. The sats per share — it's literally how many bitcoins or sats. There's 100 million sats in a bitcoin, divided by the number of shares.
+
+(0:04:13) The increase from the prior raise, the net asset value per share, the days to cover. What is the days to cover metric? Well, this shows basically how long it takes for the business to cover its net asset value, right? So at a point in time, it is trading at a certain multiple of its net assets. It could be — currently it's, let's have a look, it's about £2, currently trading around £2.30.
+
+(0:04:47) So you can see the mNAV has come way down from the prior raise. So what does that put it? Yeah, around about five, just above five — £2.23, that gets you to 5.3 mNAV.
+
+(0:05:03) So that's days to cover. Yeah, that's basically how long it takes for it to cover the net asset value that it's trading at. For example, somewhere, let's take one of these right up here — it was trading at almost £47 million, but at that point in time, it had just over £2 million pounds in actual net assets, which is effectively the cash and the Bitcoin pile. So it was trading at a 20 times multiple.
+
+(0:05:32) Now, at that point, what was the days to cover? 33 days. That's a historic metric. So it was saying at that point in time, in about 30 days or so, you will actually have the £46 or £47 million on your balance sheet. And guess what happened about a month or so later — here we go, on the 16th of June it had £56 million, so it more than covered the multiple that it was trading at.
+
+(0:06:06) So that's what the days to cover means, and they call it the fastest horse because it is the fastest yielding Bitcoin treasury company at the moment. It's quite remarkable. I think if you're in business or finance and you're not watching this, I really don't know what you are doing.
+
+(0:06:29) And then that feeds off this next calculation which is the Bitcoin yield today. So how much yield — how many sats per share has been increased so far. So you know, you started off with 17 sats per share and now you're hovering around about the 500-ish from this model.
+
+(0:06:53) And you can see that's going up very nicely. So what this means is that every time you're issuing new shares, you're purchasing more Bitcoin, you're increasing the number of sats that the shareholders hold per share. And that's what the market is valuing and giving value to.
+
+(0:07:16) And you can see here the daily yield is on average about 10%. Yeah. And then this is just the days since the start of the whole show.
+
+(0:07:26) Okay. So those are all the columns. What I've done next is I've modeled out based on the historic trend of doing book builds every fortnight or so. I've added those in assuming that they continue at the pace they have.
+
+(0:07:47) And then I've also tried to model in something called this ATM. Now what is this ATM? This is literally shares that the business has placed with their broker for them to sell in the market, but they can only sell a certain volume and at a price point which is above the previous day's closing share price. What that means is that they are effectively selling into strength. Yeah.
+
+(0:08:21) And what I wanted to highlight about this model is that whilst every single thing is sort of calculating off each other, there are really only two input cells, two input cells in this whole thing, and that is the mNAV and the Bitcoin price. The whole model is driven off the mNAV and the Bitcoin price.
+
+(0:08:50) Right. So we're currently at this point, line 12. Today is the 30th of June. The last raise was last week. £41.2 million was raised. Crikey. I mean, £41.2 million pounds. I mean, look how much it's raised since the 25th of April. That's not like — that's two months.
+
+(0:09:24) Have you seen a company raise — what is that? Have you seen a company raise £102 million? Is that right? £102 million pounds in two months. What the...
+
+(0:09:54) And what you can see is that gets them up to about 1,200, just over 1,200 bitcoins based on this model.
+
+(0:10:03) As I say, the current share price is trading at 5.3. Took a bit of a hammering last week. All the BTC treasury companies took a hammering. I've got my own reasons what I think happened there. Yes, it possibly was overcooked on the mNAV.
+
+(0:10:21) But even then, there's some — when you look at the charts, there's some activity there. And in fact, the old BG guys, the European blockchain company — you know, there's some interesting Twitter X chat about what's happened there.
+
+(0:10:45) Effectively, I think that there's been a bit of shorting in the market. What the short sellers are doing is they're taking advantage of this spread. You see, if this gets too out of line — and SWC has been trading at up to 20, 26 here it's showing, some points 4. It's coming down there. 20, 19, 20, last one. This was a small strategic investor. I've just added that in for completeness.
+
+(0:11:17) But I'd say more, you know, on average it's trading at, you know, sort of the 19 plus. In fact, what is the exact average? Yeah, 19. It's trading at 19.
+
+(0:11:31) It's come down a hell of a lot. I expect this to pump back up to 10. I mean, 10 would be good. You can see 10 takes that up to about £4.21.
+
+(0:11:46) But anywhere between your sort of, you know, 6.9 to — let's try seven. Seven, you get up to just shy of three pounds. You know, that kind of almost brings it on a par to the last raise. £2.90.
+
+(0:12:10) You might want nine. Let's try — yeah, nine. I'd take nine. But I think it can easily get up to 10. Even more. I mean, with the Bitcoin price going in the right direction, this could be even more than that. I mean, it's traded above that before.
+
+(0:12:35) So yeah, this model — I've updated it from what I've posted on my feed. I have then taken — I've overlaid some work done by a chap, who's it called — let's see — Micro Strategist. And I've just overlaid the mNAVs and I've tapered them down.
+
+(0:13:04) So we're talking sevens, nines, fives, fives, sevens, sevens, sevens, sevens, four, four, five, six, six, six. I've kind of moved them as I think the story might evolve in the market with announcements, et cetera.
+
+(0:13:22) I'm interested to see where this gets to. If this gets to 10, we're on to a — yeah, we're on to a journey there. But everything is driven by the mNAV. It so impacts the whole game here.
+
+(0:13:43) Yeah, let me know what you think in your comments. I aim to keep this updated. I might even share it so you can play around with it. Let me know what you think. Remember, this is all financial entertainment.
+
+(0:14:03) But don't take this as gospel. Anything can happen. You know, one of the things — the risks is the BTC price dumping. But we can even model that, right? Like, let's see, it's about 107 right now.
+
+(0:14:19) You know, what happens if it goes to 60 grand? You know, the model doesn't break massively. It's just — it takes longer. You know, so we can still do this thing. You'd get to over 7,000 coins if there was a market reaction like that. Who knows?
+
+(0:14:54) But this year people are predicting some good numbers for Bitcoin. So if it gets to 120, let's say — you can, by Q1 next year, you're looking at nearly just shy of 30,000 bitcoins at a share price of £37.
+
+(0:15:22) Yeah, I'd be watching this if I was you in the city. I'd be watching this like a hawk. I am watching this like a hawk.
+
+(0:15:31) Let's put this down to 107 and assume it just hovers around here for the rest of the year. You get to 21,000 bitcoins. And this is showing me a price of about £25 a share.
+
+(0:15:54) Wow. Thanks for watching.

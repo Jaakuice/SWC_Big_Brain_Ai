@@ -1,0 +1,72 @@
+# Smarter Web Company: The UK’s First Bitcoin Treasury Company
+**Date: 2025-09-19**
+**Video ID: ykK0fOhyDHw**
+**URL: https://www.youtube.com/watch?v=ykK0fOhyDHw**
+**Duration: ~42:53**
+**Channel: Intelligent Wealth Podcast**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- Introduction to Smarter Web Company, a UK-listed Bitcoin treasury company on the Aquis exchange
+- The company's strategy of mirroring MicroStrategy (now Strategy) by acquiring Bitcoin on its balance sheet
+- Explosive share price performance: 12,400% gain from listing at 4p to a peak of £5, followed by an 80% crash
+- MNAV (multiple of net asset value) as the key metric for evaluating Bitcoin treasury companies
+- Why investors buy Bitcoin treasury stocks instead of holding Bitcoin directly (simplicity, regulation, ISA/pension eligibility)
+- The Bitcoin power law model and its price predictions ($1M by 2030–2035)
+- The economic model: borrowing fiat currency cheaply to buy an appreciating asset
+- Skepticism around valuing Bitcoin with no cash flows and reliance on "greater fool" dynamics
+- Founder Andrew Webbley's ambitious goal to acquire 1% of all Bitcoin (210,000 BTC)
+
+---
+
+**Host:**
+(0:00:34) Welcome to the latest episode of the Intelligent Wealth Podcast. Today, as usual, I have my star attendees and contributors, Carl Roberts, who's a fellow director in Minerva Money Management, and our head of research, no less, Awet Germe. This podcast is for serious investors who are looking at companies to invest in who do their own research. Typically we focus on a quality investing strategy but we do diversify a little bit as we will be doing today arguably. I must emphasize you must do your own research. Please don't take anything we say today as advice or tips on which shares to invest in because in my experience whenever you follow tips even from great investors you'll invariably go wrong because your portfolio has to reflect your personality, your time scale, your amount of money to invest, etc. It has to be very personal to you. It won't work otherwise, believe you me.
+
+(0:01:49) So without any further ado, we're going to get into the heart of today's discussion which is about a company which is a so-called Bitcoin treasury company which I'll explain to you in a moment. The company we're looking at today for a change is a UK company and it's called the Smarter Web Company.
+
+(0:02:11) Now this company was formed in 2009 by a British chap called Andrew Webbley. Now what he's been doing for all these years is developing websites, maintaining them and monetizing them. He has quite a good solid business with some very good statistics for turnover and gross profit margins etc. Pretty high like in the 90% plus for gross profit margins but that is relatively speaking a small part of the business. He has managed to get the company publicly listed on an exchange called the Aquis exchange. It's not the full market in the UK. And what he did very cleverly, he was able to buy an existing PLC that was going through hard times or was failing. So he managed to pick up a bargain because normally if you were to turn your company into a public company would usually cost millions and I think from memory it cost him about half a million to do that. So, it's quite a relatively low-cost way of turning his company into a UK PLC quoted on that stock exchange. He's also got it listed in Germany for Europe and also on the over-the-counter market in America where you just match bargains between buyer and sellers. It's not a fully quoted stock exchange as such.
+
+(0:03:47) Now what he did very innovatively, he turned his company into one of the few companies in the world that accept payment for services with Bitcoin and he started that in 2023. Now there is a famous company called Strategy or MicroStrategy which we've covered previously in one of our podcasts. This is the first true Bitcoin treasury company and he's really mirroring what Strategy have been doing for a few years now and he wants to make his company a very highly valuable UK listed Bitcoin treasury company.
+
+(0:04:30) Now what is a Bitcoin treasury company? It's a company that issues either debt or shares in their own company in order to use the money to buy typically Bitcoin although it can be other cryptos like Ethereum. So it's really in many respects an investment company primarily and now because of the explosion in value of Bitcoin, the Bitcoin treasury aspect of this company, the Smarter Web Company, has become the primary trade or investment strategy for the company. It's dwarfed everything else that he does. He's got an interesting goal to acquire 1% of all Bitcoin. Bearing in mind there's 21 million Bitcoin out there. 1% is quite a lot. It's quite an ambitious target. Whether he'll ever achieve it or not, only time will tell.
+
+(0:05:27) But I think that gives you quite a good opening summary of Andrew and the company, the Smarter Web Company. So, what I think we'll do now is involve the team in discussing it. So, to kick off with, let's put some meat on the bone. Carl, what do you have to tell us about the Smarter Web Company?
+
+**Carl Roberts:**
+(0:05:51) Well, let's look at performance first. So, the Smarter Web Company listed on the Aquis Stock Exchange in about April 2025. So, not that long ago from recording this podcast. The Aquis Stock Exchange is a UK based exchange. It is regulated by the Financial Conduct Authority, but it's mainly for smaller kind of growth companies. A bit easier to list on there rather than say the main market. So, they listed in April 2025 for around 4p. And by the end of May this year, it got to about a pound their share price, which was a 2,400% return. So, pretty impressive. In just over a month by mid June, it went up to two pound, doubled its value. And then it peaked around the 20th of June at about £5 per share, which is a 12,400% return if you'd have got in right at the beginning. So pretty impressive if anyone held or bought at the start and then held till then and sold it at that point. Because then a few days later it crashed down to two pound which is then a 60% fall. And now it's hovering at just over a pound. So it's essentially fallen 80% from its peak back in June. So it's been a pretty volatile ride so far for the Smarter Web Company. But of course it's early days. This is only just listed and it's been busily buying its bitcoins. So, it's gone from zero to about 2,500 bitcoins in about 5 months. Yeah, which is pretty impressive.
+
+(0:07:30) But when you look at any of these Bitcoin treasury companies, there's a couple of things you need to understand. And there's some techy terms I'm going to go through now which I might not do a very good job of explaining, but one is the MNAV. So, the MNAV is essentially a multiple of the company's net asset value. So effectively sort of how much extra are you paying for buying a share in this company. And a lot of these Bitcoin treasury companies use the MNAV and it's quite a followed measurement when you're comparing like for like. So the Smarter Web Company's MNAV is currently around 1.6 so you are obviously paying a premium for holding Bitcoin essentially. If you look at the likes of Strategy they're about 1.4. So they're not a million miles different.
+
+(0:08:20) A lot of people argue, say, why don't you just go and hold the Bitcoin directly? Why are you paying a premium effectively for holding Bitcoin? And there's a couple of reasons why people do that. People do it because if you've ever tried to go and buy Bitcoin on an exchange, it is quite a complicated process if you're not that financially savvy and you're not that tech-savvy. If you want to sort of self-custody it, which means effectively taking Bitcoin off an exchange and having it on some sort of hardware wallet, again, it's quite complicated. There's things like seed phrases. If you lose that, you could potentially lose your Bitcoin forever. So, you can imagine someone that's not that fully up to date with all the information would really struggle to get their head around how to just go through buying Bitcoin. Whereas buying a stock is quite easy that people have done that for years and years and years.
+
+**Host:**
+(0:09:12) Yeah.
+
+**Carl Roberts:**
+(0:09:13) So people feel more comfortable buying shares in a company rather than going straight to the underlying asset. Another reason is because these companies are on regulated stock markets. So for example, Smarter Web Company effectively is regulated by the FCA. Strategy would be regulated in the US by their regulators. So there's a bit of kind of security there that these things are properly looked at and watched over. And essentially yeah, you can put these kind of shares in your ISA and your pension whereas you can't put Bitcoin directly into your pension and ISA and other UK financial products at the moment. So there's a number of reasons why people might do this.
+
+(0:09:56) So that's that. The other thing, technical terms to try and understand, is the Bitcoin power law. So if you're a true believer in Bitcoin or many true believers in Bitcoin, they follow this Bitcoin power law and essentially it's a mathematical sort of scientific model that tries to plot the Bitcoin price over time. And the reason why it's so popular with Bitcoin is because they feel Bitcoin is more of a new natural phenomenon rather than a traditional financial asset. They feel it's so new that you can't use traditional metrics to try and plot its price increase over time. So this power law what essentially tries to do is using sort of science and maths, the more take-up there is of this asset over time the higher its price will go and it's actually been pretty successful so far in the last 10 years of predicting when Bitcoin will hit certain price points. So, it did predict about $100,000 price around January this year. And it's also now predicting that Bitcoin will get to I think a million between sort of 2030–2035. So, it's not like completely accurate and says on this date, this is what the price is going to be, but around those kind of ballparks.
+
+(0:11:13) And it's important to understand the power curve because that's what these Bitcoin treasury companies are essentially betting on. They're betting on the price of Bitcoin going up according to this kind of metric for a considerable amount of time and as long as the growth rate does continue on this trajectory they feel they've got a model here where they're getting lots of fiat, traditional fiat currency now, lots of debt which is effectively going to be inflated away well into the future if you continue to hold Bitcoin. So that's the economic model overall.
+
+**Host:**
+(0:11:48) Yeah. Can I just ask you a question? Dive in there before we get on to our — when he talks about MNAV, do you mean like when you talk about the net assets, you're really talking about the value of the Bitcoin effectively, aren't you?
+
+**Carl Roberts:**
+(0:12:01) Essentially.
+
+**Host:**
+(0:12:02) Or money cash set aside to buy more Bitcoin. So when you talk about a ratio of 1.6, what you mean is that the value of the Bitcoin is one and the value of the shares is 1.6? Like a ratio.
+
+**Carl Roberts:**
+(0:12:18) Effectively. Yeah.
+
+**Host:**
+(0:12:19) Effectively it's a premium of what, 40 or 50%? No, more than 50% over net assets. It's a premium basically, if listeners understand that concept.
+
+(0:12:30) Okay. Yeah. Come on Awet. We know that you're the Bitcoin skeptic amongst the group here. Let's have your bearish view on Bitcoin treasury companies. Come on, spit it out.
+
+**Awet Germe:**
+(0:12:45) Yeah. I think I always find it, you know, how you can use Bitcoin to forecast the future when it's quite difficult to — you know, like with traditional businesses there's always cash flow, there's a lot of input. And I think still a lot of that time we get it wrong. I mean most of — we try to get most of the time right and few wrong. But with Bitcoin it's difficult. It doesn't have any cash flow and it doesn't have any anything apart from like someone is willing to buy more — a resale value. And do you remember there was a hedge fund called Long-Term Ca—

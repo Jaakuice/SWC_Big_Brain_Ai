@@ -1,0 +1,611 @@
+THIS DOCUMENT IS IMPORTANT AND REQUIRES YOUR IMMEDIATE ATTENTION. If you are in
+any doubt about the contents of this document or as to what action you should take, you should
+immediately consult your stockbroker, bank manager, solicitor, accountant or other independent
+ﬁnancial adviser duly authorised under the Financial Services and Markets Act 2000 (as amended)
+if you are a resident of the United Kingdom or, if not, another appropriately authorised
+independent professional adviser.
+If you have sold or otherwise transferred all your Ordinary Shares, please send this document and the
+accompanying proxy form as soon as possible to the purchaser or transferee, or to the stockbroker or other
+agent through whom the sale or transfer was effected for transmission to the purchaser or transferee. If you
+have sold or otherwise transferred some (but not all) of your Ordinary Shares, please retain these documents
+and consult the stockbroker or other agent through whom the sale or transfer was effected.
+The distribution of this document in jurisdictions other than the United Kingdom may be restricted by law
+and therefore persons into whose possession this document comes should inform themselves of and
+observe such restrictions. Any failure to comply with these restrictions may constitute a violation of the
+securities laws of any such jurisdiction.
+
+THE SMARTER WEB COMPANY PLC
+(Incorporated and registered in England and Wales with registered number 00092343)
+
+NOTICE OF GENERAL MEETING
+
+This document should be read as a whole. Your attention is drawn to the Letter from the Chairman of the
+Company, which includes the recommendation of the Directors of the Company that you vote in favour of
+all of the resolutions to be proposed (the “Resolutions”) at the General Meeting of the Company
+(the “General Meeting”).
+Notice of the General Meeting to be held at the John James Theatre, Aerospace Bristol, Hayes Way,
+Patchway, Bristol, BS34 5BZ on 2 December 2025 at 11.00 a.m. is set out on pages 7 to 9 of this document.
+A copy of this document is available on the website of the Company at
+https://www.smarterwebcompany.co.uk/.
+A form of proxy is also enclosed at the end of this document for use at the General Meeting. Forms of proxy
+should be completed and returned to the Company’s Registrars, Share Registrars Limited of 3 The
+Millennium Centre, Crosby Way, Farnham, Surrey GU9 7XX as soon as possible and in any event to be
+received not later than 48 hours (excluding non-business days) before the time ﬁxed for the General Meeting.
+Alternatively, Shareholders can register their vote(s) for the General Meeting by visiting
+www.shareregistrars.uk.com, clicking on the “Proxy Vote” button and then following the on-screen
+instructions (the relevant log-in details, i.e. user name and access code, can be located on the top of the
+proxy form).
+CREST members who wish to appoint a proxy or proxies by utilising the CREST electronic proxy
+appointment service may do so at the GM and any adjournment thereof by utilising the procedures described
+in the CREST Manual. For further details, please see the notes to the Notice of General Meeting set out at
+the end of this document.
+
+EXPECTED TIMETABLE OF PRINCIPAL EVENTS
+Date of this document
+
+13 November 2025
+
+Last time and date of receipt of Forms of Proxy
+
+11.00 a.m. on 28 November 2025
+
+Date and time of General Meeting
+
+11.00 a.m. on 2 December 2025
+
+Note: All times shown in this document are London times unless otherwise stated. The dates and times given are indicative only and
+are based on the Company’s current expectations and may be subject to change. If any of the times and/or date above changes, the
+revised times and/or dates will be notiﬁed to Shareholders by letter.
+
+2
+
+DEFINITIONS
+The following words and expressions apply throughout this letter unless the context requires otherwise:
+“Act”
+
+the Companies Act 2006.
+
+“Board” or “Directors”
+
+the directors of the Company.
+
+“Company”
+
+The Smarter Web Company Plc, incorporated and registered in
+England and Wales with company number 00092343 whose
+registered ofﬁce is at 160 Aztec West, Almondsbury, Bristol,
+United Kingdom, BS32 4TU.
+
+“CREST”
+
+means the system for the paperless settlement of trades in
+securities operated by Euroclear UK & International Limited in
+accordance with the Uncertiﬁed Securities Regulations 2001
+(SI 2001/3755) (as amended).
+
+“CREST Manual”
+
+means the current version of the CREST Manual which at the
+date of this letter is available on www.euroclear.com.
+
+“Current Articles”
+
+the Company’s current articles of association, adopted by
+special resolution on 20 March 2025.
+
+“Form of Proxy”
+
+the form of proxy for use by Shareholders in connection with the
+General Meeting, which is enclosed with this document.
+
+“General Meeting”
+
+the general meeting of the Company which is to be held at
+11.00 a.m. on 2 December 2025 at the John James Theatre,
+Aerospace Bristol, Hayes Way, Patchway, Bristol, BS34 5BZ,
+notice of which is set out at the end of this document.
+
+“New Articles”
+
+the new articles of association of the Company that the Board
+is proposing to adopt at this General Meeting in substitution for
+the Current Articles.
+
+“Notice of General Meeting” or
+“Notice”
+
+the notice of the General Meeting, which begins on page 7 of
+this document.
+
+“Ordinary Shares”
+
+means ordinary shares of £0.001 each in the capital of
+the Company.
+
+“Resolutions”
+
+the resolutions to be proposed at the General Meeting as set
+out in the Notice of General Meeting.
+
+“Shareholder(s)”
+
+holders of Ordinary Shares.
+
+3
+
+LETTER FROM THE CHAIRMAN OF THE COMPANY
+THE SMARTER WEB COMPANY PLC
+(Incorporated and registered in England and Wales with registered number 00092343
+and whose registered address is at 160 Aztec West, Almondsbury, Bristol, United Kingdom, BS32 4TU)
+
+Directors:
+Sean Edward Wade (Non-Executive Chairman)
+Andrew Webley (Chief Executive Ofﬁcer)
+Albert Soleiman (Chief Financial Ofﬁcer)
+Tyler Matthew Evans (Non-Executive Director)
+Randal Casson (Non-Executive Director)
+13 November 2025
+To the Shareholders and, for information only, to the warrant holders and option holders of the Company
+
+Notice of General Meeting
+Dear Shareholder,
+
+1
+Introduction
+Your attention is drawn to the Notice set out at the end of this document (including the explanatory notes)
+convening a General Meeting of the Company to be held at 11.00 a.m. on 2 December 2025 at the John
+James Theatre, Aerospace Bristol, Hayes Way, Patchway, Bristol, BS34 5BZ where the resolutions set out
+in the Notice will be proposed.
+The Company is proposing to obtain authority from Shareholders to: (1) adopt new articles of association;
+and (2) allow the Company to purchase its own shares.
+
+2
+
+Background to and reasons for the Resolutions
+
+(A) Adoption of New Articles
+The Company intends to adopt the New Articles in place of the Current Articles. The New Articles primarily
+take account of changes to law and practice since the Current Articles were last updated.
+As a result of the Company’s recent growth, the New Articles also seek to amend limits placed on the
+Company in the Current Articles, which are no longer ﬁt for purpose. For example, the Current Articles limit
+the maximum number of directors that the Company may appoint to seven directors. As announced on
+1 September 2025, the Company appointed Albert Soleiman as its Chief Financial Ofﬁcer, and as announced
+on 1 October 2025, the Company appointed Randal Casson as a non-executive director, bringing the total
+number of board members to 5.
+The Company intends to continue to expand the Board as it grows, to ensure that the Company is well
+governed, which may involve the appointment of more than seven directors. The New Articles remove the
+limit on the number of directors that may be appointed.
+A non-exhaustive list of the principal changes in the New Articles is set out in the Appendix to this document
+on pages 10 and 11. In addition, the Company has taken the opportunity to incorporate amendments of a
+more minor, technical or clarifying nature which have not been summarised. These seek to modernise the
+language in the document, clarify how certain provisions should operate and/or are to make the provisions
+easier to navigate.
+A copy of the Current Articles and the proposed New Articles will be available for inspection during normal
+business hours (Saturdays, Sundays and public holidays excepted) at the registered ofﬁce of the Company
+4
+
+up to the close of the General Meeting. A copy can be requested from ir@smarterwebcompany.co.uk up
+until the conclusion of the General Meeting.
+(B) Purchase by the Company of its own shares
+The Directors are proposing to obtain authority to make market purchases of ordinary shares. The authority
+limits the number of ordinary shares that could be purchased to a maximum of 30,023,000 shares. This
+amount represents approximately 10 per cent. of the Company’s ordinary share capital as at the date of
+this notice. The authority also sets minimum and maximum prices at which shares may be bought.
+Any ordinary shares purchased under this authority would be by means of market purchases through the
+London Stock Exchange. Shares so purchased would be held as treasury shares or cancelled and the
+number of ordinary shares in issue reduced accordingly. The Directors have no present intention of exercising
+the authority to purchase the Company’s ordinary shares but considers it prudent to establish the ﬂexibility
+to do so should future circumstances make such purchases desirable. The authority to repurchase ordinary
+shares will, if approved by shareholders, only be exercised after careful consideration by the Directors, and
+if such an exercise would result in an increase in earnings per share and would be in the best interests of
+shareholders generally.
+Resolutions
+The Resolutions to be proposed at the General Meeting are as follows:
+
+Resolution 1 – Adoption of New Articles
+Resolution 1 will be proposed as a special resolution.
+This resolution is being proposed in order to adopt the New Articles in substitution for, and to the exclusion
+of, the Current Articles of the Company which were adopted on 20 March 2025.
+A summary of the principal changes introduced in the New Articles can be found in Appendix A to this
+document. Other changes which are of a minor, technical or clarifying nature have not been noted in
+Appendix A. A copy of the New Articles will be available to members for inspection on the Company’s
+website https://investors.smarterwebcompany.co.uk/ or on request. Requests should be sent by email to
+ir@smarterwebcompany.co.uk.
+
+Resolution 2 – Purchase by the Company of its own shares
+Resolution 2 will be proposed as a special resolution.
+This resolution is being proposed in order to allow the Company to purchase up to 30,023,000 Ordinary
+Shares in the market (which represents approximately 10 per cent. of the issued ordinary capital of the
+Company as at 12 November 2025, being the last practicable date before the publication of this document).
+The minimum and maximum prices for such a purchase are set out in the resolution. If given, this authority
+will expire at the conclusion of the Company’s next annual general meeting or expire 15 months from the
+date of passing the relevant resolution (whichever is the earlier).
+In considering whether to use this authority, the Directors will take into account factors including the ﬁnancial
+resources of the Company, the Company’s share price and future funding opportunities. The authority will
+be exercised only if the Directors believe that to do so would result in an increase in earnings per share
+and/or would be in the interests of the shareholders generally.
+Any shares purchased in the market under this authority may be either cancelled or held as treasury shares,
+which may then be cancelled, sold for cash or used to satisfy obligations under any employee share
+schemes. No dividends are paid on shares while they are in treasury and no voting rights attach to
+treasury shares.
+
+5
+
+3
+Action to be taken by Shareholders
+You can vote in respect of your shareholding by attending the General Meeting or by appointing one or
+more proxies to attend the meeting and vote on your behalf. If you appoint a proxy, you may still attend and
+vote at the General Meeting in person should you decide to do so.
+Whether or not you propose to attend the General Meeting in person, you are requested to appoint a proxy
+who will be able to vote for you if you are prevented from attending.
+Proxies may be appointed:
+l
+
+by visiting www.shareregistrars.uk.com, clicking on the “Proxy Vote” button and then following the
+on-screen instructions (you can locate your log-in details on the top of the proxy form);
+
+l
+
+by post or by hand to Share Registrars Limited, 3 The Millennium Centre, Crosby Way, Farnham, Surrey
+GU9 7XX using the proxy form accompanying this notice;
+
+l
+
+using the CREST electronic proxy appointment service (for CREST members only).
+
+In any case, the notice of appointment of a proxy should reach the Company’s registrars, Share Registrars
+Limited, at 3 Millennium Centre, Crosby Way, Farnham, Surrey, GU9 7XX by no later than 11.00 a.m. on
+28 November 2025. Please refer to the Notes to the Notice of General Meeting starting on page 8 of this
+document and the enclosed Form of Proxy for detailed instructions.
+The attention of Shareholders is drawn to the voting intentions of the Directors set out below.
+
+4
+Recommendation
+The Directors believe that the Resolutions would be in the best interests of the Company and its
+Shareholders as a whole.
+Accordingly, the Directors recommend that Shareholders vote in favour of the Resolutions, as they intend
+to do in respect of their individual holdings amounting in aggregate to approximately 9.71 per cent. of the
+Company’s current issued share capital as at the latest practicable date (being 12 November 2025).
+Yours faithfully
+
+Sean Edward Wade
+Non-Executive Chairman
+
+6
+
+THE SMARTER WEB COMPANY PLC
+(incorporated and registered in England and Wales no. 00092343)
+
+NOTICE OF GENERAL MEETING
+NOTICE IS HEREBY GIVEN that a General Meeting of The Smarter Web Company Plc (“the Company”)
+will be held on 2 December 2025 at 11.00 a.m. at the John James Theatre, Aerospace Bristol, Hayes Way,
+Patchway, Bristol, BS34 5BZ for the purpose of considering and, if thought ﬁt, passing the following
+resolutions, which will be proposed as special resolutions.
+Terms used in this Notice of General Meeting shall have the same meanings as deﬁned in the circular to
+Shareholders of the Company dated 13 November 2025 (“Circular”) to which this Notice of General Meeting
+is attached, unless the context requires otherwise.
+Resolution 1:
+
+THAT the articles of association produced to the meeting be adopted as the articles of
+association of the Company in substitution for, and to the exclusion of, the existing Articles
+of Association.
+
+Resolution 2:
+
+THAT the Company be generally and unconditionally authorised pursuant to Section 701
+of the Act to make market purchases (within the meaning of Section 693(4) of the Act) of
+ordinary shares of £0.001 each in the capital of the Company provided that:
+(a)
+
+the maximum number of ordinary shares hereby authorised to be purchased is
+30,023,000;
+
+(b)
+
+the minimum price (excluding expenses) which may be paid for such shares is £0.001
+per ordinary share, being the nominal value thereof; and
+
+(c)
+
+the maximum price (excluding expenses) which may be paid for such shares shall not
+be more than the higher of:
+(i)
+
+5 per cent. above the average of the middle market quotations for ordinary shares
+of £0.001 each in the capital of the Company as derived from the market on which
+the Company’s shares are admitted to trading for the ﬁve business days
+immediately preceding the day on which the contract for purchase is made; and
+
+(ii) the higher of the price of the last independent trade of an ordinary share and the
+highest current independent bid for an ordinary share on the trading venue where
+the purchase is carried out,
+and such authority shall expire 15 months from the date of passing this resolution or at the
+conclusion of the next AGM of the Company, whichever is earlier, provided that the
+Company may before such expiry make a contract to purchase its own shares which would
+or might be executed wholly or partly after such expiry and the Company may make a
+purchase of its own shares in pursuance of such contract as if the authority conferred hereby
+had not expired.
+By Order of the Board
+
+MSP Corporate Services Limited
+Company Secretary
+Dated: 13 November 2025
+Registered ofﬁce:
+160 Aztec West
+Almondsbury
+Bristol
+United Kingdom
+BS32 4TU
+7
+
+Notes to the Notice of General Meeting
+Entitlement to attend and vote
+1.
+
+Pursuant to Regulation 41 of the Uncertiﬁcated Securities Regulations 2001 as amended, the Company speciﬁes that only those
+members registered on the Company’s register of members 48 hours (ignoring any part of a day that is not a working day) before
+the time of the General Meeting shall be entitled to attend and vote at the General Meeting.
+
+Appointment of proxy
+2.
+
+A shareholder entitled to attend and vote at the General Meeting may appoint a proxy to attend, speak and vote (including on a
+poll) in their place. A proxy need not be a shareholder of the Company but must attend the General Meeting in person.
+A shareholder may appoint more than one proxy in relation to the General Meeting provided that each proxy is appointed to
+exercise the rights attached to a different share held by the appointing shareholder.
+
+3.
+
+You can register your vote(s) for the General Meeting either:
+a.
+
+by visiting www.shareregistrars.uk.com, clicking on the “Proxy Vote” button and then following the on-screen instructions
+(you can locate your log-in details, i.e. user name and access code, on the top of the proxy form);
+
+b.
+
+by post or by hand to Share Registrars Limited, 3 The Millennium Centre, Crosby Way, Farnham, Surrey GU9 7XX using the
+Form of Proxy accompanying this notice; or
+
+c.
+
+in the case of CREST members, by utilising the CREST electronic proxy appointment service in accordance with the
+procedures set out in note 6 below.
+In order for a proxy appointment to be valid the proxy must be received by Share Registrars Limited by 11.00 a.m. on
+28 November 2025.
+
+Appointment of proxy using hard copy Form of Proxy
+4.
+
+The notes to the Form of Proxy explain how to direct your proxy how to vote on each Resolution or withhold their vote. To appoint
+a proxy using the Form of Proxy, the Form of Proxy must be:
+a.
+
+completed and signed;
+
+b.
+
+sent or delivered to Share Registrars Limited at 3 The Millennium Centre, Crosby Way, Farnham, Surrey GU9 7XX; and
+
+c.
+
+received by Share Registrars Limited by no later than 11.00 a.m. on 28 November 2025.
+In the case of a member which is a company, the Form of Proxy must be executed under its common seal or signed on its
+behalf by an ofﬁcer of the Company or an attorney for the Company.
+Any power of attorney or any other authority under which the Form of Proxy is signed (or a duly certiﬁed copy of such power
+or authority) must be included with the Form of Proxy.
+
+5.
+
+As an alternative to completing the hard-copy Form of Proxy, Shareholders can appoint a proxy electronically with Share Registrars
+Limited by visiting www.shareregistrars.uk.com, clicking on the “Proxy Vote” button and then following the on-screen instructions
+(the relevant log-in details, i.e. user name and access code, can be located on the top of the proxy form). For an electronic
+proxy appointment to be valid, the appointment must be received by Share Registrars Limited no later than 11.00 a.m. on
+28 November 2025.
+
+Appointment of proxy using CREST
+6.
+
+CREST members who wish to appoint a proxy or proxies through the CREST electronic proxy appointment service may do so
+for the General Meeting and any adjournment(s) thereof by using the procedures described in the CREST Manual.
+CREST personal members or other CREST sponsored members, and those CREST members who have appointed a voting
+service provider(s) should refer to their CREST sponsor or voting service provider(s), who will be able to take the appropriate
+action on their behalf.
+In order for a proxy appointment or instruction made using the CREST service to be valid, the appropriate CREST message (a
+“CREST Proxy Instruction”) must be properly authenticated in accordance with the speciﬁcations of Euroclear UK & International
+Limited (“Euroclear”) and must contain the information required for such instructions, as described in the CREST Manual (available
+via www.euroclear.com).
+The message, regardless of whether it relates to the appointment of a proxy or to an amendment to the instruction given to a
+previously appointed proxy must, in order to be valid, be transmitted so as to be received by the issuer’s agent (ID: 7RA36) by
+the latest time(s) for receipt of proxy appointments speciﬁed above. For this purpose, the time of receipt will be taken to be the
+time (as determined by the timestamp applied to the message by the CREST Applications Host) from which the issuer’s agent is
+able to retrieve the message by enquiry to CREST in the manner prescribed by CREST. After this time, any change of instructions
+to proxies appointed through CREST should be communicated to the appointee through other means. CREST members and,
+where applicable, their CREST sponsors or voting service providers should note that Euroclear does not make available special
+procedures in CREST for any particular messages. Normal system timings and limitations will therefore apply in relation to the
+input of CREST Proxy Instructions. It is the responsibility of the CREST member concerned to take (or, if the CREST member is
+a CREST personal member or sponsored member or has appointed a voting service provider(s), to procure that his or her CREST
+sponsor or voting service provider(s) take(s)) such action as shall be necessary to ensure that a message is transmitted by means
+of CREST by any particular time. In this connection, CREST members and, where applicable, their CREST sponsors or voting
+service providers are referred in particular to those sections of the CREST Manual concerning practical limitations of the CREST
+system and timings.
+The Company may treat as invalid a CREST Proxy Instruction in the circumstances set out in Regulation 35(5)(a) of the
+Uncertiﬁcated Securities Regulations 2001 (as amended).
+
+8
+
+Appointment of proxy by joint members
+7.
+
+In the case of joint holders, where more than one of the joint holders completes a proxy appointment, only the appointment
+submitted by the most senior holder will be accepted. Seniority is determined by the order in which the names of the joint holders
+appear in the Company’s register of members in respect of the joint holding (the ﬁrst-named being the most senior).
+
+Changing proxy instructions
+8.
+
+Shareholders may change proxy instructions by submitting a new proxy appointment using the methods set out above. Note
+that the cut-off time for receipt of proxy appointments also apply in relation to amended instructions; any amended proxy
+appointment received after the relevant cut-off time will be disregarded.
+Where you have appointed a proxy using the hard-copy Form of Proxy and would like to change the instructions using another
+hard-copy Form of Proxy, please contact Share Registrars Limited on 01252 821390 (+44 1252 821390 when calling from abroad)
+or by e-mail to Enquiries@shareregistrars.uk.com. If you submit more than one valid proxy appointment, the appointment received
+last before the latest time for the receipt of proxies will take precedence.
+
+Termination of proxy appointment
+9.
+
+A shareholder may revoke a proxy instruction but to do so you will need to inform the Company in writing by sending a signed
+hard-copy notice clearly stating your intention to revoke your proxy appointment to Share Registrars Limited at 3 The Millennium
+Centre, Crosby Way, Farnham, Surrey GU9 7XX. In the case of a shareholder which is a company, the revocation notice must be
+executed under its common seal or signed on its behalf by an ofﬁcer of the company or an attorney for the company. Any power
+of attorney or any other authority under which the revocation notice is signed (or a duly certiﬁed copy of such power or authority)
+must be included with the revocation notice.
+The revocation notice must be received by Share Registrars Limited no later 11.00 a.m. on 28 November 2025.
+If you attempt to revoke your proxy appointment but the revocation is received after the time speciﬁed, your original proxy
+appointment will remain valid unless you attend the meeting and vote in person.
+Appointment of a proxy does not preclude you from attending the meeting and voting in person. If you have appointed a proxy
+and attend the Meeting in person, your proxy appointment will automatically be terminated.
+
+Corporate representatives
+10. A corporation which is a shareholder can appoint one or more corporate representatives who may exercise, on its behalf, all its
+powers as a shareholder provided that no more than one corporate representative exercises powers over the same share.
+Voting procedure
+11. Voting on all resolutions will be conducted on a show of hands. As soon as practicable following the General Meeting, the results
+of the voting will be announced via a regulatory information service and also placed on the Company’s website.
+Issued shares and total voting rights
+12. As at 12 November 2025, which is the latest practicable date before publication of this notice, the Company’s issued share capital
+comprised 300,237,093 ordinary shares of £0.001 each. Each ordinary share carries the right to one vote at a general meeting
+of the Company and, therefore, the total number of voting rights in the Company as at 12 November 2025 is 300,237,093.
+Questions at the meeting
+13. Any member attending the meeting has the right to ask questions. The Company must answer any question you ask relating to
+the business being dealt with at the meeting unless:
+a.
+
+answering the question would interfere unduly with the preparation for the meeting or involve the disclosure of
+conﬁdential information;
+
+b.
+
+the answer has already been given on a website in the form of an answer to a question; or
+
+c.
+
+it is undesirable in the interests of the Company or the good order of the meeting that the question be answered.
+
+Communication
+14. Except as provided above, members who have general queries about the General Meeting should contact Share Registrars
+Limited by telephone on 01252 821390 (+44 1252 821390 when calling from abroad) or by e-mail to
+Enquiries@shareregistrars.uk.com (no other methods of communication will be accepted). You may not use any electronic address
+provided either in this Notice of General Meeting, or any related documents (including the Form of Proxy), to communicate with
+the Company for any purposes other than those expressly stated.
+
+9
+
+Appendix A
+Explanatory notes of principal changes to the Articles of Association
+Under Resolution 1 the Company proposes to adopt the New Articles in place of the Current Articles, principally to reﬂect developments
+in practice and legislation and to provide clariﬁcation and additional ﬂexibility.
+The principal changes introduced in the New Articles are summarised below. Other changes, which are of a minor, technical or clarifying
+nature, have not been noted in this Appendix A.
+1.
+
+Change of Name
+
+The Current Articles were adopted prior to the Company changing its name by special resolution from Uranium Energy Exploration Plc
+to The Smarter Web Company plc. The New Articles formally adopt the new name and remove references to the previous identity. The
+New Articles permit the Company to change its name by a Board resolution in accordance with the Companies Act 2006.
+2.
+
+Number of Directors
+
+The Current Articles imposed a cap of seven Directors. The New Articles remove this cap, stating that the number of Directors must
+not be less than two but is otherwise unlimited unless determined by ordinary resolution. This change provides greater ﬂexibility in
+board composition; allowing for growth of the management team.
+3.
+
+Annual Retirement of Directors
+
+The New Articles have been updated to amend the provision that Directors must retire at each Annual General Meeting (“AGM”) and,
+if they wish to continue in ofﬁce, stand for re-election. The New Articles specify that each Director must follow the annual retirement
+requirement, save for the Directors in their ﬁrst year of appointment who were appointed between the issuance of the AGM notice and
+the AGM itself.
+Under the Current Articles, directors were exempt from re-election if they had been appointed or re-appointed at either of the two
+previous AGMs. The New Articles also add provisions for emergency appointments when the Board falls below the minimum number
+of Directors.
+4.
+
+Meeting Quorum & Adjournments
+
+The Current Articles provided standard quorum requirements for general meetings, whereby two members must be present in person
+or by proxy. The New Articles introduce more ﬂexible and detailed provisions. The quorum requirements can now be satisﬁed by
+Shareholders participating electronically, supporting hybrid and virtual meeting formats.
+Under the New Articles the chairman has wider discretion to adjourn meetings in the event that a quorum is not present between ten
+minutes and one hour from the start of the meeting, or otherwise for safety reasons, technical issues, or procedural order. Rearranged
+meetings are permitted with seven days’ notice given in the same manner as the initial meeting.
+5.
+
+Electronic and hybrid shareholder meetings
+
+The Current Articles only permit physical meetings of shareholders. The New Articles allow meetings to be held via electronic forums,
+including hybrid and virtual formats. This includes detailed provisions for quorum, voting, adjournments, and security protocols for
+electronic participation, ensuring compliance with modern governance standards and giving greater ﬂexibility to members attending
+and voting at meetings.
+6.
+
+Non-executive Directors’ Fees
+
+The Current Articles include an aggregate fee cap for Directors of £200,000 per annum unless increased by Shareholder resolution.
+This upper limit has been removed in the New Articles, allowing the Board to determine fees, subject to any remuneration policy
+approved by Shareholders. This change reﬂects a more ﬂexible approach to Director compensation, in line with market norms. Further,
+approval from Shareholders is given under the New Articles for any fees that have been granted, paid or accrued before or after the
+date of adoption of the New Articles to Directors for their services in excess of the aggregate fee cap included in the Current Articles.
+7.
+
+Scrip Dividends
+
+The Current Articles include a detailed framework for scrip dividends, covering shareholder elections, valuation methodology,
+capitalisation of reserves, and auditor conﬁrmation. While comprehensive, these provisions are prescriptive and potentially restrictive,
+requiring speciﬁc processes to be followed even when not commercially necessary.
+The New Articles aim to improve the existing provisions on scrip dividends by removing the bespoke mechanisms and relying instead
+on general Board discretion and statutory powers to allow Shareholders to receive new Ordinary Shares instead of cash. This change
+streamlines the Company’s constitutional approach to scrip dividends and enables the Board to tailor the process to prevailing market
+conditions, reducing administrative complexity while maintaining ﬂexibility for future issuance.
+8.
+
+Unclaimed Dividends
+
+The Current Articles provide a basic mechanism for dealing with unclaimed dividends, allowing the Company to forfeit any dividend
+that remained unclaimed for a period of 12 years. The New Articles introduce a structured reclaim process, including tracing efforts
+and notice requirements. They incorporate provisions aligned with the Dormant Assets Scheme, allowing the Company to transfer
+unclaimed dividends and other proceeds to a reclaim fund after a 12-year dormancy period. Before doing so, the Company must take
+reasonable steps to trace the Shareholder and provide notice. Unclaimed funds may be transferred to a reclaim fund or retained by
+the Company, with Shareholders retaining the right to reclaim.
+9.
+
+Director Conﬂicts
+
+Under the Current Articles, the director conﬂict provisions include a formal mechanism for the Board to authorise conﬂicts of interest.
+Directors were permitted to declare interests and, subject to Board approval, could participate in decisions where a conﬂict existed.
+
+10
+
+The New Articles aim to reﬁne the language of the conﬂict provisions in the Current Articles whilst retaining the majority of them;
+including the provision that Directors may not vote or count in a quorum on any Board resolution where they have an interest, unless
+that interest cannot reasonably be regarded as likely to give rise to a conﬂict. While Directors are still required to disclose conﬂicts of
+interest in accordance with the Companies Act 2006, the New Articles no longer provide a bespoke mechanism for Board authorisation.
+Instead, they rely more heavily on statutory duties and principles of governance, in order to allow the Board more ﬂexibility to authorise
+conﬂicts of interest in a proportional way in response to the deemed severity of the conﬂict.
+10. Voting on Polls
+In the Current Articles, voting on polls is permitted but governed by minimal procedural detail. Polls could be demanded by Shareholders
+or the chairman, but there were no speciﬁc rules regarding timing, conduct, or electronic participation. The New Articles introduce a
+more structured approach. Polls are now automatically triggered in certain circumstances, such as when Shareholders participate
+electronically. The New Articles specify that polls must be conducted within 21 days of being demanded and outline clear procedures
+for submitting and counting votes. The New Articles have retained the provisions that objections to votes must be raised at the meeting
+and that the chairman’s decision on vote validity is ﬁnal.
+The changes in the New Articles seek to enhance transparency, ensure procedural fairness, and support digital shareholder engagement.
+
+11
+
+Perivan.com
+272405

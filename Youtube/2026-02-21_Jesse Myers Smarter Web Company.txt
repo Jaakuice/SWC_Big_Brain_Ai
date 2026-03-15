@@ -1,0 +1,62 @@
+# Jesse Myers Smarter Web Company
+**Date: 2026-02-21**
+**Video ID: w8oX_r-N_x4**
+**URL: https://www.youtube.com/watch?v=w8oX_r-N_x4**
+**Duration: ~20:12**
+**Channel: To B or Not to B**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- Jesse Myers' journey from altcoins to Bitcoin maximalism after the 2018 bear market
+- The historical significance of King Croesus of Lydia and the invention of standardized coinage 2,600 years ago
+- Bitcoin as the digitization of money, analogous to the internet's digitization of information
+- Nick Szabo's "Shelling Out" thesis: shell bead jewelry as prehistoric proof-of-work and proto-money
+- Updated archaeological evidence pushing shell bead jewelry back to 142,000 years ago
+- The neuroscience behind human capacity for abstract thought and monetary behavior
+- Megafauna-supported proto-civilizations during the last ice age and their collapse
+- Bitcoin as the next (and possibly final) stepping stone in monetary technology evolution
+- The rise of Bitcoin treasury companies and their role in global finance
+
+---
+
+**Alison (To B or Not to B):**
+(0:00:10) Jesse Meyers, it is an absolute honor to meet you virtually at the moment and hopefully in the near future at one of the Bitcoin Treasury events. But first of all, how are you?
+
+**Jesse Myers:**
+(0:00:25) I'm doing great. Looking forward to this conversation. Pleasure to meet you. I'm sure we will, you know, see each other in the real world with hats like that all around.
+
+**Alison (To B or Not to B):**
+(0:00:35) Yeah, I'm sure you might have seen me wearing this rather a lot. So, for the benefit of anybody listening to this podcast, I've got my Smarter Web hat on. Wear it out and about a lot. Try and do an awful lot. So, that's my first disclosure really is that I'm a huge supporter of Bitcoin Treasury companies and in particular the Smarter Web Company. So that's my advertising done for the moment. You probably may know that we're called "To Be or Not to Be: From Blockchain to Bitcoin and Everything in Between." So my first question is going to be where do you stand on that spectrum?
+
+**Jesse Myers:**
+(0:01:17) Yeah. I mean that's a good place to start. So I started as an altcoiner in 2016. I got my MBA at Stanford in 2016. And when I was there, everyone was buzzing about this new thing called Ethereum. And by everyone, three people I encountered were excited about that. But that was enough for me to pay attention to it. And then my thesis at that time was that Bitcoin was the first and then Ethereum was a technological improvement and would eat market share from Bitcoin. So that was how I invested and that led me over the next couple of years to investing in all sorts of altcoins. Fully bought in on the "blockchain, not Bitcoin" thesis. And then the 2018 bear market happened and all of my altcoins got absolutely destroyed and I rode them down to the bottom for the most part. Still believing in my thesis, but clearly the market was telling me something different. And I had to figure out why was Bitcoin, this antiquated first version of the blockchain, outperforming these altcoins that I thought had so much promise. And that forced me to consider what the Bitcoin maximalists were putting out there. You know, when you're an altcoiner, you're sort of conditioned to think that Bitcoin maximalists are some sort of hostile cult. But with the pressure of the bear market, it forced me to consider, all right, maybe I need to see what they're saying and read some of their content.
+
+(0:02:52) So, I read "The Bullish Case for Bitcoin" by VJ, happened to read "The Price of Tomorrow" by Jeff Booth and also "The Changing World Order" by Ray Dalio, not a Bitcoiner, but ended up being quite relevant. And then that led me to reading "Shelling Out" and "The Bitcoin Standard" all in a pretty compact month or two there. And that was my Bitcoin epiphany where I realized it's all about Bitcoin. This is not about technology. This is money. Money is the ultimate network effect. Money is a protocol standard that we all converge on. And Bitcoin because of its properties is the one and only instance of digital scarcity. It's already won. Altcoins don't matter. Maybe they are 1% to 5% of the value of digital money, but currently they're half the market value of the space. So, the winning bet is to just be in Bitcoin. And you're throwing darts anyway with, back then there were like 7,000 altcoins. Now there's 37 million. So, you're truly throwing darts. So that was my process of coming to Bitcoin and realizing that all coiners think they know about Bitcoin. You start by — every altcoiner starts by learning about Bitcoin and thinking "I wish I had bought some of that" and then you hear about the other new altcoins and you think "oh this is my chance to be early on something." And from that point on you stop thinking about Bitcoin ever. But it's all about Bitcoin. It always has been. And the Bitcoin maximalists understand that. The Bitcoin treasury company advocates understand that and most of the world is still catching up.
+
+**Alison (To B or Not to B):**
+(0:04:30) And that really is actually playing out at the moment. That's the conclusion that I've come to. But we have this huge ecosystem now, the stablecoin, the crypto ecosystem, and somehow everything's got to find its way with Bitcoin in my opinion at the base level that everything else is built on. But again, one of the things that fascinated me about your thesis is first of all your name on X, Croesus, and that led me to the history of money and your thesis "Once in a Species" which I again enjoyed — history and looking at how we've developed over the years. You've got a thesis that basically people now anchor to and have built businesses from and can see a pathway for the future. So I was hoping that you would explain a little bit about where you got your name from on X, because a lot of people I'm not sure even think about that, and then tell me a little bit more about "Once in a Species."
+
+**Jesse Myers:**
+(0:05:35) Yes, I would love to. So Croesus was, well first of all, he was the king of Lydia 2,600 years ago who came up with the first standardized bimetallic coinage system. So you had your gold coins and your silver coins and you had the stamp of the king on each coin and that stamp was attestation that this coin had a certain amount of gold in it. And before that you didn't have standardized coinage. So if somebody was offering you a bit of metal, you didn't know how much gold you were accepting. There was no way to trust that. But because of this invention of the stamp of the king going on this unit of metal, you could trust that this is a precise amount of gold. And that, if you think about it, is a huge breakthrough in monetary technology because it reduces the friction involved in trade. If you want to trade with somebody, you don't have to get out your scales and weigh a bag of gold dust and worry about how much lead is in there. Instead, you can accept the coins of the king with confidence that you're getting a certain amount of gold.
+
+(0:06:46) So, that's a huge milestone. Saifedean mentions it in "The Bitcoin Standard." I wasn't aware of Croesus until reading that and that really struck me as the historical analog or parallel for what Bitcoin is doing. Bitcoin is in my opinion simply the next big stepping stone in monetary technology evolving and potentially the final stepping stone because what Bitcoin represents is going from analog money to digital money. And we live in the digital age. We've seen the digitization of information with the internet. And Bitcoin is the digitization of value, the digitization of money. And it's analogous to the internet. Bitcoin is doing to the world of value what the internet did to information. 50 years ago, you'd go to the library to get all your information or you'd get the newspaper on your doorstep. And now you go to the internet and all information is digitized and accessible anywhere in the world. And we're all quite familiar with how that has revolutionized the world and information access. Bitcoin's doing the same thing to money. You just have to zoom out enough to think about it in historical terms in order for that to be quite clear.
+
+(0:08:02) So, I picked that name because it represents to me the right framing for how to think about Bitcoin at a historical level. And I guess I have a penchant for thinking in zoomed out terms in general and that's true with human time scales as well. So my most recent piece which you're referring to is — I think it's the best thing I'll ever write. I kind of stumbled into a new thesis about humanity which is kind of a wild thing to say but there it is. What I set out to do was build on "Shelling Out" and kind of revisit "Shelling Out" which was written by Nick Szabo in 2002, so 25 years ago or so. And it was all about the anthropological evidence, the archaeological evidence of shell bead jewelry. And his thesis in that piece was that all of this evidence that we see across space and time is not just so that people could look good with fancy jewelry. It was a proof-of-work mechanism that could be used as a sort of proto-money, right? Where if you had gone through the effort of collecting shell beads and drilling holes in them and stringing them up, which would have taken many hours with stone age tools, then you had this valuable good that was on your person and you could save that for a rainy day when you were in a pinch and you needed to exchange some value with another human. Your bracelet or your necklace would come off then and you'd hand that over. And that was very valuable from an evolutionary perspective. That could save your skin and that could be the difference between you surviving and propagating your genes into the future or not.
+
+(0:09:52) And so that was kind of what he focused on in "Shelling Out" 25 years ago. I revisited that and wanted to see what had been found in the last 25 years. When he wrote his piece, the oldest evidence of shell bead jewelry was, I think, 70,000 years old.
+
+(0:10:07) And in the last 25 years, a bunch of older cave sites have been found or layers of deposits at cave sites. And now the oldest shell bead jewelry that we've seen is 142,000 years old. So that kind of almost doubles the length of time that we've been doing this, or at least our knowledge of it, how long we've been doing it, in the last 25 years.
+
+**Alison (To B or Not to B):**
+(0:10:33) It's just exciting. I find it fascinating because that reestablishes all the layers of history we thought we knew are being recalculated.
+
+**Jesse Myers:**
+(0:10:45) Recalculated. The layers of history that we thought we knew are now being re-understood or recalculated for the timeline, but it's really indicative of history and what we understand as value as well.
+
+**Alison (To B or Not to B):**
+(0:11:03) Absolutely, fully agree with that.
+
+**Jesse Myers:**
+(0:11:05) Yeah, it's wild to think about. Humans were not all that different from how we are today 100,000 years ago, even 300,000 years ago. We're genetically the same. And when you think about it like that, and you think about the vast expanse of time that that constitutes, there would be all sorts of human stories that played out and we've only found a tiny tiny fraction of them in deposits and cave sites because that's the logical place to look. And yeah, it does make you wonder. And kind of going down that rabbit hole, there's some great academic research on paleoanthropology and paleoarchaeology which is kind of most interesting. The classic cave sites in France where there's paintings of megafauna on the ceiling — and what were they doing and why were they making these paintings? All the sort of research around that phenomenon points to, at the end of the last ice age, there were kind of megafauna herds roaming through France, which supported population density in these particular strategic cave site points. And that population density allowed for specialization of labor. So you'd have your sort of artist or slash maybe mystics that would be supported by a whole proto-civilization societal structure. And then the ice age ends and those megafauna herds disperse and disappear and that civilization collapses, which is fascinating stuff. So how many other times in the last 200,000 years did we have that kind of budding conditions of civilization coalesce only for it to be wiped out?

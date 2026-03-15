@@ -1,0 +1,92 @@
+# Jesse Myers on Bitcoin Treasuries and the Smarter Web Company PLC #SWC #TSWCF
+**Date: 2025-08-01**
+**Video ID: r24UGwIB92w**
+**URL: https://www.youtube.com/watch?v=r24UGwIB92w**
+**Duration: ~21:06**
+**Channel: VOSTRA**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- Lump sum vs. staged Bitcoin buying strategies for treasury companies
+- Building a track record and retail investor community over time
+- Why starting too large (e.g., 21 Capital) may hinder mNAV premium sustainability
+- The Smarter Web Company's staged capital raise approach and execution focus
+- mNAV premiums and how companies can still accrete Bitcoin per share at 1x mNAV
+- Using convertible notes with zero-interest as a debt lever when mNAV is at 1x
+- Path-dependent community building as a competitive moat
+- Comparison of Smarter Web Company to MetaPlanet and Strategy (MicroStrategy)
+- Selling options (covered calls) as an additional lever for generating operating profits
+
+---
+
+**Vostra:**
+(0:00:01) Hello, Vostra here. Hope you're well. Make sure you're subscribed. This is Vostra tracking the fastest growing business in the United Kingdom, the Smarter Web Company plc.
+
+(0:00:16) Right. Jesse Meyers, the Bitcoin advisor of the Smarter Web Company, covers a few important points. I wanted to highlight those. I think it's really important for everyone that's following this journey to understand these three areas. These are some questions that have come up a few times on the Bitcoin Treasury world.
+
+(0:00:35) So we're going to listen to the video that he did with Acropolis, I believe the Acropolis guys a few days ago. Let's have a look at what Jesse Meyers, the Bitcoin expert advisor, says about smash buying versus spacing it out. So this is where there is a theory in the marketplace around buying bitcoins as soon as you receive the cash and not sort of spacing it out. There's the other school of thought where actually maybe perhaps spacing it out slightly and having more announcements is also a viable strategy which is something that the Smarter Web Company does a bit more.
+
+(0:01:22) There was the question I had earlier around the competition and also the benefits or not of starting a large BTC treasury company versus a startup effectively and the pros and cons of that. I think it's really interesting to hear Jesse's take on that and then we can dive a bit further. Execution. We talk about this all the time. This is the ultimate differentiator. No matter whether you're big, small, or just wherever you are. Execution. It's not about the idea. The idea is great. Everyone's got the idea. I had the idea. Execution. That's the differentiator.
+
+(0:02:07) Right. Let's have a look at what Jesse says about these things. This is the podcast that was on a few weeks ago or a few days ago. Take a listen to this.
+
+**Jesse Myers:**
+(0:02:22) Yeah, I think it depends. I think if you're in the US, for example, where has the most developed Bitcoin treasury company landscape, and Strategy has already locked up, you know, with the winning position there. I think in that context, you should just lump sum it and, you know, get as much as you can and try to grow from there.
+
+(0:02:47) I think in a country that doesn't yet have a leadership position, a leading Bitcoin treasury company, I very much like the approach of stage out your buys to help build a track record and grow your Bitcoin yield over time. That's what Smarter Web did and for a variety of reasons, logistics being one of them.
+
+(0:03:21) And I think it proved very helpful to accelerating the development of a community and a retail base that gets it because there have been more announcements than if you just were to lump sum it all up front. And that builds a track record of great, you know, evidence of this is what we're doing and have continued to execute on and you can sort of paint a picture of where this is going a little bit better if you have more data points. And so I think there's a ton of value to that.
+
+(0:03:56) And there's like a path dependent community building element for becoming a — growing from nothing to a market-leading, a particular capital market leading Bitcoin treasury company which I think we've seen MetaPlanet do. Like you have to build a track record and build that retail investor base to build that community around "here's what we do and we keep doing it."
+
+(0:04:29) And that's path dependent. You have to start small. You have to deliver. You have to execute on an intended plan and show those results and let the market realize, run their own numbers and say, "Wow, this is working and we can see that it is likely to keep working and become supportive of that." And so I think people miss that there's a ton of value in building the track record and building the community to help you have the infrastructure and support for where you're trying to go.
+
+**Vostra:**
+(0:05:06) Building the track record is hugely important. I cannot underestimate how that is such a differentiator. This is something that we have seen with the Smarter Web community. There's more than 4,000 members soon in the X community, the third largest X community in the world after no other than Strategy and MetaPlanet who have started the game much much before Smarter Web did in the April when they IPO'd.
+
+(0:05:46) I think the spacing out of the buys, there's a few reasons for that. Jesse went into it — it's not just for community purposes, there's procedural reasons behind it as well. There's admin, there's cash that actually needs to clear. Let's see what else Jesse says.
+
+**Acropolis Interviewer:**
+(0:06:12) On the other end of the spectrum you have super large players, players like 21 Capital. Do you think they're making a mistake starting so big?
+
+**Vostra:**
+(0:06:18) Yeah, this is a very interesting question regards how big a treasury company is when it first starts and whether that strategy is as effective as having a fast growing startup that is following a playbook which builds a track record for investors to see. Take a listen.
+
+**Jesse Myers:**
+(0:06:52) I think on a different podcast I said mistake. And if it's not a mistake, it's in that direction. I think that's because if you're going to have an mNAV premium, you need to have a track record of growing Bitcoin per share over time in order for investors to say "I'm willing to pay more now than the NAV value of the company."
+
+(0:07:27) Because we've seen how they've grown Bitcoin per share over time and you're buying in on a continuation of that execution. Versus if you come in lump sum up front, make a huge buy, that's great but then how do you sustain an mNAV premium? Because to do that you have to follow it up with — like you have to buy twice as much over the next 6 months and there's no track record of having done that. There's no reason to necessarily believe that that's going to happen.
+
+(0:08:03) And so I think that puts a company like 21 in a tough spot where great, you have a lot of Bitcoin and you'll trade at 1x mNAV. But why do you deserve a 3x mNAV? And who's going to be willing to pay that? And maybe they find a way to make that compelling case to investors. But I think what MetaPlanet has shown is that the best way or perhaps the most straightforward way to show that to investors is "look at our body of work." You know, look at how we execute, how we've grown Bitcoin per share over time. And that's why you might be willing to pay a 3x or more premium to get in now.
+
+**Acropolis Interviewer:**
+(0:08:48) Yeah, I think that's right. This is such an important point because what we've seen with the Smarter Web Company is that there has been a capital plan in place from the very beginning. The moves have been planned six raises in advance, I would say from my observations.
+
+(0:09:10) When you start with such a large stack — and Adam Back I believe as well has starting a company with a significant amount of Bitcoin from day one — it remains to be seen if that model is as effective as what we've seen with some of the other business models here that we are witnessing.
+
+(0:09:39) It's, as Jesse says, you have to double up the capital raises in very quick succession. And if you're doing them deal by deal as things come up then the momentum is arguably a little bit more jeopardized. Whereas the trajectory that the Smarter Web Company is on feels a lot more planned.
+
+(0:10:14) There is inevitably market circumstances that are out of control. But at the same time, when you've got consistent track record and execution to point to, that inspires confidence, further confidence in management teams.
+
+(0:10:37) I think this is a point that is very very well made out there by Jesse. Jesse, you really do need to show a track record of some kind. Now, I think 21 Capital might argue that Jack Mallers has his own track record and Tether have their own track record and so maybe they're banking on that being enough to attract especially the retail investors in the space. And maybe it is, but I tend to agree if this really comes down to an increase in Bitcoin per share, Bitcoin yield, Bitcoin torque, however you want to think about it, and proven execution against that vision over a period of time so that it becomes a pattern, a trend, and something that you can line plot out into the future, then I do think that perhaps they are blowing their load a little too early.
+
+**Vostra:**
+(0:11:35) Blowing the load a little too early. I think you summarize it very well, my friend.
+
+**Acropolis Interviewer:**
+(0:11:40) Obviously going a little bit deeper on mNAV and Smarter Web in particular, but just to lay this case out. So I think a lot of folks who are following this space think that if mNAV goes to one that a company can no longer be accreting Bitcoin per share, but that's not actually the case. Because there's still an operating company that can still take out intelligent leverage opportunistically. So how would you explain that even if a company gets to one mNAV that they can still be adding to Bitcoin per share?
+
+**Jesse Myers:**
+(0:12:15) Yeah. Luckily it's something I haven't had to spend a ton of my time on at Smarter Web because we enjoy a decent mNAV premium which makes our bread and butter accretive dilution — new equity issuance.
+
+(0:12:35) But there are other levers you can explore and evaluate if you're in a 1x mNAV condition. At the most basic level, that's when debt might become more attractive. If you don't have any debt — Smarter Web has zero debt on its balance sheet — if you don't have any debt, you could take on 20% debt without it really being an existential concern at all.
+
+(0:13:08) And find debt terms that are very low interest, if not zero percent interest, and that's particularly possible with convertible notes. So if you're at a 1x mNAV but you've had a track record of volatility of any reasonable amount of volatility, you can offer convertible notes that have a conversion option that would be very attractive to an investor.
+
+(0:13:45) You know, Black-Scholes option pricing with any sort of volatility in your stock, that becomes very valuable — the value of that option is high. And so that's why that investor might be interested in paying 0% or receiving 0% interest because it comes with a conversion option that's very valuable to them even if they may or may not end up using it based on how things play out, but up front the option value is very high.
+
+(0:14:18) So that's a scenario where that would be a very attractive thing to explore — how do we raise a bunch of fiat by issuing convertible notes to buy Bitcoin with? And the convertible note has 0% interest and a conversion premium, ideally, but a conversion option for the investor that gives them their value and why they would give you dollars up front. And just like that you've managed to increase your Bitcoin holdings, let's say 20% in that condition, and now you're starting to generate momentum again. So that'd be one lever.
+
+(0:15:02) You can also sell options, explore that world which MetaPlanet has done as part of generating positive operating profits. I forget their exact structure for what they sell — I guess, covered calls probably.

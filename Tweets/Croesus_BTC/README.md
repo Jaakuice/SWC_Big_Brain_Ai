@@ -6,19 +6,19 @@ This directory contains structured data extracted from @Croesus_BTC's X.com time
 
 **Extracted:** January 27, 2026 at 01:18 PM; **updated** with missing tweets from lightbrd HTML snapshot; **updated** February 19, 2026 with Jan/Feb 2026 tweets from lightbrd HTML.
 **Total Timeline Items:** 304+
-**Meaningful Posts:** 430
+**Meaningful Posts:** 518
 **Filtered Out:** 16+
 
 ## Statistics
 
 ### By Post Type
-- **original**: 261
-- **quote**: 99
-- **reply**: 70
+- **original**: 267
+- **quote**: 107
+- **reply**: 144
 
 ### By Month
-- **2026-02**: 59 posts
-- **2026-01**: 113 posts
+- **2026-02**: 81 posts
+- **2026-01**: 114 posts
 - **2025-12**: 1 posts
 - **2025-11**: 11 posts
 - **2025-10**: 19 posts
@@ -34,8 +34,8 @@ This directory contains structured data extracted from @Croesus_BTC's X.com time
 ## Files
 
 Monthly JSON files in format `posts-YYYY-MM.json`:
-- `posts-2026-02.json` (59 posts)
-- `posts-2026-01.json` (113 posts)
+- `posts-2026-02.json` (81 posts)
+- `posts-2026-01.json` (114 posts)
 - `posts-2025-12.json` (1 posts)
 - `posts-2025-11.json` (11 posts)
 - `posts-2025-10.json` (19 posts)

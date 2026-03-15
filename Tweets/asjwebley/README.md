@@ -7,19 +7,19 @@ This directory contains structured data extracted from @asjwebley's X.com timeli
 **Source:** `@asjwebley_X.html` (saved Nitter frontend page); `Andrew Webley (@asjwebley) _ lightbrd.html` (lightbrd snapshot).
 **Extracted:** January 27, 2026 at 12:05 PM; **updated** January 30, 2026 with missing tweets from lightbrd HTML; **updated** February 19, 2026 with Jan/Feb 2026 tweets from lightbrd HTML.
 **Total Timeline Items:** 1330+
-**Meaningful Posts:** 894
+**Meaningful Posts:** 939
 **Filtered Out:** 469+
 
 ## Statistics
 
 ### By Post Type
-- **original**: 239
-- **quote**: 101
-- **reply**: 536
+- **original**: 244
+- **quote**: 114
+- **reply**: 563
 - **repost_with_comment**: 18
 
 ### By Month
-- **2026-02**: 26 posts
+- **2026-02**: 49 posts
 - **2026-01**: 43 posts
 - **2025-12**: 46 posts
 - **2025-11**: 56 posts
@@ -42,7 +42,7 @@ This directory contains structured data extracted from @asjwebley's X.com timeli
 ## Files
 
 Monthly JSON files in format `posts-YYYY-MM.json`:
-- `posts-2026-02.json` (26 posts)
+- `posts-2026-02.json` (49 posts)
 - `posts-2026-01.json` (43 posts)
 - `posts-2025-12.json` (46 posts)
 - `posts-2025-11.json` (56 posts)

@@ -1,0 +1,135 @@
+# Can We Trust Bitcoin More Than Any Other Currency?
+**Date: 2025-11-21**
+**Video ID: IMJH2ervN0U**
+**URL: https://www.youtube.com/watch?v=IMJH2ervN0U**
+**Duration: ~46:09**
+**Channel: Times Business**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- Bitcoin as a store of value versus traditional fiat currencies (pound, dollar)
+- The origin and mechanics of Bitcoin Treasury Companies, pioneered by MicroStrategy (now Strategy) and Michael Saylor
+- The Smarter Web Company's journey from web design agency to the UK's first Bitcoin treasury company
+- Why Bitcoin treasury companies trade at a premium (multiple) to their underlying Bitcoin holdings
+- Skepticism around crypto: the "crypto queen" OneCoin fraud, Sam Bankman-Fried and FTX collapse
+- Andrew Webley's career background at Hargreaves Lansdown and founding of The Smarter Web Company
+- Bitcoin fundamentals: finite supply, mining, 20-year price history
+- The cultural divide on Bitcoin: skeptics, the indifferent, and true believers
+- The Satoshi Nakamoto identity mystery and Craig Wright's failed court claim
+
+---
+
+**Dominic O'Connell:**
+(0:00:00) You don't trust traditional currencies. You don't trust the pound. You don't trust the dollar, etc. Why don't you trust them?
+
+**Andrew Webley:**
+(0:00:06) Because they've been badly managed. If I'm honest, I believe that it's much better to store the value in Bitcoin for the benefit of the business.
+
+**Hannah Prevett:**
+(0:00:14) There still are many skeptics, aren't there? It's a scam. It's a Ponzi scheme. How do you win them round?
+
+**Andrew Webley:**
+(0:00:20) Through the power of Bitcoin, I've given my business a real shot at growth. If you look back historically at Bitcoin, broadly speaking, no one who held for more than four years has ever lost any money.
+
+**Hannah Prevett:**
+(0:00:35) Now, when you hear Bitcoin, I think people have three reactions, right? Their eyes glaze over, they are very skeptical, or they get really, really excited. What's your reaction?
+
+**Dominic O'Connell:**
+(0:00:46) Well, if you'd asked me 10 years ago, I would have sort of glazed over a bit, but now I'm reasonably excited because you can't write Bitcoin off and just say it doesn't matter. It's been around for 20 years. Lots of people own it. Lots of people have made money and lost money from it. So, yeah, I'm excited. I'm interested. I don't know enough about it and I want to know more. Which is just as well. We have our guest in today. Someone who's really taken a big play on Bitcoin, faces a lot of skepticism about the use to which he's putting it. And we're going to quiz him on that.
+
+**Hannah Prevett:**
+(0:01:15) I'm Hannah Prevett, the associate business editor of the Sunday Times.
+
+**Dominic O'Connell:**
+(0:01:18) And I'm Dominic O'Connell, columnist at the Times and correspondent on Times Radio. And from the Times and the Sunday Times, this is The Business —
+
+**Hannah Prevett:**
+(0:01:27) — where we bring you the kind of behind-the-scenes conversations that we normally have with business people and put you ringside.
+
+**Dominic O'Connell:**
+(0:01:33) Picking apart one big business story with guests from the front line.
+
+(0:01:37) Our business today is Bitcoin and more specifically one of the latest developments in the world of crypto assets, Bitcoin Treasury Companies. Do you remember, Hannah, when you first heard the word Bitcoin or do you have any associations with Bitcoin yourself?
+
+**Hannah Prevett:**
+(0:01:53) So I must admit I fall into the first category. So my eyes have glazed over and I think part of that is because of the kind of crypto bro culture that seems to —
+
+**Dominic O'Connell:**
+(0:02:04) It is, it is a bro, comes out of the tech bro culture a bit, doesn't it?
+
+**Hannah Prevett:**
+(0:02:08) Exactly. And I mean, my ears are piqued when I hear — so at the school gates actually some parents I know invested in Bitcoin quite early on and did really well, but I think they've done the sensible thing and now cashed that in and got out, which is what I think I would probably be —
+
+**Dominic O'Connell:**
+(0:02:24) So you're hugely skeptical about Bitcoin.
+
+**Hannah Prevett:**
+(0:02:26) I am.
+
+**Dominic O'Connell:**
+(0:02:26) You are.
+
+**Hannah Prevett:**
+(0:02:27) I am. I just think there are so many negative headlines around. If you look at the crypto queen, which is obviously back in the public domain in the last few weeks — she was sentenced to more than 11 years in jail for defrauding thousands of victims out of some 4.6 billion pounds which she converted to Bitcoin. And then of course we had Sam Bankman-Fried a few years ago when his crypto exchange imploded and he was sentenced to 25 years in jail. So I just think whilst you have these kind of characters associated with crypto, it does give ammunition to people like me who are skeptical — and I'm not alone. When I quizzed everyone on the business desk this morning, they were very much aligned with my thinking. But you aren't quite as skeptical, are you?
+
+**Dominic O'Connell:**
+(0:03:10) No, I'm not. I think that's being a bit Luddite to be honest, because you can't ignore the fact that it's in play and it's working and it's been around for 20 years. For those who don't know, Bitcoin is what's called a crypto asset. It was invented by someone who we don't know the identity of, a guy called — well, he's — we think he's called Satoshi Nakamoto, who set up the basic digital architecture behind Bitcoin. In essence it's a digital asset, an entry in a ledger, of which there will only ever be a finite number. You get them by doing this process called mining, which is basically doing these mathematical proofs. You do it with a computer and you get a bitcoin out the back of it. The price has fluctuated wildly over the past 20 years. I remember actually buying a pizza in a trendy Shoreditch pub just for a piece about this new digital currency, which probably was nearly — maybe not 20 years ago, maybe 18 years ago — and I bought a pizza for, from memory, it was like two bitcoin or something like that for a £10 pizza. And now it's £79,000 a bitcoin. It's been a lot higher. So if I hadn't — if I'd forgotten the pizza, I probably wouldn't be here today.
+
+**Hannah Prevett:**
+(0:04:15) Well, and people have done really well out of it, haven't they? And they go crazy when they lose it. Do you remember that guy who threw away his hard drive and then he was paying people with metal detectors to go through, you know, rubbish sites to try and find the hard drive?
+
+**Dominic O'Connell:**
+(0:04:29) Didn't he then find someone to finance the excavation of the entire — I don't know what happened to that. Did he actually find the hard drive or not?
+
+**Hannah Prevett:**
+(0:04:35) No. And I actually had a quick look to see if there was an update, and this summer he's finally given up. But that's many years later. Yeah.
+
+**Dominic O'Connell:**
+(0:04:42) It was worth tens of millions of pounds. The other interesting thing was that people have vied or tried to claim that they are the inventor of Bitcoin, Satoshi Nakamoto. And last year we had a trial in the UK, a high court trial, where an Australian computer scientist called Craig Wright said, "Listen, I am Satoshi Nakamoto and I can prove it." And he lost the case and it was rather embarrassing for Mr. Wright.
+
+**Hannah Prevett:**
+(0:05:05) Oh, awkward. So let's move to talk about crypto treasury companies. Dom, you've been looking into the history of this a little bit, haven't you? So, what are they and how did they come about?
+
+**Dominic O'Connell:**
+(0:05:16) Well, they're a new twist on the whole crypto scene. They're invented really by a company called MicroStrategy, which was an ordinary US company, ordinary internet services company, which bimbled along for years and years. It was run by a guy called Michael Saylor who had a few brushes with the regulators along the way. He had a fairly colorful history, it's safe to say, but it was an unremarkable company in that sense, providing internet services and other kind of online services to companies. But then in 2020, he went in a completely different direction and he decided to use the normal treasury function of a company — which is where a company holds its investments, its cash or holdings in US government bonds, these kinds of things, just its reserves — and he thought, I'm going to put almost all of these into Bitcoin. And then he went out and started raising money and he raised lots of money just to buy Bitcoin. And this is where the story gets really interesting, because you would think that the share price of MicroStrategy — Strategy as it's now known — would simply follow the value of the Bitcoin holding. It's obvious, isn't it? That's its asset like any other asset. But what happened instead was that this company Strategy, which coined this idea of Bitcoin treasury companies, it became worth on the stock market much, much more than the underlying Bitcoin. So there was this weird thing going on where investors were prepared to pay more to own Bitcoin through a company than they were than just to go out and buy the Bitcoin itself. It was a multiple. And now he — it is the biggest corporate holder of Bitcoin in the world and is still worth more on the stock market, not as much as it was, but still worth more than the underlying Bitcoin. Explain that.
+
+**Hannah Prevett:**
+(0:06:59) Well, hopefully our guest can do just that. And the other thing that I find really interesting about Michael Saylor is that he was a Bitcoin skeptic or a "Luddite" as you just referred to me. But he was converted, right, as you say, in 2020.
+
+**Dominic O'Connell:**
+(0:07:12) Yeah. So I think that's really interesting too. Well, should we get our guest in?
+
+**Hannah Prevett:**
+(0:07:17) I think we should. So this was really a US phenomenon, but now it's come over here. There are a few companies who are trying to do the same thing, this Bitcoin treasury strategy, here in the UK. And our guest is the boss, the founder and still chief executive of the biggest and the first — Smarter Web Company it's called. And his name is Andrew Webley. And we're going to be talking to him about how he did it following Michael Saylor, why he did it, and the reality of what the business is.
+
+**Dominic O'Connell:**
+(0:07:46) So, we're welcoming to the studio Andrew Webley, chief executive of the Smarter Web Company, the British disciple of Michael Saylor. Can I introduce you like that, Andrew?
+
+**Andrew Webley:**
+(0:07:55) I've been called worse things.
+
+**Dominic O'Connell:**
+(0:07:58) Just tell us how you got started in all this, even before Bitcoin. How did you make your start in the business world?
+
+**Andrew Webley:**
+(0:08:04) Yes. So I started my career in 1999 and I joined a small company that became one of the biggest companies in the UK, the most successful retail investment company in the UK — Hargreaves Lansdown. So I did that for 10 years and I normally describe it to people as a well-paid apprenticeship. And it was a small company that became a FTSE 250 company after I left. It became a FTSE 100 company. So we listed that on the stock exchange and that was great. But then I got bored. So my job was the head of online, and I always wanted to run my own business. And I always remember Steve Lansdown saying that one of the most interesting things that he ever did was setting up his own business. So I left and I set up my own company, the Smarter Web Company, and that was over 15 years ago now.
+
+**Hannah Prevett:**
+(0:08:49) And so what was the premise for the business? What exactly were you doing and how did you fund it in those early days? Did you just put some of your own cash in and bootstrap it or did you raise money from investors?
+
+**Andrew Webley:**
+(0:08:58) No. No. So, we never raised any money until this year, actually. So I started it in the good old-fashioned way. I set it up in one of the bedrooms in my house. And I used a very, very small amount of my own money to set it up and we were profitable in the first year. And going back to pre-listing times, because obviously I can't give any projections or anything like that now — we're a quoted company — we were profitable every single year for 15 years.
+
+**Dominic O'Connell:**
+(0:09:28) What kind of things were you selling to companies? What did you make?
+
+**Andrew Webley:**
+(0:09:30) Yeah. So, I'm a developer, you know, a computer programmer. So I built a content management system, which is the thing that powers your website and pretty much every other website now. And then I sold that remotely over the internet way before remote working was trendy because of COVID. And I just marketed it in a much smaller way to how Hargreaves Lansdown marketed financial services. So I built a system that I could use to build websites for people. And then I sold that using marketing, direct marketing over the internet to people. And we built up a client base of over 250 clients that all pay a recurring revenue stream to the company. So about 30% of our revenue historically has been recurring.
+
+**Hannah Prevett:**
+(0:10:16) So, if you were interested in technology, is that what led you to Bitcoin because you were in that world already?
+
+**Andrew Webley:**
+(0:10:21) Yeah. Yes and no really. So, because I've been involved in investments because of Hargreaves Lansdown for about 25 years, I've always been interested in investing — sometimes well, sometimes badly — and then I stumbled across Bitcoin. I think it was 2017, 2018, it was just under 10 years ago. And its appeal to me initially was in part a —

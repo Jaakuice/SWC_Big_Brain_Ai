@@ -6,17 +6,17 @@ This directory contains structured data extracted from @smarterwebuk's X.com tim
 
 **Extracted:** January 27, 2026 at 12:30 PM; **updated** with missing tweets from lightbrd HTML snapshot; **updated** February 19, 2026 with Jan/Feb 2026 tweets from lightbrd HTML.
 **Total Timeline Items:** 134+
-**Meaningful Posts:** 148
+**Meaningful Posts:** 179
 **Filtered Out:** 2+
 
 ## Statistics
 
 ### By Post Type
-- **original**: 144
+- **original**: 174
 - **quote**: 4
 
 ### By Month
-- **2026-02**: 11 posts
+- **2026-02**: 24 posts
 - **2026-01**: 25 posts
 - **2025-12**: 12 posts
 - **2025-11**: 8 posts
@@ -32,7 +32,7 @@ This directory contains structured data extracted from @smarterwebuk's X.com tim
 ## Files
 
 Monthly JSON files in format `posts-YYYY-MM.json`:
-- `posts-2026-02.json` (11 posts)
+- `posts-2026-02.json` (24 posts)
 - `posts-2026-01.json` (25 posts)
 - `posts-2025-12.json` (12 posts)
 - `posts-2025-11.json` (8 posts)

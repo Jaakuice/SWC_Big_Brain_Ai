@@ -5,7 +5,7 @@ category: financial
 source_files:
   - Smarter Web Data.csv
   - /RNS/*results*.pdf
-  - /Tennyson/RES_SWC_*.pdf
+  - /Research/Tennyson/RES_SWC_*.pdf
 last_updated: 2026-01-29
 ---
 
@@ -62,7 +62,7 @@ Quick reference for key financial metrics tracked in the dataset, with data sour
 - **Known File:** `2025-07-25-interim-results.pdf`
 
 ### Tennyson Research
-- **Location:** `/Tennyson/RES_SWC_*.pdf`
+- **Location:** `/Research/Tennyson/RES_SWC_*.pdf`
 - **Use Case:** Broker estimates, yield projections
 - **Cross-Reference:** Validate estimates against CSV actuals
 

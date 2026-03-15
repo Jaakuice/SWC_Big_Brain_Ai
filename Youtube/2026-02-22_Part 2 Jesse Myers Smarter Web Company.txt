@@ -1,0 +1,70 @@
+# Part 2 Jesse Myers Smarter Web Company
+**Date: 2026-02-22**
+**Video ID: X0fB0pVFoTc**
+**URL: https://www.youtube.com/watch?v=X0fB0pVFoTc**
+**Duration: ~17:42**
+**Channel: To B or Not to B**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- The evolution of Bitcoin treasury strategy, from cash reserves to capital market tools, pioneered by Michael Saylor and MicroStrategy
+- MetaPlanet's transformation from a failing Japanese hotel company to a Bitcoin treasury innovator under Dylan's leadership
+- Bitcoin treasury companies as the primary vehicles for traditional finance (TradFi) capital to flow into Bitcoin over coming decades
+- The UK as the second most important capital market in the world and the opportunity for Smarter Web Company to lead Bitcoin treasury strategy there
+- The top three capital markets for Bitcoin treasury strategy: US, Japan, and UK
+- The role of the FCA and regulatory frameworks in giving London confidence to adopt Bitcoin treasury strategies
+- Bitcoin as "gunpowder" — an economic reality you either adopt proactively or get left behind by those who do
+- Bitcoin treasury companies outperforming traditional UK equities (FTSE averaging ~6% vs. projected 30%+ Bitcoin appreciation)
+- The undervaluation of Bitcoin treasury companies relative to traditional equities when viewed through PE ratio lens
+- Building trust, education, and shareholder community as critical elements at this early stage
+
+---
+
+**Host:**
+(0:00:10) Okay, Jesse, I just want to say it is fascinating the whole history and I'm going to add the link to your thesis and to more of your work and we'll continue that conversation. But meanwhile, I wanted to really ask you about how did you hear about the Smarter Web Company and how did you get involved?
+
+**Jesse Myers:**
+(0:00:34) Yeah. So, yeah, I've been a Bitcoiner for quite some time and a little after I became a Bitcoiner and was posting as Croesus, Michael Saylor arrived on the scene and then, you know, he kind of stumbled into over a few years what has become Bitcoin treasury strategy, right? It started by just putting your cash reserves into Bitcoin. Then Saylor realized, you know what, I don't need to stop there. I can use capital market tools to raise debt and use that debt to buy Bitcoin and sort of fulfilling what Pierre Rochard wrote about in 2014, speculative attack, arbitraging fiat into Bitcoin. If you understand that fiat is designed to depreciate in value because of the sort of targeted 2% inflation that they aim for. Meanwhile, Bitcoin's design is designed to appreciate in value because of its increasing scarcity of new supply issuance over time with a finite amount of Bitcoin that will ever exist. If you understand that, then you want to be long Bitcoin and short the dollar or the pound. And that's what Saylor and MicroStrategy sort of embarked on. They figured out how best to execute that strategy and as we've seen over the last 5 years it's been tremendously successful for them.
+
+(0:01:56) A couple years ago now, Dylan kind of took a leap and joined this failing Japanese hotel company that, you know, with the hope of trying to start that MicroStrategy model from scratch, basically from, you know, and at that point in time, people said that, yeah, it's great that MicroStrategy can do this model, but you can't do it unless you have a big legacy software business that has a ton of cash flows. And MetaPlanet, as we've seen over the last two years almost, has proven that wrong. You can do it. And what they rolled out has been, you know, they went from a 10 million market cap to 3.5 billion market cap. And they're definitely not done yet, I think.
+
+(0:02:43) And Dylan has been a friend in the Bitcoin space ever since he got in, found his way to Bitcoin as like a 19-year-old. I was putting out content at that time. So, I've been exchanging messages with him since the beginning of his Bitcoin journey, really. And I've worked with him a little bit, too. And I happened to have a conversation with Michael Saylor on a podcast a year and a half ago. And I asked him, you know, what do you say to Bitcoiners who are all-in already? Never sell your Bitcoin. But now there's MicroStrategy, which has this promise of growing your Bitcoin ownership. And he cut right to it and said, you know, there's still a place for risk capital in a portfolio. You know, Bitcoin may be the risk-free rate for Bitcoiners, but there's still a place for risk capital. And that really resonated. I, you know, mulled that over for a number of months. And then I saw Dylan at Saylor's New Year's party, which was just over a year ago now.
+
+(0:03:46) And I was talking with him about MetaPlanet and that led to us having a 90-minute conversation a few weeks later on the phone where he was very generous with his time and just kind of showed me how scalable this model was and how excited he was about continuing to execute on it. And that kind of was a big unlock for me that this is going to happen everywhere. This is going to happen in the US and in Japan, but it's also going to happen in every capital market in the world because Bitcoin is for everyone. And that means every individual, but also every company. And currently, as of a year ago, there weren't any companies with a balance sheet built on Bitcoin in most capital markets in the world. And so it became quite evident to me that there was an opportunity to be a part of, you know, the MetaPlanet for whatever jurisdiction.
+
+(0:04:38) So I got more involved in the Bitcoin treasury side of the Bitcoin Twitter sphere and put out analysis about the scale of what's happening, including, you know, my sort of thesis there is that Bitcoin treasury companies will be the primary vehicles that will provide the bid for Bitcoin over the coming decades because they will be the conduits through which TradFi capital, especially fixed income capital and overvalued equities capital, will seek value and they will come to Bitcoin through Bitcoin treasury companies. Because Bitcoin treasury companies will design the products that meet them on their terms, especially with fixed income and money market. And then in terms of equities, I think that a well-run Bitcoin treasury company has always been very undervalued relative to other equities. When you think about it in PE terms, price to earnings ratio terms, many of these equities are, you know, trading at 30, 50, 100x their earnings.
+
+(0:05:54) And then if you think about a Bitcoin treasury company like Strategy, they delivered plus 20% in terms of Bitcoin per share in 2025, a little over that. And what's the value of that? You know, what's the value of an asset that grows your Bitcoin ownership by 20% a year? In my opinion, that's extremely valuable. And the fact that the market is currently pricing that at just over 2x—
+
+**Host:**
+(0:06:21) Crazy.
+
+**Jesse Myers:**
+(0:06:22) —the value of their Bitcoin is hugely undervalued in my opinion. So anyway, those conversations and then me digging into it led me to be very bullish about Bitcoin treasury companies as the next major step of Bitcoin's maturation as a financial asset. I think it's how Bitcoin will integrate itself into the fabric of global finance. It'll be through these equitized Bitcoin products and that's going to happen everywhere.
+
+(0:06:54) And then Smarter Web — Andrew Sherlock popped up on my radar. He wasn't a known Bitcoiner before last spring and then suddenly he was executing on the MetaPlanet playbook faster than anybody in the world and I wanted to join it. In part because, you know, if you think about what are the best capital markets in the world to execute the Bitcoin treasury strategy, I think in order it's the US, Japan, and the UK. And the UK — hey, you know, people forget, but it is the second most important capital market in the world. And that's the legacy of the British Empire. You know, London is the home of international banking. It's the home of gold custody and all sorts of capital intermediation. And there's a ton of capital that flows through London.
+
+(0:07:48) And whoever becomes the best capitalized digital capital business, meaning the business with the cleanest, biggest Bitcoin balance sheet, gets to run the MicroStrategy playbook in the UK for all of that capital that exists there and flows through London. So, the opportunity there is tremendous. Japan is slightly better because of the sovereign debt levels there and the yield rates that you can get on debt in Japan are 50 bips, which is incredibly low. And that means that fixed income instruments powered by Bitcoin become that much more compelling.
+
+(0:08:33) So all that to say that, you know, those are the three capital markets that I think this model is an incredible fit for. And obviously Strategy is quite mature. MetaPlanet has been growing incredibly quickly and has plenty of growth still ahead of it. But Smarter Web is just over an order of magnitude smaller than MetaPlanet, and if you view it through that lens, I think there's that much more growth ahead for the leading Bitcoin treasury company in the UK.
+
+**Host:**
+(0:08:58) Yeah. Yeah. I really want to explore the opportunities that Bitcoin treasury companies have and I know obviously — and I'm biased — but the Smarter Web Company is leading the way. But like you say, it's how well the business is run, you know, the strategy and the communication and the education that's involved at this really critical stage in ensuring that there is trust in this whole process.
+
+(0:09:28) And so as I focus on the UK, I'm looking at the ecosystem developing now here in the UK from the FCA, the Financial Conduct Authority, how it's viewed, what the regulations are, all of the sort of the frameworks that will give the City of London, like you say, you know, one of the biggest capital markets in the world and the legacy that it has again from history, the confidence to move forward with a Bitcoin treasury strategy and how it's going to develop, like you say, network through the monetary system.
+
+(0:10:01) So that's an area that I'd love to explore with you because I think it's going to be new for a lot of people and new to understand how Bitcoin works, let alone the treasury strategy, the treasury company strategy holding Bitcoin on the balance sheet. What does that mean for a business? How can a business sort of safeguard their future with it? And what's it going to mean for the FTSE, you know, for the indexes here. So, yeah, I'd love to get your views on that.
+
+**Jesse Myers:**
+(0:10:35) Yeah, absolutely. You know, as you're talking about this, what comes to mind is a little framing from Saifedean in *The Bitcoin Standard*. Bitcoin's not a choice. People think it's, you know, a fun technology you can opt into, but Saifedean frames it as Bitcoin is gunpowder, where you don't have a choice about adopting gunpowder. You either adopt gunpowder or you get conquered by somebody who does. And that's a, you know, obviously a pretty brutal way to view it, but I think that's right.
+
+(0:11:11) Bitcoin is an economic reality that you can either see coming and adapt to or it will happen to you because other people will adopt it and you'll see the performance gap between those who adopt and those who don't, and that will only become clear after the fact. So that's what I think Bitcoin represents for everyone in the world. You can either choose to store your treasury in an asset that's going to appreciate something like 30% a year for the next decade or two. That's Michael Saylor's expectation, based in part on my framework. So that's what I think is going to be happening. You can choose to ride that uplift or you can not, but others will, and the performance gap from that choice will be quite evident.
+
+(0:12:03) You know, the FTSE companies, I forget over what time frame, maybe the last decade, have averaged, I think, 6% returns a year, which is less than the money supply growth rate, which I think is the true indicator of inflation. So, there has not been adequate performance in public companies in the UK. And if Smarter Web enjoys a 30% uplift plus whatever we can achieve in terms of Bitcoin per share growth, we're going to outperform everything in the FTSE landscape. If those numbers continue, then we end up becoming the strong performer for the next decade and at some point you need that in your portfolio, right? Like if you're trying to keep up with the index, at some point you need that strong performer in your portfolio otherwise you're going to fall behind.
+
+(0:13:01) So, in that way, this is how Bitcoin wins because you either adopt it proactively or you're forced to try to catch up because you didn't adopt it and you're now lagging behind those who did.
+
+**Host:**
+(0:13:15) Yeah, I think that's a great explanation and we're going to be following the journey for the Smarter Web Company as it progresses through the FTSE. So I wanted to say also congratulations because you — the business, and when I say you and the business, that's the shareholders as well—

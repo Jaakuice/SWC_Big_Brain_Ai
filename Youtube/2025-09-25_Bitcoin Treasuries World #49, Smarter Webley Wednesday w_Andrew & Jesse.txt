@@ -1,0 +1,73 @@
+# Bitcoin Treasuries World #49, Smarter Webley Wednesday w/Andrew & Jesse
+**Date: 2025-09-25**
+**Video ID: eJH2vACKiiY**
+**URL: https://www.youtube.com/watch?v=eJH2vACKiiY**
+**Duration: ~1:07:40**
+**Channel: Anders**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- SWC's quarter-to-date BTC yield of 278% and the shift to reporting quarterly figures
+- The critical importance of liquidity and trading volume for Bitcoin treasury companies
+- ATM (at-the-market) style facilities as the lifeblood of Bitcoin treasury company operations
+- MNAV disconnect: SWC trading at 1.44x MNAV despite delivering 278% quarterly BTC yield
+- Andrew's philosophy of no discounted equity deals and shareholder-first decision making
+- The negative impact of PIPE deals and institutional capital taking over public companies at retail's expense
+- The "great filter" for Bitcoin treasury companies reaching sufficient scale to run ATM instruments
+- Building a loyal retail investor base through transparency and communication
+- Recent MNAV compression across the Bitcoin treasury sector over the prior 6-10 weeks
+- Anders doubling down on his SWC position due to favorable risk/reward
+
+---
+
+**Anders:**
+(0:00:02) Ladies and gentlemen, welcome to another episode of Smarter Webley Wednesday. Gentlemen, Andrew, Jesse, nice to see you last week at the conference in New York City. How are you guys doing?
+
+**Andrew Webley:**
+(0:00:15) Yeah, pretty good actually. Thanks. Yeah, it's been a busy couple of weeks. You know, as you say, we were in New York last week where we met you face to face at the conference and that was great. And then we had a series of meetings following that and then Jesse back to Texas, me back to the UK. And then next week in Singapore and there might be another stop on the way back to the UK as well. I'm still trying to work that one out with our advisers at the moment. So yeah, pretty busy as ever actually.
+
+**Anders:**
+(0:00:52) Yeah. A lot going on and just thank you for putting out also now your quarter to date BTC yield which makes it easier for simple folks like me to compare and I think that's worth a shout out right here from the beginning. 278% yield this quarter alone. Indeed the fastest horse as you've been known for a long time, Jesse, please.
+
+**Jesse Myers:**
+(0:01:23) Yeah. No, I just wanted to give you and the community some credit there of like, you know, we heard that and we thought, you know, actually it is time to shift to quarterly figures. We have enough of a track record. And you know, it's been frankly a slow month. So, let's take a look at the quarter. And you know, that's a little bit more representative at this point. And I think going forward, the granularity of a quarter is probably about what you want to measure a Bitcoin treasury company on, once they have two quarters worth of performance to assess.
+
+**Andrew Webley:**
+(0:01:57) That's what it's all about. It's about making it easy for investors to compare. You know, because yield is a very important consideration when you're picking Bitcoin treasury companies. And we want to make everything as easy to compare as possible. And obviously, we're very proud of those figures. But yeah, it's all about making it easy to compare. And you know, any comments that we get from the community, yourself, you know, we always do our best to factor them in where we can.
+
+**Anders:**
+(0:02:26) And it's true that this last month or one and a half or so with the negative sentiment and share price movement, the yield has stopped at some companies, slowed at others. You guys have continued to crank out purchases through your ATM. It's my impression that you have a strong turnover in this stock driven by retail and that is how you can tap into your ATM style facility and continue to generate a yield for the investors.
+
+**Jesse Myers:**
+(0:03:03) Yeah, you know, we would say I think there's a lot of lessons that people are learning about Bitcoin treasury companies right now. It really seems that the lifeblood of a Bitcoin treasury company is its liquidity, its trading volume, its level of interest in the market. And you know, I've started to think about it in terms of there's kind of a great filter of can you as a Bitcoin treasury company get to a certain scale where you can run an ATM style instrument because you have enough liquidity. And to get to that scale you have to execute on private placements, book builds, and keep delivering yield in that fashion and communicate with the market and get to a place where you can add this additional fuel source.
+
+(0:03:53) And that's really been the meat and potatoes, the bread and butter for MetaPlanet over the last year — their moving strike warrants, their ATM style facility. And I think that's something that we don't talk enough about and the market is now learning the importance of having that liquidity for this business model, for this strategy. It's everything and it's path dependent, right? Like you can't shortcut your way to lots of trading volume. You have to slowly build up that relationship with your investor base, build that trust by executing, doing what you say you're going to do and do more of it over time.
+
+(0:04:39) And you know, we're really proud about how we've executed that. And as the dust seems to be settling here after the last 10 weeks of MNAV compression everywhere, we still have a lot of liquidity, a lot of trading volume. People are buying the dip, I think. And that's allowing us to run the ATM on up days and generate more Bitcoin for our treasury.
+
+(0:05:05) Going back to the point you were making at the start here of 278% Bitcoin yield quarter to date for Q3, and at the moment I checked our analytics dashboard — right now it's showing 1.44 MNAV. So if you know the math there, what's implied by that is the market is currently pricing us as if we will only ever deliver plus 44% Bitcoin yield forever. Meanwhile, quarter to date, we have delivered plus 278%. So I think that's the most important thing for an investor or someone who's doing their homework about Bitcoin treasury companies and Smarter Web in particular to take a look at. How is the MNAV lined up with the track record of delivering Bitcoin yield? And at the moment, there's quite a disconnect.
+
+**Andrew Webley:**
+(0:06:00) I'd like to add, you know, everyone can see since the start what we said. We've always been very clear that we don't believe in discounts for equity raises. I've been very transparent from the start, but also for these last couple of weeks, that we could have taken an awful lot of money on terms that I didn't believe were right for the business and therefore our shareholders.
+
+(0:06:25) And our focus is very much the Smarter Web Company, but alongside that, we want to make a positive impact on the Bitcoin treasury market. And the number of people that have come up to me the last sort of week or so and said, you know, you've really got something with your approach that we believe in. And it's not just the people that have come and see me in person — some of the institutional investors that we're speaking to, they like the idea, the right institutional investors, they like the idea of that approach.
+
+(0:07:01) And so whilst it's been a bit brutal for everyone the last sort of five, six weeks, in part by the discounts and the PIPE deals and the people that don't care about the space, as well as some that do care about the space but maybe got some bad advisers giving them those options — I think we're coming out of that the other side and hopefully that will mean that all of the companies will do the right thing and work harder for the right capital that generally has a big knock-on impact on how you can deliver that strong amount of Bitcoin yield.
+
+**Anders:**
+(0:07:40) Absolutely. And well, like as John put in the chat — I put this out I think just four minutes before — literally 10 minutes before we went live. I've been thinking about this over the last couple of days. There's a couple of positions I had that I all liquidated and I put it all into SWC. Now, full disclosure, I'm really loving the risk-reward here. You could say that I look at Strategy, MetaPlanet, and SWC — and the risk-reward I think at SWC right now is really really attractive. MetaPlanet may be further ahead and somewhat safer, although you guys are safe, but you know what I mean in terms of there's a slight step out on the risk curve because you're much younger, but the upside I'm just absolutely loving. So, those are the two biggest positions for me. But it was SWC I doubled down on 10 minutes before we went live because of conversations with Christina Monday and just on the show, and you were there in the chat, Jesse.
+
+(0:09:01) But anyways, enough from me. I really want to — it's an honor to have both of you here and I think going forward it'll be only one to be efficient with the time you have. But maybe when you cross 10,000 Bitcoin or something, we'll do another celebratory with both of you. But Andrew, you are known for taking retail very seriously and treating retail phenomenally — communication, no discounted deals to anyone else, etc. And maybe that's what's giving you this support from retail and the volume in the stock that allows for the ATM. I don't know if you have some thoughts on that.
+
+**Andrew Webley:**
+(0:09:43) Yeah, I suppose I do. So, the business is something that I care about. I listed it because I couldn't find another business in the UK that was doing the strategy that we do. It's not something that I really, to say it in the right way, I don't have to think about it because it's what I believe in. So I wrote a note the other day for one of our board meetings that we have to do because people don't see all of that stuff that goes on behind the scenes. And the phrase that I put in there was, every decision is shareholder first. And it's as simple as that really. I like communicating with our shareholders because without them, we'd be nothing. So obviously it's at the forefront of my mind, but at the same time, it's nothing that I have to think about because it's just doing it in the right way. It's as simple as that.
+
+**Anders:**
+(0:10:42) Absolutely. Jesse, I don't know if you have anything there you want to add. Otherwise, I have written down a couple of points for today that we could go through also. But go ahead if there's anything you want to add there. I want to limit myself because I have you two on and you should be speaking, not me.
+
+**Jesse Myers:**
+(0:11:00) No, I mean, Andrew nailed it. Of course, I would echo his sentiments and say that I think that's part of what the market is learning right now — that these things succeed if they are retail oriented, if they care about retail investors first. The mental model I have at this point is you have to build an investor base of savvy retail investors who see what you're doing, who understand your strategy, who appreciate the communication, and they believe in you and they believe in your ability to run this machine that is a public company that can tap capital market tools to do what every individual Bitcoiner would love to do, which is arbitrage fiat to grow their Bitcoin ownership.
+
+(0:11:50) And it starts there, right? Like having that mindset should be table stakes. Somehow it has not been over the last six months — we've seen all sorts of other shortcuts to scale. And what is a PIPE deal? It is literally institutional capital taking over a public company and getting preferential treatment over retail. And that's been the dominant flavor of these things over the last six months and I don't think it works, because you then don't have a community of loyal, excited, enthusiastic retail investors who get what you're doing and will help spread the word. And so I think that Andrew's mindset from the start is what everybody should have, and for some reason nobody does. So I think it's a testament to Andrew's—

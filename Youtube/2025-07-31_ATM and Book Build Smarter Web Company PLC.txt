@@ -1,0 +1,76 @@
+# ATM and Book Build Smarter Web Company PLC
+**Date: 2025-07-31**
+**Video ID: NpRbhCjSi2Y**
+**URL: https://www.youtube.com/watch?v=NpRbhCjSi2Y**
+**Duration: ~12:42**
+**Channel: VOSTRA**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- What a book build is and how it works as an equity fundraising method
+- How Smarter Web Company PLC uses book builds to raise funds for Bitcoin purchases
+- Book build pricing history: June 26th at £2.90, July 18th at £2.95 — never below previous prices
+- Why institutions prefer book builds over open market purchases (avoiding slippage)
+- What a direct placement is and how it differs from a book build
+- Disadvantages of book builds: lumpy execution, lagging intraday premiums, MNAV dislocation
+- What an ATM (At-The-Market) mechanism is and how it works
+- Smarter Web Company's special ATM rules: no selling on down days, only 20% of volume, only above previous closing price
+- How ATMs dampen volatility and keep share price aligned with MNAV
+- Comparison of conventional ATMs vs. Smarter Web Company's rule-based ATM structure
+
+---
+
+**Vostra:**
+(0:00:00) I wanted to make a video about what a book build is and what a direct placement is and the ATM structure. This is all in the context of the Smarter Web Company PLC, the fastest growing business in the United Kingdom, purchasing bitcoins and running the Bitcoin Treasury play.
+
+(0:00:21) So, I had a few questions around what a book build is. So a book build essentially very basically is an equity fund raise method and one of the main ways that the Smarter Web Company has used to raise funds to purchase the bitcoins that they hold.
+
+(0:00:44) And what happens is at the end of the day of a trading day, the stock price, whatever stock price it's closed at is taken and then at that price, the business would have in advance set up institutional interest to purchase the stock at that price. And so through its brokers, the institutional investor will have committed to purchase an amount of stock for that particular company.
+
+(0:01:21) This would have been set up by the business and at the same time the brokers would then be additionally canvassing the institutions to see if anybody wanted to partake in the book. So a minimum — that's why you see a minimum commitment come out on some of these RNS announcements. So the business is confident that it has raised a minimum amount of institutional capital. Then what happens is that if there are any other parties that are also interested they go along and put their order in and that also is then taken as a book build.
+
+(0:02:02) So hopefully that explains what a book build is. The Smarter Web Company has been doing book builds. We can see in the models they have done several book builds. One of the interesting things to note is that the book builds have never been below previous prices. The last couple of book builds, the one on the 26th of June was at 2.90, the one after that 18th of July 2.95.
+
+(0:02:34) So very important to note that the capital management plan there is working according to an efficient structure from what I can see and I'm not expecting book builds to go below a price level. It can happen. However, from what I've seen, my view is that they are protecting the book build number at that level.
+
+(0:03:02) And you might actually ask why is it more beneficial for the company to do a book build rather than an institution just buying the shares in the open market? Well, it's to do with the volume. So it will help the institution secure a good price. If they bought it in the open market, they may well incur what's known as slippage. So the price would be impacted by their purchasing.
+
+(0:03:33) And secondly, it's also beneficial for the company to raise those funds directly because then they can issue those shares and receive the cash and buy bitcoins with the cash directly.
+
+(0:03:46) Direct placement then is different to a book build in that it's literally anyone who wants to invest in the business. An investor would then contact the broker and say yes I would like to purchase several million pounds worth of the stock and then they can arrange and facilitate that for you. It would be for higher net worths and institutional level raises and that's direct placement.
+
+(0:04:15) So let's move on to the charts now that explain this also from a graphical point of view. I'd like to give a shout out to Dr. Bitcoin MD for doing this chart. You can see this is a book build. So normally the book builds are happening at prices which are higher than the previous book builds.
+
+(0:04:43) So this chart outlines a book build and compares the book build versus ATM, which we'll come on to in a second. When the share price is weak, a book build generally doesn't tend to happen. When you have a rising share price, at the end of the day, a book is built. That money is then transmuted into bitcoins. This assumes your net assets increase and then the share price given a constant MNAV would need to increase to balance the equation.
+
+(0:05:24) This is a repeat. The bitcoin price per share times the MNAV would give you the share price. Therefore, with a constant MNAV, the share price needs to rise to balance the equation.
+
+(0:05:42) The disadvantages of doing just book builds is that it can be quite lumpy. So, here we can see the share price going down, nothing happens. Then the share price goes up on day two and then it goes up even more and then it keeps going up on day three. So the book build happens at the end of the day. The MNAV is reset only partially in this environment because the price has kept going up and up which is great from one perspective but with that then comes increased volatility, increased drawdowns like we've seen as well, and therefore the share price dislocates from the MNAV.
+
+(0:06:34) It runs away because the book build happens at the end of the day and is lagging in effect and not monetizing the intraday premium as quickly as it could in order to issue more shares accretively.
+
+(0:06:57) And you can see that in this environment where the share price is running away, the book build has to catch up effectively to be able to monetize the premium as effectively. It only partially resets the MNAV because the share price keeps running away. So that's the major disadvantage of just relying on book builds.
+
+(0:07:23) Enter the game — ATMs. Now before we get into the detail of the ATM, just on a basic level an ATM mechanism is where the business has pre-authorized its broker to sell a certain number of shares in the open market. So you and I can buy them. Mr. Retail, Mrs. Retail can call up the brokers — AJ Bell, Hargreaves Lansdowne — or go online, click buy, and you just buy the shares. There's shares floating in the market that the business has pre-authorized and they are being sold. That's all the ATM is.
+
+(0:08:09) Now there are rules attached by the business around the ATM, and those rules in particular in the case of the Smarter Web Company involve not being able to sell shares on a down day. So the shares can only be sold into strength.
+
+(0:08:32) So let's take if the share price is two pound one day and then the next day it closes at — if it's trading below the two pounds then the shares cannot be sold. If they're trading above the two pounds, then those shares can be sold. There is also restriction around the volume of shares that can be sold. And these rules are all designed to protect the strength of the share price.
+
+(0:09:02) Let's dive into some of the diagrams Dr. Bitcoin has on the ATM. This is a normal ATM where there are no rules. So even on a day where the share price is trading negatively, the ATM could be issued, but then that would have an impact on share price being a bit more negative. And as Dr. Bitcoin outlines here, less optimally accretive ATM usage. Yeah, if the MNAV is trading at a premium, you'd still be accreting positively, but less so because the share price is trading negatively.
+
+(0:09:47) The ATM structure of selling shares in the open market keeps the price in check. So, it dampens the volatility and ensures that the MNAV does not dislocate from the share price so drastically. Where we look at the model and we look at some of the earlier trading MNAVs, we can see from our chart here that the MNAVs had been trading at multiples of 24, 14, 18, 10, 7, and they've gradually come down all the way to three as I'm recording. So that's the conventional ATM. No rules around this type of ATM. This ATM is firing on all cylinders and there are thoughts around that as well.
+
+(0:10:47) Potential drawback of this ATM is the potential to exert selling pressure on down days which depresses share price but is also relatively less accretive to existing shareholders.
+
+(0:11:03) So that is the conventional ATM — that is not the one that is in process with the Smarter Web Company.
+
+(0:11:13) This is the Smarter Web Company ATM. The ATM in action with the Smarter Web Company has been designed to not sell shares on down days. So when the share price is trading negatively, for example if the share price closed at two pound on one day, if it trades below two pound then the shares cannot be sold. If it trades above that price then shares are sold. And this is what this is showing — ATM issuance on up days.
+
+(0:11:48) And as the share price continues to rise, it provides healthy pressure onto the share price in order to take advantage of the premiums to then be able to accrete positively and buy more bitcoins to increase bitcoins per share.
+
+(0:12:10) Worth to note — the special ATM lowers downside volatility because it's only selling on up days. It's a dynamic mechanism, only selling into strength and above previous closing day's price and only 20% of the volume.
+
+(0:12:28) That's the ATM in action. The book build we've discussed, the direct placement. Let me know if you've got any further comments or thoughts on that. This is Vostra signing out. Ciao.

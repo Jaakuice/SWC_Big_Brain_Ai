@@ -21,7 +21,7 @@ Categories of RNS types with date patterns and examples to aid in selection.
 
 ### Bitcoin Purchase Announcements
 **Keywords:** "Bitcoin", "purchase", "acquisition", "treasury"
-**Date Range:** April 2025 - February 2026
+**Date Range:** Apr 2025 - Mar 2026
 **Frequency:** Irregular, following fundraising or cash generation
 **Content:** Official announcements of Bitcoin purchases, amounts, rationale
 
@@ -33,7 +33,7 @@ Categories of RNS types with date patterns and examples to aid in selection.
 
 ### Share Issuance and Fundraising
 **Keywords:** "placing", "subscription", "bookbuild", "accelerated", "fundraising", "raise"
-**Date Range:** April 2025 - February 2026
+**Date Range:** Apr 2025 - Mar 2026
 **Types:**
 - Accelerated bookbuilds (ABB)
 - Subscriptions
@@ -48,7 +48,7 @@ Categories of RNS types with date patterns and examples to aid in selection.
 
 ### Director Appointments and Changes
 **Keywords:** "director", "appointment", "resignation", "board"
-**Date Range:** April 2025 - February 2026
+**Date Range:** Apr 2025 - Mar 2026
 **Content:** Board changes, director appointments, governance updates
 
 **Selection Tip:** Use for understanding governance and leadership changes.
@@ -153,8 +153,8 @@ Categories of RNS types with date patterns and examples to aid in selection.
 
 ## File Count and Coverage
 
-**Total Files:** 112 PDFs
-**Date Range:** April 2025 - February 2026
+**Total Files:** 122 PDFs
+**Date Range:** Apr 2025 - Mar 2026
 **Coverage:** Comprehensive regulatory record of all material company events
 
 ---

@@ -1,0 +1,4678 @@
+Company No. 00092343
+ARTICLES OF ASSOCIATION
+of
+THE SMARTER WEB COMPANY PLC
+Adopted by Special Resolution passed on [ ] 2026
+
+1951762802.4
+1010587836.2
+
+CONTENTS
+CLAUSE
+
+PAGE
+
+PRELIMINARY .................................................................................................................................................1
+1
+DEFINITIONS AND INTERPRETATION ...............................................................................................1
+2
+LIMITED LIABILITY ................................................................................................................................4
+3
+MODEL ARTICLES EXCLUDED ...........................................................................................................5
+4
+TRUSTS NOT RECOGNISED ...............................................................................................................5
+FORM OF SHARES .........................................................................................................................................5
+5
+UNCERTIFICATED SHARES ................................................................................................................5
+6
+CERTIFICATED SHARES .....................................................................................................................5
+SHARE TRANSFERS ......................................................................................................................................6
+7
+FORM .....................................................................................................................................................6
+8
+RIGHT ....................................................................................................................................................6
+9
+RENUNCIATION OF ALLOTMENTS .....................................................................................................7
+10
+GENERAL ..............................................................................................................................................7
+NEW SHARES..................................................................................................................................................8
+11
+ALLOTMENT ..........................................................................................................................................8
+12
+CONSOLIDATION AND DIVISION ........................................................................................................8
+TRANSMISSION OF SHARES ........................................................................................................................9
+13
+RECOGNITION OF TRANSMISSION ...................................................................................................9
+14
+NOTICES FOLLOWING RECOGNITION ..............................................................................................9
+15
+RIGHTS ON TRANSMISSION ...............................................................................................................9
+16
+ELECTIONS FOLLOWING TRANSMISSION ........................................................................................9
+17
+DEATH OF A MEMBER .......................................................................................................................10
+BOARD POWERS ..........................................................................................................................................10
+18
+BOARD TO MANAGE THE COMPANY'S BUSINESS ........................................................................10
+19
+BOARD COMMITTEES........................................................................................................................10
+20
+DELEGATION ......................................................................................................................................11
+21
+VOTING AND APPOINTMENTS .........................................................................................................11
+22
+PROVISION FOR EMPLOYEES .........................................................................................................11
+23
+OVERSEAS BRANCH REGISTERS ...................................................................................................12
+24
+BORROWINGS ....................................................................................................................................12
+BOARD PROCEEDINGS ...............................................................................................................................12
+25
+CHAIRMAN OF THE BOARD ..............................................................................................................12
+26
+BOARD MEETINGS .............................................................................................................................12
+27
+WRITTEN RESOLUTIONS ..................................................................................................................13
+28
+VALIDITY OF BOARD'S ACTS ............................................................................................................13
+DIRECTORS...................................................................................................................................................13
+29
+NUMBER ..............................................................................................................................................13
+30
+APPOINTMENT ...................................................................................................................................13
+31
+REMOVAL ............................................................................................................................................14
+32
+VACATION OF OFFICE .......................................................................................................................14
+33
+SECRETARY .......................................................................................................................................15
+34
+AUDITORS ...........................................................................................................................................15
+35
+ANNUAL GENERAL MEETINGS .........................................................................................................15
+36
+SHORTFALLS ......................................................................................................................................16
+1007969337.2
+1951762802.4
+1010587836.2
+
+DIRECTORS' BENEFITS ...............................................................................................................................17
+37
+FEES ....................................................................................................................................................17
+38
+REMUNERATION ................................................................................................................................17
+39
+EXPENSES ..........................................................................................................................................17
+40
+RETIREMENT AND DISABILITY BENEFITS ......................................................................................17
+DIRECTORS' INTERESTS ............................................................................................................................18
+41
+CONFLICTS .........................................................................................................................................18
+42
+PERMITTED BENEFITS ......................................................................................................................18
+43
+INDEMNITY AND INSURANCE ...........................................................................................................19
+44
+VOTING RESTRICTIONS ....................................................................................................................19
+45
+GENERAL ............................................................................................................................................20
+46
+CONVENING GENERAL MEETINGS .................................................................................................21
+47
+NOTICE ................................................................................................................................................21
+48
+REARRANGED MEETINGS ................................................................................................................23
+49
+MEETINGS AT MORE THAN ONE LOCATION AND ATTENDANCE VIA ELECTRONIC FORUM ..24
+50
+SECURITY AND SAFETY AT A MEETING .........................................................................................25
+51
+ATTENDANCE .....................................................................................................................................26
+52
+CHAIRMAN OF GENERAL MEETING ................................................................................................27
+53
+QUORUM .............................................................................................................................................27
+54
+AMENDMENT TO RESOLUTIONS .....................................................................................................28
+55
+ADJOURNMENTS ...............................................................................................................................28
+56
+ADJOURNED MEETINGS ...................................................................................................................29
+SHARE VOTING ............................................................................................................................................30
+57
+VOTING RIGHTS .................................................................................................................................30
+58
+PROXIES .............................................................................................................................................31
+59
+TAKING A VOTE ..................................................................................................................................32
+60
+POLLS ..................................................................................................................................................33
+61
+OBJECTION TO VOTING ERRORS ...................................................................................................33
+62
+DEFAULT IN DISCLOSING SHARE INTERESTS ..............................................................................34
+CLASS RIGHTS .............................................................................................................................................35
+63
+DEFERRED SHARES ..........................................................................................................................35
+64
+VARIATION ..........................................................................................................................................36
+65
+CLASS MEETINGS ..............................................................................................................................36
+DIVIDENDS AND OTHER DISTRIBUTIONS .................................................................................................37
+66
+DIVIDEND RIGHTS ..............................................................................................................................37
+67
+DECLARED, INTERIM AND FIXED DIVIDENDS ................................................................................37
+68
+PAYMENT ............................................................................................................................................37
+69
+UNCLAIMED DIVIDENDS ETC ...........................................................................................................39
+70
+DIVIDENDS IN KIND............................................................................................................................40
+71
+SCRIP DIVIDENDS ..............................................................................................................................40
+72
+CAPITALISATION ISSUES ..................................................................................................................41
+RECORD DATES ...........................................................................................................................................42
+73
+BOARD TO FIX DATE .........................................................................................................................42
+COMMUNICATIONS ......................................................................................................................................42
+74
+NOTICES TO BE IN WRITING ............................................................................................................42
+75
+COMMUNICATIONS TO MEMBERS ..................................................................................................42
+76
+COMMUNICATIONS FROM MEMBERS .............................................................................................42
+77
+AUTHENTICATION ..............................................................................................................................42
+78
+JOINT HOLDERS .................................................................................................................................43
+1007969337.2
+1951762802.4
+1010587836.2
+
+79
+MEMBERS OUTSIDE THE UNITED KINGDOM .................................................................................43
+80
+DEEMED RECEIPT .............................................................................................................................43
+81
+DOCUMENTS RETURNED UNDELIVERED ......................................................................................44
+82
+NOTICES BY ADVERTISEMENT ........................................................................................................44
+UNTRACED MEMBERS ................................................................................................................................45
+83
+DORMANT SHARES ...........................................................................................................................45
+COMPANY DOCUMENTS .............................................................................................................................47
+84
+SEALS ..................................................................................................................................................47
+85
+DOCUMENT DESTRUCTION .............................................................................................................47
+WINDING UP ..................................................................................................................................................48
+86
+DIVISION OF ASSETS ........................................................................................................................48
+MISCELLANEOUS .........................................................................................................................................48
+87
+CHANGE OF NAME.............................................................................................................................48
+88
+ALTERNATE DIRECTORS ..................................................................................................................48
+PARTLY PAID SHARES ................................................................................................................................49
+89
+COMPANY'S LIEN ...............................................................................................................................49
+90
+CALLS ..................................................................................................................................................49
+91
+FORFEITURE ......................................................................................................................................50
+UNCLAIMED CORPORATE ACTION PROCEEDS.......................................................................................51
+92
+DORMANT CORPORATE ACTION PROCEEDS ...............................................................................51
+
+1007969337.2
+1951762802.4
+1010587836.2
+
+Company No. 00092343
+The Companies Acts
+Public Company Limited by Shares
+ARTICLES OF ASSOCIATION
+of
+THE SMARTER WEB COMPANY PLC
+(Adopted by Special Resolution passed on [ ] 2026)
+PRELIMINARY
+1
+
+DEFINITIONS AND INTERPRETATION
+
+1.1
+
+In these Articles the following words have the following meanings:
+Articles means these articles of association;
+Auditor means the Company's auditor for the time being;
+Board means the board of Directors or the Directors present at a Directors' meeting at which
+a quorum is present;
+Companies Act means the Companies Act 2006;
+Company means The Smarter Web Company Plc (registered in England and Wales with
+company number 00092343);
+Company Legislation means the Companies Act, every other act of the UK Parliament
+applicable to the Company in respect of any matter provided for in these Articles, the CREST
+Regulations and all subordinate legislation under the Companies Act or any other such act of
+the UK Parliament;
+Corporate Representative means a person authorised in accordance with the Companies Act
+to act in relation to a general meeting as a representative of a Member that is a corporation;
+CREST Regulations means the Uncertificated Securities Regulations 2001, as amended,
+modified or re-enacted from time to time;
+CREST System means the CREST system operated by Euroclear UK & International Limited,
+or any other applicable "relevant system" for the purpose of the CREST Regulations;
+Deferred Shares means the deferred shares of £0.049 each in the capital of the Company
+having the rights and being subject to the restrictions set out in these Articles;
+Director means a director of the Company;
+Dormant Assets Scheme has the meaning given in Article 83.4.4 of these Articles;
+Dormant Share Proceeds has the meaning given in Article 69.1 of these Articles;
+Dormant Shares has the meaning given in Article 83.1 of these Articles;
+Electronic Forum means any website or electronic or telephonic forum, platform or medium
+or combination of any two or more of the foregoing which is designed to permit a person who
+
+1
+1951762802.4
+1010587836.2
+
+accesses it to hear and, when speaking when entitled, to be heard by, all other persons who
+are present at the relevant meeting by that or any other means and to vote (when entitled) on
+any resolution proposed at that meeting;
+Financial Conduct Authority means the Financial Conduct Authority acting in its capacity as
+the competent authority for the purposes of Part VI of the Financial Services and Markets Act
+2000;
+Group means the Company and its subsidiaries and subsidiary undertakings (as such
+expressions are defined in Sections 1159 and 1162, CA2006 respectively) from time to time,
+and "Group Company" means any undertaking in the Group;
+Group Undertaking means any undertaking in the Group, including the Company;
+Holder means in relation to a share, the Member whose name is entered in the Register of
+Members as its holder, and Joint Holder means, in relation to a share, each Member whose
+name is entered in the Register of Members as its joint holder;
+London Stock Exchange means London Stock Exchange plc;
+Member means a member of the Company;
+Ordinary Shares means the ordinary shares of £0.001 each in the capital of the Company
+having the rights set out in these Articles;
+Person entitled by transmission means a person whose entitlement to a share in consequence
+of the death or bankruptcy of a Member or of any other event giving rise to its transmission by
+operation of law has been recognised by the Company in accordance with these Articles;
+Reclaim Fund has the meaning given in Article 83.4.4 of these Articles;
+Registered Office means the Company's registered office for the time being;
+Register of Members means the Company's register of members comprising (where
+applicable) its issuer register of members and its Operator register of members;
+Regulatory Information Service means a regulatory information service appearing on the list
+of approved regulatory information services maintained by the Financial Conduct Authority;
+Seal means the Company's common seal or any official seal that the Company is permitted to
+have by Company Legislation;
+Secretary means the secretary of the Company or any other person appointed to perform any
+of the duties of the secretary of the Company including a joint, temporary, assistant or deputy
+secretary;
+share means a share in the capital of the Company;
+Statutes means every statute (including any statutory instrument, order, regulation or
+subordinate legislation made under it) concerning companies that are incorporated in England
+and Wales to the extent that it is for the time being in force or (where the context requires) was
+in force at a particular time, including the Companies Act and the CREST Regulations; and
+United Kingdom means Great Britain and Northern Ireland.
+1.2
+
+In these Articles:
+1.2.1
+
+address, authenticated, document, electronic form, electronic means, hard
+copy and hard copy form have the meanings that they have in the company
+
+2
+1951762802.4
+1010587836.2
+
+communication provisions of the Companies Act (at sections 1144 to 1148 and
+Schedules 4 and 5), and working day has the meaning given to it in section 1173 of
+the Companies Act;
+1.2.2
+
+issuer register of members, Operator, Operator register of members and
+participating security have the meanings that they have in the CREST Regulations
+and subordinate legislation has the meaning that it has in the Interpretation Act
+1978;
+
+1.2.3
+
+section 1168 of the Companies Act (headed "Hard copy and electronic form and
+related expressions") applies as it does in the Companies Act to the sending or
+supplying of any document or information to or by the Company, regardless of the
+particular words used (such as "deliver", "give", "provide" and "produce") to denote
+such action;
+
+1.2.4
+
+references to:
+
+1.2.5
+
+1.2.6
+
+1.2.4.1
+
+an Article refer to a particular article in these Articles;
+
+1.2.4.2
+
+a document being signed or to signature include references to it being
+executed under hand or under seal or by any other method and, in the
+case of a communication in electronic form, are to it being
+authenticated as provided for in the Companies Act or these Articles;
+
+1.2.4.3
+
+a document includes references to any notice or information in any
+visible form;
+
+1.2.4.4
+
+writing or written include a reference to any method of representing
+or reproducing words in a legible and non-transitory form, including in
+electronic form or by electronic means;
+
+1.2.4.5
+
+any statute includes any statutory modification of it and any
+subordinate legislation made under it and any re-enactment of it (in
+each case as in force at the applicable time);
+
+1.2.4.6
+
+a person includes any individual, firm, partnership, unincorporated
+association, company, corporation or other body corporate (whether or
+not having a separate legal personality);
+
+1.2.4.7
+
+a share being paid up include it being deemed or treated as paid up;
+and
+
+1.2.4.8
+
+the giving of instructions by means of the CREST System are deemed
+to relate to a properly authenticated dematerialised instruction given in
+accordance with the CREST Regulations, subject to the facilities and
+requirements of the CREST System and otherwise to the extent
+permitted by or practicable under the rules and practices from time to
+time of the Operator;
+
+in relation to a share:
+1.2.5.1
+
+uncertificated denotes a share to which title (as a participating
+security) is recorded in the Operator register of members as held in
+uncertificated form; and
+
+1.2.5.2
+
+certificated denotes a share which is not held in uncertificated form;
+
+any undefined word or expression to which a particular meaning is given in the
+Companies Act as in force the day before the date of the notice of the meeting at
+which these Articles were adopted or last amended has that meaning, if applicable;
+
+3
+1951762802.4
+1010587836.2
+
+1.2.7
+
+words in the singular include the plural and vice versa, words importing any gender
+include all genders;
+
+1.2.8
+
+any part of a day that is not a working day is to be excluded (unless stated otherwise)
+when calculating the duration of any period fixed in hours or days for the giving of
+any document or information to the Company;
+
+1.2.9
+
+any reference to:
+1.2.9.1
+
+rights attaching to any share;
+
+1.2.9.2
+
+Members having a right to attend and vote at a general meeting or to
+demand a poll;
+
+1.2.9.3
+
+dividends being paid, or any other distribution of the Company's assets
+being made, to Members; or
+
+1.2.9.4
+
+interests in a certain proportion or percentage of any shares or share
+capital; or
+
+1.2.9.5
+
+any class of share capital,
+
+shall, except where reference is also made to any treasury shares, be construed as
+though any treasury shares held by the Company had been cancelled;
+
+1.3
+
+2
+
+1.2.10
+
+other, includes, including, may include and in particular do not limit the
+generality of any preceding words and any words which follow them will not be
+construed as being limited in scope to the same class as the preceding words where
+a wider construction is possible;
+
+1.2.11
+
+where an ordinary resolution is expressed to be required for any purpose, a special
+resolution is also effective for such purpose; and
+
+1.2.12
+
+headings do not affect the interpretation of any Article.
+
+A person who is a Member is present at a general meeting for the purposes of these Articles
+if:
+1.3.1
+
+being an individual, he attends in person (including where permitted by the Board
+(or the chairman) in accordance with these Articles, at any satellite meeting place
+or via any Electronic Forum);
+
+1.3.2
+
+being a corporation, a Corporate Representative that it has authorised to attend the
+meeting as its representative attends in that capacity in person (including, where
+permitted by the Board (or the chairman of the relevant meeting) in accordance with
+these Articles, at any satellite meeting place or via any Electronic Forum); or
+
+1.3.3
+
+a person appointed as his or its proxy attends in person (including, where permitted
+by the Board (or the chairman of the relevant meeting) in accordance with these
+Articles, at any satellite meeting place or via any Electronic Forum).
+
+LIMITED LIABILITY
+The liability of the Members is limited to any unpaid amount on the Company's shares held by
+them.
+
+4
+1951762802.4
+1010587836.2
+
+3
+
+MODEL ARTICLES EXCLUDED
+No model or specimen articles of association prescribed under any legislation apply to the
+Company.
+
+4
+
+TRUSTS NOT RECOGNISED
+Except as required by law, no person may be recognised by the Company as holding any share
+on any trust. Except as provided by these Articles or by law, the Company is not bound by and
+is not to recognise any interest in any share except an absolute right of the Holder to the share
+in its entirety (even if the Company has notice of such interest).
+FORM OF SHARES
+
+5
+
+UNCERTIFICATED SHARES
+
+5.1
+
+The Board may resolve that a class of shares is to become, or is to cease to be, a participating
+security. Shares of a class are not to be treated as a separate class to other shares of the
+same class as a consequence of some being held in certificated form and others in
+uncertificated form or of any provision in these Articles or the CREST Regulations applying only
+to one form or the other. Any share of a class which is a participating security may be changed
+from uncertificated form into certificated form and from certificated form into uncertificated form
+in accordance with the CREST Regulations. No provision in these Articles which is inconsistent
+with the holding of uncertificated shares of any class or with the transfer of title to them by
+means of the CREST System or with the CREST Regulations applies to such shares. The
+Company may treat a Member's holding of uncertificated shares and of certificated shares of
+the same class as if they were separate holdings.
+
+5.2
+
+Where the Company is permitted to dispose of, forfeit, enforce a lien over or sell or otherwise
+procure the sale of any uncertificated shares, the Board may take such steps as it considers
+necessary or appropriate to do so including by:
+5.2.1
+
+requiring, by written notification to the Operator, their conversion into certificated
+form;
+
+5.2.2
+
+requiring their Holder:
+
+5.2.3
+
+5.2.2.1
+
+to have them converted into certificated form within a specified period
+and then to hold them in certificated form for so long as the Company
+requires; and/or
+
+5.2.2.2
+
+to take such steps as may be necessary or appropriate to transfer them
+to such person as the Company directs; and
+
+appointing any person to take any steps in the Holder's name to have them
+converted into certificated form and/or to effect their transfer to such person as the
+Company directs.
+
+6
+
+CERTIFICATED SHARES
+
+6.1
+
+Every person (except any person to whom the Company is not required by law to issue a share
+certificate) on becoming the Holder of a certificated share is entitled without charge to one
+certificate for all the certificated shares of a class registered in his name or, in the case of
+certificated shares of more than one class, to a separate certificate for each class of shares,
+unless the terms of issue of the shares provide otherwise. Any two or more certificates
+representing shares of any one class held by any member may, at his request, be cancelled
+
+5
+1951762802.4
+1010587836.2
+
+and a single new certificate for all such shares shall be issued in their place upon payment of
+such reasonable charge (if any) as the Directors may require.
+6.2
+
+A Member (other than a person to whom the Company is not required by law to issue a share
+certificate) who transfers part of his shares comprised in a certificate is entitled without charge
+to one certificate for the balance of those shares. A member may surrender a share certificate
+representing shares held by him and request the Company to cancel it and issue in its place
+two or more share certificates for such shares in such proportions as he may specify. The
+Directors may, if they think fit, comply with such request upon payment of such reasonable
+charge (if any) as the Directors may require.
+
+6.3
+
+The Company is not bound to issue more than one certificate for certificated shares held jointly
+by two or more persons. Delivery of a certificate to one Joint Holder will be sufficient delivery to
+all Joint Holders.
+
+6.4
+
+Every share certificate sent in accordance with these Articles will be sent at the risk of the
+Holder concerned and any other person entitled to them. The Company will not be responsible
+for any share certificate lost or delayed in the course of delivery.
+
+6.5
+
+If any certificate is worn-out, defaced, lost or destroyed, the Company may cancel it and issue
+a replacement certificate subject to such terms as the Board may decide as to evidence and
+indemnity (with or without security) and to payment of any exceptional out-of-pocket expenses
+of the Company in investigating such evidence and preparing such indemnity or such security
+but otherwise free of charge, and (if the certificate is worn-out or defaced) on delivery up of the
+old certificate.
+
+6.6
+
+Every certificate for share or loan capital or other securities of the Company (other than letters
+of allotment, scrip certificates or similar documents) shall be issued under the Seal (or in such
+other manner as the Board, having regard to the terms of issue, the Statutes and the
+requirements of the Financial Conduct Authority, may authorise) and each share certificate
+shall specify the shares to which it relates, the distinguishing number (if any) of the shares and
+the amount paid up on the shares. The Board may determine, either generally or in relation to
+any particular case, that any signature on any certificate need not be autographic but may be
+applied by some mechanical or other means, or printed on the certificate, or that certificates
+need not be signed.
+
+SHARE TRANSFERS
+7
+
+FORM
+Subject to these Articles, a Member may transfer all or any of his shares:
+
+7.1
+
+in the case of certificated shares, by an instrument of transfer in writing in any usual form or in
+another form approved by the Board signed by or on behalf of the transferor and (in the case
+of a transfer of a share which is not fully paid) by or on behalf of the transferee; or
+
+7.2
+
+in the case of uncertificated shares, without a written instrument in accordance with the CREST
+Regulations.
+
+8
+
+RIGHT
+
+8.1
+
+The Board may refuse to register a transfer of certificated shares if:
+8.1.1
+
+any of the shares are partly paid; or
+
+6
+1951762802.4
+1010587836.2
+
+8.1.2
+
+8.2
+
+the Board is obliged or entitled to refuse to do so as a result of any failure to comply
+with a notice under section 793 of the Companies Act or any equivalent provision in
+successor legislation to the Companies Act (a section 793 notice).
+
+Without prejudice to Article 8.1 above, the Board may also refuse to register a transfer of
+certificated shares unless:
+8.2.1
+
+the instrument of transfer is properly stamped or is certified or otherwise shown to
+the Board's satisfaction to be exempt from stamp duty and is presented for
+registration to the Company at the Registered Office or such other place as the
+Board may decide, accompanied by the certificate (or an indemnity in a form
+satisfactory to the Board) for the shares to which it relates (except in the case of a
+transfer by a person to whom the Company was not required to issue a share
+certificate and has not issued one in respect of the share concerned) and any other
+evidence as the Board may require to show the right of the person signing the
+instrument to make the transfer or, if the instrument is signed by some other person
+on his behalf, the authority of such person to do so;
+
+8.2.2
+
+all the shares to which it relates are fully paid and of the same class; and
+
+8.2.3
+
+it is in favour of a single transferee or not more than four joint transferees, in each
+case being a natural or legal person; and
+
+8.2.4
+
+it is in respect of one class of share only.
+
+8.3
+
+Registration of the transfer of an uncertificated share may only be refused by the Board where
+such refusal to register a share transfer is permitted or required by the CREST Regulations.
+
+9
+
+RENUNCIATION OF ALLOTMENTS
+The Board may recognise a person's renunciation of his right to the allotment of any share in
+accordance with the allotment terms in favour of some other person. The renunciation will be
+treated as a transfer (to the extent applicable) for the purposes of these Articles. The Board
+has the same powers of refusing to give effect such renunciation as if it were a transfer.
+
+10
+
+GENERAL
+
+10.1
+
+The transferor will remain the Holder of the share transferred until the name of the transferee
+is entered in the Register of Members in respect of it.
+
+10.2
+
+All instruments of transfer which are registered may be retained by or on behalf of the Company,
+but any instrument of transfer that the Board refuses to register (except where fraud or other
+crime involving dishonesty is suspected in relation to the transfer) shall be returned to the
+person lodging it when notice of refusal is given.
+
+10.3
+
+The Company will not charge any fee for registering any transfer, document or instruction
+relating to or affecting the title to any share or for making any other entry in the Register of
+Members.
+
+10.4
+
+A person who becomes entitled to a share will be bound by any notice in respect of that share
+(other than a section 793 notice) which, before his name is entered in the Register of Members,
+the Company has given to the person from whom he derives his title.
+
+10.5
+
+Subject to Company Legislation and to any rights conferred on the Holders of any class of
+shares, the Company may purchase any of its own shares (including any redeemable shares)
+and may hold such shares in treasury or cancel them. The Company shall be entitled in its sole
+discretion to select which shares it shall purchase and purchase them by whatever method it
+sees fit.
+
+7
+1951762802.4
+1010587836.2
+
+NEW SHARES
+11
+
+ALLOTMENT
+
+11.1
+
+Subject to these Articles, Company Legislation and the rights attached to any existing shares,
+the Board may offer, allot, grant options over or otherwise dispose of shares in the Company,
+or offer, allot or issue instruments or securities with the right to convert to shares in the
+Company, in each case to such persons and on such terms as it may decide.
+
+11.2
+
+Subject to any rights attached to any existing shares, any share may be issued with or have
+attached to it such rights or restrictions as the Company may by ordinary resolution decide
+(provided that such resolution is passed before the allotment of the relevant share(s)) or, so far
+as the resolution does not make specific provision or if no such resolution has been passed, as
+the Board may decide.
+
+11.3
+
+Subject to Company Legislation, any share may be issued which is to be redeemed, or is to be
+liable to be redeemed at the option of the Company or the Holder or both, on such terms and
+conditions and in such manner as the Board may decide.
+
+11.4
+
+The Company may exercise all powers conferred by Company Legislation of paying
+commissions and/or brokerage in relation to a subscription for shares or other allotment. These
+commissions and/or brokerage may be satisfied in cash or by the allotment of fully or partly
+paid shares or partly in one way and partly in the other.
+
+12
+
+CONSOLIDATION AND DIVISION
+
+12.1
+
+The Company may confer any preference or other advantage on one or more of the shares
+resulting from any division or sub-division of its share capital as compared with the others and
+make any such share subject to any preference, restriction, advantage or disadvantage as
+compared with the others.
+
+12.2
+
+If, as a result of a consolidation, consolidation and division or sub-division of shares, fractions
+of shares become attributable to Members, the Board may deal with the fractions as it considers
+appropriate, including in either of the ways prescribed below in Article 12.3 or 12.5.
+
+12.3
+
+The Board may sell shares representing fractions on such basis and in such manner as it may
+decide to any person and distribute the net proceeds of sale amongst the persons to whom the
+fractions are attributable (except that if the amount that would otherwise be due to a person
+does not exceed £5.00, or such other sum as the Board may decide, the Company may
+distribute it to an organisation that is registered as a charity in the United Kingdom or in any
+part of it). To do so the Board may authorise a person to sign an instrument of transfer of shares
+to the purchaser or as the purchaser may direct or, for uncertificated shares, exercise any
+power conferred on it under these Articles to effect their transfer.
+
+12.4
+
+The purchaser will not be bound to see to the application of the purchase monies in respect of
+any such sale. The title of the transferee to the shares will not be affected by any irregularity in
+or invalidity of the proceedings connected with the sale or transfer. Any instrument or exercise
+in Article 12.3 will be effective as if it had been signed or exercised by the Holder of the shares
+to which it relates.
+
+12.5
+
+In relation to the fractions the Board may issue to a Member fully paid by way of capitalisation
+the minimum number of shares required to round up his holding of shares to a number which,
+following a consolidation and division or a sub-division, leaves a whole number of shares (such
+issue to be treated as effected immediately before the consolidation or the sub-division, as the
+case may be). The amount required to pay up those shares may be capitalised as the Board
+considers appropriate out of amounts standing to the credit of any reserve or fund of the
+Company and applied in paying up in full the appropriate number of shares.
+
+8
+1951762802.4
+1010587836.2
+
+TRANSMISSION OF SHARES
+13
+
+RECOGNITION OF TRANSMISSION
+
+13.1
+
+The Company is required to recognise a person's entitlement to a share in consequence of the
+death or bankruptcy of a Member or of any other event giving rise to its transmission by
+operation of law only if that person has:
+13.1.1
+
+provided the Company with a postal address and, if that address is not in the United
+Kingdom, with a postal address in the United Kingdom or an address for the
+purposes of communications by electronic means; and
+
+13.1.2
+
+provided the Company with such evidence as the Board may reasonably require for
+the purpose of proving his entitlement.
+
+13.2
+
+The Company shall, within two months of becoming required to recognise the entitlement of
+any person to a share, notify that person that it has done so and, if the share is certificated,
+have that entitlement noted in its issuer register of members.
+
+14
+
+NOTICES FOLLOWING RECOGNITION
+
+14.1
+
+The Company may send or supply to a person entitled by transmission to a share, at such
+postal address in the United Kingdom or at such other address for the purpose of electronic
+communications that he has provided to the Company, any document or information or payment
+to which he would be entitled if he were the Holder of that share. The Company may notify him
+at such an address of the availability of any document or information on a website.
+
+14.2
+
+Any document or information sent or supplied to a person entitled by transmission to a share
+shall be deemed to have been sent or supplied to all persons interested (whether jointly with or
+as claiming through or under him) in the share.
+
+14.3
+
+If a person claims to be entitled by transmission to a share but has not been recognised by the
+Company as entitled to it, in relation to that share the Company may send or supply any
+document or information or make any payment in respect of it as if the event giving rise to the
+transmission had not occurred or withhold any such document or information or payment.
+
+15
+
+RIGHTS ON TRANSMISSION
+
+15.1
+
+A person's rights under these Articles as a Member in respect of a share of which he is the
+Holder shall cease on another person becoming entitled to that share in consequence of his
+death or bankruptcy or of any other event giving rise to its transmission by operation of law.
+
+15.2
+
+A person that the Company has recognised as being entitled by transmission to a share has
+the rights that he would have if he were its Holder, except that he will not, before being
+registered as its Holder, be entitled in respect of it (except with the Board's authority) to receive
+notice of, or to attend or vote at, any general meeting or at any class meeting or to exercise
+any other rights in relation to any such meeting.
+
+16
+
+ELECTIONS FOLLOWING TRANSMISSION
+
+16.1
+
+A person entitled by transmission to a share may elect to be registered as its Holder or to have
+some person nominated by him so registered. If he elects to be registered, he shall give notice
+to the Company to that effect. If he elects to have some other person registered, he shall sign
+an instrument of transfer or, for an uncertificated share, give appropriate instructions for its
+transfer through the CREST System or have it converted into certificated form and then sign
+an instrument of transfer.
+
+16.2
+
+All the provisions of these Articles relating to the transfer of shares apply to the notice or
+instrument of transfer or instructions (as the case may be) referred to in Article 16.1 as if the
+
+9
+1951762802.4
+1010587836.2
+
+notice were an instrument of transfer and as if the notice or instrument were signed, or the
+instructions were given, by the Member and the event giving rise to the transmission had not
+occurred.
+16.3
+
+The Board may give notice requiring a person to make an election referred to in Article 16.1. If
+such notice is not complied with within 60 days, the Board may withhold payment of all
+dividends and other amounts payable in respect of the share until such an election has been
+made. If it is not complied with within one year, the Board may register that person as the
+Holder of that share.
+
+17
+
+DEATH OF A MEMBER
+If a Member dies, the survivor or survivors where he was a Joint Holder, or (subject to these
+Articles) his personal representatives where he was the sole or only surviving Holder, will be
+the only persons recognised by the Company as having any title to his shares. Nothing in these
+Articles will release the estate of a deceased Holder from any liability in respect of a share
+which has been held by him solely or jointly.
+BOARD POWERS
+
+18
+
+BOARD TO MANAGE THE COMPANY'S BUSINESS
+
+18.1
+
+The Board shall manage the Company's business.
+
+18.2
+
+The Board may exercise all the Company's powers and may do on the Company's behalf all
+such acts as may be done by it or on its behalf and which are not required to be exercised or
+done by the Company in general meeting subject (in all cases) to Company Legislation, these
+Articles and any direction that the Company gives to the Board by passing a special resolution.
+
+18.3
+
+No direction that the Company gives to the Board by passing a special resolution and no
+alteration of these Articles will invalidate any prior act of the Board which would have been valid
+if such direction or alteration had not been given or made. The provisions in these Articles
+giving specific powers to the Board do not limit the general powers given by this Article 18.
+
+19
+
+BOARD COMMITTEES
+
+19.1
+
+The Board may establish any committee (Board committee) to which it may delegate all or
+any of its powers for the purpose of carrying out any exercise, function or task that the Board
+has the power to carry out itself. The members of a Board committee need not include more
+than one Director.
+
+19.2
+
+The Board's power under this Article 19 to delegate to a Board committee:
+
+19.3
+
+19.2.1
+
+includes the power to delegate the determination of any fee, monies, remuneration
+or other benefit to be paid or provided to any Director and the power to authorise
+any situation or matter to which section 175 of the Companies Act applies; and
+
+19.2.2
+
+is not limited by the making of express reference in some Articles but not others to
+the exercise of any particular power by the Board or a Board committee.
+
+Proceedings of a Board committee shall be conducted in accordance with any regulations
+prescribed by the Board. Subject to those regulations, such proceedings shall be conducted in
+accordance with applicable provisions of these Articles regulating the proceedings of the Board
+(except that a Board committee will not have the power to change or modify any such
+regulations or provisions as they apply to it or to regulate its own proceedings). If a Board
+resolution states that the members of a Board committee are to include one or more unnamed
+Directors, it will not be necessary to give notice of a Board committee meeting to any Director
+who is not a member of that committee.
+
+10
+1951762802.4
+1010587836.2
+
+20
+
+DELEGATION
+
+20.1
+
+The Board may delegate any of its powers under these Articles and any other of its powers that
+can be delegated:
+20.1.1
+
+to such person or persons or to any Board committee;
+
+20.1.2
+
+to such an extent (including in relation to any matter or any territory, region or
+country);
+
+20.1.3
+
+on such terms and subject to such conditions;
+
+20.1.4
+
+for such period or indefinitely; and
+
+20.1.5
+
+by such means,
+
+as the Board considers appropriate.
+20.2
+
+The Board may:
+20.2.1
+
+grant to any person or persons or to any Board committee to whom it delegates any
+power the power to sub-delegate that power (with or without a power of further subdelegation) to one or more persons or to a sub-committee;
+
+20.2.2
+
+retain or exclude the right of the Board to exercise any delegated power collaterally
+with the person or persons or the Board committee to whom it has been delegated;
+and
+
+20.2.3
+
+revoke the delegation or alter its terms or conditions.
+
+20.3
+
+The Board may also, by power of attorney or otherwise, appoint any person or undertaking to
+be an attorney of the Company for such purposes and with such powers, authorities and
+discretions (not exceeding those vested in or exercisable by the Board under these Articles) for
+such period and subject to such conditions as they may decide. The power of attorney may
+authorise the attorney to sub-delegate all or any of the powers, authorities and discretions
+vested in him. The Board may remove any person or undertaking so appointed, or vary the
+terms of their appointment, but no person dealing in good faith and without notice of any such
+removal, annulment or variation shall be affected by any such action.
+
+20.4
+
+References in these Articles to any Board committee include any sub-committee permitted
+under this Article 20.
+
+21
+
+VOTING AND APPOINTMENTS
+
+21.1
+
+The Board may exercise or cause to be exercised the voting power conferred by shares or any
+other interest in any other body corporate held or owned by the Company, and any power of
+appointment exercisable by the Company, in any manner it considers appropriate (including
+the exercise of the voting power or power of appointment in favour of the appointment of any
+Director as a director or other officer or employee of such body corporate or in favour of the
+payment of remuneration to the directors, officers or employees of such company).
+
+21.2
+
+Subject to these Articles, a Director may also vote on and be counted in the quorum in relation
+to the exercise of any such power.
+
+22
+
+PROVISION FOR EMPLOYEES
+The Board may exercise any power conferred on the Company by Company Legislation to
+make provision for the benefit of persons employed or formerly employed by any Group
+
+11
+1951762802.4
+1010587836.2
+
+Undertaking in connection with the cessation or the transfer to any person of the whole or part
+of the undertaking of such Group Undertaking.
+23
+
+OVERSEAS BRANCH REGISTERS
+
+23.1
+
+The Company may cause to be kept in any country or territory an overseas branch register of
+members resident there. The Board may make and vary such provisions as it considers
+appropriate regarding the keeping of any such register.
+
+23.2
+
+For a Member registered on an overseas branch register, documents and other information can
+be sent or supplied to him by the Company in or from the United Kingdom or in or from the
+country or territory where the branch register is kept. Any notice that is published by the
+Company in a newspaper for the purposes of these Articles shall also be published in a
+newspaper circulated in hard copy form in the territory or country where an overseas branch
+register is kept.
+
+23.3
+
+The Board may, by sending a written notice to the Member concerned, require a Member who
+is registered on an overseas branch register to provide any information (with such supporting
+evidence as the Board may decide) for the purpose of determining whether he is resident in the
+country or territory in which that branch register is situated. If such information and evidence
+is not provided within 21 days or if, in the Board's opinion, the evidence provided indicates that
+the Member is not so resident or is unsatisfactory the Company may move the shares
+registered in his name off that branch register and register them in that Member's name in
+certificated form on the Register of Members. If the Company does so, it shall send a notice to
+the Member informing him that it has done so.
+
+24
+
+BORROWINGS
+The Board may exercise all the Company's powers to borrow money and to mortgage or charge
+all or part of its undertaking, property and assets (present or future) and uncalled capital and to
+issue debentures and other securities and to give security, whether outright or as collateral for
+a debt, liability or obligation of the Company or of a third party.
+BOARD PROCEEDINGS
+
+25
+
+CHAIRMAN OF THE BOARD
+The Board may appoint any Director to be, and may remove, its chairman or its deputychairman of the Board. The chairman or, in his absence, any deputy-chairman, is to preside at
+a Board meeting. If there is no chairman or deputy-chairman, or if neither the chairman nor the
+deputy-chairman is present within 15 minutes after the time appointed for the holding of the
+Board meeting, or if neither of them is willing to act as chairman, the Directors present may
+choose any Director present to act as chairman of that meeting for so long as the Board's
+chairman or (as applicable) deputy chairman is not present or has not indicated that he is willing
+to act as chairman of that meeting. The chairman of a Board meeting is the chairman for the
+purposes of all provisions in these Articles applicable to Board meetings.
+
+26
+
+BOARD MEETINGS
+
+26.1
+
+Subject to these Articles, the Board may regulate its meetings and proceedings as it considers
+appropriate.
+
+26.2
+
+A Director may, and the Secretary at the request of a Director shall, call a meeting of the Board.
+Notice of a Board meeting is to be treated as given to a Director if it is given to him personally
+or by word of mouth or sent in writing to his last known address or any address that he has
+given to the Company for the receipt of notices. A Director may waive the requirement that
+notice of any Board meeting be given to him, and may do so with retrospective effect. A Director
+will be treated as having waived his entitlement to notice unless he has supplied the Company
+
+12
+1951762802.4
+1010587836.2
+
+with the information necessary to ensure that he receives notice of a meeting before it takes
+place.
+26.3
+
+A Director may participate in a Board meeting through the medium of conference telephone,
+video conferencing or any other form of communication equipment if all Directors participating
+in the meeting are able to hear and speak to each other. A Director participating in this way is
+to be treated as present in person at the meeting and counted in a quorum and is entitled to
+vote at it. The place of the meeting is to be treated as where the largest group of those
+participating is assembled or, if there is no such group, where the chairman then is.
+
+26.4
+
+No business shall be transacted at a Board meeting unless a quorum is present. The quorum
+shall be two Directors or such higher number as the Board may decide. A Board meeting at
+which a quorum is present may exercise all the authorities, discretions and powers vested in or
+exercisable by the Board.
+
+26.5
+
+Any decision to be taken at a Board meeting is to be decided by a majority of votes. In the
+case of an equality of votes, the chairman has a second or casting vote (unless he is not entitled
+to vote on the matter).
+
+26.6
+
+Subject to these Articles and the terms of any resolution of the Members to remove a Director,
+any Director who ceases to be a Director at a Board meeting may continue to be present and
+to act as a Director and be counted in the quorum until the termination of the Board meeting if
+no other Director objects and if otherwise a quorum of Directors would not be present.
+
+27
+
+WRITTEN RESOLUTIONS
+
+27.1
+
+A resolution in writing signed by a majority of the Directors entitled to receive notice of a Board
+meeting and who would be entitled to vote on the resolution at a Board meeting (provided that
+such majority includes each of (i) the Chief Executive Officer and (ii) the chairman of the Board
+(in each case if a Director has, for the time being, been appointed to fulfil such a role)) will be
+as valid and effective as a resolution passed at a Board meeting properly called and constituted.
+
+27.2
+
+Such a resolution may consist of several documents in the same form each signed by one or
+more of the Directors or members of the relevant committee, except that it need not be signed
+by an alternate Director if it is signed by his appointor and, if it is signed by an alternate Director,
+it need not be signed by his appointor.
+
+28
+
+VALIDITY OF BOARD'S ACTS
+All acts done by the Board or a Board committee or by a person acting as a Director or as a
+member of a Board committee will be valid in favour of persons acting in good faith even if it is
+discovered later that any Director or person acting as a Director was not properly appointed.
+This also applies if it is discovered later that anyone was disqualified from being a director or
+was not entitled to vote. In all these cases, anything done will be as valid as if there was no
+defect or irregularity of a kind referred to in this Article 28.
+DIRECTORS
+
+29
+
+NUMBER
+The number of Directors must not be less than two but (unless otherwise determined by the
+Company by ordinary resolution) is not subject to any maximum.
+
+30
+
+APPOINTMENT
+
+30.1
+
+Subject to these Articles, the Company may by ordinary resolution appoint as a Director a
+person who is willing to act as such, provided that:
+30.1.1
+
+notice is given of the resolution identifying the person concerned by name; and
+
+13
+1951762802.4
+1010587836.2
+
+30.1.2
+
+if that person is not recommended for appointment by the Board, the Company
+receives at the Registered Office that person's written confirmation of his willingness
+to be appointed as a Director at least seven days before the date appointed for the
+holding of the general meeting at which the resolution is to be considered.
+
+30.2
+
+Subject to these Articles, the Board may appoint as a Director any person who is willing to act
+as such.
+
+30.3
+
+The Board may appoint any Director to hold any employment or executive office with the
+Company for such period and on such terms as the Board may decide. The Board may revoke,
+terminate or vary the terms of any such appointment subject always to the terms of employment
+of the relevant individual.
+
+30.4
+
+Any person who is appointed as a Director shall comply with such requirements in relation to
+the holding of qualification shares as are for the time being specified in any Directors'
+remuneration policy which has been approved by the Members in general meeting (and with
+any enhanced requirements in relation to the holding of qualification shares which may from
+time to time be agreed between such Director and the Board or any Board committee). In the
+absence of such requirements for the holding of qualification shares a Director need not be a
+Member.
+
+31
+
+REMOVAL
+The Company may by special resolution, or by ordinary resolution of which special notice has
+been given in accordance with Company Legislation, remove any Director before the expiration
+of his period of office.
+
+32
+
+VACATION OF OFFICE
+
+32.1
+
+The office of a Director shall be vacated as soon as:
+32.1.1
+
+he resigns by notice to the Company and such resignation has taken effect in
+accordance with its terms;
+
+32.1.2
+
+he gives the Company a written notice in which he offers to resign and the Board
+decides to accept his offer;
+
+32.1.3
+
+he ceases to be a Director or is prohibited from being a Director as a matter of law
+or is removed from office pursuant to these Articles;
+
+32.1.4
+
+he becomes bankrupt or compounds with his creditors generally;
+
+32.1.5
+
+he is absent from Board meetings for six consecutive months (whether or not
+anyone else attends in his place) and the Board resolves that his office be vacated;
+
+32.1.6
+
+a registered medical practitioner who is treating him gives a written opinion to the
+Company stating that the Director has become physically or mentally incapable of
+acting as a director and may remain so for more than three months;
+
+32.1.7
+
+all of the other Directors sign a written notice (or different notices in the same form)
+or unanimously pass a resolution requiring him to resign which is delivered to the
+Registered Office or tendered at a meeting of the Board;
+
+32.1.8
+
+in the case of a Director who is an employee of a Group Undertaking, he ceases to
+be employed by any Group Undertaking, except if (a) the Board resolves that he is
+to continue in office as a non-executive Director or (b) he is entitled to remain as a
+non-executive Director pursuant to a contractual right conferred upon him or a
+Member by the Company;
+
+14
+1951762802.4
+1010587836.2
+
+32.2
+
+33
+
+32.1.9
+
+his conduct is the subject of an investigation by an inspector appointed by the
+Secretary of State or by the Serious Fraud Office and all of the other Directors pass
+a resolution that it is not in the best interests of the Company for him to remain a
+Director;
+
+32.1.10
+
+he is convicted of an indictable offence and all of the other Directors pass a
+resolution that it is not in the best interests of the Company for him to remain a
+Director; or
+
+32.1.11
+
+his contract of service or letter of appointment as a Director is terminated.
+
+A person who ceases to be a Director will, on such cessation, also cease:
+32.2.1
+
+to be a member of any committee or sub-committee of the Board; and
+
+32.2.2
+
+to have any powers previously delegated to him by the Company other than (where
+applicable) pursuant to any terms on which he continues to be employed by it.
+
+SECRETARY
+The Secretary shall be appointed by the Directors in accordance with the Statutes for such
+terms, at such remuneration and upon such conditions as the Directors see fit and any
+Secretary so appointed may be removed by the Directors. Any removal of a Secretary shall be
+without prejudice to any claim for damages for breach of contract or of any contract of service
+between him and the Company. If thought fit two or more persons may be appointed by the
+Directors as joint Secretaries. Any provision of the Statutes or of these Articles requiring or
+authorising a thing to be done by or to a Director and the Secretary shall not be satisfied by it
+being done by or to the same person acting both as Director and as or in the place of the
+Secretary.
+
+34
+
+AUDITORS
+
+34.1
+
+Appointment of Auditor
+The provisions of the Statutes as to the appointment powers rights remuneration and duties of
+the Auditor shall be complied with.
+
+34.2
+
+Acts of Auditors valid
+Subject to the provisions of the Statutes all acts done by any person acting as an Auditor shall
+as regards all persons dealing in good faith with the Company be valid notwithstanding that
+there was some defect in his appointment or that he was at the time of his appointment not
+qualified for appointment.
+
+34.3
+
+Notices to Auditors
+The Auditor shall be entitled to attend any general meeting to receive all notices of and other
+communications relating to any general meeting which any member is entitled to receive and
+to be heard at any general meeting on any part of the business of the meeting which concerns
+them as auditors of the Company.
+
+35
+
+ANNUAL GENERAL MEETINGS
+
+35.1
+
+In this Article 35 the "selection date" means a date selected by the Board in relation to an
+annual general meeting that is not more than 14 days before, and no later than, the date of the
+notice of that meeting.
+
+15
+1951762802.4
+1010587836.2
+
+35.2
+
+At each annual general meeting:
+35.2.1
+
+each person who is a Director on the selection date and who was appointed as such
+after the previous annual general meeting is to be proposed for election as a Director;
+and
+
+35.2.2
+
+each other person who is a Director on the selection date is to be proposed for reelection as a Director,
+
+provided that, in each case, the person concerned is a Director immediately before the
+commencement of the meeting and has confirmed to the Board that he is willing to continue as
+a Director.
+35.3
+
+If a resolution for the election or re-election as a Director of any person who was a Director at
+the commencement of an annual general meeting is put to vote at that meeting but not passed,
+that person will remain in office until the meeting appoints someone in his place or (if it does
+not do so) until the conclusion of the meeting, when (subject to Article 35.4) he will cease to be
+a Director.
+
+35.4
+
+If at the end of an annual general meeting there would otherwise be no Directors, each person
+to whom Article 35.3 applies:
+
+35.5
+
+35.4.1
+
+shall remain in office as a Director until someone else who was not a Director at the
+commencement of that meeting is appointed as a Director by the Company in
+general meeting, when he will cease to be a Director; and
+
+35.4.2
+
+may, in his capacity as a Director for so long as he remains in office in accordance
+with this paragraph, act (with any other persons to whom this paragraph applies as
+the Board) only:
+35.4.2.1
+
+for the purposes of convening and holding a general meeting to appoint
+Directors; and
+
+35.4.2.2
+
+as he considers necessary or appropriate in order to comply with any
+legal or regulatory requirement applicable to the Company or the
+Directors or to him as a Director.
+
+The business of an annual general meeting shall include:
+35.5.1
+
+considering the profit and loss account the balance sheet and reports of the
+Directors and of the Auditor and the documents required by Statute to be annexed
+to the balance sheet; and
+
+35.5.2
+
+appointing the Auditor (when special notice of the resolution for such appointment
+is not required by the Statutes) and to fix or determine the manner of the fixing of
+their remuneration.
+
+36
+
+SHORTFALLS
+
+36.1
+
+If the number of Directors is less than the minimum required by these Articles, any Director or
+Directors able and willing to act may act only for the purpose of appointing an additional Director
+or Directors or convening a general meeting for the purpose of making any such appointment.
+
+36.2
+
+If there is no Director, any two or more Members holding at least 10% in aggregate of all
+Ordinary Shares then in issue may convene a general meeting for the purpose of appointing
+Directors to be held at a time between 9.00 am and 5.00 pm on a working day at a venue in the
+United Kingdom where the Company has held at least one of its last four annual general
+meetings or at a venue in the City of London. If the persons present at the commencement of
+the meeting and entitled to vote include only one person who has been a Director within the
+previous five years and is willing to act as chairman of the meeting, that person shall be the
+
+16
+1951762802.4
+1010587836.2
+
+chairman of the meeting. If more than one such person is then present, all such persons may
+decide between themselves (by majority vote, if necessary) who is to take the chair. If no such
+decision is made by such persons within 30 minutes of the commencement of the meeting or if
+no such person is present at its commencement, the persons present and entitled to vote may
+appoint one of their number to be chairman of the meeting. No appointment proposed to be
+made at such meeting shall be effective if, immediately before its commencement, the
+Company has the minimum number of Directors required by the Companies Act.
+DIRECTORS' BENEFITS
+37
+
+FEES
+The aggregate amount of fees paid to Directors who do not hold executive office shall be such
+amount as the Board shall from time to time determine. Any Director remuneration, whether
+granted, paid or accrued before or after the adoption of these Articles, shall be deemed to have
+been duly authorised notwithstanding any previous limit or restriction contained in the
+Company’s articles of association. The aggregate fees may be divided among such Directors
+in such proportions as the Board decides or, if no decision is made, equally.
+
+38
+
+REMUNERATION
+
+38.1
+
+The salary or remuneration of a Director appointed to hold employment or executive office may
+be a fixed sum of money, or wholly or in part governed by business done or profits made, or as
+otherwise decided by the Board (including, for the avoidance of doubt, by the Board acting
+through a Board committee), and may be in addition to or instead of a fee payable to him for
+his services as Director pursuant to these Articles.
+
+38.2
+
+A Director who goes or resides abroad, makes a special journey or performs a special service
+for the Company (including services as a chairman or deputy-chairman of the Board, services
+as a member of any Board committee and services which the Board considers to be outside
+the scope of the ordinary duties of a Director) may be paid such additional remuneration as the
+Board or any Board committee decides.
+
+39
+
+EXPENSES
+
+39.1
+
+A Director may be paid all travelling, hotel and other expenses properly incurred by him in
+connection with the discharge of his duties as a Director, including any professional fees
+incurred by him (with the Board's approval or in accordance with any procedures prescribed by
+the Board) in taking independent professional advice in connection with the discharge of such
+duties.
+
+39.2
+
+The Company may, subject to Company Legislation:
+
+40
+
+39.2.1
+
+provide any Director with funds to meet his defence expenditure in respect of any
+civil or criminal proceedings or regulatory investigation or other regulatory action or
+in connection with any application for any category of relief permitted by Company
+Legislation; and
+
+39.2.2
+
+do anything to enable him to avoid incurring any such expenditure.
+
+RETIREMENT AND DISABILITY BENEFITS
+The Board may exercise all the Company's powers to provide pensions or other retirement or
+superannuation benefits and to provide death or disability benefits or other allowances for a
+person who is or has been a Director, an officer or a director or an employee of a company
+which is or was a Group Undertaking, a company which is or was allied to or associated with a
+Group Undertaking or a predecessor in business of a Group Undertaking (and for any member
+of his family, including a current spouse or civil partner or former spouse or civil partner, or a
+person who is or was dependent on him). For this purpose the Board may establish, maintain,
+
+17
+1951762802.4
+1010587836.2
+
+subscribe and contribute to any scheme, trust or fund and pay premiums. The Board may
+arrange for this to be done by the Company alone or in conjunction with another person.
+DIRECTORS' INTERESTS
+41
+
+CONFLICTS
+
+41.1
+
+The Directors may authorise any situation or matter relating to a particular Director to which
+section 175 of the Companies Act applies (each a Conflict Matter), subject to that section, on
+such terms (if any) as they think fit. Before any such authorisation (Conflict Authorisation) is
+given, a Director shall propose to the Directors, in accordance with the Board's procedures for
+putting proposals to the Directors for their consideration and approval at a meeting of the Board
+or by way of written resolution or with such other procedures as the Directors may determine,
+that the Conflict Matter concerned be so authorised. A Conflict Authorisation under this Article
+41 is effective only if any requirement as to the quorum of the meeting of the Directors at which
+the matter is considered is met without counting the Director in question or any other interested
+Director and the Conflict Authorisation was granted without such Director or other interested
+Director(s) voting. The Directors may vary, terminate or withdraw a Conflict Authorisation at
+any time and in their absolute discretion by giving notice to the Director concerned.
+
+41.2
+
+Any terms to which a Conflict Authorisation is made subject (Conflict Authorisation Terms)
+may include, in each case at the Directors' discretion, that the Director concerned:
+41.2.1
+
+is not obliged to disclose to the Company confidential information obtained by him
+(other than in his capacity as its Director or as its employee or agent or, if the
+Directors so decide, in any other capacity that would otherwise oblige him to disclose
+it to the Company) in any situation to which the Conflict Authorisation applies, nor
+to use any such information directly or indirectly for the benefit of the Company,
+where to do so would amount to a breach of a duty of confidence to any third party,
+where the Director concerned has previously disclosed to the Board the existence
+of the conflict and the third party's identity; and
+
+41.2.2
+
+may absent himself from any Board discussions, and make arrangements not to
+receive documents and information, relating to the Conflict Matter concerned for so
+long as he reasonably believes that, as a Director, he has or may have a conflict of
+interest in respect of it,
+
+and the Company will not treat anything done, or omitted to be done, by the Director concerned
+in accordance with the Conflict Authorisation Terms as a breach of duty under the following
+sections of the Companies Act - section 172 (duty to promote the success of the company),
+section 173 (duty to exercise independent judgement) and section 174 (duty to exercise
+reasonable care, skill and diligence).
+42
+
+PERMITTED BENEFITS
+
+42.1
+
+A Director is not required, by reason of being a Director, to account to the Company for any
+profit, remuneration or other benefit which he derives from or in connection with a Conflict
+Matter which has been authorised by the Board pursuant to the preceding Article, or by the
+Company in general meeting (subject to any terms, limits or conditions attaching to such
+authorisation).
+
+42.2
+
+Provided that a Director has disclosed his interest in the matter concerned to the other Directors
+in accordance with the Companies Act (if the Companies Act obliges him to do so), he is not
+required, by reason of being a Director, to account to the Company for any profit, remuneration
+or other benefit which he derives from or in connection with:
+42.2.1
+
+being a party to or otherwise interested in any arrangement or transaction with the
+Company or in which the Company is otherwise interested;
+
+18
+1951762802.4
+1010587836.2
+
+42.2.2
+
+holding any other office or place of profit with the Company (except that of Auditor)
+in conjunction with his office of Director for such period and on such terms, including
+as to remuneration, as the Board may decide;
+
+42.2.3
+
+acting by himself or through a firm with which he is associated in a professional
+capacity for the Company or any body corporate in which the Company is interested
+(other than as Auditor); or
+
+42.2.4
+
+being a director or other officer of, or employed by or otherwise interested in any
+body corporate in which the Company or any other Group Undertaking is interested
+or which has an interest in the Company or in any other Group Undertaking.
+
+42.3
+
+The Company will not treat the receipt by the Director of any profit, remuneration or other benefit
+referred to above in Articles 42.1 and 42.2 as a breach of duty under section 176 of the
+Companies Act (duty not to accept benefits from third parties). No arrangement or transaction
+to which the previous paragraph applies may be avoided on the ground of any such interest,
+profit, remuneration or other benefit.
+
+42.4
+
+A Director or former Director will not be accountable to the Company for any benefit provided
+to him or his dependants in accordance with any provision in these Articles.
+
+43
+
+INDEMNITY AND INSURANCE
+
+43.1
+
+Subject to Company Legislation, the Company may:
+43.1.1
+
+indemnify any Director or any director of any associated company against any
+liability incurred in the performance of their duties, exercise of powers and/or their
+office, pursuant to any qualifying third party indemnity provision or any qualifying
+pension scheme indemnity provision, or on any other basis as is lawful, in each case
+on such terms as the Board may decide; and
+
+43.1.2
+
+purchase and maintain for any Director or any director of any associated company
+insurance against any liability.
+
+43.2
+
+In this Article 43 qualifying third party indemnity provision, qualifying pension scheme
+provision and associated company have the meanings that they have in Part 10 of the
+Companies Act.
+
+44
+
+VOTING RESTRICTIONS
+
+44.1
+
+A Director shall not vote or be counted in the quorum on any resolution of the Board concerning
+any contract in which he has an interest (and, if he votes on it, his vote is not to be counted)
+unless that interest cannot reasonably be regarded as likely to give rise to a conflict of interest
+or only arises from or relates to one or more of the following matters:
+44.1.1
+
+the giving of any security, guarantee or indemnity to him in respect of money lent or
+obligations incurred by him or by any other person at the request of or for the benefit
+of a Group Undertaking;
+
+44.1.2
+
+the giving of any security, guarantee or indemnity to a third party in respect of a debt
+or obligation of a Group Undertaking for which he himself has assumed
+responsibility wholly or in part under a guarantee or indemnity or by the giving of
+security;
+
+44.1.3
+
+an offer of securities by a Group Undertaking in which he is or may be entitled to
+participate as a Holder of securities or in the underwriting or sub-underwriting of
+which he is to participate;
+
+44.1.4
+
+a contract with or relating to another company in which he does not have to his
+knowledge an interest (as that term is used in Part 22 of the Companies Act) in
+
+19
+1951762802.4
+1010587836.2
+
+shares representing 1% or more of either any class of the equity share capital, or
+the voting rights in, such company;
+44.1.5
+
+an arrangement for the benefit of employees of any Group Undertaking which does
+not award him any privilege or benefit not generally awarded to the employees to
+whom such arrangement relates;
+
+44.1.6
+
+insurance which the Company proposes to maintain or purchase for the benefit of
+Directors or for the benefit of persons including any Director; or
+
+44.1.7
+
+a proposal for the Company (1) to provide him with an indemnity permitted by
+Company Legislation, (2) to provide him with funds in circumstances permitted by
+Company Legislation to meet his defence expenditure in respect of any civil or
+criminal proceedings or regulatory investigation or other regulatory action or in
+connection with any application for any category of relief permitted by Company
+Legislation, or (3) to do anything to enable him to avoid incurring any such
+expenditure.
+
+44.2
+
+A Director shall not vote or be counted in the quorum on any resolution of the Board concerning
+his own appointment, or the settlement or variation of the terms of his appointment or its
+termination, as a holder of any office or place of profit with the Company or any body corporate
+in which the Company is interested.
+
+44.3
+
+Where proposals are under consideration concerning the appointment, or the settlement or
+variation of the terms or the termination of the appointment of two or more Directors to offices
+or places of profit with the Company or any body corporate in which the Company is interested,
+such proposals may be divided and a separate resolution considered in relation to each Director.
+Each Director concerned (if not debarred from voting under these Articles) may vote and be
+counted in the quorum in respect of each resolution except that concerning his own
+appointment.
+
+45
+
+GENERAL
+
+45.1
+
+Subject to Company Legislation, the Company may by ordinary resolution:
+
+45.2
+
+45.3
+
+45.1.1
+
+suspend or relax to any extent any of the preceding provisions in these Articles that
+follow after the heading "DIRECTORS' INTERESTS"; and
+
+45.1.2
+
+ratify any transaction or arrangement not properly authorised by reason of a
+contravention of any such provision.
+
+In such provisions and in this Article 45 references to:
+45.2.1
+
+a conflict of interest includes a conflict of interest and duty and a conflict of duties;
+and
+
+45.2.2
+
+a contract includes any proposed contract and any transaction or arrangement or
+any proposed transaction or arrangement whether or not constituting a contract.
+
+If a question at a meeting as to the entitlement of any Director to vote is not resolved by his
+agreeing to abstain from voting, it is to be referred to the chairman or, if he is the Director
+concerned, the remainder of the Board. The chairman's ruling (or, in his case, the Board's
+ruling) on the matter will be final and conclusive and binding, unless the nature or extent of the
+Director's interest, as known to him, has not been adequately disclosed to the meeting.
+
+20
+1951762802.4
+1010587836.2
+
+GENERAL MEETINGS
+46
+
+CONVENING GENERAL MEETINGS
+
+46.1
+
+The Board may convene general meetings (including any annual general meeting) in
+accordance with Company Legislation and these Articles.
+
+46.2
+
+The Board shall decide, in accordance with and subject to Company Legislation and these
+Articles, if the meeting is to be held:
+
+46.3
+
+46.2.1
+
+as a physical meeting only;
+
+46.2.2
+
+via an Electronic Forum only; or
+
+46.2.3
+
+as both a physical meeting and via an Electronic Forum.
+
+The Board may convene a general meeting which is not an annual general meeting whenever
+and at such time and place or places (including via an Electronic Forum) as it considers
+appropriate. A general meeting that is not an annual general meeting may also be called an
+"extraordinary" general meeting.
+
+46.4
+46.4.1
+
+The Board (or, in the case of an adjourned meeting, either the chairman of such
+adjourned meeting or the Board) shall determine, in accordance with these Articles,
+the means by which persons entitled to attend and participate in any general
+meeting shall be permitted to do so. Such means may include attendance and
+participation at a physical meeting place and/or via any Electronic Forum or
+Electronic Forums.
+
+46.4.2
+
+Attendance and participation at a physical meeting place may be subject to such
+prohibition of, or restrictions as to, physical attendance thereat as the Board (or, in
+the case of an adjourned meeting, the chairman or the Board) may determine
+(having regard to the comfort or health or safety or wellbeing of persons attending
+or travelling to or from the meeting place and any prohibitions or restrictions imposed
+by law or government guidance) and may also include simultaneous attendance and
+participation at any one or more satellite meeting places.
+
+46.5
+
+References to the chairman either in this Article 46 or in Articles 47 to 62 inclusive concerning
+general meetings are to the chairman of the meeting concerned.
+
+46.6
+
+Reference to any meeting either in this Article 46 or in Articles 47 to 62 inclusive shall (where
+the context so permits) include any adjourned or rearranged meeting.
+
+47
+
+NOTICE
+
+47.1
+
+An annual general meeting and each other general meeting shall be called by at least such
+minimum period of notice as is prescribed for such meeting under Company Legislation.
+
+47.2
+
+Subject to Company Legislation and these Articles, a notice of general meeting:
+47.2.1
+
+shall specify whether the meeting will be held as a physical meeting, or via an
+Electronic Forum or Electronic Forums, or as both a physical meeting and via an
+Electronic Forum or Electronic Forums;
+
+47.2.2
+
+shall specify the time and date of the meeting;
+
+21
+1951762802.4
+1010587836.2
+
+47.3
+
+47.4
+
+47.2.3
+
+if (and to the extent that) the meeting is to be held as a physical meeting, shall
+specify the place of the meeting (including any satellite meeting place(s) arranged,
+which shall be identified as such in the notice); and
+
+47.2.4
+
+if (and to the extent that) the meeting is to be held via an Electronic Forum or
+Electronic Forums, shall specify all information which a Member (or other person
+entitled to attend the same) will need in order to access each envisaged Electronic
+Forum at that time and date in order to attend and participate at the general meeting,
+including such identification and security requirements as may be determined in
+accordance with these Articles or by the Board;
+
+47.2.5
+
+shall specify the general nature of the business to be dealt with at the meeting;
+
+47.2.6
+
+in the case of a general meeting to pass a special resolution, shall include the text
+of the resolution and specify the intention to propose the resolution as a special
+resolution; and
+
+47.2.7
+
+in the case of an annual general meeting, shall state that the meeting is an annual
+general meeting.
+
+A notice of general meeting shall be given to each person who is:
+47.3.1
+
+a Member (other than one who, under these Articles or any restrictions imposed on
+any shares, is not entitled to receive it) determined at a time and date selected by
+the Board in accordance with these Articles and Company Legislation;
+
+47.3.2
+
+a Director on the date of the notice; and
+
+47.3.3
+
+the Auditor on the date of the notice.
+
+Neither:
+47.4.1
+
+the accidental omission or failure to send a notice of a general meeting or of any
+resolution intended to be moved at a general meeting to any person entitled to
+receive it; nor
+
+47.4.2
+
+the non-receipt of any notice of a general meeting or of any resolution intended to
+be moved at a general meeting (even if the Company becomes aware of such nonreceipt) by any person entitled to receive it; nor
+
+47.4.3
+
+the inability, for any reason, of any person entitled to attend a general meeting to
+attend any physical meeting place (including any satellite meeting place) and/or
+attend or participate in the business of the meeting via an envisaged Electronic
+Forum,
+
+shall invalidate the proceedings at that meeting.
+47.5
+
+If:
+47.5.1
+
+notice of a resolution has been given without the Company having any obligation
+under Company Legislation to give it;
+
+47.5.2
+
+the Board resolves that the resolution be withdrawn; and
+
+47.5.3
+
+before the commencement of the general meeting at which it is to be considered, or
+(following an adjournment) before its recommencement, the Company announces
+the withdrawal of that resolution or at the meeting any officer of the Company
+informs the meeting or its chairman of the withdrawal,
+
+22
+1951762802.4
+1010587836.2
+
+that resolution shall not then be considered at the general meeting (or such adjourned meeting)
+nor put to the vote.
+48
+
+REARRANGED MEETINGS
+
+48.1
+
+The Board can change the time, date, place, means or Electronic Forum or Electronic Forums
+for, at or by which a general meeting is convened to be held to another time, date, place, means
+or Electronic Forum(s) (which may include or exclude attendance and participation at any
+satellite meeting place(s) and/or via an Electronic Forum or Electronic Forums) if the Board
+considers that:
+48.1.1
+
+it is likely that (on the assumption that one or more Directors will attend the meeting)
+the chairman of the meeting:
+48.1.1.1
+
+48.1.1.2
+48.1.2
+
+48.2
+
+will wish to adjourn it on, or shortly after, its commencement in order to:
+48.1.1.1.1
+
+relocate the place and/or change or add to Electronic
+Forum or Electronic Forums of the meeting (including
+any satellite meeting place(s)) to another place (or
+places) and/or Electronic Forum or Electronic Forums;
+
+48.1.1.1.2
+
+rearrange the meeting for another time on the same date
+or another time and date;
+
+48.1.1.1.3
+
+permit simultaneous attendance and participation at any
+new or additional satellite meeting place(s) or via any
+new or additional Electronic Forum(s); and/or
+
+48.1.1.1.4
+
+modify any arrangements for attendance
+participation via any Electronic Forum(s); and
+
+and
+
+will have the power to so adjourn it; or
+
+holding a general meeting at the time, date and/or place (or via any Electronic
+Forum(s)) stated in the notice calling the meeting (or, in the case of a rearranged
+meeting, as otherwise announced), or permitting attendance and participation at the
+time, date and/or place (or via any Electronic Forum(s)) stated in the notice calling
+the meeting, (or in the case of a rearranged meeting, as otherwise announced) or
+at any satellite meeting place(s), will be:
+48.1.2.1
+
+impossible, impracticable
+electronically);
+
+or
+
+insecure
+
+(whether
+
+physically
+
+or
+
+48.1.2.2
+
+hazardous, inadvisable or undesirable (having regard to the comfort or
+health or safety or wellbeing of persons attending, or travelling to or
+from, the meeting);
+
+48.1.2.3
+
+no longer for any other reason appropriate, having regard to
+circumstances outside the Company's control; or
+
+48.1.2.4
+
+prohibited or restricted by law (including as a result of any
+governmental or regulatory guidance applicable to it, or to the means
+of holding it, whether or not having the force of law).
+
+If the Board makes such any such change, an announcement of:
+48.2.1
+
+the time, date and place of the rearranged meeting (including, if applicable, the
+Electronic Forum(s) at which any person entitled to do so may attend and participate
+at the meeting);
+
+23
+1951762802.4
+1010587836.2
+
+48.2.2
+
+the details of the physical meeting and/or the location of any satellite meeting
+place(s) in respect of the same; and
+
+48.2.3
+
+the details of and/or the instructions as to how to attend and participate in the
+meeting via Electronic Forum(s) of such rearranged meeting,
+
+shall be published via a Regulatory Information Service and/or the Company's website prior to
+the time at which the meeting was convened to be held.
+Notice of the business to be transacted at the rearranged meeting will not be required.
+48.3
+
+The Board must take reasonable steps to ensure that any Member who arrives at any physical
+place and/or time, or who seeks to attend the meeting (where applicable) via an Electronic
+Forum, in each case as specified in the notice of the meeting, with a view to attending the
+meeting at the time and/or place, and/or by an Electronic Forum so specified, is informed of the
+relevant information set out in Article 48.2.
+
+48.4
+
+If a meeting is rearranged as envisaged in this Article 48, the proxy forms (as defined in Article
+58.2) will be valid if they are received as required by these Articles not less than 48 hours
+(excluding any part of a day that is not a working day) before the time of the rearranged meeting.
+
+48.5
+
+The power of the Board to rearrange any meeting under this Article 48 shall apply, in the same
+way and on any number of occasions, to any meeting(s) already rearranged under this Article
+48.
+
+49
+
+MEETINGS AT MORE THAN ONE LOCATION AND ATTENDANCE VIA ELECTRONIC
+FORUM
+
+49.1
+
+In relation to any general meeting, (whether or not a physical meeting place is or is to be
+proposed), the Board may resolve to enable persons entitled to attend and participate in such
+meeting to do so:
+
+49.2
+
+49.1.1
+
+by simultaneous attendance and participation at a satellite meeting place or places
+anywhere in the world; and/or
+
+49.1.2
+
+by simultaneous attendance and participation via any one or more Electronic
+Forums.
+
+A general meeting may be held at more than one physical location if:
+49.2.1
+
+the Board has so resolved pursuant to these Articles and the notice convening the
+meeting (or an announcement in relation to a rearranged meeting) specifies that it
+is to be held at more than one physical location (giving the required details of each
+such location); or
+
+49.2.2
+
+it appears to the Board, or to the chairman that, the meeting place(s) specified in
+the notice convening the meeting (or in an announcement in relation to a rearranged
+meeting) is or will be or may be inadequate for the purpose of allowing all persons
+whom the Board anticipates will or may attend to do so in comfort in secure
+surroundings or to participate in the meeting properly.
+
+The location of any new satellite meeting place(s) in respect of the general meeting shall be
+announced via a Regulatory Information Service and on the Company's website.
+49.3
+
+Attendance at a general meeting may be via an Electronic Forum or Electronic Forums if:
+49.3.1
+
+the Board has so resolved and the notice convening the meeting (or an
+announcement in relation to a rearranged meeting) specifies, in accordance with
+
+24
+1951762802.4
+1010587836.2
+
+Article 47.2.4, the instructions for participation via such Electronic Forum or
+Electronic Forums; or
+49.3.2
+
+the Board resolves, after the notice convening the meeting has been given, that
+participation in the meeting via an Electronic Forum or Electronic Forums may be
+permitted and instructions as to how to attend and participate in the general meeting
+via an Electronic Forum or Electronic Forums are announced via a Regulatory
+Information Service; or
+
+49.3.3
+
+in the case of an adjourned meeting, the chairman or the Board so resolves,
+
+and where the Board (or as applicable the chairman) so resolves to enable persons to attend
+and participate via an Electronic Forum or Electronic Forums, the Board (or as applicable the
+chairman) shall determine in its or his absolute discretion the form and adequacy of such
+Electronic Forum or Electronic Forums.
+49.4
+
+A general meeting held as, by or via:
+49.4.1
+
+one or more physical meetings; and/or
+
+49.4.2
+
+one or more Electronic Forums,
+
+will be properly constituted and its proceedings will (provided that, if such meeting is held by
+more than one of those methods, all of them take place simultaneously) be valid if (in addition
+to the other provisions of these Articles relating to general meetings being met) the chairman
+is satisfied that facilities are available and are adequate to enable each Member present to:
+49.4.3
+
+participate in (including to vote on) the business for which the meeting has been
+convened;
+
+49.4.4
+
+hear all persons who speak; and
+
+49.4.5
+
+be heard by all other persons present, wherever they are present and by whatever
+means they are present.
+
+49.5
+
+A general meeting which is held only via Electronic Forum(s) is valid, provided that it complies
+with the requirements of these Articles and Company Legislation. Each Member or their proxy
+who attends it via any such Electronic Forum in accordance with these Articles shall be counted
+in its quorum and be entitled to vote at it.
+
+49.6
+
+The place of the meeting will be the location where the chairman is located.
+
+49.7
+
+A person attending a meeting via any Electronic Forum (where permitted in accordance with
+these Articles) shall be treated for all purposes of these Articles as present at the meeting.
+
+49.8
+
+For an Electronic Forum to be valid, it shall not be necessary that such Electronic Forum affords
+to any person the capacity to vote on a show of hands.
+
+49.9
+
+This Article 49 is without prejudice to Article 47.4.
+
+50
+
+SECURITY AND SAFETY AT A MEETING
+
+50.1
+
+Any of the Board, the chairman or the Secretary can put in place or authorise, both before and
+during any general meeting and on its conclusion or adjournment, any arrangement that it or
+he considers necessary or appropriate for ensuring the proper and orderly conduct of the
+meeting or the safety and wellbeing of people arriving, attending or leaving it. These
+arrangements can be applied to any place of the meeting or outside any such place and may
+include provision for making personal searches, establishing identity, restricting or restraining
+the use or possession of personal property, refusing entry and/or removal of persons from the
+
+25
+1951762802.4
+1010587836.2
+
+meeting. Any such arrangement or restriction must, in the opinion of the Board, the chairman
+or the Secretary (as relevant), be proportionate to achieving the objective of this Article 50.
+50.2
+
+Where in accordance with these Articles any person attends and participates (or wishes or is
+invited to attend and participate in) a meeting via an Electronic Forum or Electronic Forums,
+any of the Board, the chairman and the Secretary may make such arrangements or impose any
+restrictions they or he consider(s) necessary or appropriate to ensure the identification of those
+participating in the meeting via such Electronic Forum and the security of its electronic
+communications. Any such arrangement or restriction must, in the opinion of the Board, the
+chairman or the Secretary (as relevant), be proportionate to achieving the objective of this
+Article 50.
+
+50.3
+
+If and to the extent that a general meeting is held via an Electronic Forum the Board (or, in the
+case of an adjourned meeting, the chairman) may make any arrangement and impose any
+requirement or restriction as is:
+50.3.1
+
+necessary to ensure the identification of those taking part and the security of any
+Electronic Forum; and
+
+50.3.2
+
+proportionate to those objectives.
+
+In this respect, the Company is able to authorise any voting application, system, platform or
+facility for such a meeting as it sees fit.
+50.4
+
+The chairman shall take or give directions for such action to be taken as he considers
+appropriate to promote the orderly conduct of the business of the meeting provided for in the
+notice of meeting.
+
+50.5
+
+Nothing in these Articles limits any right or power that a chairman has in relation to the conduct
+of a general meeting or a poll. Such right and power shall also extend to any such meeting
+held via an Electronic Forum.
+
+51
+
+ATTENDANCE
+
+51.1
+
+Any person who is:
+51.1.1
+
+a Member at the time and date specified in the notice of a general meeting as when
+a person is to be registered as the Holder of a share in order to be entitled to attend
+the meeting as a Member;
+
+51.1.2
+
+a proxy or Corporate Representative validly appointed by any such Member to
+attend the meeting; or
+
+51.1.3
+
+a Director or the Secretary at the commencement of the meeting,
+
+is entitled to attend that general meeting, subject to these Articles and Company Legislation.
+51.2
+
+A Director who attends a general meeting may speak at it.
+
+51.3
+
+Any person;
+51.3.1
+
+who is invited to attend a general meeting by or on the authority of the Board or the
+Secretary; or
+
+51.3.2
+
+whose attendance at the meeting is agreed to in advance by or on the authority of
+the Board or the Secretary; or
+
+51.3.3
+
+whose attendance is agreed to at the meeting by the chairman,
+
+26
+1951762802.4
+1010587836.2
+
+is permitted to attend that general meeting (including, for the avoidance of doubt, via an
+Electronic Forum).
+51.4
+
+Any person permitted to attend a general meeting in accordance with Article 51.3 may speak
+at the meeting if invited to do so by the chairman. Any such permission or invitation may be
+withdrawn by the chairman during the meeting with effect from the time the person concerned
+or the meeting is informed of its withdrawal.
+
+51.5
+
+Nothing in these Articles limits the power that the chairman would otherwise have to require
+any person to leave a general meeting or to give anyone else the power to require any person
+to leave it.
+
+52
+
+CHAIRMAN OF GENERAL MEETING
+
+52.1
+
+The person who is, at the commencement of a general meeting, the chairman of the Board or,
+in his absence, the deputy chairman (if any) will preside as chairman of that general meeting.
+
+52.2
+
+If more than one deputy chairman is present they will agree between themselves who is to take
+the chair. If they do not do so, the one who has been a director the longest will take the chair.
+
+52.3
+
+If there is no chairman or deputy chairman, or if at a meeting neither is present within 5 minutes
+after the time appointed for the start of the meeting, or neither is willing to act, the Directors
+present shall select one of their number to be chairman. If only one Director is present and
+willing to act, such Director (if willing) shall be chairman.
+
+52.4
+
+If no Director is present, or if each Director present declines to take the chair, the persons
+present and entitled to vote shall appoint one of their number to be chairman of the meeting.
+
+52.5
+
+No poll shall be demanded or taken on the appointment of a chairman of a meeting. The
+selection or appointment of a chairman will not be treated as being part of the business of the
+meeting and will not be prevented by the absence of a quorum.
+
+52.6
+
+The decision of the chairman of the meeting as to points of order, matters of procedure or
+arising incidentally out of the business of a general meeting shall be conclusive, as shall be his
+decision, acting in good faith, on whether a point or matter is of this nature.
+
+53
+
+QUORUM
+
+53.1
+
+No business shall be transacted at a general meeting unless a quorum is present when the
+meeting proceeds to business.
+
+53.2
+
+Save as otherwise provided by these Articles, two Members present and entitled to vote at the
+meeting will be a quorum, unless one of the two is a proxy or a Corporate Representative
+appointed by the other or if each of them is a proxy or a Corporate Representative appointed
+by the same Member.
+
+53.3
+
+If within 10 minutes after the time appointed for the holding of the meeting, or such longer time
+not exceeding one hour as the chairman may decide to wait, a quorum is not present, or if
+during the meeting a quorum ceases to be present, the meeting:
+53.3.1
+
+if convened on a Members' request in accordance with Company Legislation, will be
+dissolved; and
+
+53.3.2
+
+in any other case will stand adjourned to such physical place or places (with such,
+if any, satellite meeting place(s)) and/or via any Electronic Forum or Electronic
+Forums, and such time and date (to be at least 10 days afterwards if, for the
+purposes of the Companies Act, the Company is a traded company and the
+adjourned meeting is not a variation of class rights meeting) as the chairman or, in
+default, the Board may decide.
+
+27
+1951762802.4
+1010587836.2
+
+53.4
+
+If a quorum is not present at an adjourned meeting within fifteen minutes after the time
+appointed for holding it, the adjourned meeting will be dissolved.
+
+54
+
+AMENDMENT TO RESOLUTIONS
+
+54.1
+
+No amendment may be made to the text of a special resolution proposed in a notice of general
+meeting, other than an amendment which (in the chairman's view) is required to correct an
+obvious or patent error, before the resolution is voted on.
+
+54.2
+
+No amendment may be made to the text, terms or scope of an ordinary resolution proposed in
+a notice of general meeting before the resolution is voted on unless (subject to Company
+Legislation):
+
+54.3
+
+54.2.1
+
+at least 48 hours (excluding any part of a day that is a non-working day) before the
+time for holding the meeting notice of the amendment and intention to propose it at
+the meeting addressed to the Secretary from a Member entitled to vote on the
+resolution has been received in hard copy form at the Registered Office and the
+amendment does not, in the chairman's view, negate the resolution or extend or
+(other than by reduction) materially alter its scope; or
+
+54.2.2
+
+the chairman decides that the proposed amendment is appropriate for consideration
+by the meeting.
+
+No notice need be given to any Member of any amendment permitted under this Article 54.
+Any such amendment shall be made only if at the meeting a Member present or the chairman
+proposes that the amendment be made and either:
+54.3.1
+
+the chairman moves that the meeting approve the amendment and the meeting then
+votes on it with a simple majority of votes cast being in its favour; or
+
+54.3.2
+
+the chairman asks the meeting whether any Member present and entitled to vote on
+the resolution objects to the amendment and is not then informed by any such
+Member of that Member's objection to it (other than by a Member who withdraws his
+objection) before the amended resolution is first put to the vote.
+
+54.4
+
+A proposed amendment may be withdrawn by the person who proposed it, with the chairman's
+consent, before the resolution is voted on. If a proposed amendment to a resolution is ruled
+out of order or is otherwise rejected by the chairman, any error made by him in doing so will not
+affect the validity of the vote on that resolution.
+
+55
+
+ADJOURNMENTS
+
+55.1
+
+The chairman may, with the consent of any general meeting at which a quorum is present, and
+shall, if so directed by that meeting, adjourn that meeting (whether or not held or partly held via
+any Electronic Forum) to another time on the same date or to any time on another date and:
+55.1.1
+
+(if held or partly held as a physical meeting) at the same or another physical place
+or places and with such, if any, satellite meeting place(s); and/ or
+
+55.1.2
+
+(if held or partly held via an Electronic Forum) the same or any other or additional
+Electronic Forum(s),
+
+as the chairman of the meeting may determine or indefinitely.
+55.2
+
+Where any meeting so adjourned was being held partly as a physical meeting and partly via an
+Electronic Forum, any such adjournment shall extend to all means by which such meeting was
+being held.
+
+28
+1951762802.4
+1010587836.2
+
+55.3
+
+No poll shall be demanded or taken on any proposal for an adjournment, or on any proposal to
+consider or vote on any matters in a different order to that set out in the notice of general
+meeting, except (in any case) at the direction or demand of the chairman, in which event the
+poll shall be taken promptly.
+
+55.4
+
+The chairman may, without the consent of the general meeting, adjourn the meeting after the
+time for which it is convened to be held to another time on the same date or to any time on
+another date at the same or another physical place or places (and with such, if any, satellite
+meeting place(s) or the same or Electronic Forum(s) as the chairman of the meeting may
+determine) or indefinitely if:
+55.4.1
+
+it appears to the chairman that the facilities at the meeting place (including any
+satellite meeting place) and/or any facilities in place to enable participation have
+become inadequate for the purposes referred to in Articles 49 or 50 via an Electronic
+Forum or Electronic Forums.
+
+55.4.2
+
+he decides that it is necessary or appropriate to do so in order to:
+55.4.2.1
+
+secure the proper and orderly conduct of the meeting; or
+
+55.4.2.2
+
+ensure the comfort, safety and wellbeing of persons attending the
+meeting; or
+
+55.4.2.3
+
+give persons entitled to vote on any resolution to be proposed at the
+meeting:
+
+55.4.2.4
+
+55.4.2.3.1
+
+an adequate and reasonable opportunity of attending
+the meeting; or
+
+55.4.2.3.2
+
+a reasonable and proper opportunity to take into account
+any information not disclosed by the Company when it
+gave notice of the meeting that the chairman considers
+is or may be material to their decision on how to vote; or
+
+ensure that the business of the meeting is properly concluded or
+disposed of, including for the purpose of determining the result of a poll.
+
+55.5
+
+When a meeting is adjourned indefinitely, the time and place and/or Electronic Forum(s) for the
+adjourned meeting shall be fixed by the Board.
+
+55.6
+
+Nothing in these Articles limits the powers that the chairman would otherwise have to adjourn
+a general meeting without the consent of that meeting.
+
+56
+
+ADJOURNED MEETINGS
+
+56.1
+
+Subject to any longer period required by Company Legislation, at least seven days' notice of
+an adjourned meeting is to be given in the same manner as originally given for the meeting if
+that meeting is adjourned:
+56.1.1
+
+to another day without the meeting being informed, on or before its adjournment, of
+the time, date and any physical place or places and/or Electronic Forum(s)
+applicable to of the adjourned meeting (including, where applicable, the location(s)
+of any satellite meeting place(s) in respect of, and/or, where applicable, the
+instructions as to how to attend and participate via an Electronic Forum or Electronic
+Forums at such adjourned meeting);
+
+56.1.2
+
+to another day if, after the adjournment, the time, date and/or any physical place or
+places of, and/or Electronic Forum(s) applicable to, the adjourned meeting
+(including, where applicable, the location(s) of any satellite meeting place(s) in
+respect of, and/or, where applicable, the instructions as to how to attend and
+
+29
+1951762802.4
+1010587836.2
+
+participate via an Electronic Forum or Electronic Forums at such adjourned meeting)
+is/are changed; or
+56.1.3
+
+for 30 days or more.
+
+56.2
+
+No person is entitled to any notice of an adjournment in any other circumstances.
+
+56.3
+
+Notice of an adjourned meeting shall state all those matters required to be stated by these
+Articles in a notice of general meeting.
+
+56.4
+
+No business shall be transacted at an adjourned meeting other than the business which might
+properly have been transacted at the meeting from which the adjournment took place.
+SHARE VOTING
+
+57
+
+VOTING RIGHTS
+
+57.1
+
+The Ordinary Shares shall confer on each Holder of Ordinary Shares the right to receive notice
+of and to attend, speak and vote at all general meetings of the Company.
+
+57.2
+
+Subject to any rights or restrictions attaching to any shares and to these Articles, on a vote on
+a resolution on a show of hands:
+57.2.1
+
+each Member present in person has one vote;
+
+57.2.2
+
+every proxy present who has been duly appointed by one or more Members entitled
+to vote on the resolution has (unless Article 57.2.3 applies) one vote; and
+
+57.2.3
+
+a proxy has one vote for and one vote against the resolution if he has been duly
+appointed by more than one Member entitled to vote on the resolution and has been
+instructed (or exercises a discretion given) by one or more of those Members to vote
+for it and by one or more other of those Members to vote against it.
+
+57.3
+
+Subject to any rights or restrictions attaching to any shares, on a vote on a resolution on a poll
+every Member present has one vote for each share of which he is the Holder.
+
+57.4
+
+A Member entitled to more than one vote need not, if he votes, use all his votes or cast all the
+votes he uses in the same way.
+
+57.5
+
+In the case of Joint Holders of shares, the vote tendered by the senior of them present who
+tenders a vote is to be accepted to the exclusion of all votes tendered by the others. In these
+Articles seniority in relation to Joint Holders is determined by the order in which their names
+appear in the Register of Members in respect of the joint holding.
+
+57.6
+
+A Member in respect of whom an order has been made or recognised by any court or official
+with jurisdiction in the United Kingdom in matters concerning mental disorder or incapacity may
+vote through any person authorised to act on his behalf, provided that evidence to the Board's
+satisfaction of that person's authority has been received at an address specified by the
+Company for the receipt of proxy forms in hard copy form for the meeting concerned by the last
+time for their receipt in relation to the meeting or poll. That person may attend, speak and vote
+at the meeting as if he were the Member and may appoint a proxy to do so on his behalf.
+
+57.7
+
+No matter shall be voted on at a general meeting, other than for the appointment of a chairman,
+until it is put to the vote by the chairman.
+
+57.8
+
+No Member shall, unless the Board otherwise decides, vote at any general meeting or at any
+separate meeting of Holders of any class of shares in the Company, either in person or by
+proxy, or exercise any other right or privilege as a Member in respect of any share in the
+
+30
+1951762802.4
+1010587836.2
+
+Company held by him unless all monies presently payable by him in respect of that share have
+been paid.
+58
+
+PROXIES
+
+58.1
+
+A Member who is entitled to attend and vote at a general meeting is entitled to appoint another
+person, or two or more persons in respect of different shares held by him, as his proxy to
+exercise all or any of his rights to attend and to speak and to vote at the meeting. A proxy need
+not be a Member of the Company.
+
+58.2
+
+For the appointment of a proxy to be effective, it must be notified to the Company in writing in
+any usual form or in any other form approved by the Board (whether in hard copy or electronic
+form) and signed or authenticated by the Member or by his attorney (a proxy form). If the
+Member is a company, the proxy form should be sealed by that company or signed by someone
+authorised to sign it. The appointment of a proxy will not preclude a Member from attending,
+voting and speaking at the meeting or voting on a poll. A proxy form shall, unless it provides to
+the contrary, be valid for any adjournment of the meeting to which it relates. A proxy form is to
+be treated (unless the contrary is stated in it) as authorising the proxy to demand or join in
+demanding a poll and to vote on any amendment to a resolution put to, or other business which
+may properly come before, the meeting for which it is given.
+
+58.3
+
+Proxy forms together with any required supporting documents must be received at a physical
+or electronic address, or by such other means, stated by the Company for their receipt (or, if
+no such address or means is specified, at the Registered Office) in respect of the meeting
+concerned:
+58.3.1
+
+not later than 48 hours (excluding any part of a day that is not a working day) before
+the meeting or an adjourned meeting;
+
+58.3.2
+
+not later than 24 hours (excluding any part of a day that is not a working day) before
+a poll is taken, if the poll is taken more than 48 hours after it was demanded; or
+
+58.3.3
+
+before the end of the meeting at which the poll was demanded, if the poll is taken
+after the end of the meeting or adjourned meeting but not more than 48 hours after
+it was demanded,
+
+or, in each case, by such later time as the Board may decide.
+58.4
+
+If a proxy form is signed or authenticated for a Member by another person, the Board may
+require that:
+58.4.1
+
+the power of attorney or other authority relied on to sign it (or a copy which has been
+certified by a notary or in some other way approved by the Board); and
+
+58.4.2
+
+such other reasonable evidence of that person's authority to appoint a proxy on the
+Member's behalf as the Board may specify,
+
+must be received by the relevant time and at an address or by a means referred to in Article
+58.3.
+58.5
+
+If a proxy form is received by the required time, the Member concerned:
+58.5.1
+
+may change the voting instructions in it for the person appointed as proxy; and
+
+58.5.2
+
+may change the number of shares in respect of which that person is appointed as
+proxy,
+
+by delivering an amended proxy form in same way and to the same address as the original
+proxy form by the time 24 hours (excluding any part of a day that is not a working day) before
+
+31
+1951762802.4
+1010587836.2
+
+the time of the meeting or adjourned meeting. The provisions in this Article 58 relating to the
+signature or authentication of a proxy form apply to an amended proxy form.
+58.6
+
+A proxy form which (or in respect of which any other document referred to above in Article 58.3
+or Article 58.4) is not received in a manner and within the time limits set out above in this Article
+58 shall be invalid (unless and to the extent that the Board, in relation to any proxy form, waives
+any such requirement).
+
+58.7
+
+A proxy form will not be valid after 12 months from the date of its receipt, except at an adjourned
+meeting or on a poll demanded at a meeting or an adjourned meeting in cases where the
+meeting was originally held within 12 months from such date.
+
+58.8
+
+If more than one valid proxy form is received in respect of the same share for use at the same
+meeting or poll, the one which is received last (regardless of its date or the date on which it is
+signed) will be treated as the valid form. If it is not possible to determine the order of receipt,
+none of them will be treated as valid. Proxy forms submitted by a Member that would give
+different persons the apparent right to exercise votes over more shares than are held by him
+will be invalid. None of those persons will be entitled to attend, speak or vote at the relevant
+meeting as proxy for him. The proceedings at a general meeting will not be invalidated if, as a
+result of technical difficulties existing after the last time for the receipt of proxy forms, a proxy
+form sent in electronic form cannot be read by the person authorised to read it on the
+Company's behalf when he attempts to do so. The accidental omission to give notice of any
+meeting or to send an instrument of proxy (where this is intended to be sent out with the notice)
+to, or the non-receipt of either by, any person entitled to receive the same shall not invalidate
+the proceedings of that meeting.
+
+58.9
+
+In relation to an uncertificated share, the Board may allow a proxy to be appointed by electronic
+means and/or by means of a website in the form of a properly authenticated dematerialised
+instruction, and/or other instruction or notification, which is sent by a relevant system to the
+participant in that system acting on behalf of the Company (Uncertificated Proxy Instruction).
+The Uncertificated Proxy Instruction must be in such form and subject to such terms as the
+Board requires. The Board may allow any variation or revocation of any Uncertificated Proxy
+Instruction to be made by a further Uncertificated Proxy Instruction. The Board may treat any
+Uncertificated Proxy Instruction which purports to be or is expressed to be sent on behalf of a
+Holder of a share as sufficient evidence of the authority of the person sending that instruction
+to send it on behalf of that Holder.
+
+58.10
+
+Subject to Company Legislation, a Corporate Representative of a Member is entitled to exercise
+on behalf of that appointing Member the same powers as that Member could exercise if it were
+an individual member of the Company. The Company is not obliged to check whether any
+proxy or Corporate Representative has voted or demanded a poll in accordance with his
+appointor's instructions. The Board may however require evidence of the authority of any
+person purporting to act as a Corporate Representative of a Member. A vote given or poll
+demanded by a proxy or a Corporate Representative will be valid notwithstanding that person
+did not act in accordance with the instructions given to him. Such a vote or demand will also
+be valid notwithstanding that that person's authority to act as such had been terminated, unless
+written notice of the termination was received by the Company at the Registered Office, or at
+such other place or address specified by the Company for receipt of proxy forms, by the time
+24 hours before the time of the meeting or adjourned meeting or poll concerned.
+
+59
+
+TAKING A VOTE
+
+59.1
+
+A vote on a resolution that is put to a general meeting at which the Board has determined that
+persons shall be entitled to attend and participate (including to vote) via an Electronic Forum or
+Electronic Forums in accordance with these Articles shall, unless the chairman directs that it
+shall be decided on a show of hands, be decided on a poll.
+
+59.2
+
+A vote on a resolution that is put to a general meeting at which persons are not entitled to attend
+and participate (including to vote) via an Electronic Forum or Electronic Forums, or in relation
+to which the chairman has directed in accordance with Article 59.1 that resolutions shall be
+
+32
+1951762802.4
+1010587836.2
+
+decided on a show of hands, is to be taken and decided on a show of hands, unless a poll is
+demanded in accordance with these Articles. A poll can be demanded:
+59.2.1
+
+whether before or after the resolution has been put to the vote on a show of hands,
+by the chairman; or
+
+59.2.2
+
+before or immediately after the declaration of the result of the show of hands by:
+59.2.2.1
+
+at least five Members present having the right to vote on the resolution;
+or
+
+59.2.2.2
+
+a Member or Members present representing not less than one-tenth of
+the total voting rights of all the Members having the right to vote on the
+resolution; or
+
+59.2.2.3
+
+a Member or Members present holding shares conferring a right to vote
+on the resolution on which an aggregate sum has been paid up equal
+to not less than one-tenth of the total sum paid up on all the shares
+conferring that right.
+
+59.3
+
+Unless a poll is so demanded and the demand is not withdrawn, a declaration by the chairman
+that a resolution has or has not been passed or has been passed with a particular majority is
+conclusive evidence of that fact without proof of the number or proportion of the votes recorded
+in favour of or against such resolution.
+
+59.4
+
+A demand for a poll may be withdrawn before the poll is taken, but only with the consent of the
+chairman. Its withdrawal will not invalidate the result of a show of hands declared before the
+demand was made.
+
+60
+
+POLLS
+
+60.1
+
+The chairman shall direct where and when any poll on any matter is to be taken. Subject to his
+directions, that poll can be taken at the meeting (without an adjournment) or after the meeting
+or at an adjourned meeting and shall be taken within 21 days from the date of the demand.
+
+60.2
+
+The chairman may direct the manner in which a poll is to be taken (which may, if so directed,
+be wholly or partly via one or more Electronic Forums) and may appoint scrutineers. The
+scrutineers need not be Members. No notice need be given of a poll not taken at the meeting
+(before any adjournment to another date) at which it is demanded if the time and physical place
+or places (and where relevant, any satellite meeting place(s)) at which, and/or Electronic Forum
+or Electronic Forums via which, it is to be taken are announced to the meeting. In any other
+case, at least seven days' notice is to be given specifying the time and physical place or places
+(including any satellite meeting place(s)) at which, and/or Electronic Forum or Electronic
+Forums via which, the poll is to be taken. The result of the poll is to be treated as the resolution
+of the meeting at which it was demanded.
+
+60.3
+
+The demand for a poll, except on a proposed adjournment, will not prevent the meeting from
+transacting business on matters other than that on which a poll has been demanded.
+
+61
+
+OBJECTION TO VOTING ERRORS
+Any objection to the qualification of any person voting or to the counting of, or failure to count,
+any vote must be made at the meeting or (if not taken at the meeting) poll at which the vote
+objected to is given or at which the error occurs. Any objection or error shall be referred to the
+chairman. His decision on the matter will be final and conclusive. If a vote is allowed at a
+meeting or poll, it will be valid for all purposes. Any decision not to count a vote at a meeting
+or a poll will not affect the decision of the meeting or poll.
+
+33
+1951762802.4
+1010587836.2
+
+62
+
+DEFAULT IN DISCLOSING SHARE INTERESTS
+
+62.1
+
+Where a section 793 notice is given by the Company to a Member, or another person appearing
+to be interested in shares held by a Member, and the Member or other person has failed in
+relation to any shares (default shares, which expression applies also to any shares issued
+after the date of the section 793 notice in respect of those shares and to such other shares as
+the Board may decide which are first registered in the Member's name on or after that date) to
+give the Company the information required by such notice within 14 days after the date on
+which the section 793 notice was sent to the person concerned, unless the Board otherwise
+decides:
+
+62.2
+
+62.3
+
+62.1.1
+
+the Member is not entitled in respect of the default shares to be present or to vote
+at a general meeting or on a poll, or to exercise any other rights conferred by
+membership in relation to the meeting or poll; and
+
+62.1.2
+
+where the default shares represent at least 0.25% of the issued shares of their class:
+a dividend (or any part of a dividend) or other distribution or amount
+payable in respect of the default shares (except on a winding up) may
+be withheld by the Company, which shall have no obligation to pay
+interest on it;
+
+62.1.2.2
+
+the Member is not entitled to elect to receive shares instead of a
+dividend; and
+
+62.1.2.3
+
+the Board may refuse to register the transfer of any default shares
+unless:
+62.1.2.3.1
+
+the transfer is an exempt transfer; or
+
+62.1.2.3.2
+
+the Member is not himself in default in supplying the
+information required and proves to the satisfaction of the
+Board that no person in default of supplying the
+information required is interested in any shares which
+are the subject of the transfer.
+
+The sanctions under the previous paragraph will cease to apply seven days after the earlier of:
+62.2.1
+
+receipt by the Company of notice of an exempt transfer, but only in relation to the
+shares transferred; and
+
+62.2.2
+
+receipt by the Company, in a form satisfactory to the Board, of all the information
+required by the section 793 notice.
+
+The Board may:
+62.3.1
+
+62.3.2
+62.4
+
+62.1.2.1
+
+give notice to any Member holding default shares requiring the Member:
+62.3.1.1
+
+if the default shares are in uncertificated form, to have them converted
+into certificated form within a specified period; and/or
+
+62.3.1.2
+
+to hold such default shares in certificated form for so long as the default
+subsists; and
+
+appoint any person to take any steps in the name of any Holder of default shares to
+have them converted into certificated form.
+
+This Article 62 does not restrict the Company's powers under Company Legislation in respect
+of any matter.
+
+34
+1951762802.4
+1010587836.2
+
+62.5
+
+For the purpose of this Article 62:
+62.5.1
+
+exempt transfer means a transfer of shares by a Member which is shown to the
+Board's satisfaction to be made to a third party unconnected with that Member or
+with any other person appearing to be interested in the shares and made pursuant
+to:
+62.5.1.1
+
+an acceptance of a takeover offer (as defined in Part 28 of the
+Companies Act);
+
+62.5.1.2
+
+a sale through a recognised investment exchange (as defined in the
+Financial Services and Markets Act 2000) or any other securities
+investment exchange outside the United Kingdom on which (in either
+case) such shares have been admitted to trading on the Company's
+application; or
+
+62.5.1.3
+
+a sale of the whole of the beneficial interest in the shares;
+
+62.5.2
+
+interested has the meaning that it has in Part 22 of the Companies Act;
+
+62.5.3
+
+a person, other than the Member holding a share, is to be treated as appearing to
+be interested in such share if the Member has informed the Company that the
+person is or may be so interested, or any associate of that person (associate having
+the meaning given to it in the Insolvency Act 1986) is or may be so interested, or if
+the Company (after taking account of information obtained from the Member or,
+pursuant to a section 793 notice, from anyone else) knows or has reasonable cause
+to believe that the person or any associate of that person is or may be so interested;
+and
+
+62.5.4
+
+reference to a person having failed to give to the Company information required by
+a section 793 notice, or being in default of supplying such information, includes
+references to his having:
+62.5.4.1
+
+failed or refused to give all or any part of such information; and
+
+62.5.4.2
+
+given information which he knows to be false in a material particular or
+recklessly given information which is false in a material particular.
+CLASS RIGHTS
+
+63
+
+DEFERRED SHARES
+
+63.1
+
+The Deferred Shares shall be a separate class of shares from the Ordinary Shares and the
+Deferred Shares:
+63.1.1
+
+will only be transferrable with the Board's consent and not admitted to trading on
+any exchange including, but not limited to, any recognised investment exchange;
+
+63.1.2
+
+will not entitle any Holder to receive any dividend or distribution;
+
+63.1.3
+
+will not entitle the Holders thereof to any certificate or other document of title in
+respect thereof;
+
+63.1.4
+
+will entitle the Holders thereof on any return of capital once the Holders of Ordinary
+Shares have first received a return on capital of £1,000,000 in respect of each
+Ordinary Share held by them;
+
+63.1.5
+
+may be redeemed by the Company at any time at its option for one penny for all the
+Deferred Shares registered in the name of any Holder without obtaining the sanction
+
+35
+1951762802.4
+1010587836.2
+
+of the Holder or Holders, and may be bought back or otherwise purchased by the
+Company, in accordance with the provisions of the Companies Act 2006, for an
+aggregate consideration of one penny for all of the Deferred Shares so purchased,
+without obtaining the sanction of the Holder or Holders; and
+63.1.6
+
+will not entitle the Holders thereof to receive notice of, attend, to speak or to vote at
+any general meeting of the Company.
+
+63.2
+
+The creation or issue of Deferred Shares shall be deemed to confer irrevocable authority on
+the Directors at any time after their creation or issue to appoint any person to execute or give
+on behalf of the Holders of those shares a transfer of them to such person or persons as the
+Company may lawfully determine in its complete discretion.
+
+64
+
+VARIATION
+
+64.1
+
+Whenever the share capital of the Company is divided into different classes, the rights attached
+to any class of shares may only be varied with the consent in writing of the Holders of not less
+than three-quarters in nominal value of the issued shares of the class or with the sanction of a
+special resolution passed at a separate meeting of the Holders of shares of the class.
+
+64.2
+
+Subject to Article 64.3 below, the rights attached to any class of shares will be treated as varied
+(unless otherwise expressly provided in the terms of issue of the shares concerned) by:
+64.2.1
+
+the reduction of the capital paid up on that share class otherwise than by a lawful
+purchase or redemption by the Company of its own shares; and
+
+64.2.2
+
+the allotment or issue of new shares:
+64.2.2.1
+
+ranking in priority for payment of a dividend or in respect of capital; or
+
+64.2.2.2
+
+which confer on its Holders voting rights that are more favourable than
+those conferred by that class of shares.
+
+64.3
+
+The rights attached to any class of shares will not be treated as varied (unless otherwise
+expressly provided in the terms conferring such rights) by the allotment or issue of new shares
+ranking equally with, or subsequent to, that class of shares or by the lawful purchase or
+redemption by the Company of its own shares of any class.
+
+65
+
+CLASS MEETINGS
+
+65.1
+
+The provisions of these Articles as to general meetings apply to any separate general meeting
+of the Holders of shares of a class (class meeting), subject to any necessary modifications in
+accordance with Company Legislation or these Articles.
+
+65.2
+
+No Member, other than a Director, is entitled to notice of a class meeting or to attend it unless
+he is a Holder of shares of the class concerned. No vote may be given except in respect of a
+share of that class.
+
+65.3
+
+For a class meeting in connection with the variation of rights attached to that class (variation
+of class rights meeting):
+65.3.1
+
+the quorum (unless an adjourned meeting) is two persons present holding
+collectively at least one-third in nominal value of the issued shares of that class;
+
+65.3.2
+
+the quorum for an adjourned meeting is one person present holding shares of that
+class;
+
+65.3.3
+
+a person present by proxy or proxies is treated as holding only the shares in respect
+of which those proxies are authorised to exercise voting rights; and
+
+36
+1951762802.4
+1010587836.2
+
+65.3.4
+65.4
+
+a poll may be demanded by any Holder of the shares of that class present.
+
+For the purpose of these Articles, a general meeting which is not a variation of class rights
+meeting and at which no Holder of a share other than an Ordinary Share may, in his capacity
+as a Member, attend or vote constitutes a separate general meeting of the Holders of the
+Ordinary Shares.
+
+DIVIDENDS AND OTHER DISTRIBUTIONS
+66
+
+DIVIDEND RIGHTS
+
+66.1
+
+Except as provided by these Articles or the rights attached to shares, a dividend on any shares
+is to be declared and paid according to the amounts paid up (otherwise than in advance of calls)
+on their nominal value during any period for which it is paid.
+
+66.2
+
+Any share may be issued on terms that it will rank for dividend as if it were fully paid, or partly
+paid up, from a particular date and, if so, it will rank for dividend on this basis.
+
+66.3
+
+Except as provided by these Articles or the rights attached to shares:
+66.3.1
+
+a dividend may be paid in any currency or currencies decided by the Board; and
+
+66.3.2
+
+the Company may agree with a Member that any dividend declared or which may
+become due in one currency will be paid to him in another currency,
+
+for which purpose the Board may decide the basis of conversion for any currency conversions
+and how any costs involved are to be met.
+66.4
+
+The Company may pay a dividend on shares in proportion to the amount paid up on them where
+a larger amount is paid up on some than on others.
+
+67
+
+DECLARED, INTERIM AND FIXED DIVIDENDS
+
+67.1
+
+The Company may by ordinary resolution declare a dividend in accordance with the respective
+rights of Members. A dividend must not be declared unless the Board has made a
+recommendation as to its amount. No such dividend may exceed the amount recommended
+by the Board.
+
+67.2
+
+Subject to Company Legislation, the Board may resolve that the Company pay an interim
+dividend on any shares and may resolve that the Company pay any dividend payable on any
+shares at a fixed rate at intervals settled by the Board.
+
+67.3
+
+If the Company's share capital is divided into different classes, no interim dividend may be paid
+on shares carrying deferred or non-preferred rights if, at the time of payment, any preferential
+dividend is in arrears. If the Directors act in good faith, they shall not incur any liability to the
+Holders of shares conferring preferred rights for any loss they may suffer in consequence of
+the payment of an interim dividend on any shares having non-preferred or deferred rights.
+
+68
+
+PAYMENT
+
+68.1
+
+Subject to the provisions of Article 68.6, the Company may pay a dividend, interest or other
+amount payable in cash in respect of a share:
+68.1.1
+
+by cheque, warrant or money order made payable to the order of the Holder or to
+such other person or persons as the Holder may notify to the Company in writing or
+in such other manner as the Board may decide; or
+
+37
+1951762802.4
+1010587836.2
+
+68.1.2
+
+by a bank, building society or other funds transfer system or by such other electronic
+means (including, in the case of an uncertificated share, through the CREST System)
+to such account as the Holder may notify to the Company in writing or in such other
+manner as the Board may decide; or
+
+68.1.3
+
+by such other means in accordance with any authority given to the Company to do
+so by or on behalf of the Holder in a form or in a manner satisfactory to the Board.
+
+68.2
+
+The payment of a cheque, warrant or money order, and the making of a payment through a
+bank, building society or other funds transfer system or by such other electronic means
+(including, in the case of an uncertificated share, through the CREST System) or by other
+means permitted by Article 68.1.3, will be a good discharge to the Company. Payment of any
+dividend or other sum in accordance with this Article 68 is made at the risk of the Holder. The
+Company will not be responsible for amounts lost or delayed in the course of transfer.
+
+68.3
+
+Any Joint Holder or other person jointly entitled to a share may give an effective receipt for a
+dividend, interest or other amount paid in respect of such share.
+
+68.4
+
+The Board may deduct from any dividend or other amounts payable to any person in respect
+of a share the amount of any sum owed by him to the Company in respect of any shares. The
+Company can apply the deducted amount to pay the sum owed to it.
+
+68.5
+
+No dividend or other money payable in respect of a share will bear interest against the Company,
+unless otherwise provided by the rights attached to the share.
+
+68.6
+
+In respect of the payment of any dividend or other distribution in cash in respect of shares, the
+Board may decide, and notify the Holders, that:
+68.6.1
+
+one or more of the means described in Article 68.1 will be used for the payment and
+a Holder may elect to receive payment by one of the means so notified in the manner
+prescribed by the Board;
+
+68.6.2
+
+one or more of the means described in Article 68.1 will be used for the payment
+unless a Holder elects otherwise in the manner prescribed by the Board; or
+
+68.6.3
+
+one or more of the means described in Article 68.1 will be used for the payment and
+that Holders will not be able to elect otherwise.
+
+The Board may for this purpose decide that different methods of payment may apply to different
+Holders or groups of Holders.
+68.7
+
+In the event that:
+68.7.1
+
+a Holder does not specify an address, or does not specify an account of a type
+prescribed by the Board, or other details necessary in order to make a payment of
+a dividend or other distribution by the means by which the Board has decided in
+accordance with this Article 68 that a payment is to be made, or by which the Holder
+has elected to receive payment, and such address or details are necessary in order
+for the Company to make the relevant payment in accordance with such decision or
+election; or
+
+68.7.2
+
+if payment cannot be made by the Company using the details provided by the Holder,
+
+then the dividend or other distribution shall be treated as unclaimed for the purposes of these
+Articles.
+
+38
+1951762802.4
+1010587836.2
+
+69
+
+UNCLAIMED DIVIDENDS ETC
+
+69.1
+
+Any unclaimed dividend, interest or other amount payable by the Company in respect of a share
+shall be considered Dormant Share Proceeds if and provided that:
+69.1.1
+
+for a period of not less than 12 years before the sending of the notice referred to in
+Article 69.1.3 below, at least one of the following has applied:
+69.1.1.1
+
+on three consecutive occasions notices or other documents have been
+sent in hard copy form through the post to any member at their
+registered address or their address for service of notices or in such
+other manner as may from time to time be permitted for the sending of
+notices by the Company to its members but have been returned
+undelivered or returned to the Company or in respect of which the
+directors (acting in their absolute discretion) otherwise regard delivery
+as having failed; or
+
+69.1.1.2
+
+at least three dividends in respect of the share(s) in question (or any
+share(s) from which those shares have been derived) have become
+payable and no dividend in respect of those share(s) has been claimed
+and no cheque or warrant or any similar financial instrument payable
+on the share(s) has been presented by the Holder of, or the person
+entitled by transmission to, the share(s) to the paying bank of the
+relevant cheque, warrant or financial instrument or no payment made
+by the Company by any other means permitted has been claimed or
+accepted;
+
+69.1.2
+
+prior to the sending of the notice referred to in Article 69.1.3, the Company has used
+such efforts (if any) as the Directors consider reasonable to trace the member or
+person entitled, including engaging, if considered appropriate, a professional asset
+reunification company;
+
+69.1.3
+
+following the expiry of the 12-year period referred to in Article 69.1.1 and the efforts
+to trace the member or person entitled referred to in Article 69.1.2, the Company
+has sent a notice:
+69.1.3.1
+
+in hard copy form to the last known physical address the Company has
+for the relevant member or person entitled;
+
+69.1.3.2
+
+in electronic form to the last known email address that the Company
+has for the relevant Holder; or
+
+69.1.3.3
+
+in the event that the directors consider it more likely to result in a
+response from a member, in such other format as the directors shall in
+their absolute discretion decide, including but not limited to placing an
+advert in a newspaper or on a website,
+
+stating that the unclaimed dividend, interest or other amount will be treated as
+Dormant Share Proceeds at the expiry of the period of three months following the
+sending of the notice; and
+69.1.4
+
+69.2
+
+during the 12-year period referred to in Article 69.1.1 and the period of three months
+following the sending of the notice referred to in Article 69.1.3, the Company has
+received no communication from or on behalf of such member or person entitled.
+
+The Company shall deal with Dormant Share Proceeds as follows:
+69.2.1
+
+the Dormant Share Proceeds shall belong to the Company. No trust shall be created
+in respect of the net proceeds, which may be employed in the business of the
+
+39
+1951762802.4
+1010587836.2
+
+Company or invested in such investments (other than shares of the Company or its
+holding company if any) as the Directors may from time to time think fit;
+
+70
+
+69.2.2
+
+subject to Articles 69.2.4 and 69.2.5, the Company shall be obliged to account to
+the member or other person entitled as aforesaid for an amount equal to the
+Dormant Share Proceeds at the time they were due (adjusted to deduct any fees
+and charges payable, including costs incurred under this Article 69) and shall enter
+the name of such member or other person in the books of the Company as a creditor
+for such amount. No interest shall be payable in respect of the same and the
+Company shall not be required to account for any money earned on the Dormant
+Share Proceeds;
+
+69.2.3
+
+subject to Articles 69.2.4 and 69.2.5, the member or other person entitled as
+aforesaid shall be entitled to reclaim the cash sum identified in Article 69.2.2 from
+the Company in perpetuity. Such claim may be made in any form approved by the
+Directors and shall be supported by such evidence as the Directors may require;
+
+69.2.4
+
+subject to being permitted to do so at law, the Directors may elect at any time to
+transfer the Dormant Share Proceeds, adjusted to deduct any fees and charges
+payable, including costs incurred under this Article 69 (or such part of the Dormant
+Share Proceeds as can be lawfully transferred under the Dormant Assets Scheme)
+to a Reclaim Fund. Upon such transfer, the Company shall be discharged from any
+liability under Article 69.2.3 and the entitlement of the member or other person
+previously entitled to reclaim a cash sum from the Company shall be replaced with
+a right to reclaim in accordance with the terms of the Dormant Assets Scheme; and
+
+69.2.5
+
+at any time after the expiry of the 12-month period after sending the notice referred
+to in Article 69.1.3, and so long as no claim is pending against the Company under
+Article 69.1.3, the Directors may determine in their absolute discretion that the
+Dormant Share Proceeds cannot be lawfully transferred to a Reclaim Fund under
+the Dormant Assets Scheme. Upon such determination, the Dormant Share
+Proceeds shall be forfeited and will belong to the Company and the Company will
+not be liable in any respect to the member or other person who may or would have
+been entitled to the Dormant Share Proceeds, and the Company may use the
+Dormant Share Proceeds for any purpose as the Directors may decide.
+
+DIVIDENDS IN KIND
+A general meeting declaring a dividend may, on the recommendation of the Board, direct that
+it is to be satisfied by the distribution of assets (including paid up shares or securities of any
+other body corporate). The Board may direct that any interim dividend be satisfied wholly or
+partly by the distribution of assets on the same basis. Where any difficulty arises concerning a
+distribution, the Board may settle it as it considers appropriate.
+
+71
+
+SCRIP DIVIDENDS
+
+71.1
+
+The Board may, with the authority of an ordinary resolution, offer any Holders of Ordinary
+Shares the right to elect to receive fully paid Ordinary Shares instead of cash in respect of all
+or part of any dividend to which that resolution applies (scrip dividend offer).
+
+71.2
+
+A Holder of Ordinary Shares who makes a valid election under a scrip dividend offer will be
+entitled to receive new Ordinary Shares with a market value that is as near as possible to the
+amount of the cash dividend that is the subject of his election (disregarding any tax credit), but
+no more than it. For this purpose, the "market value" of a new Ordinary Share is the average
+of its middle market quotations as derived from such source as the Board considers appropriate
+for five consecutive dealing days chosen by the Board commencing on or after the day on which
+Ordinary Shares are first quoted "ex" the relevant dividend, unless it is to be determined
+differently in accordance with the ordinary resolution authorising the scrip dividend offer. The
+Auditor's written confirmation or report as to the amount of the market value will be conclusive
+
+40
+1951762802.4
+1010587836.2
+
+evidence of that value. In giving such confirmation or report, the Auditor may rely on advice or
+information from any source that it considers appropriate.
+71.3
+
+A scrip dividend offer will be made on such terms as the Board decides, subject to this Article
+71 and to the authorising resolution. The Board may exclude from the offer any Holders where
+the Board considers that the making of the offer to them would or might involve the
+contravention of any law or that for any other reason the offer should not be made to them. The
+accidental omission or failure to send any notice informing a Holder of his right to make an
+election under a scrip dividend offer, or the non-receipt of any such notice (even if the Company
+becomes aware of such non-receipt), will not invalidate the offer or give rise to any claim, suit
+or action against the Company or anyone acting on its behalf.
+
+71.4
+
+The Board may capitalise out of any amount standing to the credit of any reserve or fund of the
+Company (including retained earnings) a sum equal to the aggregate nominal amount of any
+new Ordinary Shares referred to above in Articles 71.1 to 71.3 and apply it in paying up in full
+those shares for allotment pursuant to any elections referred to above in this Article. Such new
+Ordinary Shares will rank equally with the fully paid Ordinary Shares in issue on the record date
+for the dividend to which such elections relate, except that they will not carry any right to
+participate in the dividend.
+
+71.5
+
+The Board may do all acts and things which it considers necessary or expedient to give effect
+to any capitalisation referred to above in this Article and may authorise any person on behalf of
+all electing Members to enter into an agreement with the Company providing for such
+capitalisation and incidental matters and any agreement so made will be binding on all
+concerned.
+
+72
+
+CAPITALISATION ISSUES
+
+72.1
+
+The Board may, with the authority of an ordinary resolution:
+
+72.2
+
+72.3
+
+72.1.1
+
+resolve to capitalise any sum standing to the credit of any reserve or fund of the
+Company (including retained earnings);
+
+72.1.2
+
+appropriate that sum as capital to the Holders on a record date selected by the
+Board in proportion (as nearly as may be) to their holdings or in such other
+proportions as stated, or fixed as stated, in the ordinary resolution;
+
+72.1.3
+
+apply that sum in paying up in full and allotting new Ordinary Shares to those
+Holders or as they may direct; and
+
+72.1.4
+
+allot new Ordinary Shares to the Company, if it holds Ordinary Shares as treasury
+shares on the record date, on the same basis as to other Holders.
+
+In relation to any allotments for the purposes of the previous paragraph the Board may:
+72.2.1
+
+provide for fractions of new Ordinary Shares or disregard them, as it decides; and
+
+72.2.2
+
+authorise any person to enter on behalf of all the Holders concerned into an
+agreement with the Company to give effect to allotments of new shares in
+accordance with this Article 72 (which, when entered into, will be binding on all of
+them by operation of this Article 72); and
+
+72.2.3
+
+generally do all acts and things required or expedient to give effect to such resolution.
+
+The Board may, with the authority of an ordinary resolution, capitalise and appropriate and
+apply any sum standing to the credit of any reserve or fund of the Company and take other
+actions permitted under the previous provisions of this Article 72, in all cases on the basis as
+set out in them, for the purpose of allotting shares of another class fully paid or debentures
+partly or fully paid or shares of any class partly paid (or to allot any combination of them) to the
+Holders of Ordinary Shares. For the purposes of this paragraph, the share premium account,
+
+41
+1951762802.4
+1010587836.2
+
+the capital redemption reserve, the merger reserve and any reserve or fund representing
+unrealised profits may only be applied in paying up new shares that are to be allotted fully paid.
+72.4
+
+So long as any issued Ordinary Shares in respect of which new Ordinary Shares are allotted
+under this Article 72 are partly paid, the new shares will rank for dividend only to the same
+extent as those issued Ordinary Shares.
+RECORD DATES
+
+73
+
+BOARD TO FIX DATE
+
+73.1
+
+The Company or the Board may fix a time on a particular date as the record date for entitlement
+to any dividend, distribution, allotment or issue or for determining to whom any notice,
+information, document or circular is to be given or for any other matter for which a record date
+is appropriate.
+
+73.2
+
+Any notice or other document to be given to a Member may be given by reference to the
+Register of Members as it stands at a time within the period of 21 days before the day that the
+notice is given. No change in the Register of Members after that time will invalidate the giving
+of such notice or document or require the Company to give such item to any other person.
+
+73.3
+
+Subject to Company Legislation, the notice of a general meeting may specify a time by which
+a person must be entered on the Register of Members in order for such person to have the
+right to attend or vote at it.
+COMMUNICATIONS
+
+74
+
+NOTICES TO BE IN WRITING
+Any notice to be given to or by any person pursuant to these Articles shall be in writing, unless
+otherwise provided elsewhere in these Articles, except that a notice calling a meeting of the
+Board need not be in writing.
+
+75
+
+COMMUNICATIONS TO MEMBERS
+
+75.1
+
+Subject to the Companies Act and unless otherwise provided for in these Articles, the Company
+may send or supply any document or information that is required or authorised by Company
+Legislation or pursuant to these Articles to be sent or supplied by it to a Member or a person
+entitled by transmission in such form and by such means as the Board may decide.
+
+75.2
+
+The Company may send or supply documents or information to any Member by making them
+available on a website, provided that the Member is taken to have agreed to this in accordance
+with the Companies Act.
+
+75.3
+
+The Company may choose at its sole discretion to send any document or information in hard
+copy form alone to some or all Members.
+
+76
+
+COMMUNICATIONS FROM MEMBERS
+Unless otherwise provided for in these Articles, whether a document or information sent or
+supplied to the Company by or on behalf of any Member or any person entitled by transmission
+is validly sent or supplied is to be determined in accordance with the Companies Act and,
+subject to the Companies Act, any terms imposed by the Board for its sending or supply to the
+Company.
+
+77
+
+AUTHENTICATION
+
+77.1
+
+Any document or information sent or supplied in electronic form to the Company by or on behalf
+of a Member or a person entitled by transmission that is required to be authenticated will be
+
+42
+1951762802.4
+1010587836.2
+
+sufficiently authenticated if it is treated as such under the Companies Act or is authenticated
+on any other basis approved by the Board. Any document or information not so authenticated
+will be deemed not to have been received by the Company.
+77.2
+
+The Company may require such evidence as the Board considers to be reasonable of any
+person's authority to send or supply any document or information to the Company on the behalf
+of someone else who is a Member or a person entitled by transmission.
+
+78
+
+JOINT HOLDERS
+In the case of Joint Holders:
+
+78.1
+
+any document or information which is authorised or required to be sent or supplied by the
+Company to them as Joint Holders may be sent or supplied to any one of them to the exclusion
+of all the others;
+
+78.2
+
+anything to be agreed or specified (including any election or notification to be made to the
+Company) in relation to any document or information to be sent or supplied by the Company to
+them as Joint Holders may be agreed or specified by any one of them;
+
+78.3
+
+the agreement or specification of the senior Joint Holder in relation to any such document or
+information shall be accepted to the exclusion of that of any of the others; and
+
+78.4
+
+the Company is not required to send or supply any document or information to them as Joint
+Holders if none of them has a registered address in the United Kingdom and none of them has
+supplied a postal address in the United Kingdom to the Company for sending or supplying
+documents and information to him.
+This Article 78 has effect in place of the company communications provisions (as defined in
+section 1143 of the Companies Act) relating to joint holders of shares.
+
+79
+
+MEMBERS OUTSIDE THE UNITED KINGDOM
+
+79.1
+
+Any Member with a registered address outside the United Kingdom who gives to the Company,
+for sending and supplying documents and information to him, a postal address in the United
+Kingdom or an address for the purposes of communications by electronic means is entitled to
+have documents or information sent or supplied by the Company to him at that address or,
+where applicable, by the Company making them available on a website and notifying him at
+that address of their availability.
+
+79.2
+
+Except as provided in Article 79.1, the Company is not required to send or supply documents
+or information to a Member with a registered address outside the United Kingdom.
+
+80
+
+DEEMED RECEIPT
+
+80.1
+
+Any document or information sent or supplied by or on behalf of the Company:
+80.1.1
+
+by post (whether in hard copy or electronic form) is deemed to have been received
+by the intended recipient 24 hours after it was posted first class or (as applicable)
+48 hours after it was posted second class (provided that the Company is able to
+show that it was properly addressed, pre-paid and posted);
+
+80.1.2
+
+in hard copy form by leaving it (other than through the post) at the intended
+recipient's registered address or a postal address in the United Kingdom notified by
+him to the Company for the sending or supply of documents and information is
+deemed to have been received when it was left;
+
+43
+1951762802.4
+1010587836.2
+
+80.1.3
+
+by electronic means is deemed to have been received by the intended recipient on
+the day it was sent (provided that the Company is able to show that it was properly
+addressed);
+
+80.1.4
+
+by means of a website is deemed to have been received on the day the material
+was first made available on the website or, if later, when the recipient received (or
+is deemed to have received) notice of its availability on the Company's website; and
+
+80.1.5
+
+by any other means authorised in writing by the intended recipient is deemed to
+have been received when the Company has carried out the action that it has been
+authorised to take for that purpose.
+
+80.2
+
+Any accidental failure on the part of the Company to send, or the non-receipt by any person
+entitled to, any document or information relating to any meeting or other proceeding will not
+invalidate the relevant meeting or proceeding.
+
+80.3
+
+A Member present in person or by proxy at any general or class meeting of the Company is
+deemed to have received notice of the meeting and of the purposes for which the meeting was
+called.
+
+80.4
+
+For the purposes of calculating the time when any document or information sent or supplied by
+the Company is deemed to have been received by the intended recipient for the purposes of
+these Articles (regardless of whether the period is expressed in hours or days) full account shall
+be taken of any day, and any part of a day, that is not a working day.
+
+81
+
+DOCUMENTS RETURNED UNDELIVERED
+If the Company sends more than one document to a Member during any 24 month period and
+each document that it sends to him in that period is returned undelivered or unopened or
+marked "return to sender" or with other words or in any other manner that indicates that the
+document has not been received or accepted by the person to whom it (or any envelope or
+package in which it was contained) was addressed, the Company will not be required to send
+or supply documents or information to him until he gives a new address to the Company for
+sending and supplying documents and information to him. A document sent in electronic form
+is to be treated as returned undelivered if the sender receives notification that it was not
+delivered to the address to which it was sent.
+
+82
+
+NOTICES BY ADVERTISEMENT
+If as a result of the suspension or curtailment of postal services in any part of the United
+Kingdom or for any other reason outside the Company's control it is unable to give notice by
+post of a general meeting to each person entitled to receive it in hard copy form at a postal
+address in the United Kingdom, the Company:
+
+82.1
+
+need only give notice of a general meeting to the Directors, the Auditor, those Members with
+whom the Company can give notice by electronic means and those Members to whom notice
+to convene the general meeting can be validly sent by means of a website and to whom
+notification as to the availability of the notice of meeting on a website can be validly sent by
+electronic means;
+
+82.2
+
+shall advertise the notice in a leading daily newspaper widely circulated in hard copy form in
+the United Kingdom;
+
+82.3
+
+shall state in that advertisement that the notice will be available on its website until the
+conclusion of the meeting; and
+
+82.4
+
+shall send confirmatory copies of the notice by post to those Members who would otherwise
+have been entitled to receive it in hard copy form if, at least seven days before the meeting, the
+posting of notices to addresses throughout the United Kingdom again becomes practicable.
+
+44
+1951762802.4
+1010587836.2
+
+UNTRACED MEMBERS
+83
+
+DORMANT SHARES
+
+83.1
+
+The shares of a member or the shares to which a person is entitled as a consequence of
+transmission on death or bankruptcy or otherwise by operation of law shall be considered
+Dormant Shares if and provided that:
+83.1.1
+
+for a period of not less than 12 years before the sending of the notice referred to in
+Article 83.1.3 below, at least one of the following has applied:
+83.1.1.1
+
+on three consecutive occasions notices or other documents have been
+sent in hard copy form through the post to any member at their
+registered address or their address for service of notices or in such
+other manner as may from time to time be permitted for the sending of
+notices by the Company to its members but have been returned
+undelivered or returned to the Company or in respect of which the
+Directors (acting in their absolute discretion) otherwise regard delivery
+as having failed; or
+
+83.1.1.2
+
+at least three dividends in respect of the share(s) in question (or any
+share(s) from which those shares have been derived) have become
+payable and no dividend in respect of those share(s) has been claimed
+and no cheque or warrant or any similar financial instrument payable
+on the share(s) has been presented by the Holder of, or the person
+entitled by transmission to, the share(s) to the paying bank of the
+relevant cheque, warrant or financial instrument or no payment made
+by the Company by any other means permitted has been claimed or
+accepted;
+
+83.1.2
+
+prior to the sending of the notice referred to in Article 83.1.3, the Company has used
+such efforts (if any) as the Directors consider reasonable to trace the member or
+person entitled, including engaging, if considered appropriate, a professional asset
+reunification company;
+
+83.1.3
+
+following the expiry of the 12-year period referred to in Article 83.1.1 and the efforts
+to trace the member or person entitled referred to in Article 83.1.2, the Company
+has sent a notice:
+83.1.3.1
+
+in hard copy form to the last known physical address the Company has
+for the relevant member or person entitled;
+
+83.1.3.2
+
+in electronic form to the last known email address that the Company
+has for the relevant Holder; or
+
+83.1.3.3
+
+in the event that the directors consider it more likely to result in a
+response from a member, in such other format as the directors shall in
+their absolute discretion decide, including but not limited to placing an
+advert in a newspaper or on a website,
+
+stating that the shares are to be treated as Dormant Shares and will be sold in
+accordance with this Article 83 at the expiry of the period of three months following
+the sending of the notice; and
+83.1.4
+
+during the 12-year period referred to in Article 83.1.1 and the period of three months
+following the sending of the notice referred to in Article 83.1.3, the Company has
+received no communication from or on behalf of such member or person entitled.
+
+45
+1951762802.4
+1010587836.2
+
+83.2
+
+The Company shall be entitled to sell any Dormant Share(s) for cash at any time and in such
+manner as the directors shall in their absolute discretion determine.
+
+83.3
+
+To give effect to the sale of any Dormant Share(s) the Company may appoint any person to
+transfer, as agent or in such other capacity as may be from time to time permissible at law,
+such Dormant Share(s), and may do all other acts and things it considers necessary or
+expedient to effect the transfer of the shares, and such transfer shall be as effective as if it had
+been carried out by the registered Holder of or person entitled by transmission to such shares.
+The transferee shall not be under any obligation in respect of the application of the purchase
+moneys and the title of the transferee shall not be affected by any irregularity or invalidity in the
+proceedings relating thereto.
+
+83.4
+
+Following the conversion of any Dormant Share into cash by the sale of such shares in
+accordance with Articles 83.2 and 83.3:
+
+83.5
+
+83.4.1
+
+the net proceeds of sale (after payment of the costs of the sale and any other fees
+and charges payable, including costs incurred under this Article 83) shall belong to
+the Company. No trust shall be created in respect of the net proceeds, which may
+be employed in the business of the Company or invested in such investments (other
+than shares of the Company or its holding company if any) as the Directors may
+from time to time think fit;
+
+83.4.2
+
+subject to Articles 83.4.4 and 83.4.5, the Company shall be obliged to account to
+the former member or other person previously entitled as aforesaid for an amount
+equal to the net proceeds of sale (after deduction of the costs of the sale and any
+other fees and charges payable, including costs incurred under this Article 83) (the
+Sale Proceeds) and shall enter the name of such former member or other person
+in the books of the Company as a creditor for the Sale Proceeds. No interest shall
+be payable in respect of the same and the Company shall not be required to account
+for any money earned on the net proceeds of sale;
+
+83.4.3
+
+subject to Articles 83.4.4 and 83.4.5, the former member or other person previously
+entitled as aforesaid shall be entitled to reclaim the Sale Proceeds from the
+Company in perpetuity. Such claim may be made in any form approved by the
+Directors and shall be supported by such evidence as the Directors may require;
+
+83.4.4
+
+subject to being permitted to do so at law, the Directors may elect at any time to
+transfer to an authorised reclaim fund (the Reclaim Fund) as defined in the Dormant
+Assets Act 2022 (or any statutory successor of it) (the Dormant Assets Scheme)
+the Sale Proceeds (or such part of it as can be lawfully transferred under the
+Dormant Assets Scheme). Upon such transfer, the Company shall be discharged
+from any liability under Article 83.4.3 and the entitlement of the former member or
+other person previously entitled to reclaim the Sale Proceeds from the Company
+shall be replaced with a right to reclaim in accordance with the terms of the Dormant
+Assets Scheme; and
+
+83.4.5
+
+at any time after the expiry of the 12-month period after sending the notice referred
+to in Article 83.1.3, and so long as no claim is pending against the Company under
+Article 83.4.3, the Directors may determine in their absolute discretion that the Sale
+Proceeds cannot be lawfully transferred to a Reclaim Fund under the Dormant
+Assets Scheme. Upon such determination, the Sale Proceeds shall be forfeited and
+will belong to the Company and the Company will not be liable in any respect to the
+former member or other person who may or would have been entitled to the share(s)
+by law for the proceeds of the sale, and the Company may use the Sale Proceeds
+for any purpose as the Directors may decide.
+
+If the Company is entitled to sell any Dormant Share(s) pursuant to this Article 83, it shall be
+entitled to sell any additional share issued to (or for the benefit of) the member or person entitled
+in right of that share (or in right of any such share) and the provisions of this Article 83 shall
+apply in respect of those additional shares.
+
+46
+1951762802.4
+1010587836.2
+
+83.6
+
+In the case of uncertificated shares, this Article 83 is subject to any restrictions which apply
+under the CREST Regulations.
+COMPANY DOCUMENTS
+
+84
+
+SEALS
+Any Seal may be used only by the authority of the Board or of a committee of the Board. The
+Board may decide who is to sign an instrument to which the Seal is to be affixed. Subject as
+otherwise provided in these Articles or by any resolution of the Board or any Board committee
+dispensing with any requirement in this Article 84 for a signature, any instrument to which the
+Seal is affixed shall be signed by at least one Director and by the Secretary or by at least two
+Directors or by one Director in the presence of a witness who attests the signature or by such
+other person or persons as the Board may authorise.
+
+85
+
+DOCUMENT DESTRUCTION
+
+85.1
+
+Subject to Company Legislation and any other applicable law, the Company may delete or
+destroy:
+85.1.1
+
+any share certificate or other evidence of title to shares which has been cancelled
+after one year from the date of such cancellation;
+
+85.1.2
+
+any mandate for the payment of dividends or other amounts or any variation or
+cancellation of such mandate or any other instruction concerning the payment of
+monies or any notification of change of name or address after two years from the
+date such mandate, variation, cancellation or notification was recorded by the
+Company;
+
+85.1.3
+
+any instrument or other evidence of a transfer or an allotment of shares which has
+been registered after six years from the date of registration;
+
+85.1.4
+
+any instrument of proxy which has been used for the purpose of a poll after a period
+of one year from the date of use;
+
+85.1.5
+
+any instrument of proxy which has not been used for the purpose of a poll after a
+period of one month from the end of the meeting to which the instrument of proxy
+relates; and
+
+85.1.6
+
+any other document on the basis of which an entry in the Register is made after six
+years from the date an entry in the Register was first made in respect of it,
+
+and the Company may delete or destroy any such document earlier than the relevant date,
+provided that a permanent record of the document is made which is not destroyed before that
+date.
+85.2
+
+It shall be conclusively presumed in favour of the Company that every entry in the Register of
+Members purporting to have been made on the basis of a document deleted or destroyed in
+accordance with this Article 85 was properly made, that every instrument of transfer so
+destroyed was a valid and effective instrument of transfer and properly made, that every share
+certificate so destroyed was valid and properly cancelled and that every other document so
+deleted or destroyed was valid and effective in accordance with the recorded particulars in the
+records of the Company, provided that:
+85.2.1
+
+this Article 85 shall apply only to the destruction of a document in good faith and
+without express notice of any claim (regardless of the parties to it) to which the
+document might be relevant;
+
+47
+1951762802.4
+1010587836.2
+
+85.2.2
+
+nothing in this Article 85 imposes on the Company any liability in respect of the
+destruction of any such document otherwise than as provided for in this Article 85
+which would not attach to the Company in the absence of this Article 85; and
+
+85.2.3
+
+references in this Article 85 to the deletion or destruction of any document include
+references to its disposal in any manner.
+WINDING UP
+
+86
+
+DIVISION OF ASSETS
+On a winding up of the Company and subject to Company Legislation, the Company's assets
+available for distribution shall be divided among the Members in proportion to the nominal
+amounts of capital paid up on their shares, subject to the terms of issue of or rights attached to
+any shares.
+MISCELLANEOUS
+
+87
+
+CHANGE OF NAME
+The Board may pass a resolution to change the Company's name.
+
+88
+
+ALTERNATE DIRECTORS
+
+88.1
+
+A Director (other than an alternate Director) may appoint any other Director or any person
+approved for the purpose by the Board and willing to act, to be his alternate by written notice in
+hard copy form to the Secretary at the Registered Office, or in any other manner approved by
+the Board.
+
+88.2
+
+An alternate Director is not to be counted in reckoning any maximum or minimum number of
+Directors allowed by these Articles.
+
+88.3
+
+Every person acting as an alternate Director will be an officer of the Company, will alone be
+responsible to the Company for his own acts and defaults and will not be treated as the agent
+of the Director appointing him.
+
+88.4
+
+An alternate Director is entitled to receive notice of all meetings of the Board and all committees
+of the Board of which his appointor is a member and, in the absence from such meetings of his
+appointor, to attend and vote at such meetings and to exercise all the powers, rights, duties
+and authorities of his appointor (other than the power to appoint an alternate Director). A
+Director acting as alternate Director has a separate vote at Board meetings for each Director
+for whom he acts as alternate Director, but he counts as only one for the purpose of determining
+whether a quorum is present.
+
+88.5
+
+An alternate Director may contract and be interested in and benefit from contracts or
+arrangements with the Company in the same way and to the same extent as a Director. The
+Company may pay his expenses and may indemnify him and provide him with other benefits
+referred to in Article 39 ("Expenses"). However, he is not entitled to receive from the Company
+any fees for his services as alternate, except for such part (if any) of the fee payable to his
+appointor as such appointor may by notice to the Company direct. The Company shall pay to
+an alternate Director such expenses as might properly have been paid to him if he had been a
+Director.
+
+88.6
+
+A person who is an alternate Director shall cease to be an alternate Director:
+88.6.1
+
+if his appointor revokes his appointment by notice delivered to the Secretary at the
+Registered Office or in any other manner approved by the Board; or
+
+88.6.2
+
+if his appointor ceases to be a Director; or
+
+48
+1951762802.4
+1010587836.2
+
+88.7
+
+88.6.3
+
+if the Board's approval to his appointment as an alternate Director is withdrawn; or
+
+88.6.4
+
+if any event happens in relation to him which, if he were a Director, would cause his
+office as Director to be vacated; or
+
+88.6.5
+
+if he resigns as such by notice in writing to the Company.
+
+An alternate Director who is not himself a Director shall, if he is present at a Board meeting but
+his appointor is not, be counted in the quorum as if he were a Director.
+PARTLY PAID SHARES
+
+89
+
+COMPANY'S LIEN
+
+89.1
+
+The Company has a first and paramount lien on each partly paid share for all amounts payable
+to the Company (whether due or not) in respect of such share. The lien applies to all dividends
+on any such share and to all amounts payable by the Company in respect of such share. The
+Board may resolve that any share be exempt wholly or in part from this Article 89 or to suspend
+any lien that has arisen on a share.
+
+89.2
+
+For the purpose of enforcing the Company's lien on any shares, the Board may sell them in
+such manner and on such basis as it decides if an amount in respect of which the lien exists is
+presently payable and is not paid 14 clear days following the giving of a notice to the Holder or
+the person entitled by transmission to them demanding payment of the amount due within such
+14 day period and stating that if the notice is not complied with the shares may be sold.
+
+89.3
+
+To give effect to such sale the Board may authorise a person to sign an instrument of transfer
+of shares in the name and on behalf of the Holder of, or the person entitled by transmission to,
+them to the purchaser or as the purchaser may direct or, for uncertificated shares, exercise any
+power conferred on it under these Articles to effect their transfer.
+
+89.4
+
+The purchaser will not be bound to see to the application of the purchase monies in respect of
+any such sale. The title of the transferee to the shares will not be affected by any irregularity
+in or invalidity of the proceedings connected with the sale or transfer. Any instrument or exercise
+referred to in Article 89.3 is effective as if it had been signed or exercised by the Holder of, or
+the person entitled by transmission to, the shares to which it relates.
+
+89.5
+
+The net proceeds of any sale of shares subject to the Company's lien under these Articles (after
+payment of the costs and expenses of sale) are to be applied in or towards satisfaction of the
+amount then due to the Company in respect of the shares. Any balance is to be paid to the
+original Holder of, or the person entitled (but for such sale) by transmission to, the shares on
+(in the case of certificated shares) surrender to the Company for cancellation of the certificate
+for such shares and (in all cases) subject to the Company having a lien on such balance on the
+same basis as applied to such shares for any amount not presently payable as existed on such
+shares before the sale.
+
+90
+
+CALLS
+
+90.1
+
+Subject to the terms on which shares are allotted, the Board may make calls on Members and
+persons entitled by transmission in respect of any amounts unpaid on their shares (whether in
+respect of nominal value or premium) and not payable on a date fixed by or in accordance with
+the allotment terms. The Member or person entitled by transmission shall pay to the Company
+the amount called, subject to receiving at least 14 days' notice specifying when and where the
+payment is to be made, as required by such notice.
+
+90.2
+
+A call may be made payable by instalments. A call is to be treated as made when the resolution
+of the Board authorising it is passed. A call may, before the Company's receipt of any amount
+due under it, be revoked or postponed wholly or in part as the Board may decide. A person on
+
+49
+1951762802.4
+1010587836.2
+
+whom a call is made will remain liable for calls made on him notwithstanding the subsequent
+transfer of the shares in respect of which the call was made.
+90.3
+
+The Joint Holders of a share are jointly and severally liable to pay all calls in respect of it and
+any one Joint Holder may give a receipt for any return of capital payable in respect of such
+share.
+
+90.4
+
+If any sum payable in respect of any call is not paid by the day it becomes due and payable,
+the person from whom it is due shall pay all costs, charges and expenses incurred by the
+Company by reason of such non-payment, together with interest on the unpaid amount from
+the day it became due and payable until it is paid at the rate fixed by the terms of the allotment
+of the share or in the notice of the call or, if no rate is fixed, at such fixed or floating rate, not
+exceeding the Bank of England base rate by more than 5 percentage points, as the Board may
+decide. The Board may waive payment of any such costs, charges, expenses or interest.
+
+90.5
+
+The Board may make arrangements on or before the issue of shares to differentiate between
+the Holders of shares in the amounts and times of payment of calls on their shares.
+
+90.6
+
+The Board may receive from any Member or any person entitled by transmission all or any part
+of the amount uncalled and unpaid on the shares held by him or to which he is entitled. The
+liability of the Member or person entitled by transmission on the shares to which such payment
+relates will be reduced by such amount. The Company may, at its sole discretion and without
+any obligation to do so, pay interest on such amount from the time of receipt until the time when
+such amount would, but for such advance, have become due and payable at such fixed or
+floating rate not exceeding the Bank of England base rate by more than 5 percentage points.
+
+90.7
+
+No sum paid up on a share in advance of a call will entitle the Holder to any portion of a dividend
+subsequently declared or paid in respect of any period before the date on which such sum
+would, but for such payment, become due and payable.
+
+90.8
+
+Unless the Board decides otherwise, no Member is entitled in respect of a share held by him to
+be present or vote at a general meeting or on a poll or to exercise any right or privilege as a
+Member until he has paid all calls or other sums payable by him on it to the Company.
+
+90.9
+
+Any sum payable to the Company or at its direction in respect of the allotment of a share on or
+following its allotment or on any fixed date is to be treated as a call for the purpose of all
+provisions in these Articles concerning forfeiture. If such sum is not paid by the required time,
+those provisions will apply to it and to the share concerned as if it had become due and payable
+by virtue of a call.
+
+91
+
+FORFEITURE
+
+91.1
+
+If a call or an instalment of a call remains unpaid after it has become due and payable, the
+Board may give to the person from whom it is due not less than 14 days' notice requiring
+payment of the amount unpaid together with any interest which may have accrued and any
+costs, charges and expenses that the Company may have incurred by reason of such nonpayment. The notice must state the place where payment is to be made and that, if the notice
+is not complied with, the shares in respect of which the call was made will be liable to be
+forfeited. If the notice is not complied with, any shares in respect of which it was given may,
+before the payment required by the notice has been made, be forfeited by a resolution of the
+Board. The forfeiture will include all dividends and other amounts payable in respect of the
+forfeited shares which have not been paid before the forfeiture.
+
+91.2
+
+The Board may accept the surrender of a share which is liable to be forfeited in accordance
+with these Articles on such terms as it may decide. A surrendered share is to be treated, subject
+to such terms, as if it had been forfeited.
+
+91.3
+
+The Company shall give notice of the forfeiture of a share to the person who was before
+forfeiture its Holder or the person entitled to it by transmission. An entry that such notice has
+
+50
+1951762802.4
+1010587836.2
+
+been given and of the fact and date of forfeiture shall be made in the Register of Members. No
+forfeiture will be invalidated by any omission to give such notice or make such entry.
+91.4
+
+A share will, on its forfeiture, become the property of the Company.
+
+91.5
+
+The Holder of a share (or the person entitled to it by transmission) which is forfeited will:
+91.5.1
+
+on its forfeiture cease to be a Member (or a person entitled) in respect of it or to
+have any claim against the Company in respect of it;
+
+91.5.2
+
+if a certificated share, surrender to the Company for cancellation the certificate for
+the share;
+
+91.5.3
+
+remain liable to pay to the Company all monies payable in respect of the share at
+the time of forfeiture, with interest from the time of forfeiture to the time of payment,
+on the same basis as if the share had not been forfeited; and
+
+91.5.4
+
+remain liable to satisfy all (if any) claims and demands which the Company might
+have enforced in respect of the share at the time of forfeiture without any deduction
+or allowance for the value of the share at the time of forfeiture or for any
+consideration received on its disposal.
+
+91.6
+
+A forfeited share may be sold, re-allotted or otherwise disposed of on such terms, in such
+manner and on such basis as the Board may decide either to the person who was before the
+forfeiture the Holder or to any other person. Any disposal proceeds will be the property of the
+Company. Before disposal the forfeiture may be cancelled on such terms as the Board may
+decide. Where for the purpose of its disposal a forfeited share is to be transferred to any
+transferee, the Board may authorise a person to sign an instrument of transfer of shares in the
+name and on behalf of their Holder to the purchaser or as the purchaser may direct or, for
+uncertificated shares, exercise any power conferred on it under these Articles to effect their
+transfer.
+
+91.7
+
+The purchaser will not be bound to see to the application of the purchase monies in respect of
+any such sale. The title of the transferee to the shares will not be affected by any irregularity
+in or invalidity of the proceedings connected with the sale or transfer. Any instrument or
+exercise referred to in Article 91.6 is effective as if it had been signed or exercised by the Holder
+of, or the person entitled by transmission to, the shares to which it relates.
+
+91.8
+
+A statutory declaration by a Director or the Secretary that a share has been forfeited on a
+specified date will be conclusive evidence of the facts stated in it against all persons claiming
+title to the share. The declaration will (subject to the signing of any necessary instrument of
+transfer) constitute a good title to the share. The person to whom the share is disposed of will
+not be bound to see to the application of the consideration (if any) given for it on such disposal.
+His title to the share will not be affected by any irregularity in, or invalidity of, the proceedings
+connected with the forfeiture or disposal.
+UNCLAIMED CORPORATE ACTION PROCEEDS
+
+92
+
+DORMANT CORPORATE ACTION PROCEEDS
+
+92.1
+
+Any unclaimed proceeds from corporate actions payable by the Company to any member or
+former member or other person entitled in respect of a share shall be considered Dormant
+Corporate Action Proceeds if and provided that:
+92.1.1
+
+the proceeds are payable by the Company in respect of a share which has already
+been classified as a Dormant Share and in respect of which the Directors have
+already transferred an amount to the Dormant Assets Scheme in accordance with
+Article 83.4.4;
+
+51
+1951762802.4
+1010587836.2
+
+92.1.2
+
+each of the following applies:
+92.1.2.1
+
+prior to the sending of the notice referred to in Article 92.1.2.3, a period
+of not less than 12 years has elapsed (beginning with the day on which
+the Company was notified of the consideration in relation to the
+corporate action) during which the proceeds have remained unclaimed;
+
+92.1.2.2
+
+prior to the sending of the notice referred to in Article 92.1.2.3, the
+Company has used such efforts (if any) as the Directors consider
+reasonable to trace the member or person entitled, including engaging,
+if considered appropriate, a professional asset reunification company;
+
+92.1.2.3
+
+following the expiry of the 12-year period referred to in Article 92.1.2.1
+and the efforts to trace the member or person entitled referred to in
+Article 92.1.2.2, the Company has sent a notice:
+92.1.2.3.1
+
+in hard copy form to the last known physical address the
+Company has for the relevant member or person entitled;
+
+92.1.2.3.2
+
+in electronic form to the last known email address that
+the Company has for the relevant Holder; or
+
+92.1.2.3.3
+
+in the event that the Directors consider it more likely to
+result in a response from a member, in such other format
+as the Directors shall in their absolute discretion decide,
+including but not limited to placing an advert in a
+newspaper or on a website,
+
+stating that the proceeds will be treated as Dormant Corporate Action
+Proceeds at the expiry of the period of three months following the
+sending of the notice; and
+92.1.2.4
+
+92.2
+
+during the 12-year period referred to in Article 92.1.2.1 and the period
+of three months following the sending of the notice referred to in Article
+92.1.2.3, the Company has received no communication from or on
+behalf of such member or person entitled.
+
+The Company shall deal with Dormant Corporate Action Proceeds as follows:
+92.2.1
+
+the Dormant Corporate Action Proceeds shall belong to the Company. No trust shall
+be created in respect of the net proceeds, which may be employed in the business
+of the Company or invested in such investments (other than shares of the Company
+or its holding company if any) as the Directors may from time to time think fit;
+
+92.2.2
+
+subject to Articles 92.2.4 and 92.2.5, the Company shall be obliged to account to
+the member or other person entitled as aforesaid for an amount equal to the
+Dormant Corporate Action Proceeds at the time they were due (adjusted to deduct
+any fees and charges payable, including costs incurred under this Article 92) and
+shall enter the name of such member or other person in the books of the Company
+as a creditor for such amount. No interest shall be payable in respect of the same
+and the Company shall not be required to account for any money earned on the
+Dormant Corporate Action Proceeds;
+
+92.2.3
+
+subject to Articles 92.2.4 and 92.2.5, the member or other person entitled as
+aforesaid shall be entitled to reclaim the cash sum identified in Article 92.2.2 from
+the Company in perpetuity. Such claim may be made in any form approved by the
+Directors and shall be supported by such evidence as the Directors may require;
+
+92.2.4
+
+subject to being permitted to do so at law, the Directors may elect at any time to
+transfer the Dormant Corporate Action Proceeds, adjusted to deduct any fees and
+
+52
+1951762802.4
+1010587836.2
+
+charges payable, including costs incurred under this Article 92 (or such part of the
+Dormant Corporate Action Proceeds as can be lawfully transferred under the
+Dormant Assets Scheme) to a Reclaim Fund. Upon such transfer, the Company
+shall be discharged from any liability under Article 92.2.3 and the entitlement of the
+member or other person previously entitled to reclaim a cash sum from the Company
+shall be replaced with a right to reclaim in accordance with the terms of the Dormant
+Assets Scheme; and
+92.2.5
+
+at any time after the expiry of the 12-month period after sending the notice referred
+to in Article 92.1.2.3, and so long as no claim is pending against the Company under
+Article 92.2.3, the Directors may determine in their absolute discretion that the
+Dormant Corporate Action Proceeds cannot be lawfully transferred to a Reclaim
+Fund under the Dormant Assets Scheme. Upon such determination, the Dormant
+Corporate Action Proceeds shall be forfeited and will belong to the Company and
+the Company will not be liable in any respect to the member or other person who
+may or would have been entitled to the Dormant Corporate Action Proceeds, and
+the Company may use the Dormant Corporate Action Proceeds for any purpose as
+the Directors may decide.
+
+53
+1951762802.4
+1010587836.2

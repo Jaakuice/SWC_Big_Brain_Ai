@@ -1,0 +1,94 @@
+# $SWC Will it get to 10 x mNAV SOON ???
+**Date: 2025-07-02**
+**Video ID: hYhrL9dqvz8**
+**URL: https://www.youtube.com/watch?v=hYhrL9dqvz8**
+**Duration: ~30:16**
+**Channel: VOSTRA**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- SWC financial model overview and how to use the editable forecast cells (Bitcoin price, mNAV)
+- SWC share price closing at £3.20 on 2/7/2025, up from the £2.90 book build price
+- mNAV currently between 7.0–7.7x, with a target of 10x (Tennyson price target ~£4.20)
+- Fibonacci retracement chart analysis showing bounce off the 0.786 level
+- Institutional investor dynamics: US-based capital leading, UK playing catch-up
+- Tricks to boost mNAV: strategic share purchases ahead of book builds, drip-feeding announcements
+- Upcoming book build expected within the next week
+- ATM (At-The-Market) program: £21M so far with £7M placed via Shard, anticipating ATM4
+- Tobam paper analysis on Bitcoin treasury companies outperforming Bitcoin itself
+- SWC X/Twitter community knowledge base and the "Zinx" character calling out bad actors
+
+---
+
+**Vostra:**
+(0:00:01) Hello guys. Back again. Thank you very much for those that reviewed the SWC financial model. Thought I'd do a quick follow-up.
+
+(0:00:11) Yeah, do a quick follow-up and then a couple of other things as well. Let's see. I'll try and do some daily updates. I'm not sure yet. But jot down a few things I wanted to talk about and here they are. So, financial model, current share price, had some good action today. Tricks to boost mNAV — this is just me thought experimenting if you like — institutional investors, big guns, the Bank of England, and the Tobam paper. Yeah, this I wanted to have a very quick chat about but we'll come on to that.
+
+(0:00:48) X — let's go through some X comments. I think this industry is really, really becoming something quite interesting. And there's a few characters now developing. So let's review a few of those. And then what I wanted to do was if you've got any comments and things that you'd like to talk about, why don't you just put them in the YouTube comments and then we can run through them.
+
+(0:01:12) I think the latest ones were obviously about — probably some of you will be interested in the model and all that kind of detail. But I think in the interests of a little bit of financial entertainment as we watch this journey unfold, doesn't do any harm, right? And then even if the BTC per share doesn't change — so what this is, these are all my notes that I've taken from this Tobam paper. Really, really worthwhile, interesting to review that paper if you want. Again, we'll come on to that.
+
+(0:01:45) So, financial model. Yes, so a few people I noticed were looking at the model and so I just wanted to clarify a couple of bits. By the way, if you are looking at the model and you find anything — the nature of models, you know, they are just models. So if you think there's something there that can be improved, happy to take that feedback on.
+
+(0:02:14) So the previous video went through all the columns and everything. So I'm not going to go through that, but I will go through the one that you have access to. What you have is the outlined red cells, which enables you to put in whatever you forecast. So actually on the one you have, you won't be able to change these amounts. This is just the increase in shares I've modeled. This can change depending on obviously how many shares they issue for each raise.
+
+(0:02:46) The ATMs are fixed. They're 21 million so far with 7 million placed with Shard. I've — you'll notice I've got ATM4. I've just assumed the ATM continues and broken that up. Let's do another 21 million. Why not? If it's successful, I suspect that they would continue using that. And the rest are book builds.
+
+(0:03:12) And if you're wondering why I've put 11 million shares in there, for example, that's because the full capital raise here — the 40 millions here, 45, 50 — kind of done it in line with what I think might be reasonably achievable. But the business has a tendency to outperform any type of forecast. But yeah, I thought as we develop, let's put them in line with something, some order of sensibility. And that's why those numbers I've put in there.
+
+(0:03:51) You can change these — I mean, not on the forecast model you have — but these can be changed. But for the arguments of simplicity and reasonableness, I've just let you guys change the Bitcoin price forecast and the mNAV. And anyway, for the next book build, these numbers don't matter. This is just based off the current market cap.
+
+(0:04:16) So with that said, that's the model. Have a play with it. There should be links on the YouTube to be able to get access to this. Yeah, let me know what you think. Continue to play around with it. It's all educational.
+
+(0:04:33) Cool. So that's the model. The current share price — so what's happened today? Yeah, the London line has closed £3.20. So I want to go to the chart and I'm no chartist, but take a look at this.
+
+(0:05:11) £3.20. What a day. Now let me move across, move the chart across so we can see what's going on. What I've overlaid on here — yeah, so this is called the Fibonacci retracement tool. And again, I'm no chartist, but you know, this looks reasonably well drawn out to me. Anyone that's good at charts can let me know if this is wrong. But hey ho, even the way it's drawn, you can see, look, it's bounced off the 0.786. That was the lowest it came down to. And that's the mNAV at 1.98.
+
+(0:06:07) The book build was done at £2.90. So that was the last raise and you can see today it was trading pretty much all around the 2.90 there or thereabouts. And of course it just closed at 3.20. You had a wick up to the 3.54.
+
+(0:06:28) I suspect this might hover around here for the next day or two, which is not a bad place to be in. And if I go back to the model, let's say, so that closed at 3.20. Let's go back to the model. 3.20 — so that's 2.95. That was an mNAV of seven. So we've ticked up above seven. Yeah, it's looking at about 7, 7.5, probably even 7.8.
+
+(0:07:02) Let's try 3.29. Yeah, so it's just — let's put 7.7. Yeah, you're looking at around just under 7.7.
+
+(0:07:14) In fact, there's a dashboard here I wanted to go through. Big shout out to whoever's created this dashboard — SWC Dash. What have they got it as? 7.5 adjusted mNAV. Yeah, we all use slightly different numbers. I think it's because of whatever forecast Bitcoin price I'm using versus the cash that they've got versus how much they've converted into. I think it's reasonable. It's there or thereabouts. I'm comfortable with my model.
+
+(0:07:47) So yeah, we're about between 7 and 7.5. And if you remember, I'm predicting we get up to 10. 10 would take it to the Tennyson target price — £4.20 odd.
+
+(0:08:12) Go back to the chart. Yeah, so £4.20ish. It's at the 0.382 here. And timing wise, we're looking at a book build probably next week. So for the next few days, even if it hovered around here, that would be fine.
+
+(0:08:34) And you can see that the other treasuries today as well — not great performance overall from the other ones. So makes me think that this is programmed. This is programmed to a good extent. And when I say programmed, I mean, you know, there's obviously the price took a whacking last week.
+
+(0:09:08) But if you're — and this is where if I go back to "tricks to boost mNAV" — let's imagine the price stayed down a bit and the mNAV was kind of stuck around the 5 or 6 mark. Now you're thinking, crikey, the book build happened at 2.90. How are we going to get this above the £2.90 really to be able to get on to the next raise?
+
+(0:09:31) And I just thought, if you are an institutional investor or anyone investing — you, especially if you understand — yeah, you have to understand the business model. So Andrew would have done a job on explaining, you know, what is Bitcoin compounding, why we're all investing, what is it that's making the performance of the share price so spectacular, why is it better to invest in the equity versus the Bitcoin itself.
+
+(0:10:07) You know, explaining all of that. I think if you are an investor and you get it, you would do the same model I've done and you would think, right, these are some cheap shares at the moment. I've got, I don't know, 50 million to invest. I'm going to buy 25 million in the market and then get to the book build. Because why wouldn't you do that? You would just buy some cheap shares in the market. Nobody would know. You would just bid the price up anyway.
+
+(0:10:47) So I'm less concerned about the getting to the mNAVs now because I feel like they've done the right conversations with the right funds. And actually something came out on the TR1 release today which identified one of the funds — one of the earlier funds. I believe it's a fund based in New York, or a family office or something like that. Whatever it is, it's an overseas investor, US-based.
+
+(0:11:20) I suspect there's a lot of that type of capital. US understands. I think UK would be playing catch-up here trying to understand. I think Andrew would probably have so many calls with people that actually understand the investment proposition. He might get to a point where if you don't understand the business model, you're not even going to get an appointment in his diary. That's the level.
+
+(0:11:49) So that's why I think — yeah, tricks to boost mNAV. There's not really major tricks I can think of. I mean, other than obviously you can drip feed your announcements and make the story for retail sound exciting, get on the news channels and all of that buzz, which I think they do a great job. Brilliant spaces the other night, last night I think it was. Again, all talking about transparency, consistency.
+
+(0:12:22) You know, it becomes a bit of a self-fulfilling prophecy when you know what you're modelling. It removes uncertainty from an investment and people — you know, people are risk averse naturally, especially Bitcoiners. They want to know that everything is protected and well executed.
+
+(0:12:48) It's not the same with some of the other treasuries. It's not the same. You definitely feel more risk involved. But it's the same game everyone's playing.
+
+(0:12:59) So with the institutional investors, if you're UK-based and you haven't got a flicking clue what's going on, then the SWC Twitter community, X community, has got a lot of serious knowledge there. They've got a lot of knowledge.
+
+(0:13:22) I think we can go through some of these tweets as well. But just wanted to — yeah, let's look at Zinx. There's a fellow character, Zinx. Zinx is causing a storm in the community. Really respect Zinx. He's calling out people that, you know, don't do things correctly.
+
+(0:13:47) Discounts. There's a hell of a lot of different ways to run this treasury play. And if I look at some of the communities, I mean, I've just added all of them regardless of whether I'm invested or not, just to see how things are panning out.
+
+(0:14:09) Yeah, I mean, it's a mega world out there. And let me just check the — trying to get the Smarter Web Company community.
+
+(0:14:40) There we go.
+
+(0:14:49) Yeah. So if you're an institutional investor, there is a hell of a lot of information. And like the retail community — look at the Smarter Web Company X community. A lot of knowledgeable people there that know what they're talking about. And I suspect they know more than the UK-based institutional investors.
+
+(0:15:15) So I'd just say, if you are a UK-based institutional investor, reach out to people in the community. I mean, there's going to be a lot of people that can explain this stuff. Because it would be good to get some UK capital involved here. And I'm sure there is, but yeah, those were the thoughts on that.
+
+(0:15:35) Bank of England. So this playbook, right — go back to the X, Twitter here...

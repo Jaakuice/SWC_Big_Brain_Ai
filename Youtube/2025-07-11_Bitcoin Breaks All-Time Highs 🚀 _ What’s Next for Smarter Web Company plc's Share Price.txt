@@ -1,0 +1,82 @@
+# Bitcoin Breaks All-Time Highs 🚀 | What’s Next for Smarter Web Company plc's Share Price?
+**Date: 2025-07-11**
+**Video ID: KRgSi7mJzcw**
+**URL: https://www.youtube.com/watch?v=KRgSi7mJzcw**
+**Duration: ~14:09**
+**Channel: VOSTRA**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- Bitcoin breaking to new all-time highs and the potential for a rapid price surge ("God candle") to $218,000
+- The three-component flywheel model for Bitcoin treasury companies: BTC price, BTC yield, and mNAV multiple
+- Impact of a BTC price doubling on SWC's net assets and share price
+- Whether BTC ripping up would slow Bitcoin yield and stacking ability for smaller treasury companies
+- Capital raising dynamics: less dilution needed when balance sheet doubles in size
+- FOMO-driven mNAV expansion during euphoric market conditions
+- The working capital timing challenge and SWC's two-week cash gap
+- Accretive dilution mechanics — stacking may slow but remains positive
+- Credit to Chris Milass's diagram illustrating the SWC financial model
+- All Bitcoin treasury startups face the same challenge of buying less BTC at higher prices
+
+---
+
+**Vostra:**
+(0:00:00) Hey guys, Vostra here. Wanted to make a video about the price of the shares in a Bitcoin treasury company and what could happen to share price in the event of Bitcoin ripping up.
+
+(0:00:22) I posted an X comment regarding this the other day and it seemed to get quite a lot of traction. So, I'll come on to the X post in a second, but before that, this diagram that Chris Milass has created is really good. I like it. Again, this explains so clearly the financial model in effect that we look at here on a daily basis, modeling the SWC story. And it's very neatly laid out — the three components and the inputs that lead to the value that we ascribe to these businesses.
+
+(0:01:24) And you can see it's a function of the Bitcoin price, the yield — and so the yield here is how fast your bitcoins per share is increasing — and then the mNAV. And mNAV as we all know is the trading multiple of the net assets.
+
+(0:01:50) So I thought this was a really nice diagram that clearly lays out what we discuss here pretty much on a daily basis. Great. Give Chris Milass a follow, he's on X there.
+
+(0:02:11) And then we said, "I didn't even model BTC ripping up. This could get wild fast." And so you guys came back with a few thoughts. And I thought that could be quite interesting because the model I've done — I don't know why, maybe my risk background — I've just kind of left it at Bitcoin floating along doing what it does. And the other part is because, you know, how many different models do you — there isn't a treasury department here. This is just, no financial advice, Vostra, random degen on the internet doing these numbers.
+
+(0:03:00) I'm sure if you're a treasury company, you would probably want to invest some money in people who would do all of the different scenario analysis for you, because then you can actually model out the impact of what happens. And this was kind of picking up because of the Bitcoin price activity this week and the new all-time high. What happens if it just goes to $200,000 odd overnight? The God candle, as they say.
+
+(0:03:41) So, a few comments here. Don Aristat: "Might BTC ripping not slow the BTC yield and projected growth considerably? I always figured this was one of the main vulnerabilities of these smaller BTCTC plays." You got to like the BTCTC acronym, right? This industry has generated... We will, let's take a look. I mean, I'm going to, once we've gone through these, let's just play around with the model.
+
+(0:04:10) "It's not BTC ripping that will do it. It's BTC consolidating after it rips. See classic altcoin cycles." That's what we're doing.
+
+(0:04:20) "I want us to get to 21,000 bitcoins first." I think that's BTC UK referring to SWC getting there. They will get there.
+
+(0:04:30) Scottish Mick makes a good point: "FOMO will set in." There's your FOMO, right? When Bitcoin rips, there's definitely going to be FOMO, and what impact would that have on mNAV? That could potentially expand the mNAVs to more than what we model from a normal decaying perspective because of market exuberance.
+
+(0:05:01) So the impact of BTC ripping is to be seen but can be modeled as well.
+
+(0:05:17) Let's take a look. What's Jeffrey saying? Jeffrey: "Doesn't BTC ripping hurt the newer treasury companies from stacking?" Yes. Let's see exactly what happens to a modeling level of extent, because we never know what exactly can happen that we can step through and potentially analyze this — BTC ripping.
+
+(0:05:44) Cool. So, flick across to the model and I was having a small look at this sort of BTC ripping type thing. We've got the SWC model that's kind of live, active, ongoing. We've got the BTC price forecast in here. And I kind of just let that run to what the actual is — as at time of recording this, we're at $111,000.
+
+(0:06:15) And this model that I sometimes refer to — well, pretty much all the time refer to — as sandbagged. Yeah, I never put this up to $200,000. So I thought, experimenting wise, let's carry on, do that, and see what the impact is on the whole game here.
+
+(0:06:43) So what happens next, right? If we put $218,000 as the forecast, in effect what you get is an overnight doubling of your net assets, right? Take a look at this — this is where we are at the moment in the SWC game for the most latest subscription activity that took place on the 9th of July.
+
+(0:07:16) If the Bitcoin price all of a sudden doubles overnight — and it's unlikely to do that, but let's just roll with that kind of thought because some people actually do think it can get there like that, unexpectedly — they call it the God candles — your net assets double pretty much overnight.
+
+(0:07:45) All right. And I'll do maybe a side by side so you can see this impact a little bit better. But you can see, like, it's line 14 on there. If I flick back to the existing live model, it's sort of around the 132 million assets, net assets. Let's go to BTC RIP. Yeah, you got 250. They're slightly different because of the costs and pieces I model inside here.
+
+(0:08:20) But in essence, you're doubling your net assets. And that doubling means that your share price would just double overnight, with everything else remaining the same — the mNAV multiple.
+
+(0:08:46) Yeah, I mean, simple as — you're doubling your whole business balance sheet if the price rips like that.
+
+(0:08:58) But the other thing is, so now you're saying the questions there were, "Okay, would you be stacking less Bitcoin?" From there, it all comes down to the capital plan. You would issue less shares needed because you're raising off of a balance sheet that's just doubled in size, right? You would need to dilute less to raise similar amounts as you were sort of the day before, because your balance sheet has doubled in size.
+
+(0:09:38) And then what happens there is that as long as you're able to raise larger sums in the capital marketplace, then you can in theory still keep stacking. Yeah, you might get to a lower amount of bitcoins than in the other environment, which makes sense, but you would still keep building. It's just — the equation is how much capital can you raise in an environment where the price has just doubled.
+
+(0:10:23) And arguably you'd still be able to do a good job because you would think that in a euphoric environment like that, the mNAVs would most likely expand, in my view, because, as one of the comments mentioned, you would get severe FOMO.
+
+(0:10:47) So these would start expanding. It would depend on how much capital you can get — how fast you can get that out of the market.
+
+(0:11:02) But we can see that it doubles. You get there quicker because the impact on the share price is driven by the net assets doubling. The Bitcoin per share, depending on how much you're able to raise, can potentially slow down. But as long as you are diluting accretively and you're stacking — okay, it might be a bit slower — but you would see a violent impact on the share price. I'd say violence upwards.
+
+(0:11:46) At least that's what my model is showing me. And all of this is financial entertainment. I just thought it would be a great separate video.
+
+(0:12:03) What do you think is going to happen if Bitcoin rips to $218,000? And I mean, this also goes to some of the comments around people in the market saying, "As soon as you get the cash, buy the Bitcoin. Get the cash, buy the Bitcoin," because if something like this happens, then you don't want to sort of miss out on the good prices of the Bitcoin.
+
+(0:12:30) But it's a balance. You've got to balance the rate at which you're able to move this — I guess in some ways you could call it working capital, the two-week gap that SWC likes to maintain. It's not because they like cash. Andrew's made that very clear. It's just because you're timing the market and your working capital model, if you like, of the speed at which you're getting the finance arranged, is my two cents.
+
+(0:13:10) And therefore, yeah, if BTC rips up fast then the race is accelerated. It would impact everyone — not just, well, it would impact all of the Bitcoin treasury startup businesses that are in the same boat of raising capital. Everybody would have the same issue of potentially buying less Bitcoin because it costs more.
+
+(0:13:43) But is that an issue? I don't think that's an issue. If BTC goes to $218,000, then I can assure you every single subscriber here is going to go to the Vostra party in Vegas next year. No problemo. Signing off. Ciao.
