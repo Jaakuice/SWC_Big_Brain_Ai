@@ -131,7 +131,7 @@ This index maps queries to relevant data sources and provides selection guidance
 - Filter by date for time-specific research
 - Use for investment analysis and projections
 
-### `/Smarter Web/` (17 text files)
+### `/Smarter Web/` (16 text files)
 **Purpose:** Company documents, governance, investor materials, research
 **Key Files & Triggers:**
 | File | Use When Query Mentions |

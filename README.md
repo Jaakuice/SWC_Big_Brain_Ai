@@ -2,7 +2,7 @@
 
 > **A comprehensive dataset for analyzing the first UK-listed company with a Bitcoin treasury strategy**
 
-[![Data](https://img.shields.io/badge/Data-305%20files-blue)](https://github.com/Jaakuice/SWC_Big_Brain_Ai)
+[![Data](https://img.shields.io/badge/Data-304%20files-blue)](https://github.com/Jaakuice/SWC_Big_Brain_Ai)
 [![YouTube](https://img.shields.io/badge/YouTube-122%20transcripts-red)](https://github.com/Jaakuice/SWC_Big_Brain_Ai)
 [![Tweets](https://img.shields.io/badge/Tweets-1,636%20posts-1DA1F2)](https://github.com/Jaakuice/SWC_Big_Brain_Ai)
 
@@ -59,9 +59,9 @@ This dataset enables deep analysis across multiple dimensions:
 | **RNS Filings** | 122 | Regulatory filings | Apr 2025 - Mar 2026 |
 | **Research Reports** | 21 | Tennyson broker analysis | May 2025 - Oct 2025 |
 | **Financial Data** | 1 | CSV time-series (hourly/daily) | Apr 2025+ |
-| **Company Docs** | 17 | Prospectus, admission docs, annual report | Various |
+| **Company Docs** | 16 | Prospectus, admission docs, annual report | Various |
 | **Media Articles** | 12 | News coverage, TV appearances | Mar 2025 - Feb 2026 |
-| **TOTAL** | **~305 files** | | |
+| **TOTAL** | **~304 files** | | |
 
 ---
 

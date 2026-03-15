@@ -240,13 +240,13 @@ Contains structured social media data extracted from X.com (Twitter) accounts re
 | Legacy media/News articles | 12 | TXT |
 | Legacy media/Tv appearances | 1 | TXT |
 | RNS | 122 | TXT |
-| Smarter Web | 17 | TXT |
+| Smarter Web | 16 | TXT |
 | Tennyson | 20 | PDF |
 | Tweets/asjwebley | 21 | JSON, MD |
 | Tweets/Croesus_BTC | 15 | JSON, MD |
 | Tweets/smarterwebuk | 14 | JSON, MD |
 | Youtube | 122 | TXT |
-| **TOTAL** | **~358 files** | |
+| **TOTAL** | **~357 files** | |
 
 ---
 
