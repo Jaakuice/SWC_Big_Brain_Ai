@@ -1,0 +1,70 @@
+# How to Value Bitcoin Treasury Companies w/ Andrew Webley, Matt Cole & Gurpreet Oberoi
+**Date: 2025-08-31**
+**Video ID: 8893dpSiNiE**
+**URL: https://www.youtube.com/watch?v=8893dpSiNiE**
+**Duration: ~21:19**
+**Channel: Bitcoin For Corporations**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- Introduction of Bitcoin treasury companies: Smarter Web Company (UK), Strive (US), and Kraken Institutional
+- Core KPIs for valuing Bitcoin treasury companies: mNAV, BTC yield, and company size
+- Bitcoin as the hurdle rate — why returns must outperform Bitcoin to justify the strategy
+- How Kraken Institutional supports treasury companies via custody, trading, and bespoke lending solutions
+- Evolution of capital instruments from convertible notes to perpetual preferred equity
+- The "Bitcoin accretive" flywheel: issuing shares, raising capital, buying Bitcoin to grow BTC per share
+- Early-stage nature of the Bitcoin treasury company movement (~300 companies holding BTC, ~20 running the accretive strategy)
+- Intangible factors in valuation: leadership quality, marketing velocity, and narrative momentum
+- Matt Cole's background at CalPERS and witnessing Federal Reserve debt monetization as a path to Bitcoin conviction
+- Risk perception vs. reality in leveraged Bitcoin treasury strategies
+
+---
+
+**Allen Helm (Moderator, Bitcoin For Corporations):**
+(0:00:00) Good afternoon, Hong Kong. How is everybody doing? Enjoying the conference. Oh, come on. Wake up. Let me hear some more claps.
+
+(0:00:16) It is truly an honor to speak here today, not just in the APAC region, but specifically Hong Kong, and to bring some of our members from the Bitcoin for Corporations Alliance up here — joined here by Strive, Kraken, and the Smarter Web Company. These guys are the pioneers shaping the corporate Bitcoin treasury adoption playbook, and I'm very happy to have this discussion today with them. But I'm going to let these gentlemen introduce themselves. Andrew, why don't we start with you?
+
+**Andrew Webley (CEO, Smarter Web Company):**
+(0:00:45) My name is Andrew Webley. I'm the CEO of the Smarter Web Company and we're the UK's largest public company holding Bitcoin on the balance sheet.
+
+**Gurpreet Oberoi (Head of Kraken Institutional):**
+(0:00:54) Hi, my name is Gurpreet Oberoi. I'm the head of Kraken Institutional.
+
+**Matt Cole (CEO, Strive):**
+(0:00:59) Matt Cole, CEO of Strive. We are completing our reverse merger right now. If anyone happens to own shares of ASST, vote yes.
+
+**Allen Helm:**
+(0:01:11) That is a great call to action, Matt. Why don't we give a little bit more context behind what the Smarter Web Company is doing in the UK, Andrew, and then Gurpreet from the Kraken Institutional side — how you guys are supporting these companies — and then Matt of course from the US angle. Andrew, let's start with you.
+
+**Andrew Webley:**
+(0:01:30) Yeah, thank you. So I started my career in 1999, which was the early days of the internet. I worked at a small company that became a very big company — one of the biggest companies in the UK. Then I set up my own small technology business. I found Bitcoin about just under 10 years ago. And after seeing what Michael Saylor did with Strategy, I felt that the UK should have its own version of Strategy. So I listed my business on the stock market. We IPO'd in April this year, approximately four months ago. We've become a fairly large company now after raising approximately 200 million pounds of capital. And in line with my personal beliefs, we hold our assets in Bitcoin and we hold it with the idea that we grow it by increasing the Bitcoin yield that we can achieve.
+
+**Gurpreet Oberoi:**
+(0:02:28) Yeah, Kraken has been very instrumental in digital asset treasury strategies. We help custody, provide trading solutions, and also credit. I think the differentiator is — if somebody custodies at Kraken and say they want to borrow 10, 20, 30 million against their custody assets — we can structure bespoke solutions to these treasury solutions and we can also help think through ways to help differentiate themselves amongst others.
+
+**Matt Cole:**
+(0:02:54) Yeah. So for me, my background is fixed income. I used to run a $70 billion bond portfolio at the largest pension in America called CalPERS. And I had a direct line of access to the Federal Reserve and the US Treasury. And I saw them gaslight me in trying to tell me that they weren't printing money. And it's this simple — the only reason that technically what they said was true is that the Treasury would create new bonds, they would sell them to Goldman Sachs, and then Goldman Sachs would sell them to the Fed. If you take Goldman Sachs out of the equation, it was direct monetization of debt. And it was so obvious — and this was before I was a Bitcoiner — but it led me to put pretty much my entire net worth into Bitcoin in late 2016, early 2017. And when I joined Strive in 2022, which was co-founded by Vivek Ramaswamy, principled on financial freedom, it was obvious for us to go into Bitcoin. And talking to Michael Saylor — initially it was not as a Bitcoin treasury company — and Michael Saylor was pretty blunt, just said, "Why aren't you just a Bitcoin treasury company?" And like, yeah, that makes sense. Bitcoin's the hurdle rate. And so we adopted Bitcoin as the hurdle rate, which means that if we are going to put money to work, when we're putting that money to work, we don't think it's going to beat the future return of Bitcoin — 30%, 40%, 50% a year — then why aren't you just buying Bitcoin? And so for us as a Bitcoin treasury company, we are looking for ways to grow Bitcoin per share — the amount of Bitcoin each share of our company owns — which is like other Bitcoin treasury companies. And we're all approaching it from a little bit different angles. But just to give you a sense, I don't even think we've scratched the surface of the innovation that can happen in this space. And I don't think people understand the risks. And the risks are substantially less when you actually dig a little bit deeper into the debt that these companies are taking and the future returns. I think Strategy is literally an A-rated issuer of debt, but yet they can't even get rated. That's how early we are.
+
+**Allen Helm:**
+(0:05:06) So we're all Bitcoiners up here. Matt, I think you brought up a lot of great points that we're at the very beginning. There are about 300 companies that hold Bitcoin on the balance sheet and maybe 20 of them are running the Bitcoin accretive play. And it's very fascinating to see how everyone's coming to this realization that traditional instruments like treasury bonds are just not the place to park your excess cash reserves. And so we get into the main topic of our panel today — how do you actually value these Bitcoin treasury companies? I think there's two main buckets to look at: first the tangible — the Bitcoin per share metric that you talked about — and you also hear people bring up mNAV, BTC torque, BTC yield, and some of these other things. It's another language, maybe, to the retail side, but even for traditional financial professionals coming in, I think it's important to set the baseline for what these KPIs are. So Andrew, I want to throw it to you — when you look at Bitcoin treasury companies, what are the core KPIs investors should focus on? Is it Bitcoin per share? Is it mNAV? Is it BTC yield? And what do your investors and shareholders seem to care about the most at the end of the day?
+
+**Andrew Webley:**
+(0:06:18) So this could be a very long answer, but I'll try and keep it fairly brief. You can get as complicated as you wish, but what I would recommend is that somebody looks at three things. The first one is the mNAV — really easy to work out, you can find it online. Most Bitcoin treasury companies have an analytics dashboard that you can see. What the mNAV means, very simply, is the value of the Bitcoin versus the market cap. Maybe below two is pretty low, below three is relatively low, maybe above five or six is getting expensive. Not financial advice. Then the second thing is the BTC yield. So this is really important. A company like my company will issue equity which increases the shares in issue. In return for doing that, it will generate capital which in our case gets deployed into Bitcoin. So we issue shares and we buy Bitcoin. The growth in that Bitcoin held is the BTC yield — you're calculating the growth in the BTC versus the dilution caused by issuing the equity, which in very simple terms is made possible when the mNAV is greater than one. Then the third thing — something that not a lot of people talk about — is the size of the company. Very simply, the model is ever so slightly easier the smaller the company. So if you look at the market cap of the company — one of the components of your mNAV calculation — you'll be able to see the size, with the theory there being — which isn't 100% true — that the larger you are the harder it is to raise additional capital to make that much difference to your BTC yield and therefore mNAV.
+
+**Allen Helm:**
+(0:08:22) You and I were talking kind of earlier — and Matt, I'd like to get your perspective as well here too. As CEO of Strive, we're talking about what's valuable to shareholders, but does that necessarily align with what's valuable to you as the CEO? What are you guys looking at ultimately at the end of the day to value your own companies?
+
+**Matt Cole:**
+(0:08:40) Yeah. So for us, we are on a mission to outperform Bitcoin over time, because if you aren't doing that, there's no reason to do the strategy — you should just buy a Bitcoin ETF. And so for us it was: how do we deploy our resources? We have a very talented team. There are a lot of talented teams in this space, but each team, like sports teams, have different strengths and different weaknesses. And we're an asset manager. And so as an asset manager, we're used to looking for alpha strategies — meaning, can you outperform Bitcoin without even taking Bitcoin-specific risk? That's the alpha side. But then on the beta side, I think the debt markets are evolving so quickly. When we announced our reverse merger in May, convertible notes were still the main way for people to get leverage. And now it's shifted to perpetual preferred equity instruments. And so we've found ourselves in a position — I think — as probably the only Bitcoin treasury company that's doing a reverse merger, so has a SPAC, no debt, raised $750 million of capital. That's become a very interesting opportunity for us to consider as we complete our merger. But that's how fast this space goes — when we were at Strategy World or the Bitcoin conference in America, that was not a thing. And so for us, it's just being nimble, having fun, putting our brains together to make the best decision. And that'll be different for us versus Andrew versus Nakamoto. But ultimately, I think we're in the early days of figuring out different ways to increase the amount of Bitcoin per share.
+
+**Allen Helm:**
+(0:10:17) Gurpreet, as Kraken Institutional is at the front lines here with a lot of these companies running the Bitcoin treasury playbook — you get to be privy to a lot of these conversations. What's your take on all this and how is Kraken supporting these companies?
+
+**Gurpreet Oberoi:**
+(0:10:31) I think Kraken is a service provider, so we try to level the playing field. We offer custody solutions, trading solutions, and lending solutions. What I've seen that's working is — traditionally when you buy a stock in public markets, retail, institutional, hedge funds buy a stock so the price can go up and they can sell at a higher price. So I think the winners I see in the treasury companies today are the ones that have really strong marketing strategies and hit velocity early on, so they can hit the ATM and keep the flywheel going. Where Kraken helps is we provide customized lending solutions — if somebody raises $750 million in Bitcoin, they can borrow from us for one week before they hit the ATM and increase their NAV. So Kraken as a service provider can really provide a strategy company differentiated access, increase NAV, and also — touching on tokenized stocks — MicroStrategy, Nvidia, they can trade with global distribution from Kraken's X Stocks. So from a service provider lens, I think all these areas each play a role in having a successful treasury company.
+
+**Allen Helm:**
+(0:12:16) So I want to start getting into — we talked about a lot of the tangible aspects here. I want to start getting into the intangible. It's been very fascinating to see over the course of the last 16 months the rise in the Bitcoin treasury company narrative. Early on you could say "hey, we're putting Bitcoin on the balance sheet" and it would do multiples of wonder for your stock performance. But I think general sentiment has moved past that. Savvy investors are really looking at the leadership teams that are executing this playbook, and Matt, like you mentioned, Bitcoin is the hurdle rate, so you guys are looking at some of—

@@ -54,6 +54,11 @@ Quick reference for key financial metrics tracked in the dataset, with data sour
 - **Use Case:** Cash position tracking
 - **Code Execution:** Yes - filtering, trend analysis
 
+### Debt
+- **Column:** Debt
+- **Use Case:** Debt position tracking, financial leverage analysis, net asset calculations
+- **Code Execution:** Yes - filtering, trend analysis
+
 ## Secondary Sources
 
 ### RNS Financial Statements

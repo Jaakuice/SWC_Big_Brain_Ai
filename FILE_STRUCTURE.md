@@ -87,7 +87,7 @@ Contains knowledge management files for organizing and navigating the dataset.
 **`Smarter Web Data.csv`**
 - **Type:** CSV data file
 - **Content:** Historical time-series data tracking SWC's financial metrics
-- **Key Fields:** Date/Time, Share prices (Open/Close/High/Low), Volume, BTC price (GBP), BTC balance, Bitcoin purchases, Share issuance, Market cap, mNAV (modified Net Asset Value), Sats per share, Cash, Yield metrics, Tennyson trading signals
+- **Key Fields:** Date/Time, Share prices (Open/Close/High/Low), Volume, BTC price (GBP), BTC balance, Bitcoin purchases, Share issuance, Market cap, mNAV (modified Net Asset Value), Sats per share, Cash, Yield metrics, Debt, Tennyson trading signals
 - **Time Range:** From IPO date (2025-04-25) onwards with hourly/daily granularity
 - **Purpose:** Core dataset for analyzing SWC's performance, Bitcoin accumulation, and share price movements
 - **Note:** Previously located at root level, moved to knowledge/ directory for better organization

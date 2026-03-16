@@ -45,9 +45,9 @@ This index maps queries to relevant data sources and provides selection guidance
 
 ### `/Smarter Web Data.csv` (Root)
 **Purpose:** Core quantitative dataset
-**Key Fields:** Date/Time, Share prices, BTC price (GBP), BTC balance, Bitcoin purchases, Share issuance, Market cap, mNAV, Sats per share, Cash, Yield metrics, Tennyson signals
+**Key Fields:** Date/Time, Share prices, BTC price (GBP), BTC balance, Bitcoin purchases, Share issuance, Market cap, mNAV, Sats per share, Cash, Yield metrics, Debt, Tennyson signals
 **Time Range:** IPO (2025-04-25) onwards, hourly/daily granularity
-**Triggers:** share price, BTC balance, Bitcoin holdings, mNAV, sats per share, market cap, volume, yield, how much Bitcoin, current price, historical data, trends, graph, plot, chart, calculate, projection, performance, returns, dilution, shares outstanding, cash position, ATH, price history
+**Triggers:** share price, BTC balance, Bitcoin holdings, mNAV, sats per share, market cap, volume, yield, how much Bitcoin, current price, historical data, trends, graph, plot, chart, calculate, projection, performance, returns, dilution, shares outstanding, cash position, debt, leverage, ATH, price history
 **Selection Tips:**
 - Use for any quantitative query
 - Filter by date range for trend analysis

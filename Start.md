@@ -165,8 +165,8 @@ Provide a comprehensive answer with:
 
 **Financial Data File:**
 - **`knowledge/Smarter Web Data.csv`** - Core financial time-series data (moved from root)
-  - Contains: Date/Time, Share prices, BTC price (GBP), BTC balance, Bitcoin purchases, Share issuance, Market cap, mNAV, Sats per share, Cash, Yield metrics, Tennyson signals
-  - **Triggers:** share price, BTC balance, Bitcoin holdings, mNAV, sats per share, market cap, volume, yield, how much Bitcoin, current price, historical data, trends, graph, plot, chart, calculate, projection, performance, returns, dilution, shares outstanding, cash position, ATH, all-time high, price history
+  - Contains: Date/Time, Share prices, BTC price (GBP), BTC balance, Bitcoin purchases, Share issuance, Market cap, mNAV, Sats per share, Cash, Yield metrics, Debt, Tennyson signals
+  - **Triggers:** share price, BTC balance, Bitcoin holdings, mNAV, sats per share, market cap, volume, yield, how much Bitcoin, current price, historical data, trends, graph, plot, chart, calculate, projection, performance, returns, dilution, shares outstanding, cash position, debt, leverage, ATH, all-time high, price history
   - **Cross-reference with:** RNS PDFs (for official purchase announcements), YouTube transcripts (for CEO commentary), Tennyson PDFs (for broker analysis)
 
 ### Regulatory Announcements (RNS)
