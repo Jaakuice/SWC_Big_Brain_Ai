@@ -54,7 +54,7 @@ This index maps queries to relevant data sources and provides selection guidance
 - Cross-reference with RNS for purchase dates
 - Use code execution for filtering, aggregation, plots
 
-### `/RNS/` (122 files)
+### `/RNS/` (125 files)
 **Purpose:** Official regulatory announcements
 **Date Range:** Apr 2025 - Mar 2026
 **Triggers:** RNS, regulatory, official announcement, Bitcoin purchase announcement, placing, fundraise, bookbuild, subscription, director appointment, TR1, major shareholder, trading update, AGM, general meeting, results, official filing, when did SWC buy Bitcoin, how much did they raise, new director
@@ -71,9 +71,9 @@ This index maps queries to relevant data sources and provides selection guidance
 - Keyword search in filenames for type-specific queries
 - Cross-reference with CSV for quantitative validation
 
-### `/Youtube/` (122 .txt files)
+### `/Youtube/` (126 .txt files)
 **Purpose:** Video transcripts with CEO insights and strategy discussions
-**Date Range:** Apr 2025 - Feb 2026
+**Date Range:** Apr 2025 - Mar 2026
 **Triggers:** YouTube, video, interview, podcast, transcript, what did Andrew say, CEO commentary, strategy discussion, Bitcoin Treasuries World, BTW, Week In The World, mNAV update, investor call, presentation, panel, conference, True North Now, IG interview
 **Key Series:**
 - "A Week In The World Of SWC" (Episodes #3-22) - Weekly updates
@@ -91,7 +91,7 @@ This index maps queries to relevant data sources and provides selection guidance
 **Purpose:** CEO's direct communication and real-time commentary
 **Date Range:** Jun 2024 - Mar 2026
 **Format:** `posts-YYYY-MM.json`
-**Statistics:** 939 meaningful posts
+**Statistics:** 945 meaningful posts
 **Triggers:** Andrew Webley, Andy, @asjwebley, CEO tweets, what did Andrew tweet, Andrew's view, CEO opinion, Webley said, think like Andy, Andrew's perspective, CEO social media
 **Selection Tips:**
 - Use monthly files for time-specific queries
@@ -131,7 +131,7 @@ This index maps queries to relevant data sources and provides selection guidance
 - Filter by date for time-specific research
 - Use for investment analysis and projections
 
-### `/Smarter Web/` (16 text files)
+### `/Smarter Web/` (17 text files)
 **Purpose:** Company documents, governance, investor materials, research
 **Key Files & Triggers:**
 | File | Use When Query Mentions |

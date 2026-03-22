@@ -1,0 +1,83 @@
+# Tech Focus: Compounding Bitcoin | Inside The Smarter Web Company’s Treasury Strategy
+**Date: 2025-08-07**
+**Video ID: 1NITXrjMcEM**
+**URL: https://www.youtube.com/watch?v=1NITXrjMcEM**
+**Duration: ~20:07**
+**Channel: Trade Live with IG. We have moved to IG UK channel**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- SWC Bitcoin holdings growth from ~50 BTC to 2,050+ BTC (with cash for 2,300+) in two months
+- Stock price volatility from 28p to £6 intraday
+- Three capital-raising strategies: private placements, ATM facility, and the new "Smarter Convert" bond
+- Smarter Convert structure: 0% interest, 5% conversion premium, 12-month term, worst case = return the Bitcoin
+- Meeting with Michael Saylor (Strategy) in London to discuss long-term approach
+- Cautious approach to debt despite bullish Bitcoin conviction
+- First publicly named institutional investor participating in the Smarter Convert
+- NAV reaching approximately £200 million with zero traditional debt
+- Apple analogy to simplify the convertible bond mechanics for investors
+- "Compound Bitcoin" thesis: why a Bitcoin treasury company can outperform holding BTC directly
+
+---
+
+**Host:**
+(0:00:00) Well, I am very happy to invite back Andrew Webley, the CEO of Smarter Web Company. How are you doing, Andrew?
+
+**Andrew Webley:**
+(0:00:07) I'm good, thanks. How are you?
+
+**Host:**
+(0:00:09) It's been, I think, two months since you came into the studio. Longest two months of your life.
+
+**Andrew Webley:**
+(0:00:16) Certainly some of the best two months of my life. Yeah, it seems like a lifetime ago that I came into your studio. Yeah, real lifetime ago.
+
+**Host:**
+(0:00:25) That's right. And the stock was at 28p. I think did you own 30 Bitcoin or 50 Bitcoin? Something along those lines. Give us the total now, the official release total of how many Bitcoin you now own.
+
+**Andrew Webley:**
+(0:00:43) So, we own 2,050 Bitcoin, but everyone can see from the public filings that we've released that we've got enough cash for over 2,300 Bitcoin. So that's a fair multiple from when I saw you which was only two months ago.
+
+**Host:**
+(0:00:59) That's right. And we've seen a lot of volatility in the stock. It's gone from 28p when you were on up to as high as — did it touch £6 at one point?
+
+**Andrew Webley:**
+(0:01:09) Yeah. Intraday.
+
+**Host:**
+(0:01:10) Yeah. So the volatility has just been incredible. We need to talk about this new move into these bonds because it's not just a convertible bond, is it? It's a smarter convertible bond.
+
+**Andrew Webley:**
+(0:01:26) Yeah. So when we listed the business and we IPO'd it, we did effectively private placements. So from the start up until now and into the future, we can raise capital through equity raising — private placements, whether that's from retail investors, high net worth investors or institutional placements. And then what we did is we devised a way that we could do something that's very common in the States, which is an ATM style facility. So that in the background every single day, providing it's an up day, we can effectively sell our own shares through an intermediary and we can raise capital that way. And then the third thing that we announced yesterday is what we've called Smarter Convert, which is the third strategy that we've got which we believe is an excellent way to generate additional capital for the business and in my opinion with zero downside for the business. Funnily enough, zero downside for the investors as well. And that's a third way that we can generate capital for the business to fulfill our business strategy.
+
+**Host:**
+(0:02:33) That was — and the way I like to think of it is pools of liquidity. And originally you were just swimming in this pool of liquidity of equity raisings. And the ATM like you say just gives you a nice little announcement every couple of weeks now that updates people on — almost you don't notice it because it's just like a reverse buyback is how I think of it. And then yeah this third one yesterday. If we're going to stick with the apples theme, you know, because Bitcoin does make it a little bit more complicated in people's minds, but the worst case scenario is people have given you £21 million, you instantaneously go and buy a load of apples and the very worst thing that can happen to the company is you have to give the apples back.
+
+**Andrew Webley:**
+(0:03:26) Well, yeah, but we keep 2% of the apples as well. So from the investor's point of view, they're sort of risking 2% of their apples in order to make a greater return. And from the business's point of view, we're hoping that it converts — the apples convert into equity. And then they become our apples. And it's a beneficial way of raising equity. So as an example, because the premium that they pay, the conversion price they pay is only 5% above the market price at the time, it's better to the tune of 5% for my shareholders that I can do it in that way if it converts. So, and there's no interest or anything like that on it. It's 0% interest from a really really credible investor. And that was the other thing — people started to understand the Smarter Convert yesterday and I think over the next few days they'll understand it and they'll see it how I see it. But the really cool moment also yesterday was it was our first public name that's become an institutional investor. Obviously, we've got institutional investors, but this is the first capital raising that we've done where we've been able to name the institutional investor, and they're really good people. So, that's great.
+
+**Host:**
+(0:04:44) And so, can we talk about how this came about? Did they come to you with the idea or, I know that you've been working on it for weeks. Did you start off with a seed and then you kind of negotiated on how it should look or was it simple to come up with?
+
+**Andrew Webley:**
+(0:05:04) Yeah. So, I think about everything all the time in terms of ways that we can generate capital and all of the other aspects of the business because, you know, in some ways it's very simple, in some ways there's a lot to do. So we think about all these things and we've got lots of ideas of different things we'll do in the future. Now, I met with Michael Saylor from Strategy a couple of weeks ago in London. And we had a good chat about what we should be doing longer term. But clearly his business is way bigger than ours at the moment. So one thing that I'm slightly worried about is exposing the business to any debt. So I'm quite cautious. I love Bitcoin. I've been investing in it for almost 10 years. I believe it's the best asset in the world. But my job as the CEO of the company that I set up 15 years ago — we listed this year — is to see that the company is very very successful for the medium to long term. So in the short term, we do have to be careful about debt. So we've had this idea and we've had loads of people suggest different things to us over the last couple of months and some of those things are good, some of them not so good. So the thing that I couldn't get my head around until very recently — let's say a week ago — is exactly how I could do this thing so that I was 100% happy to do it because I don't want to do it if there's any doubt, that's not good enough. So that's why the terms are in some ways very very simple, in my opinion very very clean, but also beneficial for everyone involved in my opinion. So, it's just getting the terms right. In any relationship, you have to make sure that the thing that you're doing together works for everyone. Otherwise, it won't work for the long term. It's as simple as that. So what I didn't want is a deal that was lopsided for the investor or for the company because it's not going to work for the long term. And we want to sell a lot of this particular instrument. So yeah, it just took a bit of time to get it right and I'm really pleased with it. There's a couple of small tweaks that we might make for future rounds. Maybe we'll increase the premium that they have to pay. Maybe we'll extend the duration from 12 months to 24 months. We want it to be quite short term.
+
+**Host:**
+(0:07:22) Yeah, that was the thing that kind of struck out to me was 12 months is relatively short in the life of a bond. So, definitely had it been 24 months I would feel a little bit more comfortable even — I like it as a shareholder. But yeah, 24 months — it just seems like a decision has to be made relatively soon because we know how time flies don't we?
+
+**Andrew Webley:**
+(0:07:51) Yeah. Well that's why it's priced as it's priced. So their conversion price is very very close to the current market price. When it gets into the second half of the instrument, so the second 6 months, I've got the right to force them to convert it if it's 50% above that. If you look at the last month or two, you can see — providing you believe in Bitcoin and you believe in what we're doing as a company — you can see how we'll quite comfortably get past that level. So that's why the 12 months is absolutely fine in my mind. And then you've also got to think about the fact that worst case scenario — and I put this in the announcement as well because I wanted to put it in simple terms, worst case, best case scenarios — worst case scenario, we give the Bitcoin back. And importantly, the £21 million that we've had come into the company, if Bitcoin falls in value, we give back the £21 million of Bitcoin that we bought with it. So we're not exposed to the volatility in the short term in one year. I don't think that you would necessarily want to structure it like that if it was based on fiat. But of course if it was based on fiat there would be other complications there. For example, there might be a small premium that you have to pay on the interest and things like that. So, I genuinely believe that it's a fantastic thing for the company. And I think there's going to be a lot of interest from other people, but like everything else that we'll do, we'll probably sell a lot of it, but we'll also sell it alongside our other activities and cap it to approximately 30%. But if you go back to those three things that we've used — the placements, the ATM, now Smarter Convert — any investor needs to step back and look at the three of them together. So they all work together to make the company bigger. Again, in my opinion.
+
+**Host:**
+(0:09:46) Exactly. It's almost like people who are scared about paying an MNAV premium and their thought process is right, why don't I just take the money and invest in Bitcoin? Well, this is basically doing that. This is giving them the chance to buy a convertible bond which is basically buying Bitcoin minus 2% with an upside call option on the Smarter Web Company.
+
+**Andrew Webley:**
+(0:10:12) Yeah, 100%. And obviously we've spoken to other people that are interested in this particular product already. And in the short time — i.e. 24 hours since the RNS came out — we've had people get in touch with us also expressing an interest as well. So there's a lot of people, there's a lot of institutions out there that believe in Bitcoin like I do. And there's a lot of people out there that have got a lot of Bitcoin and we always say what is better than Bitcoin? Well, the only thing in our opinion that's better than Bitcoin is compound Bitcoin, which effectively we're giving people some exposure to something like that. So yeah, I think it's a great solution for everyone — the shareholders, the new investors, and the company.
+
+**Host:**
+(0:10:56) So let's take a look at the website, this great Treasury analytics page that you put together. So Bitcoin held we see there 2,050. We see the NAV now up above 200 million sterling which is huge. Now, does that include the £21 million? And it includes the £8 million that you raised the other day, but it does not include any updated ATM amount?
+
+**Andrew Webley:**
+(0:11:27) No. So that's almost right. The figures on our dashboard, if you zoom up to the top where it says shares in issue and the market cap, we've put that in as a diluted figure. So what we did yesterday morning is for the shares in issue, we added in the shares that would potentially be issued if the Smarter Convert converts, just to give people as much transparency and as realistic a figure as they should be using if they're looking at our company. So then if you look at the NAV, the 200 million approximately figure — and it's worth saying when we're talking about our NAV of £200 million approximately — that we don't have any debt as a business. Zero debt, if you're not counting Smarter Convert as a debt because it's kind of debt, kind of isn't debt. So £200 million pounds...

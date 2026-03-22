@@ -1,0 +1,57 @@
+# How to Survive Market Volatility: Andrew Webley's Bitcoin Strategy
+**Date: 2025-10-21**
+**Video ID: OVAsSAydk28**
+**URL: https://www.youtube.com/watch?v=OVAsSAydk28**
+**Duration: ~6:14**
+**Channel: Roxom TV**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- Managing volatility as a CEO of a Bitcoin treasury company
+- Investor psychology during share price fluctuations
+- Why higher volatility actually benefits the company's business model
+- Importance of matching investment time horizons to strategy
+- MNAV (multiple of net asset value) trading at fully diluted levels
+- Bitcoin yield calculations: fully diluted vs non-fully diluted
+- Upcoming analytics dashboard with fully diluted metrics
+- ATM (at-the-market) proceeds and Bitcoin acquisitions
+- FX calculator and Jesse's PE bid graph on the new dashboard
+- Encumbered Bitcoin from the convertible note offering
+
+---
+
+**Host (Roxom TV):**
+(0:00:00) For Andrew, and this is something very interesting and important for you as a CEO of a treasury company. How do you live through these high volatility downturns? How is it for you?
+
+**Andrew Webley:**
+(0:00:20) Yes, good question really. So I've been investing in Bitcoin for almost 10 years and alongside Bitcoin, I've invested in also a lot of smaller companies, nothing to do with Bitcoin. Some of them have been terrible, and some of them have been pretty good. So I'm quite used to volatility.
+
+(0:00:39) That said, when you run a public company and your share price goes up a lot, everyone's very excited. And then when it comes down, some people are less excited. And I found that quite difficult, because I really care about our company. I believe that we've got a brilliant strategy for many, many years. I've got zero doubts in what we're doing. And I know how hard me and the team are working.
+
+(0:01:10) So when you see everyone working, in some cases seven days most weeks, and then you see the share price coming down, part of you thinks, "What else do we have to do?" And you get frustrated that some of the things that you're working on you can't talk about. But you just have to accept that that's part of the job.
+
+(0:01:33) There'll be times running a Bitcoin treasury company when things are ripping higher, everyone's making so much money, they're rushing to the garage and buying a Lamborghini or whatever people do with lots of money. And then there's other times when it's the opposite of that and everyone is getting quite annoyed. It's just the way it goes at the end of the day.
+
+(0:01:57) The only thing I don't like about the volatility — because at the end of the day, and you might not like me saying this, but the higher the volatility, the better it is for the company. It's kind of tied into the business model as much as some people won't want to hear that.
+
+(0:02:13) The only thing that I find difficult is when some people maybe haven't made the investment on the right time horizons. Because if I've got zero doubt in what we're doing, obviously that's because my time scales are of a certain duration.
+
+(0:02:33) And we're probably a victim of our own success in a way, where for the first couple of months everyone made a lot of money regardless of when they bought it. They would just pile in and the thing went higher. Whereas I think that now we're probably at that point again in my opinion where we came down to a one MNAV, fully diluted MNAV one. It's about 55p when I last looked at what one MNAV is in terms of share price, fully diluted.
+
+(0:03:10) We did come down to that. So I suspect and hope that we're on our way back again. I think we're incredibly cheap. Even like today it's traded a little bit above 70p and I still think that that is ridiculous. Can't imagine anyone that would be selling shares at that price in my opinion. But it is a market at the end of the day.
+
+**Host (Roxom TV):**
+(0:03:30) Yeah. Andrew, you began — I mean we went through this with Jesse last week — but you already began the quarter. First thing in the quarter, wake up, buy Bitcoin. So we got already a 50-something percent Bitcoin yield so far. Actually Ragnar was doing an analysis where actually it's a bit more. Can you please tell us about that as well?
+
+**Andrew Webley:**
+(0:03:54) Yeah, of course. I'd love to talk about that. So that's the difference between do you use fully diluted or not in your calculations. Our Bitcoin yield based on the announcement the other day — so not including today's announcement with the ATM proceeds or the Bitcoin buy that may follow that — is I think 0.58% on non-fully diluted, or if you work it out as the fully diluted, 1.66%. He said 1.7 on social media, assume that he's rounding to one decimal place.
+
+(0:04:33) And that's just how you work out the calculations. If you think about it, the more shares you've got in issue, when you then do a fundraise, the less the impact of that dilution is. So you kind of think fully diluted is a worse number if you like, in some ways. It's the most accurate number. So it's the one that you should be using.
+
+(0:04:55) So we're actually, funnily enough — I think I'm allowed to say this — in the very near future we're putting a new version of our analytics dashboard live on the website very, very, very soon. And on that we've built it all around the fully diluted. When we started building it we did have a toggle in there so people could toggle between fully diluted and what we've got at the moment, but then we thought it's probably more meaningful to force everyone to use the fully diluted numbers. So that's what we've done and people can see that soon.
+
+(0:05:33) And there's other things in there like an FX calculator. There's some new things. Jesse's PE bid has come to life in a graph. There's something that shows our total Bitcoin stack and the very small amount that we've classed as encumbered because it's exposed to the convertible offering that we've got.
+
+(0:05:59) So yeah, we always listen to what people come up with and try and adapt accordingly. And Alex who works in the team has worked very hard alongside Jesse and a little bit of my help on getting that analytics page ready to go live.
