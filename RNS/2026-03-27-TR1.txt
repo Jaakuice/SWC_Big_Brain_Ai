@@ -1,0 +1,220 @@
+TR-1: Standard form for notification of major holdings
+NOTIFICATION OF MAJOR HOLDINGS (to be sent to the relevant issuer and to the FCA in Microsoft
+Word format if possible)i
+1a. Identity of the issuer or the underlying issuer
+of existing shares to which voting rights are attachedii:
+
+The Smarter Web Company PLC
+
+1b. Please indicate if the issuer is a non-UK issuer (please mark with an “X” if appropriate)
+Non-UK issuer
+
+2. Reason for the notification (please mark the appropriate box or boxes with an “X”)
+x
+
+An acquisition or disposal of voting rights
+An acquisition or disposal of financial instruments
+An event changing the breakdown of voting rights
+Other (please specify)iii:
+
+3. Details of person subject to the notification obligationiv
+Name
+
+Andrew Smith
+
+City and country of registered office (if applicable)
+
+Essex, United Kingdom
+
+4. Full name of shareholder(s) (if different from 3.)v
+Name
+City and country of registered office (if applicable)
+
+5. Date on which the threshold was crossed or
+reachedvi:
+
+26/3/26
+
+6. Date on which issuer notified (DD/MM/YYYY):
+
+27/3/26
+
+7. Total positions of person(s) subject to the notification obligation
+% of voting rights attached to shares (total of 8. A)
+
+% of voting rights
+through financial instruments
+(total of 8.B 1 + 8.B 2)
+
+Resulting situation
+on the date on which
+threshold was
+crossed or reached
+
+2.98%
+
+0%
+
+2.98%
+
+Position of previous
+notification (if
+applicable)
+
+5.85%
+
+0%
+
+5.85%
+
+Total of both in %
+(8.A + 8.B)
+
+Total number of
+voting rights of issuervii
+
+10,486,658
+
+1
+
+8. Notified details of the resulting situation on the date on which the threshold was crossed or
+reachedviii
+A: Voting rights attached to shares
+Class/type of
+shares
+ISIN code (if possible)
+
+Number of voting rightsix
+
+Ordinary
+
+10,486,658
+
+% of voting rights
+
+Direct
+
+Indirect
+
+Direct
+
+Indirect
+
+(Art 9 of Directive
+2004/109/EC) (DTR5.1)
+
+(Art 10 of Directive
+2004/109/EC)
+(DTR5.2.1)
+
+(Art 9 of Directive
+2004/109/EC) (DTR5.1)
+
+(Art 10 of Directive
+2004/109/EC)
+(DTR5.2.1)
+
+0
+
+2.98%
+
+10,486,658
+
+SUBTOTAL 8. A
+
+0%
+
+2.98%
+
+B 1: Financial Instruments according to Art. 13(1)(a) of Directive 2004/109/EC (DTR5.3.1.1 (a))
+Type of financial instrument
+
+Expiration
+datex
+
+Exercise/
+Conversion Periodxi
+
+Number of voting rights
+that may be acquired if
+the instrument is
+exercised/converted.
+
+% of voting rights
+
+SUBTOTAL 8. B 1
+
+B 2: Financial Instruments with similar economic effect according to Art. 13(1)(b) of Directive
+2004/109/EC (DTR5.3.1.1 (b))
+Type of financial
+instrument
+
+Expiration
+datex
+
+Exercise/
+Conversion Period xi
+
+Physical or
+cash
+settlementxii
+
+Number of
+voting rights
+
+% of voting rights
+
+SUBTOTAL
+8.B.2
+
+2
+
+9. Information in relation to the person subject to the notification obligation (please mark the
+applicable box with an “X”)
+Person subject to the notification obligation is not controlled by any natural person or legal entity and does not
+control any other undertaking(s) holding directly or indirectly an interest in the (underlying) issuerxiii
+Full chain of controlled undertakings through which the voting rights and/or the
+financial instruments are effectively held starting with the ultimate controlling natural person or legal entityxiv
+(please add additional rows as necessary)
+
+Namexv
+
+Andrew Smith
+
+% of voting rights if it
+equals or is higher
+than the notifiable
+threshold
+
+% of voting rights
+through financial instruments if it equals
+or is higher than the
+notifiable threshold
+
+2.98%
+
+0%
+
+Total of both if it
+equals or is higher
+than the notifiable
+threshold
+2.98%
+
+10. In case of proxy voting, please identify:
+Name of the proxy holder
+The number and % of voting rights held
+The date until which the voting rights will be held
+
+11. Additional informationxvi
+I own 10,486,658 Ordinary Shares out of a total in issue 351,919,126. A total holding of 2.98%
+
+Place of completion
+
+Essex, United Kingdom
+
+Date of completion
+
+26/3/26
+
+3

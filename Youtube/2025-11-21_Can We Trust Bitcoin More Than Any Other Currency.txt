@@ -9,15 +9,16 @@
 ---
 
 ## Key Topics:
-- Bitcoin as a store of value versus traditional fiat currencies (pound, dollar)
-- The origin and mechanics of Bitcoin Treasury Companies, pioneered by MicroStrategy (now Strategy) and Michael Saylor
-- The Smarter Web Company's journey from web design agency to the UK's first Bitcoin treasury company
-- Why Bitcoin treasury companies trade at a premium (multiple) to their underlying Bitcoin holdings
-- Skepticism around crypto: the "crypto queen" OneCoin fraud, Sam Bankman-Fried and FTX collapse
-- Andrew Webley's career background at Hargreaves Lansdown and founding of The Smarter Web Company
-- Bitcoin fundamentals: finite supply, mining, 20-year price history
-- The cultural divide on Bitcoin: skeptics, the indifferent, and true believers
-- The Satoshi Nakamoto identity mystery and Craig Wright's failed court claim
+- Bitcoin as a superior store of value versus fiat currencies, which Andrew argues have been "badly managed"
+- The origin and mechanics of Bitcoin treasury companies, pioneered by Michael Saylor's MicroStrategy/Strategy in 2020
+- Smarter Web Company's IPO journey: from listing at 2.12p on Aquis, surging to over £5 (UK's best-performing IPO in 20+ years), falling to ~60p
+- mNAV (multiple of Net Asset Value) as the key valuation metric for Bitcoin treasury companies
+- FCA regulation, Bitcoin ETNs, and the barriers retail investors face buying Bitcoin in the UK
+- Distinguishing Bitcoin from other cryptocurrencies, and the "4-year hold" argument against losses
+- Skepticism about the multiplier effect between a Bitcoin treasury and an operating business
+- The "crypto bro" culture perception versus the reality of Bitcoin conference attendees
+- Personal security concerns for executives holding large corporate Bitcoin reserves
+- Andrew's ambition to list on the London Stock Exchange and eventually become one of the UK's largest companies
 
 ---
 
@@ -33,34 +34,30 @@
 **Andrew Webley:**
 (0:00:20) Through the power of Bitcoin, I've given my business a real shot at growth. If you look back historically at Bitcoin, broadly speaking, no one who held for more than four years has ever lost any money.
 
-**Hannah Prevett:**
-(0:00:35) Now, when you hear Bitcoin, I think people have three reactions, right? Their eyes glaze over, they are very skeptical, or they get really, really excited. What's your reaction?
-
 **Dominic O'Connell:**
-(0:00:46) Well, if you'd asked me 10 years ago, I would have sort of glazed over a bit, but now I'm reasonably excited because you can't write Bitcoin off and just say it doesn't matter. It's been around for 20 years. Lots of people own it. Lots of people have made money and lost money from it. So, yeah, I'm excited. I'm interested. I don't know enough about it and I want to know more. Which is just as well. We have our guest in today. Someone who's really taken a big play on Bitcoin, faces a lot of skepticism about the use to which he's putting it. And we're going to quiz him on that.
+(0:00:35) Now, when you hear Bitcoin, I think people have three reactions, right? Their eyes glaze over, they are very skeptical, or they get really, really excited. Well, if you'd asked me 10 years ago, I would have sort of glazed over a bit, but now I'm reasonably excited because you can't write Bitcoin off and just say it doesn't matter. It's been around for 20 years. Lots of people own it. Lots of people have made money and lost money from it. So yeah, I'm excited. I'm interested. I don't know enough about it and I want to know more. Which is just as well — we have our guest in today. Someone who's really taken a big play on Bitcoin, faces a lot of skepticism about the use to which he's putting it, and we're going to quiz him on that.
 
 **Hannah Prevett:**
-(0:01:15) I'm Hannah Prevett, the associate business editor of the Sunday Times.
+(0:01:15) I'm Hannah Prevett, the Associate Business Editor of the Sunday Times.
 
 **Dominic O'Connell:**
-(0:01:18) And I'm Dominic O'Connell, columnist at the Times and correspondent on Times Radio. And from the Times and the Sunday Times, this is The Business —
+(0:01:18) And I'm Dominic O'Connell, columnist at The Times and correspondent on Times Radio. And from The Times and The Sunday Times, this is The Business —
 
 **Hannah Prevett:**
 (0:01:27) — where we bring you the kind of behind-the-scenes conversations that we normally have with business people and put you ringside.
 
 **Dominic O'Connell:**
 (0:01:33) Picking apart one big business story with guests from the front line.
-
-(0:01:37) Our business today is Bitcoin and more specifically one of the latest developments in the world of crypto assets, Bitcoin Treasury Companies. Do you remember, Hannah, when you first heard the word Bitcoin or do you have any associations with Bitcoin yourself?
+(0:01:37) Our business today is Bitcoin and more specifically one of the latest developments in the world of crypto assets: Bitcoin Treasury Companies. Do you remember, Hannah, when you first heard the word Bitcoin, or do you have any associations with Bitcoin yourself?
 
 **Hannah Prevett:**
-(0:01:53) So I must admit I fall into the first category. So my eyes have glazed over and I think part of that is because of the kind of crypto bro culture that seems to —
+(0:01:53) So I must admit I fall into the first category — my eyes have glazed over, and I think part of that is because of the kind of crypto bro culture that seems to —
 
 **Dominic O'Connell:**
-(0:02:04) It is, it is a bro, comes out of the tech bro culture a bit, doesn't it?
+(0:02:04) It is a bro — it comes out of the tech bro culture a bit, doesn't it?
 
 **Hannah Prevett:**
-(0:02:08) Exactly. And I mean, my ears are piqued when I hear — so at the school gates actually some parents I know invested in Bitcoin quite early on and did really well, but I think they've done the sensible thing and now cashed that in and got out, which is what I think I would probably be —
+(0:02:08) Exactly. And my ears are pricked when I hear — so at the school gates actually, some parents I know invested in Bitcoin quite early on and did really well, but I think they've done the sensible thing and now cashed that in and got out, which is what I think I would probably do.
 
 **Dominic O'Connell:**
 (0:02:24) So you're hugely skeptical about Bitcoin.
@@ -72,64 +69,356 @@
 (0:02:26) You are.
 
 **Hannah Prevett:**
-(0:02:27) I am. I just think there are so many negative headlines around. If you look at the crypto queen, which is obviously back in the public domain in the last few weeks — she was sentenced to more than 11 years in jail for defrauding thousands of victims out of some 4.6 billion pounds which she converted to Bitcoin. And then of course we had Sam Bankman-Fried a few years ago when his crypto exchange imploded and he was sentenced to 25 years in jail. So I just think whilst you have these kind of characters associated with crypto, it does give ammunition to people like me who are skeptical — and I'm not alone. When I quizzed everyone on the business desk this morning, they were very much aligned with my thinking. But you aren't quite as skeptical, are you?
+(0:02:27) I am. I just think there are so many negative headlines around. If you look at the crypto queen, which is obviously back in the public domain in the last few weeks — she was sentenced to more than 11 years in jail for defrauding thousands of victims out of some 4.6 billion pounds, which she converted to Bitcoin. And then of course we had Sam Bankman-Fried a few years ago when his crypto exchange imploded and he was sentenced to 25 years in jail. So I just think whilst you have these kind of characters associated with crypto, it does give ammunition to people like me who are skeptical, and I'm not alone. When I quizzed everyone on the business desk this morning, they were very much aligned with my thinking. But you aren't quite as skeptical, are you?
 
 **Dominic O'Connell:**
-(0:03:10) No, I'm not. I think that's being a bit Luddite to be honest, because you can't ignore the fact that it's in play and it's working and it's been around for 20 years. For those who don't know, Bitcoin is what's called a crypto asset. It was invented by someone who we don't know the identity of, a guy called — well, he's — we think he's called Satoshi Nakamoto, who set up the basic digital architecture behind Bitcoin. In essence it's a digital asset, an entry in a ledger, of which there will only ever be a finite number. You get them by doing this process called mining, which is basically doing these mathematical proofs. You do it with a computer and you get a bitcoin out the back of it. The price has fluctuated wildly over the past 20 years. I remember actually buying a pizza in a trendy Shoreditch pub just for a piece about this new digital currency, which probably was nearly — maybe not 20 years ago, maybe 18 years ago — and I bought a pizza for, from memory, it was like two bitcoin or something like that for a £10 pizza. And now it's £79,000 a bitcoin. It's been a lot higher. So if I hadn't — if I'd forgotten the pizza, I probably wouldn't be here today.
+(0:03:10) No, I'm not. I think that's being a bit of a "lite" to be honest — because you can't ignore the fact that it's in play and it's working and it's been around for 20 years. For those who don't know, Bitcoin is what's called a crypto asset. It was invented by someone whose identity we don't know — a guy we think is called Satoshi Nakamoto — who set up the basic digital architecture behind Bitcoin. In essence, it's a digital asset, an entry in a ledger of which there will only ever be a finite number. You get them by doing this process called mining, which is basically doing mathematical proofs with a computer, and you get a bitcoin out the back of it.
+(0:03:47) The price has fluctuated wildly over the past 20 years. I remember actually buying a pizza in a trendy pub just for a piece about this new digital currency — probably nearly 18 years ago — and I bought a pizza for, from memory, about two bitcoin or something like that, for a £10 pizza. And now it's £79,000 a bitcoin. It's been a lot higher. So if I hadn't forgotten about the pizza, I probably wouldn't be here today. [laughter]
 
 **Hannah Prevett:**
-(0:04:15) Well, and people have done really well out of it, haven't they? And they go crazy when they lose it. Do you remember that guy who threw away his hard drive and then he was paying people with metal detectors to go through, you know, rubbish sites to try and find the hard drive?
+(0:04:15) Well, and people have done really well out of it, haven't they? And they go crazy when they lose it. Do you remember that guy who threw away his hard drive and then was paying people with metal detectors to go through rubbish sites to try and find the hard drive?
 
 **Dominic O'Connell:**
 (0:04:29) Didn't he then find someone to finance the excavation of the entire — I don't know what happened to that. Did he actually find the hard drive or not?
 
 **Hannah Prevett:**
-(0:04:35) No. And I actually had a quick look to see if there was an update, and this summer he's finally given up. But that's many years later. Yeah.
+(0:04:35) No. And I actually had a quick look to see if there was an update, and this summer he's finally given up. But that's many years later.
 
 **Dominic O'Connell:**
-(0:04:42) It was worth tens of millions of pounds. The other interesting thing was that people have vied or tried to claim that they are the inventor of Bitcoin, Satoshi Nakamoto. And last year we had a trial in the UK, a high court trial, where an Australian computer scientist called Craig Wright said, "Listen, I am Satoshi Nakamoto and I can prove it." And he lost the case and it was rather embarrassing for Mr. Wright.
+(0:04:42) It was worth tens of millions of pounds. The other interesting thing was that people have tried to claim that they are the inventor of Bitcoin, Satoshi Nakamoto. And last year we had a trial in the UK — a High Court trial — where an Australian computer scientist called Craig Wright said, "Listen, I am Satoshi Nakamoto and I can prove it." And he lost the case and it was rather embarrassing for Mr. Wright.
 
 **Hannah Prevett:**
-(0:05:05) Oh, awkward. So let's move to talk about crypto treasury companies. Dom, you've been looking into the history of this a little bit, haven't you? So, what are they and how did they come about?
+(0:05:05) Oh, awkward. So let's move to talk about crypto treasury companies. Dom, you've been looking into the history of this a little bit, haven't you? What are they and how did they come about?
 
 **Dominic O'Connell:**
-(0:05:16) Well, they're a new twist on the whole crypto scene. They're invented really by a company called MicroStrategy, which was an ordinary US company, ordinary internet services company, which bimbled along for years and years. It was run by a guy called Michael Saylor who had a few brushes with the regulators along the way. He had a fairly colorful history, it's safe to say, but it was an unremarkable company in that sense, providing internet services and other kind of online services to companies. But then in 2020, he went in a completely different direction and he decided to use the normal treasury function of a company — which is where a company holds its investments, its cash or holdings in US government bonds, these kinds of things, just its reserves — and he thought, I'm going to put almost all of these into Bitcoin. And then he went out and started raising money and he raised lots of money just to buy Bitcoin. And this is where the story gets really interesting, because you would think that the share price of MicroStrategy — Strategy as it's now known — would simply follow the value of the Bitcoin holding. It's obvious, isn't it? That's its asset like any other asset. But what happened instead was that this company Strategy, which coined this idea of Bitcoin treasury companies, it became worth on the stock market much, much more than the underlying Bitcoin. So there was this weird thing going on where investors were prepared to pay more to own Bitcoin through a company than they were than just to go out and buy the Bitcoin itself. It was a multiple. And now he — it is the biggest corporate holder of Bitcoin in the world and is still worth more on the stock market, not as much as it was, but still worth more than the underlying Bitcoin. Explain that.
+(0:05:16) Well, they're a new twist on the whole crypto scene. They were invented really by a company called MicroStrategy, which was an ordinary US internet services company that bimbled along for years and years. It was run by a guy called Michael Saylor, who had a few brushes with the regulators along the way — he had a fairly colourful history — but it was an unremarkable company providing internet and online services to companies.
+(0:05:43) But then in 2020, he went in a completely different direction. He decided to use the normal treasury function of a company — where a company holds its investments, its cash, or holdings in US government bonds, its reserves — and he thought: I'm going to put almost all of these into Bitcoin. And then he went out and started raising money, and raised lots of money just to buy Bitcoin.
+(0:06:10) And this is where the story gets really interesting — because you would think that the share price of MicroStrategy, Strategy as it's now known, would simply follow the value of the Bitcoin holding. That's its asset, like any other asset. But what happened instead was that this company, which coined this idea of Bitcoin treasury companies, became worth on the stock market much, much more than the underlying Bitcoin. So there was this weird thing going on where investors were prepared to pay more to own Bitcoin through a company than just to go out and buy the Bitcoin itself. It was a multiple. And now he is the biggest corporate holder of Bitcoin in the world and is still worth more on the stock market — not as much as it was, but still worth more — than the underlying Bitcoin. Explain that.
 
 **Hannah Prevett:**
-(0:06:59) Well, hopefully our guest can do just that. And the other thing that I find really interesting about Michael Saylor is that he was a Bitcoin skeptic or a "Luddite" as you just referred to me. But he was converted, right, as you say, in 2020.
+(0:06:59) Well, hopefully our guest can do just that. And the other thing that I find really interesting about Michael Saylor is that he was a Bitcoin skeptic — or a "lite" as you just referred to me — but he was converted, as you say, in 2020.
 
 **Dominic O'Connell:**
 (0:07:12) Yeah. So I think that's really interesting too. Well, should we get our guest in?
 
 **Hannah Prevett:**
-(0:07:17) I think we should. So this was really a US phenomenon, but now it's come over here. There are a few companies who are trying to do the same thing, this Bitcoin treasury strategy, here in the UK. And our guest is the boss, the founder and still chief executive of the biggest and the first — Smarter Web Company it's called. And his name is Andrew Webley. And we're going to be talking to him about how he did it following Michael Saylor, why he did it, and the reality of what the business is.
+(0:07:17) I think we should.
 
 **Dominic O'Connell:**
-(0:07:46) So, we're welcoming to the studio Andrew Webley, chief executive of the Smarter Web Company, the British disciple of Michael Saylor. Can I introduce you like that, Andrew?
+(0:07:17) So this was really a US phenomenon, but now it's come over here. There are a few companies who are trying to do the same thing — this Bitcoin treasury strategy — here in the UK. And our guest is the founder and still chief executive of the biggest and the first: the Smarter Web Company. And his name is Andrew Webley. We're going to be talking to him about how he did it following Michael Saylor, why he did it, and the reality of what the business is.
+(0:07:46) So, we're welcoming to the studio Andrew Webley, Chief Executive of the Smarter Web Company — the British disciple of Michael Saylor. Can I introduce you like that, Andrew?
 
 **Andrew Webley:**
-(0:07:55) I've been called worse things.
+(0:07:55) I've been called worse things. Just tell us — how you got started in all this, even before Bitcoin. How did you make your start in the business world?
 
 **Dominic O'Connell:**
-(0:07:58) Just tell us how you got started in all this, even before Bitcoin. How did you make your start in the business world?
+(0:07:58) Yes, go on.
 
 **Andrew Webley:**
-(0:08:04) Yes. So I started my career in 1999 and I joined a small company that became one of the biggest companies in the UK, the most successful retail investment company in the UK — Hargreaves Lansdown. So I did that for 10 years and I normally describe it to people as a well-paid apprenticeship. And it was a small company that became a FTSE 250 company after I left. It became a FTSE 100 company. So we listed that on the stock exchange and that was great. But then I got bored. So my job was the head of online, and I always wanted to run my own business. And I always remember Steve Lansdown saying that one of the most interesting things that he ever did was setting up his own business. So I left and I set up my own company, the Smarter Web Company, and that was over 15 years ago now.
+(0:08:04) So I started my career in 1999 and I joined a small company that became one of the biggest, most successful retail investment companies in the UK — Hargreaves Lansdown. I did that for 10 years and I normally describe it to people as a well-paid apprenticeship. It was a small company that became a FTSE 250 company after I left, and then a FTSE 100 company. We listed that on the stock exchange, which was great. But then I got bored. My job was Head of Online. I always wanted to run my own business, and I always remember Steve Lansdown saying that one of the most interesting things he ever did was setting up his own business. So I left and I set up my own company — the Smarter Web Company — and that was over 15 years ago now.
 
 **Hannah Prevett:**
-(0:08:49) And so what was the premise for the business? What exactly were you doing and how did you fund it in those early days? Did you just put some of your own cash in and bootstrap it or did you raise money from investors?
+(0:08:49) And so what was the premise for the business? What exactly were you doing and how did you fund it in those early days? Did you just put some of your own cash in and bootstrap it, or did you raise money from investors?
 
 **Andrew Webley:**
-(0:08:58) No. No. So, we never raised any money until this year, actually. So I started it in the good old-fashioned way. I set it up in one of the bedrooms in my house. And I used a very, very small amount of my own money to set it up and we were profitable in the first year. And going back to pre-listing times, because obviously I can't give any projections or anything like that now — we're a quoted company — we were profitable every single year for 15 years.
+(0:08:58) No. We never raised any money until this year, actually. I started it in the good old-fashioned way — set it up in one of the bedrooms in my house, used a very small amount of my own money, and we were profitable in the first year. And going back to pre-listing times — because obviously I can't give any projections now we're a quoted company — we were profitable every single year for 15 years.
 
 **Dominic O'Connell:**
 (0:09:28) What kind of things were you selling to companies? What did you make?
 
 **Andrew Webley:**
-(0:09:30) Yeah. So, I'm a developer, you know, a computer programmer. So I built a content management system, which is the thing that powers your website and pretty much every other website now. And then I sold that remotely over the internet way before remote working was trendy because of COVID. And I just marketed it in a much smaller way to how Hargreaves Lansdown marketed financial services. So I built a system that I could use to build websites for people. And then I sold that using marketing, direct marketing over the internet to people. And we built up a client base of over 250 clients that all pay a recurring revenue stream to the company. So about 30% of our revenue historically has been recurring.
+(0:09:30) So I'm a developer — a computer programmer. I built a content management system, which is the thing that powers your website and pretty much every other website. And then I sold that remotely over the internet, way before remote working was trendy because of COVID. I marketed it in a much smaller way to how Hargreaves Lansdown marketed financial services. I built a system to build websites for people, then sold that using direct marketing over the internet. We built up a client base of over 250 clients that all pay a recurring revenue stream to the company — about 30% of our revenue historically has been recurring.
 
 **Hannah Prevett:**
-(0:10:16) So, if you were interested in technology, is that what led you to Bitcoin because you were in that world already?
+(0:10:16) So if you were interested in technology, is that what led you to Bitcoin, because you were already in that world?
 
 **Andrew Webley:**
-(0:10:21) Yeah. Yes and no really. So, because I've been involved in investments because of Hargreaves Lansdown for about 25 years, I've always been interested in investing — sometimes well, sometimes badly — and then I stumbled across Bitcoin. I think it was 2017, 2018, it was just under 10 years ago. And its appeal to me initially was in part a —
+(0:10:21) Yes and no, really. Because I've been involved in investments through Hargreaves Lansdown for about 25 years, I've always been interested in investing — sometimes well, sometimes badly. And then I stumbled across Bitcoin, I think it was 2017 or 2018 — just under 10 years ago. Its appeal to me initially was in part as a medium of exchange and the potential there, and in part as a pretty volatile asset that you could attempt to trade.
+(0:10:53) It wasn't until Michael Saylor pivoted his business — just over 5 years ago — that I felt Bitcoin was something I would just hold forever. That was my Eureka moment with Bitcoin: when Michael Saylor took a public company, which I had experience with because of HL and investing, and Bitcoin, which I had a few years of experience in at that point, and smashed the two things together. That was it for me. I thought it was very much the future.
+
+**Hannah Prevett:**
+(0:11:26) Just to be clear — you'd personally bought some Bitcoin before you set up the crypto treasury part of the business?
+
+**Andrew Webley:**
+(0:11:32) Yeah. And our business — the Smarter Web Company — I think it was 2022, 2023, something like that — we actually advertised Bitcoin as a way people could pay us. So if you look at our website on the Wayback Machine, you can see several years ago, before this trend that's captivated lots of people's imaginations this year, we were advertising that people could pay us in Bitcoin because we believe in it. I genuinely believe it's the very best asset the world's ever seen.
+
+**Dominic O'Connell:**
+(0:12:06) So talk to us a bit about the crypto treasury. When did you set up that part of the business?
+
+**Andrew Webley:**
+(0:12:09) So I spent probably the last three years looking for a company like this in the UK because I love Strategy — I still hold shares in Strategy today. But because I live in the UK and I'm proud of the UK and I believe that the UK will be great again, I wanted a UK version and I couldn't find one. And then we got to about this time last year and I'd had enough of looking and I thought: well, if no one else is going to do it, I'm going to list my business on the stock market and pursue the strategy that I believe — which is what we've done.
+
+**Dominic O'Connell:**
+(0:12:43) Explain the strategy a bit more, because I think most people listening to this will think: okay, you have a company that's doing something — in your case selling web services — and then you have a Bitcoin holding. Why does one make the other better?
+
+**Andrew Webley:**
+(0:12:58) Yeah, it's a great question. So if you look at any good business — and to be fair you struggle to find that many of them nowadays — they've got a treasury function. Look at McDonald's — they probably make more money out of real estate than they do out of hamburgers. My business for the last 15 years has had money and it's had to do something with that money for the benefit of the shareholders — which before we became public was myself and my wife.
+(0:13:31) Every single business has a treasury function, whether it's a positive one with assets or a negative one with debt. We haven't got any debt. So for me, because I don't believe in the value of the pound, the dollar, the euro — what am I going to do with the cash that we've got? I'm going to hold it in Bitcoin because I believe it's much better to store the value there for the benefit of the business than in cash.
+(0:13:55) And if you look at our business strategy, which we clearly stated before we listed and also in an RNS a few days after, it's called our 10-year plan. Part of our strategy is growing our web design business and our acquisition strategy, and for that you need a balance sheet. So when everyone said to me over the last six months, "We love what you're doing Andrew, we want to invest in you" — the stronger I can make my balance sheet, the better the acquisitions and the better the growth we can deliver in the core business.
+(0:14:38) Through the power of Bitcoin, I've given my business a real shot at growth alongside its treasury function. My business wouldn't be able to grow without Bitcoin because the banks are not interested in investing in a small business. If you go to a bank and say "I need £100,000 or a million pounds to grow my business," they'll potentially say yes — and then they'll screw you in charges with initial fees and high interest rates.
+
+**Hannah Prevett:**
+(0:15:16) I think that's really interesting, and lots of small business owners I talk to say the same thing about how difficult it is to access capital and get loans from the bank. But how tempting is it to get distracted from the core business and frankly just obsess about crypto all the time? How do you make sure you're doing both, and crypto doesn't just become the thing?
+
+**Andrew Webley:**
+(0:15:39) Well, my business is a public business nowadays. So there are lots of things that are nothing to do with the core business that I have to do — like corporate governance, shareholder communications, these things. And I'll be honest, it's been quite hard going from a tiny business to a business that's a lot more in people's eyes, managing more things — not only our treasury, but more projects, having more people. I'm really leaning on what I saw at HL to try and structure the business. If you look at us today, we've got 10 or 11 people, and that will probably be 15 in another 6 months.
+
+**Dominic O'Connell:**
+(0:16:20) And as you say, you listed in April. Let's go through some of those steps. What was the float price?
+
+**Andrew Webley:**
+(0:16:26) We listed at 2.12p.
+
+**Dominic O'Connell:**
+(0:16:28) And how high did it go?
+
+**Andrew Webley:**
+(0:16:30) Intraday it went over £5. That does actually make our company the best-performing IPO in the UK — certainly in the last 20 years. Sometimes we say ever, but we've got data that firmly backs up 20 years.
+
+**Dominic O'Connell:**
+(0:16:46) And where is it now?
+
+**Andrew Webley:**
+(0:16:48) We're trading at about 60p. I think it's fair, with the benefit of hindsight, to say that maybe — and I don't control the market — maybe it became slightly overvalued for a period of time, and I believe it's very much undervalued now. I've always been told that markets are always wrong — they're either over or underpriced, never the right price. That's why the opportunities exist. But it's done really well, and it's been so satisfying for me to see a lot of people who've supported us do well, and I believe they will do very well in the future.
+
+**Hannah Prevett:**
+(0:17:21) And as you said just before, you and your wife were the only shareholders prior to the float. Have you personally sold any shares since the flotation?
+
+**Andrew Webley:**
+(0:17:30) The opposite, actually. I haven't got loads of cash despite what some people think. I've got a lot of assets now. We own approximately 10% of the company. And I genuinely believe I've bought something like £200,000 worth of shares at probably — and this definitely doesn't make me a good investor — at probably 40 times the price that I sold a good chunk of the business at when we IPO'd. I didn't really sell it, I just gave up a lot of the equity in exchange for the investment. But no, I haven't sold any shares. I've bought shares.
+
+**Dominic O'Connell:**
+(0:18:08) So the basic idea of a Bitcoin treasury company is that the stock market values it at more than the underlying Bitcoin. At your current price — are you worth more on the stock market than your underlying Bitcoin?
+
+**Andrew Webley:**
+(0:18:21) As of today, ever so slightly more. We call it mNAV, which is basically the relationship between —
+
+**Dominic O'Connell:**
+(0:18:31) This is a new stock market valuation we're going to have to get used to. Not share price, not market cap, not EPS, not anything like that. This is mNAV. Do explain what it is.
+
+**Andrew Webley:**
+(0:18:41) So mNAV in the strictest sense of the word is your enterprise value — which is broadly similar to your market cap — and then it's the relationship between that and your underlying assets. At the moment in Bitcoin treasury land, no value really gets applied to operating businesses. So people look at us largely on the value of the Bitcoin treasury, but in time as the business grows, we believe they'll apply some value to that too.
+(0:19:10) But the one thing that people don't talk about is the reason why people pay a higher value than the value of your Bitcoin — it's because of the growth you're going to deliver through the operating business and the way you use capital markets to generate more Bitcoin. If you look at us as a company, we started our public life with next to no Bitcoin. Today we have over 2,500 Bitcoin, which at today's price is over £200 million. We've used capital markets to fundraise as opposed to borrowing from a bank, and we've effectively increased the Bitcoin per share for our shareholders — probably by 50, 60, 70 times over that period.
+
+**Dominic O'Connell:**
+(0:20:04) But that path of the share price from float to £5 down to 60p suggests to me that actually people aren't remotely interested in the Bitcoin treasury strategy. They're interested in this as a bit of a meme stock, something to have fun with.
+
+**Andrew Webley:**
+(0:20:19) I think that's a wider question than just Bitcoin treasury companies, in all fairness. My opinion is that it's more a reflection of the short-term nature of a lot of investors nowadays. There are a lot of people in the UK who are under a great deal of pressure — they've been squeezed by inflation and the cost of living — and because of that I think it's encouraged a lot of short-term mentality. And then the growth of technology over the last 20 or 30 years has created that instant gratification thing. So a lot of people who think they're investors are perhaps incredibly short-term investors and borderline traders.
+(0:21:22) If you look at our company, there's that sort of herd mentality and short-term chasing of gains, whereas what we've said to people all along is that we believe Bitcoin is going to be the best asset in the world for decades to come. But we've got no idea what it's going to do today or tomorrow — it's either going to go up, down, or do nothing.
+
+**Hannah Prevett:**
+(0:21:43) And you just mentioned the comparison with the US. What impact do you think Trump and the very pro-crypto administration has had?
+
+**Andrew Webley:**
+(0:21:53) I think it's been positive. But for as long as I've been investing in Bitcoin, I could look at every single year and see some years with bad things and most years with good catalysts. If you look at last year in the States, when Trump got control of the administration, there were other things that year as well. For example, I believe it was March 2024, the SEC allowed Bitcoin ETFs — which in the UK the FCA has only just allowed Bitcoin ETNs. You've always got these catalysts for Bitcoin. It's something that market commentators often like to do — they like to attach narratives to price moves.
+
+**Dominic O'Connell:**
+(0:22:41) We should just stop and say — ETN is an Exchange Traded Note. A bit like a tracker fund but slightly different.
+
+**Andrew Webley:**
+(0:22:46) Yeah, for the man on the street it's probably —
+
+**Dominic O'Connell:**
+(0:22:50) It's basically a tracker fund that follows the price of Bitcoin, and because it's been approved — in the US, a retail investor can now go and buy it, which they can't do in the UK.
+
+**Andrew Webley:**
+(0:22:59) Exactly. It's pretty much the same thing as an investment fund that tracks the price of Bitcoin. And that's hugely positive because that means the FCA and the normal person on the street is now being told in a small way that it's okay to own Bitcoin. Over the last five or six years, for people like me, it's been incredibly difficult to buy Bitcoin — your bank will stop you a lot of the time. So it's all positive.
+
+**Dominic O'Connell:**
+(0:23:34) And it's worth saying just as a bit of a diversion — the FCA's position, the Financial Conduct Authority here in the UK, which is meant to safeguard retail investors, has until very recently basically said: "Don't buy Bitcoin. It's not regulated. You have no protection. It could go to zero."
+
+**Andrew Webley:**
+(0:23:53) Yeah. And even now, when they're allowing people to buy ETNs, they're still attaching the wrong message in my humble opinion.
+
+**Dominic O'Connell:**
+(0:24:03) The warning is still on the website, isn't it?
+
+**Andrew Webley:**
+(0:24:06) Yeah. And they say — which I've got a big problem with — that Bitcoin's got no intrinsic value. That's like saying to me, 25 years ago when I started working with the internet, that the internet's got no intrinsic value. It's a ridiculous thing to say.
+(0:24:21) What's very interesting — and I have to stress I'm not a political person in any way, I'd support any political party trying to improve the UK, and I'm yet to find one — but there are some glimmers. I think Nigel Farage came out this week saying that he would build a Bitcoin reserve for the country and lower the capital gains tax for people holding Bitcoin. So there are glimmers of hope out there.
+
+**Hannah Prevett:**
+(0:24:50) But there still are many skeptics, aren't there — of which I am probably one. I did a very quick straw poll on the business desk before we came down here to record this episode today, and basically all of them say it's a scam, it's a Ponzi scheme, etc. And one of them, a reporter on the team who knows this world very well, said: "If it's something you can't explain, then basically it's dodgy and I'm not going anywhere near it." So there are still those people. How do you win them round? And also — when you speak to people in your normal life, I don't know if you have children, but parents at the school gates or your school friends — when you gather around at dinner parties and talk about what you do, do they think you're some kind of snake oil salesman?
+
+**Andrew Webley:**
+(0:25:39) No. I think it's really important to firstly differentiate between Bitcoin and every other crypto. Bitcoin and crypto are completely different things. I personally do not invest in any other crypto — I don't even like the word. I think most of them are rubbish, in fairness, and maybe in the future some of them may have some merit, but probably not as a treasury asset.
+(0:26:08) The second thing to say is that if you look back historically at Bitcoin, broadly speaking, no one who held for more than four years has ever lost any money. So it's the actual time scales of people — if I buy something today and expect to sell it in 3 days' time, then I'm gambling. It's either going to be worth more, less, or the same. I think it's a lack of understanding which will improve over time.
+(0:26:35) In terms of my children — other than the fact that they don't see me so much at the moment — I think they're pretty proud of what we've done in our very small way for the UK. We've created a company that's listed and grown, which is pretty unusual in the UK equity markets over the last 16, 17 years since the financial crash — which is actually why Bitcoin was invented.
+(0:27:03) And my friends and family are slowly but surely getting the message. What I always say to anyone who wants to speak to me about Bitcoin is: I believe it's the best asset in the world, but you need to research it. And if you believe it's got a place for, say, 1%, 3%, or 5% of your portfolio, then you just dollar-cost average in. I make a specific point of saying that just because I've got pretty much 100% of everything I own invested in Bitcoin and Bitcoin treasury companies, no one else should really do that unless they're as convinced as me. But in my opinion, everyone should have say 3 or 5% — an allocation to Bitcoin. It's almost financially irresponsible not to.
+
+**Hannah Prevett:**
+(0:27:54) In the same way some people say you should allocate 5% to gold or something like that?
+
+**Andrew Webley:**
+(0:27:57) Yeah. Gold, property — my son is 17 and I talk to him a lot about investment portfolios, and that's exactly what I say to him: you should have everything.
+
+**Dominic O'Connell:**
+(0:28:07) Let's go back a bit to that argument you made about using Bitcoin as the funding mechanism for the rest of the company. I don't quite follow that argument, because you could have used the money you raised to invest in the company directly. There's nothing magic about Bitcoin as an asset — it doesn't give you any kind of multiplier to fund more of the business. You could have used that money to fund the company. What is that connection? I don't get that.
+
+**Andrew Webley:**
+(0:28:35) Yeah. So what I believe is that Bitcoin on average is going to do approximately 30% every single year for the foreseeable future.
+
+**Dominic O'Connell:**
+(0:28:43) But I don't need to own your company to capture that for myself.
+
+**Andrew Webley:**
+(0:28:47) No, but if you want the exposure to what we offer, which is our overall business —
+
+**Dominic O'Connell:**
+(0:28:52) I don't want to buy your web listing business. I can buy Amazon if I want exposure to that or whatever it is. I still don't see this magic source that makes the combination better than two separate holdings.
+
+**Andrew Webley:**
+(0:29:05) Well, what you want to do is go back 6 months and look at the amount of Bitcoin we held for every single shareholder, and then look at the amount of Bitcoin we hold today for every single shareholder. Forget about the operating business, forget about everything else.
+
+**Dominic O'Connell:**
+(0:29:22) Yeah, but you've raised the money to do that. That's fine — you've raised the money and bought more. Of course you've got more.
+
+**Andrew Webley:**
+(0:29:26) No — per share. Per share.
+
+**Dominic O'Connell:**
+(0:29:29) That's because the share price has come down.
+
+**Andrew Webley:**
+(0:29:31) No, it's because of the multiple in the share price above the net asset value that allows us to use capital markets to raise capital at a premium, which allows us to buy more Bitcoin.
+
+**Dominic O'Connell:**
+(0:29:42) Sounds like a perpetual motion machine.
+
+**Andrew Webley:**
+(0:29:44) No, because it works in the opposite way as well. If you trade at a discount and you've got a large balance sheet, you can use that balance sheet responsibly for certain things. And going back to the invention of Bitcoin — if you look at why it was invented, it's because the banks took irresponsible strategies with the leveraging of the property market, and that's what ruined the global economy. We're arguably still all paying the price of that. So what Bitcoin treasury companies are doing nowadays, by using debt responsibly, is a very different thing to irresponsible leveraging.
+
+**Hannah Prevett:**
+(0:30:27) One of the things I'm really interested in is the culture around this. I know you've made the distinction between crypto and Bitcoin, but leaving that to one side for a moment — big crypto events, and I know you said you're travelling a lot, flying around the world to various conferences — what do you have to say about the culture? In my head it's very much a tech bro culture. I don't feel like there'd be any place for me at one of those type of events. Am I wrong?
+
+**Andrew Webley:**
+(0:30:58) Yeah, you're definitely wrong. You get all sorts of people. I was in Hong Kong recently and I was speaking to a 60-year-old lady — I think she was there because she was trying to find opportunities for her son, that's what I deduced.
+
+**Hannah Prevett:**
+(0:31:11) It wasn't the crypto queen, was it?
+
+**Andrew Webley:**
+(0:31:13) No, no — she was actually a professor at one of the most prestigious universities in Hong Kong. Super smart. Way smarter than I'll ever be.
+(0:31:22) You get lots of people. You get people in suits trying to sell you things because there's a lot of businesses that rely on the Bitcoin ecosystem. Financial services companies — some of the biggest financial services companies in the world support Bitcoin nowadays. That was very different a few years ago.
+
+**Dominic O'Connell:**
+(0:31:42) I think HSBC just announced they were going to do something in Bitcoin.
+
+**Andrew Webley:**
+(0:31:45) Yeah. There are numerous examples. You can even go back to Strategy — the guy that we all look up to, Michael Saylor, wasn't a fan of Bitcoin originally. So lots of people have gone through the process of thinking "it's a scam or whatever" and then eventually they see the light.
+
+**Dominic O'Connell:**
+(0:32:02) Become evangelists. Yeah. But all the language you just used — forgive me for saying it — reminds me of a bit of a cult. Like, he's the cult leader, he was converted, he's seen the light, and now you all see the light too. I find it really terrifying.
+
+**Andrew Webley:**
+(0:32:16) The easiest way to get comfortable with it is to look at comparables — look at history. So if we apply that to business and we look at the internet: I remember the early days of the internet in 1999 when I started my career, and lots of people would say "What's this dot-com rubbish? It's never going to take off."
+(0:32:37) And if you remember that time, a lot of it didn't work out — you had ridiculous things. But then you did have things that really worked out: Amazon, Google, a few years later Facebook. It's just a new technology. I even remember when I started my career, not everyone had a computer on their desk. When I set up my business, the first iPad was invented a year later. So there are lots of things that come around that at first you think are crazy — mobile phones, another great example.
+
+**Dominic O'Connell:**
+(0:33:08) That's a false analogy though, isn't it? Because Amazon and the iPhone were disruptive technologies that were better than what was there before — it was just replacing one technology with another. What you're saying with the Bitcoin treasury company is something more. You're saying that owning a certain kind of asset makes the other half of the company worth more, and I think that is a leap of faith really — which the share price shows.
+
+**Andrew Webley:**
+(0:33:33) Sort of yes and no — I would politely disagree. I would say that Bitcoin is a better asset than what it's here to replace, which is fiat currencies. And I would say Bitcoin treasury companies, for people that understand them, are better than Bitcoin because they offer compound Bitcoin — the growth in Bitcoin per share. And going back to my business — building your treasury on Bitcoin is a very sensible thing to do because it allows you to build your balance sheet to grow a business that wouldn't have the capital to grow without having that aspect to it.
+
+**Dominic O'Connell:**
+(0:34:12) But there are lots of companies that have grown just fine without Bitcoin — they've used the stock market, bank loans. They didn't need Bitcoin to grow, and some of the most meteoric growth in companies has had nothing to do with Bitcoin.
+
+**Andrew Webley:**
+(0:34:24) No, but if we look at the data — in the last 6 months in the UK, we've raised approximately £200 million worth of capital. And I would suggest there's not that many other companies in the UK that have raised that amount of money from the UK capital markets. So that shows you the demand that investors have got for things that are different. My business is different.
+
+**Dominic O'Connell:**
+(0:34:46) You're planning to do stuff with their money, aren't you? You're planning to go off and do acquisitions and other stuff. They've given it to you to buy Bitcoin and you're eventually going to do something different with it.
+
+**Andrew Webley:**
+(0:34:54) Well, we're going to use it to grow the business by having the balance sheet. They probably wouldn't have given it to me if I'd said that instead of holding my treasury in Bitcoin, I'm going to hold it in pounds or, you know, marshmallows or something. So it's the overall proposition, and also our management team — that's why people have said, "Yeah, I like that idea, we'll go for it."
+(0:35:25) And I think that's good for the UK capital markets, because we've shown — and this is one of my gripes — that in the UK we don't get appreciated for things on the global stage. My company is my small contribution to that. We've probably got 25% of our investors that are global, and that's really good for a UK company. We've helped show people that you can do things in the UK. And what I hope will show in the future is that other businesses will say, "Actually I like what Andrew's done — I've got a great idea for a business, I need a few million pounds, I can explain that to people and use capital markets to grow." If we look at the London Stock Exchange and the Aquis Stock Exchange over the next couple of years, perhaps we'll have more smaller businesses listing. Smaller businesses are my passion.
+
+**Dominic O'Connell:**
+(0:36:19) We should probably say that Aquis, which people won't be familiar with — it's a stock exchange, but it's not the main market. It's not the London Stock Exchange. It's a private market for small companies.
+
+**Andrew Webley:**
+(0:36:29) Yeah. They describe themselves as the growth market. When we decided to list, we looked at the London Stock Exchange and we looked at Aquis, and we went for Aquis because it was — to be blunt — cheaper and quicker. And our aspiration is that we'll move to the London Stock Exchange at the appropriate moment. So if you've got an ISA or a SIPP or you use a platform, you can buy shares on one of the two markets.
+(0:37:14) And funnily enough, when we listed on it, we were one of the smallest companies, and now we're the biggest company on the segment of Aquis that we're on. We're the only company ever to get to a billion-pound market cap on Aquis. We've obviously come off a bit from that level, as we've discussed. I'm sure we'll go back there in the future, but that's another pretty cool achievement.
+
+**Hannah Prevett:**
+(0:37:43) So what's the time frame? What are you looking at in terms of entering the FTSE 100, if indeed that does happen?
+
+**Andrew Webley:**
+(0:37:49) I have to refer back to what the lawyers have told me to say, which is it's an aspirational goal.
+
+**Dominic O'Connell:**
+(0:37:57) We've got this 10-year plan which certainly doesn't lack ambition, does it?
+
+**Andrew Webley:**
+(0:38:00) No. I have said that I would like to be one of the biggest companies in the UK, and then maybe in time the biggest. That would need to be approximately £160 billion in market cap — a pretty hefty target. Probably if we double in value, we'd be big enough to be on the FTSE 250. Clearly we cannot be on the FTSE 250 until we're on the London Stock Exchange. So we'll just see how that one goes.
+
+**Dominic O'Connell:**
+(0:38:32) Can I just come back to one thing you said earlier, which might be a good way to wrap up? I think a lot of people listening might struggle to make some of the connections between the Bitcoin holding and the operating company — all that stuff we've talked about. But one thing you said that I think resonates with a lot of people, and may explain what's happened to gold this year, was something you said early on: that you don't trust traditional currencies. You don't trust the pound. You don't trust the dollar. Why don't you trust them?
+
+**Andrew Webley:**
+(0:38:58) Because they've been badly managed, if I'm honest about it. The great thing about Bitcoin is there's only ever going to be 21 million of them. And individuals and companies can buy fractional Bitcoin, so it's not like there are literally only 21 million units — they can be divided up into tiny, tiny segments. That's fundamentally different to the pound or the dollar, which is essentially the equity of the government. It's used by the government — not that well, but hopefully at some point it will be used for the benefit of the population.
+(0:39:37) That's why Bitcoin is also better than gold — because gold is not easily portable. I can send hundreds of millions of pounds worth of Bitcoin from one place to another. It would take about an hour to fully settle on the blockchain, but effectively in seconds. Whereas gold is physical. If one day we can go to space, gold's finished — if we can mine what's potentially in space. It's been here for 2,000 years. Bitcoin, no — because it's built into the mathematics. Somebody once told me that if you could extract all the gold from the ocean, gold would be finished as well. I've never got around to looking that up. But Bitcoin is better than all these other assets because of its inherent properties, and that's why it was designed like that.
+
+**Hannah Prevett:**
+(0:40:29) Can I ask you just one final question? I've been talking to chief executives recently about their personal security in light of events that have happened in recent years. As you point out, you have a lot of Bitcoin in your company, and you just made the point that you could transfer hundreds of millions of pounds worth of Bitcoin very quickly — particularly, perhaps, if forced by a particularly burly man standing over you. How do you think about your personal security? Do you have to have personal security? We've heard about people being murdered for Bitcoin.
+
+**Andrew Webley:**
+(0:41:05) So, clearly —
+
+**Hannah Prevett:**
+(0:41:06) You can't tell me.
+
+**Andrew Webley:**
+(0:41:07) Well, no — we're transparent about everything. When we listed the business, I've had to learn a lot of things over the last 6 months because, to be fair, the success has come quicker than we were expecting. So we've got a lot of security in place for me and my family personally. There are little things like I can't go to certain events, I have to be driven to certain events — just things that I'd rather not have to do, but that's how it is.
+(0:41:34) I've got friends in similarish positions who have moved out of the UK for that very reason. The Emirates is quite a popular destination — not just because of the tax, but because of the zero tolerance attitude to criminals. But I'm not going to do that because I love the UK.
+(0:41:55) And as a company, right from before we listed, we set everything up properly. I always use the example of our CFO — if you track down our CFO and put a gun to his head, he couldn't give you the Bitcoin. We'd have to say goodbye to the CFO. And it's the same with me. There's not one person in our organisation that can move the Bitcoin without other sign-offs.
+
+**Dominic O'Connell:**
+(0:42:27) Brutal. [laughter] Well, that's a great shame because I was looking forward to my retirement in New Zealand actually.
+(0:42:33) Listen, Andrew, we've run out of time. Thank you very much for being so generous with your time and explaining it all to us. Thanks very much, Andrew Webley, Chief Executive of the Smarter Web Company.
+
+**Hannah Prevett:**
+(0:42:43) So, Dom, you heard it all from Andrew there. Did he convince you? Did he persuade you out of your "lite" views about Bitcoin?
+
+**Dominic O'Connell:**
+(0:42:48) [laughter]
+
+**Hannah Prevett:**
+(0:42:51) I'm never going to forgive you for calling me a lite, Dom. But do you know what? Maybe I wouldn't say I've seen the light totally — it's not all sunshine and rainbows — but he's very convincing and very credible. I think that's the other thing: there are all these preconceived ideas about people who are heavily into crypto and Bitcoin. But yeah, I think he made a very compelling argument. How about you?
+
+**Dominic O'Connell:**
+(0:43:16) Well, I hear his arguments around owning this particular type of asset, but I still struggle to see the multiplier effect between owning Bitcoin and having that operating company. I think a lot of investors will still think: well, actually, I'll just hold the Bitcoin myself if I really wanted to buy Bitcoin. And once Bitcoin investment funds come along in the UK — which they will eventually, and they'll be regulated — then I think a lot of investors will just say: well, I'll just buy the Bitcoin fund. I don't really care about his operating company and his strategy to marry the two together.
+(0:43:49) The proof will be in what he does. If he does get to the main market and makes a success of this acquisition strategy, then I think those doubts will be answered.
+
+**Hannah Prevett:**
+(0:43:56) I think it's really interesting because — perhaps it's people who you referred to earlier as "lites" — who invest in tracker funds, you know, nice steady stable investment funds that plot along. They're used to investing in stocks and shares. I think this is kind of a middle ground — it feels like the structure that they're used to. It's not a million miles away from something else, it sort of looks the same and behaves similarly but might give a better return. Maybe there's some comfort in the way it's structured.
+
+**Dominic O'Connell:**
+(0:44:39) Possibly. But you talk about volatility and investment — well, if you'd stuck your money at the start of the year into a FTSE 100 tracker, the most common kind of investment, you would have made 20%. The FTSE 100's had a pretty steady, pretty good year. Whereas if you'd bought the Smarter Web Company — thinking "hooray" — and bought it at the wrong time, you might have gone from £5 when it had that billion-pound valuation all the way down to 60p. So you'd have lost most of your money. So how would you feel about volatility and returns versus the FTSE 100's stability?
+
+**Hannah Prevett:**
+(0:45:13) But doesn't that come back to his point about volatility?
+
+**Dominic O'Connell:**
+(0:45:16) Yeah, some people — some investors love volatility. That's another whole argument we didn't get into.
+
+**Hannah Prevett:**
+(0:45:20) Yeah, absolutely, not time for that today. [laughter]
+(0:45:22) Anyway, this is The Business. I'm Hannah Prevett.
+
+**Dominic O'Connell:**
+(0:45:24) I'm Dominic O'Connell. As well as listening to us, you can also catch the show on YouTube. I was recognised on the street the other day about the Jim Ratcliffe thing.
+
+**Hannah Prevett:**
+(0:45:35) Were you indeed? I was recognised in a bar the other day. So I'm not sure what that says about us — you spend more time pounding the pavements and I spend more time in bars. [laughter]
+(0:45:43) You can like and subscribe on all the platforms — YouTube and the various podcast platforms. Do leave a comment or get in touch with us at thebusiness@thetimes.com.
+
+**Dominic O'Connell:**
+(0:45:54) We will see you next week, which is budget week.
+
+**Hannah Prevett:**
+(0:45:57) Can't wait. See you then.
+
+**Dominic O'Connell:**
+(0:45:58) See you.

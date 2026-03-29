@@ -1,0 +1,423 @@
+# A Week In The World Of SWC Episode #15
+**Date: 2025-09-13**
+**Video ID: H50VAfXSShc**
+**URL: https://www.youtube.com/watch?v=H50VAfXSShc**
+**Duration: ~46:39**
+**Channel: SWC and BTC**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- Weekly ATM update: £2.6M raised and converted to ~30 Bitcoin, continuing accumulation amid quiet news week
+- SWC share price action: run up to 172p, high volume trading days, discussion of whether the bottom is in
+- Bitcoin macro outlook: Morgan Stanley forecasting 3 rate cuts, expectations of explosive Q4 and a $140-150K target
+- Four-year cycle debate: arguments for the cycle being "over" vs. traditional corrections, role of ETFs, institutional buyers, and reduced retail influence
+- Financial Times article: SWC cited as UK's biggest Bitcoin buyer "eyeing struggling rivals and FTSE 100 birth"
+- M&A mechanics: how SWC could use its mNAV premium to acquire companies trading below 1x mNAV via share issuance rather than cash
+- Potential acquisition targets reviewed: Bitcoin Treasury Corp (Canada), Ming Shing Group (Hong Kong), Empire Digital, Fold, DDC, CIMG, and others from bitcointreasuries.net
+- Hong Kong connection: speculation that Andrew Webley's recent Hong Kong trip may be linked to an Asia-based acquisition target
+- LSE uplisting preparations: new CFO hired, prediction of uplisting before end of November
+- Community growth: SWC community crossing 4,300 members despite bearish sentiment period
+
+---
+
+**Host:**
+(0:00:06) Welcome everyone. Glad you could all join us. It's been a week since I was talking to Jesse. First of all, I just want to sort of cover off what's happened in that week. We had the latest update from the ATM on Monday, which I think was £2.6 million. And then later this week that was then converted into Bitcoin as we would expect. So all in all quite a quiet week on the news front.
+
+Zinc, anything you want to say about those two? I mean, sorry — should have asked the question second. I mean it doesn't sound like much, 30 Bitcoin, you know, based off some of our previous purchases. But at the same time, it was only 4 months ago that we were cheering on a two Bitcoin purchase.
+
+**Zynx:**
+(0:01:11) Yeah, exactly. And I think you know the main thing especially during a month like this is that you just keep things ticking over — in a period where clearly, across not just in the UK but across the world, Bitcoin treasuries have been experiencing mNAV compression, sentiment has gone to the toilet. So as long as we can keep buying Bitcoin and we're not stagnant, that's all that matters to me at the moment. 30 Bitcoin — I think that's more than everyone else in the UK that put together in the last couple of weeks. In the next time around it's going to be a lot higher than that because we've had a couple of high volume days. So yeah, as long as we keep moving, I'm very happy with that.
+
+**Host:**
+(0:02:09) Yeah, for sure. And then the other thing to sort of talk about, I suppose, based off recent trends and recent sentiment is share price. Yesterday — last Friday when I was talking to Jesse — I think we closed at 1.28. And today we're trading ever so slightly above that, which makes it sound like it's been a quiet week. What's your take on the price action this week?
+
+**Zynx:**
+(0:02:43) Well, we had the run up to 172p. There was a huge influx of buying activity and then I think yesterday there was quite a big seller who sold like over a million pounds worth of shares. Yeah, it's good to just see the volume return — more importantly I think the trading volume returning is the most important thing here.
+
+**Host:**
+(0:03:15) Yeah, for sure. I think yesterday was our third or fourth high volume trading day compared to recent volumes. So that's encouraging. And what do you think about — I don't know how into technical analysis you are — but the kind of breakout from the downward trend line, to then retest it, and then we see where we go? Or do you think it's more just finding our consolidation level?
+
+**Zynx:**
+(0:03:46) Yeah, so I don't really do the technical analysis stuff just because especially for a small cap like SWC, I don't think a lot of the traditional TA stuff is applicable — it can all just be shifted by one big buyer and one big seller. But I do think we've definitely bottomed. I don't think we're going to close below the 13p that we did before. I think we had that capitulation wick on the 2nd of September and I do think that's the bottom. I'd be very very surprised if we go lower than that. So yeah, I just think it's not just Smarter Web — Capital B, Meta Planet, MSTR — it's the same thing. I think the bottom's in for all these companies. It's just a period of consolidation before we make the next move up. We've seen Bitcoin starting to make its move now. So hopefully that's a sign of things to come.
+
+**Host:**
+(0:04:54) Sure. Looking at the wider market, the big sell-offs seem to have slowed or stopped for pretty much everyone — of the sort of main contenders at least. I guess that kind of segues nicely into maybe a bit more of a macro view, Bitcoin, that kind of stuff. Where's your head at with regards to that?
+
+**Zynx:**
+(0:05:22) We're going higher. Absolutely. I think we're going to get — I think Morgan Stanley just came out and said they're expecting three rate cuts this year. Inflation in the US came in a bit lower than predicted. So I think yeah we're going to get rate cuts and that's going to set fire to the match — and I'm expecting Bitcoin to have an explosive Q4, at least a run up to $140-$150K in my opinion. Over the next couple of weeks we've got some big Bitcoin buyers coming — from Strive, they just completed their merger. Meta Planet have $1.4 billion coming over the next week. So yeah, I think there's going to be a lot of capital coming into Bitcoin over the next couple of months. I'm very bullish.
+
+**Host:**
+(0:06:26) And where are you at with regards to — you know, Jesse and Joe Burnett did that podcast this week, the Mustard Seed podcast by Joe, on the kind of four-year cycle versus "that's over, grind up" kind of thing?
+
+**Zynx:**
+(0:06:47) I'm on the "it's over" side. But it's — you know, people have been saying this cycle after cycle. But I do think the macro environment is completely different this time around. It's the first time that we've got Bitcoin ETFs. We've just seen Bitcoin treasuries accumulate over 1 million Bitcoin and they don't plan to sell. There's a lot less leverage in the market. There's no FTX, etc. So outside of a black swan, I can't really see why we should have such a drawdown this time round. And I think the halving is less impactful every four years. Before we had that high level of tightening of the supply after each halving, but now we're at 450 Bitcoin per day being mined — and that's being eaten up by the ETF alone. And then you've got the Bitcoin treasuries. So it does feel different. The type of capital buying Bitcoin — retail is almost irrelevant. It's the first cycle where retail are pushed to the side. These institutional investors are less price sensitive. So I'd be happy with a slow grind up to be honest. I'm hopeful that's the case and that we don't have another prolonged drawdown. And also I think it's important that this is the first time going into a bull market where interest rates are so high. Since Bitcoin's inception we've pretty much had zero to less than 1% interest rates. Now for the first time interest rates got to 5%. Over the next couple of years I expect them to go down and I'm expecting quantitative easing to resume as well. So it's hard to see — in the backdrop of the ETFs, the nation states, institutional investors, Bitcoin treasuries — where the selling is going to come from and where the prolonged bear market is going to come from. I don't know. So yeah, I'm expecting it to be prolonged.
+
+**Host:**
+(0:09:04) Yeah, I mean I'm kind of on the fence. I still lean towards the four-year cycle until proven otherwise. The thing that comes to my mind is things like global liquidity cycles, presidential cycles which kind of tie into that — and just simple human irrationality, right? If Bitcoin gets to where it seems like it's overheated, people are going to FOMO in—
+
+**Zynx:**
+(0:09:47) —which overheats it more and then just by the nature of markets it will correct.
+
+**Host:**
+(0:09:55) Yeah, it could easily happen like that. Maybe we have the exact same repeat.
+
+*(Zynx takes a call)*
+
+(0:10:15) I guess Zynx has got an important call. Uh, okay. What am I going to talk about? So the rest of the session after we finish on the macro, we're going to start talking about the potential mergers and acquisitions that SWC might be eyeing up. You guys saw this morning, I expect, the Financial Times article that featured SWC. I won't go into the article because it's — well, standard mainstream media.
+
+**Zynx:**
+(0:10:54) Sorry about that.
+
+**Host:**
+(0:10:55) That's okay. I've just been filling time telling people what we're going to talk about.
+
+**Zynx:**
+(0:11:00) Okay. Where were we? Sorry.
+
+**Host:**
+(0:11:04) Well, I think we're just finishing up on four-year cycles and there's a possibility it can go either way.
+
+**Zynx:**
+(0:11:11) Yeah, human psychology. The Bitcoin power law followers are expecting Bitcoin to top at 200K and then drop back down to just under 100K. So there will definitely be people trading it and expecting it. So perhaps towards the end of the year we're going to get a much greater level of volatility. But personally I don't plan to sell anything. None of these Bitcoin treasury companies plan to sell. So I guess we'll just have to see.
+
+**Host:**
+(0:11:44) Yeah, I think just to sort of confirm that — if we only hit say $130-140-150K on Bitcoin, that's not a blowoff top to me.
+
+**Zynx:**
+(0:11:56) No, me neither.
+
+**Host:**
+(0:11:58) And so I don't think that would be enough to say, okay, we're going to correct 50-60-70%. But you know, it's Bitcoin — anything can happen really.
+
+So yeah, I was just saying to people while you were taking that call — FT article this morning, Andrew's mentioned in it obviously because it's covering SWC, but quoted as saying that he's got a potential merger or acquisition in his sights, and he was talking specifically about treasuries. I then did a post after that this morning sort of looking at two options in the UK — because my mind first went to UK since, you know, a whole bunch sprung up. Saturated market. It'd be good to kind of clear out the dead wood.
+
+Without diving into all the tiny ones — we've got "half a Bitcoin" treasuries — it seems like, let's have a look at Coin and Sats, right? So Coin — I just think is a non-starter. It's not trading below one NAV.
+
+**Zynx:**
+(0:13:17) Agreed.
+
+**Host:**
+(0:13:17) So write that off. And then Sats kind of piqued my interest, particularly with the RNS that came out this morning saying that their auditor had quit. And you know, I don't want this to turn into a pile-on Sats session but — that sent a signal to me that potentially, and it's a big if, their prospectus might be in trouble. Or as a business they might be in trouble, which means their £163 million raise — that they did — would all that money, and the Bitcoin that was paid in kind, would have to go back to the original investors. And if SWC was able to do an acquisition of them to save the deal and could do it at a discount — what are your thoughts on that?
+
+**Zynx:**
+(0:14:15) To be honest, I think it's quite unlikely just because of how complicated their structure is, with the CLNs that they have. There's so many fingers in the pie and so many people involved that I just don't see it working. There's a lot of people owed a lot of things. So yeah, I think it would be quite messy personally. As you mentioned, there was the RNS of the resignation of the auditor — I think the reason they gave was that the working relationship had broken down. Who knows what that means. But I don't think — with just the amount of people involved — if SWC was going to look at an acquisition, it would be a prospect that's more attractive.
+
+**Host:**
+(0:15:25) Yeah, I mean, in my head it was — oh, there's £163 million up for grabs here. And an LSE uplisting opportunity. Although M&As take a long time. So maybe that would actually slow down the uplisting process.
+
+**Zynx:**
+(0:15:45) You have to remember that £163 million was pledged at 1x mNAV or just above. So it wouldn't be accretive to SWC anyway.
+
+**Host:**
+(0:15:58) Yeah, it would only be if it was at a discount. But yeah, I take your point. So I don't want to answer for you, but in my mind that kind of counts out it being a UK treasury.
+
+The BitcoinTreasuries.net website — you can filter through by mNAV and look at all the companies. There are quite a few that are definitely trading below 1x mNAV. And essentially for SWC, if they can trade their equity to acquire a company that is trading below 1x mNAV, it would be accretive for shareholders. The further the gap — so the higher the premium that SWC is trading at and the greater the discount the target acquisition is at — the more accretive it will be.
+
+**Zynx:**
+(0:17:06) Yeah, for sure.
+
+**Host:**
+(0:17:06) So okay, let's get into how might SWC fund an acquisition. Let's start with what you suggested — share issuance. Effectively: we'll give you SWC shares for your company.
+
+**Zynx:**
+(0:17:21) Absolutely. And it makes sense for both parties. For SWC — the best analogy I can think of is: pretend £1 equals $1, and SWC has a pound but for some reason they have this market where they can trade it for 1.8. And this dollar that they're getting is worth 80 cents to the dollar. So it's trading their expensive currency for a cheaper currency, but the real value of both things are pegged at 1:1. I think that's how they would do it because it's the most accretive for SWC. We don't have a lot of cash on hand. I don't really see any other options to fund it unless we raised capital and then bought the company — but that would be less accretive than just doing it the way I said.
+
+**Host:**
+(0:18:22) Yeah, for sure. Basically giving someone something that's 1.8x mNAV for something that's 0.8x mNAV — you're getting far superior accretion than just buying it with cash. And also if you think about the benefits for the other side — if they're trading at 0.8, the stock is probably not very liquid and there's something going wrong. So you get to trade in and in return get SWC shares, which will have far more liquidity. Maybe the bigger players will be able to have an exit at that point. So there are pros for the other side too.
+
+But sorry, I'm just thinking — if you found a big investor, like a previously mentioned big American bank, and they give you £100 million, and in return they get shares — you're already getting that 1.8x mNAV anyway. And by issuing the shares you've got the £100 million to go buy the company. I don't know, I'm just thinking off the top of my head.
+
+**Zynx:**
+(0:19:46) But — okay, you can do that. But instead of spending that £100 million you can give them your own equity at 1.8x NAV, whereas that £100 million can buy Bitcoin. So it's the mNAV premium that makes the deal far more accretive — it's better for NAV per share.
+
+**Host:**
+(0:20:16) Yeah, so I guess what you're saying is if we've got £100 million on the table to be given to us, we could do both.
+
+**Zynx:**
+(0:20:22) Yeah. I wouldn't use that to acquire another company. I would rather acquire the company with my mNAV premium — because then that's more accretive — and then just use that £100 million to get more Bitcoin.
+
+**Host:**
+(0:20:35) Yeah, for sure. Okay, I'm with you and I think I agree. Okay, so let's — I sent you a list of companies according to BitcoinTreasuries.net that are trading below 1x mNAV. Some of these don't have complete data so I don't know how accurate it is, but let's just assume we're working with okay data. Let me share the screen.
+
+You know, there's a Canadian company called Bitcoin Treasury Corp — they're trading at a fully diluted mNAV of 0.78x. They were run by Canadian bankers, bought Bitcoin, raised capital for Bitcoin, but we've not heard of them since. That's a perfect example of something I'd look at and be like — that looks quite tasty. And they have 770 Bitcoin.
+
+**Zynx:**
+(0:21:52) Was that in the list I sent you or is that a different one?
+
+**Host:**
+(0:21:56) That's just one I recall off the top of my head — a company I've looked at that was trading below mNAV. Doesn't seem to be much activity, but this is just a perfect example. If SWC was to give equity to acquire this company, it would be highly accretive to shareholders. So the bigger the delta — the bigger the discount — obviously the better it is.
+
+**Zynx:**
+(0:22:24) Yeah.
+
+**Host:**
+(0:22:25) Okay, I'm going to share the screen. Some of these we'll whiz through because, one, there's a lot of them, and two, they're going to be quite an easy no.
+
+Now this one — Next Technology — on the face of it looks quite interesting because it's got a 0.3x mNAV. But one, it's pretty — well, is it massive? If its market cap is $21 million there's potential it could be pulled off, right? But it's also in China.
+
+**Zynx:**
+(0:23:07) Yeah. So when this says the mNAV is 0.3 — I find that quite unlikely, unless obviously I don't know anything about their operating business. But I imagine an M&A with a Chinese company is quite complicated. When Andrew is looking at these deals, it has to make sense after the admin, the lawyers, the bankers — and it's not just about the Bitcoin. What's the business they're buying as well? Is that something we want to be dealing with?
+
+**Host:**
+(0:23:47) Yeah. How much debt, for example?
+
+**Zynx:**
+(0:23:50) Yeah, exactly. So I think we'll just write that one off straight away.
+
+**Host:**
+(0:23:56) Next we've got Kanago. Again, it's a China-based one, 0.783 diluted mNAV.
+
+**Zynx:**
+(0:24:03) That's too big for us.
+
+**Host:**
+(0:24:05) Too big. Yeah. Next. Similar — too big. But you know, that would be very interesting — you get a NASDAQ listing with that.
+
+Well, exactly. Let's talk a little bit about the two big ones — because I don't know enough about M&As to comment on this, but I've definitely seen companies in the past where a £100 million company buys a £1 billion company and I remember thinking at the time: how does that actually happen? So what I'm saying is it's possible.
+
+**Zynx:**
+(0:24:52) You know, it's hard — *(audio issue)*
+
+**Host:**
+(0:24:53) Oh, I've lost you.
+
+**Zynx:**
+(0:24:52) Sorry. Can you hear me?
+
+**Host:**
+(0:24:53) Yeah, I can hear you. Your mic's changed. You've gone a bit quieter.
+
+**Zynx:**
+(0:24:56) Oh, is it — does it sound better or—
+
+**Host:**
+(0:25:00) Yeah, there's less background. Nice.
+
+*(Technical audio issues)*
+
+**Host:**
+(0:25:25) Oh, this is going well.
+
+**Zynx:**
+(0:25:27) Can you hear me?
+
+**Host:**
+(0:25:28) Yeah, I can hear you fine.
+
+**Zynx:**
+(0:25:29) All right. Is that okay if I talk like this?
+
+**Host:**
+(0:25:32) Yeah. Just there's this low like—
+
+**Zynx:**
+(0:25:35) Oh, this is a disaster.
+
+**Host:**
+(0:25:42) It's gone now.
+
+**Zynx:**
+(0:25:42) Oh, is it gone now? Is that okay? Okay yeah. So — I think it just depends, you know, the devil's in the details. It's hard without knowing the specifics. I'm sure there's lots of examples where it makes sense. But if a deal was presented to Andrew — he just came back from Hong Kong, so maybe there were conversations there and some interesting propositions were made — if the company doesn't have any debt, the mNAV is sufficiently below one — I'm thinking it would be something smaller because you don't want to give away a big chunk of equity either. You don't want a massive dilution event like that in one go.
+
+**Host:**
+(0:26:41) Okay. Let's move on from Similar then. The next is also a big one but I thought it was interesting — Empire Digital, used to be Vulcon Inc. I saw an interesting video from their CEO publicising their less than 1x mNAV. Basically it was a little bit like begging for investors.
+
+**Zynx:**
+(0:27:10) Okay. Well, if that's the true figures and the fully diluted mNAV is 0.73 — to me that's super attractive for any Bitcoin treasury that wants to get Bitcoin at a discount. And I know other companies are looking at M&As. I think Strive plan to do things like this as well. So it'd be interesting if Smarter Web actually does this. If they were the first to do it in the space, that would be pretty telling, wouldn't it?
+
+**Host:**
+(0:27:52) Yeah. I just have to wait — he did say he was looking. I don't know how long these sorts of deals would take. It probably takes a while.
+
+And also Empire has — is it a loss-making company by the looks of things? Oh no, that's the loss on their Bitcoin stack.
+
+**Zynx:**
+(0:28:10) Okay.
+
+**Host:**
+(0:28:15) Let's move on from that one then. Sequence.
+
+**Zynx:**
+(0:28:22) Yeah, I think they've got plans — they're not going to go out like that. I don't think it has to be a company that's dead in the water and they don't want to continue. I don't think the guys at Sequins — Cory and Ben — are ready to throw in the towel already. So I don't think—
+
+**Host:**
+(0:28:50) And also this is perhaps an example of where the data may not be right. I don't believe for a moment their diluted mNAV is 0.067.
+
+**Zynx:**
+(0:29:00) No, if you go on their website, it's completely different.
+
+**Host:**
+(0:29:04) Okay. Yeah, let's move on from that one. Okay. This one kind of caught my eye — Fold. Have you heard of Fold?
+
+**Zynx:**
+(0:29:14) Yeah, I've seen them on X. I haven't really — go on. So they've got a checking account in the US, like a current account, that gives you Bitcoin back as a reward for what you spend on the debit card. But they are also releasing a credit card which I think will be popular in the States. Don't know if it makes money, but I'm kind of assuming it does.
+
+**Host:**
+(0:29:50) But the mNAV is only just sub one. The thing about this as well — I think there was a question from Dr. Bitcoin MD — the thing about these M&As is that if they have an operating business, does it take too much time and effort away? So I'm assuming any deal would involve us just getting the Bitcoin and getting rid of whatever remnants are left of the other company. So I can't imagine — if this is an actual running business that is profitable — I can't really imagine that to be honest.
+
+**Zynx:**
+(0:30:34) Or they've got a shedload of debt or something.
+
+**Host:**
+(0:30:39) Yeah, true. Let's crack on then because there are still a few to get through. Okay, so DDC.
+
+**Zynx:**
+(0:30:50) No — they want to — I think they just released their goal. They want to get to like 1% of the Bitcoin supply or something. These companies that are active — I honestly have no idea. I don't know to be honest. I think we might get surprised.
+
+**Host:**
+(0:31:14) Yeah. I think in my mind — trading at where it starts to get interesting, that level of mNAV, 0.74 — they're American, could be useful. I don't know which stock exchange they're listed on.
+
+**Zynx:**
+(0:31:35) New York Stock Exchange, it says there.
+
+**Host:**
+(0:31:37) Oh yeah, on the right. Yeah. That could be a nice listing potentially from a strategic point of view. But they're an active treasury — they may not be interested, as it's not in their interest.
+
+**Zynx:**
+(0:32:01) Yeah, I don't really have much to say about — to be honest, I think it could be any one of these companies. And these numbers — I don't trust them.
+
+**Host:**
+(0:32:18) Okay, fair enough. These numbers might be rubbish. But this one caught my eye — not because of the ridiculously low mNAV — but because it's in Hong Kong.
+
+**Zynx:**
+(0:32:32) Exactly. And where's Andrew just come back from?
+
+**Host:**
+(0:32:35) Hong Kong. Could be quite tasty. Another 833 Bitcoin.
+
+**Zynx:**
+(0:32:43) If that mNAV figure is correct, that would be quite the accomplishment. Because in my head, if they're going to do these deals and it is international especially, it needs to have enough juice for it to be worth it. So I'm thinking at least sub-0.8 mNAV, they've got to have a decent amount of Bitcoin — at least I don't know, 250 Bitcoin for example.
+
+**Host:**
+(0:33:09) Yeah. Because otherwise the costs are going to be too high for the benefit.
+
+**Zynx:**
+(0:33:13) Exactly. If these numbers are correct — 833 Bitcoin, why not? And the other thing that struck me about an Asia-based treasury, or Australasia maybe, would be the additional ticker and the potential for near 24-hour trading.
+
+**Host:**
+(0:33:42) Yeah. That's interesting — and a way for Asian investors to get easier access because I know it's quite difficult for them at the moment.
+
+**Zynx:**
+(0:34:07) Yeah, absolutely.
+
+**Host:**
+(0:34:09) Contender.
+
+**Zynx:**
+(0:34:10) Contender. Okay, Ming Shing Group — they've made the contenders list.
+
+**Host:**
+(0:34:16) SOS Limited. China. Their mNAV is ridiculous — probably not right. But it is New York Stock Exchange listed. Needs a bit more research to find out more about it.
+
+Bitcoin Treasury Corp.
+
+**Zynx:**
+(0:34:47) This is the one I was talking about. So their fully diluted is at 0.78, basic mNAV at 0.65. But the only thing I'd say about these guys — they're run by actual bankers. For a company to be acquired, that's almost the team not giving up exactly, but they don't want to participate in this game any longer. I don't know if they're at that stage yet. And I don't know what they plan to do to get their mNAV back above one. It doesn't have any operating business.
+
+**Host:**
+(0:35:43) It's a Bitcoin treasury, but they've set out that they want to do Bitcoin-denominated loans. So they want to use the Bitcoin to generate money.
+
+**Zynx:**
+(0:35:59) Yeah. So they're going to need a lot more Bitcoin than that.
+
+**Host:**
+(0:36:07) I would assume so. To be able to offer anything of size. Okay, that's definitely a contender, right?
+
+**Zynx:**
+(0:36:17) Yeah, for sure.
+
+**Host:**
+(0:36:20) Where are they listed? Canada?
+
+**Zynx:**
+(0:36:25) Toronto Stock Exchange, I think.
+
+**Host:**
+(0:36:27) Okay. That's not necessarily advantageous in that sense, but from a pure Bitcoin situation, you're not really buying much else — it's a treasury that one day wants to do loans. So yeah, that's definitely interesting.
+
+Okay, CIMG. What do we think? I haven't heard of them. They're Hong Kong again.
+
+**Zynx:**
+(0:37:00) I have no clue.
+
+**Host:**
+(0:37:02) 834 Bitcoin. I'm going to leave it on the maybe list because it's Hong Kong.
+
+**Zynx:**
+(0:37:07) Anything in Hong Kong. Yeah, because all of a sudden it's just come up after Hong Kong — we weren't talking about this before. So could have some legs.
+
+**Host:**
+(0:37:24) 3U Holding AG. So this is a German company. I'm doubtful on the mNAV, it's down at 0.3. But one to look into perhaps.
+
+**Zynx:**
+(0:37:39) Yeah. For some reason I've got a feeling it's going to be a company from Asia. I don't know — they just came back from Hong Kong and this literally came up right after they came back from Asia.
+
+**Host:**
+(0:38:00) Yeah, my head was Asia, or America or Canada, just because there had been a lot of Americans and Canadians at the conference. True. But yeah, I'm going to look into it. I'm not saying it's a strong contender, but I'm intrigued.
+
+LM Funding America. Don't know anything about them. NASDAQ listed, which could be useful. Saying a 0.5 mNAV, reasonably small BTC balance. I think they're Bitcoin miners.
+
+**Zynx:**
+(0:38:44) Okay. Probably not a business we want to get into. Definitely not. A lot of the miners — most of them trade at 1x mNAV or below. Except for IREN.
+
+**Host:**
+(0:39:12) What about a company purchase done a bit more like a venture capitalist where you just strip out the assets and shut everything else down?
+
+**Zynx:**
+(0:39:20) I'm assuming that's exactly what Smarter Web would do if the company they acquire has an operating business — because Smarter Web is not going to have a subsidiary abroad running businesses. I just don't think that's viable at all really.
+
+**Host:**
+(0:39:43) What if it's profitable?
+
+**Zynx:**
+(0:39:49) Well, then why is it trading at 0.5x mNAV?
+
+**Host:**
+(0:39:53) True. True. Yeah, I just think the profitable operating businesses come after the monetisation. Okay. Let's get rid of that one then.
+
+And the final one — Advanced Bitcoin Technologies. Another German company. But with a ridiculous mNAV.
+
+**Zynx:**
+(0:40:29) If that's true — if that figure is correct — the lower the mNAV you can get for these acquisitions, the better it's going to be. Who knows what opportunities have crossed Andrew's desk. I think a lot of people have questions because typically M&As require a lot of work, a lot of capital, a lot of admin — so it has to be worth it, otherwise you're going to have people complaining.
+
+**Host:**
+(0:41:06) Yeah, I mean you've got auditors, lawyers, the actual capital cost of it, taking up Jesse and Andrew's time, advisers — all that kind of stuff.
+
+**Zynx:**
+(0:41:20) Exactly. The bankers. So it has to be something that makes sense. It is interesting though — the FT article, and when Andrew posted it, he did mention it especially in his tweet. It does sound like something that he was — "UK's biggest Bitcoin buyer eyes struggling rivals and FTSE 100 birth." Oh, that is actually the title of the article to be fair.
+
+**Host:**
+(0:41:53) Yeah. Okay, never mind. I think he's always looking for options. It doesn't mean this is necessarily even going to happen. But I think it's interesting to see that as a result of this mini bear market that we've been through, there are opportunities out there now.
+
+**Zynx:**
+(0:42:19) Yeah. I think what this just represents is the flight to quality — and most of these companies, we're not going to have 100 companies on the top Bitcoin corporate treasuries list being these sort of pure players running the sale-of-flywheel. Because you can't do that without the trading volume. You can't do that without an ATM. If you don't have a viable route to offering preferred, or to at least tackle the local fixed income market — there's a strong ceiling as to what you can really do here. A lot of the names that came up in the last couple of months, we may never hear from them again in a serious way. And all it's done is improved the relative strength of the premium Bitcoin treasuries. Especially for example Smarter Web in the UK — before there was all talk about number two, number three, but now if you look across the landscape, there's only really one company that's active at the moment that's buying Bitcoin every other week, that feels relevant, that has a sufficient mNAV premium. So I think there's probably going to be a lot of opportunities going forward for the acquisitions of these smaller companies.
+
+**Host:**
+(0:43:56) Yeah, for sure. And if the four-year cycle thing occurs, then even more opportunities I guess.
+
+**Zynx:**
+(0:44:05) Yeah, absolutely. Was there any other topics you wanted to cover? Because that's kind of what I had on the agenda.
+
+**Host:**
+(0:44:07) Not really. It's been a quiet couple of weeks in terms of — well, we had the hiring of the new CFO and things like that. It appears to me that we're gearing up to list on the London Stock Exchange. I've said before the end of November — that's my prediction. So yeah, I think it just feels like things are working behind the scenes that we're not privy to, but Andrew and Smarter Web are just lining the ducks up in order and we may get a spur of activity in upcoming weeks.
+
+**Zynx:**
+(0:44:57) Yes. I feel like something's cooking anyway. But aside from that, it's been a quiet couple of weeks so we haven't had really much to comment on aside from the Bitcoin buys from the ATM. All I can say is that the community is as alive as ever.
+
+**Host:**
+(0:45:17) Still growing — actually, yeah, it's growing pretty fast considering—
+
+**Zynx:**
+(0:45:22) It's actually fantastic to see lots of new contributors. I think we crossed 4,300 and yeah, if we can do that now when sentiment has left the market — when things pick up again, you want to see SWC rebounding the strongest because it has that active community.
+
+**Host:**
+(0:45:50) Yeah. So on that note, if anyone watching this wants to join, it's on X — you can just search "The Smarter Web Company" and it'll come up in the communities. There's also a Discord and Telegram channel that you can join if that's your vibe. Also, if you could like and subscribe to the channel, that would really help push these videos out to more people.
+
+But on that note, I want to thank you Zynx for joining and we'll be chatting online in minutes probably anyway.
+
+**Zynx:**
+(0:46:26) Yeah, no, absolutely. I appreciate everyone for tuning in. Sorry for the technical issues — happens.
+
+**Host:**
+(0:46:32) That's okay. Thanks everyone. See you all next week.

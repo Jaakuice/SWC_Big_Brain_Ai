@@ -9,104 +9,172 @@
 ---
 
 ## Key Topics:
-- SWC grew from £1.6M to £200M+ in Bitcoin within 6 months of going public
-- Bitcoin treasury companies predicted to become the most valuable sector globally within 5 years
-- SWC trades at ~0.8x fully diluted MNAV (~43-45p share price vs ~57-60p MNAV), a 20% discount
-- Bitcoin yield strategy: 174% in Q1, ~300% previous quarter; compounding Bitcoin per share justifies premium to NAV
-- The "flywheel" effect: equity, ATM, convertibles, debt, preference shares, and options all feed Bitcoin yield
-- ATM financing accounts for ~25% of capital raised, operated by a partner above 1x MNAV to protect shareholders
-- Bitcoin has historically returned ~30% annually but has underperformed year-to-date (~5%), compressing MNAVs globally
-- Momentum buyers who don't understand the long-term model are likely behind selling pressure
-- Lending Bitcoin could yield 4-6% annually (~£10M/year), but counterparty risk remains a concern
-- Potential acquisitions in web design/marketing sector to substantiate the core business, but only at the right price
+- Global mNAV compression across Bitcoin treasury companies and why Andrew believes all are currently underpriced
+- SWC trading at 0.8x mNAV despite delivering 174% Bitcoin yield in the current quarter
+- Why selling Bitcoin is off the table — balance sheet size is essential for future strategy
+- ATM (at-the-market) financing: approximately 25% of SWC's total capital raised this way
+- Bitcoin yield and the flywheel effect: how compounding BTC per share justifies above-1x mNAV
+- Bitcoin vs gold divergence in 2025 and the historical pattern of Bitcoin rallying after gold peaks
+- Bitcoin lending as a potential yield strategy (4–6% annually, ~£10M/year) with near-zero counterparty risk option under consideration
+- Acquisition strategy targeting web design and marketing businesses — only at the right price, given equity is undervalued
+- Prediction: Bitcoin treasury companies will become the world's most valuable sector within 5 years
+- SWC rebrand underway (keeping the name), with unveiling expected within one to two months
 
 ---
 
 **Andrew Webley:**
-(0:00:00) We've been a public company for six months. You know, we've achieved a lot. We've gone from 1.6 million pounds worth of Bitcoin to over 200 million pounds worth of Bitcoin in that 6-month period. We believe that probably in the next 5 years that Bitcoin treasury companies as a sector will become the most valuable sector of companies in the world.
+(0:00:00) We've been a public company for six months. We've achieved a lot. We've gone from £1.6 million worth of Bitcoin to over £200 million worth of Bitcoin in that six-month period. We believe that probably in the next five years, Bitcoin treasury companies as a sector will become the most valuable sector of companies in the world.
+
+---
 
 **IG Host:**
-(0:00:22) Is there any reason that you can put your finger on of why we've seen a global contraction in MNAVs?
+(0:00:22) Is there any reason that you can put your finger on for why we've seen a global contraction in mNAVs?
+
+---
 
 **Andrew Webley:**
-(0:00:29) Yeah. So I think, you know, in my opinion markets are always priced wrong. So they're either too expensive or too cheap, you know, overpriced or underpriced. If you look at our company for example, so in the current quarter which we're one month into, we've delivered 174% Bitcoin yield, which is the compound Bitcoin yield. In the previous quarter we delivered approximately 300%. Strategy is a good example. This year to date, they're delivering almost 30% Bitcoin yield. Still very, very impressive if you compare that to, you know, like a traditional interest rate or something. Now in my opinion, if you look at us, you know, we're priced at 0.8. So we're priced 20% cheaper approximately than the actual value of our Bitcoin, for a business that's demonstrating that they're improving their Bitcoin yield. So we're probably the only one actually out of the bunch. Strategy is about a 1.3, Meta Planet's about a one, Twenty One Capital is about a 1.5. We're 0.8 fully diluted MNAV. So it's just the way the market's gone. They're all in my opinion underpriced now. And perhaps they were a bit overpriced.
+(0:00:29) Yeah. So I think — in my opinion, markets are always priced wrong. They're either too expensive or too cheap, overpriced or underpriced. If you look at our company, in the current quarter — which we're one month into — we've delivered 1.74 Bitcoin yield, which is the compound Bitcoin. In the previous quarter we delivered approximately 300%. Strategy is a good example: this year to date they're delivering almost 30% Bitcoin yield, still very very impressive if you compare that to a traditional interest rate. Now in my opinion, if you look at us, we're priced at 0.8 — we're priced 20% cheaper approximately than the actual value of our Bitcoin — for a business that's demonstrating and proving improving Bitcoin yield. We're probably the only one actually out of the bunch. Strategy is about 1.3, MetaPlanet's about a 1, Capital B is about 1.5. We're 0.8 fully diluted mNAV. It's just the way the market's gone. They're all in my opinion underpriced now, and perhaps they were a bit overpriced before.
+
+---
 
 **IG Host:**
-(0:01:32) I mean, you would say that, right?
+(0:01:32) I mean, you would say that, right? [laughter]
+
+(0:01:34) But if we take Strategy out of it — MetaPlanet, Capital B — they're trading at 1, which means the equity is purely a representation of the Bitcoin currently held. You may as well just buy Bitcoin, is what the market is saying. However, at 0.8 or 0.82, what's going on there? How can SWC be trading at a discount? Because surely in theory — I know you would be very hesitant to — but in theory you just sell all your Bitcoin in the market, give shareholders back the cash, and the company would be worth 99p or so.
+
+---
 
 **Andrew Webley:**
-(0:01:34) Yeah.
+(0:02:10) Yeah. So us selling any of our Bitcoin would be an extreme last resort — pretty much give-up territory, which we'll probably never do. But you're right. The reason why you don't do that is that the strategy we're on for the years to come requires size. If we're going to do some of the things we want to do in the coming years, we need size of balance sheet. Ignoring the fact that I believe Bitcoin is the very best asset in the world and we're just priced wrong — you wouldn't look to reduce the size of your balance sheet because then you're impeding on your future strategy goals. And your fundamental view remains that you would much rather be in Bitcoin than fiat. Your share price is in fiat currency.
 
-**IG Host:**
-(0:01:34) But if we take Strategy out of it, let's say then Meta Planet, Twenty One Capital — you're trading at one, which is the equity is purely a representation of the Bitcoin that are currently held and that's it. You may as well buy Bitcoin is what the market is saying. However, at 0.8 or 0.82, what's going on there? How can SWC be trading at a discount? Because surely in theory, I know you would be very hesitant to, but in theory, you just sell all your Bitcoin in the market and you give shareholders back the cash and the company would be worth, you know, 0.99. See?
+(0:02:56) Bitcoin — and one of the reasons why I think you've seen this compression of global mNAVs — is that Bitcoin has disappointed too many new people this year. People that don't understand it, people that have literally just got into it or Bitcoin treasury companies. If you look at Bitcoin year to date, it's probably showing a gain of something like 5%. We believe Bitcoin will probably do approximately 30% every year. If you look at the last couple of years, there's been one bad year; most years it's over 100%. So this year, Bitcoin hasn't delivered — taking this year purely —
 
-**Andrew Webley:**
-(0:02:10) Yeah. So, you know, us selling any of our Bitcoin would be an extreme last resort. You know, that would be pretty much give-up type territory, which we'll probably never do. But you're right. Yeah. You know, it's as simple as that. The reason why you don't do that is that the strategy that we're on for the years to come, you need size. So if we're going to do some of the things that we want to do in the coming years, we need size of balance sheet. So yes, you know, ignoring the fact that I believe Bitcoin is the very best asset in the world and we're just priced wrong, you wouldn't look to reduce the size of your balance sheet because then you're impeding on your future strategy goals. And your fundamental view remains that you would much rather be in Bitcoin than you would in fiat. So your share price is in fiat currency.
-
-(0:02:56) Yeah. 100%. So Bitcoin — and one of the reasons why I think you've seen this compression of the global MNAVs is that Bitcoin has disappointed too many new people this year. People that don't understand it, people that have literally just got into it or into Bitcoin treasury companies. So if you look at Bitcoin year to date, you know, it's probably showing a gain of something like 5%. We believe that Bitcoin will probably do approximately 30% every year. If you look at the last couple of years, you know, there's been one bad year, most years over 100%. So this year, Bitcoin hasn't delivered, you know, taking this year purely —
+---
 
 **IG Host:**
 (0:03:29) Taking a breath.
 
+---
+
 **Andrew Webley:**
-(0:03:30) Yeah. Yeah. Exactly. Bizarre to see the movement in gold relative to Bitcoin. So it's been the more traditional safe haven, but fiat currency has definitely depreciated. So there's still that running theme. Well, there's a good link — if you look at the last run-up in gold and then you look at when that dipped and then you look at what Bitcoin did next. That's a good one for your viewers to have a look at on the charts. That was incredible. You know, Bitcoin ripped once gold started to dip.
+(0:03:30) Yeah, exactly.
+
+(0:03:32) It's bizarre to see the movement in gold relative to Bitcoin. It's been the more traditional safe haven, but fiat currency has definitely depreciated, so there's still that running theme. There's a good link if you look at the last run-up in gold, and then when that dipped, and then what Bitcoin did next — that's a good one for your viewers to look at on the charts. Bitcoin ripped once gold started to dip.
+
+---
 
 **IG Host:**
-(0:03:58) When you're trading at below 1 MNAV — and we've spoken about this this morning already — there seems to be some kind of strain in financing in the crypto world at the moment. When that happens, you have to sell what you can sell, right? So if there's an investor that SWC is their liquid thing… but it does seem to be a daily event that somebody's there selling. Now, of course, I worried at one point it was the ATM.
+(0:03:58) When you're trading at below 1 mNAV — and we've spoken about this this morning already — there seems to be some kind of strain in financing in the crypto world at the moment.
+
+(0:04:08) When that happens, you have to sell what you can sell, right? If there's an investor where SWC is their liquid thing — but it does seem to be a daily event that somebody's there selling. Now, of course, I worried at one point it was the ATM.
+
+---
 
 **Andrew Webley:**
 (0:04:25) Yeah.
 
-**IG Host:**
-(0:04:26) But you've said you'll be disciplined about the ATM. Where does that sit? What are you judging on — MNAV, or how are you judging where to operate it?
-
-**Andrew Webley:**
-(0:04:32) Well, so our partner operates the ATM and to date I've been delighted with how they've done it. They've not put a foot wrong as far as I'm concerned. And I would imagine what they would do is they would sell at a premium above a 1x MNAV. Because it wouldn't make any sense to sell the shares below a one, you know, that would be terrible for the shareholders. So you just wouldn't do it. But then you wouldn't sell them bang on a one either, because you've got a tiny amount of commission that goes to them. You've got a tiny amount of costs when you buy Bitcoin. You've got the volatility in between when you sell the shares and when you buy the Bitcoin. So you would probably, if you were really keen on generating money through the ATM, you would probably do it at 5% — at least 1.05. Like 10% would probably be more sensible. And then obviously the higher the better. If you look at the most recent update that we did where there was a tiny amount, £0.3 million raised, I think that was something like 68p, which is considerably above the share price at the time. So if we look back at the ATM, you know, since it started, I think it's fairly evident that it's been a very beneficial thing for the company. Approximately 25% of our capital has come from the ATM.
+---
 
 **IG Host:**
-(0:05:44) Wow. Is it as much as 25%? That's incredible. So it really, you know, because it is perplexing to people. I mean, we're, you know, we look at it now and we're trading at 43 to 45p and we think the MNAV is roughly where then?
+(0:04:26) But you've said you'll be disciplined about the ATM. Where does that sit? What are you judging on — mNAV? How are you judging where to operate it?
+
+---
 
 **Andrew Webley:**
-(0:06:00) Just below 60, I'd say. It's on the analytics page on our website, from memory maybe 57-58p.
+(0:04:32) Well, so our partner operates the ATM, and to date I've been delighted with how they've done it — they haven't put a foot wrong as far as I'm concerned. I would imagine what they would do is sell at a premium above a 1 mNAV, because it wouldn't make any sense to sell the shares below 1 — that would be terrible for shareholders. But then you wouldn't sell them bang on 1 either, because you've got a tiny commission that goes to them, a tiny amount of costs when you buy Bitcoin, and the volatility in between when you sell the shares and when you buy the Bitcoin. So you would probably, if you were really keen on generating money through the ATM, do it at 5% — at least 105. 10% would probably be more sensible, and then obviously the higher the better. If you look at the most recent update we did where a tiny amount — £0.3 million — was raised, I think that was at something like 68p, which is considerably above the share price at the time. Looking back at the ATM since it started, I think it's fairly evident it's been a very beneficial thing for the company. Approximately 25% of our capital has come from the ATM.
+
+---
 
 **IG Host:**
-(0:06:06) So do you have any feel who's liquidating below that 60p then?
+(0:05:44) Wow. Is it as much as 25%? That's incredible.
+
+(0:05:47) So it's really — because it is perplexing to people. We're trading at 43 to 45p, and we think the mNAV is roughly where then?
+
+---
 
 **Andrew Webley:**
-(0:06:12) No. So we look at all the different stats and, you know, we speak to market makers both in the UK and in the US to try and find out if there's any particular pockets. And sometimes we find out that there might be a big seller from the UK or from the US for example. The two biggest holders, which is the UTXO fund and myself and my wife, clearly neither of those have sold anything. And that equates to about 25% of the equity. One thing that we believe is that the Bitcoin treasury companies as a proper sector is a new sector as of this year, even though you've got Strategy that's been around for over five years. And that view is shared by Saylor as well, in the sense that this is a new sector. So I think one of the explanations for it is that there were a lot of people that bought the momentum that probably aren't so passionate about the model. Don't see the model as being a long-term thing. You know, we believe that probably in the next five years that Bitcoin treasury companies as a sector will become the most valuable sector of companies in the world. So clearly that's a view that's not shared by everyone at the moment. So it's probably something along those lines.
+(0:06:00) Just below 60, I'd say. It's on the analytics page on our website — from memory, maybe 57–58.
+
+---
 
 **IG Host:**
-(0:07:20) And we had a question. Why should anybody — any company — trade at above the amount of Bitcoin? What can you do that warrants a 1.5 or a two times or three times MNAV?
+(0:06:06) Do you have any feel for who's liquidating below that 60p level?
+
+---
 
 **Andrew Webley:**
-(0:07:34) Well, if you look at the Bitcoin yield that companies such as ourselves generate, you know, even if it's only a few percent a quarter, that justifies above one MNAV because effectively that Bitcoin yield, the increase in the Bitcoin per share, is increasing the amount of Bitcoin on a look-through analysis.
+(0:06:12) No. So we look at all the different stats and we speak to market makers both in the UK and in the US to try and find out if there are any particular pockets. Sometimes we find out that there might be a big seller from the UK or the US. The two biggest holders — which is the UTXO fund and myself and my wife — clearly neither of those have sold anything. That equates to about 25% of the equity. One thing we believe is that Bitcoin treasury companies as a proper sector is a new sector as of this year — even though Strategy has been around for over five years. That view is shared by Saylor as well, that this is a new sector. I think one of the explanations is that there were a lot of people that bought the momentum who probably aren't so passionate about the model — don't see the model as being a long-term thing. We believe that probably in the next five years, Bitcoin treasury companies as a sector will become the most valuable sector of companies in the world. Clearly that's a view that's not shared by everyone at the moment, so it's probably something along those lines.
+
+---
 
 **IG Host:**
-(0:07:53) And that's what people call the flywheel.
+(0:07:20) And we had a question: why should any company trade above the amount of Bitcoin it holds? What can you do that warrants a 1.5 or a 2 or 3 times mNAV?
+
+---
 
 **Andrew Webley:**
-(0:07:55) Yeah. So the Bitcoin yield is the compounding of the Bitcoin which justifies the model. The flywheel is all of those different capital tools that you can use. So if you look at the UK Bitcoin treasury companies, we are the only one that's actually been able to demonstrate that the model can work. And that model is equity, ATM, Smarter Convert, potentially straightforward debt, potentially preference shares, potentially option strategies. The flywheel is everything that allows you to create the Bitcoin yield.
+(0:07:36) Well, if you look at the Bitcoin yield that companies such as ourselves generate — even if it's only a few percent a quarter — that justifies above 1 mNAV, because effectively that Bitcoin yield, the increase in Bitcoin per share, is increasing the amount of Bitcoin on a look-through basis.
+
+---
 
 **IG Host:**
-(0:08:28) But it's chicken and egg, isn't it? Because you need a higher MNAV to warrant a higher MNAV.
+(0:07:54) And that's what people call the flywheel.
+
+---
 
 **Andrew Webley:**
-(0:08:35) Not really. You need a positive Bitcoin yield to convince people that you have a higher MNAV. If you have a higher MNAV, you can sell more equity. Selling equity is way better than selling anything else. But because there are strategies that you can use when you are on a lower MNAV, you can generate Bitcoin yield to a degree. But if you've got a much, much higher MNAV, you can sell a lot more equity and it's far more accretive than the other strategies without the risk that debt entails.
+(0:07:55) Yeah. So the Bitcoin yield is the compounding of the Bitcoin, which justifies the model. The flywheel is all of the different capital tools you can use. If you look at the UK Bitcoin treasury companies, we are the only one that's actually been able to demonstrate that the model can work. That model is equity, ATM, Smarter Convert, potentially straightforward debt, potentially preference shares, potentially option strategies. The flywheel is everything that allows you to create the Bitcoin yield.
+
+---
 
 **IG Host:**
-(0:09:05) Yeah. And the great thing is you acted so quickly. You've got that big asset pile. Is there optionality around using the assets?
+(0:08:28) But it's chicken and egg, isn't it? Because you need a higher mNAV to warrant a higher mNAV.
+
+---
 
 **Andrew Webley:**
-(0:09:16) Yeah. Of course you can. We've explored a lot of those and currently I'm not happy with the small amount of additional risk that you'd generate to probably get say between a 4 and a 6% yield annually. But in simple terms, ignoring the risk part of it, you can effectively loan your Bitcoin and you can get a 4 to 6% yield.
+(0:08:35) Not really. You need a positive Bitcoin yield to convince people that you warrant a higher mNAV. If you have a higher mNAV, you can sell more equity. Selling equity is way better than selling anything else. But because there are strategies you can use when you are on a lower mNAV, you can generate Bitcoin yield to a degree. If you've got a much much higher mNAV, you can sell a lot more equity and it's far more accretive than the other strategies, without the risk that debt entails.
+
+---
 
 **IG Host:**
-(0:09:36) Okay. So it's about 10 million a year.
+(0:09:05) And the great thing is you acted so quickly — you've got that big asset pile. Is there optionality around using the assets?
+
+---
 
 **Andrew Webley:**
-(0:09:37) Yeah. Approximately. But that 10 million, if you put that on 10 times earnings, is 100 million.
+(0:09:16) Yeah, of course. We've explored a lot of those, and currently I'm not happy with the small amount of additional risk that you generate to probably get say between 4 and 6% yield annually. But in simple terms, ignoring the risk, you can effectively loan your Bitcoin and get a 4 to 6% yield.
+
+---
 
 **IG Host:**
-(0:09:43) So you end up trading at 1.5 times MNAV and it kind of all works.
+(0:09:36) So it's about £10 million a year.
+
+---
 
 **Andrew Webley:**
-(0:09:46) Yeah. It's just the risk element. But there is one way that we found to do it which has got almost no counterparty risk. So we're certainly seriously considering it. But as we're talking right now, we haven't done that. At some point that will be something we can do. The other thing that we've been honest about since the start — that we are exploring but we will only do for the right opportunity — is the acquisition element against the core business, where we can pull in basically low-risk businesses that are within the area of expertise that I've got, i.e. the web design and marketing sector, and then we can use that to substantiate that. But I've got to stress that we would only do those things if they're the right deals, and part of the right deal is the right price to pay for something. Because if we're going to do a deal such as that and we're effectively doing it with our equity, if we believe that our equity is undervalued at the moment, the deal's got to be even better to justify it.
+(0:09:37) Yeah, approximately. But that £10 million, if you put that on 10 times earnings, is £100 million.
+
+---
+
+**IG Host:**
+(0:09:43) So you end up trading at 1 to 1.5 times mNAV and it all kind of works.
+
+---
+
+**Andrew Webley:**
+(0:09:46) Yeah, it's just the risk element. But there is one way we've found to do it that has almost no counterparty risk, so we're certainly seriously considering it. As we're talking right now we haven't done that, but at some point that will be something we can do. The other thing — and we've been honest about this since the start — that we're exploring but will only do for the right opportunity, is the acquisition element against the core business: pulling in basically low-risk businesses within the area of expertise I've got, i.e. the web design and marketing sector. But I've got to stress we would only do those things if they're the right deals, and part of the right deal is the right price — because if we're going to do a deal like that and we're effectively doing it with our equity, and we believe our equity is undervalued at the moment, the deal's got to be even better to justify it.
+
+---
+
+**IG Host:**
+(0:10:43) That's the problem. Your equity is your currency.
+
+(0:10:45) It's a very normal thing for CFOs to have to choose between more equity or more debt. And I think any CFO, when you're trading at a discount to your very liquid assets, debt becomes a very real and potential option. But we can't forget that you are a company outside of the Bitcoin holdings. How is the web business going?
+
+---
+
+**Andrew Webley:**
+(0:11:10) We're starting to develop our profile to be better. We've got a big rebrand underway at the moment — we're keeping the name, spoiler, before anyone asks about that. We're very proud of the name. We believe we've got a really good brand that will work for all of the different things we do as a business, which hopefully in the next — maybe as soon as the next month, probably the next two months — we'll be able to unveil. That's been going for a couple of weeks now.
+
+(0:11:41) I think if I could leave one message with everyone: we've been a public company for six months, we've achieved a lot. We've gone from £1.6 million worth of Bitcoin to over £200 million worth of Bitcoin in that six-month period. We believe we've got everything right as a company for the future in terms of our strategy — we're doing all the right things, many of which we're not allowed to talk about at the moment. We believe that within another 6, 12, 18 months, we'll be in a vastly different position to where we are today. It's very difficult to ignore the hours and the days, but it's better to focus on the weeks and the months to look at the things we've achieved. We haven't got everything perfect in terms of our decisions, but we've done most of it pretty well, and we're hoping we can continue that.

@@ -9,130 +9,150 @@
 ---
 
 ## Key Topics:
-- SWC's ambitious target of accumulating 210,000 bitcoins (1% of all BTC in existence)
-- Peterhouse Capital presentation recap: 200-250 attendees, standing room only
-- Andrew's meeting with Michael Saylor and the "Smarter Strike" strategy
-- Fixed income instruments and capital plan to reduce shareholder dilution
-- mNAV valuation framework: breaking down what justifies a premium multiple
-- Days-to-cover metric and Andrew's argument SWC doesn't truly trade at a premium
-- UTXO intelligence and David Bailey / Nakamoto Holdings connection
-- Retail investor power: 30% of volume in US, 10% in UK
-- Commitment to transparency and no discounted placings
-- X community's role in driving awareness and industry growth
+- SWC's Peterhouse Capital investor event drew 200-250 attendees with standing room only, reflecting growing institutional and retail interest
+- Andrew Webley met with Michael Saylor to discuss the "Smarter Strike" strategy — a military-precision approach to rolling out the Bitcoin treasury playbook
+- SWC's ambition has escalated from 1,000 BTC → 2,100 BTC → a community-derived target of 210,000 BTC (1% of all Bitcoin in existence)
+- mNAV valuation breakdown: host assigns multipliers for self-custody convenience, tax benefits (ISA/SIPP wrappers), management execution, clean cap table, no discounted placings, and days-to-cover metric — totalling ~11x baseline, with market exuberance pushing toward 20x
+- Andrew's argument that SWC doesn't truly trade at a "premium" because its capital deployment rate (days to cover) delivers returns fast enough to justify the multiple
+- UTXO intelligence as a key differentiator for SWC versus other Bitcoin treasury companies
+- Fixed income capital instruments as a dilution-reducing alternative to common share issuance
+- Community-built financial dashboards and models (Nick B, host's own model) independently converging on ~£6 share price target within 10 weeks (~August)
+- SWC vs Coinsilium comparison: host argues the dashboard ecosystem and community engagement alone make comparison unnecessary
+- X (Twitter) community driving significant activity in the Bitcoin treasury startup space, with UTXO/David Bailey's Naka also emerging
 
 ---
 
-**Vostra:**
-(0:00:01) Hello. Hey guys, good to be back. Fourth of July, end of the week and another video for you.
-
-(0:00:11) We'll go through some — if you're new to the channel, sort of getting into a daily rhythm at the moment. Can't promise every day, but let's see how it goes. We'll do some comments, Q&A, and then share price.
+**VOSTRA (Host):**
+(0:00:01) Hello. Hey guys, good to be back. Fourth of July, end of the week and another video for you. We'll go through some — if you're new to the channel, sort of getting into a daily rhythm at the moment. Can't promise every day, but let's see how it goes. We'll do some comments, Q&A, and then share price.
 
 (0:00:27) Right. So, let's take a look. X comments. What's been happening in SWC World?
 
-(0:00:36) I'm going to start off with the Smarter Web presentation from Peterhouse Capital, the event that happened earlier this week. Thank you very much, Jamie, for summarizing all of this. I think it's massively useful. I was actually scheduled to attend but as you can see I've now got a job and I have to make videos.
+(0:00:36) I'm going to start off with the Smart Web presentation from Peterhouse Capital, the event that happened earlier this week. Thank you very much, Jamie, for summarizing all of this. I think it's massively useful. I was actually scheduled to attend but as you can see I've now got a job and I have to make videos. All right so let's run through the sentiment I got from this — that it was a packed out event and we have some information around the potential ambition of the business. So it's not like we didn't know that but it's now sort of a little bit more clearer anyway.
 
-(0:01:01) All right so let's run through the sentiment I got from this — that it was a packed out event and we have some information around the potential ambition of the business. So it's not like we didn't know that, but it's now sort of a little bit more clearer anyway.
+(0:01:22) So, what's Jamie saying? Let's take a quick look. Atmosphere — I mean, this says it all, doesn't it? Smarter Web. During Andrew's presentation, the room was standing room only. 200 to 250 people packed in. You know, one of the things that — yes — Simon from Metaplanet, he's really proud of showing his shareholder photo from the beginning of when they started the treasury company model to now, and yeah this is something that's happened before with another treasury company and this is just — imagine this is just the start for SWC. So I expect more rooms, standing room only type events.
 
-(0:01:22) So, what's Jamie saying? Let's take a quick look. Atmosphere. I mean, this says it all, doesn't it? Smarter Web — during Andrew's presentation, the room was standing room only. 200 to 250 people packed in.
+(0:02:09) What else is Jamie saying? Healthy mix of retail and institutions. Good stuff. Andrew's delivery — in progress. Yeah, he's getting better, isn't he, Andrew? Focus, positive 15-minute update. Trademark humility. The vision, executing and hitting milestones. Yeah, we'll come on to these milestones. Full business operating business — he's talked about that.
 
-(0:01:41) You know, one of the things that Simon from Metaplanet — he's really proud of showing his shareholder photo from the beginning of when they started the treasury company model to now. And this is something that's happened before with another treasury company, and just imagine — this is just the start for SWC. So I expect more standing room only type events.
+(0:02:38) Where else would we go? 100x valuation in 51 days. Fastest ever for a global company. Looks like we're on the heels of ASOS. 385x return, 20p IPO to 77 in 20. Yeah. That's going to be in the bag.
 
-(0:02:09) What else is Jamie saying? Healthy mix of retail and institutions. Good stuff. Andrew's delivery in progress — yeah, he's getting better, isn't he, Andrew? Focused, positive 15-minute update. Trademark humility.
+(0:02:58) Insights. So Andrew had a meeting with Michael Saylor. Can you believe it — the godfather of the strategy. So yeah, there's information flowing through from none other than Mr. Michael Saylor. What more do you need to say? They're talking about Smarter Strike. Blimey.
 
-(0:02:27) The vision — executing and hitting milestones. Yeah, we'll come on to the milestones. Functioning business, operating business. He's talked about that.
+(0:03:24) This is where you get to understand that this isn't just made-up stuff on the hoof. This is a planned, military-style precision attack on rolling out the Treasury playbook. I think we're beginning to see some signs of how the others are sort of making their way in this space, but the horse is starting to pull away.
 
-(0:02:38) Where else would we go? 100x valuation in 51 days. Fastest ever for a global company. Looks like we're on the heels of ASOS — 385x return, 20p IPO to £77 in 2020. Yeah, that's going to be in the bag.
+(0:03:54) Fixed income market. Yeah. So these products — if you're not aware of what these things are, we can go into a more detailed video on those sorts of things and we'll break it down. But in a nutshell, let's just say it's all good stuff and means that your shares will be less diluted effectively. It's as simple as that. It's fixed income. It's a different type of capital instrument, which is different to common shares.
 
-(0:02:56) Insights. So Andrew had a meeting with Michael Saylor. Can you believe it? The godfather of the strategy. And so yeah, there's information flowing through from none other than Mr. Michael Saylor. What more do you need to say? There's no introductions needed here.
+(0:04:24) What else — key differentiators? MWeb has access to UTXO intelligence. We'll talk a little bit about UTXO.
 
-(0:03:17) They're talking about Smarter Strike. Smarter Strike already. Blimey.
+(0:04:34) Take a look at the ambition. You know what — it started off with 1,000 bitcoins. We didn't think it was going to stop there, right? It was 2,100 bitcoins after that was the target and we were already — look, we can see the sight to get over that. No problem. 2,100.
 
-(0:03:24) This is where you get to understand that this isn't just made up stuff on the hoof. This is a planned military-style precision attack on rolling out the treasury playbook. I think we're beginning to see some signs of how the others are sort of making their way in this space, but the horse is starting to pull away.
+(0:04:56) What are we talking about here? Let's see. There was a slide presented and on it apparently — let me see if I can zoom in. Not sure if you can see that. It's actually not even on there, but in essence, the community has worked out that the ambition and the target is 210,000 bitcoins.
 
-(0:03:54) Fixed income market. Yeah. So, these products — if you're not aware of what these things are, we can go into a more detailed video on those sorts of things and we'll break it down. But in a nutshell, let's just say it's all good stuff and means that your shares will be less diluted effectively. It's simple as that. It's fixed income. It's a different type of capital instrument which is different to common shares.
+(0:05:32) Let's see if Jamie talks about that. Zoom this up a bit so you can see. Realize a lot of you watch this video on mobile, so maybe I should just zoom out a bit more. Yeah, there we go. Can we accumulate 1% of all bitcoins in existence? Well, hey — 1%. That's 210,000 bitcoins if you don't know.
 
-(0:04:24) What else? Key differentiators? Smarter Web has access to UTXO intelligence. We'll talk a little bit about UTXO.
+(0:06:00) So, just goes to show. Incredible. Just 210,000 bitcoins. This is not a "let's collect 1,000 bitcoins and go home" type job. This is a full, full-on execution, right?
 
-(0:04:34) Take a look at the ambition. You know, what started off with 1,000 bitcoins — we didn't think it was going to stop there, right? It's 2,100 bitcoins after — was the target, and we were already, look, we can see the sights to get over that. No problem. 2,100.
+(0:06:22) What else have we got? Yeah. So that's Jamie summarizing it nicely there. Transparency, premium, and market perception. Commitment to fairness and transparency. No discounted placings — we'll do another video on that as well.
 
-(0:04:56) What are we talking about here? Let's see. There was a slide presented and on it apparently — let me see if I can tick this a bit. Zoom in. Not sure if you can see that.
+(0:06:45) Market agrees. What matters most? Trust, management, credibility, and execution. Retail market power and liquidity. The Winterflood MD shared eye-opening stats. Yeah, retail matters. 30% in the US, 10% of volume in the UK.
 
-(0:05:16) It's actually not even on there, but in essence, the community has worked out that the ambition and the target is 210,000 bitcoins.
+(0:07:07) Look at that buzz around Smarter Web — it's real. After the presentation, Andrew was mobbed. Yeah, this is going to get more common. I worry about Andrew and Michael sometimes when they're in these open areas getting mobbed. You're going to have to beef up your security.
 
-(0:05:32) Let's see if Jamie talks about that. Zoom this up a bit so you can see. Realize a lot of you watch this video on mobile, so maybe I should just zoom out a bit more.
+(0:07:27) Clearly values the community. Yeah, we get that. Hey Jamie, and Vostra — thanks a lot. Performer, £25 pound target. Who's got that target? We'll have a look at share price at the end.
 
-(0:05:46) Yeah, there we go. "Can we accumulate 1% of all bitcoins in existence?" Well, hey, 1%. That's 210,000 bitcoins if you don't know.
+(0:07:44) What if I say so? Yeah, positive meeting. Sounds like it. All going well on that front. More to come, I should imagine.
 
-(0:06:00) So, just goes to show. Incredible. Just incredible. 210,000 bitcoins. This is not a small "let's collect 1,000 bitcoins and go home" type job. This is a full-on execution, right?
+(0:07:57) Let's see. X comments. What else happened on X?
 
-(0:06:22) What else? Yeah. So that's Jamie summarizing it nicely there. Transparency, premium, and market perception. Commitment to fairness and transparency. No discounted placings. We'll do another video on that as well.
+(0:08:06) Thanks a lot everyone for all your encouragement to make these videos. Yeah, I posted — we started posting these this week, I think — and we'll go into your comments, but it seems like some people are actually listening, so I might have to be careful what I say.
 
-(0:06:45) Market agrees. What matters most? Trust, management, credibility, and execution. Retail market power and liquidity. The Winterflood MD shared eye-opening stats.
-
-(0:07:00) Yeah, retail matters. 30% in the US, 10% of volume in the UK.
-
-(0:07:07) Look at that buzz around Smarter Web — it's real. After the presentation, Andrew was mobbed.
-
-(0:07:13) Yeah, this is going to get more common. I worry about Andrew and Michael as well sometimes when they're in these open areas getting mobbed. You're going to have to beef up your security.
-
-(0:07:27) Clearly values the community. Yeah, we get that. Hey Jamie, man of Vostra, thanks a lot. Outperformer — £25 target. Who's got that target? We'll have a look at share price at the end.
-
-(0:07:44) What else? Yeah, positive meeting. Sounds like it. All going well on that front. More to come, I should imagine.
-
-(0:07:57) Let's see. X comments. What else? Yeah, what else happened on the X? Thanks a lot everyone for all your encouragement to make these videos.
-
-(0:08:12) I posted — we started posting these this week, I think — and we'll go into your comments, but it seems like some people are actually listening, so I might have to be careful what I say.
-
-(0:08:33) And I mean just a note on this — X, right? This industry was born on X, I think, like a few weeks ago. Unless — I mean I'm trying to work out how this all evolved. But look at this.
-
-(0:08:51) David Bailey and I exchanged a message earlier on today. He was talking about his company Nakamoto Holdings. And if you don't know who David Bailey is, he's part of the UTXO crew and one of the investors in SWC. In short, they're like the mother ship and have gone around seeding all of these startup treasuries including SWC obviously.
-
-(0:09:17) So he posted something and I've gone back saying "yeah, I like the stock of the stock but not sure about the stock." So there's activity happening with Nakamoto Holdings.
+(0:08:33) Just a note on this X — right — this industry was born on X, I think, like a few weeks ago. I mean, I'm trying to work out how this all evolved, but look at this. David Bailey and I exchanged a message earlier on today. He was talking about his company Naka. And if you don't know who David Bailey is, he's part of the UTXO crew and one of the investors in SWC. In short, they're like the mother ship and have gone around seeding all of these startup treasuries, including SWC obviously. So he posted something and I've gone back saying yeah, I like the stock of the stock but not sure about the stock. So there's activity happening with Naka.
 
 (0:09:29) I'm not quite sure exactly where they are in their process, but yeah, it seems like they might need a financial model as well.
 
 (0:09:40) And this is the thing — the X community is driving a lot of the activity here. And it's quite remarkable to watch if I'm honest. I've never seen an industry with so much capital involved develop so fast. Mind-blowing stuff.
 
-(0:10:02) So, there's some comments there. What else have we got? Amazing stuff, Mr. Anderson as well. I'll do a separate video on H100.
+(0:10:02) So, there are some comments there. What else have we got? Amazing stuff, Mr. Anderson as well. I'll do a separate video on H100.
 
-(0:10:16) So the Peterhouse meeting seems like it went well.
+(0:10:16) The Pete Harris meeting seems like it went well. I wanted to do next — this is Nick B. Everyone give Nick B a follow on X. That's some work he's done on share price expectations. We'll come on to that at the end.
 
-(0:10:23) What I wanted to do next — this is Nick B. Everyone give Nick B a follow on the X there. That's some work he's done on share price expectations. We'll come on to that at the end.
+(0:10:42) I wanted to — yeah — one of the other points that Jamie raised was there were questions around at the Peterhouse event around how these things are valued. So I thought, let's look a bit more at the mNAV.
 
-(0:10:42) One of the other points that Jamie raised was there were questions at the Peterhouse event around how these things are valued. So I thought let's look a bit more at the mNAV.
+(0:10:57) Right, this is what I've came up with. This also comes back to something that Andrew referred to in the CNBC — was it CNBC yesterday? Can't remember. Yeah, the chap there talking about mNAV. So, one of the things I picked up was Andrew actually mentions in the meeting that he doesn't believe he actually trades at a premium, because what he's saying there is that he's able to cover his days-to-cover metric and actually give that premium — if you call it a premium — back to the shareholders. So that's the level that Andrew is coming at it from. Mind-blowing, in very basic terms.
 
-(0:10:57) Right, this is what I came up with. This also comes back to something that Andrew referred to in the CNBC interview — was it CNBC? Yesterday, can't remember. Yeah, the chap there talking about mNAV.
+(0:11:48) So I said, right, let me think about this now, because it's not just days to cover — that's like a historic metric — but what's moving it in the market on a daily basis? And multiple things go into this.
 
-(0:11:16) So, one of the things I picked up was Andrew actually mentions in the meeting that he doesn't believe he actually trades at a premium, because what he's saying there is that he's able to cover his days-to-cover metric and actually give that premium — if you call it a premium — back to the shareholders.
+(0:12:05) And it goes to some of your comments around how we should explain why people value these companies at a multiple. So I've kind of broken down some elements and I thought, okay, how much would I pay — or value — a company because of some of these things. So let's quickly run through them.
 
-(0:11:42) So that's the level that Andrew is coming at it from. It's mind-blowing. In very basic terms — I mean, we'll come on to that.
+(0:12:26) So we all know — okay, bitcoiners, you're probably used to self custody and can manage passwords and private keys, but not everybody can, right? So self custody — it's not for everyone. Would you give a company a 1x multiple just for that? I would, right? Take away the pain. Here's my money. Put it all into Bitcoin or get me exposure to Bitcoin. I'll just give you one for that. One mNAV.
 
-(0:11:48) So I said right, let me think about mNAV, because it can't — it's not just days to cover, right? That's like a historic metric. But what's moving it in the market on a daily basis? And multiple things go into this.
+(0:12:55) Tax benefits. Who doesn't love tax benefits? Your SIPPs, your ISAs — that's at least worth one. Okay. Execution, management, executionability — standard. Give you one for that. Retail investor base support, transparency, equity — I've kind of lumped all of that into one. Yeah, you can dive so deep into all of these subjects, but that's at least one.
 
-(0:12:05) And it goes to some of your comments around how we should explain why people value these companies at a multiple. So, I've kind of broken down some elements and I thought, okay, how much would I pay a company — or value a company — because of some of these things. So, let's quickly run through them.
+(0:13:30) A clean cap table. I'm definitely valuing a clean cap table. I'll probably give that — what did I give that? Two, right?
 
-(0:12:26) So we all know — okay, bitcoiners, you're probably used to self-custody and can manage passwords and private keys. But not everybody can, right? So self-custody — it's not for everyone.
+(0:13:49) Days to cover — a five. Right. All right. So, let's come back to this point. Days to cover. I gave that a five because what this in very basic terms is saying is: if you give me £1 now, in one month or so, I'll give you £20 back. Right? That was when it was trading at 20 mNAV or whatever it was at that point. But that's the trade here. And from Andrew's perspective, when you're trading at a multiple like that and you are able to deliver in 20 or 30 days time that £20, then what he's saying is, "I told you so. Now give me more." So at that level, you can argue you're not trading at a premium anymore because you're following through on what you've committed. I guess it's crazy.
 
-(0:12:43) Would you give a company a 1x multiple just for that? I would, right? Take away the pain — here's my money, put it all into bitcoin or get me exposure to bitcoin. I'll just give you one for that. Right? One mNAV.
+(0:14:45) So, if somebody came up to me and said, "Here, give me £1, Vostra. I'll give you £20 back in about a month or so." I'd start off — yeah, okay, here's your £1. And then I'd come back and, oh, actually, the guy gave me £20 back. Bloody hell. I'm going to empty my bank account and give you the whole lot. And that's what we've been doing, I guess, or what probably will happen, right? More and more institutions and people investing are going to say, "Right, this is okay. Maybe it comes down a bit. Let's see how the capital plan evolves."
 
-(0:13:00) Tax benefits. Who doesn't love tax benefits? Your SIPPs, your ISAs — that's at least worth one. Okay.
+(0:15:21) But yeah — capital plan. There is a capital plan in place and it's not just made up on the hoof, where I think I'm now starting to see some of the other companies are doing discounts. How can you go to the market and say, "We're never going to give discounts"? — which is a — I might be wrong on that, somebody can pull me up — but from what I'm reading, it's: yeah, we're not going to do any discounts here. There's a lot of discount clubs out there, but we don't do that here. And that — I'll give you a 5x multiple for that.
 
-(0:13:05) Execution, management, execution ability. Standard. Give you one for that.
+(0:15:57) So — sparking sentiment — I haven't put anything on there, but that's five. We all love getting your money back, which seems to be the case. Five, two for that — that's seven. Clean cap table. You know, coming into a deal, I want to know who's got what and who's going to get what. Not convoluted convertible deals and discounts and god knows what. So that's seven. You've got investor base support — that's eight. Execution — nine. Tax — I mean, you could give tax even a two, but let's just put it down to one. That's 10. You're up to 10 already.
 
-(0:13:10) Retail investor-based support, transparency, equity. I've kind of lumped all of that into one.
+(0:16:48) And you know, the self custody troubles — so that's 11. You've just got 11 there, right? Sparking sentiment — you could argue this is like market exuberance. Maybe that's where it gets to 20.
 
-(0:13:22) You can do loads of videos around this, or you can dive so deep into all of these subjects, but that's at least one.
+(0:17:06) So if I just scroll down here, this is some work done by Micro Strategist. There are a lot of people covering multiple startup treasuries and how the mNAVs evolve over time and they've done a lot more scientific work than I've done on this. But I like to corroborate it with how other people are viewing it. The doctors and the Nicks of the X group might be able to give you the exact names for these things — is this the inverted power law or whatever it is? It's based on stats. So, you can see that at the start of a Bitcoin treasury strategy, you start off at sort of a 20 mNAV, and then as time goes on it comes down. Now there are companies who are obviously outliers and might be able to sustain the mNAVs for a much longer time. So there's my work on mNAVs.
 
-(0:13:30) A clean cap table. I'm definitely valuing a clean cap table. I'll probably give that — what did I give that? Two, right? I'd say — okay, look, I gave that a two.
+(0:18:17) Cool. Anything else? Yes. Let's go back to that Q&A from the Peterhouse meeting — that was great.
 
-(0:13:49) Days to cover — a five. Right. All right. So, let's come back to this point. Days to cover — I gave that a five because what this in very basic terms is saying is: if you give me one pound now, in one month or so, I'll give you 20 pounds back, right?
+(0:18:27) Right. Let's do Q&A before we do share price action. I know you guys love the financial porn there. So, these are some of the comments from the last video. Keep adding comments — I will get back to all of them and then let's maybe base some of the videos off of what you guys want to see.
 
-(0:14:09) That was when it was trading at mNAV 20 or whatever it was at that point. But that's the trade here. And from Andrew's perspective, when you're trading at a multiple like that and you are able to deliver in 20 days or 30 days' time that 20 pounds, then what he's saying is, "I told you so. Now give me more."
+(0:18:47) So let's go. Sirill D: "Andrew should have told him SWC can be placed in an ISA wrapper. Bitcoin cannot." Yeah, Sirill is talking about the CNBC interview that happened yesterday. There's so many things that we can talk about on the advantages and we've just run through the mNAV principle stuff. So yeah, absolutely. Let's take that one.
 
-(0:14:29) So at that level, you can argue you're not trading at a premium anymore because you're following through on what you've committed. I guess it's crazy.
+(0:19:10) "The interviewer was looking for a gotcha moment. Andrew managed to gently step over him." He did. He did. The gotcha moment wasn't there. He was fully composed and managed that like the professional that he is.
 
-(0:14:42) So, I'd give — if somebody came up to me and said, "Here, give me £1, Vostra. I'll give you 20 pounds back in about a month or so." I'd start off — yeah, okay, here's your one pound. And then I'd come back and — oh, actually, the guy gave me 20 back. Bloody hell, I'm going to empty my bank account out and give you the whole lot.
+(0:19:28) "Love your content." Yeah, thanks very much. I was just blown away by all the comments actually coming through, and some DMs as well. Who knows where this goes — it's a new industry and a lot of exciting things can happen. So thanks John for that. "Great analysis, Eagle, like it." Thank you very much.
 
-(0:15:05) And that's what we've been doing, I guess, or what probably will happen, right? More and more institutions and people investing are going to say, "Right, this is okay. Maybe it comes down a bit. Let's see how the capital plan evolves."
+(0:19:51) Daniellei: "Awesome information. Very helpful. Appreciate the time you must spend." You know what? Actually they don't take — I know these take ages and I have to plan them all day — actually they don't take long at all. I'm trying to get them down to 15 minutes. Let's see — we're already on 20 minutes, but hey. One of the actually interesting stats is that the first few videos have been about half an hour or so, but most of the people don't get that far. So I'm going to cut down the video times, make them short, sharp, and sweet.
 
-(0:15:18) But that — yeah, this is it. I wrote it down here. Capital plan. There is a capital plan in place and it's not just made up on the hoof, where I think I'm now starting to see some of the other companies are doing discounts. How can you go to the market and say we're never going to give discounts—
+(0:20:30) But what you're after is a video on Coinsilium at some point. Are they still the second choice treasury? This is a whole new video. I've got so much material to talk about and do. "Are they too far off pastings? Would love a comparison." I will do you a comparison, even though they cannot be compared, I will do you a comparison. Okay.
+
+(0:20:54) Very, very quickly if you want the comparison — there, look — Coin. Here you go. Coin closed today. So let's just do the BTC chart. A little bit of a dump. Let's wait for it to switch. I might need to get a new computer as well because all of these videos and things just take up so much memory that everything stalls. There you go — that's Coin. There's your comparison. And then SWC. Here we go. Yeah, that's SWC. So I don't know what more of a comparison you want, but we shall do a bit more.
+
+(0:21:43) "Too many people watch BBC." Yeah, too many people do. They don't need to watch BBC. They can just watch SWC now, especially on the Vostra channel.
+
+(0:21:57) And Andy Smith — cheers, Andy. "Apologies for volume." Yeah — I'm not a YouTuber. I'm just making this up on the hoof. Apparently I am now. Good stuff.
+
+(0:22:13) So, those are the comments. But like, we are getting to a point where, you know, you're doing commentary on SWC — you can come across a little bit as, I don't know what you call them. I recently got called a fanboy. The problem is if you are a fan, you are a fan.
+
+(0:22:39) And this brings me to this comment I just saw from Zinc. Zinc — everyone give Zinc a follow in the community. He's saying: "Guys, I've been screaming about SWC so much that I'm being accused of being a paid promoter." I so get where you're coming from on that, and it's not like — I'm not a fanboy, but maybe I am, I don't know. Safe to say: yeah, we like the stock. And it is absolutely — to Andrew and SWC and Michael — we're just in awe of the execution here and the planning that's gone into this, and of obviously prioritising the shareholders. These are quite basic things, but a lot of people are getting this wrong. And no unfair discounts.
+
+(0:23:26) Next week I'm going to be dropping a video — depending on how something goes, let's see. I'm not going to say a huge amount more except subscribe to the channel. Apparently that's what you've got to say on these videos, because that's the other stat — a lot of people watch and they don't subscribe. You have to subscribe. You must subscribe. If you want to see that video, subscribe to the channel.
+
+(0:23:48) Finally, let's get back to my agenda. You love my little agenda, don't you? Three points — we had three points yesterday. I'll try and make a bit more, but three points. There's a lot to talk about in three points as well. So let's do some share price and financial action.
+
+(0:24:06) Where did we close up today? You need to kind of look at so many different sites because they post late entries in. And what are those late entries about as well — somebody try and understand those. But £3.22.5.
+
+(0:24:23) I'm not going to go on the Aquis website because I think everything will stall. What's TradingView saying? Yeah, 3.26 or something like that. But have a look at the other videos from yesterday and the other day. Let's see how these projections are playing out because, as far as I'm seeing things — yesterday, I think in yesterday's video I said we should bounce about here for the next couple of days or so. Look at that wick. That wick went up to 419.15. You know what they say about wicks, right? It's not — you don't just paint from there. These wicks get covered. So yeah, this is happening.
+
+(0:25:11) So where does that leave us? So this is where we look at our financial model. If you haven't had a look at the financial model yet, take a look — there's so much information and data available now, and it's for free. But let's just quickly do this share price thing. £3.20 or something, wasn't it? Let me go to the share price in the model.
+
+(0:25:37) Yeah, I was playing that. So the mNAV is about eight — about eight. I'd say it's about — let's put 7.9 or something. I just do this so that we can see — yeah let's try seven. 294. 7.5 — let's try — 316. Yeah, so we're between 7.5 and 8ish.
+
+(0:26:13) The other thing — SWC now has their own dashboard. There's dashboards galore. Here we go. mNAV — there's about eight. This is showing me about eight. What's the next dashboard saying? This is the other dashboard — SWC Dash — 7.7. So that's quite close to the one I've got. Yeah. So, well, look, we're happy with the models. They're all checking out. We're a bit above 7.5, 7.6, 7.7.
+
+(0:26:55) So, you tell me — do you think we're going to get to 10? Put that in the comments.
+
+(0:27:02) The comment around dashboards and the fanboy thing. Like, you have to realise these dashboards, these models — this model — I'm just saying, right, okay, this is probably at least £5,000. This model, a forecast financial model — now if you went out to somewhere like PWC they might even charge you £10,000 for something like this.
+
+(0:27:33) I want to also shout out Nick B. Look at this dashboard. How many dashboards do you want? SWC's got like 35 dashboards now. This one we've seen — look at that. Beautiful. Brilliant.
+
+(0:27:53) And what I'm trying to highlight here is — has anyone — and somebody asked for a comparison with Coinsilium. Do you have three dashboards? I've got a bit of a nibble in Coin, so I'm not just saying that to dis anything, but you don't need a comparison. This is it. Like, look at Nick — former investment analyst, now software developer. How much do you think that costs? This dashboard would be thousands to maintain. This is incredible stuff.
+
+(0:28:36) So, going back to Nick's work, we've got some predictions on price. I know you like a little bit of share price prediction. So, Nick has looked at the raises over the next 10 weeks and put together the ATM and the share price that gets sold at and come up with his projections. He thinks that via the cash and the subscriptions we'll be raising a range of numbers — from 84 million to 240 million — 2x all the way up to 3.5x if doing okay — and that takes you to, let's say, £3 to £6.
+
+(0:29:27) All right, £3 to £6. Let me compare that with what I've got. And that, I think, was in the 10-week range. So we're looking at probably two months and a bit — August. So you get through July, get through August.
+
+(0:29:49) What have I got? Yeah, six pounds. Bloody hell, Nick. Yeah, according to this model. And where's Nick's model? There we go — six pounds. Doing okay. I've got it doing okay as well.
+
+(0:30:14) So, it's quite remarkable that we're coming out with similar numbers as well. But actually, it's not that remarkable because — I'm not a programmer — these are mathematical calculations that you would expect the share price to get to as you reprice and rerate the mNAV. None of this is financial advice — I have to remember to keep saying all of that as well. This is pure financial entertainment. Don't put your mortgages and all of that kind of jazz on this. Unless you really want to.
+
+(0:30:50) Anyway, that's all I've got for you. Thanks very much. Have a great weekend and back next week if not before. Cheers everybody.

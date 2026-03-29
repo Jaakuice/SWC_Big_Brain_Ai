@@ -1,0 +1,233 @@
+# A Week In The World Of SWC Episode #12
+**Date: 2025-08-02**
+**Video ID: hj7DQTOi7eU**
+**URL: https://www.youtube.com/watch?v=hj7DQTOi7eU**
+**Duration: ~55:29**
+**Channel: SWC and BTC**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- ATM (At-The-Market) instrument mechanics: price thresholds, 20% volume cap, three-market execution, and the update to a fixed two-week reporting cycle
+- MicroStrategy's new mNAV-based ATM rule set (2.5x floor, 4x+ aggressive use) and whether SWC should adopt similar bands
+- MetaPlanet launching preferred stock and the path to preferred/debt instruments for Bitcoin treasury companies
+- Two-stage rocket model: equity issuance first, then debt/preferred instruments once the balance sheet is large enough
+- MNAV compression and market psychology — why shareholders sell after a rally, and parallels to Bitcoin's four-year cycles
+- Bear market preparedness: SWC's 100% equity, zero-debt balance sheet as a structural advantage over competitors
+- Key man risk mitigation: Jesse Myers as Andrew Webley's number two and ongoing team-building
+- AQUIS vs LSE: why AQUIS is the optimal listing venue for a young Bitcoin treasury company in the equity-issuance phase
+- FCA approval of crypto ETNs in the UK — complementary to, not competing with, SWC's compounding Bitcoin model
+- SWC's long-term ambition to be the dominant UK Bitcoin treasury company, with a target of 210,000 Bitcoin
+
+---
+
+**Host (SWC and BTC):**
+(0:00:04) Jesse, thank you so much for joining us. Really appreciate you taking the time to come on and talk us through the latest things and then have a bit of a Q&A.
+
+**Jesse Myers:**
+(0:00:17) Yeah, happy to be here.
+
+**Host (SWC and BTC):**
+(0:00:19) Great. So I thought just start with the kind of major announcements this week. 225 Bitcoin added to the treasury, just shy of the next target at 250 Bitcoin in the treasury. That's like a 12% addition this week.
+
+**Jesse Myers:**
+(0:00:46) Good question. I don't know that math actually.
+
+**Host (SWC and BTC):**
+(0:00:50) Roughly. So still stacking. And the other main bit of news was the change to the ATM.
+
+**Jesse Myers:**
+(0:01:05) Yeah, I kind of want to go into the ATM a bit more today because of all the news that's come out — MSTR with their new rule set last night. And people are hypothesizing on how it could evolve and change, and lots of people kind of don't necessarily know how it actually works at the moment. So can we dive straight into like how the ATM works at the moment, like the rule set?
+
+**Host (SWC and BTC):**
+(0:01:39) Yeah. Okay.
+
+**Jesse Myers:**
+(0:01:44) So the way it works — and obviously this is executed by Shard, the affiliate of Tennyson in there — the price is set from the close price on the AQUIS market the prior day. And so that becomes the threshold where Shard can't sell any shares above or below that price threshold, and that's applicable to all three markets — so AQUIS, US OTC, and the Frankfurt market as well, obviously converted into the local currency. But that's the price threshold below which they can't sell any shares on those markets.
+
+(0:02:40) Additional fun fact here: they sell shares directly into each market, all three markets. And the rules are really simple. The way it's structured — and this was the collaboration of Andrew and Shard to come up with this very elegant structure — they can sell up to 20% of the volume for the day. And that's it. So that's the extent of the rules to keep it nice and simple. You can't sell below the close price from the prior day, it can sell into all three markets, and the cumulative volume can't be more than 20% of total volume globally for that day.
+
+**Host (SWC and BTC):**
+(0:03:32) Thank you. Hopefully that clears up for people how it currently works. MSTR last night released an update or kind of an explanation of how they intend to use the ATM on the common stock — not below a 2.5 mNAV, then in graded amounts of use up to a 4 mNAV, and anything above a four they're just going to hammer it by the sounds — my words. What do you think of that? Do you think that's something that SWC could move towards?
+
+**Jesse Myers:**
+(0:04:16) Yeah, I was sending Andrew some messages about this as soon as that came out. We haven't had a chance today, because of the time difference — I was up for that and he wasn't up yet — to sync up on that. But MetaPlanet has sort of introduced a similar idea. I believe their threshold is 3x mNAV that they either unofficially or officially don't sell below. Basically I think it's kind of common sense, and this is sort of being crystallised into policies.
+
+(0:04:50) Strategy setting those kind of bands is interesting. It's perhaps more prescriptive than what we want or need at this point in time. I think because we're young, it's still a very good idea for us to remain flexible. The reality is we've had massive mNAV compression — below what I think is where we should be. I think we've gotten to a territory where, based on the amount of Bitcoin yield we've been able to deliver over any time frame, it's kind of a screaming value.
+
+(0:05:40) So if this ends up being kind of the low end of where mNAV is for the foreseeable future — if this is kind of the bottom of our mNAV compression crash — then we'll expand from here, and where we're currently at is still in the range of what Strategy says is fair game. And I think because of our size and the amount of Bitcoin yield we're able to deliver, we should be over that 4x threshold most of the time for the foreseeable future. Maybe I'm wrong, but that's the math that I see.
+
+(0:06:35) And I think it's a good idea, as you mature as a Bitcoin treasury company, to start to signal what your accretive range is. MetaPlanet's been doing this for at least a quarter. If you go through their presentations from May, I think, they have a great slide that shows their mNAV over their entire history and then a window that says this is where we intend to be accretively diluting people, which has a bottom end at 3x. And I think that's kind of the mental model that I have and that we should have — over time that window probably drifts down as mNAVs compress, as you scale. Think of it as a window where if we're above Strategy's number of 2.5, it's incredibly attractive. And especially if you're over 4x — I think we'll probably be over 4x more often than not over the next year.
+
+**Host (SWC and BTC):**
+(0:08:10) You mentioned remaining flexible, and we'll go back to the announcement that came out on Monday about the first change to the ATM with regard to the funds being released. Can you explain how it was working and what it's going to change to?
+
+**Jesse Myers:**
+(0:08:32) Yeah. So we had established that we were going to sell through a defined amount of shares before then updating the market on here's what happened. Andrew came up with an improvement, in part by hearing the community's desire for more frequent updates on that — and more frequent, you know, receiving pounds from that — to have it be a set two weeks. So we're going to pull up, take stock of what's been sold over a two-week period through the ATM and then report that to the market. And in doing so, we can then collect those pounds, rather than having to wait.
+
+(0:09:21) The first round was 7 million shares and we were going to wait until however long that took and then report to the market. Part of it was the way that first clip shook out — there was a tiny amount that hung over into the next day. And so then we had to sell that and then report on that at the end of the day. It was suboptimal — it kind of made us lose half a day of ATM selling basically. So this way it's a lot cleaner, I think more predictable. It takes care of that hangover of a prescribed set number of shares.
+
+(0:10:23) I think Andrew came up with a really good solution here. And it's also important to let the community know we'll be iterating — we're listening to you guys very intently. If you have ideas, particularly if there's consensus around ideas, we're particularly open to thinking about it. And we're going to be iterating on ATM structure — ATM style instrument structure, it's not an ATM, it is ATM style instrument. We're going to be trying new things and trying to optimise how we're doing everything. So expect that we will continue to make little changes here and there as we try to improve everything.
+
+**Host (SWC and BTC):**
+(0:11:26) Okay, let's move on to some of the Q&A stuff that's come up from the community. I think you may have answered this on Anders' show on Wednesday, but for maybe people who haven't watched it yet, or people who just want to hear it again — preferred stock becomes pertinent again today with MetaPlanet just announcing that they've launched their preferred.
+
+**Jesse Myers:**
+(0:11:58) I haven't even gotten to read that today so I'm looking forward to that. I've known that's been coming — it's been obvious through the hints they've been providing in the market. Occasionally I'll exchange texts with Dylan and he would just hint around it too. So it's really cool that that's happening.
+
+(0:12:25) I think it's very interesting how Strategy came up with this not that long ago — seven months ago now, maybe eight — when they launched Strike, and then now they've rolled out four or five of them. It's a fast-moving space. And when these came out, the assumption was that only Strategy could do this — you have to be in Strategy's position in terms of balance sheet and sheer scale for this to make sense. But MetaPlanet started sniffing around it quite quickly and I think they realised it makes sense earlier too. You don't necessarily need to have 600,000 Bitcoin.
+
+(0:13:19) But you do need to have quite a bit of Bitcoin, and I think that's important for Smarter Web investors to know and think about. If you zoom out to what's the value proposition to potential investors in these instruments — you're saying, look, we have an incredible balance sheet, extremely over-collateralised, and we would like to issue debt effectively. And if you're interested in getting 8 to 10% a year for your fiat, we will promise to pay that. Look at our incredible Bitcoin balance sheet — this is how you have confidence that we will be able to do that.
+
+(0:14:09) So you have to have that balance sheet in order for the debt market to be at all interested, or to deem you creditworthy. MetaPlanet's there I guess, and we're on our way there, but I don't think we're there yet.
+
+(0:14:31) The other part of it too is, when you're young as a Bitcoin treasury company — when you're young and moving fast and delivering a lot of Bitcoin yield and the mNAV reflects that — it should price in that expectation of how much yield can be delivered. So long as your mNAV is high, the most valuable thing you can do is be issuing equity — the most accretive thing — because really anywhere over 3x is incredible for the accretive issuance of new equity, because you're buying Bitcoin with it. The math on a 5x mNAV — if you're at a 5x mNAV and you issue 10% more equity and use those proceeds to buy Bitcoin, that's a 36% increase in Bitcoin per share just right there. So 10% dilution, 36% net accretion. Saylor's now nudging us to use the terminology — it's just an accretive transaction.
+
+(0:16:13) When you're in a high mNAV, that's the best thing to be doing. As you mature as a Bitcoin treasury company, your mNAV will compress, and then higher torque instruments become more important. Strategy has faced that existential question of how do you deliver Bitcoin yield when your mNAV starts to get towards one. And the solution is these instruments — preferred equities — they're the better form of debt market fuel rather than just issuing ordinary bonds or convertible bonds. These are a better version of that.
+
+(0:16:57) All that to say, that's the endgame. That's the goal of where every Bitcoin treasury company is trying to get to. But it's path dependent — you have to get a large, clean balance sheet before you're creditworthy enough for it to be interesting to potential debt investors. And we're very much in that stage of still building that balance sheet. Frankly, it's the more exciting part — we can move faster and we can grow faster because we're small.
+
+(0:17:42) I kind of have this mental model of like a two-stage rocket. For a Bitcoin treasury company going from zero — like MetaPlanet, like Smarter Web — you start on the launchpad. That first stage is equity. It's equity issuance, private placement, and ATM style issuance. And then you get to a high enough point where your Bitcoin stack is big enough that the mNAV compresses naturally and you have to switch to a different fuel source. You get your second stage rocket — that's going to be debt market capital, the bond market, fixed income market. And preferred equities are the best way to do that.
+
+(0:18:37) That's how I view things. That's how Andrew views things. That's where we're moving towards, but we're still very much in the early stages of that first stage of the rocket, which is a great place to be, frankly.
+
+**Host (SWC and BTC):**
+(0:18:51) Thank you. And what size does the stack kind of need to be for the people in the back that haven't heard this before?
+
+**Jesse Myers:**
+(0:18:57) That's part of what's so cool about it — we don't know. Strategy was around 500,000 Bitcoin before they launched these, but MetaPlanet at what, 17,000 Bitcoin, they're launching them. You could probably do it with five or 10,000 Bitcoin. I think you probably can't do it below that.
+
+(0:19:28) And there are other factors too that probably play into it — first and foremost, how clean is your balance sheet. If you have structural headwinds from existing debt or strange covenants — some of the Bitcoin treasury companies that are popping up are trying to take shortcuts to get to scale, which is a risk. Maybe it works out for them or maybe it creates structural headwinds that they have trouble overcoming, that could quell their flywheel or stop it from ever forming. You can't have that if you're trying to issue preferred equities without being at Strategy scale.
+
+(0:20:23) It's very notable that MetaPlanet is able to do it at a much smaller scale than Strategy. And there are lots of other variables, like how much demand will there be in your local jurisdiction for these products. The UK happens to be pretty good on that front — I think there's a lot of demand for high yield because interest rates are lower.
+
+(0:21:21) I don't think it's anytime soon. Andrew has put out his aspirational timeline, and I think the community should not expect that — certainly any sooner than that and probably not as fast as Andrew would like either. But the more important thing is that equity issuance right now is what we should be focusing on because it's the most valuable thing we can be doing at this lifecycle stage. We're mindful that in parallel we have to build that out, but also mindful that the best thing we can be doing is just executing on the equity issuance strategy right now.
+
+**Host (SWC and BTC):**
+(0:22:14) Thank you. So the next question — I did notice that you commented on a post from AnyB, who I think is an SWC investor but mainly hails from the Capital B community. Why are people selling? And I wanted to share the graphic that he shared that you commented on.
+
+**Jesse Myers:**
+(0:22:51) I like this topic. I have a bunch of —
+
+**Host (SWC and BTC):**
+(0:22:53) You start talking.
+
+**Jesse Myers:**
+(0:22:55) Yeah. Why are people selling? Well, that tends to happen with any asset that has a massive rally. Oh yeah, this is a cool graphic. If you think about what happened with Bitcoin treasury companies globally over the last three months, there was quite a massive expansion as people got excited — oh wow, there's going to be potentially more MetaPlanets all over the world and it could happen fast. And it got frothy. It got ahead of fundamentals. Some companies got the benefit of the doubt when they had not yet proven their ability to execute on fundamentals.
+
+(0:23:53) And then of course when you have that kind of mini bubble, the tide ends up going out. People who have made lots of profits sell, or to some extent get a little panicked trying to lock in some of those profits. Some people who bought the top panic thinking they made a mistake, and they sell. In Bitcoin world, we've seen this — this is what happens with our four-year cycles. I'm very familiar with the sentiment and psychology that I've been closely watching for more than two cycles in Bitcoin world, and it's a dead ringer right now for how that feels and what plays out.
+
+(0:24:46) In Bitcoin, coins change hands. You have panic selling, profit taking — whatever reason individual market participants want to sell, they end up selling during a downturn. And those coins in Bitcoin end up finding new holders who have a forward expectation of their own about what Bitcoin will do going forward. They're starting their journey and expecting to hold for some amount of time until who knows what happens. You reset the holders.
+
+(0:25:32) And I think the same thing happens with any stock or any asset that rapidly goes up — you have a process that plays out the same way of people too excited, blowoff top gets a little frothy, then there's a contraction. That contraction moves people to sell for a variety of reasons. Shares change hands and find their way to new holders who are starting their journey with their own individual thesis about where this thing is going to go. They're not thinking "I just made 100x, is it all going to go away?" They're thinking "I've taken a fresh look at the fundamentals, I like the team, I'm going to invest and hold starting now." That's a very organic natural process that plays out in markets.
+
+(0:26:38) What's been going on here — looking at MetaPlanet's 15-month history, if you go back and look at their price chart along the way and their mNAV expansion and contraction, they had like four of these cycles in their 15-month history where mNAV expanded and then contracted. It always looks a little bit different but always kind of the same — like a heartbeat on a chart, where you've got this expansion, contraction, and then diminishing volatility as it kind of hones in on some consolidation level. Meanwhile, they kept stacking Bitcoin. They kept adding Bitcoin per share, and at some point that forces the consolidation to break out to the upside.
+
+(0:27:36) That's been the story with MetaPlanet for its 15-month history. And that's such a big part of why I'm extremely excited about what I'm seeing at Smarter Web. When this model is done right, that Bitcoin NAV per share just keeps marching up. You can stay at a consolidation level for quite some time, but so long as that NAV per share is increasing, at some point it forces the market to reassess — wait a second, we're approaching the level where it's like one-to-one with Bitcoin and yet they're delivering a ton of Bitcoin yield. How do we value this company? And what we've seen with MetaPlanet is inevitably that pressure breaks out to the upside and starts a fresh cycle of price discovery.
+
+(0:28:46) If you go back and look at the Bitcoin chart over 16 years and every four-year cycle because of the halving schedule, it ends up looking a lot like what we've seen in the last couple of months with Smarter Web — just on a four-year time scale with Bitcoin versus kind of a four-month time scale for MetaPlanet. And it's looking the same way with Smarter Web. It's the same mechanics and psychology playing out on a 12x faster time scale. And that's exactly what you want to see — that's a healthy digesting of a big upside move as the fundamentals continue to improve under the surface and make it possible for the next move.
+
+(0:29:47) So why are people selling? This is markets. This is what has to happen to digest a big upside move. And it's also what makes it possible for everything to reset, for shares to end up with holders who are looking ahead to the future thinking "I'm going to hold this for some amount of time" rather than looking backwards saying "I need to lock in my gains." We're resetting investor expectations, investor sentiment and metrics. And just looking at the fractal — how Bitcoin's price discovery plays out over time, how that manifests with MetaPlanet on a 12x faster time scale, and then Smarter Web in the first four months of our life — it's kind of looking a lot like those two examples. The mechanics under the surface are improving because Bitcoin per share has kept increasing.
+
+**Host (SWC and BTC):**
+(0:31:22) I mean, not financial advice, but buy the dip.
+
+(0:31:28) Okay. Thank you. After an okay three months since IPO, what are your expectations for the company's performance and strategic direction over the next three months?
+
+**Jesse Myers:**
+(0:31:43) Yeah. Obviously can't say anything specific. But what I think is most — I love going to the analytics dashboard on our website, and there's different things you can see in the six charts we have there. One of those charts is Bitcoin held. If you just take a look at that chart, you'll see a stairstepping up and to the right, growing exponentially. That's awesome.
+
+(0:32:17) That Bitcoin held chart is very healthy. And I think it's the result of everything that Smarter Web does, everything that Andrew's built, everything that we're doing every week, all the conversations we're having, all the infrastructure we're building out — raising money through individuals, through institutions, with the ATM style instrument. That all adds up to that chart. And it is itself a representation of how Andrew runs the business, the cadence by which he executes. You can make your own assumptions about whether or not that work ethic and approach to executing will continue.
+
+(0:33:32) Then you scroll down to the mNAV chart — that's the other one I think is most instructive. Because this will bounce around — this is just reflective of sentiment in my view for Bitcoin treasury companies as an entire sector and also for the particular company in question. But right now we're at the lower end of mNAV for our entire history. You can ask yourself, will we stay there or will we not?
+
+(0:34:10) The contrast — the diptych I guess — of those two charts is very helpful because one of them is going up and to the right, and that's the fundamentals. And then the other one is market sentiment and is down and to the right at the moment. You can ask yourself if that'll remain. I can't say anything about specific outlook for three months or whatever, but what I can say is take a look at our track record and ask yourself what builds that track record and are those pieces still in place — and the answer to that is yes, very much so, and we're adding to them.
+
+**Host (SWC and BTC):**
+(0:34:53) Okay. What are the biggest challenges facing SWC with regards to regulatory and political dynamics in the UK? And I don't know if you've seen this because it happened like two hours before this, but the FCA have officially okayed crypto ETNs in the UK.
+
+**Jesse Myers:**
+(0:35:13) Oh, good.
+
+**Host (SWC and BTC):**
+(0:35:14) Yeah.
+
+**Jesse Myers:**
+(0:35:15) I hadn't seen that. For quite some time we've felt that investors deserve that — investors deserve an instrument that tracks Bitcoin cleanly. And that's great. Our view is Smarter Web was never a substitute for an ETN, because it doesn't track Bitcoin cleanly. There's volatility that's layered on top of it, as we've seen with the mNAV chart. And ultimately they're trying to do different things — an ETN is trying to give pure Bitcoin exposure to investor portfolios, and what we're trying to do is grow Bitcoin per share. That's different. Our goal is compounding Bitcoin; an ETN's goal is straight up clean Bitcoin.
+
+(0:36:12) So yeah, that's fantastic news. I think it's also a sign that, reading between the lines, we think the success of Smarter Web may have influenced or perhaps slightly accelerated that inevitable regulatory shift. It was bound to happen but it's possible that Smarter Web helped — which is really cool if that's the case. That's just good news for UK investors.
+
+**Host (SWC and BTC):**
+(0:36:50) Are you prepared for a bear market? You've mentioned the four-year cycle. Do you think you can continue to raise capital in one?
+
+**Jesse Myers:**
+(0:37:03) Yeah. In some ways, there's no way to be ready for a bear market — you don't know when it's going to hit or what it's going to look like or how long it'll last. But you can certainly be more ready than others. And I think we're in a fantastic position. At the moment we are 100% equity — there is no debt on our balance sheet at all. We're constantly evaluating adding attractive debt, but it has to be very attractive for it to make sense. At the moment we've got an incredible balance sheet: 250 Bitcoin and no debt. That puts us in stronger shape than other Bitcoin treasury companies that have taken on debt, and especially those that have more exotic financing structures.
+
+(0:38:15) There is an approach to financing a Bitcoin treasury company that involves giving discounts to institutional investors — sometimes order of magnitude discounts in some cases. And the problem with that is those institutional investors are immediately in profit and are going to take profits probably. That creates structural headwinds to getting the flywheel going. And that would probably be exacerbated in a bear market — if you're an institutional investor and you got like a 10x deal, you're going to be dumping if things are moving down.
+
+(0:39:15) We don't have that because Andrew feels very strongly about having a policy of no discounts for any investors — even me. I paid the market rate when I bought shares. And Andrew too, when he buys shares — which, side note, I think is really cool. That's what you want to see from management: thinking, you know what, in the investable landscape, the thing I'm most bullish about is the company I'm working for.
+
+(0:40:01) Anyway, going into a bear market, it's about relative strength. We've sort of seen that over the last month — this mNAV contraction has been really tough on all Bitcoin treasury companies, but it's been tougher on some. And those charts don't look like they're shaping up with consolidation. Some of them haven't found a bottom at all.
+
+(0:40:49) We're in a little mini bear market right now for Bitcoin treasury companies, and Smarter Web is continuing to improve its fundamentals during this bear market. We're still in a high enough mNAV that it makes sense to just keep doing what we're doing — raising funds through private placement, our ABBs, and also through the ATM style instrument. And we're emerging stronger. Assuming sentiment improves after this, we come out looking relatively stronger than other alternatives in the UK in particular and really globally.
+
+(0:41:57) In a Bitcoin bear market, if we face like a 70% drawdown, there are other levers we can explore to continue to deliver Bitcoin yield. One thing you can do is sit on your hands — that's the minimum — and we won't end up doing that because we will find things that make sense. Debt becomes more attractive paradoxically when Bitcoin's down 70%. If you can get a five-year ordinary bond structure in place, that's actually the time at which it's most attractive and most accretive to shareholders. Convertible debt would also be attractive at that point. In a bear market, covered calls or naked puts the way MetaPlanet does could help generate income to buy Bitcoin. And Strategy put out a slide saying that below 1x mNAV they would consider buying their stock.
+
+(0:43:43) There are things you can do. We haven't had to get smart on them really. And I don't expect to have to get smart on them, so long as the market is continuing to evaluate what's the value of Smarter Web when they're delivering this much Bitcoin yield. Continuing to execute at an aggressive pace makes it so that buyers step in. We've seen that with Smarter Web over the last month — buyers step in because they start to think this is screaming value given the fundamentals. And some of the other companies haven't had those buyers stepping in because they don't have the same track record of delivering Bitcoin yield.
+
+**Host (SWC and BTC):**
+(0:44:44) How big an issue is key man risk? What systems are in place?
+
+**Jesse Myers:**
+(0:44:48) Yeah, I saw that comment too. And it's funny to me because that's part of why I'm here. Andrew alone running a Bitcoin treasury company — yeah, there's key man risk there. I'm here to help Andrew. I'm here to be his number two. And I think that greatly reduces key man risk right there. I'm very much on the same page as Andrew about how he's running his business. I love how he approaches all these issues.
+
+(0:45:33) What the community is not seeing is how frequently we're talking, how much I'm learning from him about the business and how he approaches things. And culturally too — I'm trying to sponge up how best to run a business in the UK and learning from Andrew's values. I think it's less of a norm in the US to care a ton about no discounts, but I've seen now how important it is in a UK context. Andrew's adherence to that, how much importance he places on it, resonates tremendously with UK investors, and that's a critical pillar to Smarter Web's values. And you see Bitcoin treasury companies in the UK that aren't run by Brits may make missteps with regard to that cultural value because it's not native to non-Brits.
+
+(0:46:47) So I'm here to help, I'm here to be Andrew's number two. I love doing that. And I think that right there takes care of a lot of the key man risk. And we'll continue to build out the team as we scale.
+
+(0:47:16) Something you may not have seen — there was a company that decided to downlist from the LSE to AQUIS in order to improve their odds at getting the flywheel going. I'm assuming it was down to not being able to issue shares very easily, and maybe costs. How would SWC potentially overcome the restrictions that come with the LSE when in that future time it might happen?
+
+**Host (SWC and BTC):**
+(0:47:42) That was actually a question from the community, for context.
+
+**Jesse Myers:**
+(0:47:55) Yeah. For the time being it's great being listed on AQUIS. We like being listed there because there are different rules around headroom, and it's a great place to be a young Bitcoin treasury company.
+
+(0:48:18) In fact, it's possible that CELI AI — I don't even know how to say their company name — they may have stumbled into one of the things that we viewed as a bit of a competitive advantage. In the UK, if you're a young Bitcoin treasury company, the best place for you to be is AQUIS. And it's our view that it's actually a disadvantage to be on LSE when you're still small. And it may be that they're learning that.
+
+**Host (SWC and BTC):**
+(0:48:59) Yeah, it comes back to your phase one — issue equity, right?
+
+**Jesse Myers:**
+(0:49:07) Yeah, that's right. And of course it's not clean — it's not like stage one booster rockets you want to be on AQUIS and then stage two you want to be on LSE. It's not a clean thing like that for this topic. But I do think that to get your flywheel going, to get to a certain size and scale, AQUIS is the best place.
+
+(0:49:39) It's been interesting to me that there's been this race for people to want to be on LSE from the get-go in the UK, and we've been quite happy to just be like, okay, good luck everybody. Because AQUIS has been a wonderful place for us at this lifecycle stage as a Bitcoin treasury company. And importantly, we think we will grow into a lifecycle stage probably not too far from now where it may make sense to be somewhere else. But it's path dependent — you have to get to that scale for it to make more sense to be somewhere else. And the best place to get to scale is AQUIS in my opinion.
+
+(0:50:44) And it also shouldn't surprise people if other companies do the reverse move when they are at a different lifecycle stage than where CELI AI currently is with just a few Bitcoin on their balance sheet. In terms of what they're running from — maybe running is a harsh word — headroom: the restrictions on headroom on issuing new equity are a lot more stringent on LSE, 20% currently per year, and will be increased to 75%. There are things you can do on top of that, but I'll stop short of saying what those are because we're exploring that. It's a deep topic and I also don't want to give anybody more information about what they can do.
+
+**Host (SWC and BTC):**
+(0:52:01) Yeah, keep that IP to yourself. Okay. Penultimate question — are SWC going to go after the European fixed income market? So not just the UK at some point?
+
+**Jesse Myers:**
+(0:52:19) Yeah. We haven't talked about that. I think our focus is on the UK capital market. My view personally is that there will be a major winner in every capital market. The UK is a major capital market — there's a significant portion of the world's wealth in the UK, and I think that's especially true in the bond market. So home court advantage here matters a lot, especially when it comes to plugging into the fixed income market and tailoring your products to the regulatory requirements that buyers on the other side of the table would look for and need.
+
+(0:53:25) That's going to be our focus. We like to say profit from the core — our core market is the UK. That right there is enough to grow to 210,000 Bitcoin if we just focus on being the leading Bitcoin treasury company there. That's the scale of what's possible. And I think it will happen for whoever wins in the UK, and we want to be that winner. We're in position to keep executing to become that winner.
+
+**Host (SWC and BTC):**
+(0:54:03) And the last one's just a bit of fun — what shampoo and conditioner do you use?
+
+**Jesse Myers:**
+(0:54:10) I saw that. In the summer, it's all weird because I swim a couple times a week and so I get all chlorinated hair and then I shampoo it and then it gets all like this. So it's going to be all sorts of weird in the summer months. I don't even know what it's called, the shampoo and conditioner. My wife handles that and I'm just accepting. I'm not picking brands there.
+
+**Host (SWC and BTC):**
+(0:54:44) Well, thank you very much for joining, Jesse. Really appreciate your time. Hopefully see you again in a few weeks time.
+
+**Jesse Myers:**
+(0:54:50) Let's do that. That'd be great. I like this forum — this is where the die-hards are paying attention and getting their information, and it's an awesome sign of a healthy community. I like being able to come and update people on what's going on. Let's do it again.
+
+**Host (SWC and BTC):**
+(0:55:11) Thanks very much. Take care, Jesse.
+
+**Jesse Myers:**
+(0:55:13) All right. Cheers.

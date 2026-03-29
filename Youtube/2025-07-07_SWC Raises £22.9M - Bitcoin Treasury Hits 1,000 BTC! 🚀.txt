@@ -9,106 +9,118 @@
 ---
 
 ## Key Topics:
-- SWC raised £22.9 million through ATM (At-The-Market) offering, selling 7 million shares at an average price of £3.27
-- SWC's Bitcoin treasury has reached 1,000 BTC, with potential to hit 1,500 BTC based on remaining funds
-- Approximately 3% dilution from the share issuance, bringing total shares to ~242 million
-- Share price closed at £3.00 on July 7th, down 7% despite the positive fundraise news
-- The ATM completed in ~3 weeks, faster than the forecasted completion date of July 18th
-- MNAV (multiple of net asset value) tracking at around 6x at current share price
-- Broader market sell-off not isolated to SWC — AltBG and Meta Planet also seeing similar volatility
-- Previous book build at £2.90 appears to be acting as a price support level
-- Eves (founder of Tobam) publicly objecting to share lending/short selling of AltBG stock
-- Speculation about institutional investors selling to re-enter at book build prices
+- SWC completes ATM (at-the-market) raise #8: £22.9M raised by selling 7 million shares at an average of £3.27
+- Bitcoin treasury milestone: SWC reaches 1,000 BTC, with model suggesting enough capital for 1,500 BTC
+- Share price dropped ~7% on announcement day to ~£3.00, despite positive news
+- Price action context: sell-off not isolated to SWC — AltBG also showing similar intraday volatility
+- mNAV tracking: post-raise mNAV sits around 6x, down from ~7.5x prior to the ATM completing
+- Model update: next book build could occur at mNAV ~8–8.5x, implying a share price around £4.24
+- Forecast vs. actuals: model had predicted £18.6M raise at ~£2.74; actual came in higher on both metrics
+- Upcoming catalyst: possible book build announcement expected imminently from Andrew Webley
+- Shareholder base: ~80% retail holding firm ("diamond hands"); US investor involvement noted in cap table
+- Channel growth goal: reach 2,100 subscribers before SWC reaches 2,100 BTC
 
 ---
 
-**Vostra:**
-(0:00:02) Hi guys, Vostra here. 22.9 million pounds. Ladies and gentlemen, hey, crazy, did you all wake up and see the 7 a.m. RNS?
-
-(0:00:17) A lot of people are not sleeping at the moment. It's a hygiene of being an SWC shareholder. Full disclosure, yeah, I'm a little bit invested. Remember, this is all financial entertainment. No financial advice ever given here. Sit back, relax, and whoa, what a day. 22.9 million pounds. You know, sometimes like not so long ago, you'd wake up on a Monday morning, be cold — well, it's not cold these days, but it was raining — and what is there to look forward to? But now you've got RNS announcements. So happy days. 22.9 million pounds. We'll go through that. Go through the model.
+**Vostra (Host):**
+(0:00:02) Hi guys, Vostra here. 22.9 million pounds. Ladies and gentlemen — Crikey, did you all wake up and see the 7 a.m. RNS? A lot of people are not sleeping at the moment. It's a hygiene thing of being an SWC shareholder. Full disclosure, yeah, I'm a little bit invested. Remember, this is all financial entertainment. No financial advice ever given here. Sit back, relax, and — whoa, what a day. 22.9 million pounds. You know, sometimes not so long ago you'd wake up on a Monday morning, it was raining, and you'd think what is there to look forward to? But now you've got RNS announcements. So happy days. 22.9 million pounds. We'll go through that, go through the model.
 
 (0:01:06) Welcome to the Vostra channel. I've got you. I've got your announcements. I'm going to do share price analysis, Q&A, change things up a little bit. I'm learning, I'm evolving. Thank you very much everyone for your support. We're smashing through.
 
-(0:01:23) Let's get cracking. You can see I've got 1,500 bitcoins written here, but you're thinking, "Well, they just announced 1,000 bitcoins. What's going on?" Hold tight. Hold tight. Let's break this down bit by bit, and I've got to keep it under 15 minutes because you guys are busy people. That's what the analytics are saying.
+(0:01:23) Let's get cracking. You can see I've got 1,500 bitcoins written here, but you're thinking, "Well, they just announced 1,000 bitcoins — what's going on?" Hold tight. Let's break this down bit by bit. I've got to keep it under 15 minutes because you guys are busy people. That's what the analytics are saying.
 
-(0:01:48) You guys are very busy people. You just want the juice and that's it. Juice and get out. So, you know what they say — if that's what the market wants, I have to give the market what the market wants. That's how we do business here.
+(0:01:48) You guys are very busy people. You just want the juice and that's it. Juice and get out. So if that's what the market wants, I have to give the market what the market wants. That's how we do business here.
 
-(0:02:05) So, right, let's wrap it back to the announcement this morning. 22.9 million pounds. So, you know what that means? That was the ATM. Yeah. Smart Web Company. Smarter Web Company ATM in action. We have seen the first tranche — 7 million shares being sold over the course of something like three weeks.
+(0:02:05) Right, let's wrap it back to the announcement this morning. 22.9 million pounds. That was the ATM — Smarter Web Company ATM in action. We have seen the first tranche: 7 million shares being sold over the course of what was it, something like three weeks. £3.27 was the average sale price, I believe. We will update the model. Let's do that together. It was 7th of July, markets just closed I believe. Let's see what the price action was.
 
-(0:02:29) £3.27 was the average I believe of the sales price. We will update the model. Let's do that together. Let's see, where was it — 7th of July, markets just closed I believe. Let's see what the price action was.
+(0:02:46) £3 — looks like dead on £3. You're seeing a 7% decrease and you're thinking, what the hell is going on? We just raised 22.9 million pounds, bought a bunch of Bitcoin up to 1,000 bitcoins, and — plop.
 
-(0:02:46) £3 looks like dead on £3. You're seeing a 7% decrease and you're thinking what the hell is going on? What is going on? We just raised 22.9 million pounds, bought a bunch of Bitcoin up to 1,000 bitcoins, and plop.
+(0:03:10) Well, let me break this down. Let's get to the model first. Whenever there's market action like this, you have to trust your conviction. What's your fundamental thesis? Seeing Chris Melas there in the Smart Community group releasing his investment thesis — congratulations Chris, beautiful work. So what is the thesis here? Let's always go to the model. Let's keep this number in mind: three pounds.
 
-(0:03:10) Well, let me break this down. All right, let's get to the model first. This is where — whenever there's market action like this, you have to trust your — you have to have your conviction, right? Where is your fundamental thesis? Seeing Chris Melas there in the Smart Community group release his investment thesis. Congratulations Chris. Beautiful work there.
+(0:03:50) Before we get to the three pounds, actually, this is the model that we update on this channel on a pretty much daily basis at the moment. I want to show you a snapshot of what it was like towards last week, and let's change that.
 
-(0:03:43) So what is the thesis here? Let's always go to the model. All right, let's keep this number in mind — three pounds. Before we get to the three pounds, actually, this is the model that we update on this channel on a pretty much daily basis at the moment. I want to — before we go to this model where we'll update it together, let me show you a snapshot of what it was like sort of towards last week and let's change that.
+(0:04:16) So this is the story so far. We had a book build on the 26th of June at £2.90. That was the last major action. And then we'd been tracking the mNAV. We could see that at that point around about 7.5 at one point. So that was the snapshot, and at that point in time we had the ATM completing. I think — could be wrong — Shard had about up to a month to place those 7 million shares. This is where we'd modelled it. We'd said they would be complete by the 18th of July. But as we've mentioned in previous videos, the business has a tendency to outperform forecasts. So they've killed that in three weeks.
 
-(0:04:16) Yeah. Okay. So, before all of the happenings, we have been — right. So, this is the story so far. We had a book build on the 26th of June. What was that? 2.90. That was the last major action. And then we'd been tracking the MNAV. We could see that at that point when this snapshot was taken, we were around about 7.75 at one point.
+(0:05:19) We had forecast a price of around £2.74. We'll come on to the actual amount just in a moment. But that's the reason I'm showing you the model first and then what's actually happened — so we can track it.
 
-(0:04:49) So that was the snapshot and this is what at that point in time we had the ATM completing. So I think — could be wrong here — Shard had about up to a month to place those 7 million shares. This is where we'd modeled it. We'd said they would be complete by the 18th of July. But as we've mentioned in previous videos, the business has a tendency to outperform forecasts. And so they've killed that in three weeks.
+(0:05:38) There must be a better way where I can do actuals and forecasts in tandem, but it gets quite convoluted. I've got to keep you updated, I've got to keep the models updated, and all of a sudden I've got a full-time job here. And I didn't even plan to do any of this stuff, but it's exciting.
 
-(0:05:19) We had forecast a price of around 2.74. We'll come on to the actual amount just in a moment, but that's the reason why I'm showing you the model first and then what's actually happened is so that we can track it.
+(0:05:59) Okay, so this was the snapshot. Keep that in mind. We had an ATM out to 18th of July — they smashed that today. It was announced: 22.9 million pounds. We've also had a book build forecast for this week. If Mr. Webley surprises us with that — I don't also want you to be disappointed if he takes one extra week because look, how much do we want? We're getting Christmas here every day. We'd said they would raise about £18.6 million. This forecast was predicting. We came in at £22.9 million.
 
-(0:05:38) There must be a better way where I can do actuals and forecasts in tandem. But it gets quite convoluted. I've got to keep you updated. I've got to keep the models updated. And all of a sudden, I've got a full-time job here. And I didn't even plan to do any of this stuff, but it's exciting, right?
+(0:06:50) So I have sandbagged this model, as I repeatedly mention in videos, because I like to take a little bit of a sandbag view. I've got to move on now because we're already shooting past time.
 
-(0:05:59) Okay, so this was the snapshot. Keep that in mind. We had an ATM out on 18th of July. They smashed that today. It was announced 22.9 million pounds.
+(0:07:03) Let me flick back now to the live model that we update here on a daily basis. So this is the ATM that's just been announced. I'm going to mark that as we speak so we know what we're doing. I'll call that Raise 8.
 
-(0:06:13) We've also — this is going to be interesting this week — we've also had a book build forecast for this week. If Mr. Webbley surprises us with that, what — I don't know. I also don't want you to be disappointed if he takes one extra week because look, how much do we want? We're getting Christmas here every day.
+(0:07:25) Let's check — that was done at £3.27. Is that correct? Should we go to the website and double-check? Every time I go to Aquis these days, this website crashes. It's because everyone's going on it at the same time. They need a new website. Maybe Mr. Webley's business can do a new website for Aquis because this thing keeps crashing.
 
-(0:06:37) So I mean, look, let's keep that in mind. And we'd said that they would raise about 18.6 million. This forecast was predicting. We came in at 22.9. So, I have sandbagged this model as I repeatedly mention in videos because I like to take a little bit of a sandbag view.
+(0:08:01) Here we go. I'm just going to click on the RNS. I believe it was £3.27. What is going on? It's crashing. Branch update. Here we go. £22.9 million proceeds. £3.27 — that's correct.
 
-(0:07:01) I've got to move on now because we're already shooting past time. Okay, let me flick back now to the live model that we update here on a daily basis. So, this is the ATM that we had just been announced. I'm going to mark that as we speak so we know what we're doing. I'll call that Raise Eight. Yeah.
+(0:08:29) So the way I got that £3.27 was by moving the mNAV. I'm not inputting the actual share price — I'm seeing what mNAV they're closing it at. So that was done at an mNAV of 7.75 according to the model. And these might be slightly out but not that much, as we're seeing.
 
-(0:07:25) Let's click that. And then that was done at £3.27. Is that correct? Should we go to the website and double check?
+(0:08:57) So this is what's actually happened. These are all the equity fundraisers. This is the ATM that's just completed — Raise 8, £3.27, 7 million shares. We can see there's an approximate dilution of about 3%, 242 million shares swimming about at the moment. So that's all good.
 
-(0:07:39) Every time I go to Aquis these days, they — this website crashes. It's because everyone's going on it at the same time. Most likely they need a new website. Maybe Mr. Webby's business can do a new website for Aquis because this bloody thing keeps crashing.
+(0:09:52) Now where is the story going next? This is done. He's sold 7 million shares at £3.27 — we'd modelled it slightly lower. £22.9 million raised. Ladies and gentlemen, you've had an announcement of 1,000 bitcoins, but we're doing the models here in the background — there's enough in the tank for 1,500. So look at that: 1,500 bitcoins.
 
-(0:08:01) Here we go. Here we go. I'm just going to click on the RNS. I believe it was 3.27. And — what is going on? It's crashing. Tranche update. Here we go. 22.9 proceeds. Let's go. Let's go. £3.27. That's correct. Right. Okay.
+(0:10:35) The share price today just closed at £3, I think, if they don't change it — it has a funny habit of changing sometimes at the last minute. But if we now look at what mNAV that's tracking at, it's about 6.
 
-(0:08:29) So, we did that. The way I got that £3.27, by the way, was moving the MNAV. I'm not inputting the actual share price. I'm seeing what MNAV they're closing it at. So that was done at a market cap of — sorry, an MNAV of 7.75 according to the model. Yeah.
+(0:10:53) Let's see. They haven't changed it. You can see: closed market 7th of July, down 7%. Why is that? Let's take a look at the chart now.
 
-(0:08:49) And these might be slightly out but not that much out as we're seeing. So I can mark that now.
+(0:11:11) So this is the SWC chart we've been mapping. I encourage you to look back through the other videos because there's commentary there. Apologies it's all sort of mix-mash — I am going to separate some of these videos out now so you can get straight to the bits you want. We're ticking on, we're at 11 minutes. I have said in other videos that we should be bouncing about in around here for a bit now.
 
-(0:08:57) Let's go. There we go. So this is what's actually happened. I can — I know that's sort of cut off. Excuse my YouTube skills. They're evolving as we go. But these are all the equity fundraisers. This is the ATM that's just completed. Raise number eight. 3.27. 7 million shares. We can see that there's an approximate dilution of about 3%. 242 million shares swimming about at the moment.
+(0:11:38) What is going on in the market? It's similar to what happened here, but it's not as violent. This is why — it's not as violent a down, so that's positive at least guys. But you can clearly see somebody selling. It's not isolated to SWC. I'm going to do commentary on Meta Planet and the AltBG guys because I feel like they're the strongest other players in the market. You can see it's not isolated to SWC.
 
-(0:09:35) So that's all good. So that's done. But we should — we can green that part. Let's go. That's gone. Done. Done.
+(0:12:23) And the other point — the last book build seems to be protecting that price quite well. It was at £2.90. The low point here was at five. So I expect us to defend this quite well, because also looking at the trading, it doesn't take much to move this stock.
 
-(0:09:49) Okay. Now, where is the story going next? So, we're on this line. This is done. Green.
+(0:12:51) Part of me just thinks something more is going on than just — and this is financial entertainment — because look at that, it's not just SWC as I say. Let me quickly flick through to the AltBG guys. Look at this activity. They're on a good trajectory and I expect that to recover. This is just intraday volatility.
 
-(0:10:04) So he's sold 7 million shares out there in the market. 3.27. We'd modeled it slightly lower. 22.9 million raised.
+(0:13:24) But talking about AltBG, there's something I wanted to point out from my friend Yves. If you don't know who Yves is, he's the founder of Tobam, the asset management company. I don't know if any of you caught this last week — was it June 29th? This is what he sent out on X: "To be sent as of today to your bank/broker. I currently hold shares of X company — AltBG Group. Through this letter I am formally notifying you of my express objection to any lending of securities, and in particular the shares of AltBG."
 
-(0:10:16) Look at that. Ladies and gentlemen, you've had an announcement of 1,000 bitcoins, but we know — we're doing the models here in the background. There's enough in the tank for 1,500.
+(0:14:06) Now I'll just leave that out there. What in essence is my thought process here — and I could be wrong because I like to be financially entertained — let's flick back. My computer memory is jammed now. New equipment upgrade is on its way. Don't worry, I will make sure we don't have any of these stalls because we can't have stalls when we're in the game here, moving as fast as we need to move.
 
-(0:10:29) So look at that. 1,500 bitcoins.
+(0:14:43) Come on, flip back. Here we go. The last closing price hasn't fed through to TradingView yet, or the other way around. But whatever it is, it seems to be protecting the book build quite well.
 
-(0:10:35) The share price today just closed at £3 pounds I think if they don't change it. It's got a funny habit of changing sometimes at the last minute.
+(0:14:56) I just wanted to point that out because I think liquidity is being managed here well. People do need to sell, they might be selling. I was doing thought experimenting — if I'd got in earlier, or one of the bigger funds, what would there be to stop you selling a bit and then taking part in the new book build? I mean, why not? Somebody might know more about the legalities of that, but I don't think there's anything wrong with it — you'd just take a bit of profit and make sure that you get to the levels you need to get to, and away you go again.
 
-(0:10:45) But if we now look at what MNAV that's tracking at, it's about six. Yeah.
+(0:15:46) Oh look, that's flicked up online — live, £3. How did we get to £3.20? Let me just — this is just weird. I'm just going to think that that's three pounds and that's a late entry there.
 
-(0:10:53) Let's see. Let's go back. They haven't changed it. You can see closed market 7th of July, down 7%. Why is that?
+(0:15:59) But yeah, what I'm trying to say is — like I said in yesterday's video — this is a wick that's gone up there. We need these wicks to get filled. So hold your horses. If you're panicking or thinking, "What's going on? We bought all this Bitcoin and they've raised all this money" — don't worry. There's more coming. Definitely more coming. I read a stat saying about 80% of retail is holding. So you guys are all pretty much diamond hands. That's how we're built.
 
-(0:11:06) Let's take a look at the chart now. Interesting.
+(0:16:34) And then let's take a look at the model again. So we're trading at about 6, it's come down. You can see now, in the other models I've been saying okay we probably want to get to 10. But because of the asset build, you actually don't need to get all the way back up to 10 to have a decent next build. Because that 10 there is showing me a forecast of £6.22. And the book build before that was £2.90. So if we come down to seven — here you go, let's come down to seven now.
 
-(0:11:11) So, this is the SWC chart we've been mapping. Encourage you to look back through the other videos because there's commentary there. Apologies, it's all sort of mishmash. I am going to separate some of these videos out now so you can get straight to the bits you want. We're ticking on. We're at 11 minutes. I have said in the other videos that we should be bouncing about in around here for a bit now.
+(0:17:21) Yeah. That's the next one. But if we do like that — six — let's see what that needs to get to to try and match the Tennyson target. Nine. The Tennyson target I believe was £4.20-something. Eight. Eight and a half.
 
-(0:11:38) What is going on in the market? It's similar to what happened here, but it's not as violent. You can see — right, this is — why has that happened? Let's put it back. There you go. It's not as violent a down. So that's positive at least guys. But you can clearly see somebody selling. It's not isolated to SWC.
+(0:17:50) So I'm calling: we don't even need to get back up to 10, because that 8.5 would get you to approximately £4.24. And the way I've done that is in this cell I'm assuming a book build of issuing about 13 million shares. Because if you remember — and it could be less actually — that's £55 million that would raise as capital. Could be a lot less.
 
-(0:12:02) The other — I've shortened this down slightly. I'm going to do commentary on Meta Planet and the AltBG guys just because I feel like they're the next — well, they are the strongest other players in the market. We can talk about other bits as well, but you can see that it's not isolated to SWC.
+(0:18:24) But let's just imagine it's that much. Might not even need to raise 13 million shares because we had a 6% dilution there. Let's just put this down to 10 million. See where that goes. Right — you would dilute by 4% but then you would be raising almost on par with the previous book build, £42 million, which would still take you to £4.24, and an mNAV of 8–8.5. That would get you — diluting over both activities — about 7%. The previous dilution was around 6%. So I think this is going in the right direction.
 
-(0:12:23) And the other point, the last book build, it seems to be protecting that price quite well. So, was at 2.90. The low point here was at 2.95. So, let me see. I expect us to defend this quite well because also looking at the trading, it doesn't take much to move this stock.
+(0:19:13) We shall see this week. We shall see. A lot of activity this week — it's already started. So there's my two cents on that. Moving on. Yeah, I've failed on the 15-minute test as usual. We will get better.
 
-(0:12:51) Part of me just thinks something more is going on than just — and this is financial entertainment, right? Because look at that. It's not just SWC as I say. Let me quickly flick through to the AltBG guys.
+(0:19:33) Share price analysis: done. So hold your horses. There is the end summary on that.
 
-(0:13:12) Look at this. Look at this activity. They're on a good trajectory and I expect that to recover. This is just intraday what they call volatility, right?
+(0:19:38) Q&A. Hey guys, this channel is moving fast. Quick Q&A. Add your comments on the videos as we go along. I'll try and separate out these videos so we can keep them a bit short.
 
-(0:13:24) But talking about AltBG, there's something I wanted to point out from my friend Eves. If you don't know who Eves is, he's the founder of Tobam, the asset management company. I don't know if any of you guys caught this last week, was it June 29th? This is what he sent out on X — to be sent as of today to your bank broker: "I currently hold shares of X company LBG Group. Through this letter, I am formally notifying you of my express objection to any lending of securities and in particular the shares of AltBG."
+(0:19:57) "If you haven't invested yet, what would you say is the best entry point? Is there any benefit in contacting them directly? Thanks for the content." Thanks for your comment. What would you say is the best entry point — look, this is for you to decide. This model is for entertainment, it's education, it's analysis. We are all learning as we go. This is a whole new industry. I would say based on my model, my entertaining model, this has been underpriced — for me. So do with that what you need to do, but you need to do your own research. That's what we say here on this channel. No financial advice given.
 
-(0:14:06) Now, I'll just leave that out there. I'll just leave this out there, but what in essence is my thought process here — and I could be wrong because I like to be financially entertained — is...
+(0:20:47) Regards your other question around is there any benefit of contacting them directly — I believe if you are a high net worth individual, you might be able to get involved in the book build directly, but you would probably need to contact their broker, Tennyson Securities, and let them know you want to drop a seven-figure large bag, and away you go.
 
-(0:14:24) Let's flick back to the — yesterday, my computer is — the memory is jammed now. New equipment upgrade is on its way. Don't worry. I will make sure that we don't have any of these stalls because we can't have stalls when we're in the game here like this, as fast as we need to move.
+(0:21:15) Thanks very much. I hope that answers your question.
 
-(0:14:43) Come on. Flip back. Flip back. Here we go. Right. The last closing price hasn't fed through to TradingView yet or the other way around. But whatever it is, it seems to be protecting the book build quite well.
+(0:21:19) Andy Smith — "Well, you grow into your channel, you do get into the flow after a while. Tell you what, it takes these thumbnails and little bits like that — they take longer than you actually think." Thanks. "Here is some good advice: no need to do a video as three or four per week is sufficient and less urgent." Hey — three or four a week is very insufficient. There is just too much happening to cover in three or four per week. You'll be lucky if you don't get three or four per day.
 
-(0:14:56) But yeah, I just wanted to point that out because I think liquidity is being managed here well.
+(0:21:54) If Mr. Webley is getting to 2,100 bitcoins soon, we're going to have to get to 2,100 subscribers before he gets to 2,100 bitcoins. Thanks very much for that comment.
 
-(0:15:06) You know, people do need to sell, they might be selling. If — you know, I was doing thought experimenting. If I'd got in earlier or one of the bigger funds, what would there be to stop you selling a bit and then taking part in the new book build? I mean, why not? Somebody might know more about the legalities of that, but I don't think there's anything wrong with that. You would just take a bit of profit and make sure—
+(0:22:09) "I'm a US investor." Hey Darren, thanks. It's great to have US support there. I think looking at the cap table there's a lot of US involvement here. So thanks very much, US. We are very behind here in the UK, but hopefully SWC will fix that soon.
+
+(0:22:28) Bank of England 1694 — we'll do a separate piece on that as well.
+
+(0:22:36) "Very good video. I was there at the conference." I think these are comments related to the Peterhouse video that we did. Apologies I cut that off a little bit — I'm still trying to learn here. But maybe I'll do another one on that actually. "Got a chance to thank Andrew on behalf of... I also had wondered about that 1%... ready to smash buying some more SWC then and there, but the signal was dreadful."
+
+(0:23:01) Yeah, you've got to have connections, internet connections galore now. And as Andrew gets more popular, there's going to be mobbed-out events everywhere. So everyone look after themselves.
+
+(0:23:17) "Another great video. I'm a fanboy too." Yeah, we're starting to get a lot more of these comments. Happy to carry that title.
+
+(0:23:23) "Price of freedom. Thanks for watching. Keep up the good work. One day you will have 1,000 — this is a niche industry — thousands of views when the general public wakes up." Yeah, nobody's talking about this still. This is still very, very early days. Look, some of the initial funds might be doing some jiggery-pokery there, but still early. If people need to flush out, they'll flush out. We can see the model, we can see where it's going.
+
+(0:23:57) Oh, there's another video coming hot off the heels of this. Don't worry. Some people said "Where's the video?" — they're coming, they're coming. I can't make them quick enough.
+
+(0:24:10) Thanks Vostra, thanks John. Brilliant. Amazing stuff. Thanks very much everyone. That's the end of that one. Cheers. Bye.

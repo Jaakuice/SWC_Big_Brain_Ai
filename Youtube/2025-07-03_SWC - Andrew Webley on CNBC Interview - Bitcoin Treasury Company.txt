@@ -9,102 +9,157 @@
 ---
 
 ## Key Topics:
-- CNBC interview with SWC CEO Andrew Webley about Bitcoin treasury strategy
-- Corporate treasuries surpassing ETFs in Bitcoin buying for three consecutive quarters
-- MNAV (Multiple of Net Asset Value) as a key valuation metric for Bitcoin treasury companies
-- Debate over whether SWC is valued as a web company or a "Bitcoin play"
-- FCA regulatory considerations for UK Bitcoin treasury companies
-- "Days to cover" metric and SWC's claim as fastest-growing public Bitcoin treasury company
-- Why invest in a Bitcoin treasury company vs. buying Bitcoin directly (compounding argument)
-- Comparison to Strategy (MicroStrategy), MetaPlanet, Tesla, and other public Bitcoin holders
-- UK capital markets' lack of understanding of Bitcoin treasury strategies
-- The role of share issuance in compounding Bitcoin holdings for shareholders
+- Andrew Webley's CNBC interview defending SWC's Bitcoin treasury strategy against a skeptical interviewer
+- UK mainstream media's lack of understanding of Bitcoin treasury companies and mNAV metrics
+- mNAV (Multiple of Net Asset Value) explained — how Bitcoin treasury companies are valued
+- "Days to Cover" metric — how quickly a company can grow into its share price premium
+- Why invest in a Bitcoin treasury company vs. buying Bitcoin directly (Bitcoin yield / BTC-per-share compounding)
+- SWC's no-debt, pure Bitcoin approach vs. leveraged and fake Bitcoin treasury competitors
+- Concerns about ~25 UK companies claiming Bitcoin treasury strategy without actually holding Bitcoin
+- VOSTRA's institutional investor guide for evaluating Bitcoin treasury companies
+- SWC share price analysis and capital raise projections targeting 10x mNAV
+- Share dilution modelling and ATM (at-the-money) issuance strategy discussion
 
 ---
 
-**Vostra:**
-(0:00:01) Hey guys, quick followup from yesterday, 3rd of July today. What a day. Interview with CNBC was the main thing I think from a public perspective. So, let's go through that download. So, once I've looked at the interview and we've discussed that, I realized even more that nobody blooming gets it in the UK. They still don't get it. They won't. Why would we think they get it? I forget. I'm in this too deep that I realize I know a bit more than the mainstream and you guys as well from the community. So that became a lot more transparent today. So I created a little guide and yeah, your feedback would be good on that and then we'll do a quick share price and anything else on that Q&A side. But let's go.
+**VOSTRA:**
+(0:00:01) Hey guys, quick followup from yesterday — 3rd of July today. What a day. Interview with CNBC was the main thing I think from a public perspective. So let's go through that download. Once I've looked at the interview and we've discussed that, I realized even more that nobody blooming gets it in the UK. They still don't get it. They won't. Why would we think they get it? I forget — I'm in this too deep. I realize I know a bit more than the mainstream, and you guys as well from the community.
+(0:00:39) So that became a lot more transparent today. So I created a little guide and yeah, your feedback would be good on that, and then we'll do a quick share price and anything else on that Q&A side. But let's go.
+(0:00:52) So this was the video. I'm going to play it and then you do the usual — let's see what they talk about.
 
-(0:00:52) So this was the video. I'm going to play it and then you do the usual. Let's see what they talk about.
+---
 
-**CNBC Host:**
-(0:01:06) Bitcoin treasury strategy with an additional 24 billion investment as part of its 10-year plan. According to data provider Bitcoin Treasuries, corporate treasuries have surpassed ETFs in Bitcoin buying for a third consecutive quarter, growing their Bitcoin balance by around 18% while ETFs showed an 8% increase in the same period. Andrew Webley is CEO of the Smart Web Company and joins us now. Andrew, nice to see you. You call yourself the Smart Web Company and you got your name in the title — say well that's very well for you, doesn't — you know most web companies are about the web. Anyway, look just tell me, I'm going to take a step back and I'm going to do this very slowly. We've got time. What does your company actually do?
+**CNBC Interviewer:**
+(0:01:06) Bitcoin treasury strategy with an additional $24 billion investment as part of a 10-year plan, according to data provider Bitcoin Treasuries. Corporate treasuries have surpassed ETFs in Bitcoin buying for a third consecutive quarter, growing their Bitcoin balance by around 18% while ETFs showed an 8% increase in the same period. Andrew Webley is CEO of the Smart Web Company and joins us now. Andrew, nice to see you. You call yourself the Smart Web Company and you've got your name in the title — that's very well for you. Most web companies are about the web. Anyway, look — just tell me, I'm going to take a step back and I'm going to do this very slowly. We've got time. What does your company actually do?
 
-**Andrew Webley:**
-(0:01:43) So, we're a web design business. I've been established for 15 years, profitable for 15 years. And we've got three parts to our business. So, we've got the core operating business, which is web design, over 250 clients, 30% reoccurring revenue. We've got the long-term acquisition strategy. And then finally, we've got our approach to treasury management. So, doing what I believe I've done myself personally for almost 10 years. We don't believe in the value of the pound, the dollar, the euro. So we keep our assets in the best asset in the world, which is in my opinion Bitcoin.
+**Andrew Webley (CEO, Smart Web Company):**
+(0:01:43) So we're a web design business. I've been established for 15 years, profitable for 15 years. And we've got three parts to our business — we've got the core operating business, which is web design, over 250 clients, 30% recurring revenue. We've got the long-term acquisition strategy. And then finally we've got our approach to treasury management. So doing what I believe I've done myself personally for almost 10 years — we don't believe in the value of the pound, the dollar, the euro, so we keep our assets in the best asset in the world, which is in my opinion Bitcoin.
 
-**CNBC Host:**
-(0:02:16) Okay. So I'm learning on my feed here as well about Bitcoin Treasury. In fact, one of the smartest guys I know is watching this interview because he has flagged up the importance of Bitcoin Treasury to me actually in recent days. And I'm learning new acronyms as well including MNAV I think it is as well which is the multiple of the net asset value of a company as well. I'm going to say something and you can either agree or disagree. Your company has become a Bitcoin play. The valuation of your company, valuation of Michael Saylor's MicroStrategy company and others doing the same strategy — you've become purely valued on your Bitcoin assets. You're going to disagree with me I'm sure but go ahead.
-
-**Andrew Webley:**
-(0:03:00) I think what you have to appreciate is that every business, whether you're talking about a property business or whether you're talking about a supermarket or whether you're talking about a bank, every business is valued effectively on its balance sheet and its future.
-
-**Vostra:**
-(0:03:14) Yeah. So you design — just going to stop it there so you can see what he's clearly trying to do. This interviewer has got a style reminiscent of what you might know — Piers Morgan. Yeah, he comes across so antagonizing.
-
-(0:03:33) He's clearly trying to get Andrew to talk more about the why everyone's sort of piling into SWC from a Bitcoin Treasury perspective. But you can see Andrew holding his ground there. I thought he done really well in this interview. Clearly he needs to be careful around what he can and can't say, largely around the FCA requirements I imagine, for not being classed as an investment company, which would bring with it different sets of compliance and all of that. So he's making sure not to get too drawn into that side of the conversation. That's what I gauge from that part.
-
-(0:04:16) But the interviewer knows that, so he's kind of playing off that. And he said as well, if you noticed, he had a smart friend that kind of schooled him up on some of these metrics. And you'll come on to hear some — you know, he talks about days to cover, which actually quite surprised me because that's quite a niche metric at the moment. Let's carry on.
+**CNBC Interviewer:**
+(0:02:19) Okay. So I'm learning on my feed here as well about Bitcoin Treasury. In fact, one of the smartest guys I know is watching this interview because he has flagged up the importance of Bitcoin Treasury to me actually in recent days. And I'm learning new acronyms as well, including mNAV I think it is, which is the multiple of the net asset value of a company. I'm going to say something and you can either agree or disagree — your company has become a Bitcoin play. The valuation of your company, the valuation of Michael Saylor's MicroStrategy company and others doing the same strategy — you've become purely valued on your Bitcoin assets. You're going to disagree with me I'm sure, but go ahead.
 
 **Andrew Webley:**
-(0:04:43) Well, we do three things. So, we've got the web design business, which is profitable.
+(0:03:00) I think what you have to appreciate is that every business — whether you're talking about a property business, whether you're talking about a supermarket, whether you're talking about a bank — every business is valued effectively on its balance sheet and its future.
 
-**CNBC Host:**
-(0:04:47) I think you can say that. Do you think you're valued on your acquisition strategy and your web design business strategy?
+---
 
-**Vostra:**
-(0:04:54) I don't — I think — you see again he's probing that, he wants to really make it clear or he wants to get Andrew to admit that this is a Bitcoin Treasury play. Which, yeah — I, you know, he has an operating business, that's fine, that would be a tick there. So I don't think there would have been anything untoward by potentially giving in a little bit on that, because this interviewer is making a big deal of that right from the outset, whereas I think if he'd — I mean I don't know, he's the expert right, and they've done the legal work around this. But potentially giving way that — look, investors are valuing you on your potential on that side of the business — he actually does go on to admit that further down. I think let's have a listen again.
+**VOSTRA:**
+(0:03:19) Just going to stop it there so you can see what he's clearly trying to do. This interviewer has got a style reminiscent of what you might know — Piers Morgan. He comes across so antagonizing.
+(0:03:33) He's clearly trying to get Andrew to talk more about why everyone's sort of piling into SWC from a Bitcoin Treasury perspective. But you can see Andrew holding his ground there — I thought he done really well in this interview. Clearly he needs to be careful around what he can and can't say, largely around FCA requirements I imagine, for not being classed as an investment company, which would bring with it different sets of compliance. So he's making sure not to get too drawn into that side of the conversation — that's what I gauge from that part. But the interviewer knows that, so he's kind of playing off that.
+(0:04:20) And he said as well, if you noticed, he had a smart friend that kind of schooled him up on some of these metrics. And you'll come on to hear — he talks about days to cover, which actually quite surprised me because it's quite a niche metric at the moment. Let's carry on.
 
-**Andrew Webley:**
-(0:05:52) I think we're valued on our potential. So on our potential —
-
-**CNBC Host:**
-(0:05:58) I hope you take this robust conversation in the spirit because I'm learning. So I'm kind of just chucking the questions at it. You're not — you're valued on your Bitcoin strategy, aren't you? On your MNAV.
+---
 
 **Andrew Webley:**
-(0:06:09) Yeah, it's — we call it MNAV which is a multiple of your — the globally, you know, and by sector I mean companies that have adopted Bitcoin on their balance sheet. You've got companies like Strategy, MetaPlanet, Blockchain Group in France which are a lot more extraordinary.
+(0:04:43) Well, we do three things. So we've got the web design business, which is profitable — I think you can say that.
 
-**CNBC Host:**
-(0:06:26) Yeah. And they're fantastic companies and this isn't like — those fantastic companies — sorry — those fantastic companies are not valued on the fantastic work they do on their acquisition strategy and their web design in your case.
+**CNBC Interviewer:**
+(0:04:49) Do you think you're valued on your acquisition strategy and your web design business strategy?
 
-**Andrew Webley:**
-(0:06:42) Well, what you have to understand is that Bitcoin we believe is the very best asset in the world. That's why we put it on there. But capital markets in the UK haven't been great in recent terms. So if we can use the power of Bitcoin to then unlock the traditional side of our business, which probably wouldn't have the capital to grow without the Treasury strategy, it's a great thing.
+---
 
-**CNBC Host:**
-(0:07:00) And I'm not doubting what a great businessman you are. I'm not doubting how much it's taken you up in terms of valuations. I just want to be very clear that a lot of people are investing in companies that say they do X, Y, and Zed when actually we all know that it's only Zed that you're being valued on.
+**VOSTRA:**
+(0:04:54) I think you see — again he's probing, he wants to really make it clear, or he wants to get Andrew to admit that this is a Bitcoin Treasury play. You know, he has an operating business — that's fine, that would be a tick there. So I don't think there would have been anything untoward by potentially giving in a little bit on that, because this interviewer is making a big deal of that right from the outset. Whereas I think — I mean, I don't know, he's the expert and they've done the legal work around this — but potentially giving way that "look, investors are valuing you on your potential on that side of the business"... actually he does go on to admit that further down. Let's have a listen again.
 
-**Andrew Webley:**
-(0:07:17) Well, that's the same as any business. If I look at every investment I've made personally, I invest in elements. I don't buy Vodafone and think, oh, they've got X amount of cash on their books. I buy them because they're a telecom company. I don't buy and sell BP because they're holding dollars or, I don't know, pesos, what have you. I buy them because they get oil out the ground or they do it well or not.
-
-**CNBC Host:**
-(0:07:41) Well, your company — with respect, the investors, and Michael Saylor's company and the rest, some of the names you mentioned there — we're now buying them or selling them on the basis of their treasury function. That is a big sea change for a lot of our viewers.
+---
 
 **Andrew Webley:**
-(0:07:53) Well, some people may do that and I definitely accept that. And the reason why they do that —
+(0:05:52) I think we're valued on our potential.
 
-**Vostra:**
-(0:08:00) You see, at this point, Andrew gives in. When I say give in, I think it just literally — the guy is pressing so much on this point of why you're getting valued on that side. Which I think maybe it's because Andrew would be very cautious of not falling foul of any FCA type rules. Maybe some of that, and on the spot when you're put like that, he's doing an amazing job there.
-
-(0:08:33) So yeah, looking at rewinding this back and with the benefit of, you know, us kind of armchair viewers, I don't think he would have been in any sort of problems by conceding that point a bit earlier and that would have diffused this guy — who's — Zinc says "ain't he smug." Yeah, he was playing off that massively. He was doing his Piers Morgan. That could have been diffused quickly.
+**CNBC Interviewer:**
+(0:05:57) I hope you take this robust conversation in good spirit because I'm learning — I'm kind of just chucking the question at it. You're valued on your Bitcoin strategy, aren't you? On your mNAV.
 
 **Andrew Webley:**
-(0:08:57) And they pay that multiple — you know, the MNAV is because they believe that that business can execute that treasury strategy better than say an ETF for example. So you will get investors that do that. You know, I hold six different Bitcoin treasury companies globally. I only hold one in the UK which is our company. And I hold them because I believe in Bitcoin and I also believe in their ability to grow that Bitcoin on their balance sheet to then do whatever they do with it, which may be buy more Bitcoin or in our case maybe buy more Bitcoin, do the acquisition strategy and grow the core business.
+(0:06:09) Yeah, it's — we call it mNAV, which is a multiple of your underlying... globally, you know, and by sector. Companies that have adopted Bitcoin on their balance sheet — you've got companies like Strategy, Metaplanet, Blockchain Group in France, which are a lot more extraordinary.
 
-(0:09:33) So if you look at the sector of Bitcoin public companies with Bitcoin on the balance sheet, of which there's probably approximately 150 today, public companies — you know, some of them are people like Tesla who have got Bitcoin on their balance sheet.
-
-**CNBC Host:**
-(0:09:46) Yeah, which had a 61% decline in its daily sales a day ago — that's gone X growth on its global sales in the second quarter and is trading 140 times forward.
+**CNBC Interviewer:**
+(0:06:28) Yeah. And they're fantastic companies. And this isn't like — those fantastic companies are not valued on the fantastic work they do on their acquisition strategy and their web design in your case.
 
 **Andrew Webley:**
-(0:09:58) Yeah. And going back to your point about why people buy things. If you look at Tesla for example, I would argue that people buy it more for Elon Musk's brilliance and his maybe his AI — that's what they think — yes, robotics, automation. So people buy different things for different reasons. And clearly some people buy us because of our approach to treasury management.
+(0:06:42) Well, what you have to understand is that Bitcoin — we believe it's the very best in the world, that's why we put it on there. But capital markets in the UK haven't been great in recent terms. So if we can use the power of Bitcoin to then unlock the traditional side of our business — which probably wouldn't have the capital to grow without the treasury strategy — it's a great thing.
 
-**CNBC Host:**
-(0:10:20) Using MNAV. Now I'm getting better now. See, I know — because I know if you've got a higher MNAV, then the higher it is, the more they're valuing the multiple of your future growth and future profitability. Why don't I just go and buy Bitcoin rather than buying your company? When I get Bitcoin one for one, I don't have to have some valuation based on what it might be worth at some point in the future.
+**CNBC Interviewer:**
+(0:07:02) And I'm not doubting what a great businessman you are. I'm not doubting how much it's taken you up in terms of valuations. I just want to be very clear that a lot of people are investing in companies that say they do X, Y, and Z when actually we all know that it's only Z that you're being valued on.
 
 **Andrew Webley:**
-(0:10:43) Well, that's a great question. I'm glad that you've asked that. Thank you. Finally. Yeah, because if you look at any company that's putting Bitcoin on the balance sheet, then there's another thing that you may not have found yet which is called days to cover. So if you look at our company — we're the fastest growing public company in the world with Bitcoin on that balance sheet, and everything else being equal, we actually do not trade at a premium within 35 days if you believe the maths. There's certain assumptions to that. So you grow into your valuation.
+(0:07:20) Well, that's the same for any business. If I look at every investment I've made personally — I invest in Elementis, I don't buy them and think "oh, they've got X amount of cash on their books." I buy them because they're a telecom company. I don't buy and sell BP because they're holding dollars or peso, whatever. I buy them because they get oil out the ground — or they do it well, or not.
 
-**Vostra:**
-(0:11:17) Yeah, Andrew's gone in there defending the valuation. You can almost tell that he's been in so many investor calls and conferences. My take on this point when he said, "Why do I invest in your company as opposed to Bitcoin?" — there possibly was a simpler answer.
+**CNBC Interviewer:**
+(0:07:41) Well, your company — with respect — and Michael Saylor's company and the rest, some of the names you mentioned there — we're now buying them or selling them on the basis of their treasury function. That is a big sea change for a lot of our viewers.
 
-(0:11:39) We'll come on to that. I mean, well literally I would have said — well, because by investing in the company, investors compound their Bitcoin. And how do they do that? Well, your shares attract more Bitcoin. You issue — we issue shares to buy Bitcoin. The market awards the multiple on that and we are able to compound our Bitcoin much faster than let's say somebody who's just getting exposure to one Bitcoin. Right? Because — there's probably a better way to answer that, but I would have focused more on that side rather than the days to cover straight away, because I think days to cover is quite a niche metric.
+**Andrew Webley:**
+(0:07:56) Well, some people may do that and I definitely accept that. And the reason why they do that...
+
+---
+
+**VOSTRA:**
+(0:08:00) You see, at this point Andrew gives in. When I say "gives in" — the guy is pressing so much on this point of why you're getting valued on that side, which I think maybe it's because Andrew would be very cautious of not falling foul of any FCA-type rules. Maybe some of that — and on the spot when you're put like that, you know, he's doing an amazing job there.
+(0:08:33) Yeah — looking at rewinding this back with the benefit of, you know, us being armchair viewers — I don't think he would have been in any sort of problems by kind of conceding that point a bit earlier, and that would have diffused this guy. Zinc says "ain't he smug" — yeah, he was playing off that massively. He was doing his Piers Morgan. That could have been diffused quickly.
+
+---
+
+**Andrew Webley:**
+(0:09:00) ...and they pay that multiple because they believe that business can execute that treasury strategy better than say an ETF, for example. So you will get investors that do that. I hold six different Bitcoin treasury companies globally — I only hold one in the UK which is our company — and I hold them because I believe in Bitcoin and also in their ability to grow that Bitcoin on their balance sheet to then do whatever they do with it, which may be buy more Bitcoin, or in our case maybe buy more Bitcoin, do the acquisition strategy, and grow the core business.
+(0:09:36) So if you look at the sector of Bitcoin public companies with Bitcoin on the balance sheet — there's probably approximately 150 today — some of them are people like Tesla who have got Bitcoin on their balance sheet. Yeah, which had a 61% decline in its daily sales a day ago, but has seen growth on its global sales in the second quarter and is trading 140 times forward. And going back to your point about why people buy things — if you look at Tesla for example, I would argue that people buy it more for Elon Musk's brilliance and his AI — robotics, automation. So people buy different things for different reasons. And clearly some people buy us because of our approach to treasury management.
+
+**CNBC Interviewer:**
+(0:10:20) Using higher NAV — now I'm getting better. I know that if you've got a higher mNAV then the higher it is, the more they're valuing the multiple of your future growth and future profitability. Why don't I just go and buy Bitcoin rather than buying your company? When I get Bitcoin one for one, I don't have to have some valuation based on what it might be worth at some point in the future.
+
+**Andrew Webley:**
+(0:10:43) That's a great question, I'm glad that you've asked that. Because if you look at any company that's putting Bitcoin on the balance sheet, there's another thing that you may not have found yet which is called days to cover. So if you look at our company — we're the fastest growing public company in the world with Bitcoin on the balance sheet — and everything else being equal, we actually do not trade at a premium within 35 days if you believe the maths. There are certain assumptions to that. So you grow into your valuation.
+
+---
+
+**VOSTRA:**
+(0:11:20) Yeah, Andrew's gone in there defending the valuation. You can almost tell that he's been in so many investor calls and conferences. My take on this point — when he said "why do I invest in your company as opposed to Bitcoin?" — there possibly was a more simpler answer. We'll come on to that.
+(0:11:39) I mean, literally I would have said: well, because by investing in the company, investors compound their Bitcoin. And how do they do that? Well, your shares attract more Bitcoin — we issue shares to buy Bitcoin, the market awards the multiple on that, and we are able to compound our Bitcoin much faster than, let's say, somebody who's just getting exposure to one Bitcoin. There's probably a better way to answer that, but I would have focused more on that side rather than days to cover straight away, because days to cover is quite a niche metric still.
+(0:12:35) Well, you could have said: if you have one Bitcoin, you will always have one Bitcoin. Whereas if you have one share, that share over time will have more Bitcoin. On day one it might have — we can go into sats here — but as you've all seen from the models we've been looking at, this is probably one of the main reasons why people are investing in these businesses: they want to compound the Bitcoin per share. Clearly Andrew knows this, and he's done a fabulous job here. But that was my comment on that part.
+
+---
+
+**CNBC Interviewer:**
+(0:13:16) Yeah, no — I get that. Are you leveraged on your balance sheet?
+
+**Andrew Webley:**
+(0:13:19) No, we have no debt. We only buy Bitcoin — pure Bitcoin. We don't buy derivatives or anything like that. And we have taken a very cautious approach to how we're trying to grow our overall business. We've got over a hundred million pounds of capital in our business.
+
+**CNBC Interviewer:**
+(0:13:39) Okay. So we're now learning something. We've gone through mNAV, we've got days to cover. There are a lot of companies I would imagine who are carrying out a similar strategy in their treasury and are leveraged to the hilt on this one — I've seen it in the underlying market as well. A, is that the case? And B, does that worry you?
+
+**Andrew Webley:**
+(0:13:52) Yes, it is the case. Yes, it worries me. And I would expand on your question to say that there are a lot of companies saying that they're doing this strategy and they don't even own any Bitcoin. So I think it's an absolute minefield.
+
+**CNBC Interviewer:**
+(0:14:08) Hang on — so they're doing a Bitcoin treasury strategy, they're getting a higher mNAV, they have lower days to cover, and they're not actually doing it?
+
+**Andrew Webley:**
+(0:14:18) Yeah. So in the UK right now there's probably approximately 25 that have sprung up since we IPO'd our company. And off the top of my head — any with $3 million, $5 million, $10 million, $50 million of Bitcoin — I believe the mNAV is, let's say, getting out of control. So what that means is you've got a very good premium in your share price because people believe...
+
+**CNBC Interviewer:**
+(0:14:39) Andrew, when you put an arb on — buy Bitcoin, sell your company almost.
+
+---
+
+**VOSTRA:**
+(0:14:48) My goodness me. Why didn't you put an arb on, Andrew? Where is this guy getting his lines from? He's clearly just been fed some stuff from his smart mate who said "look at this treasury company, and here's what the mNAV is" etc.
+(0:15:07) So I'm going to leave it there. I think there's been lots of comments online for that already. But yeah, we can clearly see that the mainstream media is way behind all of this stuff. And then what that led me to think about doing was — well, he's going to have to explain this stuff so many times, everywhere he goes. Isn't there anything out there that exists that people can just send to these people? And then, hey presto — we've talked about the model. I've now got a deck. Let me show you some parts of the deck.
+(0:15:41) Can you see this? Hopefully you can. This is a guide for institutional investors considering investing into Bitcoin Treasury companies. I'm just going to put the first institutional framework for evaluating Bitcoin Treasury companies up here, because I couldn't find one online. And what I've done is just put a one-pager on understanding Bitcoin — tried to keep this to a very minimal 10 slides. Gone straight into mNAV as the interviewer did. There's a bit around the operating business, the premium and discount.
+(0:16:27) mNAV, we cover the days to cover, we talk about the Bitcoin yield, we put on some of the big companies and some of the emerging companies. SWC there — that's the lowest days to cover. I've written this from the perspective of: I'm an institutional investor, I want to know risk.
+(0:16:53) So there's a theory to some of this stuff, because when you first read it you might think, "hey, hang on — Vostra, what's he talking about with all this risk?" But this is how institutions look at these things, so we might as well put them in there and then we can talk to them about that. So I've talked about the Bitcoin yield — this is the interviewer's question around why do companies invest in a Bitcoin treasury model as opposed to just buying the Bitcoin. I've gone in here heavy on that, so that should nip that one in the bud.
+(0:17:29) Factors impacting the performance of Bitcoin yield — I've taken some bits from my learnings from the Toban paper. I haven't quoted them directly because — well, maybe I can put some quotes in there from them. But this is my stuff. I've said the mNAV — there's obviously the days to cover and how fast they can cover that premium, but at a point in time right now that mNAV is fluctuating. Why is that fluctuating? It's because the market's valuing different things — it's the execution capabilities, the local market access. There's a number of things that goes into these Bitcoin yields.
+(0:18:25) Execution for institutional investors — how are they going to position big size into it? 102 million or 104 million pounds, whatever SWC has raised. Look, it's impressive for a small startup business to do that, but when you talk to institutions, this is still peanuts.
+(0:18:46) Transparency and governance — they all love a bit of risk management there. Retail demand — yes, significant retail investor participation. This is where we can start talking about the ISAs and the SIPPs. Selection criteria for Bitcoin Treasury companies — there's a bit in there for that.
+(0:19:09) So there you go — that's your pack done. Send it to all of them. Well actually — people in the community, you will have a good eye for understanding if there's anything wrong in here. So I'll put a link in the YouTube description. Maybe just download it or have a look through it. If you see any mistakes or errors, feel free to shout and I'll update this.
+(0:19:37) Cool. So that was that pack. I thought I'd do that because when I saw the interview, I thought: okay, that's CNBC — what's next? Bloomberg. We might as well start doing this, because the more capital that comes in — this is the capital raising part, and it's a core job really for anyone doing the Bitcoin Treasury model.
+(0:20:10) So the share price — let's talk about the share price today. I'm going to try and keep it a bit shorter, we're already at 20 minutes. The share price is ticking up just like we said in the last video. mNAV of five — it's now, that was at the bottom there, we ticked up to six or seven yesterday I think, and then we finished today. Let's put it back in. Bitcoin price is obviously helping. This is saying 3.35... let's look at that... 3.33. Yeah, more or less. And then flick to the model — always have a quick good look at the model. And there you've got your £3.38ish, comes to mNAV around eight.
+(0:20:52) So when we say we're looking at a 10 mNAV — we started that prediction when it was about six — we're going to get to 10, that's not a problem. It might actually go over 10. But the timing is lining up perfectly because the next day or so, try and hover around here. Sometimes in these lines you get rejections — that's fine. But look at that — 4.19, 4.21 was the next target. This is shaping up to be reaching that point probably around mid next week. US markets are closed, but yeah, this is going in the right direction.
+(0:21:34) So that's there, and then you can see the other treasuries. H100 — I'll do a video on H100, I think there's something there I wanted to highlight. Coin's taking a smashing. Metaplanet — pretty flat, 4% down. MSTR — it's doing alright. Altbg, OBG — quite stable at the moment. I think the last couple of days we might get an all-time high in Bitcoin — that'll be great.
+(0:22:17) Q&A — thanks for the comments on the last video. Let's quickly run through them. There's not that many — that's fine, this is a very niche sector as we can see.
+(0:22:34) There you go. What's Dave saying — Dave's World? "Hey, you basically have the capital raises remaining static over time when they are more likely to increase substantially on almost every raise as the market cap increases. Download it and take a look, I think your projections are much lower than real."
+(0:22:49) Yeah, you're 100% right, Dave's World. I have sandbagged it, because when I put the equity raises sort of almost doubling — or whatever the trajectory that it was on — you get to ridiculous numbers. And I mean, I get to numbers where you think, "okay, let's have a look at how much Buckingham Palace costs," because I just couldn't bring myself to put those numbers in. Dave's World, you're absolutely right — I have those remaining static. What you're referring to is the share issuance numbers. So the ones that I've left static for sure are the 7 millions, because those are the 21 million placement / ATM-type shares. What you're referring to I think is this 13 million shares that we're projecting on this model for next week — you know, that would get you to about £41 million of capital raised. That's at 8 mNAV. Let's put it to 10. At 10 mNAV we're talking £51 million. I think what you're saying is it's going to be a lot more than 51 — and I think reasonably at 10 mNAV, okay.
+(0:24:15) The other way to do that is to see how much dilution there was. On average, Andrew seems to have started off at about 9 to 10% on each round — he likes the number eight. The last big one was about 6% dilution. So this one you get to — yeah, it might dilute more than that. You're right, look, it might even be more. When you're doing a model I try and sandbag stuff. I'd be happy with this kind of trajectory.
+(0:24:51) And if you're looking at this one — this is the ATM. The reason why that's 2.92 — it's quite tricky to model the ATM, so if there's a better way somebody knows, please let me know. So that doesn't mean it's going to 4.23 and then smashing down to 2 — this is just the average price I'd say, thereabouts at 7 million. Again, this is pretty much — but I put it down to 5 mNAV because we crashed quite a bit last week and this week, so this is conservative.
+(0:25:24) But look at that conservative number as well — you're talking £20 million on the ATM. So that should be announced probably next week as well, depending on how things evolve. So if you take a look at that — that's £50 million plus the other £20 million from the ATM — you're talking £71 million pounds probably by the middle of the month. And that £71 million is going to shoot us up to over 2,000 Bitcoins. And if it trades back up to 10 mNAV, you're looking at over £6 share price.
+(0:26:04) So this is all mathematical. And what Andrew was alluding to on the CNBC interview — this is the key: the sats per share, it's increasing. I could buy one Bitcoin or I could buy one share. If I buy one share, that share is getting more Bitcoin all the time. That's the game.
+(0:26:30) Cool. What else? I think that was it. Oh, finish the comments. That was my comment on there. Bongo says "Good work, mate" — thank you. Yeah, look, I'm enjoying this, this is a ride. Brilliant. Andy Smith ASAP says "I love both videos" — yeah, look, I can't believe people are actually watching these videos, so it definitely makes you want to create more. "I've been waiting for someone to start doing videos — keep them coming." Okay, let's do them.
+(0:27:01) Fine, cool. So that's me done. A bit shorter — well, let's see — 27 minutes. Boom. Cheers, bye now.

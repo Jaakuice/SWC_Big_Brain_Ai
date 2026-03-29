@@ -1,0 +1,212 @@
+# Understanding the Smarter ATM - Livestream
+**Date: 2025-09-26**
+**Video ID: kyo5J3JDQmQ**
+**URL: https://www.youtube.com/watch?v=kyo5J3JDQmQ**
+**Duration: ~39:24**
+**Channel: SWC and BTC**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- MNAV to BTC yield relationship: higher MNAV produces exponentially higher BTC yield per share
+- ATM simulation methodology: three acquisition methods (ATM, cash-secured puts, preferred shares), MNAV-driven stock price modeling
+- Real-world ATM price impact data from MetaPlanet: ~1% temporary MNAV reduction when ATM is operating
+- Comparison of 20% vs 10% vs 5% ATM sizes: larger ATM significantly outperforms over time despite dilution
+- "Seizing the MNAV moment": why companies must actively run ATMs during high-MNAV periods rather than sitting on their hands
+- Floor price model: aggressive ATM use compounds Bitcoin holdings and raises the floor price at future MNAV troughs
+- Preferred share (prep) IPO modelling: $100M base case vs $1B bull case, timed around 10,000 BTC milestone
+- LSE uplisting as a potential catalyst for large institutional equity raises and accelerated BTC accumulation
+- Simulation limitations: models break down beyond 2030 as projected BTC accumulation rates become physically impossible
+- Bear vs bull MNAV scenarios: base case assumes pain (drops to ~1 MNAV), bull case peaks at 5–7 with 900M+ shares outstanding
+
+---
+
+**James (SWC and BTC):**
+(0:05:06) Hello, hello, hello. Thank you for joining me, Corn Cannon, and thank you everyone else who's watching, whether that's live or recorded. Let's just remove that for a sec. Okay, let's see each other properly. Thank you for sparing the time to do this. The ATM is a hot topic in pretty much any community that's got one of a BTC. There's bearish views, there's bullish views. But I think what I enjoy about the content that you've prepared for today is that it's not kind of biased one way or another. It's just showing analytics to let people make up their own minds and kind of see what they understand about it. So you've been incredibly prepared and you've created a whole deck, which is awesome. Do you want to dive in and then I'll just ask some questions as we go along?
+
+**Corn Cannon (@realcorncannon):**
+(0:06:13) Yeah. Yeah. I think we can start off with some of the mNAV and BTC yield slides.
+
+**James:**
+(0:06:20) Sure. So to bring that up.
+
+**Corn Cannon:**
+(0:06:23) Yeah. So I think like one thing that's good to cover maybe before ATM — which gets so contentious about like how much is it diluting — is just looking at the relationship between MNAV and BTC yield. So this is just a simpler picture that I grabbed from a MetaPlanet presentation. And so what it really tries to describe is: pick some random amount of coins to have in the future, 30,000 coins. It doesn't have a date attached to it and it doesn't tell you whether it's ATM or book builds. You know, this could happen just through the book builds alone and you'll still achieve these yields if you're at this MNAV. So if we're at like 3 MNAV, starting at some number of coins, you'll achieve like an 80% yield or something like that. And that's a sats per share yield — that's not just the stack growing. So I sort of made a different chart just for SWC that shows the Bitcoin holdings. It's a little bit out of date — we start at 2,470 — but it goes all the way out to 30,000 Bitcoin. And again, it doesn't have a date attached to it, but it shows you if we were to stay at 1.5 MNAV for the entire time that we go to achieve 30,000 coins, our yield would be in the range of like 40%. I have the Excel up too so I can share the numbers. But I think just a fundamental understanding of this is kind of the first step. So if we were at 6 MNAV, we would achieve yields of like 370% or something like that. And if you get in the middle at 4 MNAV it's somewhere in like the 200 range. But the important thing is small increases in MNAV yield a big difference in BTC yield. And I have like other simulations that I've done that might make more sense, but this is like the foundational block to start. If you kind of don't understand this, the simulations aren't going to make any sense. So I think we'll go down to maybe the description of the simulations and then show like two different data points. So I tried to keep this simple and as not-technical, not-code as possible. I'm simulating Bitcoin. We have three different ways to get Bitcoin: through the ATM, cash-secured puts that I have a certain amount of, and preferred shares that you also see in the simulation. MNAV swings between two points — I don't know what MNAV's going to be, I have no idea. I'm just giving some reasonable bounds, like highs and lows that we've seen with other companies. These are some formulas that people can kind of read later, but this is the same formula expanded in different ways. So the big thing I would say is the stock price is obviously correlated to MNAV — that's the thing that changes moment to moment in my mind. The Bitcoin price changes a little bit less, so it's a little more stable nowadays. I think we've been at like 100K since like January, so it hasn't moved a whole bunch. And then Bitcoin holdings don't change moment to moment — that'll come weeks at a time. And same with the shares. This does change with the ATM moment to moment, but it's small amounts on a daily scale; on a monthly scale it's different obviously. Another piece I put into the simulations was — and I can show the data really quick that John Levy put together — he has different volume charts and what I noticed is when we have a higher MNAV we're getting higher volume. This is like a percentage of outstanding shares, so up to 3% of outstanding shares is pretty normal for a high-MNAV scenario and down at lower MNAVs it's a lot less. These are the ATM metrics that I put in: 20% dilution if price is higher at all, and then MNAV has to be 1.1 — if it gets below that I just don't dilute. And we'll get to this later. I do a lot of simulations with the relationship between dilution and a theoretical price impact, which is expressed through MNAV. So if we look at this formula, the shares aren't changing minute to minute really — not significantly. The holdings aren't changing minute to minute and the Bitcoin price is going to wiggle by like a percent or two intraday; it's not going to do crazy things every single day. And then I have a prep launch that's a $100 million IPO and then it gets to $1 billion at the end of like 2027. So if I go down just the base case—
+
+**James:**
+(0:11:04) So I just want to clarify what you said there, just to make sure I've understood it properly. What you're saying is that there is potentially some impact to the share price by running the ATM, but that it's relatively minimal.
+
+**Corn Cannon:**
+(0:11:23) Mhm. Yeah, let's look at that. So this is some data that Nether Dither on X put together and it's not for Smarter Web Company — we don't have super granular data. But he did it for MetaPlanet. So what he did was he bought tick-level data from — I think like Edinet — and everyone can go buy the tick-level data if they want to do this on their own and go figure out what's going on. But he did a really good presentation of the data showing average prices and median prices. And so red is when the ATM is operating. They have a different ATM than we do so things are going to be different — either the companies running the ATM are different. But we can extrapolate and say we might have a similar performance here; it's at least data. So part of my background is my first job, we had this card full of values and stuff and 99% of them were just corporate but one of them stood out to me and it's being data-driven. So if I make an assumption in the simulation I want real-world data to back that up. Okay. So in this case we can see the average price — there's a delta of like 1%, maybe 2%. I think 2% is going towards the high side. I think on the longer time frame you see 1% roughly. And that's theoretical — SWC may operate their ATM differently so that they don't impact these prices. I think one other thing — this is harder data to look at, these charts are way more confusing — but if you look at the top-right one, what happens is when Bitcoin is up, EVO sells more. So that's how a different company is operating their ATM. I don't know if we're operating our ATM that way. We may operate it more closely to the stock price than some other way to determine it. But this is where I came up with the 1% impact to share price and therefore MNAV. If we go back to this formula, that's really the two things that are changing the most at any point in time — these elements are changing less.
+
+**James:**
+(0:13:34) Sure. Thank you very much.
+
+**Corn Cannon:**
+(0:13:35) Yep. So yeah, if we just break out the base case simulation, what I'm doing here is the most independent variable is MNAV. That's really all I could put into the simulation to make the stock price behave differently and to make the ATM operate differently. So I have — and this is a base case, this is meant to be kind of bearish, it's not pie in the sky, I have a bull case so if people want to see big numbers they can see that — it drops down to oneish. We've seen that in the Treasury market lately. We've also seen numbers as high as five and four and three. I think those numbers will come back at a certain time. And this simulation isn't saying — yes I've overlapped it with kind of the four-year cycle peak here — but I don't know when MNAV is going to come back. What I'm trying to say is in this simulation MNAV will be at two for call it a couple of months, it'll be at four for a very short period of time, and then what is the impact on holdings and Bitcoin per share? You see a lot higher increases in Bitcoin per share — you see this kind of parabolic rise effect when MNAV is high. When MNAV is low, our Bitcoin per share is a lot more flat.
+
+**James:**
+(0:14:57) So just to be clear to people trying to work this out — and apologies that some of the writing is probably a bit small, especially if you're watching on a phone — what you're saying is this isn't about predicting future prices of SWC, this is about predicting future performance of SWC with the ATM.
+
+**Corn Cannon:**
+(0:15:16) Yes. Yes. It's saying what happens if you run a 20% ATM on this MNAV curve. And I have different MNAV curves with my bull and bear case, but that's what I try to do here. Yeah.
+
+**James:**
+(0:15:31) Try to be very realistic and say like we're going to have periods of heightened euphoria and then we're going to have periods of pain, and it's just going to happen this way.
+
+**Corn Cannon:**
+(0:15:45) You know, for Bitcoin, I just kind of have the price going up. If Bitcoin's price goes down and MNAV stays high, we're going to accumulate a lot of coins — that's the thing that I see happening. I don't see, where lots of treasury companies have high MNAVs and they're running ATMs really hard, I don't see where Bitcoin's price goes down significantly. So that's kind of an assumption in this model. I have more of a crash in the other model. You can see the daily trading volumes and stuff — it's pretty correlated to MNAV here. And I could show that data really quickly from John Levy. So this is a high-MNAV scenario when we were in June and the average is around 78 million shares or so just on average. And in low MNAV it's more like 3 million shares — that's what we've seen through August and part of September. So in this base case I've got down into the fours maybe, with trading volume up into the tens, hovering around eight or so. That's kind of how it's behaving with the MNAV.
+
+**James:**
+(0:17:00) Sure. And they're getting higher because obviously there's more shares in it over time, right?
+
+**Corn Cannon:**
+(0:17:05) Yep. You can see in the bottom left we have the shares outstanding growing — kind of doubling by the end of 2027 — is what I have based on the ATM running when MNAV's above 1.1. And this MNAV chart — if we were to go to the bull case just for a moment — we see 700 million shares outstanding at the end of 2027 for a kind of bearish MNAV case. If we go to — I know the chart looks similar but this bottom here is two — and it goes up to like five and seven is the peak here. It hovers in the two to three range. The shares outstanding get up to like 900 million. So we would have ATM'd out 200 million additional shares if our MNAV is going to stay high and if we're staying aggressive in the same way with the ATM. And you can see the Bitcoin per share really rockets up at certain points. This bull case is a larger prep IPO — that's why you see such a level shift — and the volatility goes up because it's a billion dollar IPO. So that would be like things go perfect. Yeah, it might be good since we were — I see some of the chat — about this relationship of like if this is the case, I could also show a simulation of if this is not the case, if there's no reduction in MNAV. But I think it's still useful seeing the comparative levels. So what I have is three charts: one where MNAV is reduced by 1% — that's kind of suggested by the Nether Dither data for other companies, may not be true for SWC — but you can see an ATM of 20% in blue significantly outpaces the 5% ATM. The price is like double by the end of 2027.
+
+**James:**
+(0:19:03) Okay. So just to make sure everyone can get their head around this — we're saying, in this model, and I know it's using assumptions that have been drawn from other companies, but we're saying even though a 20% ATM has a 1% effect on the MNAV, it still outperforms because of the accretion of the Bitcoin that it provides via the shares being sold.
+
+**Corn Cannon:**
+(0:19:34) Exactly. Exactly. And one way to see that is if you have ATMs of 5%, 10%, 20% — here's what the holdings look like over time.
+
+**James:**
+(0:19:44) Wow.
+
+**Corn Cannon:**
+(0:19:45) So here's where I'm going to go back to the simulation — I know it's a lot to look at — I'm going to go back to it for just a moment. Because you see multiple graphs at once. So the Bitcoin per share goes up significantly when MNAV is high. Yeah, this is only true when you have an ATM.
+
+**James:**
+(0:20:05) Okay?
+
+**Corn Cannon:**
+(0:20:05) If you don't have an ATM — I don't want to name names and shame some companies — but if you're a company that doesn't operate with an ATM and you get to like a three or five MNAV and you just sit on your hands and you wait and you don't lever up, you don't do anything, then your share price is going to come back down when MNAV goes away. I mean, I think we've kind of figured out in this little bear market that MNAVs are not going to be 10 for three years straight — I don't see that happening. MNAV will come back down with cycles and so the question is: are you actively pulling the value of that moment? Are you capitalizing? Are you seizing the moment to actually convert MNAV into equity value? That's the biggest question. So when I go back to this Bitcoin holdings chart, you see the ramp-up of the 20% ATM is drastically different. But these simulations all have the same MNAV. This company in yellow had the same MNAV as the company in blue — they just sat on their hands. That's the difference.
+
+**James:**
+(0:21:12) In my mind that's what I would describe an ATM of 5% as being — it's kind of sitting on your hands. That's quite a difference, you know. Yeah. So your assumption takes into account that there's a launch of prefs at some point, and there's a launch of cash-secured puts at some point. In that model, okay — you've got that kicking in January 2027.
+
+**Corn Cannon:**
+(0:21:46) Yep. I tried to put it close to the 10,000 Bitcoin mark. I had to play with this date a little bit. I think that's really subjective whether it's like 10 or 20 or 30,000 Bitcoin. But this would be like a $100 million IPO. Where in January we're at a trough — we're at like $5 USD with about 450 million shares. So let me calculate the market cap of that... it'd be in the billions, somewhere in the billions. So a $100 million prep IPO when you're sitting at like $5 billion in market cap is probably pretty sensible. And that's why the bull case I have of being bigger — this is like the case of everything goes perfect. This is like we just get so much Bitcoin that we're like, let's just launch this prep. The prep gets soaked up in the market, people buy a billion dollars worth of it, we eventually sell $10 billion dollars worth of it — very successful perhaps. The share price — 2026 is like a blip compared to 2027 because MNAV is high. If MNAV is above two, the holdings are getting to like above 100,000.
+
+**James:**
+(0:23:16) Wow.
+
+**Corn Cannon:**
+(0:23:16) And again, we're at a higher MNAV so we're accreting better. If I go back to this chart, the higher the MNAV we have, the higher the yield we get — because we're putting less shares into the market to buy $1 million worth of Bitcoin. How many shares do you need to sell to achieve $1 million in Bitcoin? The higher the MNAV, the better deal the equity holder — the current holder — is getting. So that's kind of how I wrap my head around these things.
+
+**James:**
+(0:23:53) So yeah. Okay. Let's just see for a second. Has anyone in the chat got any questions? How likely is the prep scenario you just mentioned?
+
+**Corn Cannon:**
+(0:24:10) I don't know. James, where was your head at on prefs — like a dollar figure and a timeline?
+
+**James:**
+(0:24:16) Okay. So someone's actually asked how likely is this prep scenario you just mentioned. So in my head, Andrew has said they want to be 10 times bigger. So I don't know when we reach that. I don't know — you've got two options there, you've got January '27 and what's your bull case?
+
+**Corn Cannon:**
+(0:24:37) Yeah, the bull case would be mid next year, like June.
+
+**James:**
+(0:24:41) Okay. So — okay, I'm going to try and just piece together information that we don't even know whether it's fact or not, but—
+
+**Corn Cannon:**
+(0:24:51) All speculation.
+
+**James:**
+(0:24:52) Yes, entirely speculation. But assuming there's an LSE uplisting this year — that the interview that Jesse and Andrew did with Anders last night, they kind of implied that there were cheques waiting for equity raises upon entering the LSE. And sizable ones at that. So I think that would accelerate us to say 10,000 coins — not in that moment, but would start us heavily on that journey. There's a strong possibility, you know, if we get the extended cycle and all that kind of stuff — or maybe there's a correction, but it's a short-term, I don't know, 30% correction and then we grind up again, I'm talking about Bitcoin — that yeah, somewhere between June next year and January 2027 sounds reasonable. That's not allowing for Bitcoin tanking and going into a full bear. So timeline, yeah, I can kind of run with that. The size of the prep deal — let's have a think. Your base case is $100 million and your bull case was a billion, right?
+
+**Corn Cannon:**
+(0:26:23) Yeah. Yeah. Everyone's going to call me a bear for this, but I think a billion might be a bit optimistic.
+
+**James:**
+(0:26:31) Oh yeah, for sure. You know, if Bitcoin is — I don't know — 170,000, and we've got a stack of 20,000, that would be putting about 50% of our stack into prefs and having found a buyer for all of that on day one. Sailor's pref launches — I don't think were that successful. Well, no — as in they were that successful, but look how much bigger they are.
+
+**Corn Cannon:**
+(0:27:13) Yeah, sorry. I guess my camera just died. Yeah, I mean I agree with you there. So I've done a lot of looking into what MSTR launched with their prefs and I mean each of them were above a billion and they've made like roughly $7 billion off them. So based on their Bitcoin NAV they achieved about 10% of their Bitcoin NAV. But they have a much larger Bitcoin NAV and they do have a larger stack. I try to wrap my head around that. There's definitely the BTC rating element. But I also think there's just kind of demand out there in some regards.
+
+**James:**
+(0:27:58) I mean, if equity raises — standard equity raises — have got to the point of, I don't know, $500 million or maybe even a billion dollars by that point... you know, MetaPlanet just did $1.4 billion. Then actually selling a billion dollars of a 10% preference share in the UK doesn't sound completely mad, now that we're actually kind of working through the numbers.
+
+**Corn Cannon:**
+(0:28:36) Yep. And keep in mind this billion — in my base case it's a $100 million IPO, but a billion sold by the end of 2027. Think about it — it's like January 2028. This is like two-and-a-change years away. Like things might get credit ratings by then. That's a bullish case, that it'll get credit ratings in the next two years, but I think the world might adopt at that speed. We'll take time, but we're talking years.
+
+**James:**
+(0:29:08) Okay. Is this kind of — I know this is a bit off topic — but is this on the basis that you know strategic reserves start moving ahead and that kind of stuff?
+
+**Corn Cannon:**
+(0:29:22) No. Yeah, no. In my base case this is like we just kind of chop and grind. There are people that buy at $15 and come back down to $5 in this case — that's a lot of pain. And very moderate strength on Bitcoin price — it just follows the power law, it doesn't even go super parabolic. I think if you have the case of the US government dumping gold to buy Bitcoin, the price is going to be beyond $200K — that's just a total guess. But if they're going to throw a trillion dollars into the Bitcoin market, it's going to move the market.
+
+**James:**
+(0:30:06) Yeah. Yeah, for sure. Okay. So what we're saying is your assumptions are within the realms of possibility. They are still assumptions and models—
+
+**Corn Cannon:**
+(0:30:22) —are models, right? This will be wrong. This model will be wrong for a lot of different reasons and I don't know what they are yet.
+
+**James:**
+(0:30:27) Yeah. Yeah. And that's modelling, right? I don't know if anyone wants to throw up any questions in the chat if they've got anything specific they want to ask, but we'll carry on talking for a bit. Okay. Let's go. Yeah, let's go back to that chart with the 20%, 10%, 5%.
+
+**Corn Cannon:**
+(0:30:49) Yeah. So this is by 1%. It would be hard to do it live, but I might be able to do a 0% — like just let it not be reduced. But this is a very small impact and I think it paints the picture well enough with the three charts that I have that you can extrapolate what zero might look like. So this is 1%, this is 2%, and it's on the same like $25 scale — everything's USD denominated in all these simulations.
+
+**James:**
+(0:31:22) Can we go back to the 1%? Sorry, I'm just trying to digest the lines. So what we're seeing is that initially they're very aligned. Yeah, it doesn't really make much of a difference. So why do they diverge?
+
+**Corn Cannon:**
+(0:31:44) Basically because you're capitalizing on the MNAV. You're allowing Bitcoin holdings to run with a low dilution amount because in the simulation the MNAV is five, right? So if you accrete for a period where MNAV is five, your floor price is going to go higher and higher and higher. When you get back down to one MNAV—
+
+**James:**
+(0:32:12) Sure. So yeah, it kind of pushes it further and further apart as... okay. I like to think about these things in terms of floor prices.
+
+**Corn Cannon:**
+(0:32:21) So really what this simulation is is like a floor price model. I don't know what the peak is going to be or when it's going to come, but if we have two peaks in 2026 through 2027, then our floor price might be $5 if we continue operating the ATM and it works in this way — everything is smooth and maybe we have a prep launch or maybe we don't — but all these lines would move together down if we don't launch prefs.
+
+**James:**
+(0:32:58) Okay, and so the 20% ATM creates a higher floor price than the 10% and 5%. Okay. I think I'm trying to think back to the early days of the ATM for Smarter Web, but the sheer amount of pounds and dollars that came in in the first run of it when the MNAV was still really high was insane. You know, it's only ticking along right now, but assuming that MNAVs expand again—
+
+**Corn Cannon:**
+(0:33:37) Yep.
+
+**James:**
+(0:33:38) —that's going to be some pretty serious Bitcoin on the balance sheet.
+
+**Corn Cannon:**
+(0:33:42) Yeah, I think so. Yeah, to your point — and I do have a chart of this — the historical MNAV. So I think we started our ATM basically at the bottom here. That's my understanding. And so price and MNAV did go up and chop and go back up and then we had this sector-wide compression. Okay. Yeah. So yeah, when it was operating at — I don't know — 5, 6, 7 MNAV—
+
+**James:**
+(0:34:15) Mhm. We brought in — was it £7 million in like a week or something like that? That was the first tranche — I can't remember now, it was a few months ago — but that was some pretty insane accretion back then.
+
+**Corn Cannon:**
+(0:34:38) Absolutely. Yeah. I guess I don't have the chart of the NAV per share, but you see it dramatically rise even through this period. It really starts to level off down below like 2.5 MNAV, is what I've kind of noticed.
+
+**James:**
+(0:34:56) Someone's asked in the chat: would it be possible to get a copy of the slides?
+
+**Corn Cannon:**
+(0:35:05) Yeah, for sure. Yeah. I'll find a way to share this out.
+
+**James:**
+(0:35:11) Okay, cool. Yeah, we'll work that out. Was there anything else you wanted to add about the ATM? I'm assuming you personally are bullish on it.
+
+**Corn Cannon:**
+(0:35:24) Extremely. Yeah. And that's why I wanted to show these — I think these charts are like the golden goose of the ATM in my mind. Not SWC, but a different company has seen potentially a 1% temporary decline in price — temporary — essentially when they run the ATM. So if I model that out and then I say, well let's double it to see what's the worst that can happen: so early on maybe there's some underperformance — like maybe extremely subtle — but by the end it still outperforms. And if I triple it from the baseline, yes we see early days it's reduced or whatever, but months later it's already outperforming, and within two years it definitely outperforms. And if I run the simulation out to like 2030, it would significantly outperform — which is another thing I had spoken about. I'm trying not to make too many swings at things I don't know will happen in the future, but when I run these simulations for all these different companies out to like 2030, they accumulate way too much Bitcoin. Like they're not going to accumulate all this Bitcoin. I think I had — well let's look at the bull case. So theoretically Smarter Web would buy like 40,000 coins in a couple of months. That's some significant OTC moving of coins. Like imagine if 100 companies were doing that — or 50 companies, or 10 companies — were buying 40,000 coins in a couple of months. The price is not going to be that low. So when I simulate this out to 2030 and 2040, the whole simulation just breaks down.
+
+**James:**
+(0:37:20) Yeah, okay. And I'm guessing companies end up owning more than 21 million coins—
+
+**Corn Cannon:**
+(0:37:25) Yes.
+
+**James:**
+(0:37:27) —yeah. So the price is going to run. Sure. So I think it's important for people to understand — again, I know we said this already — that models are models. It's not about predicting future share price or future Bitcoin price or anything like that, but it is about showing the difference in performance with an ATM and without an ATM. And I think that's pretty clear to see. I'd love to see a screenshot of the 2030 version.
+
+**Corn Cannon:**
+(0:38:00) Yeah. I'll run some of them. It's easy — it's just a setting I put in this thing. Even if it's nonsense it's still quite nice to see. I'll do one slide with the base case to 2030 and then I'll do one with like 0% impact, just so people can see that in the final slides.
+
+**James:**
+(0:38:30) Okay, cool. Well, thank you very much, Corn Cannon. You put in the hard yards so that we don't have to and I really appreciate that. Hopefully people are going to get to grips with the ATM and start loving it as much as they should. You're at @realcorncannon on X — if people have got questions for you, I hope you don't mind me volunteering you. Or people can send them to me and I will ask on your behalf. But thank you, and thank you everyone for joining, and catch you all on the next live stream.
+
+**Corn Cannon:**
+(0:39:17) Awesome. Thanks for hosting, James.
+
+**James:**
+(0:39:19) No worries.

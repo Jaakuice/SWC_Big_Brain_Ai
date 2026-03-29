@@ -1,0 +1,177 @@
+# Special Interview with Peter Duan on SWC
+**Date: 2025-09-19**
+**Video ID: RSbG77GLik8**
+**URL: https://www.youtube.com/watch?v=RSbG77GLik8**
+**Duration: ~37:39**
+**Channel: SWC and BTC**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- Peter Duan's background in traditional finance and journey into Bitcoin via ETF announcements by BlackRock and Fidelity
+- How the Bitcoin treasury community size drives mNAV premium and accretive dilution mechanics
+- The "four pillars" framework for evaluating Bitcoin treasury companies: CEO communication, a Bitcoin-literate finance bridge, community, and fundraising capability
+- Impressions from the NYC Bitcoin Treasury Unconference: bullish but measured sentiment, widespread acknowledgment that fundraising is the key bottleneck
+- SWC's growth trajectory: CFO hire, auditor change, marketing hire as signals of LSE uplisting and larger capital market ambitions
+- Three levels of Bitcoin treasury companies, from simple corporate treasury to full institutional shareholder base (Bitcoin bank)
+- Bitcoin cycles, global liquidity (referencing Lynn Alden and Michael Howell), and caution around extrapolating limited data points
+- Strategy's potential S&P 500 inclusion and its mixed implications for SWC shareholders
+- Peter's "Bull Standard Academy" — a social media growth platform for Bitcoin companies and content creators
+- The importance of patience and selectivity in deals; "waiting for the fat pitch" as the winning strategy in Bitcoin treasury investing
+
+---
+
+**James (SWC and BTC):**
+(0:00:01) Hey, I think we're live. Thank you for joining me, Peter. It's great to have you on. I've been following you for a while and reading your tweets and all that stuff. And more recently, you've got into the world of SWC, which I'm pleased about and I think the community is pleased about. So, why don't you start by giving us a bit more of an introduction? A bit about your background, but more about how did you get into Bitcoin? How did you get into MSTR, MetaPlanet, and then now SWC?
+
+**Peter Duan:**
+(0:00:37) Yeah. Long story short, I've worked in traditional finance for all my adult life, which up until this point's like 14 years. I didn't — I learned very briefly about Bitcoin during the last cycle in 2020, 2021, but like a lot of people, I was trying to probably chase the dragon and got into altcoins and lost a bunch of money. So I kind of put it on the back burner, just thinking like, "Oh, it's all a scam." Up until a couple years ago — well, early of last year — when the Bitcoin ETFs were announced through BlackRock and Fidelity, that reinvigorated my interest because in my opinion, Fidelity and BlackRock — BlackRock is the largest asset manager in the world, Fidelity is the third, Vanguard's the second — I thought that the number one and the number three largest asset manager in the world would not risk their financial reputation on a pump and dump or a scam. And so that, plus I had a couple of colleagues who were Bitcoiners — not crypto stuff, but Bitcoiners — and so I just started debating with them and they recommended me a couple of books. So I kind of went down that rabbit hole and yeah, became a Bitcoiner early last year. And what really drew me to the Bitcoin Treasury space was my algorithm on YouTube knows me probably better than myself. So they showed me Quant Bros. Shout out to Jeff Wen and Rag Quant for showing me what MSTR was doing. That really was a very big light bulb moment for me simply because I already knew how amazing Bitcoin was. But then for Bitcoin to be effectively the financial backbone of this new financial world that we're entering was very very exciting. So I just jumped head in.
+(0:02:48) And then fast forward to Strategy World early this year in Orlando. That was my first chance to meet everybody including Simon and Dylan. And yeah, when I spoke with Simon and Dylan, I was just very blown away by their conviction, their execution, but more importantly their goals. Just to give you some perspective, at the end of last year for MetaPlanet there were around 1,700 Bitcoin and then they were talking some crazy numbers — they want 30,000 at the end of this year, and then 100,000 by the end of next year, and then 210,000 by the end of 2026. And I was like, how are they going to get there? But then if you look at their execution and how they were the number one performing equity in 2024, clearly they can execute. And so yeah, I was part of the first wave to jump pretty heavy into MetaPlanet. I just increased my conviction over time.
+(0:03:52) But yeah, I've been in that space, and then I observed that one of the key metrics in the Bitcoin treasury space is the fact that the community size is really important. The reason for that is because I have that traditional finance background. I know — and I'm being generous here when I say that 95% of Wall Street don't fully understand Bitcoin and 99.99% of Wall Street definitely do not understand Bitcoin treasury companies. So what that effectively means is that the first wave of investors need to be pretty hardcore Bitcoiners who most likely already have an existing Bitcoin treasury position in a stock like MSTR or MetaPlanet. Now, when Smarter Web ran up — I don't know, to six or seven dollars — I thought, "Oh, I missed that train." But here we are where I have the opportunity to dive in. And I was very impressed by the community growth. It's the third largest community behind MSTR and MetaPlanet. And when I entered the community, it was very warm, very positive. And that only contributes to the mNAV, which is the thing that drives Bitcoin yield.
+
+**James (SWC and BTC):**
+(0:05:15) Okay, cool. And by the way, to everyone who's watching, it's down to the people in the community that make it that way. So thank you very much to everyone that contributes. And if you haven't contributed, please get stuck in and make your first posts. Okay. So other than community, what was it about SWC?
+
+**Peter Duan:**
+(0:05:40) Yeah. I like to say that a good Bitcoin treasury company needs to have what I call the holy trinity of growth, but I've now recently revised that — I don't know what to quite call it yet — but you need four major factors. The number one factor is having a laser-focused CEO who has both great communication style — clarity as well as consistency — which Andrew does in spades. I think he leads the Bitcoin treasury space in communication with the community. And then you also have someone like Jesse Myers who, while not Wall Street per se, was a Bain consultant. So he clearly has a lot of financial knowledge and he's also been a known quantity in the Bitcoin treasury space. So the first leg is a laser-focused CEO who's good at communication and recruitment. Second leg is a Bitcoiner who can traverse the traditional world with the Bitcoin world — and preferably having that person with a pretty significant social media following. And then only after clear communication and execution do they deserve a rapid community, which we are lucky to be a part of. Because again, it is that rapid retail community that gives us the ability to be above 1 mNAV to allow us to play the accretive dilution game. But then recently it came to my attention — especially, and I'm sure we'll talk about this later — at this conference, where I asked pretty much every single major Bitcoin treasury company CEO what is the bottleneck for growth, and everyone pretty much said the same thing, which is fundraising. So you need all four of those to execute very successfully. And thus far I've been very impressed with Smarter Web in all four domains.
+
+**James (SWC and BTC):**
+(0:07:46) Awesome. So based off the last couple of months, you got your opportunity to get back in, or to get into SWC. You know, it's a sector-wide contraction. Obviously not that long ago there were only a few companies we could look at — primarily MetaPlanet really. What are your thoughts on the cyclical nature, because you know a lot of people have mentioned four-month cycles for MetaPlanet. Where are you at with that?
+
+**Peter Duan:**
+(0:08:20) I don't know. I think we've got to be a little bit careful of extrapolating past data into the future simply because there are so few data points. For example, a lot of people would talk about the Bitcoin four-year cycle. Yes, that is primarily driven through the halving cycles, but that's literally three data points and we're in the middle of the fourth. So yeah, you've got to be very careful about drawing such broad speculation with so little data. That being said, I do see that these time frames are much much shorter for Bitcoin Treasury companies. Now I would never recommend one way or another to hoddle through it or trade it — you'll get cut both ways if you don't do it well. And if Bitcoin is a fast car, then I would say Bitcoin Treasury Company is F1 racing. You've got to have very high skill, very deep knowledge, very high conviction, and if you can trade this well, you've got to be some of the smartest retail investors on the planet.
+
+**James (SWC and BTC):**
+(0:09:40) Okay, cool. And talking of cycles, what about Bitcoin cycles? Like you say, three data points but that's all we've got to go on with Bitcoin — it's only been around 16 years. Do you think that's going to change now?
+
+**Peter Duan:**
+(0:10:00) I don't know. I don't really think too much about the cycles. I do know that out of all the data points — and this is something that Lynn Alden points out — Bitcoin has a very high correlation to global liquidity. So the one person I follow pretty closely on that is Michael Howell. He comes from Solomon Brothers and he measures global liquidity very closely. Some people just have a broad stroke and measure global liquidity using the M2 money supply, but he uses many more metrics. Some people can argue that he does this so that he can pump his own company's research, but at the end of the day everything he said is very logical and data-based. So if you were to follow the Bitcoin liquidity supply to play the cycles, I'd follow Marco Howell, but I'm not particularly keen on trying to trade these cycles too aggressively myself.
+
+**James (SWC and BTC):**
+(0:11:09) Sure. And what about — if we did an assumption, you don't have to answer this if you don't want to — but an assumption that we're on a 4-year cycle-ish. What would be your cycle peak prediction?
+
+**Peter Duan:**
+(0:11:27) In America we say I'll plead the fifth on that, because it's kind of similar to price predictions — you can't really win either way. According to Ben Cowen, investing is an individual sport. So I never play the price prediction game.
+
+**James (SWC and BTC):**
+(0:11:50) Okay. That's fair enough. What was the NYC Unconference like? You were there yesterday — spill the beans. That's what we say in Britain.
+
+**Peter Duan:**
+(0:12:07) Yeah, we say that too here in America. First of all, shout out to Tim Cottsman and Julene, and then shout out to Adrian who's running the tech behind it. It was a very well-rounded conference. As we talked about before this call, it was a very nice intimate setting — only about 250 to 300 people there. But it was primarily, you know, who you'd think would be there was there. For the Bitcoin Treasury space, of course not everybody was there, but I would say 80% of the big names were there. MetaPlanet wasn't there, the Nakamoto team wasn't there, but pretty much everyone else was there. So it was really nice to see people face to face and really get to bend their ears on things that are not public on X — to really get their sentiment. To be honest, everybody is very bullish, not in the hype kind of way, but rather just excited about helping shape the financial future of tomorrow. So it was not exuberant, it was not depressed at all — it was very even-keeled. And that's what I like. I myself try to be a very stoic person when it comes to investing. So it was just really nice to go beyond the emotions and into how can we build together, which is very exciting.
+
+**James (SWC and BTC):**
+(0:13:36) Okay, cool. I guess maybe it's slightly easier when you're running the company and you're not owning the shares in the same way as a retail investor to be—
+
+**Peter Duan:**
+(0:13:47) Well, you know, it can cut both ways — like Andrew himself, of course he has Bitcoin, but the rest of his assets are in Bitcoin treasury companies. So it's fair to say that these guys have even more skin in the game than the average retail investor. Of course it depends on the CEO — some CEOs don't — but at least according to what Andrew says, most of his net worth is in Bitcoin and Smarter Web.
+
+**James (SWC and BTC):**
+(0:14:18) Okay, awesome. And what are the sort of upcoming things that we're speculating about? There was some speculation last week about acquisitions — although Jesse kind of put a dampener on that, saying they're not actively pursuing anything at the moment. But acquisitions, potential LSE uplisting, maybe even FTSE 250 qualification — what are the future things you're excited about?
+
+**Peter Duan:**
+(0:14:50) Yeah. I definitely think that the right track for them — and I'm sure they've already telegraphed that's the direction they're going, especially through the hiring of their new CFO who has FTSE 250 experience — is that that's the general direction you want to go. You're starting off at these lower-liquidity, smaller markets just to build momentum. But as you build that momentum, as your trading volume increases, you want to obviously play in a bigger ocean. So that makes a lot of logical sense. Now I don't know what that involves on the back end, but yeah, I just rely on the leadership to execute on that. I don't have a particular time frame — everything's very market-driven — and I definitely don't know the regulatory space in the UK. So I would never speculate on a timeline, but that is the general direction I think they're going to go.
+
+**James (SWC and BTC):**
+(0:15:49) Okay, cool. And yeah, just talking about the hire of the CFO — there are a few things announced in a short space of time: new CFO, the change of auditor, and what was the third one? I can't remember now.
+
+**Peter Duan:**
+(0:16:11) They got a new marketing manager as well.
+
+**James (SWC and BTC):**
+(0:16:14) Yeah, yeah. I think there's another one anyway. And my first thoughts were, okay, great — that's prepping for LSE uplisting. But then Bourja from Roxom put out a tweet saying this is actually structuring for larger capital deals, for bigger equity raises etc. What are your thoughts on that in regards to uplisting?
+
+**Peter Duan:**
+(0:16:46) Yeah, that makes sense, right? Like as you get uplisted, you get more access to the capital markets, and so that increases liquidity, which allows us to play this accretive dilution game even further. So yeah, that's definitely in line with the thesis of just trying to get bigger and bigger.
+
+**James (SWC and BTC):**
+(0:17:08) Sure. And how was it actually meeting Andrew in person? And how was he received in general, if you noticed?
+
+**Peter Duan:**
+(0:17:20) I think Andrew and Jesse are what you see online — they're very humble, very dedicated, not pretentious, and just very hardworking people. What I saw online was exactly what I got in person. There was no Jekyll and Hyde impression. They're soft-spoken. As I said to Andrew — when I first saw him on stage at the Bitcoin Vegas event earlier this year in February, he was on a panel with quite a few other Bitcoin Treasury companies. And every single one of them were saying, "Oh, we're trying to get to 1%, we're trying to be the largest this, largest that." And Andrew was just the last one who said, "Hey, we're just going to work hard to be in the top 10 and hopefully we get there." And he was just very soft-spoken. So at first, that was actually one of the initial reasons why I wasn't so keen on Smarter Web initially — because he was so soft-spoken that I felt like he lacked ambition. But really what he is — and I told him this — I said, you know, you speak quietly but carry a big stick, which I think is actually much more impactful in the long run.
+
+**James (SWC and BTC):**
+(0:18:41) Yeah, for sure. And so for you, are treasuries a long-term conviction play? Like you're looking way into the future rather than the day-by-day share price?
+
+**Peter Duan:**
+(0:18:57) Yeah.
+
+**James (SWC and BTC):**
+(0:18:58) Okay. And there's been some discussion in the UK scene about what Bitcoin treasuries become. Do you have any thoughts on that kind of thing?
+
+**Peter Duan:**
+(0:19:13) I mean I'm not in the UK so I guess why don't you share with me some of the things that they said and then maybe we can dissect it. I think a lot of CEOs have kind of said, well, that's something to deal with in 20 or 30 years kind of thing.
+
+**James (SWC and BTC):**
+(0:19:32) But it's the usual thing of, oh, they're going to be the Bitcoin bank, you know, that kind of stuff. I was just wondering whether you had any thoughts on what they're going to do with this massive stack of Bitcoin.
+
+**Peter Duan:**
+(0:19:47) I think that the biggest players are going to be Bitcoin banks. The way I think about it is there are three levels of Bitcoin treasury companies. Level one is you're a company owner, you're a Bitcoiner, and you simply realize that the cash you're sitting on is a melting ice cube and therefore you convert a certain portion of that cash pile into Bitcoin. That could be either a private company — in which you obviously cannot play the accretive dilution game — or a public company. But if you're a public company and you do not have a massive following and you're always floating at or even below 1 mNAV, then you're stuck in what I call level one. Level two is you are definitely a publicly traded company, you also have some sort of retail investor base that believes in your execution and vision to reward you with something above 1 mNAV, so you can play the accretion dilution game. Level three is you are everything in level two, but you have a certain size of Bitcoin stack and now you are an innovator tapping the institutional markets, relying primarily on the institutional markets as your shareholder base rather than the retail base. So definitely MSTR is in that bucket. MetaPlanet is pretty much transitioning there. But then everybody else is scrambling to try to get there.
+
+**James (SWC and BTC):**
+(0:21:29) And what's your view on multiple BTCs in a single jurisdiction? Do you think a jurisdiction can cope with multiple?
+
+**Peter Duan:**
+(0:21:42) A couple of things. One, it depends on the size of your capital markets. So obviously if you're looking at the US, we have the deepest capital markets — I don't know, $30 trillion of equities and so on. So it's very deep and therefore you can differentiate yourself very well. And I don't know if you had a chance to watch the livestream from the conference yesterday, but Saylor's initial speech effectively was that the fixed income market is $300 trillion — that's $300 trillion of dying capital — and so Bitcoin treasury companies done well and issuing preferreds can provide a lot of services to that. So it's going to be many decades — if not even in our lifetimes — before that would be saturated. Using a baseball analogy: there are nine innings in baseball, we're at the top of the first inning. The game hasn't even begun. Maybe MSTR is at the bottom of the first inning, MetaPlanet is in the middle of the first inning, but I mean we have such a long runway.
+
+**James (SWC and BTC):**
+(0:23:00) Okay, cool. And I know you said you don't get into timeline predictions or price predictions, but when Andrew and Jesse were on your show last week — and to anyone who hasn't watched it, go and watch it, it was great — they mentioned that Andrew gave you his gut feeling, even though you didn't ask for it, that SWC would get into the FTSE 250 before Strategy got into the S&P 500. I was kind of thinking Strategy would get in next time round. What are your thoughts?
+
+**Peter Duan:**
+(0:23:43) Yeah, I mean that's very hard to tell simply because the S&P 500 is more on a good ol' boys secret committee level rather than a metric level. So I don't know how that process works — I doubt most people know how that works. I very rarely think too much about anything in a one-year time frame. I just know that Bitcoin is going to go up, we're going to get in, it's just a question of when. So I don't really sweat the details on timing, per se.
+
+**James (SWC and BTC):**
+(0:24:19) Sure. I guess that's bullish for SWC because it doesn't have that committee decision — it's just purely done on the metrics.
+
+**Peter Duan:**
+(0:24:29) Exactly. And to be honest, if you are an SWC investor and not an MSTR investor, you'd actually prefer them not to get in, right? Because if MSTR gets in, then immediately that's I don't know $15–20 billion of capital — what do you think MSTR is going to do with that? They're going to buy Bitcoin. That's going to jack up the price so that our average price per Bitcoin that we acquire is at a higher rate. But at the end of the day, what's good for Bitcoin raises all tides. But yeah, if you're just thinking about it from a shareholder perspective, you would actually not want MSTR to get in the S&P 500 before you do.
+
+**James (SWC and BTC):**
+(0:25:09) Yeah, I think most of our investor base probably are in MSTR as well. So sure, it's kind of—
+
+**Peter Duan:**
+(0:25:16) Not all of them.
+
+**James (SWC and BTC):**
+(0:25:21) Okay, cool. I think that's kind of me with questions. Is there anything you wanted to add? Oh, no, sorry, one more. I think I read online that you sort of have online marketing experience. And so I was just thinking, have you got a message for the SWC community about the things that they could be doing to help grow the community, spread the word, get more people in, that kind of thing?
+
+**Peter Duan:**
+(0:25:49) Yeah, that's a great question. It's not just the SWC community — I think it's the entire Bitcoin Twitter sphere. Bitcoiners are very logical people. They rarely think about marketing or building a social base, because that's very qualitative, and if it's not something we can easily analyze through numbers, we don't emphasize it. However, we're in the attention economy. There's a very specific reason why this current AI boom started from a paper written by Google called "Attention Is All You Need." And so with attention comes the capital — whether that is for yourself personally as a personal brand, or if you're a Bitcoin treasury company wanting to increase your reach to get more investors, or if you're a Bitcoin service company wanting to get more people to buy your products or services. Everybody needs a distribution platform. And so with that, you need to know how to play the social media game.
+(0:27:05) I have a wide range of experiences, but one of them was I had my own investment education company for two and a half years. During that process it was effectively getting an MBA in online marketing. If you think about online marketing in general, you can think of it as a funnel. The statistics are you need about 8 to 14 touches — each touch point is like you seeing their content — and obviously the higher the ticket the product, the more touches you need to gain that person's trust. Social media is the top of the funnel. You need to win them over from, "Oh I see their content," to, "I actually like what this person says, I'm going to follow them." Then you lead them down to the middle of the funnel. For me, I'm building something called the Bull Standard Academy, which is to help Bitcoin companies, Bitcoin content creators, and Bitcoin treasury companies increase their social outreach on X. That's in beta right now — I'm still incubating it. But that's the middle of the funnel where you learn best practices. The algorithm just recently changed and I'm still scrambling to figure it out. But I'm aggregating some of the best content creators in the space to share their knowledge, and as we codify it and get the results, we're going to convert it into a course within the community which you can access for free. And then the bottom of the funnel is companies who join that community and are like, "I'm trying to learn it, I'm trying to implement it, but I don't have the time or the bandwidth — maybe you can do it for me or do one-on-one coaching." That's more high-ticket, right? And that's not isolated to me — that's going to be people already in the community contributing who can make money that way.
+(0:29:26) So that's what I'm building on my end, because while I have a 14-year traditional finance background, actually my specialty in the Bitcoin space is marketing and distribution. I created my X account a couple of years ago but only got active in October of last year. And in that time span I grew it to roughly 22,000 followers, which I ran through Grok and it's in the 99.9th percentile of growth and follower base. So that's my specialty. If you're looking to increase your influence — not so much for your own glory, but because you have something to say, you have a product, you want to talk about your investments to hopefully pump everybody's bags — that's a way to go where you increase your social outreach by learning how that game is played.
+
+**James (SWC and BTC):**
+(0:30:19) Okay, cool. So on a community level, are we talking about members of the community liking, reposting, replying, sharing with friends, adding commentary, putting things in other communities?
+
+**Peter Duan:**
+(0:30:35) Yeah, that's a great question. When I first entered the space I was just posting for fun and it was gaining good traction, but at first I was just cracking a lot of jokes, and then I noticed some people were saying like, "Oh, this guy's kind of a meme guy." I was like, "Well, I have more to say than just being a funny guy." And so I was like, "Okay, what do I really want to be known for?" Well, I just want to provide a lot of value, and if I'm already trying to learn from the space, why don't I take the little bit of extra time to distill what I'm learning? So what I did — I call it borrowing leverage. If there is a bigger account that creates good content, that's already doing podcasts, that's already showing up consistently to get their message out, and you like their content and you're already studying it, then what I would do is just summarize that in my own terms for other people. And inevitably if that content blows up, oftentimes that person will actually retweet it themselves, and if they really like you, they'll follow you back. So that's kind of like a fish analogy, right? You're like a little guppy and you're just trying to ride the waves of someone bigger. But inevitably if they like you, they're going to add you to their group. And that's actually exactly how Jesse and I became friends — he was on a podcast, and I wrote a thread that went super viral, and then he asked me to write another thread for something else he created. And yeah, we became friends that way. So if you're already doing the hard work of studying the space from people you admire, then help winners win — help them amplify the message, and in return they'll probably follow you back, and that's how you gain social clout.
+
+**James (SWC and BTC):**
+(0:32:46) Fantastic, thank you very much. So community members, you know what to do. Okay, just a question coming in on the chat — have you ever been asked to join a Bitcoin treasury? And if you weren't interested, why not?
+
+**Peter Duan:**
+(0:33:09) Thank you. That is a good question. I've had a few conversations. Well, first of all, I'm a Christian, so I think everything happens for a reason. One in particular fell through that I thought I was going to get. But in hindsight everything happened for a reason — just taking a step back from why that fell through, having a little bit further distance, I'm actually glad that fell through simply because I didn't like certain things that were being done. But I also think that we're in this wild west stage where just because it's a hot trend doesn't mean that you should jump onto everything. In fact, I think it's much wiser to survive a bear market together. We're experiencing a bear market now despite a Bitcoin run. Just imagine a Bitcoin bear market with an amplified Bitcoin Treasury mNAV compression market — that's going to be a bloodbath of epic proportion. And so if that's the case, unless you have an iron stomach — and this place, the Bitcoin Treasury Company, has amazing people that will help you ride through it — there are going to be a lot of deals that blow up and a lot of people's reputations are going to get ruined. For me, I don't really care about money that much — not that I'm a multi-millionaire, it's just that I care about my reputation more than anything. So it's better to be the tortoise as opposed to the hare, where you get to observe best practices. Using another baseball analogy: wait for the fat pitch so that when you swing, you swing for the home run, rather than just taking everything that's offered your way.
+
+**James (SWC and BTC):**
+(0:35:13) Sure. And assuming there isn't a Bitcoin bear market, it'll be the strongest that survive — it's going to weed out quite a lot of them, correct?
+
+**Peter Duan:**
+(0:35:25) And that was, to your earlier question about takeaways from the Bitcoin conference — there have been so many conversations where it's like, dude, all these guys are obviously seeing all these deals and they're just like, there are so many bad deals. Everybody's trying to make a quick buck. And it's only those who are patient and strategic — and I put Jesse and Andrew in that bucket — waiting for the fat pitch, not just taking any money that's thrown their way, that is the winning strategy. You don't want to be swinging for the fences and trying to be the gold medal winner. I heard another CEO talk about how they actually have a bronze medal strategy where it's like, "Hey, as long as I'm in the game and not get blown out, that's actually how you win in the long run."
+
+**James (SWC and BTC):**
+(0:36:20) Yeah, for sure. And I think Saylor reiterated that yesterday as well, didn't he — about taking the right money. The money that comes to you is the money you don't want. It's the money you've got to go out and work for.
+
+**Peter Duan:**
+(0:36:35) Yes. I'm glad you brought up that point, because yeah, he named off Three Arrows Capital, FTX, Celsius — every single one of them pitched him. And I'm glad that he didn't take those deals.
+
+**James (SWC and BTC):**
+(0:36:47) Yeah, for sure. Okay, Peter, well thank you very much. It's been a pleasure to have you on. I hope we keep in contact and I'll keep liking and sharing your stuff because it's good.
+
+**Peter Duan:**
+(0:37:00) Thank you so much. It was a pleasure speaking to you. Shout out to the Smarter Web community — out of many communities I'm a part of on X, you guys have the best attitude. You're very positive despite the recent price action, and if you are willing to stomach it, you will get rewarded in the end, I believe. You've just got to be patient and believe that Andrew and Jesse are doing everything in their power to really drive shareholder value, which I firmly believe.
+
+**James (SWC and BTC):**
+(0:37:34) Brilliant. Thanks, Peter.
+
+**Peter Duan:**
+(0:37:36) Nice talking to you, James. Thank you, everyone.
