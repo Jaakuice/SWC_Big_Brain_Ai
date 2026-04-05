@@ -174,14 +174,14 @@ Provide a comprehensive answer with:
 - **Selection method:** Filter by date (filename contains YYYY-MM-DD) or keyword (e.g., "Bitcoin", "placing", "director", "results")
 - **Types:** IPO/admission, Bitcoin purchases, share issuances, director appointments, trading updates, TR1 notifications, financial statements, corporate governance
 - **Triggers:** RNS, regulatory, official announcement, Bitcoin purchase announcement, placing, fundraise, bookbuild, subscription, director appointment, TR1, major shareholder, trading update, AGM, general meeting, results, official filing, when did SWC buy Bitcoin, how much did they raise, new director
-- **Date range:** Apr 2025 - Mar 2026 (127 files)
+- **Date range:** Apr 2025 - Apr 2026 (129 files)
 
 ### YouTube Updates/Interviews
 **Location:** `/Youtube/` .txt files
 - **Selection method:** Filter by date (YYYY-MM-DD prefix) or title keywords
 - **Key series:** "A Week In The World Of SWC" (Episodes #3-21), "Smarter Webley Wednesdays", mNAV updates
 - **Triggers:** YouTube, video, interview, podcast, transcript, what did Andrew say, CEO commentary, strategy discussion, Bitcoin Treasuries World, BTW, Week In The World, mNAV update, investor call, presentation, panel, conference, True North Now, IG interview
-- **Date range:** Apr 2025 - Mar 2026 (130 files)
+- **Date range:** Apr 2025 - Apr 2026 (133 files)
 - **Use for:** CEO insights, strategy discussions, real-time commentary, investor presentations
 
 ### Andrew Webley Statements/Perspective
@@ -189,21 +189,21 @@ Provide a comprehensive answer with:
 1. `/Tweets/asjwebley/` JSON files (monthly: `posts-YYYY-MM.json`)
 2. YouTube transcripts where he speaks (filter by "Andrew Webley" or "CEO" in title/metadata)
 - **Triggers:** Andrew Webley, Andy, @asjwebley, CEO tweets, what did Andrew tweet, Andrew's view, CEO opinion, Webley said, think like Andy, Andrew's perspective, CEO social media
-- **Date range:** Jun 2024 - Mar 2026 (955 meaningful posts)
+- **Date range:** Jun 2024 - Apr 2026 (989 meaningful posts)
 - **Use for:** Personal views, real-time reactions, direct CEO communication
 
 ### Company Official Posts
 **Location:** `/Tweets/smarterwebuk/` JSON files
 - **Format:** `posts-YYYY-MM.json`
 - **Triggers:** @smarterwebuk, company tweets, official Twitter/X, SWC social media, company announcement tweet, what did SWC tweet, corporate social media
-- **Date range:** Mar 2025 - Mar 2026
+- **Date range:** Mar 2025 - Apr 2026
 - **Use for:** Official announcements, company updates, corporate communication
 
 ### Jesse Myers/Croesus Analysis
 **Location:** `/Tweets/Croesus_BTC/` JSON files
 - **Format:** `posts-YYYY-MM.json`
 - **Triggers:** Croesus, @Croesus_BTC, Jesse Myers tweets, Bitcoin treasury analysis, independent analysis, what did Croesus say, market commentary, think like Croesus
-- **Date range:** Feb 2025 - Mar 2026
+- **Date range:** Feb 2025 - Apr 2026
 - **Use for:** Bitcoin treasury company analysis, independent commentary, market perspective
 
 ### Tennyson Research

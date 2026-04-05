@@ -28,7 +28,7 @@ This repository contains comprehensive data and documentation related to The Sma
 
 ---
 
-### **`/knowledge/`** (10 files: 9 MD + 1 CSV)
+### **`/knowledge/`** (11 files: 9 MD + 1 CSV)
 Contains knowledge management files for organizing and navigating the dataset.
 
 #### **Index and Navigation Files**
@@ -112,10 +112,10 @@ Contains historical media coverage and appearances related to SWC.
 
 ---
 
-### **`/RNS/`** (127 files)
+### **`/RNS/`** (129 files)
 - **Type:** Text documents
 - **Content:** Regulatory News Service (RNS) announcements - official company filings and disclosures required by UK stock exchange regulations
-- **Date Range:** Apr 2025 - Mar 2026
+- **Date Range:** Apr 2025 - Apr 2026
 - **Key Document Types:**
   - IPO and admission documents
   - Bitcoin purchase announcements
@@ -163,37 +163,37 @@ Contains company-specific documents, presentations, and corporate information.
 ### **`/Tweets/`**
 Contains structured social media data extracted from X.com (Twitter) accounts related to SWC.
 
-#### **`/Tweets/asjwebley/`** (21 files: 20 JSON + 1 README)
+#### **`/Tweets/asjwebley/`** (22 files: 21 JSON + 1 README)
 - **Account:** @asjwebley (Andrew Webley, CEO of SWC)
 - **Content:** Monthly JSON files containing structured post data
-- **Date Range:** Jun 2024 - Mar 2026
+- **Date Range:** Jun 2024 - Apr 2026
 - **File Format:** `posts-YYYY-MM.json`
 - **Data Includes:** Post type (original/reply/quote/repost), text content, engagement metrics (likes, reposts, comments), timestamps, media attachments, permalinks
-- **Statistics:** 955 meaningful posts from 1,330+ total timeline items
+- **Statistics:** 989 meaningful posts from 1,330+ total timeline items
 - **README.md:** Contains extraction metadata, statistics, JSON schema documentation, and usage examples
 
-#### **`/Tweets/Croesus_BTC/`** (15 files: 14 JSON + 1 README)
+#### **`/Tweets/Croesus_BTC/`** (16 files: 15 JSON + 1 README)
 - **Account:** @Croesus_BTC
 - **Content:** Monthly JSON files with structured post data
-- **Date Range:** Feb 2025 - Mar 2026
+- **Date Range:** Feb 2025 - Apr 2026
 - **File Format:** `posts-YYYY-MM.json`
-- **Statistics:** 571 meaningful posts
+- **Statistics:** 587 meaningful posts
 - **Purpose:** Bitcoin treasury company analysis and commentary account
 
-#### **`/Tweets/smarterwebuk/`** (14 files: 13 JSON + 1 README)
+#### **`/Tweets/smarterwebuk/`** (15 files: 14 JSON + 1 README)
 - **Account:** @smarterwebuk (Official SWC company account)
 - **Content:** Monthly JSON files with structured post data
-- **Date Range:** Mar 2025 - Mar 2026
+- **Date Range:** Mar 2025 - Apr 2026
 - **File Format:** `posts-YYYY-MM.json`
-- **Statistics:** 195 meaningful posts
+- **Statistics:** 208 meaningful posts
 - **Purpose:** Official company announcements and updates
 
 ---
 
-### **`/Youtube/`** (130 files)
+### **`/Youtube/`** (133 files)
 - **Type:** Text files (.txt)
 - **Content:** Transcripts and summaries of YouTube videos featuring SWC, Andrew Webley, or related Bitcoin treasury content
-- **Date Range:** Apr 2025 - Mar 2026
+- **Date Range:** Apr 2025 - Apr 2026
 - **Video Types:**
   - "A Week In The World Of SWC" weekly series (Episodes #3-22)
   - "Smarter Webley Wednesdays" regular segments on Bitcoin Treasuries World
@@ -239,14 +239,14 @@ Contains structured social media data extracted from X.com (Twitter) accounts re
 | knowledge | 10 | MD, CSV |
 | Legacy media/News articles | 12 | TXT |
 | Legacy media/Tv appearances | 1 | TXT |
-| RNS | 127 | TXT |
+| RNS | 129 | TXT |
 | Smarter Web | 17 | TXT |
 | Tennyson | 20 | PDF |
-| Tweets/asjwebley | 21 | JSON, MD |
-| Tweets/Croesus_BTC | 15 | JSON, MD |
-| Tweets/smarterwebuk | 14 | JSON, MD |
-| Youtube | 130 | TXT |
-| **TOTAL** | **~371 files** | |
+| Tweets/asjwebley | 22 | JSON, MD |
+| Tweets/Croesus_BTC | 16 | JSON, MD |
+| Tweets/smarterwebuk | 15 | JSON, MD |
+| Youtube | 133 | TXT |
+| **TOTAL** | **~380 files** | |
 
 ---
 
@@ -273,5 +273,5 @@ Contains structured social media data extracted from X.com (Twitter) accounts re
 
 ---
 
-*Last Updated: Mar 2026*
+*Last Updated: Apr 2026*
 *Project Focus: The Smarter Web Company (SWC) - UK Bitcoin Treasury Company Analysis*

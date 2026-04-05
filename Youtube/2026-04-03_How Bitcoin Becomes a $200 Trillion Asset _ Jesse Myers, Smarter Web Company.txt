@@ -1,0 +1,539 @@
+# How Bitcoin Becomes a $200 Trillion Asset | Jesse Myers, Smarter Web Company
+**Date: 2026-04-03**
+**Video ID: iF6kzI6U7us**
+**URL: https://www.youtube.com/watch?v=iF6kzI6U7us**
+**Duration: ~2:12:06**
+**Channel: Bitcoin Archive w Archie**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- Why the "Yuppie Elite" dismisses Bitcoin — psychological and social barriers facing highly educated finance professionals
+- The Cantillon Effect: how proximity to money printing creates structural wealth inequality
+- Keynesian vs. Austrian economics: 100 years of Keynesian dominance suppressing alternative monetary thinking
+- Bitcoin's path-dependent monetary evolution: collectible → store of value → medium of exchange → unit of account
+- Strategy's STRETCH preferred equity instrument as the "iPhone moment" for Bitcoin treasury companies
+- Jesse's global asset value analysis: Bitcoin at 0.2% of ~$1,000 trillion in total world value, with potential to reach 20–50%
+- Bitcoin treasury companies as "capital pumps" converting fixed income capital into Bitcoin — the plumbing of hyperbitcoinisation
+- The UK's lag behind the US in Bitcoin adoption — regulatory conservatism, hostile press, and narrow elite pathways
+- 14-month bear market thesis: Bitcoin priced in gold peaked December 2024; sentiment possibly near a bottom
+- Self-custody as the "risk-free rate" for Bitcoiners, with Bitcoin treasury company equity as risk capital
+
+---
+
+**Jesse Myers:**
+(0:00:00) When you first get into crypto, right, you're like, "Okay, Bitcoin is real technology. What else is out there?" What you don't realize is that all of these other projects, they're really operating as startups and there are insiders that benefit from all of this, right? So the insiders are going to sing the praises of this technology. The marketing is going to have its effect. Versus Bitcoin, there's none of that. There's no marketing team. There's no insiders who are going to disproportionately benefit and treat retail as exit liquidity once they can get out. I think there's a common problem in crypto — there are super smart people who have a narrow field of vision. It takes a totally different lens, or you have to look at it from a different angle and come back to this much bigger picture understanding of: this isn't about technology. This is about money. This is about value.
+
+**Archie:**
+(0:00:44) Jesse Myers, welcome to the podcast.
+
+**Jesse Myers:**
+(0:00:46) Thank you very much. Thanks for having me.
+
+**Archie:**
+(0:00:48) Yeah, man. I say it every time we get an international guest — thanks for coming into the studio. I'm so tempted to just do an interview with all the people I've gotten to know online, but then I'm like, oh jeez, I'd love to wait until they come to London. It's just fortuitous if it happens, so thankfully we've got the opportunity to sit face to face and chat.
+
+**Jesse Myers:**
+(0:01:09) Worked out great — happened to be in London, a lot going on here, and excited to talk.
+
+**Archie:**
+(0:01:14) I have been in this space just over five years and you were one of the anonymous accounts — or pseudonymous accounts, similar to me. So I took very early notice of you. You used to write these really interesting posts from the perspective of someone who was following, I don't want to call it a traditional path — I'm not sure if "elite path" is the correct word, but it kind of is apt, I think.
+
+**Jesse Myers:**
+(0:01:40) Yeah, "the ivory tower" is kind of how I think about it in hindsight, in particular. I was on the gilded track, perhaps — the well-heeled professional world track.
+
+**Archie:**
+(0:01:55) So put some detail around that. You went to a really good university — which university did you go to? What did you graduate in, and what was your path after that?
+
+**Jesse Myers:**
+(0:02:02) Yeah, I went to USC, then I immediately got a master's of accounting at UT Austin. That led to getting a job as a management consultant at Bain & Company, one of the premier management consulting firms. And then that led me to getting an MBA at Stanford. So I kind of ended up in quite well-heeled circles, as you'd say. And the track ahead was: keep doing that. That's what everybody in my world was focused on — what elite opportunities can you unlock, access, and work hard to obtain. That was what all my peers were doing and what I was doing, and then my path changed as I kind of fell down the rabbit hole.
+
+**Archie:**
+(0:02:53) Yeah, that's really interesting. And the reason we're going through that — for people who are listening or watching — is not to recite Jesse's credentials, but a really important piece of work that Jesse did in the last cycle was to publish an article about — I'm trying to remember the title — but it was basically "Why Yuppies Don't Get Bitcoin." For those of you who are not familiar, "yuppie" was a derogatory term used for young professional, upwardly mobile, aspirational class of the '80s and '90s — the Gordon Gekko sort of era. It stuck, and it's just such a beautifully sounding pejorative too, isn't it? You wrote this article that I was so thankful for, because it was everything that I was thinking about as I would have these conversations with people in the different worlds that I would traverse and they just wouldn't get it. I was so utterly resistant — I thought, thank god someone has just expressed everything that I'd been experiencing with these people. But more importantly, it was someone from the inside who had experienced it themselves. You were on that sort of path. You had lived in that world. You understood what these people actually thought. Can you give us a recap of what that article was about? I think it was one of the seminal pieces of work in the Bitcoin space with respect to Bitcoin adoption. It helped some people understand some of the barriers people faced when having these discussions, and I don't think it gets enough credit, to be honest.
+
+**Jesse Myers:**
+(0:04:31) Thank you. Yeah, I wrote that in 2020. It was "Why the Yuppie Elite Dismissed Bitcoin." And it came from my frustration with trying to talk about Bitcoin with my MBA friends. Every Bitcoiner has the experience that once you realize how incredible Bitcoin is, you want to talk about it with everybody — all your friends and family. So you become zealous, you become "the Bitcoin guy," right? You become that maniac.
+(0:05:05) And in my various friend groups, people would entertain it or half-heartedly listen. But my MBA friends were downright resistant to it, almost hostile to this idea. And you'd think it would be the opposite, because these are MBAs who should be very interested in money and finance. But it wasn't that way. It was very frustrating how they off-handedly dismissed it or thought that I had gone crazy — kind of a glazed-over look in their eyes. So I thought about it for months and months. Why is this happening? Because these are super smart people who are interested in money and finance. So what's the gap between my MBA friends and all my other friends? And eventually it coalesced for me into this framework: it's not about IQ, as people sometimes refer to it. Instead it's a combination of having sufficient intelligence and curiosity, but also enough distrust in the system to then be receptive to something that is outside of the system and designed quite contrary to the system. And if you've invested your life, your career, your education in learning Keynesian economics and the world as it is in terms of finance, it's a sort of threatening proposition that maybe there's something different and better that will unseat finance as we know it. And I think that's the nature of that hostility that every Bitcoiner experiences when you go talk to somebody who works in finance, has an MBA, maybe they're a lawyer or a doctor — they think they know the world quite well because they're smart and they're educated — and then they're just not open to something that requires distrust in the system.
+
+**Archie:**
+(0:07:17) Yeah. Really interesting, because I think society at the moment can almost be split between people who have trust in the system and institutions and people who don't. When we say "the system," we mean public institutions like media, for example — they're private enterprises for the most part, but they're public-facing representations of the system and the mouthpieces for them. Politically also — people who have trust in the political process. In America we're now seeing the number of independents self-identifying is greater than people who identify with either party. So we're seeing a schism in society. I think most people can relate to that: people are losing faith and trust in the system. But then we've still got like 60 or 70% of the population who will still sit down and watch the nightly news and wait to be told what actually happened. We had a recent discussion about reliable news sources, and people just listed a laundry list of mainstream media publications they subscribe to — some of them five or six different publications. And I'm like, guys, I don't actively read any of them. I can't remember the last time I went to the homepage of any of these organisations to read what was happening. I might be directed there if I find something somewhere else, but I'm not going to the New York Times or the Guardian or the Telegraph or the Financial Times and going "what's happening in the world today." And I think that schism — that division in society between those who still have investments in the existing system to fulfill their aspirations, or still see the institutions as credible enough authorities — and people who are like, "actually, what's going on here?"
+
+**Jesse Myers:**
+(0:09:35) Yeah. I've described Bitcoin before as: Bitcoin is the reward for free thinkers in a time when free thinking is much diminished. And I think that's true with where you get your news from. You've got to parse out the garbage from the signal, but I find Twitter to be a more reliable place to get actual news than any of these filtered and skewed mainstream media sources. But inherent in that is that I like to make up my own mind. And I think you have to be that kind of person to find Bitcoin this early. Over time, that will shift as it becomes consensus.
+
+**Archie:**
+(0:10:27) But isn't there a disconnect there with the sort of people we're talking about — in your milieu of education and in your professional milieu as well — is that their self-image would be: if you ask them, "Do you think you're an innovative person?" Yes. "Do you think you're open-minded?" Yes. "Do you think you make up your own mind, you think for yourself?" Absolutely. And yet the way we view them from outside the system is like, you're so beholden to all of the axioms of your environment, the institutions you work in. I've worked in a lot of large organisations. I see the way conformity works. I see the way the signalling starts from the top and then people just pick up on it and they're very adept at it. It was something I could just never do — and it's one of the reasons why I had to leave. Once you see how that dynamic works, the signalling from the top and the people who receive the signal and adjust and accommodate — you realise there's something borderline pathological in how it manifests. I found it really suffocating, actually.
+
+**Jesse Myers:**
+(0:11:47) Yeah, that sounds right. That's the experience of free thinkers when put into an environment like that. And yeah, there's a subtle arrogance too with the yuppie elite where I come from. They think they have the best information. They think they are the smartest and most informed. And therefore they're interested in what others in their peer group think, because they know that those people are also smart and informed. And then everybody else outside of these inner circles of large organisations and elite finance and business are therefore not in the know. Because if you don't have access to that world and that information, you're not in that world.
+(0:12:44) "How could you possibly have an edge on me?" So if you're outside of that, you're alone in the wilderness from their point of view. And yeah, there's a deep, unquestioned conviction that the yuppie elite know best. And I think unfortunately that's part of how our governments have started doing what they think is best, even when the electorate mandate is elsewhere.
+
+**Archie:**
+(0:13:20) Yeah. I think we saw a similar dynamic between publications like WikiLeaks, Glenn Greenwald through the Snowden leaks, and the mainstream media — where there was just complete and utter disdain for them. For Julian Assange, when he started publishing all these massive scoops, there was just this clear disdain from the establishment media in the United Kingdom. And it all comes from this subtle assumption that governments are acting in the best interest of the people and doing right by their citizenry.
+
+**Jesse Myers:**
+(0:14:05) Just trust the experts. And some of it's gatekeeping as well. Like Assange was clearly treading on some toes, right? That's supposed to be our job. And it shows them up for not actually holding powerful people and institutions to account. So that was a shattering of their self-image. Hey guys, if all this is going on, why weren't you telling me about this? He brought that to bear. And the interesting thing is they never gave him credit for that, but now they've co-opted all of his principles — at least in marketing. So they claim everything that he wanted to achieve for themselves now. The Guardian did some good work on the Snowden files, but what have they done since then? And the Washington Post — their slogan is "democracy dies in darkness," but they're the mouthpiece of darkness. They really are. They're not shining a light on really anything. In a funny way, that's a cultural manifestation of the Cantillon effect, where you don't want to rock the boat. You just want to get the nice cushy job and everything's all hunky-dory. Why would you jeopardise your meal ticket by questioning authority? And if you believe that the government doesn't lie to people and is acting in the best interest of the world and all its citizens — if you were to ever examine that assumption, how absurd.
+
+**Archie:**
+(0:15:50) Break that down for us — the Cantillon effect first of all, and then how it applies to what you just said.
+
+**Jesse Myers:**
+(0:15:55) Yeah, the Cantillon effect was first observed — I think by a French economist — Richard Cantillon. Two to three hundred years ago, something like that. He observed that when there's a money printer, when somebody has control over the mint, the people closest to that power source benefit and become rich. So the Cantillon effect is: if you're printing money, the people closest to the money printer disproportionately benefit. The people furthest away from the money printer, on a relative basis, lose out.
+
+**Archie:**
+(0:16:39) Not just in how much they receive, but when you receive it is really important, because the underlying assumption is that money printing will drive up inflation — prices will rise. So if you're the first person to get the issuance of new money, you're buying at existing prices before the inflation hits the market. Once that money flows into the rest of the economy, everyone else is buying at inflation-adjusted prices. You're not getting more money. It's kind of like — I read something today, this guy saying, "I told my friend her house isn't actually worth more — the dollar is worth less." And I think I broke her mind.
+
+**Jesse Myers:**
+(0:17:17) Yeah, people don't realise you don't actually have more money. And the assumption there too is: the people closest to the money printer — money printer runs, they get paper, then they go and buy the real estate, they buy the hard assets. And those are real and valuable. And everybody else bears the cost of the money supply growth. So you've changed the denominator of how much money there is in the world, but you haven't changed how much real assets are in the world. So everybody else's money gets worth less because the denominator has now grown, and the Cantillionaires benefit by buying up the scarce assets.
+
+**Archie:**
+(0:18:05) So the corollary to your article's premise is that the people who are within the system, who are going to benefit from the system, are the last people who will undermine or discredit the system, right? If it's not coming from the system in which I'm invested, how could there be something outside the system which shows it up for being a corrupt form of operation?
+
+**Jesse Myers:**
+(0:18:25) Yeah. But importantly, it's not malicious or knowing. These are smart people who have, for their entire lives, figured out: if I work hard, if I study hard, if I try to get that internship, good things will happen. And that has played out for them. So their entire lives they've had increasing trust in "this system works — I put in effort and I am rewarded by promotions and opportunities." And so the world is a great place, and the world order as it exists is well-designed and everybody's acting in the interest of the collective good, right?
+
+**Archie:**
+(0:19:06) Yeah. I mean, we were just discussing before — I don't mean to disparage these people. I was one of them in aspiration. I thought that's what I wanted as well. I got into a bank graduate programme by the skin of my teeth. It was basically the only reply I got to my job applications. And even then, they wanted to interview me twice just to make sure, because I was a little bit wild in interviews — a little bit precocious, outspoken. As it turns out, they were right to question me. I'm not a corporate type of person. So I don't mean to disparage these people as being of poor character. It's just incentives, right? And you sort of take them on subliminally. Before you know it, you're behaving in a way that you're not really doing consciously — you've just taken on that certain information from particular sources has credibility. And if it's outside of that, it's been modelled for you by the people who are senior to you in these organisations. Like if you think about the sort of battle between Austrian economics and Keynesian economics —
+
+**Jesse Myers:**
+(0:20:32) That was a battle that was waged a hundred years ago. And these are competing schools of thought. One says value is based on scarcity, and commodity money is what's real money because you can't print more of it. And then Keynesian economics says money is money and we can print it and we can stimulate the economy by doing so. Those competing schools of thought were obviously at odds and battling for dominance. And then one of those suits the interests of government, so it's no surprise that Keynesian economics ended up winning out. And every faculty member for the last 100 years has been a Keynesian economist. And so every business leader for the last 100 years has learned Keynesian economics as settled science and dogma. And when you're in business school, Austrian economics doesn't come up — it only ever comes up as the butt of a joke. It's never considered on its merits at all. It's never even discussed.
+
+**Archie:**
+(0:21:46) You didn't encounter any of that economic philosophy at all?
+
+**Jesse Myers:**
+(0:21:50) Not once. I mean, literally just as a joke. Like, you would occasionally get a jab at Hayek. Because obviously you can stimulate the economy and it's better to manage the economy through stimulus — obviously, right? That's what's deeply embedded and has been for 100 years. The people at the top of these organisations learned this 40–50 years ago from people who were already 40–50 years into the Keynesian dominance era. So there just hasn't been any kind of question for 100 years about whether Keynesian economics is correct. It's been a total propaganda victory for this form of economics that suits government interest.
+
+**Archie:**
+(0:22:42) Yeah, that's really interesting, because it's almost like a division between tinkerers — people who think they can tinker with an economy and direct it and guide it — and then the other school is just: let it be.
+
+**Jesse Myers:**
+(0:22:55) Free market. Yeah. And but if you spoke to Keynesians, they'd still think that they were free market capitalists. They'd still think that's what they're espousing. None of them think they're proponents of socialism or communism. They think they're proponents of markets, proponents of capitalism. But it's ultimately a skewed, flawed form of capitalism — it's capitalism where you control the monetary unit. So it could be a free market for everything except the money, which underpins all economic calculus. And at no point do they look in the mirror and ask: okay, I'm supportive of free markets — should we have a free market for money also? It would just be an alien concept. "What are you talking about? That's a government thing." And it's because you're not exposed to that in school. If Austrian economics was ever part of your coursework, you would start to wonder: is a free market for money a better form of money?
+
+**Archie:**
+(0:24:21) Have you found a crack in that wall — in terms of orange pilling people from that elite background?
+
+**Jesse Myers:**
+(0:24:37) No, it's kind of the surprising answer. I think, as with all Bitcoin sceptics, what moves the needle for my MBA friends is when Bitcoin rallies and they feel the FOMO — they feel the pain of being on the sideline. And invariably these people end up buying at all-time highs. So you break through the prior cycle high and Bitcoin's running and they're in so much pain as the price goes up that finally they capitulate and they buy some at a local high.
+
+**Archie:**
+(0:25:18) And then they get burnt and then it's like they write off Bitcoin.
+
+**Jesse Myers:**
+(0:25:22) They get burnt. Some of them are wise enough, or have conviction enough or balls enough, to buy the dip and average down and keep holding for four years. And then they become quite happy about that and become more and more open to Bitcoin. At this point I've got a handful of my MBA friends who hold some Bitcoin and have for five years and they're quite happy about that. The ones I couldn't convince are not happy about that.
+
+**Archie:**
+(0:25:52) It's always filled with regret, right? Because I think deep down they understand it was an error of judgment. And if we can just convince people — if you get through one bear market, you're gold. Absolutely gold. I got some friends into Bitcoin. Not many. I don't pill people, by the way — I know that might surprise some people, but I don't talk about Bitcoin with my friends unless they want to talk about it with me and they ask me.
+
+**Jesse Myers:**
+(0:26:25) I've gotten to that point too. For probably a year or two, I was zealous and wanted to talk about it with everybody. But once you've made your effort, it's up to them.
+
+**Archie:**
+(0:26:37) Well, for me it was to keep me grounded, basically, because I was so obsessed with growing this account in the last cycle. It was such an exhilarating experience and all-consuming. But I was anonymous and all the rest of it — I just needed a break. I didn't want to go to a dinner party and talk about Bitcoin and have it become the sole reference point of my whole personality. I didn't want that at all. And that turned out to actually be a good thing, because I saw the frustrations people were expressing about orange pilling people who weren't really interested in Bitcoin. And I'm just like, why would you do that? The hard sell has never appealed to me — not in relationships, not in business, not in anything. If someone asks me, I'm more than happy to go into full detail. I'll walk them all the way through to self-custody if that's what they want. But I don't want to force it down anyone's throat. I think one of the mistakes we make as Bitcoiners with orange pilling is that we think we have to impress upon someone how much we know — the economic philosophy, the Cantillon effect — and really it should start with: does the person identify a problem in their life that you can present Bitcoin as solving? It's basic sales skill, right? What's the customer's pain point? And I think too few people recognise that. Have you experienced that?
+
+**Jesse Myers:**
+(0:28:48) I mean, that's very wise. That's the end conclusion that makes the most sense. From my point of view, I've always been bookish. And when I finally considered Bitcoin from the Austrian economics point of view — I finally opened up to Bitcoin maximalist content, because I was an altcoiner before. I started out interested in Ethereum and then all the other technology improvements. I thought it was all about technology. I was steeped in Silicon Valley ethos, and that's what you naturally switched to, because there was a big propaganda campaign stemming from Silicon Valley — the whole "blockchain not Bitcoin," "in it for the tech" sort of thing. And that's why you see Lex Fridman of that mind — he gave this sort of red carpet entrance to Vitalik to speak about Ethereum, and then for the Bitcoin podcast he gave this huge warning before. And I was like, what? Did you give a warning before Ethereum? No. Why'd you do it before the Bitcoin one? And Bitcoin is a more solid proposition anyway. But he's steeped in Silicon Valley culture — he's an AI researcher at MIT and started his podcast as an AI podcast. So yeah, that's where it started from.
+
+**Archie:**
+(0:31:43) We're definitely reactive — there's no one funding marketing campaigns for messaging in Bitcoin. So what we find is it's two months into a FUD campaign funded by Ripple or Solana or whoever it is, and we're like, hang on, where is all this coming from? And then we have to respond to it. Because Bitcoin is not a centralised thing and the culture is more having to be reactive to other people attacking Bitcoin in order to pump their own bags.
+
+**Jesse Myers:**
+(0:32:16) Yeah. That was a really interesting thing to see, actually.
+
+**Archie:**
+(0:32:22) Because I quite opposite to you — I just started at Bitcoin.
+
+**Jesse Myers:**
+(0:32:27) That's rare but probably increasingly common. I feel like there's enough information out there. And I think MicroStrategy helps a lot too — people look to Saylor as a billionaire who's super sharp and he's become more and more of a signal for new entrants to evaluate. Okay, what's Michael Saylor saying? And then what's Vitalik saying?
+
+**Archie:**
+(0:32:59) Vitalik seems to be having an existential crisis, mate. In the bear market it felt like he was having a bit of a meltdown, right?
+
+**Jesse Myers:**
+(0:33:09) Yeah. Super smart guy, by the way — extremely smart, extremely talented obviously. It needs to be said, because sometimes it gets lost in the rivalry between Bitcoin and shitcoins. But he seemed to be really struggling with what the hell his project is meant to be. And I think that's inevitable. I think there's a common problem in crypto — there are super smart people who have a narrow field of vision. They're focused on the tech. They genuinely believe they have a better protocol because they've solved all the technology deficits as they see it of Bitcoin. But it takes a totally different lens — you have to look at it from a different angle and come back to this much bigger picture understanding: this isn't about technology. This is about money. This is about value. And money is the mother of all network effects. It tends to one, right? That's what's so great about The Bitcoin Standard as a book — it's really not about Bitcoin. The first third of the book, which is where most of the value is, it's just a walkthrough of monetary history.
+(0:34:31) And it shows you how the free market of commodity money converged on gold as being the scarcest money that you can hold and therefore the hardest to make more of — the hardest money — and therefore the safest way to store your value, and not allow anybody else to confiscate your value by printing more. For example, there were cultures in Africa that valued glass beads and treated them as money. The Europeans figured this out, sent word back to Venice where the glass makers made a boatload — literally a boatload — of glass beads, shipped that down to Africa. And the Europeans offer abundant glass beads in order to buy the property of the Africans. On the other side of the deal, the Africans are like, "Well, this is the money that I value, so I'm going to say yes to this deal." And obviously, in the grand scheme of history, that's a terrible decision. You can't do that with gold, basically — you can't print more gold. It's very hard to mine one and a half to 2% more gold every year. But that's the hardest thing to make more of in the world. And that is why we converged on gold across the world.
+
+**Archie:**
+(0:36:07) Now there are some people who believe that Bitcoin will ultimately be like the global currency. Do you subscribe to that?
+
+**Jesse Myers:**
+(0:36:14) Yes. I think it's a little different from how many Bitcoiners view it. I basically agree with Michael Saylor that Bitcoin becomes the foundation of value and store of value assets. But you can have your dollar on top of that — you can have your other transactional currency that exists alongside that. In the really long arc of history, like hundreds of years from now, I think it just ends up not making sense to have the additional currency on top of Bitcoin, and you end up just using the Lightning Network or whatever other layer 2 scaling for Bitcoin. And that'll be the end state unit of account switch — that'll happen in literally 100-plus years from now. But until then, I think Bitcoin's role is to be the best store of value asset in the world, because it's the only store of value asset that has increasing scarcity of new supply issuance. Literally anything else in the physical world — there's no set schedule that can guarantee a finite amount of anything, and two, increasing scarcity of new supply issuance. Those are both unique to Bitcoin, and I think those are the core reasons why Bitcoin is a better store of value asset than anything in the physical world. Gold, art, real estate — you can make more real estate, you can dredge swamp or clear-cut forests or make sand islands off of Dubai. You can't do that with Bitcoin. And you can mine more gold — you can get it off of asteroids. You can't do that with Bitcoin. And with art, you know, there's a certain number of Picassos in the world, but they could find more — and more importantly, there's always new artists. So there's always more art being created. Bitcoin doesn't have those problems.
+(0:38:52) And I think what will happen — Saylor has gone out and said that 50% of the world's value is just looking for the best store of value asset, which just means: how do I park my value in something and propagate it through time undiluted, such that I can use it in the future? And hopefully it grows in value along the way relative to everything else. And Bitcoin offers that in a way that no other asset can, because of the increasing scarcity of new supply issuance.
+
+**Archie:**
+(0:39:35) I feel like culturally there's a constant tension between people who are proponents of store of value versus means of exchange constantly. I don't really see why that needs to be.
+
+**Jesse Myers:**
+(0:39:50) Yeah. I also think a lot of Bitcoiners spend a lot of time talking about the circular economy and "spend your Bitcoin," and I think it's kind of a moot point for now. I think back to — I guess it's "Origins of Money" by Menger, and spelled out very well in "Shelling Out" by Szabo — that the properties of money are path dependent. You start with: a commodity money starts as a collectible, which means just a small group of hobbyists or a small group values pretty shells, or Pokémon cards, or Bitcoin. And then if that small group reaches a critical mass, other people outside of that collector group start to realise that the commodity they covet has some market value — and therefore I assign value to it. Like I would value a rare Charizard card not because I care about it, but because I know I could sell it, right? And so then you start to go through this transformation: it's no longer a collectible. It starts to become a store of value asset. And if that commodity has the properties that matter for being a good store of value asset, it can grow into that role fully, and it's no longer really a collectible — it's now a store of value asset, treated by the entire society that way. And then once it's a store of value asset, it can become the medium through which you settle trade. If I know that you're going to store your value in Bitcoin and I want to buy something off you, I might offer you Bitcoin, because I know that's what you care about. And then you start to increasingly become the medium of exchange that's preferred because people store their value in that asset already. And then once everything is priced in terms of that asset, it's the unit of account for that civilisation.
+
+**Archie:**
+(0:42:15) Where do you think we are in that process?
+
+**Jesse Myers:**
+(0:42:18) Yeah. I think we are early in the store of value stage. And these steps are not equal. I think the vast majority of the time and value accretion happens during the store of value transition. I think everyone would already recognise Bitcoin as a digital collectible. If you asked anybody on the street, "What is Bitcoin?" they'd say, "Oh, it's beanie babies for internet people, right?" That's already recognition of that role. But where Bitcoin maximalists are at is: I store my value in Bitcoin, and that's because I view it as the best store of value asset in the world. And I believe that's because it is — based on years of research. And increasingly the world is waking up to those economic realities. Bitcoin isn't asking for adoption — it's imposing its reality on the world. You can choose to accept it on its terms and adopt it and benefit from its properties and its supply schedule over time. Or you can resist it and ignore it and not benefit, and lose out because others do benefit. How much of the world has actually adopted Bitcoin as a savings technology? Hardly any. You're looking at maybe a million Bitcoin maximalists at most — people who have over 50% of their savings in Bitcoin.
+
+**Archie:**
+(0:44:04) We don't even have to go to 50%. If we just say, how many people own it? That's borderline 100 million or so. And even if we use that number, that's roughly 1% of the world's population. And that number represents the people who have one to 20% of their value in Bitcoin — not true adoption as a store of value asset. So if that's where we are on the bell curve of technology adoption, that puts us at the very left edge of true adoption of Bitcoin as a store of value asset.
+
+**Jesse Myers:**
+(0:44:49) Yeah, exactly. And that means most of the world is still on its way to this realisation that I think Bitcoiners have already reached — that this is the store of value asset for the 21st century, and you're going to wish you had had a lot more.
+
+**Archie:**
+(0:46:37) That's been the most successful angle I've had with people — male, female, young, and old — that they understand that immediately. You anchor it into something real in their world, which is the cost of living. And it's like, you know what that does to your savings? Yes. Exactly. So here's this thing that they can't print more of, and we're in the early stages of adoption. So what happens when there's more demand for something that you can't produce more of? And you can relate that — I relate it typically to real estate.
+
+**Jesse Myers:**
+(0:47:06) The hard leap though is to go from "yes, Bitcoin is valuable because there's a finite number of them" to "Bitcoin will keep increasing in value because of its properties and because of its supply schedule." And that takes quite a bit of comprehension, and also trend projection and abstract thought.
+
+**Archie:**
+(0:47:31) Someone close to me — bless her — she bought in the last cycle. We both bought together, actually. We started buying around 13,000 or something like that. And the lowest price was 15 and a half on the way down. And she never even raised it with me. I would have thought she would panic — never even raised it. Never thought about it. Got through that bear market, and it's like: that's you know once you're forged in that fire of a bear market, you're hardened, man. You're like, nothing's going to break you after that. And the hardest thing is for people to ride through one bear market. Even a drawdown of 30% will help you prepare. In traditional finance, if there's a day of like a 3% drawdown — one single day — it's chaos. The newspapers are screaming. You look at the boomers checking their portfolios at 3%. God forbid if it should be five or 6%. They'd be calling for Fed intervention. If there was a six or 7% down day, they'd need a comment from the Fed. And they'd name it something — "Black Wednesday."
+
+**Archie:**
+(0:49:00) Have you got an idea or a thesis on why you think we've seen this 50% drawdown?
+
+**Jesse Myers:**
+(0:49:16) Yeah, it's a good question. Increasingly I think we may have been in a bear market for the last 14 months and we didn't even know it.
+
+**Archie:**
+(0:49:25) But technically — okay, you need to explain that, because technically you can't make a new all-time high and be in a bear market. So explain what you mean — I get the feeling you're referring to overall sentiment rather than a technical comment.
+
+**Jesse Myers:**
+(0:49:37) Right. What has probably the biggest influence on my thinking there is if you were to look at the Bitcoin chart priced in gold, or the Bitcoin chart priced in the S&P or some other index — not dollars, relative to another liquidity sink. The Bitcoin priced in gold peak was December 2024. And if I think back to that time, that was peak sentiment. We had the Michael Saylor yacht party, the 100K party at his mansion in Miami. Sentiment was stronger around 100K than it was at 126K. At 126, it felt like, oh, this is warming up. The conviction was: 2025 is going to be a great year, we're going to go to 250. I felt that way. Everybody felt that way, and it was total confidence. And then what we saw over the course of the year was sentiment kind of faded away. We had an all-time high in dollar terms in October, but in gold terms we were already in a bear market — heading down quickly. That's because gold did great over the course of 2025 — an incredible year. And I think possibly it dragged up Bitcoin with it in dollar terms. The historically people would look at a top and say, okay, a year from now we're going to bottom. But if you think about sentiment flow, historically the sentiment has taken 14 months to go from the bull market peak to the bottom. And that would be from December 2024 to nowish, or a month ago when we briefly wicked under $60,000 per coin. It's quite possible that that was it. And everybody's thrown off because we had the all-time high along the way in dollar terms.
+
+**Archie:**
+(0:51:47) We've also had two separate bull markets in two different asset classes — AI probably would have taken a lot of attention, mind share, a huge amount of speculative money. Maybe that was a good thing for Bitcoin to be honest, so that we build a more sustainable — perhaps a more secular bull market rather than something that just goes parabolic for 6 months and then goes bust and comes back in four years. And with Saylor stepping in too and the scale of bid —
+
+**Archie:**
+(0:52:23) So I want to talk about that. But I just want to finish this last point. I posted a chart the other day that showed that we are at the same price point now as we were exactly two years ago. So we've gone up and we've gone down.
+
+**Jesse Myers:**
+(0:52:41) Yeah, it does feel a lot worse. And there was quite a bit of euphoria — thinking back, the first time we broke 100K was a move up from around 65–70K, so that was kind of like a 50% move up, right? Whereas from 100K to 126K is really not that much of a movement. Not enough to get people excited. But we had this AI boom where people were making like 5 to 30x on their money in the space of 6 to 12 months. So that took a lot of the speculative fervor and attention away from Bitcoin. And essentially we just had a consistent layer of adoption that drove the price — the ETFs have been a wild success — and then we've got Saylor in the background iterating through a number of different preferreds. They've moved away from convertible bonds and been iterating these different forms of preferred shares, and I think they've finally really hit the mark with product market fit in a really —
+
+**Archie:**
+(0:53:40) I don't think people understand how wildly successful STRIFE has been. Just yesterday they announced a purchase of more than a billion dollars in a bear market. We're not far off the bottom of the bear market after a 50% drawdown. Billion-dollar buys for Strategy were a thing of bull market exuberance. The idea that they could do this not far off the bottom of a 50% drawdown tells you something profound has changed. I posted that yesterday. Something's clicked.
+
+**Jesse Myers:**
+(0:54:28) Yes. And Bitcoin's never going to be the same.
+
+**Archie:**
+(0:54:29) I fully agree. Can you speak on that? Tell us about that, because this is your business as well.
+
+**Jesse Myers:**
+(0:54:32) Yeah. So last week, STRIFE seemed to finally click for a lot of people. Incredible volumes day after day. New record high of volume traded for STRIFE.
+
+**Archie:**
+(0:54:44) Tell us what STRIFE is first.
+
+**Jesse Myers:**
+(0:54:46) So STRIFE is a preferred equity instrument. It's a very clever wrapper — it's basically a bond, a debt obligation that's wrapped up as an equity. So you can buy it on the market. What it offers to the investor is 11.5% a year, paid out monthly, forever. So you hand over $100 and you're going to get $11.50 a year forever. So it's a perpetuity.
+
+**Archie:**
+(0:55:25) But it's a variable interest rate, right?
+
+**Jesse Myers:**
+(0:55:27) It's variable. They can move it up and down by 25 basis points at a time. But at the moment it's at 11.5%. And I think it's the iPhone moment for Bitcoin treasury companies as a concept — and as the plumbing of hyperbitcoinisation. It's an unparalleled value proposition to fixed income investors. If you're a fixed income investor, you're used to getting bond yields of 4%, maybe 5%. Maybe you go out on the risk curve and get some junk bonds from some sketchy companies paying like 12%. But until a few years ago, the risk-free rate was around zero. And in some parts of the world — Japan in particular, where there's a Bitcoin treasury company called MetaPlanet — they have 50 basis points, half a percent, just recently off zero. So that's very fertile ground for this strategy to work very well. If you're a fixed income investor, what you're focused on is: what kind of income can I get to live my life as a retiree? It's the bond portion of your portfolio, and you're used to getting four or 5% risk-adjusted — mid-single digits no matter how far out on the risk curve you go. And then along comes Michael Saylor who says: I have an extremely over-collateralised balance sheet, and I'm good for paying out 11–12%. The credit rating agencies might not understand it yet, but this is actually very low risk from the perspective of a fixed income investor. But I'm willing to pay 11–12% because I want the dollars so that I can buy Bitcoin, because Saylor's thesis is that Bitcoin will appreciate at 29% a year on average for the next 20 years.
+
+**Archie:**
+(0:57:52) Yeah. So give me your money, I'll give you 11.5%, because we're going to buy something we think is going to grow at 29%. It's the same thing that people do when they take out a mortgage to buy a house, right? You give the bank their interest rate, you collect the upside when your house appreciates. It's exactly the same thing.
+
+**Jesse Myers:**
+(0:58:09) Great example. So that's what Pierre Rochard described as the "speculative attack" for Bitcoin in 2014. The earliest recognition of this dynamic. And then Saylor stumbled into this once MicroStrategy in 2020 put their treasury into Bitcoin. And then they figured out: we can take on debt and buy more Bitcoin, and the Bitcoin value will outpace the debt obligation. It's a winning proposition, and they've been on a 5-year journey to figure out more and more perfect ways of debt financing. And now they've arrived at STRIFE, which — as we've seen from the volume — is an incredible proposition to fixed income investors. And it's great for Strategy because they can raise as much debt capital as they want and buy Bitcoin with it.
+(0:59:24) And what's really interesting about it — part of why things are different now — is that historically Bitcoin hasn't had an answer to the reflexivity of bear markets and bull markets. In a bull market, everybody wants Bitcoin, everybody wants more exposure. Things get out of hand, they go up a lot in value. In a bear market, nobody wants exposure to Bitcoin — it totally dries up. And who's the bidder when nobody's interested in Bitcoin exposure? But now there's a bidder, because Saylor has unshaken conviction. He's just as convinced that Bitcoin is the best asset in the world. He bought — I think just over a billion dollars — throughout last week, but announced it yesterday.
+
+**Archie:**
+(1:00:20) That would have been a massive purchase in the last cycle for Strategy. And now he's doing that in a bear market, funded mostly by selling these STRIFE debt obligations. So people — investors, institutions, individuals — might not be excited about increasing their Bitcoin exposure right now, but fixed income investors always want 11.5%.
+
+**Jesse Myers:**
+(1:00:48) Yeah. So they're willing to hand over capital, and Saylor is unbothered, still high conviction, and knows that now is a better time to buy Bitcoin than at a local peak. So he's taking that capital and buying Bitcoin in the bear market, helping to create the bottom. Quite possibly, right? Like if in hindsight a month ago was the bottom, it will be in no small part because of Saylor and Strategy and the amount of bid they've been providing to the market, and also the psychological impact that has on everybody else. They bought 22,000 Bitcoin last week. It's hard to see that and not be like, this is going to make the price go up.
+
+**Archie:**
+(1:01:48) Wasn't their total enterprise value about a billion dollars before they started adopting Bitcoin? Yes. And now it breached 100 billion at one point. What is it now? 60-ish.
+
+**Jesse Myers:**
+(1:01:59) Yeah, 60-ish. That's right. 60x in five years — the result of a Bitcoin treasury strategy.
+
+**Archie:**
+(1:02:09) And I think the other thing that's quite fortuitous is they've been iterating these preferreds for a while, and it's quite fortuitous that they've come across this formulation for STRIFE that's really hit the sweet spot for the market in this part of the cycle. Because what they get to do now is they get to buy a whole bunch of Bitcoin at the lows, and then they compound the benefits as the price rises. So they don't have to buy at the top, ride through a cycle, and wait another five years before you see real significant gains — they're going to see that almost immediately. So that's going to mitigate some of the risk that investors might have about whether the strategy is sound.
+
+**Jesse Myers:**
+(1:03:05) Yep. And that kind of segues into what they've landed on — the amplified Bitcoin model. This securitised equity exposure that is MicroStrategy as a stock. When you buy a share of Strategy, you own a slice of their Bitcoin balance sheet, but you also own a slice of the future — how much Bitcoin per share will they be able to add by selling STRIFE and using those proceeds to buy Bitcoin, which increases the amount of Bitcoin per share. That's the value proposition of an amplified Bitcoin strategy. And I think Bitcoiners in general are still amazing at how much Saylor's buying, but I still think people are undervaluing how huge this is for Bitcoin.
+
+**Archie:**
+(1:04:06) Okay, this brings us to — I've been an admirer of your work for at least five years. We've mentioned the article — superb article, I recommend everybody go read it. But another piece of work you've done is the analysis of mapping out what the global asset values are like and the different classes, and trying to put a number on what the total addressable market for Bitcoin is. So we're talking about Saylor's STRIFE hitting the market sweet spot — and in theory it's infinitely scalable, right? But where is the demand coming from in your analysis? Can you first of all just lay out the analysis you've done, and how the global asset registry breaks down by classification and value?
+
+**Jesse Myers:**
+(1:05:01) Yeah. So "Bitcoin's Full Potential Valuation" is the piece I put out a few years ago, and then Saylor adopted it as the basis of his valuation model. The idea there was: I come from management consulting — when you start a project, a common exercise is to ask, "What is the addressable market here and how much of it can we capture?" In the case of Bitcoin, this analysis didn't exist. So I thought, okay, I'll take a crack at this. How big is the market and how much can Bitcoin take? And I quickly realised there just wasn't a singular view out there of how much value is in the world. So I had to build that picture. The reason it didn't exist is it's kind of an impossible task — impossible to get precisely right, but you can get it roughly right. You can triangulate, take various estimates and average them out, and come to a picture that's reasonable.
+(1:06:31) And when I did that, the number now is a thousand trillion dollars of value in the world. And that's split between the various buckets: real estate, equities, money itself, bonds and fixed income, and then art, gold, and Bitcoin. And when you take stock of Bitcoin's total valuation in this landscape, it's still 0.2% of global asset value. I think that was a big part of why that piece became quite popular — nobody had really put a number to just how small Bitcoin is relative to everything else. We didn't have a denominator, and that piece kind of created a denominator. And think about how Bitcoin is digital value and everything else is analog value. Everything else is traditional capital, physical value of some kind. In an increasingly digital world, how much value will digital value end up taking? What market share will it end up winning?
+(1:07:45) In that original piece, I went through each of the buckets and said, well, I think Bitcoin will take this percentage from bonds, and so on. And I arrived at Bitcoin eating 20% — full potential valuation of Bitcoin becoming 20% of global asset value at some point.
+
+**Archie:**
+(1:08:05) Which would from today mean 100x relative growth relative to everything else. So just break that down, because people heard the word "relative" — explain what that actually means in numbers. So using your house example: if you bought a house today for a million dollars and the same kind of asset inflation occurs over the next 20 years, and 20 years from now that house is $10 million — but it's still the same purchasing power as it was today. If all the other houses are $10 million, your house hasn't really increased in value. But if your house outperforms the market and it's worth $12.5 million, that's the profit you'll effectively have made, right?
+
+**Jesse Myers:**
+(1:09:01) Yeah, exactly. In this scenario, if you have a house that goes from 1 million to 10 million, that's treading water. But 100x on top of 10 million would be 100x relative performance. And that's what I think Bitcoin will do over the coming decades. And so your analysis right now puts a particular figure on it. But by the time Bitcoin fulfils its potential — whether you put it at 5% or 2% or 1% — that 100 trillion segment of the market might suddenly be worth 500 trillion in nominal terms by the time Bitcoin reaches 20%.
+
+**Archie:**
+(1:09:47) In nominal terms, exactly. Because a lot of people when they think about Bitcoin, they think: what could the price be, in nominal terms.
+
+**Jesse Myers:**
+(1:09:55) And cleverly that's what Saylor — he took my model, said some very nice things to me about it, started using it in his presentations. And he put out a Bitcoin valuation model setting a point in time in the future using the same framework of mine. He arrived at a number of: 20 years from now, he thinks Bitcoin will be worth $13 million per Bitcoin. Importantly, in that scenario all assets have 4x'd in nominal value — so there's like a 4x inflation built in. That would mean 20 years from now Bitcoin being worth 7% of the global asset landscape. And he thinks the end state for Bitcoin is as much as 50% of global asset value. I put it at 20% — I was frankly being a little conservative. He puts it as much as 50%. Which would mean that 50% of the world's asset value is just looking for the best store of value asset. And Bitcoin is — to use the old phrase — an infinitely expandable blueberry that can satisfy all of that store of value demand, because it is a perfection of store of value fidelity through time, because there's no supply growth.
+
+**Archie:**
+(1:11:24) So we've got this preferred instrument structure — which part of the asset, which asset class is that targeting?
+
+**Jesse Myers:**
+(1:11:33) So this is the thing that I think people haven't wrapped their heads around in general about Bitcoin treasury companies yet. If you look at that chart of where all the value is, the big buckets that stand out: real estate's big, bonds is really big — 300-plus trillion — money is big, 130 trillion-plus, and then equities at 130 trillion or so. What a Bitcoin treasury company does first is it represents a securitised Bitcoin exposure — it's an equity that is a balance sheet built on Bitcoin, and that balance sheet in theory will grow at the value of Bitcoin's performance over time. If that's 29% a year, the value of that balance sheet grows at 29% a year plus whatever growth in Bitcoin per share that company is able to achieve. That's pretty incredible compared to other stocks — in the UK over the last decade or two, the average performance on the FTSE is 6% a year. So if that's what you're able to achieve, 29% a year compared to that is very enticing to equity investors. So you might get an increasing amount of capital allocating from traditional equities to Bitcoin balance sheets, Bitcoin treasury companies.
+(1:13:13) That's the first step of a Bitcoin treasury company. And now what Saylor has perfected — and this is the reason he was really using my chart all along — it's a map for where are the pockets of capital that you can tap into if you can offer a superior product to that capital. The bond market — that's fixed income. They're used to getting four or five percent. And now Saylor's reached this end state with the preferred equity instruments offering 11.5%. That's going to win market share. That's a better value proposition to a fixed income investor than what they can get elsewhere. So the fixed income total size was 370 trillion at this point.
+
+**Archie:**
+(1:13:56) Gosh.
+
+**Jesse Myers:**
+(1:13:58) And just attracting 1% of that in the next five years is phenomenal. And this is how Saylor thinks. I was at a dinner at Strategy World where he was doing the quick math in his head — the addressable market is 100-something trillion here, 300 trillion there. He's thinking about that chart. And he knows he has a better product than anything else out there for fixed income investors. So what's to stop them from getting 1% or 5% of the capital there, ingesting it into STRIFE, and using that capital to buy Bitcoin? If it's 1%, you're talking about $3 trillion of capital that Saylor is going to use over the next decade or two to buy Bitcoin. The current market cap of Bitcoin is 1.4 trillion, and we're talking about 3 trillion from just 1% over 5 years. And there's a multiplier to that.
+
+**Archie:**
+(1:15:07) Do you know what the multiplier is, Jesse?
+
+**Jesse Myers:**
+(1:15:09) Yeah, it's a subject to debate. I think it's sensible to be in the 1 to 4x sort of range. If you're buying at peak enthusiasm when there are the fewest sellers, an incremental dollar will drive up the price the most. And then it all averages out over the course of four years to something like 1 to 4x.
+
+**Archie:**
+(1:15:47) This is one of the things I don't fully understand about various Bitcoin models that are around. They're really good, they're really intelligent models, real science behind analysing the data to project forward. But Bitcoin is digital — there are no barriers to capital allocation. Quite literally, if someone wants to do it, they can just do it, right? If Trump really does wake up tomorrow and says, "Okay, we're doing it — let's get a hundred billion dollars of Bitcoin and we want that done by the end of the year" — they could do that. And then suddenly that triggers the fixed income market because they say, if the US government is buying 100 billion, I should at least have like half a point in there or something. So things can move very quickly.
+
+**Jesse Myers:**
+(1:17:20) When we're talking about MicroStrategy, we're talking about one company. One company.
+
+**Archie:**
+(1:17:23) Yeah. I mean, the Ford Motor Company — I think the last time I looked at it, they had almost as much of their market cap in cash. They had tens of billions in cash, their market cap was barely 40 billion, and it's gone south since. So they may actually be at the point where they've got just as much or more cash than their market cap.
+
+**Jesse Myers:**
+(1:17:46) Yeah. And that's a problem that Saylor solved for MicroStrategy five years ago by figuring out: I'm sitting on a melting ice cube by holding dollars. True inflation is more like seven or 8%, not the 2–3% that we're told it is. I posted this in November 2024 — MicroStrategy had just broken the $50 billion market cap and had become worth more than Ford Motor Company. Ford had lost at that point 60% of its market cap since 2022 and held 26 billion in cash — about 65% of its market cap. In a funny way, if you're holding 65% of your market cap in cash, you're a dollar treasury company, you know? With a small operating business relative to your total value.
+
+**Archie:**
+(1:18:54) That's a great way to put it. And now Ford is basically doing nothing — bouncing off a low in a booming stock market. They're in the position that Saylor was in when his company had 500 million enterprise value and 1 billion in cash. And they really have no plan. Does anybody really think Ford is going to overtake Tesla in electric vehicles, where most of the profit's going to be in the future? And they're running the risk of becoming the next Nokia. Or Blockbuster.
+
+**Jesse Myers:**
+(1:20:26) Yeah. Nokia was a really beloved brand. People really liked Nokia. And why aren't they still making smartphones that compete with Apple? They just stagnated. They didn't innovate. And Ford Motor Company — they're making cars that don't make them any money. The enterprise value is 60–65% cash. But they have a board of people who are just very conservative. Not quite yuppies, but I'm sure they're the yuppie equivalents of boomers — the people who were yuppies in the '80s are now sitting on the board of Ford. And so they just can't bring themselves to acknowledge they need something like Bitcoin yet. The psychology there on a committee is "don't screw it up." Versus Saylor's position — he had enough voting power that he had singular control of what they were going to do. All it took was him understanding Bitcoin and having conviction, then he could make the decision on his own. And that's what Bitcoin adoption has been to date — because it's still hard to understand Bitcoin and have enough conviction to buck the trend of what you're told you should do, which is a 60/40 portfolio and trust the dollar. So Bitcoin adoption to date has been individuals who were able to be free thinkers and come to the conclusion on their own and allocate their capital because they had sole discretion of doing so. And that's why institutions are slow to adopt Bitcoin — people assume that institutions are the smartest things out there, but they're committees, inherently committees, and there's career risk in being wrong.
+
+**Archie:**
+(1:22:51) Career risk, the cultural pressure to conform. And that's why Ford is not going to be able to act. I mean, do they really — are they just sitting there going, "I don't want to mess this up, I've got another five years to retirement"? And if I mess this one up, I might get kicked off another board. These directors sit on multiple boards and it becomes a profession almost at a certain stage of someone's career. But that's why it's always the outsiders who are first.
+
+**Jesse Myers:**
+(1:23:55) Yes. They're not invested in the system and so they're looking for a solution to a problem. Or they're, you know, buying drugs off Silk Road — that sort of renegade mentality. But one of the things that really surprises me is we see it in the Bitcoin space — there's always that one person inside a massive bank, and we had Greg Foss, James Lavish — guys from traditional finance who got it early on, but couldn't do anything internally to push the bank. There's always that one person in the corporate world who's a Bitcoiner but knows they can't mention it, can't talk about it. And that's part of what Bitcoin treasury companies help change.
+
+**Archie:**
+(1:24:53) Tell us about that, because we haven't mentioned it yet but you're involved in a British Bitcoin treasury company. Tell us about that.
+
+**Jesse Myers:**
+(1:25:00) Yeah. So the thesis there is: what works for MicroStrategy in the US is true of any company. It's true for any individual, right? If Bitcoin is the best-performing asset into the future, you want to hold that. And if you think about a company balance sheet, the default is to hold zero Bitcoin and instead have your treasury in pounds or dollars. A Bitcoin treasury company is saying, "Nope, this is the best-performing asset — we want to accumulate as much of that as possible." And that's true in every capital market in the world. What Strategy has pioneered is a model for a particular kind of Bitcoin treasury company — this amplified Bitcoin model. How do you increase Bitcoin per share over time by using capital market tools to fundraise equity capital or debt market capital? That's to say, selling common stock like MSTR, or raising debt capital like what STRIFE is doing for Strategy. And hasn't Saylor now cracked the code such that everyone should just be issuing their version of STRIFE?
+(1:26:36) My thesis personally is this is going to happen in every capital market in the world. And it's going to be winner-take-most for this particular strategy in every capital market. In the US, where are you going to get your 11.5%? Who are you going to trust to give you that if you're the fixed income investor handing over your dollars in exchange for a promise of 11.5% forever? You're going to go to Strategy because they are the biggest, most creditworthy balance sheet out there. But in the UK, it's a different regulatory regime — you're under the FCA. And that debt market: you could go buy STRIFE, but then you have to pay withholding tax on it, because those are the rules. For a UK-based company, that's not the case. So Smarter Web Company is listed on the London Stock Exchange. We have 2,700 Bitcoin roughly, started 10 months ago. We're the largest Bitcoin treasury company in the UK, definitely the most liquid. And we're sort of following the MicroStrategy playbook — trying to be Strategy for the UK. And that means kind of following the MetaPlanet pathway that they've blazed in Japan, doing the same sort of local play. They are going to be MicroStrategy for Japan. And we're well on our way, and Saylor has created this perfect blueprint for how to do it.
+(1:28:52) And then the question is, how much capital in the UK will be interested in these kinds of products? It's the second most important financial centre in the world — London — and there's a lot of capital here, especially in the equity market and the money market. This is the international banking hub for most of the world. So 10% of the world's money is in the UK, and maybe it's parked in a bank or a money market fund getting a few percent. That's what STRIFE speaks to — fixed income investors and also money holders. Corporate treasuries, people with money in a bank — you could be putting that money to work growing at 11.5%.
+
+**Archie:**
+(1:30:02) Aren't interest rates here lower than the States?
+
+**Jesse Myers:**
+(1:30:05) Slightly.
+
+**Archie:**
+(1:30:06) Slightly. So you might not have to pay as much to get the benefit of the same Bitcoin, right?
+
+**Jesse Myers:**
+(1:30:10) Yeah, it's an open question. Let's see what the market will bear.
+
+**Archie:**
+(1:30:14) Is that on the agenda for you guys?
+
+**Jesse Myers:**
+(1:30:17) Yeah, I think that's the goal for any Bitcoin treasury company — to get to that stage of maturity where you have the liquidity with your stock and the scale of the shareholder community.
+
+**Archie:**
+(1:30:35) Tell us why the liquidity of the underlying stock is important for you to then be able to issue preferred.
+
+**Jesse Myers:**
+(1:30:44) Yeah, there are a few inputs that are necessary. You need to have a sufficient scale with your balance sheet such that you can go through the process — pay the fees to list an IPO. STRIFE listed as an IPO in the US, they all have their own tickers, all the preferreds. And that's a multi-million dollar process. And then you have to seed that market — have enough investors willing to get that market to scale, get enough trading volume such that you can issue more, and there's enough demand for that product that it can trade at a premium, such that you can then issue more and raise capital through that. That's what Strategy has now gotten to the place to do. It took six months for them to introduce this product, IPO it, get enough liquidity that it now trades consistently at a premium. You need enough scale, enough demand from the market, enough confidence in the company. And then the other side is the stock needs to be valued and have liquidity such that you can run both sides of the strategy — raise debt capital and also raise equity capital.
+
+**Archie:**
+(1:32:27) Because you pay your dividends with equity, right? Sales of equity?
+
+**Jesse Myers:**
+(1:32:31) You can pay your dividends with any source of capital.
+
+**Archie:**
+(1:32:35) Oh — so you're not obligated to spend all the funds you raise from STRIFE just on Bitcoin?
+
+**Jesse Myers:**
+(1:32:44) Correct. Yeah, it's working capital.
+
+**Archie:**
+(1:32:46) I got you. All right. So it's financial engineering. And that can scale infinitely without even diluting.
+
+**Jesse Myers:**
+(1:32:54) Yes. What they've been doing is selling their common stock roughly 2:1 with STRIFE. Last week was different — last week was mostly STRIFE. And if you sell them at that ratio to infinity, you end up at a 1.5x amplification ratio, which is really a leverage ratio — 50% leverage.
+
+**Archie:**
+(1:33:28) Why would you sell your equity if you can just raise preferreds — raise capital through preferred?
+
+**Jesse Myers:**
+(1:33:36) Yeah, it's a good question. I think they're just trying to scale. The larger scale you are, the more creditworthy you are. They're also trying to shrink the size of their existing convertible notes as a percentage of their balance sheet. And you know, this is the long road to reaching that 50% amplification ratio. They could just sell STRIFE and get there faster, but this way they're buying more Bitcoin and scaling their balance sheet even more, and growing their share count along the way.
+
+**Archie:**
+(1:34:16) Where do you think you guys are along the path towards issuing preferred?
+
+**Jesse Myers:**
+(1:34:24) Good question. We hope to get to that place, and we think we're at the size where we could do that now — if it's right-sized. And so yeah, we're excited about that possibility.
+
+**Archie:**
+(1:34:45) Okay, we'll leave that there — I know there could be some market-sensitive bits of that conversation. Tell me about the conversations you've been having with various institutions in the UK. We seem to be so much more conservative. London has such a historic pedigree of being the centre of global finance, global trade, and yet it feels like a very suffocating environment when it comes to Bitcoin legislation, adoption, and institutional receptivity to new ideas. So tell me about your experience. You're an American, right?
+
+**Jesse Myers:**
+(1:35:28) Oh, yeah.
+
+**Archie:**
+(1:35:29) As an American in London, working at a British Bitcoin treasury company —
+
+**Jesse Myers:**
+(1:35:35) Yeah. Well, I think the UK is behind on Bitcoin. We were talking before — how many years behind? I don't know, two, four, something like that.
+
+**Archie:**
+(1:35:46) I would say at least a cycle behind.
+
+**Jesse Myers:**
+(1:35:49) Yeah, yeah, that feels right. When you look at what the United States has actually done — they've got the White House behind it, legislation being pushed, they have a national strategy, they have a crypto czar, they've got ETFs from the largest and second largest fund managers approved, Morgan Stanley about to issue its own Bitcoin ETF. You've got Strategy at a 60 billion valuation. And you've got all of these things happening there, none of which are happening here really. Like your company is probably the largest Bitcoin treasury company, there's B Huddle as well, but these are all really like — they don't come close to even the fourth or fifth-sized Bitcoin treasury company in the United States that most people listening to this have probably never even heard of. So we are a long way behind, probably a cycle behind.
+
+**Archie:**
+(1:37:00) I would say more.
+
+**Jesse Myers:**
+(1:37:01) Maybe more. And I think part of that is something about UK culture. Your press is particularly unkind to Bitcoin —
+
+**Archie:**
+(1:37:14) And they revel in it too. They really revel in it. I think about what we spoke about earlier — elites and their disposition to conform to groupthink. Here there's really only one path. The elite culture is Oxbridge, right? At least in the United States, you have more than a dozen, probably 20–30 elite universities in more than a dozen states. Here we've got two. And that elite pathway is very narrow, so there's not much room for diversity of thinking. And it's been very interesting then to be advocating for Bitcoin in the finance sector in the UK and having conversations with institutions, banks, brokers, service providers that a public company interfaces with. And everybody's curious and wrapping their heads around: why is this happening? What do they see? Are they crazy? Are they right? And of course Bitcoin's volatility makes it seem that you're one or the other at any given time. When Bitcoin's down it seems like they're wrong. When Bitcoin is trending up, it seems like maybe they're on to something. And the press kind of reflects that as well in their coverage of Smarter Web. So yeah, it's a long-term educational process.
+
+**Jesse Myers:**
+(1:39:50) Well, the proof is in the pudding at the end of the day. The only thing that convinces the yuppie elite is results. And that track record grows over time. And part of that's the Lindy effect — the longer something has been around, the more trustworthy it is, the more likely it's going to continue to be around. And Bitcoin benefits from that. We've really, especially in the US, turned a corner where it's not going away. And people on Wall Street understand that at this point. And I think the UK is just starting to turn that corner. I have a lot of conversations with bankers, and there's curiosity that borders on acceptance — "okay, I guess this is a thing." But they don't — they haven't considered Austrian economics, they come from that same world that I came from where this is alien to them and they don't understand why it makes sense because they haven't been steeped in it.
+
+**Archie:**
+(1:41:03) That's really interesting, because I was talking to the guys from Strive last night — I interviewed Matt Cole and Jeff Walton. And I asked them, "How do you go about — what's the nature of the conversation you're having with potential investors?" And they said they're fixed income guys. "That's what we're talking to them about."
+
+**Jesse Myers:**
+(1:41:45) Because they've got SEDA. Yeah. And that's doing really well. Like those people aren't even Bitcoin guys, but their interest might be piqued afterwards. And that's what's so exciting to me about Bitcoin treasury companies globally — they are the plumbing of hyperbitcoinisation. What does that really mean? Strategy is a capital pump that sucks capital out of money market and out of the fixed income market and buys Bitcoin with it. It's able to do that because it's stuck these pipes into those buckets and said, "Here's 11.5% — it's better than anything you're going to get in your bucket. Come with me." Give me that capital and I'm going to go buy Bitcoin with it.
+
+**Archie:**
+(1:42:32) It's the Bitcoin milkshake theory, right?
+
+**Jesse Myers:**
+(1:42:34) Yeah, right. And that's going to happen everywhere in every capital market. I have a graphic of this — Strategy as a capital pump. And that's why Saylor uses that chart — it's a map to how much capital is in these different buckets. He doesn't think of Strategy as a capital pump. He thinks of it as a refinery to refine capital into Bitcoin. But I like the visual of a pump sucking capital out of these buckets. And inherent in that mental model is: it doesn't matter if that capital is bullish on Bitcoin. All they need is to be interested in 11.5%. And they will hand over their dollars or pounds to an entity that is bullish on Bitcoin and will use that capital to buy more Bitcoin.
+
+**Archie:**
+(1:43:50) Has MetaPlanet issued their preferreds yet?
+
+**Jesse Myers:**
+(1:43:55) They have done a pre-IPO round, and they have two preferred equity instruments lined up. They have not yet listed them. There may be some delay there — I would have thought they would have listed them by now. So who knows what's going on on that front. Hopefully they're able to. I think in the long arc of things, some version of it is inevitable. But who knows what the holdup is.
+
+**Archie:**
+(1:44:26) Yeah. I think they're so beautifully positioned. Because I didn't understand what they were doing when they listed. I'm like, is this going to be like a pump and dump thing? They're a hotel company, what the heck? And I talked to Dylan and he was super excited about it. It took me six months to really be like, "Oh, I get it." A 90-minute conversation with him on the phone where I was on vacation and it turned into 90 minutes telling me about the strategy and how awesome the mechanics are for them to run this playbook. And that was about a year ago — that's when it really clicked for me: this is going to happen in every capital market in the world. And the winner-take-most in every capital market will end up becoming the most valuable company in that capital market.
+
+**Jesse Myers:**
+(1:45:22) And that's part of why there's going to be a homegrown champion for this model in every capital market in the world. If you were to list out what's the best capital market in the world to do this — it's the US. What's the second best? It's Japan because of their rate environment. And what's the third best? I think it's the UK because of its history, its positioning, and the amount of capital — by my math, 9% of the world's equity value is in the UK, 10% of the world's money is in the UK. It's the third best market to run this playbook in.
+
+**Archie:**
+(1:46:11) Japan — they've got a whole generation of people who've probably never received any kind of yield for their money. The going rate for fixed income there is half a percent.
+
+**Jesse Myers:**
+(1:46:26) Wow. And so if you're MetaPlanet, you know, what they're offering is I think 5% roughly.
+
+**Archie:**
+(1:46:33) You don't even have to do that. You could give them two and a half percent and they'll take it, surely.
+
+**Jesse Myers:**
+(1:46:38) So that's a 10x better income than you can get with other fixed income products. That's going to win market share. That's part of why it hasn't been approved yet — this will blow the lid off of what's happening in Japan. They're waiting for market approval.
+
+**Archie:**
+(1:46:56) I think I saw something briefly that said it takes them up to 6 months to get that. That was maybe around November. So we're not too far away — we're around the five-month mark. If they get that approved —
+
+**Jesse Myers:**
+(1:47:17) Yeah, yeah. They could be doing what Saylor is doing. And Strategy has 750,000 Bitcoin. Right now MetaPlanet is pushing 40,000 Bitcoin. Smarter Web is about 2,700 Bitcoin. So different scales, different stage of the life cycle of this playbook. Part of why I'm so bullish on Smarter Web is we have a lot more growth potential. If we keep following the success of MetaPlanet —
+
+**Archie:**
+(1:47:57) So the limiting factor for you guys is the liquidity in your shares, which underwrites the ability to raise capital and pay dividends?
+
+**Jesse Myers:**
+(1:48:10) That's one of the limiting factors. The other is demand for the common stock. And 10 months ago this was a very hot topic trend — there was tons of demand. In the last six to eight months the tide has gone out completely for all things Bitcoin.
+
+**Archie:**
+(1:48:35) I was thinking about that. I know a lot of people who are bearish on Bitcoin treasury companies. Some people call them "Ponzi adjacent," which I think is not only wrong, but the word "adjacent" is doing a lot of heavy lifting in that. Because it's not a Ponzi at all — it's nothing like a Ponzi. Ponzis don't have underlying assets. At least here it's more like a mortgage. You're taking the money, you're buying an underlying asset. And by and large, many crypto people are so unfamiliar with equity markets or public companies. A balance sheet is foreign to most crypto people. But here's a really interesting point — a lot of people feel like they've been burnt because they bought at high MNAVs and we've seen that compression. Tell us about why you think those MNAVs expanded the way they did and why they've come down.
+
+**Jesse Myers:**
+(1:49:50) My mental model for valuing a Bitcoin treasury company is: obviously you have to project forward how much of an increase in Bitcoin per share that company will be able to achieve over your time horizon — year, five years, ten years, whatever you're looking at. And you can only base that assumption on recent historical performance in that metric. And in Q2 last year, Bitcoin treasury companies were able to grow Bitcoin per share at an astonishing rate — like a 50% a month kind of rate. So what's the valuation of that? If that continues, you're going to grow your Bitcoin ownership at dizzying rates. Even if you drop it to 10% a month, it's still outrageous. That's worth paying a huge premium for. And I think that's what was happening. These things are reflexive and recursive — that model works best when the premium is high, and it works so well that you can justify paying a higher premium. So it feeds on itself.
+(1:51:08) The reverse is true also. When the tide goes out, it gets so much harder to deliver that kind of growth in Bitcoin per share. They become worth less if you use that same valuation approach. The tide went out. Bitcoin treasury companies haven't been around that long, but Strategy has been doing this for five years. They went through a bear market and then a whole bull market cycle in 2022. People forget that in 2022, Strategy's MNAV was 0.7. And then in 2024, their MNAV was 4x. So the MNAV is sentiment for Bitcoin — and specifically for Bitcoin treasury companies, which are vehicles to grow your Bitcoin ownership over time. Bitcoin treasury company sentiment is downstream of Bitcoin enthusiasm. In a bear market, everybody's bearish about the future for Bitcoin and how much exposure they want. In a bull market, everybody wants more Bitcoin exposure, you're willing to pay a higher premium. And I think that reality remains.
+(1:52:33) Bitcoin treasury company MNAVs are downstream of Bitcoin enthusiasm. Right now and recently, we've been at a relative absence of enthusiasm for Bitcoin. And in the next bull market, that will flip again. I don't think we'll get the same level of MNAV expansion because people got burned. But I think we will see expansion of MNAVs. And then that makes a Bitcoin treasury company more successful at running its playbook and delivering growth in Bitcoin per share. So that same feedback loop will happen again if MNAVs do expand. I take the zoomed-out view — I've lived through several cycles of Bitcoin. I've seen the absolute lack of optimism that occurs at a bottom, and then the dizzying optimism that occurs at a top. And I think I know roughly where we're at in that sentiment pendulum.
+
+**Archie:**
+(1:53:42) You mentioned earlier that you thought we'd probably been in a 14-month bear market. How do you see the sentiment right now in terms of where we are?
+
+**Jesse Myers:**
+(1:53:53) Yeah. I think we're at that place where if you were to ask the market, "Do you think Bitcoin will be at 150K within a year?" very few people would say yes. And if you asked the same group, "Do you think Bitcoin will reach 50,000 in the next year?" probably the majority would say something like that. And that's just always what happens at the bottom. And part of this is the traders help create the bottom — when the consensus becomes bearish, they start paying to short, the funding rates become negative, and that creates the opposite dynamics from what they want. It becomes easy to squeeze them and push the price up and punish the offside traders. So the market tends to go in the opposite direction of what the consensus is in the funding market. And we're there now — funding has been negative in the last few weeks in particular. The consensus is we're going lower, and that's when you squeeze higher. And now we're mid-70s. We'll see — maybe we stop here, pause for a while and then resume. Maybe we go lower. That's possible too. But my pattern recognition is: this is how it felt in early 2019, this is how it felt in 2022. And if that's the case — if we're at or near a bottom — I would put it at 55% likelihood that we've already bottomed. After every prior major bear market bottom, there's been a multi-year bull market that follows. And that's particularly exciting to me right now because the infrastructure is now in place from the Bitcoin treasury company perspective to add fuel to that bull market — to really run it up. Because you're going to have Strategy buying billions of dollars a week of Bitcoin. Plus whatever the ETFs do.
+
+**Archie:**
+(1:56:17) Well, ETFs last week bought half the amount Saylor did. I think Saylor did 22,000 Bitcoin — about 1.4 billion. And ETFs bought around 700 million. So he bought twice as much as all the ETFs combined.
+
+**Jesse Myers:**
+(1:56:36) In a bear market. And mind you, mining — new supply creation — is 450 Bitcoin per day right now. So we're an order of magnitude more from just Saylor and IBIT. On a really good day, BlackRock was taking in a billion. It's amazing. So it's possible that we've set up a floor here, in large part because of the bid from Saylor, which is coming from the debt market. This is how those instruments matter so much for Bitcoin going forward — you're going to have the bid not just from enthusiastic people wanting Bitcoin exposure, but from the debt market who just wants the yield, but Saylor wants the Bitcoin.
+
+**Archie:**
+(1:57:25) He wants it all.
+
+**Jesse Myers:**
+(1:57:28) And it works out. So it puts me in a place where I can't help but look at the future and say: Strategy running the Bitcoin treasury company amplified play in the US, MetaPlanet doing it in Japan, Smarter Web in a great position to keep growing and hopefully grow into that role in the UK. And every capital market in the world is going to have its answer to that.
+
+**Archie:**
+(1:58:01) I can envisage Strategy doing a billion a day in better times. Right now there's not much interest in Bitcoin, and the ETFs on a good day were doing a billion combined in a week. Saylor in a bear market is doing double what they're doing. So let's just say he matches them — that's two and a half billion every week he's going to be buying through the bull market. And if you're talking about 1% of the fixed income market, call it five trillion — over five years, that's a trillion dollars a year, which averages out to a significant daily bid transforming fixed income capital, fiat capital, into Bitcoin bid. That's the scale of what the world's leading Bitcoin treasury company is going to be bringing to the market.
+
+**Jesse Myers:**
+(1:59:51) So this analysis I landed on: all the other Bitcoin treasury companies in the world combined could do 25% on top of Strategy's 25%. So then you're talking about half of all the Bitcoin in the world being owned by these entities that have been the instruments of hyperbitcoinisation — because they are how the TradFi capital flows into Bitcoin. It's not osmotic, it's through these capital pumps. So what have we got at that point when we have maybe a dozen or so Bitcoin treasury companies that own 50% of the supply?
+
+**Archie:**
+(2:02:04) Now, is that a capitalisation of the new financial institutions? Is that what they've essentially become then? Because they've got the base layer of capital. What do they then go on to do?
+
+**Jesse Myers:**
+(2:02:07) Yeah. I think they end up becoming — Saylor doesn't like to describe it, he avoids describing it as a bank. But they become the best-capitalised entities in the world, and they are in the business of lending out capital and getting a return on it in Bitcoin terms. Or doing whatever they can to increase Bitcoin ownership for their shareholders. That's their business. And that could end up looking like lending out Bitcoin in order to get more Bitcoin back.
+
+**Archie:**
+(2:02:28) There is a problem with Bitcoin lending — just occurred to me now. No maxi wants to give up custody of his Bitcoin. But then how do you put Bitcoin up as collateral and have the lender feel like they've got a hold on this? Because both parties can't have custody at the same time. You either do or you don't. So how do we solve that?
+
+**Jesse Myers:**
+(2:03:03) I don't know that you fully do. As big a bull as I am on Bitcoin treasury companies — not all of them, but I think the winners in each market will be very successful — I also think there's a place for cold storage Bitcoin for everybody. Because I have cold storage Bitcoin — the majority of my Bitcoin is in cold storage. And I'm an advocate of that being your absolute primary goal when it comes to Bitcoin. I asked this question of Saylor on a podcast, because I was 100% cold storage Bitcoin, and then I'm seeing what Strategy is doing and it's enticing. He cut right through it and said: for a Bitcoin maximalist, cold storage Bitcoin is the risk-free rate. But there's still a place for risk capital in a portfolio. And that made perfect sense to me — it's up to the individual to decide what percentage of their portfolio they're comfortable with as risk capital.
+
+**Archie:**
+(2:04:13) I think that's very sensible. And one of the things I really don't like seeing is that Bitcoin maxis tend to box themselves out of other opportunities by saying "you're playing fiat games." It's absolute rubbish, right? You can't say you're in favour of free markets and Austrian economics and then shun opportunities to participate in free markets through equity ownership and other securities. Depending on your circumstances and risk appetite, there are definitely other investment opportunities — many of them actually potentially offer better returns than Bitcoin. AI, for example, potentially offers more return. You can't deny that. I don't go there because I'm building my business and I don't want to waste my time on that. But Stack Hodler's thesis is: my cold storage stack stays there, but we're in a gold rush with AI and I want to participate in that as well, and I think the returns in that space are going to far outsize anything Bitcoin will offer as a maturing asset class. I think he's absolutely right. He got a lot of flak for that. And I'm just like — not everything else is a shitcoin. Like there is such a thing as investing in businesses that are growing.
+
+**Jesse Myers:**
+(2:07:11) And it's a high bar because, call it 29% a year, it's pretty damn hard to beat. But it's possible. And that's part of why I love the concept of a Bitcoin treasury company. Depending on your entry point in terms of MNAV, in theory you can grow your Bitcoin per share by owning a Bitcoin treasury company. If you're able to buy at a 1x MNAV or below, you can in theory outperform Bitcoin, because that's the rising tide and then performance on top of that through execution of the strategy can deliver more Bitcoin ownership. So in my view, that's the kind of risk capital that I'm excited about right now.
+
+**Archie:**
+(2:08:41) And how blessed are we to have Bitcoin as an option offering such returns still, right? Because in a generation that's going to be over — it's just going to be store of value. We're not going to get these outsized returns for the next 15, 20 years. Sure. But then after that it's gone. It'll just be a mature asset class.
+
+**Jesse Myers:**
+(2:09:43) Well, it will diminish. In Saylor's model, the $13 million per coin in 20 years would be 7% of global asset value at that point in time. So he's still got upside. And he expects that to go to 50%. So that's a 7x relative growth still for Bitcoin relative to everything else. Who knows how long that takes — is that 20 more years or 100 more years? We'll see. Who knows if that's Saylor's exact projection of CAGR. We'll see what we actually get.
+
+**Archie:**
+(2:10:21) Time flies. It's a sign of a good conversation. We could go forever, but is there anything you want to tell people? Let them know where they can find you.
+
+**Jesse Myers:**
+(2:10:30) Yeah, I'm on Twitter — Croesus_BTC. Let me spell that: C-R-O-E-S-U-S_BTC. The reason I picked that name is that was the king of Lydia 2,600 years ago who invented bimetallic standardised coinage — your stamp of the king on your gold coin that says this is this amount of gold, you can trust it, and that decreased friction in trade. A stepping stone for monetary technology. And I think Bitcoin is the current stepping stone of progress in that domain. Anyway, so Croesus_BTC. And you can check out SmartWebCompany.co.uk and check out our analytics.
+
+**Archie:**
+(2:11:18) Tell them the ticker. What's the ticker if they want to look up the stock?
+
+**Jesse Myers:**
+(2:11:19) SWC, and we trade on the London Stock Exchange. Only about a month ago, six weeks ago, we uplisted from Aquis to the London Stock Exchange. Yeah, and we're trying to move forward as fast as we can in building out what will hopefully be an increasingly well-known name in the UK as, you know, the UK's hopefully MicroStrategy.
+
+**Archie:**
+(2:11:52) Well, congratulations on that. I wish you all the best, and don't be a stranger when you come to London. Give me a ping and we'll have some coffee.
+
+**Jesse Myers:**
+(2:11:59) Sounds great. Thanks for having me.
+
+**Archie:**
+(2:12:00) Thanks, Jesse.

@@ -1,6 +1,197 @@
 [
   {
     "type": "reply",
+    "post_id": "2038931570128535801",
+    "date_time": "Mar 31, 2026 · 10:49 AM UTC",
+    "text": "Was nice to meet you at Cheat Code. Look forward to seeing you in Bristol on 29 May for the Bitcoin treasuries unconference UK.",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 1, 2026, 1:02 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2038931570128535801"
+  },
+  {
+    "type": "reply",
+    "post_id": "2038595850792808869",
+    "date_time": "Mar 30, 2026 · 12:35 PM UTC",
+    "text": "This is how it starts: digital capital enabling digital credit, which unlocks a whole new financial system built on the best asset in the world. Good work.",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 1, 2026, 1:02 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2038595850792808869"
+  },
+  {
+    "type": "quote",
+    "post_id": "2038591197405405605",
+    "date_time": "Mar 30, 2026 · 12:16 PM UTC",
+    "text": "This is me talking about The Smarter Web Company a few months after we listed.\n\nI don't see it that differently now, all be it with a few minor tweaks.\n\nWorth a listen if you have time.\n\nLSE: #SWC | OTCQB: $TSWCF | FRA: $3M8",
+    "is_reply": false,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 1, 2026, 1:02 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2038591197405405605"
+  },
+  {
+    "type": "quote",
+    "post_id": "2038559777131823472",
+    "date_time": "Mar 30, 2026 · 10:11 AM UTC",
+    "text": "Good feedback from @davidwetton today.\n\nWe have made it clearer that the Bitcoin treasury analytics on our website uses fully diluted numbers to calculate the Bitcoin metrics.\n\nThank you @aw_smarterwebuk for adding this explanation above the metrics!",
+    "is_reply": false,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 1, 2026, 1:02 AM London time"
+    },
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/HEprFnCWsAAul6h.jpg?name=orig",
+        "alt": ""
+      }
+    ],
+    "permalink": "https://x.com/asjwebley/status/2038559777131823472"
+  },
+  {
+    "type": "reply",
+    "post_id": "2038556616333664633",
+    "date_time": "Mar 30, 2026 · 9:59 AM UTC",
+    "text": "That is a good observation. @aw_smarterwebuk is going to make that clearer now! Give him 10 or 20 minutes and then please check the website again.",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 1, 2026, 1:02 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2038556616333664633"
+  },
+  {
+    "type": "reply",
+    "post_id": "2038548975335149583",
+    "date_time": "Mar 30, 2026 · 9:28 AM UTC",
+    "text": "Currently 0.77 as you can access this on our live analytics dashboard: smarterwebcompany.co.uk/bitc…\n\nAll the numbers we use are fully diluted and you can see the breakdown of the calculations for fully diluted in the assumptions page on the website too.",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 1, 2026, 1:02 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2038548975335149583"
+  },
+  {
+    "type": "original",
+    "post_id": "2038493037932712433",
+    "date_time": "Mar 30, 2026 · 5:46 AM UTC",
+    "text": "Reminder: you can access live analytics information about The Smarter Web Company treasury on our website.\n\nOur current mNAV is showing as 0.78 with a share price of 28p. BTC held within the treasury, on a fully diluted basis, is 35p per share.\n\nIt will be interesting to see where mNAV is at the end of the week with this being the last week of the UK tax year.\n\nLSE: #SWC | OTCQB: $TSWCF | FRA: $3M8",
+    "is_reply": false,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 1, 2026, 1:02 AM London time"
+    },
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/HEouf82a0AASbf_.jpg?name=orig",
+        "alt": ""
+      }
+    ],
+    "permalink": "https://x.com/asjwebley/status/2038493037932712433"
+  },
+  {
+    "type": "quote",
+    "post_id": "2038329203343401125",
+    "date_time": "Mar 29, 2026 · 6:55 PM UTC",
+    "text": "When The Smarter Web Company went public, @BitcoinBee21 was quick to build tools around #SWC metrics - including the \"Webley Tracker\".\n\nHe’s just launched a very slick \"ATM Live\" tool.\n\nWe’re currently trading below 1.0 mNAV (around 0.8), so the ATM isn’t active right now. But I am looking forward to seeing this tool in action when it is.",
+    "is_reply": false,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of March 30, 2026, 1:02 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2038329203343401125"
+  },
+  {
+    "type": "reply",
+    "post_id": "2038180311205351602",
+    "date_time": "Mar 29, 2026 · 9:03 AM UTC",
+    "text": "💯. I need to think about adding my glasses back in so if I do update my photo I will probably combine the two.",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of March 30, 2026, 1:02 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2038180311205351602"
+  },
+  {
+    "type": "original",
+    "post_id": "2038158924298191026",
+    "date_time": "Mar 29, 2026 · 7:38 AM UTC",
+    "text": "Is Bitcoin the best asset in the world?\n\nThere’s been a lot of focus recently on short-term price movements, with some questioning the broader thesis.\n\nBut most people are missing the bigger picture.\n\nZoom out, and the macro backdrop is increasingly unstable. Ongoing conflicts in the Middle East are not only devastating on a human level, but they also introduce significant uncertainty into global markets.\n\nAgainst that backdrop, Bitcoin continues to do exactly what it was designed to do.\n\nYes, this year we’ve seen it trade as low as ~$60,000. And in the short term, it will continue to move: up, down, or sideways. Right now it trades at ~$66,700.\n\nWhat matters is conviction over time.\n\nAs CEO of a Bitcoin treasury company (#SWC), I’ve never been more certain: Bitcoin is the best asset in the world.\n\nNot because of what it does in a week or a month, but because of what it represents over years and decades.\n\n- A fixed supply in a world of unlimited money printing\n- A global, neutral monetary network\n- A hedge against systemic risk\n- And for me the ultimate digital capital to build a corporate balance sheet\n\nI’m nearly 10 years into my Bitcoin journey, and with each passing year, my conviction has only strengthened.\n\nBitcoin hasn’t let me down. And I don’t believe it will.",
+    "is_reply": false,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of March 30, 2026, 1:02 AM London time"
+    },
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/HEj-hOxaMAArPHd.jpg?name=orig",
+        "alt": ""
+      }
+    ],
+    "permalink": "https://x.com/asjwebley/status/2038158924298191026"
+  },
+  {
+    "type": "quote",
+    "post_id": "2037765716137464209",
+    "date_time": "Mar 28, 2026 · 5:36 AM UTC",
+    "text": "This has been another difficult week for markets, adding to what has already been a challenging month as we approach quarter-end next week. Sentiment across Bitcoin and broader risk assets remains fragile.\n\nA combination of geopolitics, macro and rate concerns, bond and equity market deleveraging, and ongoing AI-related concerns has meant there is limited new capital being allocated across most asset classes. Many stocks, including our own, have been caught up in this broader global de-risk.\n\nAt times like this, it is important that we focus on what we can control as a team and community - our attitude, our execution, and the key initiatives we are working on to deliver long-term value.\n\nPeriods like this also serve as a reminder that while markets move in cycles, what ultimately determines long-term success is the strength of the foundations we are building to be ready when sentiment returns.\n\nThe structural foundations of a Bitcoin treasury company are critical to delivering medium-to long-term success, and whilst this is naturally something we consistently focus on, we have been spending additional time on it as prepare for the next stage of the company’s growth.\n\nWhile these factors vary, in my view the most important areas are the listing venue, investor base, liquidity, capital structure, a profitable operating business, and the team executing the strategy.\n\nListing Venue: We uplisted to the Main Market of the LSE in February. This week also marked another important milestone as we were included in the FTSE UK Index Series for the first time - both are strategically important for a Bitcoin treasury company.\n\nA Main Market listing and index inclusion increases our visibility, credibility and accessibility to a broader pool of capital, particularly institutional and passive investors. For context, approximately 27% of Strategy shares are held by index funds and over time we would expect passive funds to represent a growing portion of our shareholder base.\n\nMore broadly, these developments open opportunities for conversations with investors and institutions that were previously difficult to access.\n\nInvestor base: We benefit from strong retail support alongside growing institutional interest. Retail investors are important for creating awareness and early liquidity, while institutions bring scale, deeper liquidity and longer-term stability to our stock and shareholder register.\n\nSince our initial listing in April 2025, we have invested a significant time not only in raising awareness of Smarter Web, but also in refining how we communicate our equity story to different types of investors, each of whom see a different value proposition in our equity - including long-only funds, hedge funds, ECM desks, digital asset funds, ETF Funds and Family Offices.\n\nBuilding a balanced and diversified investor base across these groups remains a key part of our capital markets strategy, particularly as different investor types tend to be active at different points in the market cycle.\n\nLiquidity: Liquidity underpins everything and is fundamental to our ability to grow as a treasury company. Without a healthy secondary market in our shares, attracting new capital becomes significantly more challenging.\n\nSince listing, over £1 billion of our shares have traded and since moving to the LSE, our average daily volume and other liquidity metrics remain healthy and constructive, all of which provide a solid foundation for the stock.\n\nThis liquidity also enables us to operate an active ATM style programme when we trade above 1x mNAV, giving us the flexibility to raise capital efficiently and continue growing the Bitcoin treasury over time.\n\nCapital structure:  Since IPO, we have explored a wide range of funding options and have reviewed many different types of capital structures. However, we continue to believe that there is sophistication in simplicity, and that maintaining a simple and transparent capital structure is both a competitive advantage and an important part of our brand and strategy.\n\nToday, we operate with a single class of ordinary shares, and we believe this clarity is important. Looking forward, innovations such as digital credit may play a role, and we continue to learn from global peers.\n\nUltimately, achieving the right level of amplification will be key for a Bitcoin treasury company to succeed, depending on their specific market and regulatory framework. My vision is a small number of equity instruments that are simple to understand and easily accessible to all.\n\nProfitable operating business: This is important because it contributes to operating costs, reduces reliance on external capital, and supports our regulatory and listing position by ensuring we are an operating business with a Bitcoin treasury, rather than an investment vehicle. It also provides stability across market cycles and supports the long-term sustainability of the overall strategy.\n\nThis thinking underpinned our recent acquisition of Squarebird, which significantly increased our revenue while using only a small portion of our balance sheet, and we expect Bitcoin-backed M&A to continue to play a key role in our 10-year plan.\n\nTeam: A strategy is only as strong as the people executing it. This week, we announced that @the_desert_ape has joined as Head of Capital Markets. Jamie brings nearly 20 years of experience across financial markets, having worked in equities at major investment banks including Bank of America, Credit Suisse and JP Morgan, as well as at digital asset firms such as Galaxy and DS3. His experience, network and skill set provide a strong combination across both equities and Bitcoin, and being based in London, he will play a key role in leading our investor relations function and capital markets strategy.\n\nWhile we remain a lean organisation, we are highly focused, aligned and committed to delivering on our mission. As Smarter Web grows, we expect to selectively add a small number of strategically important roles, while maintaining a disciplined and efficient organisational structure.\n\nHere are this week’s highlights. \n \nAt the start of the week, we announced Jamie's appointment (as mentioned above), and I also joined a live livestream with @TheBitcoin__, which I always enjoy - he brings great energy and we always have good conversations. @Croesus_BTC also did a livestream with @roxom, who continue to do a lot of great work in the sector.\n\nWe also hosted our inaugural X Spaces as a bigger team, where Jesse, Jamie and I discussed the state of the market, what we’ve achieved in Q1, what we’re currently focused on (where we can disclose), and the direction we are heading. We look forward to doing more of these regularly as they are a great way to communicate directly with the community.\n\nLater in the week, Jesse and I joined a Bitcoin treasury roundtable with @TylerCompiler and @AlexandreLaizet from Capital B. I also want to thank members of our community who continue to produce and share informative summaries - these provide a lot of value for those who may not have time to listen to everything in full.\n\nTowards the end of the week, I travelled to Bedford for @CheatCodeCon. There was a VIP dinner on Thursday evening followed by a full day of content on Friday. The dinner was a great opportunity to catch up with people I already knew and also meet new faces in the space. @PeterMcCormack was a fantastic host, and on Friday I spoke on a panel with @_DannyKnowles, @freddienew and @btconlyscott discussing Bitcoin treasury companies. It was amazing to speak with so many shareholders at this event and I enjoyed the conversations greatly.\n\nJesse ended the week with another spaces on Roxom alongside some of the @strive team to discuss $SATA and $STRC.\n\nAlongside events and public discussions, the team continues to spend a significant amount of time in internal and external meetings, and we are increasingly trying to split our time across different meetings so that we can cover more ground as a team while continuing to execute on the key areas we are focused on.\n\nAs always, I want to thank the community for the hard work and support that so many of you continue to put in - it does not go unnoticed. One of the things I’m particularly looking forward to is our one-year anniversary next month, where I’ll have the chance to spend time with some of you at the event being hosted by @HenryBTCchef. We do plan to do something special to mark the event (small spoiler) and look forward to sharing in due course.\n\nShout out to: @andysmith_asap @johnsthor1 @JohnCoo70815409 @80IQConviction @HenryBTCchef @doublediamond65 @Toffeebdm @matthewkerridge @Michaeljdobbin @Boutiquecapital @mattoshi21 @TuftyRaul @BitcoinPlebUK @Morpheus_DX @BitcoinCartoon_ @bitcoin_philos @jay_dee_ex @CloughsStuff @InvestorSmarter @DrBitcoinM50862 @the_desert_ape @PlutusSaysHodl @ZynxBTC @wildgoosejon @SmarterBuildBTC @ourgoodlifeuk @AFCB12 @Britcoiner62 @SophieSatoshi @levyuk @butler_np @Raj_Devsi @Frank54703905 @SmarterBuildBTC @DivBy21 @BitcoinBee21 and @smarter_dash.\n\nAs we come to the end of Q1 next week, it is important to acknowledge that it has been a challenging period for Bitcoin, wider markets and share prices across the sector. During times like this, I often ask myself a simple question: Do I believe in the long-term thesis for Bitcoin? If the answer is yes (which it always is), then Bitcoin treasury companies will also have a strong future.\n\nFrom a company perspective, this has been a quarter of real progress where we have continued to strengthen the foundations of Smarter Web. We head into Q2 focused on execution and continuing to build, and we remain optimistic about where we are heading as a company over the medium to long term.\n\nThank you for your support.\n\nLSE: #SWC | OTCQB: $TSWCF | FRA: $3M8",
+    "is_reply": false,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of March 30, 2026, 1:02 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2037765716137464209"
+  },
+  {
+    "type": "reply",
     "post_id": "2037588167595843750",
     "date_time": "Mar 27, 2026 · 5:50 PM UTC",
     "text": "Good to see you Scott. I think @freddienew, you and I may even have a new shareholder in @_DannyKnowles soon.",
