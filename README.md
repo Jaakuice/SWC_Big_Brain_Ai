@@ -2,9 +2,9 @@
 
 > **A comprehensive dataset for analyzing the first UK-listed company with a Bitcoin treasury strategy**
 
-[![Data](https://img.shields.io/badge/Data-324%20files-blue)](https://github.com/Jaakuice/SWC_Big_Brain_Ai)
-[![YouTube](https://img.shields.io/badge/YouTube-133%20transcripts-red)](https://github.com/Jaakuice/SWC_Big_Brain_Ai)
-[![Tweets](https://img.shields.io/badge/Tweets-1,784%20posts-1DA1F2)](https://github.com/Jaakuice/SWC_Big_Brain_Ai)
+[![Data](https://img.shields.io/badge/Data-330%20files-blue)](https://github.com/Jaakuice/SWC_Big_Brain_Ai)
+[![YouTube](https://img.shields.io/badge/YouTube-137%20transcripts-red)](https://github.com/Jaakuice/SWC_Big_Brain_Ai)
+[![Tweets](https://img.shields.io/badge/Tweets-1,881%20posts-1DA1F2)](https://github.com/Jaakuice/SWC_Big_Brain_Ai)
 
 ---
 
@@ -31,7 +31,7 @@ This repository contains a comprehensive, structured dataset for analyzing **The
 ### What Makes This Dataset Valuable
 
 - **First-of-its-kind:** First UK-listed company with Bitcoin treasury strategy
-- **Comprehensive coverage:** 133 YouTube transcripts, 129 regulatory filings, financial time-series data, and social media archives
+- **Comprehensive coverage:** 137 YouTube transcripts, 131 regulatory filings, financial time-series data, and social media archives
 - **Multi-source analysis:** Combines official regulatory data (RNS), quantitative metrics (CSV), CEO commentary (tweets/YouTube), and independent analysis
 - **Time-series depth:** Data spans from pre-IPO (March 2025) through Apr 2026, capturing the complete journey from IPO to growth
 - **AI-ready:** Optimized for use with AI tools like Claude Projects, enabling progressive disclosure and intelligent querying
@@ -52,16 +52,16 @@ This dataset enables deep analysis across multiple dimensions:
 
 | Category | Count | Description | Date Range |
 |----------|-------|-------------|------------|
-| **YouTube Transcripts** | 133 | Video content (~40-45 hours) | Apr 2025 - Apr 2026 |
-| **CEO Tweets** | 989 | @asjwebley curated posts | Jun 2024 - Apr 2026 |
-| **Company Tweets** | 208 | @smarterwebuk curated posts | Mar 2025 - Apr 2026 |
-| **HoBS Tweets** | 587 | @Croesus_BTC curated posts | Feb 2025 - Apr 2026 |
-| **RNS Filings** | 129 | Regulatory filings | Apr 2025 - Apr 2026 |
+| **YouTube Transcripts** | 137 | Video content (~40-45 hours) | Apr 2025 - Apr 2026 |
+| **CEO Tweets** | 1022 | @asjwebley curated posts | Jun 2024 - Apr 2026 |
+| **Company Tweets** | 241 | @smarterwebuk curated posts | Mar 2025 - Apr 2026 |
+| **HoBS Tweets** | 618 | @Croesus_BTC curated posts | Feb 2025 - Apr 2026 |
+| **RNS Filings** | 131 | Regulatory filings | Apr 2025 - Apr 2026 |
 | **Research Reports** | 21 | Tennyson broker analysis | May 2025 - Oct 2025 |
 | **Financial Data** | 1 | CSV time-series (hourly/daily) | Apr 2025+ |
 | **Company Docs** | 17 | Prospectus, admission docs, annual report | Various |
 | **Media Articles** | 12 | News coverage, TV appearances | Mar 2025 - Feb 2026 |
-| **TOTAL** | **~324 files** | | |
+| **TOTAL** | **~330 files** | | |
 
 ---
 

@@ -6,14 +6,14 @@ This directory contains structured data extracted from @smarterwebuk's X.com tim
 
 **Extracted:** January 27, 2026 at 12:30 PM; **updated** with missing tweets from lightbrd HTML snapshot; **updated** February 19, 2026 with Jan/Feb 2026 tweets from lightbrd HTML.
 **Total Timeline Items:** 134+
-**Meaningful Posts:** 208
+**Meaningful Posts:** 241
 **Filtered Out:** 2+
 
 ## Statistics
 
 ### By Post Type
-- **original**: 203
-- **quote**: 4
+- **original**: 235
+- **quote**: 5
 
 ### By Month
 - **2026-02**: 24 posts

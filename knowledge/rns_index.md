@@ -153,7 +153,7 @@ Categories of RNS types with date patterns and examples to aid in selection.
 
 ## File Count and Coverage
 
-**Total Files:** 129 PDFs
+**Total Files:** 131 PDFs
 **Date Range:** Apr 2025 - Apr 2026
 **Coverage:** Comprehensive regulatory record of all material company events
 

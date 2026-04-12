@@ -1,0 +1,320 @@
+# SWC Livestream - Warrant Repurchase
+**Date: 2026-04-11**
+**Video ID: t7MO-fRnkqs**
+**URL: https://www.youtube.com/watch?v=t7MO-fRnkqs**
+**Duration: ~55:23**
+**Channel: The Smarter Web Company**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- Warrant repurchase offer: SWC bought back 39 million warrants at 22.5p, reducing fully diluted share count by ~10% and increasing Bitcoin yield by 10.9% (satoshis per share from 680 to 755)
+- Debt financing: £9.5M total debt via Coinbase facility collateralized by Bitcoin; SWC leverage ratio at 7% vs. Strategy's 36%
+- Delivering Bitcoin yield below 1x MNAV: Transaction demonstrated ability to increase Bitcoin per share even in challenging market conditions
+- 210K Capital: Warrant seller and longstanding partner/shareholder; achieved ~10x return on their initial IPO investment
+- Market context: Macro uncertainty from geopolitical situation, Bitcoin trading sideways in the £66K–£76K range; UK new tax year potentially ending sell pressure from tax loss harvesting
+- SWC share price performance: Up ~33% for the week, top-performing stock in the FTSE All-Share; realized volatility of 114% post-LSE listing
+- TD Cowen analyst coverage initiated with a Buy rating and ~3x price target; SWC one of only four Bitcoin treasury companies selected for coverage
+- Q1 review: Achievements included LSE uplisting, Squareboard acquisition (10x revenue increase), and index inclusion; Bitcoin purchases were below target due to tough market
+- Addressing institutional investor concerns: Uplisting, operating business revenues, and warrant overhang all materially addressed within 6–8 weeks
+- Upcoming: Bitcoin un-conference in Bristol on May 29; one-year IPO anniversary celebrations teased; two new team hires (including financial controller) announced
+
+---
+
+**Jesse (Host):**
+(0:00:00) Got Andrew Webster and Jamie Knowles with me, and we have a lot to talk about on the Smarter Web front. Very busy, eventful week. So we're going to jump right into it.
+
+The big news for this week is that we announced a warrant repurchase offer, completed that offer, and the results have already been updated on our analytics dashboard — and it's quite a result. Jamie, if you would like to walk us through the details on what that warrant repurchase offer was and the results of it, since I know you're quite intimately familiar with the RNS numbers that we put together because you did it.
+
+**Jamie Knowles:**
+(0:00:55) Yes. So — sorry, Jesse, the internet seems to have just cut out. Was that to me?
+
+**Jesse:**
+(0:01:00) Yes, yeah, to you.
+
+**Jamie Knowles:**
+(0:01:02) Yes, I beg your pardon, yeah. So first of all, yeah, a big week. Lots of effort gone in over the last 72 hours into getting this transaction completed.
+
+And most importantly, it's been great to be able to finally deliver some Bitcoin per share to shareholders in a market that's been particularly challenging. So as a recap, we bought back 39 million warrants at a price of 22 and a half pence. That accounts for around a fully diluted 9.85%, and subsequently meant an increase in our Bitcoin yield for this quarter by 10.9%, which took our satoshis per share from 680 to 755.
+
+In order to finance the transaction, we obviously took down a small portion of debt from our Coinbase facility, which is collateralized by the Bitcoin that we hold there.
+
+So in aggregate, we now have subsequently £9.5 million sterling of debt, which is comprised of £8.85M that was related to this transaction and £650,000 which was related to the transaction that we did in March, where we bought 3 million warrants back in exactly the same structure.
+
+The key thing is that in aggregation of those two transactions, we've subsequently managed to buy back warrants at an effective 0.68x MNAV approximately, and reduce our fully diluted share count by just over — or approximately — 10%. And like I said, that has been responsible for the Bitcoin yield generation this quarter.
+
+So a lot of work's gone into the transaction, but most importantly, it's important to recognize all the team effort that went into it. And really happy to finally see some more orange going in the right direction on our analytics page.
+
+**Jesse:**
+(0:03:09) Yes, absolutely agree. To summarize some of the exciting numbers — the headline numbers — we took on some debt to execute this transaction. We now have a leverage ratio of 7%, which is considerably lower than the other leading Bitcoin treasury companies. Strategy has about 36%. Strive somewhere in the 40s. And Metaplanet, I think, high single to high teens.
+
+So we still have a very low leverage ratio. There's been a lot of appetite from shareholders for us to increase our amplification ratio, and we acknowledge that — and this is a step in that direction.
+
+This opportunity — a different way of thinking about this. This is not quite apples to apples, but roughly equivalent to: we had the opportunity to buy Bitcoin at $49,000 per coin, and we took it. And we think that's a good move for shareholders, for the company.
+
+And we're very happy that this was possible. We think it's a good deal on both sides. All of the warrants were from 210K Capital, who has been an excellent partner and supporter of the Smarter Web Company. They were excited about being able to help us deliver Bitcoin yield with this transaction, which shows that they're a great partner.
+
+And you know, it's a great investment for them — they put capital in to get the Smarter Web Company to IPO over a year ago, and they took that risk and supported Andrew and the whole team from the very beginning. And they've returned over a 10x—
+
+**Jamie Knowles:**
+(0:05:18) —yes, with their capital in just under a year. So it's a great way for them to take some chips off the table, profit, and book that profit — and mutually beneficial with the company because it's a fantastic opportunity for us to increase Bitcoin per share in the process.
+
+Yeah, and one of the things, Jesse — just two things to flag. First: 210K still remain a shareholder of ours, and you can see that as per the latest regulatory filing, which was in January on our website. They have just over 11% — 39 million shares.
+
+And the key thing I think about the transaction is that the whole value proposition of a Bitcoin treasury company is to be able to increase how much Bitcoin exposure one has, and certainly within the equity model, it's how much exposure do I have for one share. Now one of the biggest challenges that the industry has faced has been: how do we increase Bitcoin per share in a challenging market — i.e., when MNAVs are sub-one, or it's particularly difficult for capital markets activity due to the geopolitical situation that's going on.
+
+So for me, that is one of the most constructive things about this particular transaction — that we've been able to demonstrate how we are able to do that. In our debt structure, we've outlined other ways, but I think being able to have a tangible case now where we can concretely prove that we are able to do that is very constructive. And the whole point is about how we optimize our capital structure. We're effectively taking on debt at a rate that we believe is below the long-term return profile for Bitcoin — which, if you take Strategy's estimate, is 29% CAGR over the next 20 years.
+
+**Jesse:**
+(0:07:17) Yes. And I think the market generally — even despite the fact that we've said it's possible to deliver Bitcoin yield when you're under 1x MNAV — I think broadly speaking, the Bitcoin treasury company investor landscape hasn't understood how that's possible, or didn't believe that was true.
+
+So I think this transaction is actually pretty unique over the last year of Bitcoin treasury companies, because it's a very meaningful Bitcoin yield result while under 1x MNAV. And I think it displays that we have this very real ability to engage in transactions like this when we're under 1x MNAV, and we can and will do it in order to deliver Bitcoin yield if the opportunity presents itself.
+
+**Andrew Webster:**
+(0:08:16) The only thing I'd add to that — and you've both explained it incredibly well — is that, like everything that we've done, we've done it with transparency and putting the shareholders first. So if you look at what we've done, we've clearly communicated for several months in the deck that you can do things below 1x MNAV, just as you can do things above, or in a fairly neutral setting.
+
+But then in addition to the obvious benefits — which are now clearly represented on our analytics page — there are other benefits to shareholders in the sense that we've removed that potential market overhang. So immediately you can see the results in the figures, but then looking into the future, what you can't really see is the reduced supply potentially coming into the market.
+
+So it's got the obvious benefits, but then it's also got those intangible, harder-to-see benefits. But we are so pleased with the transaction — and not only the team, but all of our advisers and our partner UTXO and 210K, who supported the transaction.
+
+**Jesse:**
+(0:09:38) Yes, absolutely. It's worth discussing the intangible benefits a little bit more. In fact, for everyone listening — a little behind the scenes of how this came about — it was actually an idea planned by Alex Norris, who will be speaking at the Bitcoin un-conference coming up next month.
+
+And it was introduced to us by Jamie some 8 months ago, I'd say. And he pointed out that this warrant overhang was a bit of a caution flag for many institutional investors, and it would be great if we could structure a repurchase. That was 8 months ago — it was just an ambiguous idea — and over the last 8 months we've searched for a way to do that and the right time to do that. And it finally came together.
+
+So that is probably — at least to my mind — the first impact that Jamie has had on Smarter Web Company. That introduction and that conversation set this all in motion, and that was 8 months ago, well before he started full time here.
+
+**Jamie Knowles:**
+(0:11:00) Jamie, that's too complimentary to me. That's very kind of you to mention. I think also one of the things worth flagging is that we've gone a long way to now addressing effectively three of the main concerns that institutions have had around our equity — or why they potentially would not look to invest in our equity — and that was our listing status, our operating business, and the potential overhang issue.
+
+And so within the space of effectively 6 to 8 weeks, we've gone a material step to addressing all of those. We've uplisted from Aquis to LSE. We've increased our revenues by 10x through the acquisition of Squareboard, which required 1% of our balance sheet at the time. And we've now effectively removed 42 million of the circa 96 million warrants that were outstanding — including removing the largest holder of those — and all of that was done with transparency and with the benefit of shareholders in mind.
+
+So net net, I think that puts us in a very constructive position to open the door and have more positive conversations with investors throughout the course of the year.
+
+**Jesse:**
+(0:12:20) Yes, and that's perhaps a great segue to how the week has gone in the market. It's been a very eventful week for the share price, the market, and our volume. Jamie, you stay closest to this information — what has stood out to you this week, and why do you think it's happening?
+
+**Jamie Knowles:**
+(0:12:46) Sure. So the week has obviously been split into two halves. Prior to the Tuesday deadline that Trump had set with regards to the Strait of Hormuz situation, going into that, markets were naturally extremely apprehensive — and if you look at the positioning data, the market felt like it was split pretty 50/50 in terms of which way it could go.
+
+Subsequently, we had a constructive outcome with regards to a ceasefire for 2 weeks, which naturally meant Bitcoin had a small bid to it, risk assets saw a little bid. But I think what's clear is that the scope of the move has still been fairly constrained, and a lot of that is just due to the fact that it feels very fragile and there's a lot of investor skepticism and apprehension still around.
+
+So when we speak to investors, a lot of the trading that they have been doing has really been related to managing core positions or around the hedges they have around their core positions. I'm not really seeing anyone putting a huge amount of new capital to work into the market. People aren't increasing their overall gross, people aren't increasing their net length in terms of their investment portfolios.
+
+So for now, I think we're still going to be, for Bitcoin, in a period of sideways motion — probably within that sort of $66K to $76K range — until we look to get some further update from the political situation.
+
+**Jesse:**
+(0:14:29) Yeah, wonderful. And then — I guess we lost Jamie for a second there, so we'll carry on — he's already back.
+
+Sorry, yeah, we lost you there for a second. Yeah, great — that was a great recap of the macro backdrop that we've been facing this week. And then I'll layer in the next piece, and then Jamie I'll hand it back to you.
+
+On top of that, this was the first week of the new tax year in the UK, and that I think has been quite significant, it turns out, for Smarter Web and our share price.
+
+It's been interesting that there have been two times that Smarter Web has traded significantly below 1x NAV — one being late December, right before the end of the US tax year, which may have meant that there was a lot of tax loss harvesting going on at that point in time, and people were willing to sell well under 1x NAV.
+
+And the other time has been the last few weeks, which is right before the end of the UK tax year. So it may be that the same dynamic was playing out with UK tax loss harvesting. We got to 0.7x in December, and then in January we saw relief that brought our NAV up almost to 1.2x.
+
+So it's very interesting that last week we were at 0.7x NAV, and as of today we're at 0.93x NAV. I think it's possible that tax loss harvesting dynamics — and the end of that window — have meant that the cessation of sell pressure is breathing some life into our NAV at this point in time. And so I think that's quite a significant development in the market for our share price in particular.
+
+And so Jamie, you've been sharing some great stats on our chat about Smarter Web shares — how we've performed this week and how much volume and volatility there's been — if you want to recap some of that.
+
+**Jamie Knowles:**
+(0:17:11) Yeah, absolutely. So one of the great things about being part of the LSE is that we're naturally included in a lot more data sets, particularly Bloomberg, which we can use to crunch analytics not just on performance but also on volatility — not just volatility on our stock but volatility relative to other asset classes as well.
+
+And that's really at the moment what a lot of people are looking at — the market feels like it's one of relativity: Bitcoin versus gold, Bitcoin versus ETH, sort of intersector pairs as well.
+
+And one of the things that's been particularly attractive is the fact that we did a small exercise to crunch some numbers to see what, post the first 30 trading days after being listed on the LSE — so from the 4th of February to the 17th of March inclusive — what our realized volatility had been. And on an average basis, we were still one of the highest volatility stocks within the UK. Our realized vol over that period was 114%.
+
+There were naturally a couple that were higher than us, but they actually had specific corporate actions — for instance, there may have been a merger or acquisition, or a capital restructuring associated with them. But that fits into the profile that we had towards the back end of last quarter, where we had an extremely high elevated realized vol of between 90 to 100% depending on the time frame.
+
+And once again, the reason why that's particularly important is because the UK equity market as a whole tends to have a very, very low realized volatility profile because the majority — or a large proportion — of stocks are defensive by nature. So a large part of the FTSE 100, especially the top 10, are defensive stocks: utility, pharmaceutical, consumer goods, tobacco stocks, etc. There are actually very few tech stocks within the UK index unlike the US.
+
+So for active fund managers looking to outperform the index, they need to look for stocks that can outperform. And there's been a lot of work done showing that by having a small proportion in a stock that has an elevated level of realized volatility, you can outperform. And so that's something we're actually very proud of. Naturally, we have to do work on how we educate the market on that — and it comes back to the "volatility is vitality" theme that is well known within the Bitcoin sector.
+
+And as a result of that, our share price has been particularly strong this week. We never want to attribute share price movements to any piece of news, but just looking at it objectively — last time I checked, we were up 22% for the week, which put us at this moment in time as the top performing stock in the FTSE All-Share. Which is really fantastic to see, and most importantly just helps to raise awareness — people see that, they want to explore who Smarter Web are, what do they do. And this is just one positive part of that feedback loop in terms of building awareness about our equity.
+
+**Jesse:**
+(0:20:56) Yeah, and in fact I think we're up a little bit more than that for the week. We closed last week at 26p. We're currently trading at just over 33p, which by my quick math is just over a 33% gain for the week.
+
+And of course, that volatility we love. We want to show up on the top 20 risers and fallers as often as we can, gain that awareness that this is a high-vol stock that has no stamp duty for 3 years, and is a trader's best friend, from our point of view. So it's good to see that sort of performance and volatility this week.
+
+**Jamie Knowles:**
+(0:21:43) Yes, and also to be supported by what feels like healthy volume. People can see what the daily volume has been versus our average daily volume on a 30-day lookback, and it's been outsized — which is constructive to see. That means there's been healthy support. And what's actually been interesting in the breakdown for this week has been seeing more US flow coming through. So it feels that there could be some US interest potentially starting to creep back into the stock, which is constructive.
+
+And last year there were days where the US actually did more volume than the UK line. And there was even a day this week where we saw very good participation from our European line as well. So in essence, it feels like a good mix of flow that's all been constructive towards healthy volume.
+
+**Jesse:**
+(0:22:38) Yes, shout out to John Levy for always producing — every day — the volume chart for the global volume traded for Smarter Web. It's been great to see: we had a 5.5 million shares day, a 4.5 million shares day, and yesterday was 1.5 million shares. That averages to something like 1% of our circulating shares per day, which is a pretty liquid stock.
+
+And actually, Jesse — if we were going to be constructive on ourselves or thinking about feedback on what we can do better at Smarter Web — that would probably be the next point that institutions, really big ones, look at with regards to whether this is a stock they could invest in: the average daily volume. Obviously on a notional basis, but also as a percentage of our free float. So one of the key things we want to see is a long-term trend upward — demonstrating that the volume profile is increasing.
+
+And funny enough, a slight benefit of reducing our fully diluted share count is that our percentage of shares traded per day has just gone up because we took care of that.
+
+Andrew, I want to bring you into the mix here. Any thoughts on what we've been talking about? And then we'll talk about our quarterly in-review document, because I think that's something we should make sure not to miss.
+
+**Andrew Webster:**
+(0:24:22) Yeah, sounds good. I'll keep it brief because, you know, leading on to the Q1 update, this illustrates the point — but we've always said that what we're trying to do is advance the company as best we can, all of the time: every day, every week, every month, every quarter.
+
+And when we've been discussing a couple of these things — whether it's the index inclusion, the uplisting, some of the other things — another thing came out in the last 24 hours. We're doing all of these things to improve the liquidity, the volume, the reach, the understanding. And the reality is that one of these things doesn't make a difference by itself, but when you add all of these things together and you keep pushing them every single day — that's how you make a difference. That's how I believe we can advance from where we are today to where I want us to be in the future. We just have to keep pushing on all of these different things all of the time, as a team, with the support of the community, with the support of the whole of the UK and indeed the world, with some of our investors. And that's how we make this thing much, much better than where it is today.
+
+**Jesse:**
+(0:25:47) Yes — that's the North Star coming in and reminding us of the mission we're on. And the result of all of our week-to-week efforts cumulatively adds up and compounds.
+
+And for me personally, that's what I'm most excited about with the warrant transaction this week — knowing that that's an 11% that is now on the books in terms of increasing Bitcoin per share, and that any future transactions that add to that will compound on top of it.
+
+I think that's an exciting part of a Bitcoin treasury company: you benefit from every single transaction that's accretive, because they compound on top of each other. And adding 11% in one go is a pretty good step.
+
+That's another reason why a Bitcoin treasury company is probably the best investment if you like Bitcoin — because of that compound nature. Some companies — very cyclical companies or ones that might have a good couple of years — don't have that genuine long-term benefit. But what I love about Bitcoin and Bitcoin treasury companies, since I first found Strategy, is that it genuinely is, in my opinion, an investment that you can hold forever. And that compound effect over many, many years is worth a hell of a lot — and, to be fair, not widely understood by the market away from the people that know about us at the moment.
+
+Just as you can look at Bitcoin and say these are the qualities that make it the best investment to hold for decades, I think you can make additional arguments on top of the base asset for a Bitcoin treasury company. And there's not many investments like that. Gold, for example — that's had a good year or whatever, but if you look at it over 20 years, not so good.
+
+So that's why I'm so excited about Bitcoin treasury companies, and about pushing Smarter Web to be the leader in the UK, to be one of the leaders in the world, to be the biggest company in the UK. Because all of these actions, compounded over time — and time is years, not weeks — makes it very exciting, really.
+
+**Jamie Knowles:**
+(0:28:24) Fully agree. And that is why we are all here — because the three of us, and shareholders who are listening, can understand the compound effect, and on top of that, understand that Bitcoin is the asset that you want more of. And you want to measure yourself in Bitcoin.
+
+And if there's an arbitrage opportunity to use capital market tools to increase your Bitcoin ownership over time, that's pretty damn compelling.
+
+And you can even rephrase it: if you look at the market fit — what is the problem we're actually trying to solve? The problem we're trying to solve is: how do I get more Bitcoin, or how do I get more exposure to Bitcoin? And that's where the Bitcoin treasury model comes in.
+
+And again, the sector — if you consider the summer of last year as the genesis of it — is still less than 12 months old. So there's a lot of work to be done by everyone into explaining that model and why there is a need for it. That starts with recognizing Bitcoin as the most durable monetary asset there is, its performance, its role in the portfolio, how you get exposure to it, and then within a specific sleeve, the role of a Bitcoin treasury company.
+
+And one of the most significant things for me this week was the fact that Morgan Stanley announced the launch of their ETF, which is massive. They're one of the largest asset managers in the world. And to do that at a time when Bitcoin sentiment is still challenged — I think that was a very constructive step forward for the broader ecosystem. So that for me was a big positive this week as well.
+
+**Jesse:**
+(0:30:22) Yes. Perhaps that brings us nicely onto our other positive this week.
+
+**Andrew Webster:**
+(0:30:27) Yes, and you know, I actually met the lady — Amy, I believe her name is — from Morgan Stanley, who's been all over the videos and stuff this week when I was in Vegas at Strategy World. And she's so excited and upbeat and looking to the future. And all of these other big financial institutions, including some in the UK, are starting to really see the potential.
+
+That's the thing that we see that some of our shareholders don't see. And that's why seeing the research note that came out — I think it hit my inbox about 9pm last night UK time from TD Cowen, who are massive as well. They've been supportive of Strategy since pretty much the start. They've got a really good analyst team, a really good investment banking team. And to see those sorts of companies looking at Bitcoin and the Bitcoin treasury sector in a positive way — but then also taking the time to get to know us and looking at us in a favourable light as this small company in the UK — is pretty cool, really.
+
+**Jesse:**
+(0:31:37) Yeah, to highlight a little bit about that. TD has been a crucial investment banking partner for Strategy over the last 5 years. TD notes, quite proudly and deservedly so, that they have helped Strategy raise $50 billion to buy Bitcoin. And that's pretty phenomenal — and they have established a leadership position as investment banking partner for Bitcoin treasury companies.
+
+And they decided to double down on that market position. So they decided to initiate coverage on a selection of treasury companies. They added four: one being an Ethereum company and the rest being Bitcoin treasury companies. They were looking for the right set — who should we spotlight, who do we think has a really compelling thesis and positioning.
+
+And they selected Strive and Nakamoto, who are big names in the space and have significantly more Bitcoin than Smarter Web Company. And they selected the Smarter Web Company. I think it's because of our overall story, our positioning in the UK as the clear market leader in the UK, and I think they really liked the story of Andrew's business and his background, focus, execution, and work ethic too.
+
+So we've cultivated a relationship with them over the last — I don't know how many months, Andrew, 9 months or so?
+
+A couple months ago we weren't covered by any major investment bank. We had small coverage from our broker Tennyson. And now we have coverage from Maxim — a New York investment bank — and now TD, who's a much larger investment bank and globally known.
+
+And that's another thing that matters for institutional investors — a few months ago we didn't have coverage that they could go find and put any sort of trust in, in terms of reputation. And now TD yesterday has come out and said Smarter Web Company is a buy, and they think it's a clear 3x from here over a pretty short time frame. That helps. That's another little thing that really adds to our story and our saleability in terms of telling the story to institutional investors.
+
+Jamie, anything you want to add on this?
+
+**Jamie Knowles:**
+(0:34:47) Yeah, well, I mean, the key thing it does is really just increase our ability for penetration in markets that we naturally don't have access to. They have a huge distribution network across North America. Across our three cells we have our own relationships, but clearly with their backing they're able to have conversations about the sector, relevant stocks, and hopefully within that, Smarter Web. And what we hope is that, with any institutional relationship, it will increase awareness of our name. Naturally, that leads to conversations, and those conversations can then subsequently lead to commercial agreements in whatever form that may be.
+
+So I think it's really constructive and very positive that they were willing to put their name against a company like ours, and we're very grateful to them for the coverage.
+
+And one of the things that's particularly interesting to me — if I was going to ask the question, "why would a big investment bank like that want to cover a much smaller company than say Strategy?" — well, one of the reasons is they're trying to get both ends of the adoption curve. Any sector has an adoption curve. If you have Strategy at the mature end of that, with their Bitcoin stack and their product releases, and Metaplanet in that acceleration phase, and then Smarter Web at that early-stage inflection point with some very strong UK nuances — there's an interesting angle there to see it as an early-stage tech stock.
+
+And none of this is financial advice, but that's the positioning I see it as. We obviously have a very unique story being based here in the UK. One of the pieces of feedback that people give us is: "we can see your model is very similar to Strategy's model 5 years ago" — and then they can see a clear pathway through that. And I think that's why there's that barbell approach in the coverage model, which naturally includes Strive as well.
+
+**Jesse:**
+(0:37:18) I think that is part of the story here: a certain level of pattern recognition. TD as an institution — and this is me reading into it — I think they see the clarity of our positioning as MicroStrategy for the UK, and they've been very intimately familiar with how successful Strategy has been in the US over the last 5 years. And I think that's played into them spotlighting us. As Lance told us, they usually don't cover companies as small as us — usually have to be significantly larger.
+
+And another funny behind-the-scenes bit: over the last month or so, as Lance has built out his model for us — projections about how we might perform under different conditions into the future — he was calling me up to try to figure out how he could lower the expected outcome for Smarter Web, because as he was running the numbers, he was getting more than 10x over 4 years. And for it to be plausible from an institutional perspective, he needed to bring it down.
+
+So we'll see how it all plays out — nothing is certain there — but it shows that as they dug in, they got excited about our positioning.
+
+And I should also mention: there is a full report out there. We can't share it directly, but we hope that shareholders get their hands on it — go for it, gentlemen.
+
+**Jamie Knowles:**
+(0:39:23) [laughter]
+
+**Jesse:**
+(0:39:26) And moving on to other topics we should cover in the next 10 to 15 minutes. Andrew, if you want to reflect on Q1 at all, and then we can talk about upcoming things and the calendar going ahead, and then we'll cover some questions from the community.
+
+**Andrew Webster:**
+(0:39:46) Yes, so we put out the update when we got to the end of Q1, which is something that we want to start doing at the end of every quarter. I think it's good for us internally to digest what we've done, what we could have done better, make sure everything's aligned in the short term where we want it to be. But I think it's really important for shareholders as well to try and pull it all together — because we live, eat, and breathe this every minute of every day, and I think pulling it all together in an easy-to-digest format for new investors, whether retail or institutional, is very valuable.
+
+And it was sort of a tale of two sides to the quarter from my perspective. One was that I was very pleased with everything that we achieved as a business — the acquisition, the uplisting, the index inclusion. I think we've set everything up, all being well, to be a good quarter for Q2.
+
+But then the flip side was that it's been a tough market. We haven't bought as much Bitcoin as I wanted — we still bought some, 31 I believe it was. We did do some good things, but the market didn't necessarily reward all of that. And that's the way it goes.
+
+You know, that saying "the share price is one metric" is very true there. So apart from the pain of the share price for the quarter, it was a good quarter. And I'm hoping that this will be a better quarter — but obviously we'll have to wait and see. The early signs are encouraging with what we've announced so far, but people just have to see whether we can keep delivering from here.
+
+**Jesse:**
+(0:41:48) Great point. Yes, we're off to a good start. There's much to be done this quarter and through the end of the year in particular, which I know we are very excited about internally. We can look forward to sharing more about all that as we go.
+
+Let's jump into some questions from the community, and then we can sort of wrap up with the agenda ahead. We covered the TD report — and Andy's request for a copy of it, sorry Andy.
+
+From Toffee, we had a question about any new merch update plans, in particular ahead of the conference. Jamie, do you want to take that one?
+
+**Andrew Webster:**
+(0:42:47) Jamie can do that one.
+
+**Jamie Knowles:**
+(0:42:48) Well, so the answer to that is: we are acutely aware of the one-year anniversary coming up of the IPO at the end of April. And the team have been working very hard to find ways that we can commemorate that and also reward shareholders for their loyalty and support during that time.
+
+So we've had a lot of fun brainstorming ideas about how we can mark the occasion. Without giving too much of a spoiler away, all I would ask is for a little bit of patience. I think we've got two things that shareholders are going to particularly like, which we look forward to sharing probably in the next week or so. And we'll start to drop a couple more hints.
+
+This is all just part of the fun coming up to the date. And I think we all collectively look very much forward to sharing that in due time.
+
+**Jesse:**
+(0:43:46) What an exciting tease! Maybe everyone lower your expectations a little bit so that we can exceed them.
+
+**Andrew Webster:**
+(0:43:55) Exactly. I was going to make that comment — let's manage expectations. They are, we think, good things that I hope everyone will like. But this isn't like a 10.92% yield necessarily being delivered. And we're not getting Aerosmith to play at the conference or anything like that. So let's manage expectations. I'm just excited because I've been involved in the process, that's all.
+
+**Jesse:**
+(0:44:28) It is good — we are quite aware that the one-year anniversary is coming up. I've prepared a bit of analysis to come out around that time, which is my form of contributing to that anniversary. So we're thinking about it.
+
+Another question from Michael: do we have any plans to add to the team? How do we feel about the current structure — are we happy with the team as it is for, implied, the next year or the next stage of our journey?
+
+**Andrew Webster:**
+(0:45:05) Yes, so very short term — yes, we do have plans, and we've got two new people that will be announced in due course. The first one being a new financial controller who's joining to support Mario and hopefully take on that function from there. So that's good.
+
+That said, whilst clearly these couple of things are very important, we've got a team that's working incredibly well together at the moment. Everyone's enthusiastic, everyone's focused on the mission, everyone's working very hard. I know I can be slightly unreasonable in what I expect at times, but you just have to get used to it.
+
+So yeah, the team is — I'll always want it to be better, doing more, and all these things — but I think the team is doing very well at the moment. And these additional hires will help take it a little bit further forward. As for what follows in, I don't know, 6 months — we'll just see as the needs arise. We won't create jobs just for the sake of it. We'll bring in good quality people as we need more people. That's how I think about these things.
+
+**Jesse:**
+(0:46:37) Well said.
+
+From Jimmy, we had a fun one. His question was: have we modeled out scenarios for downside environments — like a 2008 style recession or even a 1970s style stagflation scenario?
+
+I'm bringing that up because I think it's a fun question — he included the 1970s style stagflation scenario, and for my perspective, we are living through that. And I'd like to note that if you look back at the 1970s, what asset class performed exceptionally well? It was gold — a roughly 14x over the course of that decade. And of course that was in part related to going off the gold standard in 1971, but when inflation peaked in 1980, gold had done a 14x over that time frame.
+
+Which really just means hard assets did exceptionally well in that stagflation environment — high inflation and not much growth. And guess what I think the UK is living through right now? There's not much growth, and I think there's more inflation than we're being told. You all feel that when you go to the grocery store.
+
+Hard assets do well in that kind of environment. Gold has been that historically, and now there's a better hard asset in the world, and that's Bitcoin. And that's part of why we are so excited about our positioning and our mission to build a balance sheet on the best hard asset for these times.
+
+And separate from the hilarious response from ADI Q about alien invasions being another scenario we should model for — all that to say, Jimmy: we have modeled out a conservative scenario of here's how much cash we need for the coming year and beyond, and we're constantly viewing it through that lens. And I think we are — especially with the Squareboard acquisition — putting ourselves in a better and better position for weathering tough environments.
+
+What has the last 6 months been? I think it's been a tough environment for Bitcoin and Bitcoin treasury companies — and we're doing okay despite that environment, especially compared to some other Bitcoin treasury companies that have had to sell Bitcoin, and we are nowhere near that kind of need. And as Andrew points out, he'll cut off his arm before he does that.
+
+**Jamie Knowles:**
+(0:49:48) No. I was just going to say: most importantly, thank you for the difficult questions because naturally we answer some of the fun ones here, but we also want to address the tougher ones as well. And it's important to note that the team sees all questions and will always try to answer them where appropriate. But for some questions, if we don't respond, it's very likely that we're unable to for regulatory reasons. It's never because someone is avoiding you — and we'll always try to be as transparent as possible and come back, whether via this platform or in written format. So we appreciate all the questions that get asked.
+
+**Andrew Webster:**
+(0:50:28) Yeah, and it leads on from the answer I was giving before — but it applies to Jesse's question that he answered very well as well. The advantage of having a team that understands Bitcoin, understands capital markets, have aligned their lives with both, that understand how to run a business — all of these different things that are so important that make up a Bitcoin treasury company.
+
+Internally, we debate these things to a length that you wouldn't believe. What can go wrong — we have so many ideas that people will never see because we can't disclose things until a certain point. But we'll debate them, sleep on them, debate them, sleep on them. And it's not necessarily a bad thing that some things take time. The warrant deal that came together this week came together incredibly quickly. So we move quickly as people have seen, but we take our time to get to a position where we can then move quickly — because I won't compromise the medium to long-term mission for a quick win. No way.
+
+So please rest assured that we debate everything. Not quite to ADI Q's level of aliens rocking up at Aztec West, but almost to that degree.
+
+**Jesse:**
+(0:52:02) Yes, and it is good to highlight that things take a long time and then they happen very quickly. 8 months in the making for this warrant repurchase offer, and then set in motion — within 24 hours we had gone from an email in my inbox to cementing a deal. After 8 months of hoping for the right circumstances to exist.
+
+So yeah, there are some great questions this week. Thanks to the community for spotlighting a variety of topics. Sorry we didn't get to all of them, but keep them coming for next livestream.
+
+Andrew, Jamie, any final thoughts? Otherwise we can wrap it up here.
+
+**Andrew Webster:**
+(0:52:58) All good for me.
+
+Yeah, it's always nice to say thank you to everyone for all the support. We do have quite a busy week coming up next week. I've got 2 days in London — it'll just be Jamie and me, as Jesse will be over in Texas that week. We try and do them together, the three of us, when we're going to see institutions or partners or whatever we're doing. But I'm quite looking forward to that. The days are going to be quite intense, but hopefully productive.
+
+And if we look back at this week — the warrant deal, the TD thing coming out, and all the other things we've talked around — I think that's hopefully a sign that we push on a little bit more.
+
+**Jesse:**
+(0:54:00) Yes, agreed. A great week. Hopefully we can turn it into a great quarter overall and finish out with a great year. I'm very excited about the future of amplified Bitcoin in the UK.
+
+And for that matter, should also mention that we have the Bitcoin un-conference in Bristol coming up at the end of next month — the 29th of May — and tickets are still available for that. We've got a great lineup of Bitcoin treasury company leaders globally, and just about everybody who's involved in Bitcoin treasury companies in the UK coming together to talk about that in Bristol. Should be an exciting day for really firming up what is an emerging industry in the UK in particular.
+
+So you can learn more about that on our website if you're interested in finding out more. Thanks everybody for listening, and we'll do another one of these in a few weeks. Let us know any comments and feedback, and we look forward to next time. All right, thank you all. Thank you very much.

@@ -1,0 +1,45 @@
+09 April 2026
+The Smarter Web Company PLC
+(“The Smarter Web Company” or the "Company")
+Existing Warrants - Voluntary Purchase Offer Results
+The Smarter Web Company (LSE: SWC | OTCQB: TSWCF | FRA: 3M8) is pleased to announce
+the results of the discounted voluntary purchase offer announced on 8 April 2026 (“Voluntary
+Purchase Offer”) for warrant holders to realise value from the Pre-IPO warrants (“Pre-IPO
+Warrants”) ahead of their vesting.
+The total Pre-IPO Warrants purchased under the Voluntary Purchase Offer was 39,000,000
+for total consideration of £8,775,000 at a price of 22.5 pence per warrant. The effective price
+paid for the warrants represents approximately 0.7 mNAV. All warrants purchased under the
+Voluntary Purchase Offer will be cancelled.
+Following the cancellation of the purchased Pre-IPO Warrants, 54,066,335 Pre-IPO Warrants
+remain outstanding. Of these, 25,778,732 are held by Andrew Webley (Chief Executive
+Officer) and his spouse, and a further 1,450,000 are held by directors or employees of the
+Company.
+The Company will draw £8,850,000 from the $30 million Coinbase Strategic Credit Facility,
+announced on 24 February 2026, to fund the purchase, as well as estimated associated costs.
+It is intended that this debt will subsequently be financed through a combination of
+operational cash flow and future equity issuance and a further update will be provided once
+this amount is repaid.
+The Bitcoin treasury analytics page on the Company’s website has been updated to reflect a
+short-term debt figure of £9,500,000 (being the £650,000 existing debt plus this new debt).
+This debt leverage represents approximately 6.6% of the Net Asset Value, with the Voluntary
+Purchase Offer having reduced the number of fully diluted shares by 9.85%.
+The Company also notes that removing 39,000,000 warrants from the fully diluted share
+count has increased the Quarter-to-Date BTC Yield to 10.92%.
+Andrew Webley, CEO, The Smarter Web Company, commented:
+“I am pleased with the outcome of the recent Voluntary Purchase Offer and the progress made
+in the early part of the second quarter.
+At the time of our listing, the Bitcoin treasury model was relatively untested in the UK market.
+Less than a year on, we believe we have demonstrated, through disciplined execution and a
+range of strategic initiatives, that there is a place for this model within the UK public markets.
+The Pre-IPO Warrants were issued in the context of limited institutional support for this
+strategy at the start and we recognise the role played by early backers in supporting the
+Company at that stage.
+Since IPO, we have been aware of market focus regarding the potential overhang associated
+with these warrants, and today’s results represent a further step in addressing this. The
+
+transaction also builds on our efforts to simplify our capital structure and further enhance
+transparency for existing and prospective shareholders. We believe that a simple, easy-tounderstand capital structure provides a strong foundation for sustainable growth.
+210k Capital has taken a constructive approach to this process, and we are pleased to have
+them as a significant shareholder as we continue to execute on our strategy.
+We remain focused on continuing to build the Company in a measured and responsible
+manner, with a clear emphasis on long-term value creation for shareholders.”

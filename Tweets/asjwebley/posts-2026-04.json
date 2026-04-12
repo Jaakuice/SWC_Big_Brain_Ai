@@ -1,6 +1,549 @@
 [
   {
     "type": "reply",
+    "post_id": "2043034185418346768",
+    "date_time": "Apr 11, 2026 · 6:31 PM UTC",
+    "text": "Please see the breakdown with the numbers. Where you are getting out is on the issued share capital according to the exchange as we do not count the ATM shares that are not sold until they are sold.\n\nIssued share capital according to the exchange:\n\n351,919,127 shares in issue.\n\nBut then we deduct ATM unsold:\n\n56,663,950 unsold give you 295,255,177.\n\nThen add on the Warrants in the money (only the pre-IPO warrants with an exercise price of 2.5p):\n\n54,066,335 pre-IPO warrants = 349,321,512.\n\nDo not add on the 9,680,640 placing warrants (exercise price 150p).\n\nWe are still at 349,321,512 fully diluted in our numbers at this point.\n\nThen add on the 7,718,551 shares to be potentially issued under Smarter Convert:\n\n349,321,512 + 7,718,551 = 357,040,063.\n\nThat gives you the Fully Diluted Shares of 357,040,063 which we use on our Bitcoin treasury analytics.",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 12, 2026, 1:02 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2043034185418346768"
+  },
+  {
+    "type": "reply",
+    "post_id": "2043013981162332163",
+    "date_time": "Apr 11, 2026 · 5:11 PM UTC",
+    "text": "Thanks. happy to help with that when you are ready. We have about 6 to 8 seconds load time in the UK but we will look at that with the team and aim to get it improved! Thanks.",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 12, 2026, 1:02 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2043013981162332163"
+  },
+  {
+    "type": "reply",
+    "post_id": "2043012225703551302",
+    "date_time": "Apr 11, 2026 · 5:04 PM UTC",
+    "text": "Please see our equity snapshot - it has the warrants and Smarter Convert detailed under the significant holders: smarterwebcompany.co.uk/shar…",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 12, 2026, 1:02 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2043012225703551302"
+  },
+  {
+    "type": "reply",
+    "post_id": "2043010567401599262",
+    "date_time": "Apr 11, 2026 · 4:57 PM UTC",
+    "text": "Fair point - we will ask the team to look at speeding it up - bear with us on that one though as it will take a little time to sort.",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 12, 2026, 1:02 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2043010567401599262"
+  },
+  {
+    "type": "reply",
+    "post_id": "2043010383112180041",
+    "date_time": "Apr 11, 2026 · 4:56 PM UTC",
+    "text": "You are welcome.\n\nYes - if you hover over the \"Fully Diluted Shares\" help note we define this as:\n\n\"Fully diluted shares in issue includes potential Smarter Convert Shares and Shares in Issue, minus the unsold amount of shares from subscription agreement; this figure also includes all warrants where the exercise price is at or below the current share price.\"\n\nYour calculation is higher as we do not include the shares that are unsold in the ATM facility and then as we update the market after any have been sold those get factored in (56,663,950 currently unsold).\n\nFurthermore we include the Smarter Convert shares in the fully diluted which you can argue should not be part of the fully diluted - we have always done it like that but the other way of doing it would be to not include them and then take the Bitcoin value as a debt figure revalued daily as the debt is Bitcoin linked (7,718,551 potential Smarter Convert shares).\n\nHopefully that explains the difference in the number we use and the number you have?",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 12, 2026, 1:02 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2043010383112180041"
+  },
+  {
+    "type": "original",
+    "post_id": "2043004634101395684",
+    "date_time": "Apr 11, 2026 · 4:33 PM UTC",
+    "text": "Access The Smarter Web Company Bitcoin treasury analytics page here: smarterwebcompany.co.uk/bitc…",
+    "is_reply": false,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 12, 2026, 1:02 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2043004634101395684"
+  },
+  {
+    "type": "original",
+    "post_id": "2043004609682112637",
+    "date_time": "Apr 11, 2026 · 4:33 PM UTC",
+    "text": "These days I rarely get time to do any coding - something I do enjoy when I have the time.\n\nToday, though, @aw_smarterwebuk and I spent some time improving The Smarter Web Company Bitcoin treasury analytics page (link in comments).\n\nYou can now hover over many of the help boxes to see more detailed explanations, including formulas and calculations where relevant.\n\nA few of you have asked for this over the past few months - I think it’s a solid improvement.\n\nAs always, please keep the suggestions coming.\n\nLSE: #SWC | OTCQB: $TSWCF | FRA: $3M8",
+    "is_reply": false,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 12, 2026, 1:02 AM London time"
+    },
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/HFo1sAxX0AEpnIP.jpg?name=orig",
+        "alt": ""
+      }
+    ],
+    "permalink": "https://x.com/asjwebley/status/2043004609682112637"
+  },
+  {
+    "type": "reply",
+    "post_id": "2042952291477524831",
+    "date_time": "Apr 11, 2026 · 1:05 PM UTC",
+    "text": "Thank you. Looking forward to you being part of the event. See you soon.",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 12, 2026, 1:02 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2042952291477524831"
+  },
+  {
+    "type": "reply",
+    "post_id": "2042877851653816437",
+    "date_time": "Apr 11, 2026 · 8:10 AM UTC",
+    "text": "Good spot - @Z06Z07 is the one who suggested this to the Bitcoin treasury sector (as you say) - and we loved it so we added it to our dashboard immediately!",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 12, 2026, 1:02 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2042877851653816437"
+  },
+  {
+    "type": "reply",
+    "post_id": "2042851151737995542",
+    "date_time": "Apr 11, 2026 · 6:24 AM UTC",
+    "text": "Thank you - appreciate the support and looking forward to catching up in Bristol at the Unconference.",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 12, 2026, 1:02 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2042851151737995542"
+  },
+  {
+    "type": "reply",
+    "post_id": "2042848806291546265",
+    "date_time": "Apr 11, 2026 · 6:14 AM UTC",
+    "text": "Thanks Jon - team work from us all. Have a good weekend and try and get a bit of a break too. Busy week ahead.",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 12, 2026, 1:02 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2042848806291546265"
+  },
+  {
+    "type": "reply",
+    "post_id": "2042845751751950364",
+    "date_time": "Apr 11, 2026 · 6:02 AM UTC",
+    "text": "🙏- enjoy the holiday Toffee.",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 12, 2026, 1:02 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2042845751751950364"
+  },
+  {
+    "type": "quote",
+    "post_id": "2042836641115419026",
+    "date_time": "Apr 11, 2026 · 5:26 AM UTC",
+    "text": "The core value proposition of a Bitcoin treasury is its ability to increase Bitcoin exposure over time. A common bear case, however, is how this can be achieved in more challenging market conditions, particularly when equity issuance is limited or the company is trading below 1x mNAV.\n\nThis week, we demonstrated that this can be achieved in more difficult market environments. By using a prudent level of debt, we executed our second capital markets transaction in a month to repurchase a significant portion of pre-IPO warrants at a discount.\n\nOver the past month, the company has now acquired 42,000,000 warrants at an effective ~0.67x mNAV. This has reduced our fully diluted share count by ~10.5%, resulting in a QTD Bitcoin yield of 10.9% (currently the highest globally) and increased Bitcoin per share to 755 satoshis. To own the equivalent of 1 Bitcoin, you now need 132,482 shares.\n\nViewed through a different lens, this transaction was economically equivalent to acquiring Bitcoin at ~$49,000. Importantly, this demonstrates that Bitcoin per share can be increased even in less favourable market conditions\n\nImportantly, it also represents a material step in simplifying our capital structure. We have been conscious of the market’s focus on pre-IPO warrants as a potential overhang, and removing a significant portion (including the largest warrant holder) helps alleviate concerns on how this could impact our trading.\n\nThere is sophistication in simplicity, and a simpler capital structure puts us in a much stronger position to raise capital and scale. Over the course of this year, we have made significant progress in addressing the three primary institutional concerns; our listing venue, the scale of our operating business, and the warrant overhang which should allow for more productive conversations with prospective investors.\n\nAgainst that backdrop, I do believe that a sensible amount of debt (or amplification) is needed in a Bitcoin treasury company. The model is, to a degree, about capital structure optimisation, particularly given the long-term return profile we expect from Bitcoin.\n\nWhen used prudently, this allows us to increase Bitcoin exposure at a cost of capital below that return, accelerating Bitcoin per share growth which we believe is a key driver of trading at a premium and ultimately sustaining the flywheel.\n\nToday, the company has approximately £9.5m of debt, equivalent to ~6.9% of NAV. For context, across the sector, Metaplanet is operating at an amplification ratio of ~13.5%, Strategy at ~33%, and Strive at ~45%.\n\nWe’re in the fortunate position that the current scale of our balance sheet gives us access to these options, and over time our focus will be on determining the right level and form of debt (or amplification) as market conditions evolve.\n\nWe have also been deliberate in how we deploy debt. Rather than using it simply to increase Bitcoin holdings, our focus has been on cleaning up the capital structure of the company. In our view, increasing scale without strengthening these fundamentals is not optimal.\n\nIn summary, we felt this transaction was in the best interest of our shareholders and the level of engagement and feedback received following the announcement has been very encouraging.\n\nSector developments\n\nThere have been two notable developments for the Bitcoin industry this week.\n\nFirst, Morgan Stanley has expanded access to Bitcoin ETFs across its platform. This is particularly significant given current market sentiment. Eric Balchunas (analyst at Bloomberg) highlighted, with a network of ~16,000 advisors and trillions in client assets, even modest allocation rates could drive meaningful inflows - potentially reaching ~$5 billion in AUM within the first year. For context, BlackRock’s IBIT ETF has grown to approximately $55.9 billion since its launch in January 2024.\n\nSecond, TD Cowen published a comprehensive 100-page sector report titled “Digital Gold, Digital Picks & Shovels.” As early supporters of the space, particularly Bitcoin treasury companies, and having played a key role in raising over $50 billion for Strategy, their perspective is a meaningful contribution to the sector. The report initiated coverage on four treasury companies, including us, and we were very proud to be included.\n\nFor a smaller UK-listed company, coverage particularly from a large US Investment Bank plays an important role in broadening visibility, introducing the story to new pools of capital, and reinforcing credibility with a wider institutional investor base as the sector continues to mature. Smarter Web now has official research coverage from Tennyson Securities (UK), Maxim Group (US) and TD Cowen (US).\n\nAs coverage of the sector continues to build, one way we think about the Bitcoin treasury landscape is through the lens of an adoption curve. This allows investors to decide where they want to position themselves along that spectrum.\n\nAt the furthest point along the adoption curve, Strategy represents the market leadership phase. In the middle of the curve, Metaplanet and Strive sit in the expansion phase, while at the inflection point, we position ourselves in the emerging growth phase.\n\nEach stage offers a distinct risk/reward profile, which is what makes the sector particularly compelling. Over time, I expect investors to increasingly rotate capital across different global players, adjusting allocations based on where we are in the cycle.\n\nMarket performance\n\nThis week, our stock was the top-performing equity in the FTSE All-Share, closing +28.5%. Out of ~530 companies across the UK FTSE index series, we ranked #1 over the period. As a result of this combined with the recent capital markets activity, our fully diluted mNAV is now 0.97 - after several months of challenging sentiment for Bitcoin and the broader sector, it was encouraging to see.\n\nWe also saw a noticeable increase in trading volume over the week. While part of this likely reflects the start of the new tax year, it was nonetheless constructive. Improving liquidity, supported by ongoing awareness, is a key focus for us and an important factor in meeting the requirements of larger institutional investors. Additionally, it was encouraging to see more participation across both our US and European lines.\n\nBeing at the top of the performance tables naturally drives more attention, which in turn supports that broader objective.\n\nWeekly activity\n\nDespite it being a bank holiday on Monday, the team used the time productively with an extended strategy session. While execution remains critical, creating space to step back, think and challenge ideas is equally important and the Easter break provided a good opportunity for that.\n\nOn Tuesday, my podcast with @JayW132 was released. It had been some time since we last recorded together and it was great to reconnect given how much has evolved across both the company and the broader market. Jamie also recorded his first podcast with @InvestorSmarter, who has been a strong supporter of Smarter Web and a vocal advocate for Bitcoin in the UK.\n\nWednesday and Thursday were particularly intense with a significant amount of work focused on the warrant purchase offer. A great deal happens behind the scenes on transactions like this and we’d like to thank all our advisers who were involved.\n\nThroughout the week, we also continued to highlight speakers for the upcoming unconference, which is shaping up well.\n\nOn Friday, much of the attention was on the TD Cowen sector report. Alongside that, @Croesus_BTC, @the_desert_ape and I hosted another X/YouTube session, where we discussed the week’s developments and shared updated thoughts on the company, the market and upcoming agenda.\n\nMore broadly, the week was spent engaging with a wide range of stakeholders - developing new relationships and strengthening existing ones which remains central to how we execute our strategy.\n\nClosing thoughts\n\nLooking ahead, Jamie and I will be in London next Tuesday and Wednesday for a series of meetings, continuing that momentum as we focus on deepening engagement and progressing several ongoing initiatives.\n\nAs always, a big thank you to our community. We recognise how challenging the sector has been for some time. We’re confident that since the start of the year we’ve been taking the right steps to strengthen our foundations, and it was particularly satisfying this week to deliver increased Bitcoin per share for our shareholders. It’s been encouraging to see the positive attitude which remains a genuine source of motivation for me personally as we work to build Smarter Web into one of the leading companies in the UK.\n\nShout out to: @andysmith_asap @johnsthor1 @JohnCoo70815409 @80IQConviction @HenryBTCchef @doublediamond65 @Toffeebdm @matthewkerridge @Michaeljdobbin @Boutiquecapital @mattoshi21 @TuftyRaul @BitcoinPlebUK @Morpheus_DX @BitcoinCartoon_ @bitcoin_philos @jay_dee_ex @CloughsStuff @InvestorSmarter @DrBitcoinM50862 @the_desert_ape @PlutusSaysHodl @ZynxBTC @wildgoosejon @SmarterBuildBTC @ourgoodlifeuk @AFCB12 @Britcoiner62 @SophieSatoshi @levyuk @butler_np @Raj_Devsi @Frank54703905 @SmarterBuildBTC @DivBy21 @BitcoinBee21 and @smarter_dash.\n\nThank you for the continued support and enjoy your weekend.\n\nLSE: #SWC | OTCQB: $TSWCF | FRA: $3M8",
+    "is_reply": false,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 12, 2026, 1:02 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2042836641115419026"
+  },
+  {
+    "type": "original",
+    "post_id": "2042568675731849319",
+    "date_time": "Apr 10, 2026 · 11:41 AM UTC",
+    "text": "Another milestone achieved with the respected TD Cowen initiating coverage of The Smarter Web Company.\n\nLSE: #SWC | OTCQB: $TSWCF | FRA: $3M8\n\ntheblock.co/post/396989/td-c…",
+    "is_reply": false,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 11, 2026, 1:02 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2042568675731849319"
+  },
+  {
+    "type": "original",
+    "post_id": "2042310303526863006",
+    "date_time": "Apr 9, 2026 · 6:34 PM UTC",
+    "text": "The Smarter Web Company is now the 27 largest public company holding Bitcoin on the balance sheet globally, according to @BTCtreasuries.\n\nThis move up was caused by a company previously holding more Bitcoin moving down (and IMO you should never sell your Bitcoin).\n\nToday we also announced a transaction which I am immensely proud of - effectively acquiring Bitcoin (per share) at $49,000.\n\nLooking forward to pushing further up the leader board.\n\nLSE: #SWC | OTCQB: $TSWCF | FRA: $3M8",
+    "is_reply": false,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 10, 2026, 1:01 AM London time"
+    },
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/HFe91JnXsAEgTut.jpg?name=orig",
+        "alt": ""
+      }
+    ],
+    "permalink": "https://x.com/asjwebley/status/2042310303526863006"
+  },
+  {
+    "type": "reply",
+    "post_id": "2042189350843142504",
+    "date_time": "Apr 9, 2026 · 10:34 AM UTC",
+    "text": "We have this in two places to save people going through previously announced longer documents:\n\nAnalytics dashboard - at the bottom \"Important information & calculation methodology\" where all figures are detailed and explained.\n\nEquity snapshot - under shareholders in the main navigation - clearly detailed under the significant holders and directors holdings.\n\nHope that helps.",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 10, 2026, 1:01 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2042189350843142504"
+  },
+  {
+    "type": "reply",
+    "post_id": "2042127206990619025",
+    "date_time": "Apr 9, 2026 · 6:27 AM UTC",
+    "text": "🙏- team work - SWC and the community.",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 10, 2026, 1:01 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2042127206990619025"
+  },
+  {
+    "type": "quote",
+    "post_id": "2042126149422055747",
+    "date_time": "Apr 9, 2026 · 6:23 AM UTC",
+    "text": "Very pleased to announced the Existing Warrants Voluntary Purchase Offer Results today.\n\nThe Smarter Web Company Quarter-to-Date BTC Yield is currently 10.92% and respectable also if viewing over a longer time period.\n\nBelow is a great video that @Toffeebdm has put together showing some highlights of our team talking about #SWC and Bitcoin treasury companies.\n\nThank you everyone for the support and let's keep pushing forward.",
+    "is_reply": false,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 10, 2026, 1:01 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2042126149422055747"
+  },
+  {
+    "type": "original",
+    "post_id": "2041743109411779051",
+    "date_time": "Apr 8, 2026 · 5:01 AM UTC",
+    "text": "Jamie Knowles on Bitcoin - People Move Then Capital Follows - with to B or not to B.\n\nNew interview released with the amazing friend of #SWC @InvestorSmarter and The Smarter Web Company Head of Capital Markets @the_desert_ape.\n\nWorth watching when you have time.\n\nyoutu.be/DfVQof3MLeU",
+    "is_reply": false,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 9, 2026, 1:01 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2041743109411779051"
+  },
+  {
+    "type": "reply",
+    "post_id": "2041733175710302608",
+    "date_time": "Apr 8, 2026 · 4:21 AM UTC",
+    "text": "Thanks Toffee.",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 9, 2026, 1:01 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2041733175710302608"
+  },
+  {
+    "type": "reply",
+    "post_id": "2041733000476479535",
+    "date_time": "Apr 8, 2026 · 4:20 AM UTC",
+    "text": "Thanks Yves.",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 9, 2026, 1:01 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2041733000476479535"
+  },
+  {
+    "type": "reply",
+    "post_id": "2041595390516982035",
+    "date_time": "Apr 7, 2026 · 7:14 PM UTC",
+    "text": "Thanks Jordan. Loved recording this with you. Pressure on with the question at the end of where I see us in 6 to 9 months. Looking forward to the next one.",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 8, 2026, 1:01 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2041595390516982035"
+  },
+  {
+    "type": "reply",
+    "post_id": "2041516543738015928",
+    "date_time": "Apr 7, 2026 · 2:00 PM UTC",
+    "text": "Thanks Jordan. Been quite the year. And I hope that the next year is where we advance much further.",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 8, 2026, 1:01 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2041516543738015928"
+  },
+  {
+    "type": "reply",
+    "post_id": "2041219205282791668",
+    "date_time": "Apr 6, 2026 · 6:19 PM UTC",
+    "text": "I remember - that was a great event and was nice to meet you in person - appreciate your support.",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 7, 2026, 1:01 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2041219205282791668"
+  },
+  {
+    "type": "reply",
+    "post_id": "2041171892996899104",
+    "date_time": "Apr 6, 2026 · 3:11 PM UTC",
+    "text": "Our mNAV figure is based off the current #SWC share price in London.\n\nSo yes if Bitcoin goes up when the market is closed or the share price stays the same the mNAV goes down.\n\nI think the mNAV was more like .72 when the UK market closed on Thursday, for the Easter weekend, but in my opinion our equity is mis-priced.",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 7, 2026, 1:01 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2041171892996899104"
+  },
+  {
+    "type": "reply",
+    "post_id": "2041161255889580400",
+    "date_time": "Apr 6, 2026 · 2:29 PM UTC",
+    "text": "Depending on your age (and tax position) you can add the Lifetime ISA into the choice too - for those who can do this you get an allowance of £4,000 with 25% added by the government - a hybrid between an ISA and a SIPP!",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 7, 2026, 1:01 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2041161255889580400"
+  },
+  {
+    "type": "quote",
+    "post_id": "2041095811224735790",
+    "date_time": "Apr 6, 2026 · 10:08 AM UTC",
+    "text": "New UK tax year - The Smarter Web Company mNAV level.\n\nmNAV now at 0.70 (vs 0.78 last week).\n\nFor context, our lowest recorded mNAV is 0.69, seen at the end of the US tax year.\n\nA good reference point as we begin the year.\n\nLive treasury analytics available on our website.\n\nLSE: #SWC | OTCQB: $TSWCF | FRA: $3M8",
+    "is_reply": false,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 7, 2026, 1:01 AM London time"
+    },
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/HFNtyTkboAAHwgd.jpg?name=orig",
+        "alt": ""
+      }
+    ],
+    "permalink": "https://x.com/asjwebley/status/2041095811224735790"
+  },
+  {
+    "type": "reply",
+    "post_id": "2040860578290204717",
+    "date_time": "Apr 5, 2026 · 6:34 PM UTC",
+    "text": "Thank you Michael - fully agree. Happy Easter.",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 6, 2026, 1:02 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2040860578290204717"
+  },
+  {
+    "type": "reply",
+    "post_id": "2040759100263260178",
+    "date_time": "Apr 5, 2026 · 11:50 AM UTC",
+    "text": "100% - very hard with many of the government policies - but we must push on!",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 6, 2026, 1:02 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2040759100263260178"
+  },
+  {
+    "type": "reply",
+    "post_id": "2040758833702711787",
+    "date_time": "Apr 5, 2026 · 11:49 AM UTC",
+    "text": "100% - exciting times both at #SWC and for the UK as a whole.",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 6, 2026, 1:02 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2040758833702711787"
+  },
+  {
+    "type": "reply",
+    "post_id": "2040758638986359246",
+    "date_time": "Apr 5, 2026 · 11:49 AM UTC",
+    "text": "Thank you for the support and also to the whole SWC community.",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 6, 2026, 1:02 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2040758638986359246"
+  },
+  {
+    "type": "original",
+    "post_id": "2040721116340097477",
+    "date_time": "Apr 5, 2026 · 9:20 AM UTC",
+    "text": "Happy Easter.\n\nI’m not religious, but I do value the pause. A moment to step back and reflect.\n\nI don’t usually post personal thoughts, but something I saw on here today made me a little sad.\n\nThere are accounts whose entire purpose seems to be talking the UK down. Negativity, purely to attract attention and followers.\n\nYes - the UK is going through a difficult period. Since the credit crunch, we’ve seen many poor decisions, lots of short-term thinking, and a system that too often rewards the wrong behaviour.\n\nBut stepping back…\n\nThe UK is still one of the greatest countries in the world.\n\nOur history, our talent, our innovation - and yes, even our sense of humour - are world-class. And on the rare occasions it’s not raining, there’s nowhere better.\n\nNegativity is easy. It spreads fast. It gets clicks.\n\nBut it doesn’t build anything.\n\nIf each of us made a small positive contribution - in business, in our communities, in how we treat others - things would improve over time.\n\n- More positivity.\n- More support.\n- More entrepreneurship.\n- More respect.\n\nThat’s how you actually make the UK great again.",
+    "is_reply": false,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 6, 2026, 1:02 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2040721116340097477"
+  },
+  {
+    "type": "reply",
+    "post_id": "2040680221150474623",
+    "date_time": "Apr 5, 2026 · 6:37 AM UTC",
+    "text": "I second that one @80IQConviction. @the_desert_ape would be a great person for the wider Bitcoin treasury community to get to know. @TimKotzman let me know if you want an introduction.",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 6, 2026, 1:02 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2040680221150474623"
+  },
+  {
+    "type": "reply",
     "post_id": "2040355044009168932",
     "date_time": "Apr 4, 2026 · 9:05 AM UTC",
     "text": "Great news. Even more congrats!",

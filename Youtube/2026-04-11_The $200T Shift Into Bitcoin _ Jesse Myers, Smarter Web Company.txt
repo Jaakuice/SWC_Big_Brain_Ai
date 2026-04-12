@@ -1,0 +1,202 @@
+# The $200T Shift Into Bitcoin | Jesse Myers, Smarter Web Company
+**Date: 2026-04-11**
+**Video ID: MvwZf1gJsBY**
+**URL: https://www.youtube.com/watch?v=MvwZf1gJsBY**
+**Duration: ~18:34**
+**Channel: Bitcoin Archive w Archie**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- Bitcoin's global addressable market: ~$1,000 trillion in total world asset value across real estate, bonds, equities, money, gold, and art
+- Bitcoin currently represents only 0.2% of global asset value, framing the scale of the opportunity
+- Jesse's original model projects Bitcoin reaching 20% of global assets; Saylor's more aggressive model targets 50%
+- Saylor's $13M per Bitcoin (20-year projection) assumes 4x nominal asset inflation and Bitcoin at 7% of global assets, with further upside to 50%
+- Bitcoin treasury companies as securitised Bitcoin exposure, offering equity investors ~29% annual returns vs. ~6% on the LSE
+- MicroStrategy's preferred equity instruments (11.5% yield) competing directly with the $370 trillion fixed income market
+- The "multiplier effect": $1 of Bitcoin buying drives roughly $1–4 of price appreciation depending on market cycle timing
+- Cold storage Bitcoin as the "risk-free rate" for Bitcoin maximalists, with Bitcoin treasury companies serving as the risk capital layer
+- The case against Bitcoin maximalist dogma: AI and high-growth equities can legitimately outperform Bitcoin for skilled stock-pickers
+- Bitcoin's outsized returns are time-limited — expected to diminish as it matures into a store-of-value asset class over the next 15–20+ years
+
+---
+
+**Jesse Myers:**
+(0:00:00) This is the reason he was using my chart all along — it's a map for where are the pockets of capital that you can tap into. And now Saylor's designed the preferred equity instruments offering 11.5. That's going to win market share. That's a better value proposition to a fixed income investor.
+
+I asked this question of Saylor on a podcast — "never sell your Bitcoin, but what do you do here if there's something that can grow your Bitcoin ownership?" He cut right through it and said, for a Bitcoin maximalist, cold storage Bitcoin is the risk-free rate, but there's still a place for risk capital in a portfolio.
+
+**Archie:**
+(0:00:36) Where is the demand coming from in your analysis? Like can you sort of first of all just lay out the analysis that you've done and how the global asset registry breaks down by classification and value?
+
+**Jesse Myers:**
+(0:00:49) Yeah, so Bitcoin's full potential valuation — this is the piece I put out a few years ago, and then Saylor has adopted it as the basis of his valuation model.
+
+The idea there was, I come from management consulting. When you start a project, a common exercise is: what is the addressable market here and how much of it can we capture? In the case of Bitcoin, this analysis didn't exist out there. So I thought, okay, I'll take a crack at this — how big is the market and how much can Bitcoin take?
+
+And I quickly realised there just wasn't a singular view out there of how much value is in the world. So I had to build that picture. The reason that didn't exist is it's kind of an impossible task — impossible to get it precisely right, but you can get it roughly right. You can triangulate, take various estimates and average them out, and come to a picture that's reasonable.
+
+**Archie:**
+(0:02:17) Mhm.
+
+**Jesse Myers:**
+(0:02:18) And when I did that, the number now is a thousand trillion dollars of value in the world. And that's split between the various buckets — real estate, equities, money itself, bonds and fixed income, and then art and gold and Bitcoin.
+
+And when you take stock of Bitcoin's total valuation in this landscape, it's still 0.2% of global asset value. I think that was a big part of why that piece became quite popular — nobody had really put a number to just how small Bitcoin is relative to everything else, because we didn't have a denominator. That piece kind of created a denominator.
+
+Think about how Bitcoin is digital value and everything else is analog value — traditional capital, physical value of some kind. And in an increasingly digital world, how much value will digital value end up taking? What market share will it end up winning?
+
+In that original piece I ended up going through each of the buckets and saying, well, I think Bitcoin will take this percentage from bonds and so on — and arrived at Bitcoin eating 20%, full potential valuation of Bitcoin becoming 20% of global asset value. At some point.
+
+**Archie:**
+(0:03:53) Mhm. Which would from today mean 100x relative growth relative to everything else. So if —
+
+**Jesse Myers:**
+(0:04:03) A key point.
+
+**Archie:**
+(0:04:04) Yes. So just break that down for us, because people heard the word "relative" — explain what that actually means in numbers.
+
+**Jesse Myers:**
+(0:04:10) So using your house example — if you bought a house today for a million dollars and the same kind of asset inflation occurs over the next 10, 20 years, and 20 years from now that house is 10 million dollars, it's still the same purchasing power as it was today.
+
+**Archie:**
+(0:04:29) If all the other houses are 10 million dollars, your house hasn't really increased in value. It's just — if you sell that, you're going to have to buy another house to live in that's going to cost you the same. But if your house outperforms the market and it's worth 12 and a half million, that's the profit you'll effectively have made.
+
+**Jesse Myers:**
+(0:04:47) Right, yeah, exactly. So in this scenario, if you have a house that goes from 1 million to 10 million, that's treading water. But 100x on top of 10 million would be 100x relative performance. And that's what I think Bitcoin will do over the coming decades.
+
+And so your analysis right now puts a particular figure on it, but by the time Bitcoin fulfills its — I guess — the market opportunity, if you put it at 5% or 2% or 1%, whatever — by the time Bitcoin is worth that 20%, that segment of the market might be worth 500 trillion in nominal terms.
+
+**Archie:**
+(0:05:35) Exactly.
+
+**Jesse Myers:**
+(0:05:36) Yeah. Because a lot of people when they think about Bitcoin, they think "what could the price be?" in nominal terms. And cleverly, that's what Saylor took my model, said some very nice things to me about it, started using it in his presentations — and I didn't fully understand why. But then he put out a Bitcoin valuation model setting up a point in time in the future using the same framework of mine, and he arrived at a number: 20 years from now he thinks Bitcoin will be worth 13 million dollars per Bitcoin. Importantly, in that model all assets have 4x'd in nominal value.
+
+**Archie:**
+(0:06:19) So there's like a 4x inflation built into that.
+
+**Jesse Myers:**
+(0:06:21) Yeah. That would mean 20 years from now Bitcoin being worth 7% of the global asset landscape. And he thinks the end state for Bitcoin is as much as 50% of global asset value. I put it at 20% — I was frankly being a little conservative. He puts it as much as 50%, which would be to say that 50% of the world's asset value is just looking for the best store-of-value asset. And Bitcoin is, to use the old phrase, an infinitely expandable blueberry that can satisfy all of that store-of-value demand, because it is a perfection of store-of-value fidelity through time — there's no supply growth.
+
+**Archie:**
+(0:07:09) So we've got this preferred instrument structure.
+
+**Jesse Myers:**
+(0:07:13) Yes.
+
+**Archie:**
+(0:07:14) Which asset class is that targeting most?
+
+**Jesse Myers:**
+(0:07:20) So this is the thing that I think people haven't wrapped their heads around in general about Bitcoin treasury companies yet. If you look at that chart of where all the value is — the big buckets that stand out: real estate's big, bonds is really big at 300-plus trillion, money is big at 130 trillion-plus, and then equities at 130 trillion or so.
+
+What a Bitcoin treasury company does first is it represents a securitised Bitcoin exposure. It's an equity that is a balance sheet built on Bitcoin. And that balance sheet in theory will grow at the value of Bitcoin's performance over time. So if that's 29% a year, the value of that balance sheet grows at 29% a year, plus whatever growth in Bitcoin per share that company is able to achieve.
+
+**Archie:**
+(0:08:26) Mhm. That's pretty incredible compared to other stocks. In the UK over the last decade or two, the average performance on the LSE is 6% a year. So if you're able to achieve 29% a year compared to that, that's very enticing to equity investors. So you might get an increasing amount of capital allocating from traditional equities to Bitcoin treasury companies.
+
+**Jesse Myers:**
+(0:09:00) That's the first step of a Bitcoin treasury company. And now what Saylor has perfected — and this is the reason he really was using my chart all along — is it's a map for where are the pockets of capital that you can tap into if you can offer a superior product to that capital. The bond market, that's fixed income. They're used to getting 4 or 5%, and now Saylor's reached this end state with the preferred equity instruments offering 11.5. That's going to win market share. That's a better value proposition to a fixed income investor than what they can get with —
+
+**Archie:**
+(0:09:41) So fixed income total size was?
+
+**Jesse Myers:**
+(0:09:43) 370 trillion at this point.
+
+**Archie:**
+(0:09:46) Gosh. Yeah. Just attracting 1% of that in the next 5 years...
+
+**Jesse Myers:**
+(0:09:51) And so —
+
+**Archie:**
+(0:09:52) It's phenomenal.
+
+**Jesse Myers:**
+(0:09:53) That is how Saylor thinks and he talks about it. I was at a dinner at Strategy World where he was doing the quick math in his head — the addressable market is 100 trillion here, 300 trillion there. He's thinking about that chart. And he knows he has a better product than anything else out there for a fixed income investor. So what's to stop them from getting 1% or 5% of that capital and using it to buy Bitcoin? If it's 1%, you're talking about 3 trillion dollars of capital that Saylor is going to use over the next decade or two to buy Bitcoin. The current market cap of Bitcoin is 1.4 —
+
+**Archie:**
+(0:10:42) Mhm. Just over.
+
+**Jesse Myers:**
+(0:10:43) Yes. Right.
+
+**Archie:**
+(0:10:44) 1.4 trillion. Yeah. And we're talking about 3 trillion. It's just 1% over 5 years. Right? And there's a multiplier to that. Do you know what the multiplier is, Jess?
+
+**Jesse Myers:**
+(0:10:54) Well, yeah, that is subject to debate.
+
+**Archie:**
+(0:10:58) Give us a range — we don't have to enter into any sort of conjecture. What's the range people cite?
+
+**Jesse Myers:**
+(0:11:03) I think it's sensible to be in the one-to-four x sort of range. It just depends on the part of the market cycle as well. If you're buying at the peak enthusiasm when there are the fewest sellers, an incremental dollar will drive up the price the most. And then that all washes out and averages out over the course of four years to something like one to four x.
+
+Even though I feel that way, I also think there's a place for cold storage Bitcoin for everybody — the majority of my Bitcoin is in cold storage. And I'm an advocate of that being your absolute primary goal when it comes to Bitcoin.
+
+**Archie:**
+(0:11:52) I might encourage some people — just to get them started — to just buy some Bitcoin and I won't even tell them to get a wallet yet, right? Depending on how much they're buying. If I'm just getting them started with something small —
+
+**Jesse Myers:**
+(0:12:05) Yeah, it's just like — okay, just keep it in exchange — then I will hit them up with the wallet. Now you've got to take custody of it. And that's your savings.
+
+**Archie:**
+(0:12:13) You know, that should be your bedrock. You can always have and control it and have absolute minimal risk involved there. Zero risk essentially.
+
+**Jesse Myers:**
+(0:12:26) I asked this question of Saylor on a podcast, because I was 100% cold storage Bitcoin and then I'm seeing what Strategy is doing and it's enticing. And I asked him: "Never sell your Bitcoin, but what do you do here if there's something that can grow your Bitcoin ownership?" And he cut right through it and said, for a Bitcoin maximalist, cold storage Bitcoin is the risk-free rate. But there's still a place for risk capital in a portfolio.
+
+And that made perfect sense to me and it's still how I think about it. It's obviously up to the individual to decide what percentage of their portfolio they feel comfortable with as risk capital — that's ultimately what comes with parking your capital in anything outside of cold storage.
+
+**Archie:**
+(0:13:22) I think that's very sensible. And one of the things I really don't like seeing is that Bitcoin maxis tend to box themselves out of other opportunities by saying "you're playing fiat games." That's absolute rubbish, right? You can't say you're in favour of free markets, Austrian economics and all that sort of stuff, and then dismiss opportunities to participate in free markets through equity ownership and other securities. Depending on your circumstances and risk appetite, there are definitely other instruments out there, other investment opportunities.
+
+**Jesse Myers:**
+(0:13:59) Many of them potentially offer better returns than Bitcoin. Like AI, for example — potentially offers more risk, potentially more return. And you can't deny that. You've got to find the winners. That's why I don't go there because I'm building my business — I don't want to waste my time on that. But there are some people who do that research. There's that Codl — you're probably familiar with him.
+
+**Archie:**
+(0:14:27) Yeah. Great guy.
+
+**Jesse Myers:**
+(0:14:29) Yeah, he's a wonderful guy, really good guy. His thesis is that the cold storage stack stays there, but we're in a gold rush with AI and all that sort of stuff.
+
+**Archie:**
+(0:14:40) And I want to participate in that as well — I think the returns in that space are going to far outsize anything Bitcoin will offer as a maturing asset class.
+
+**Jesse Myers:**
+(0:14:53) I think he's absolutely right. He got a lot of flak for that.
+
+**Archie:**
+(0:14:57) Yeah. And I'm just like, guys — don't box yourselves out of stuff. If you're not looking for extra return, don't do that. But not everything else is a shitcoin. There is such a thing as investing in businesses that are growing. And it's a high bar because 29% a year is pretty damn hard to beat, but it's possible. And it's risky — we should say that. But that's a legitimate form of investing. Investing in speculative startups and technology companies is a legitimate thing to do.
+
+**Jesse Myers:**
+(0:15:33) Yeah. And that's part of why I love the concept of a Bitcoin treasury company. Depending on your entry point in terms of MNAV, this may or may not play out correctly — but in theory you can grow your Bitcoin per share by owning a Bitcoin treasury company. If you're able to buy at a one x MNAV or below, you can in theory outperform Bitcoin because that's the rising tide, and then performance on top of that through execution of the strategy can deliver more Bitcoin ownership. In my view, that's the kind of risk capital I'm excited about right now. Of course, I haven't looked into AI at all — I'm fully focused on Bitcoin.
+
+**Archie:**
+(0:16:18) Yeah. Well, there's that fellow — I think he's only 24, in the States. I can't remember his name. But he raised I think a fund of like 200 million and turned it into almost 5 billion.
+
+**Jesse Myers:**
+(0:16:32) Yeah, the — like a German-sounding name.
+
+**Archie:**
+(0:16:34) German sounding name, yeah. Maybe even Dutch. He had a thesis, executed superbly, great timing, and it's just worked out incredibly for him.
+
+**Jesse Myers:**
+(0:16:48) I think one of the Bitcoin miners — Iron Energy? They've pivoted hard towards AI data centres as well. That was his thesis and he's done exceptionally well in the space of like 12–18 months. It's possible. But in many ways you have to pick the winners, and there aren't going to be many of those examples that outperform Bitcoin.
+
+**Archie:**
+(0:17:17) No, there isn't. But that's the point of stock picking, right? That's why I don't recommend it to people — but I don't discourage people who do it either. It's not shitcoinery. It's investing. And how blessed are we to have Bitcoin as an option offering such returns still? Because in a generation that's going to be over — it's just going to be store of value. We're not going to get these outsized returns for the next 15–20 years, but after that it's gone. It's just going to be a mature asset class.
+
+**Jesse Myers:**
+(0:17:51) Well, it will diminish. In Saylor's model, the 13 million dollars per coin in 20 years would be 7% of global asset value at that point in time.
+
+**Archie:**
+(0:18:03) Okay, so he's still got upside. He's modelling —
+
+**Jesse Myers:**
+(0:18:04) He expects that to go to 50. So that's a seven x relative growth still for Bitcoin relative to everything else. Who knows how long that takes — is that 20 more years or 100 more years? We'll see. And who knows if that — well, that's Saylor's model, that's Saylor's projection of CAGR. We'll see what we actually get.
