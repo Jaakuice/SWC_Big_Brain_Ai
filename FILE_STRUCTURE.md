@@ -112,7 +112,7 @@ Contains historical media coverage and appearances related to SWC.
 
 ---
 
-### **`/RNS/`** (131 files)
+### **`/RNS/`** (132 files)
 - **Type:** Text documents
 - **Content:** Regulatory News Service (RNS) announcements - official company filings and disclosures required by UK stock exchange regulations
 - **Date Range:** Apr 2025 - Apr 2026
@@ -169,7 +169,7 @@ Contains structured social media data extracted from X.com (Twitter) accounts re
 - **Date Range:** Jun 2024 - Apr 2026
 - **File Format:** `posts-YYYY-MM.json`
 - **Data Includes:** Post type (original/reply/quote/repost), text content, engagement metrics (likes, reposts, comments), timestamps, media attachments, permalinks
-- **Statistics:** 1022 meaningful posts from 1,330+ total timeline items
+- **Statistics:** 1043 meaningful posts from 1,330+ total timeline items
 - **README.md:** Contains extraction metadata, statistics, JSON schema documentation, and usage examples
 
 #### **`/Tweets/Croesus_BTC/`** (16 files: 15 JSON + 1 README)
@@ -177,7 +177,7 @@ Contains structured social media data extracted from X.com (Twitter) accounts re
 - **Content:** Monthly JSON files with structured post data
 - **Date Range:** Feb 2025 - Apr 2026
 - **File Format:** `posts-YYYY-MM.json`
-- **Statistics:** 618 meaningful posts
+- **Statistics:** 660 meaningful posts
 - **Purpose:** Bitcoin treasury company analysis and commentary account
 
 #### **`/Tweets/smarterwebuk/`** (15 files: 14 JSON + 1 README)
@@ -185,7 +185,7 @@ Contains structured social media data extracted from X.com (Twitter) accounts re
 - **Content:** Monthly JSON files with structured post data
 - **Date Range:** Mar 2025 - Apr 2026
 - **File Format:** `posts-YYYY-MM.json`
-- **Statistics:** 241 meaningful posts
+- **Statistics:** 272 meaningful posts
 - **Purpose:** Official company announcements and updates
 
 ---
@@ -239,14 +239,14 @@ Contains structured social media data extracted from X.com (Twitter) accounts re
 | knowledge | 10 | MD, CSV |
 | Legacy media/News articles | 12 | TXT |
 | Legacy media/Tv appearances | 1 | TXT |
-| RNS | 131 | TXT |
+| RNS | 132 | TXT |
 | Smarter Web | 17 | TXT |
 | Tennyson | 20 | PDF |
 | Tweets/asjwebley | 22 | JSON, MD |
 | Tweets/Croesus_BTC | 16 | JSON, MD |
 | Tweets/smarterwebuk | 15 | JSON, MD |
 | Youtube | 137 | TXT |
-| **TOTAL** | **~386 files** | |
+| **TOTAL** | **~387 files** | |
 
 ---
 

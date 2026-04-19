@@ -174,7 +174,7 @@ Provide a comprehensive answer with:
 - **Selection method:** Filter by date (filename contains YYYY-MM-DD) or keyword (e.g., "Bitcoin", "placing", "director", "results")
 - **Types:** IPO/admission, Bitcoin purchases, share issuances, director appointments, trading updates, TR1 notifications, financial statements, corporate governance
 - **Triggers:** RNS, regulatory, official announcement, Bitcoin purchase announcement, placing, fundraise, bookbuild, subscription, director appointment, TR1, major shareholder, trading update, AGM, general meeting, results, official filing, when did SWC buy Bitcoin, how much did they raise, new director
-- **Date range:** Apr 2025 - Apr 2026 (131 files)
+- **Date range:** Apr 2025 - Apr 2026 (132 files)
 
 ### YouTube Updates/Interviews
 **Location:** `/Youtube/` .txt files
@@ -189,7 +189,7 @@ Provide a comprehensive answer with:
 1. `/Tweets/asjwebley/` JSON files (monthly: `posts-YYYY-MM.json`)
 2. YouTube transcripts where he speaks (filter by "Andrew Webley" or "CEO" in title/metadata)
 - **Triggers:** Andrew Webley, Andy, @asjwebley, CEO tweets, what did Andrew tweet, Andrew's view, CEO opinion, Webley said, think like Andy, Andrew's perspective, CEO social media
-- **Date range:** Jun 2024 - Apr 2026 (1022 meaningful posts)
+- **Date range:** Jun 2024 - Apr 2026 (1043 meaningful posts)
 - **Use for:** Personal views, real-time reactions, direct CEO communication
 
 ### Company Official Posts
