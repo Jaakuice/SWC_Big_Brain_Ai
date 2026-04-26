@@ -1,6 +1,191 @@
 [
   {
     "type": "reply",
+    "post_id": "2047957960588939409",
+    "date_time": "Apr 25, 2026 · 8:36 AM UTC",
+    "text": "Thanks for the meal Henry.\n\nIt was special spending the evening with so many of our shareholders and the food was awesome.\n\nThanks for the bread too.\n\nAlways appreciated.",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 26, 2026, 1:01 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2047957960588939409"
+  },
+  {
+    "type": "reply",
+    "post_id": "2047957690966593546",
+    "date_time": "Apr 25, 2026 · 8:35 AM UTC",
+    "text": "I enjoyed that too. It was a great event and thank you for everything that you do for Bitcoin in the UK.",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 26, 2026, 1:01 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2047957690966593546"
+  },
+  {
+    "type": "quote",
+    "post_id": "2047908499481326033",
+    "date_time": "Apr 25, 2026 · 5:20 AM UTC",
+    "text": "This week’s update has been harder to write than usual. As we mark our first anniversary as a public company, it’s hard not to feel a little emotional trying to capture everything we’ve experienced over the past year. The progress, the challenges, the highs, the lows and everything in between is tough.\n\nWhen I first had this idea, many people said it couldn’t be done. I heard all the reasons why it would fail. Despite that, I chose to take a significant personal risk because I believed not only that it was possible, but that the UK needed something like Strategy.\n\nTwelve months on, it’s hard to fully take in how far we’ve come - listing on Aquis, rapid early growth, raising ~£250m, becoming one of the largest Bitcoin treasury companies globally, speaking at industry conferences, meeting Michael Saylor, uplisting on the London Stock Exchange, acquiring Squarebird, leading research coverage and being included in the FTSE indices are just some of the highlights.\n\nAll of those are solid achievements, but what I’m most proud of is the investor support that we have received. People matter and through Smarter Web, we’ve brought together individuals around a shared mission – building what I hope will be one of the largest companies in the UK, built on a Bitcoin balance sheet.\n\nAs we enter year two, I’ve been reflecting on the values that have guided us so far and will continue to define us - integrity (doing what’s right, not what’s easy), transparency (clear, timely communication), accountability (owning outcomes), and stewardship (advancing the industry responsibly).\n\nThese values aren’t just statements - they underpin how we operate day to day. They guide our decision-making, how we communicate, and how we think about long-term growth. In a rapidly evolving industry, maintaining trust and consistency is key, and we believe staying anchored to these principles will be an important differentiator. Everything ultimately comes back to a simple question - what is best for our shareholders.\n\nIt’s also important to take a step back and reflect on where we could have improved. Overall, I believe we’ve taken the right steps, though there are areas where we could have moved slightly faster - for example, we could have shaved a few weeks off the London Stock Exchange uplisting.\n\nMy view has always been that you can do almost anything if you believe in it and apply yourself. That will continue to guide us as we look to grow and break new ground. We’re not complacent and, as a team, we know there’s still a lot of work to do. We’re working hard to keep moving things forward. It isn’t always easy, but the continued support from our investors, and seeing how much Smarter Web means to so many, gives us real motivation to keep pushing on.\n\nData and metrics\n\nData and analytics are important. As I mentioned last week, it’s an area I’m personally very passionate about, and where I believe, Smarter Web can help lead efforts to improve transparency and standardisation across the sector. I remember in the early days the community-built tools and dashboards were crucial in helping us raise awareness.\n\nWe’ve been working closely with several dashboard providers, including @StrategyTracker and @BitcoinPowerLaw, to ensure our data is accurately reflected.\n\nThrough this, we’ve identified that some of our share information is not yet being correctly displayed on certain equity brokerage platforms, due to issues with their underlying data providers. We’re actively engaging with them to resolve this, and I appreciate the support from the community mid-week in helping bring attention to it.\n\nIt was also great to see @AdamBLiv using @Croesus_BTC’s P/BYD metric to discuss a valuation framework for Strategy and @Toffeebdm exploring sats per $1,000. This kind of analysis is exactly what helps the space mature and become better understood.\n\nWeekly activity\n\nMonday - it was great to announce £1.5m of proceeds from our subscription agreement, the largest since 15 January (£1.7m). Jesse also spoke on @roxom - many thanks to Roxom for their continued support.\n\nTuesday and Wednesday was a busy 48-hour period, with of back-to-back calls with various stakeholders as we progressed several ongoing projects.\n\nThursday - we announced our Block Admission Application. This is a standard administrative process relating to how shares are issued when pre-IPO warrants are exercised and does not impact the fully diluted share count (available on our website). As a reminder, there are approximately 54m warrants outstanding, with around 27m held by myself, my wife, and directors/employees of the company. The exercise window runs from 24 April 2026 to 24 April 2028, and all warrant holders have been notified of the process. As already stated, we will provide updates at set intervals on the number exercised, ensuring full transparency.\n\nWe also released our one-year anniversary t-shirt. We had a lot of fun designing it and thank you to @aw_smarterwebuk for the work on this. Our view remains that there is sophistication in simplicity, and we wanted this to come through in this limited-edition piece of merch, which I’m pleased to say has been well received.\n\nFinally, @the_desert_ape and I caught up with @BTCBULLRIDER, a long-time supporter. It was our first conversation in many months and came at a good time. As always, he asked thoughtful questions, and I’m looking forward to our next chat.\n\nOn Friday we added 44 Bitcoin, taking our total Bitcoin treasury to 2,750 and the quarterly Bitcoin yield to 11.84%. We also announced an update to our Bitcoin Treasury Policy to allow the use of our strategic credit facility with Coinbase to fund Bitcoin purchases over time.\n\nIt’s important that shareholders understand the rationale behind this decision. The facility allows us to increase leverage in a responsible manner with an attractive cost of capital.\n\nThis is particularly important when you consider our long-term view on Bitcoin.\n\nWe expect Bitcoin to annualise at c.29% CAGR over time and therefore see selective use of leverage at this stage of the cycle as an effective way to accelerate accumulation and hopefully help support a sustained mNAV premium.\n\nThe purchase was funded in part through that facility. With Bitcoin still ~40% below its October highs and our leverage previously at ~6.4%, we believe this represents a measured and disciplined approach.\n\nMore broadly, we see measured leverage (or “amplification”), when used responsibly, as an important component of a modern Bitcoin treasury strategy - one that we expect to become increasingly common across the industry, with levels actively managed through the cycle.\n\nFollowing this purchase, total drawings under the facility are £12m, with leverage at ~8.1%. The facility is secured against our Bitcoin holdings and has no fixed maturity, giving us full flexibility over repayment timing. For full transparency, we have decided to disclose the current variable interest rate we are paying, which is between 6.75% and 7.25%.\n\nWe believe this represents a considered and responsible approach, forming part of our ongoing capital structure optimisation strategy. We were also encouraged by the supportive and constructive feedback from shareholders.\n\nFinally, we released a short 30-second film highlighting some of our key moments from the past year, which I enjoyed filming mid-week with Alex and @jonwbird. It felt like a fitting way to reflect on how far we’ve come.\n\nI ended the week travelling to Stroud with Jamie and Jon for @HenryBTCchef’s “Feast + Bitcoin” event to mark our one-year anniversary. It was a fantastic evening with great food and a real pleasure to meet so many of our shareholders. Online interaction is good, but nothing beats meeting in person and hearing people’s stories and hopes for Smarter Web.\n\nShout out to: @andysmith_asap @johnsthor1 @JohnCoo70815409 @80IQConviction @HenryBTCchef @doublediamond65 @Toffeebdm @matthewkerridge @Michaeljdobbin @Boutiquecapital @mattoshi21 @TuftyRaul @BitcoinPlebUK @Morpheus_DX @BitcoinCartoon_ @bitcoin_philos @jay_dee_ex @CloughsStuff @InvestorSmarter @DrBitcoinM50862 @the_desert_ape @PlutusSaysHodl @ZynxBTC @wildgoosejon @SmarterBuildBTC @ourgoodlifeuk @AFCB12 @Britcoiner62 @SophieSatoshi @levyuk @butler_np @Raj_Devsi @Frank54703905 @SmarterBuildBTC @DivBy21 @BitcoinBee21 and @smarter_dash.\n\nLooking ahead, our focus remains clear - to build Smarter Web into one of the leading companies in the UK over the course of a ten-year plan. The past 12 months have been about laying the right foundations, and I’m proud of what we’ve achieved together as both a company and an investor community.\n\nMy conviction in Bitcoin, in what we’re building, and in the opportunity ahead is absolute. If we continue to execute with discipline and patience, I believe we have a clear path to becoming a FTSE 250 company and, in time, a FTSE 100 company.\n\nBefore I sign off, I’d like to thank my family for their continued support and patience while the Company takes up so much of my time. Jo, Josh and Jess - I’m incredibly grateful for your understanding. I would like to thank our growing team of amazing people working together to grow The Smarter Web Company. And I want to say thank you to all our shareholders for your continued support. The best is yet to come.\n\nLSE: #SWC | OTCQB: $TSWCF | FRA: $3M8",
+    "is_reply": false,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 26, 2026, 1:01 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2047908499481326033"
+  },
+  {
+    "type": "reply",
+    "post_id": "2047683515685175758",
+    "date_time": "Apr 24, 2026 · 2:26 PM UTC",
+    "text": "Thank you. It's been a very busy year and looking forward to the future.\n\nI believe that the UK has a real opportunity to become a significant player in the global Bitcoin treasury sector.\n\nMaking the UK great again.",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 25, 2026, 1:01 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2047683515685175758"
+  },
+  {
+    "type": "reply",
+    "post_id": "2047541957497413972",
+    "date_time": "Apr 24, 2026 · 5:03 AM UTC",
+    "text": "Awesome work Adam. One year anniversaries are pretty cool. Keep it up!",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 25, 2026, 1:01 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2047541957497413972"
+  },
+  {
+    "type": "original",
+    "post_id": "2047405394524307466",
+    "date_time": "Apr 23, 2026 · 8:00 PM UTC",
+    "text": "Webley Tracker: thesmarterinvestmentguy.com/…\n\nSWC on StrategyTracker: tracker.smarterwebcompany.co…\n\nSWC on mNNAV: mnav.com/dashboard/swc\n\nSWC on Bitcoin Treasuries: bitcointreasuries.net/public…\n\nOfficial SWC Dashboard: smarterwebcompany.co.uk/bitc…",
+    "is_reply": false,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 24, 2026, 1:01 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2047405394524307466"
+  },
+  {
+    "type": "original",
+    "post_id": "2047405332180185592",
+    "date_time": "Apr 23, 2026 · 8:00 PM UTC",
+    "text": "Tomorrow is our one-year anniversary of being a public company (The Smarter Web Company listed on 25 April 2025, and tomorrow is the nearest trading day).\n\nWithin a very short space of time @BitcoinBee21 created the Webley Tracker and it is one of my favourite community websites today.\n\nRecently we also worked with @StrategyTracker to ensure that our Bitcoin analytics data was represented accurately on their platform.\n\nOthers like @BitcoinPowerLaw and @BTCtreasuries have amazing data that is making the Bitcoin treasury sector easier for investors to evaluate.\n\nI am looking forward to the future for The Smarter Web Company.\n\nAnd hopefully adding many more orange dots.\n\nLSE: #SWC | OTCQB: $TSWCF | FRA: $3M8",
+    "is_reply": false,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 24, 2026, 1:01 AM London time"
+    },
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/HGnXf1AWUAAUqGH.jpg?name=orig",
+        "alt": ""
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HGnXgpdXEAAYbJ8.jpg?name=orig",
+        "alt": ""
+      }
+    ],
+    "permalink": "https://x.com/asjwebley/status/2047405332180185592"
+  },
+  {
+    "type": "reply",
+    "post_id": "2047226456309199172",
+    "date_time": "Apr 23, 2026 · 8:09 AM UTC",
+    "text": "Great news Scott. The UK needs more businesses like #XCE pushing corporate Bitcoin adoption forward. Keep it up!",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 24, 2026, 1:01 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2047226456309199172"
+  },
+  {
+    "type": "quote",
+    "post_id": "2047028651921748187",
+    "date_time": "Apr 22, 2026 · 7:03 PM UTC",
+    "text": "On Thursday @the_desert_ape and myself will be catching up with @BTCBULLRIDER.\n\nIf you are free tomorrow at 15:00 UK (10:00 EST) please join us to talk about the latest developments at The Smarter Web Company.\n\nLSE: #SWC | OTCQB: $TSWCF | FRA: $3M8",
+    "is_reply": false,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 23, 2026, 1:01 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2047028651921748187"
+  },
+  {
+    "type": "quote",
+    "post_id": "2046838571953213462",
+    "date_time": "Apr 22, 2026 · 6:28 AM UTC",
+    "text": "Hard to believe it’s been just under a year since we took The Smarter Web Company public.\n\nBack then, plenty of people said a Bitcoin treasury company wouldn’t gain support in the UK.\n\nTogether, I think we’ve proven otherwise.\n\nThis Friday marks our first anniversary as a public company - and we’re only just getting started.\n\nLSE: #SWC | OTCQB: $TSWCF | FRA: $3M8",
+    "is_reply": false,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 23, 2026, 1:01 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2046838571953213462"
+  },
+  {
+    "type": "quote",
+    "post_id": "2045953807847174353",
+    "date_time": "Apr 19, 2026 · 7:52 PM UTC",
+    "text": "Some fairly impressive numbers here for The Smarter Web Company in terms of sats per $1,000 within the Bitcoin treasury.\n\nCredit to @Toffeebdm for pulling this together.\n\nLSE: #SWC | OTCQB: $TSWCF | FRA: $3M8",
+    "is_reply": false,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of April 20, 2026, 1:01 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2045953807847174353"
+  },
+  {
+    "type": "reply",
     "post_id": "2045401660491501623",
     "date_time": "Apr 18, 2026 · 7:18 AM UTC",
     "text": "You are welcome. It was quite the feast. @the_desert_ape was in charge of the ordering and he impressed!",
