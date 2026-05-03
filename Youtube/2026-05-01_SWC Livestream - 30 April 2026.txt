@@ -1,0 +1,240 @@
+# SWC Livestream - 30 April 2026
+**Date: 2026-05-01**
+**Video ID: ErjYQvxdc0Y**
+**URL: https://www.youtube.com/watch?v=ErjYQvxdc0Y**
+**Duration: ~38:25**
+**Channel: The Smarter Web Company**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- Bitcoin feast/shareholder dinner event recap hosted by Henry the Bitcoin Chef
+- New financial controller Oliver joining the SWC team
+- Coinbase credit facility: $30M facility, ~$16-17M drawn, leverage ratio at 9.3%
+- Bitcoin treasury strategy rationale for adding responsible leverage at 40% below all-time highs
+- Pre-IPO warrant exercise window (April 24, 2026 – April 24, 2028) and disclosure timeline
+- New analytics/dashboards page on the SWC website and partnership with Strategy Tracker
+- Standardising Bitcoin treasury company reporting metrics for institutional adoption
+- PBIT metric (invented by Jesse Myers) gaining traction with third-party analysts
+- TD Cowen initiation of coverage and its impact on institutional conversations
+- Upcoming SWC unconference on May 29th: agenda, VIP dinner, speakers including Radu from Strategy Tracker
+- FTSE index inclusion impact: easier institutional access, consistent top-mover visibility on LSE
+
+---
+
+**Jesse Myers (Head of Bitcoin Strategy – Host):**
+(0:00:00) And for another SmarterWeb live stream, uh with the whole team uh here, or some of the team. Uh Andrew and Jamie joining me today.
+
+Um we have a bunch to talk about — a lot of new developments over the last 2 weeks — uh and I figured we would start with a little bit of um color commentary, I guess, on the uh event on Friday that many shareholders were able to attend. Uh Andrew and Jamie were there. So, uh gentlemen, tell me — how was it? What happened? Where was it? And tell us about the experience.
+
+**Andrew (CEO):**
+(0:00:37) Uh it's brilliant. Um so, Henry the Bitcoin Chef, who's um talking at our conference uh at the end of May, um along with — I think we've got about another 30 speakers —
+
+In the early days of becoming a public company, just only a year ago, um he organized two of these feasts. He does a feast, you know, most months. Um allows people to pay in Bitcoin and um he did it, you know, for SmarterWeb and then a couple of months ago he said that he would organize like an anniversary celebration.
+
+And you know, Jamie and myself were there with probably about another 30 people and it was an amazing evening. It was great to informally chat to everyone, share some jokes, share some wonderful food. Um and at the end, Jamie and I did a short question and answer as well. So yeah, it was great and we're very lucky to have such a supportive bunch of people behind us.
+
+**Jesse Myers:**
+(0:01:39) What were some of the questions uh that you guys were able to answer for the community there? I think everyone who wasn't there would be curious.
+
+**Andrew:**
+(0:01:48) Uh Jamie, you're on mute or too far away or something.
+
+**Jamie (Head of Capital Markets):**
+(0:01:54) I'm mute.
+
+**Jesse Myers:**
+(0:01:58) Andrew, maybe you can take that as Jamie sorts it out.
+
+**Andrew:**
+(0:02:02) Yeah, um questions. Um I think some people were asking about what we're doing with the Coinbase facility. Um other people were asking, you know, where — sort of, you know — the next 6 to 12 months um will take us. You know, being a public company, you know, there's only certain questions that we can answer. Um there were some questions about um, you know, the team and — even though we knew that we were about to announce Oliver, the new financial controller, on Monday, obviously we couldn't tell anyone that. That was increasingly sort of difficult as well, because he was actually there. Um so we wanted to introduce him, but um you know we couldn't, because, you know, you have to do it by regulatory announcement and then everyone knows at the same time.
+
+Yeah, you know, it was lovely. We're very lucky to have such a supportive bunch of people behind us that, you know, are this passionate about the company. And you know, even on the harder days when you feel up against it, you remember that you've got all these people behind you and you push on.
+
+**Jesse Myers:**
+(0:03:18) As Jamie continues to tackle that — yeah, it sounds like a wonderful event. I wish I could have been there. Um I look forward to seeing everybody at the un-conference. Um those who can attend, coming up soon and we'll talk about that in a bit. Um — figured — can hear you. It's very very quiet there, Jamie.
+
+**Jamie:**
+(0:03:38) Yeah, can you hear me now?
+
+**Jesse Myers:**
+(0:03:39) Yes, very very faint. Um maybe if you turn up your microphone — sometimes I accidentally do that.
+
+**Jamie:**
+(0:03:51) What about now? Can you hear me?
+
+**Jesse Myers:**
+(0:03:53) It's much much better.
+
+**Jamie:**
+(0:03:56) Okay, what about now?
+
+**Jesse Myers:**
+(0:03:57) Fantastic.
+
+**Jamie:**
+(0:03:58) Two two ready? [laughter] Okay, got you. Right. Sorry about that — for some reason, honestly, I don't know what's been going on, but with these streams I just — the microphone's had an issue. But I wanted to say: great to be on the air. The most asked question at the dinner was "where is Jesse Myers?" Because when they told the crowd that I was going to be replacing you, I think there was a little bit of disappointment in the air. So you're obviously very well liked, Jesse, and there were a lot of great questions related to you — asking how you've been getting on, what you've been up to. So just worth sharing that feedback.
+
+Just to reiterate what Andrew said, I thought it was a fantastic event. So on the table I was sat next to uh John Thor, Andy Smith, Glenn, uh AT, uh James from Our Good Life, um and then, you know, we had five other tables around us as well, and then we spent a little bit of time just mingling in between. But it was really good fun. But most importantly, as Andrew said, it's hearing what SmarterWeb means to people. I think everyone has been surprised how quickly the last 12 months have gone and obviously it's been a big roller coaster, but the key thing for me is that a lot of people are still very much here for the journey, very much believe in the collective mission, and that for me left me feeling very inspired when I went back to London the next day.
+
+**Jesse Myers:**
+(0:05:23) It's truly amazing to have a community that's as passionate as the SmarterWeb community is. You know, I don't think there are many public companies in the world that can say the same. Um and you know, I think it's a sign of where the company can go — that it resonates so deeply as people learn about, you know, what SmarterWeb is doing. Um and I think the strength of the community is itself a healthy metric of what's possible for, you know, a Bitcoin treasury company in the UK where, frankly, everything I've learned over the last years — the UK needs something like this. Um and I think it really resonates. Awesome to hear that.
+
+**Andrew:**
+(0:06:10) I'm not sure whether I'm allowed to say this, but I will anyway. When I talk with some of the other companies, you know, it's a point of envy — all the people that we've got behind us. You know, we've — yeah, I echo both of your comments — we do have the best community in the world behind us and we'll keep trying to deliver for them.
+
+**Jesse Myers:**
+(0:06:33) Perfect segue into our next topic, which is uh — as part of a Bitcoin treasury strategy.
+
+**Andrew:**
+(0:07:58) Yeah, I'm happy to take that one if you want and Jamie can sort of — yeah, I figure we'll all pitch in.
+
+Yeah, so, there are lots of different aspects of that. We collectively think that it's the right time um to increase our Bitcoin holdings and to add some responsible leverage.
+
+Um you know, one of the advantages we've got is we've got a very healthy balance sheet. Um and that allows us to make decisions that are based on potential outcomes over the medium to long term.
+
+Um and that's why we're doing it. You know, we can go considerably higher um and it would still be a relatively modest level of leverage. Um and obviously as the price of Bitcoin goes up — should that happen in the shorter term — um then not only does that compound the value for the shareholders, but it reduces the leverage as well, because leverage is a calculation between your fiat debt um and your Bitcoin balance sheet.
+
+Um I think it's the perfect time to do it. You know, if you were thinking about um Bitcoin going up and down — clearly we've come off considerably off the fairly recent all-time highs. You know, we did go down by, let's call it 50%. Um and then, you know, you can get this sideways chop for a very very long time. Um I personally don't think that it's going to last that much longer until it starts going up, but it could be, you know, 3 months, 6 months, who knows.
+
+Um but as we've probably turned the corner on that price action, it makes sense to add that. As opposed to, you know, if you were at all-time highs and you started leveraging up — that's probably not the best thing to do. Um so yeah, I think it's absolutely the right thing to do for the business, and hopefully as Bitcoin continues to rise higher, that level of fiat debt will stay the same. Um and it allows us to buy more Bitcoin, add to our balance sheet, work towards scale. Um and we think it fits nicely as a bridge um into where we want to be in the future.
+
+**Jesse Myers:**
+(0:10:16) Very well said. And Jamie, before you jump in, I'll say that I had to check our leverage ratio — right now at 9.3%. So when we — 2 weeks ago we were at 6.6% uh and have added 72 Bitcoin, and that has increased our leverage ratio uh to 9.3%, which is still quite modest, single digit um ratio, especially when you consider that we're 40% off the Bitcoin highs. And you know, if Bitcoin was to go back to all-time highs — or let's say Bitcoin were to double from here — then our leverage ratio would be cut in half automatically.
+
+So yeah, quite modest at this point.
+
+**Jamie:**
+(0:11:02) Correct. And that's maybe a good point, Jesse, to bring up. Some of the questions that we've had have been: does the company have a target leverage ratio? Uh and the answer to that is that we don't formally provide one. Naturally our leverage ratio is a function of two things. One is the overall size of the Coinbase facility that we have, which is $30 million US dollars, of which we've drawn down approximately 16 to 17, depending on where the FX is. And the second is market conditions.
+
+So where Bitcoin is at the moment — i.e. 40% off of the all-time highs — we think that this is a sensible level to prudently and responsibly be adding leverage. But there is no official target. Now internally, as you guys know, we have a variety of different models that we stress test for different outcomes, and our decision will be based on whatever we think is right given market circumstances.
+
+So the key thing I think really to flag is the fact that the structure is backed by the collateral that we have at Coinbase, and most importantly in a very robust setup and at a very competitive rate — which for the first time we decided to disclose, in the interest of transparency — which is a variable rate between 6.75 to 7.25, and it is an open-term loan, meaning it's when we pay it back — it's at our discretion.
+
+Uh which I think is a key thing, so the debt could effectively be rolled for perpetuity. And the reason that we went ahead with the strategy was: one, because we were obviously listening to investor feedback; but two, it was becoming abundantly clear that this is what the market wanted to see in order to be able to generate a sustained premium to mNAV. So we hope that we're demonstrating this to shareholders.
+
+And you know, I think it's been very well received and it's been encouraging to see the feedback from shareholders — with their response to them agreeing that they feel this is the right step forward for us.
+
+**Jesse Myers:**
+(0:13:13) It's a very good reminder that for many investors, the value proposition of a Bitcoin treasury company is that — as a public company — a Bitcoin treasury company can access debt terms and types of debt that individuals simply can't.
+
+Uh and those terms can be so attractive that it makes sense to take on leverage when, you know, as an individual you might not max out your credit card uh in order to buy Bitcoin, but you can get such attractive rates on debt as a public company with a large Bitcoin treasury that it can make sense to — when you're 40% off the highs — um take on a little bit of leverage. And that in turn can justify um paying a premium to net asset value. Um and that's what we've noticed.
+
+We've been very much aware of how Bitcoin treasury companies globally that have higher amplification ratios — meaning a combination of traditional leverage uh and/or preferred equity obligations — they have been trading at higher mNAVs, and that's been pretty consistent and growing for the last 6 months.
+
+Um and that's the math, you know — it makes sense to pay a premium uh if you have leveraged Bitcoin upside. Um and because of how the math plays out in the scenario where Bitcoin goes up but your fiat obligations stay flat, it adds Bitcoin per share uh in a net sense — so net of debt or net of obligations.
+
+Um so that's — you know, we're very much aware of that and we believe that it makes sense to offer that to investors and to the marketplace. Um and insofar our mNAV has responded quite well uh since we started taking on any debt at all. Uh when we weren't using the Coinbase credit facility, our mNAV traded at 0.7 uh just about a month ago. And since we've started opportunistically tapping into that credit facility and increasing our leverage ratio, we've briefly traded uh above 1X mNAV. So uh we hear the market and we're pleased to see that the market is responding well to our modest use of leverage at this point.
+
+**Andrew:**
+(0:16:06) Well said, Jesse. Yeah, all right. I suppose we've sufficiently covered that topic and we can move on to uh other things we should go through.
+
+Other announcements over the last 2 weeks — for one, Oliver — Andrew, if you want to describe what that is and his role in the company.
+
+**Andrew:**
+(0:16:29) Yeah, so Oliver has joined us as financial controller, working alongside Marie. Um we've got to know Oliver over the last year uh from a distance. Um and we were delighted that he wanted to join us to do this role. If anything, he's sort of a little bit overqualified for it at the moment, um because he's come from a big private company um that he was at as a CFO. Um and before that he's got a lot of experience in banking, and before that in audit. Um he's a Bitcoiner. He's a small Web shareholder. Um and he understands where we're going. Um so I'm hoping that he'll become a really important part of the team, and you know, first week — which we're getting towards the end of now — he's certainly um participated above my expectations. Um I quite like it — it's not compulsory to work very early in the morning and very late at night, but um he seems to do it and I like that.
+
+**Jamie:**
+(0:17:42) Yeah, I will also say that it's been great working with him this week. You know, one of the things that people may not see behind the scenes is that even though we have our own distinct job titles — like Jesse's head of Bitcoin strategy, I'm head of capital markets, Andrew's CEO — we all have to get stuck in to doing jobs that aren't within our official title, and sometimes those jobs aren't particularly enjoyable. They're admin related — they're sort of the messy stuff where you have to roll up your sleeves. And if anything, that's actually one of the things I've realized most about working at a Bitcoin treasury company — how much admin there is to just get through in an organization, to make sure everything's super tightly buttoned up, which Andrew is very very good at. I've never seen anyone chop through admin as well as Andrew, which is actually a very big compliment.
+
+But Oliver this week has been taking loads of stuff off my plate and helping me as well — getting stuck in. So it just gives everyone a little bit more air to breathe and then being able to focus on the stuff that's strategically important to them, as he gets up to speed in his role. So he's been a great addition to the team and I'm really looking forward to working with him in a more full-time capacity.
+
+**Jesse Myers:**
+(0:18:56) Agreed. Um other updates — we also put out our long-term incentive plan. Um that's now been published. Uh everyone on the team is healthily incentivized I would say for a long-term build and hopefully a great outcome. Um so that's all we really need to say there.
+
+Um another topic that we should cover is warrants — pre-IPO warrants in particular. There was a question um from the community about that from Dean, uh who asked about pre-IPO warrants — is there any update on exercise and the status of that? Um and Jamie, you're probably best positioned to speak to this if you want to provide a little update on how that's all going to play out.
+
+**Jamie:**
+(0:19:51) Correct. Cool. So the warrant window for pre-IPO warrant holders to exercise opened on April the 24th and will run until April the 24th of 2028. Just as a reminder, there were 96 million pre-IPO warrants, roughly, uh of which were reduced down — we bought back 42 million um via two discounted um offers.
+
+Uh of the remaining amount, half are owned roughly by Andrew and his wife and then related um directors and employees. And so we've started to see some warrant exercises starting to trickle in. There is quite a lengthy administrative process related to those, depending on certain factors — like do you have your warrant certificate, do you not.
+
+But the key thing is that in terms of disclosure, the company has up to 60 days post someone's warrants being exercised to fully disclose that.
+
+But in the interest of transparency, we will look to try to wrap them into our TVR announcements — which are Total Voting Rights announcements — which are announced on the first business day of every calendar month. And so shareholders will be able to get a look-through into how many warrants have been exercised.
+
+**Jesse Myers:**
+(0:21:28) Hope that clarifies that. Yeah, and that uh starts on June 1st, is that right?
+
+**Jamie:**
+(0:21:32) Correct. So the next — the first time that we will update will be June the 1st, correct, because it opened on April the 24th and it's one week to turn it around for May — there's not going to be — it's going to be too tight. So June the 1st will be the first uh time that we announce how many warrants have been exercised.
+
+**Jesse Myers:**
+(0:21:53) Great. Thank you for that uh clarity and update there. Um another thing that's happened in the last 2 weeks uh has been um a new page on our website um featuring many of the third-party uh analytics dashboards that are floating around out there in the Bitcoin Treasury company landscape, and some built by the uh SmarterWeb community specifically.
+
+Um which — it's quite a cool page. Uh Alex did a great job putting that together. And uh it's part of a topic that we're interested in, feel passionate about uh with regard to analytics transparency uh and how best to standardize — hopefully, into the future — global Bitcoin Treasury company uh reporting data.
+
+Uh so part of that development was — we're now working directly with Strategy Tracker to make sure that our analytics are published there um and the methodology shown there is in line with our uh internal dashboard uh and how things are calculated there. So hopefully people see the analytics — you know, third-party calculations — reflect what uh our view of the data is.
+
+Uh and yeah, so this is a topic that has become more important to us in particular as we shift into um an era where there is leverage involved in the Bitcoin Treasury strategy, and that uh impacts how analytics are calculated and results are shown. Um and it's also become a topic that we want to feature in the upcoming unconference. Um so yeah, Andrew, if you want to talk a little bit more about why uh that topic matters to us, why it's being included in the unconference, and so on.
+
+**Andrew:**
+(0:24:04) Yeah, so the third-party websites that create the Bitcoin Treasury analytics — so Strategy Tracker, you mentioned, mNAV, Bitcoin Treasuries — you know, as an investor before we became a public company, I used to use um Bitcoin Treasuries to track the, you know, where companies were. Obviously when there were less companies and, you know, the orange dots that Michael Saylor's been reposting for a very very long time — I've followed that and they've done a good thing um for the industry so far.
+
+But what I learned when I was at HL all those years ago was that the way, you know, in TradFi — the way um data works with all these different platforms isn't actually as good as you would think. Um and I think that's evident recently um when people saw that some third-party websites — you know, in fact most of them — AJ Bell, Interactive Investor, all of these ones — the FTSE uh constituents wasn't updated as frequently as people would think, because that data came from — I think in that case it came from Morningstar. Um
+
+So what does this mean? Well, if the data is as good as it can be, it's better for investors. Um and then also there's probably a contribution that we can make to the industry in terms of trying to improve the data, which benefits everyone. It benefits the investors, it benefits the companies because they can show themselves in the best possible light, and all of these things. And you know, because it's something that we care about as a company and I've also got a bit of experience in, we wanted to try and make a contribution there.
+
+So um yeah, as with everything in a new industry, it will get better over time and hopefully we'll play a part in that. So we invited Radu uh from Strategy Tracker to come to the conference. Um so he's going to do a talk about data and we can talk about some of the challenges.
+
+Um we'll try not to make it too detailed because some people probably aren't aware of some of the ways that the data gets sort of um passed through the systems and so forth. Um and so we'll try not to make it too developery or techy, but I'm looking forward to it and I put myself down as the person who would sort of do that panel with him, to talk through everything. So yeah, it's just another thing that needs to get better in the industry. Um the industry's actually pretty advanced relative to traditional finance that's been around for, well, 30 years or something like that in terms of finance on the internet. Um so yeah, we're doing okay on that front as an industry, but of course, like everything, we can get better and we'll try and help.
+
+**Jamie:**
+(0:27:04) And the most important reason for this is because in order for the sector to grow, we need to get more traditional uh investment banks covering the sector, or more TradFi covering the sector. And so there needs to be as close to a standardized way to value these companies — at least on the key metrics — or for people to easily understand what the key metrics are and individual nuances.
+
+Uh and you know, TD Cowen obviously did a great job last month or this month trying to write a big 100-page report going through how they see it. But if there are a variety of different um dashboards and data sites that traditional analysts can feel comfortable using and citing, that's going to go a long way to them feeling comfortable about writing more research reports, putting their names associated with that — which is going to help the sector grow and to get more investors into it. And I think that's also a big point as well.
+
+**Andrew:**
+(0:28:07) I think it's worth also giving a shout-out to the people that come up with the ideas as well, because um some of those ideas get invented and they take time to um filter through the system. So I noticed — I think it was last week — someone called Adam Livingston, um who has got a great YouTube channel, great X page — he was using a metric called PBIT, which uh our very own Jesse Myers invented. Um so you know, that's another way that we can contribute. You know, we can try and help shape the future of the industry for all of the reasons that we've just talked about.
+
+Um and I must admit, for me — um you know, being someone that's become a friend of Jesse's [laughter] over the last 12 months, um to see that being used by a third party — you know, it was against Strategy — and that's pretty cool as well, you know. The analytics will get better over time. Um you know, they're already, okay, but um particularly Jamie's point about making it better for the bigger institutions — they are starting to understand things like mNAV and stuff, but they don't really have a single point of access which is, you know, institutional grade — and by that I mean accessible by the institutions in a trustworthy way. So we'll do our best to help on that side of the industry.
+
+**Jesse Myers:**
+(0:29:41) Yeah, thanks for mentioning that. Yeah, the PBIT — it was very cool to see him use that. PBIT I think is most applicable to Strategy just because of the size and scale and length of time they've been running this strategy. And so for PBIT in particular, you could sort of sample like a whole year for them um and have reasonable confidence that that rate of Bitcoin yield delivery would carry forward into the next year.
+
+Um I still think, you know, PBIT uh will become more commonly used as these strategies mature and get more stable and more predictable um I think. So it was cool to see Adam use that.
+
+Um Jamie, thanks for reminding me — the TD uh initiation of coverage was just within the last month uh and has already been uh something that institutional stakeholders we've talked to have noted um multiple times since then. I think it stands out to them as — oh wow, TD thinks this is real and wanted to spotlight this company — that's quite significant, they must know something.
+
+Um and I think that's probably the extent of the impact for now, but that's a great impact to have when you're trying to get traction with institutional conversations in general. Uh and thanks to Toffee in the community — I don't know how he did it, but he found that initiation of coverage document and posted it for the community, where we are not uh able to do that. But uh Toffee, well played. Uh and thanks for surfacing that. And it was cool to see TD also added an update um this Monday uh about SmarterWeb, and you know, we're already uh adding more Bitcoin than they anticipated so far this quarter, which is great.
+
+Yeah, okay. Um I guess we'll sort of shift into remaining topics and we'll probably wrap up in the next few minutes here.
+
+Um we have the unconference coming up. There was a question about that in particular. Um so Phil asked uh if there was an agenda for the unconference. Um Alex Wrench happened to respond to that comment on Twitter — there's sort of a current draft of the uh agenda is now on that unconference page on the website. Uh if you scroll down to the bottom. Um so you can check it all out there. Any other comments on unconference?
+
+Um the 29th of May, coming up pretty darn soon. I look forward to being there. I look forward to meeting uh everyone who comes out. Uh Andrew, Jamie, any further comments on the unconference?
+
+**Andrew:**
+(0:32:51) I think we've now filled the VIP dinner. Um we only had a couple of spaces left and a few of the raffle uh winners upgraded their tickets. Um so what we're going to do is we'll keep a waitlist or something if anyone else wants to upgrade, you know, and see if anyone dips out or anything.
+
+We've um sorted out um, you know, the menu — Laura and Alex — and Laura deserves a special shoutout for that. She's done a lot on the conference. Um and so that's going to be really good.
+
+And I hope everyone likes what we've put as the agenda because we've tried to balance it out. You know, I said at the start that I wanted an agenda of content that would be really beneficial to people like us — Bitcoin treasury investors. Um and I believe that we've got a good day of content. It's a little bit packed. Um it was difficult to fit everyone in.
+
+Um but you know, I'm hoping that it'll be a really good day for everyone. It'd be nice to meet everyone. It'd be nice for people to meet each other. There'll be a mixture of, you know, some media, some institutional investors, some service providers, some investors — there'll be all sorts of different people there and I'm hoping that everyone enjoys it.
+
+And I'd also like to say thank you to um the other UK Bitcoin treasury companies. Um as far as I'm aware, we've invited all of the pure UK Bitcoin treasury companies. Um and I believe that they've all accepted. I think one might not be speaking, but they're coming as our guests. Um so you know, we're trying to move the industry forward a little bit for the UK with that, as well as, you know, get everyone together and hopefully have a good time. And we can all learn something new on the day with a bit of luck.
+
+**Jesse Myers:**
+(0:34:45) Wonderful. Yeah, and I guess we'll wrap up with just a couple more questions from the community that I jotted down. Um this one for Jamie, I guess, from T — uh you know, what impact has joining the FTSE indices had? Um I know that you're aware of some data on top risers in particular.
+
+**Jamie:**
+(0:35:06) Yeah, well, so just a couple of um impacts — just trying to think what's the best way to categorize them. So the first is that with regards to how we approach institutional investors, one of the main challenges that we faced on Aquis was — because we were Aquis listed — we could receive feedback that investors would only speak to us once we were uplisted onto the LSE. So now that we've achieved that, it has made it a lot easier to approach some of those conversations and that's been notable.
+
+The second part is really around how our stock is recognized as a result of its volatility. So as we all know within the Bitcoin space, we see volatility as vitality. And our 30-day realized vol has been around 90.
+
+What that meant is that as a result, our stock is either consistently in the top risers or the top fallers um on a weekly basis or a daily basis. Uh and there's been some really good work — and I don't want to steal his limelight, but um there will be some very good work going out hopefully from one individual very soon that will be showing that SmarterWeb has consistently been in the top 10 risers since we uplisted to the LSE in February.
+
+The reason why that's important — and it's probably important to caveat that with the ups we've also been there in the downs, and that's important and that's really part of our amplification — but the reason why it's important is because it brings awareness to our stock. Because if people consistently see us within the top movers or top fallers, it asks questions, and that awareness obviously brings attention. Hopefully over time that attention brings more volume to the stock, etc. So that has been one of the things that I've been most proud of.
+
+And that was actually why earlier on last week, we had a big movement from the community to make sure that our data was being correctly reflected in a lot of these uh broking platforms — because it was transparent that we weren't being reflected in things like Interactive Investor, Fidelity, AJ Bell due to data issues. But we feel that we've resolved that now, uh and as a result people can get a good uh and correct representation of where we finish on a daily and weekly basis.
+
+**Jesse Myers:**
+(0:37:41) Great summary there. And actually probably the best place for us to leave it. Um so yeah, hopefully everybody found this live stream valuable. We'll do another one in a couple of weeks uh when we have more to discuss. Um we always seem to — every two weeks or so — there's always more going on. So uh we'll hopefully have the same again soon. Uh and as always, appreciate everybody's comments um and welcome any feedback on how to make these sessions uh more valuable to shareholders and the community in general. Um so yeah, thanks everybody for your time and have a great rest of your week.
+
+**Andrew:**
+(0:38:23) Thank you.
+
+**Jamie:**
+(0:38:23) Thank you, everyone.
