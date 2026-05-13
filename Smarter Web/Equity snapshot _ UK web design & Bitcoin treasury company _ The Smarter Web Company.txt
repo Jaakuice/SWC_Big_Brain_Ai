@@ -1,25 +1,46 @@
-Equity snapshot
-Shares held by Notifiable Holders (+3%)
-Name | Number | %
-210k Capital LP | 39,000,000 | 11.14%
-Andrew Webley & Family (including those held by Joanna Webley) | 27,418,732 | 7.83%
+Equity snapshot | UK web design & Bitcoin treasury company | The Smarter Web Company
+URL: https://www.smarterwebcompany.co.uk/shareholders/equity-snapshot/
+Last fetched: 2026-05-13
+Page last updated: 7 May 2026
 
-Shares held by Directors
+---
+SHARES IN ISSUE
+
+Total shares in issue: 353,203,102
+
+---
+NOTIFIABLE SHAREHOLDERS (3%+)
+
+Name | Number | %
+210k Capital LP | 39,000,000 | 11.04%
+Andrew Webley & Family | 27,565,134 | 7.80%
+
+---
+SHARES HELD BY DIRECTORS
+
+Director | Shares | %
+Andrew Webley & Family | 27,565,134 | 7.80%
 Tyler Evans | 960,000 | 0.27%
 Sean Wade & Family (including those held as Keysford Ltd) | 767,346 | 0.22%
 
-350,237,093 shares in issue.
-Warrants Outstanding
-96,066,335 pre-IPO warrants
-• exercise price 2.5p
-• valid from 25 April 2026 (for 2 years)
+---
+WARRANTS OUTSTANDING
 
-9,680,640 placing warrants
-• exercise price 150p
-• valid from 09 October 2025 (for 3 years)
+Pre-IPO warrants: 54,066,335
+• Exercise price: 2.5p per share
+• Exercisable from: 24 April 2026 (for 2 years)
+Note: reduced from 96,066,335 following warrant repurchase programme (March-April 2026)
 
-Smarter Convert
-7,718,551 shares to be potentially issued
-• assuming all Smarter Convert shares are issued (announced on 06 August 2025)
+Placing warrants: 9,680,640
+• Exercise price: 150p per share
+• Valid from: 9 October 2025 (for 3 years)
 
-Equity snapshot last updated: 24 December 2025.
+Smarter Convert: 7,718,551 shares potentially issuable
+• Announced: 6 August 2025
+
+---
+EXCHANGE LISTINGS
+
+LSE Main Market: SWC (ISIN: GB00BPJHZ015)
+OTCQB US: TSWCF
+Frankfurt: 3M8

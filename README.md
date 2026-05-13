@@ -2,9 +2,9 @@
 
 > **A comprehensive dataset for analyzing the first UK-listed company with a Bitcoin treasury strategy**
 
-[![Data](https://img.shields.io/badge/Data-345%20files-blue)](https://github.com/Jaakuice/SWC_Big_Brain_Ai)
-[![YouTube](https://img.shields.io/badge/YouTube-141%20transcripts-red)](https://github.com/Jaakuice/SWC_Big_Brain_Ai)
-[![Tweets](https://img.shields.io/badge/Tweets-2,141%20posts-1DA1F2)](https://github.com/Jaakuice/SWC_Big_Brain_Ai)
+[![Data](https://img.shields.io/badge/Data-390%20files-blue)](https://github.com/Jaakuice/SWC_Big_Brain_Ai)
+[![YouTube](https://img.shields.io/badge/YouTube-142%20transcripts-red)](https://github.com/Jaakuice/SWC_Big_Brain_Ai)
+[![Tweets](https://img.shields.io/badge/Tweets-2,166%20posts-1DA1F2)](https://github.com/Jaakuice/SWC_Big_Brain_Ai)
 
 ---
 
@@ -30,8 +30,8 @@ This repository contains a comprehensive, structured dataset for analyzing **The
 
 ### What Makes This Dataset Valuable
 
-- **First-of-its-kind:** First UK-listed company with Bitcoin treasury strategy
-- **Comprehensive coverage:** 141 YouTube transcripts, 141 regulatory filings, financial time-series data, and social media archives
+- **First-of-its-kind:** First UK-listed company with Bitcoin treasury strategy; now on LSE Main Market and FTSE All-Share
+- **Comprehensive coverage:** 142 YouTube transcripts, 143 regulatory filings, financial time-series data, and social media archives
 - **Multi-source analysis:** Combines official regulatory data (RNS), quantitative metrics (CSV), CEO commentary (tweets/YouTube), and independent analysis
 - **Time-series depth:** Data spans from pre-IPO (March 2025) through May 2026, capturing the complete journey from IPO to growth
 - **AI-ready:** Optimized for use with AI tools like Claude Projects, enabling progressive disclosure and intelligent querying
@@ -52,16 +52,16 @@ This dataset enables deep analysis across multiple dimensions:
 
 | Category | Count | Description | Date Range |
 |----------|-------|-------------|------------|
-| **YouTube Transcripts** | 141 | Video content (~40-45 hours) | Apr 2025 - May 2026 |
-| **CEO Tweets** | 1084 | @asjwebley curated posts | Jun 2024 - May 2026 |
-| **Company Tweets** | 305 | @smarterwebuk curated posts | Mar 2025 - May 2026 |
-| **HoBS Tweets** | 752 | @Croesus_BTC curated posts | Feb 2025 - May 2026 |
-| **RNS Filings** | 141 | Regulatory filings | Apr 2025 - May 2026 |
-| **Research Reports** | 21 | Tennyson broker analysis | May 2025 - Oct 2025 |
+| **YouTube Transcripts** | 142 | Video content (~40-45 hours) | Apr 2025 - May 2026 |
+| **CEO Tweets** | 1,090 | @asjwebley curated posts | Jun 2024 - May 2026 |
+| **Company Tweets** | 309 | @smarterwebuk curated posts | Mar 2025 - May 2026 |
+| **HoBS Tweets** | 767 | @Croesus_BTC curated posts | Feb 2025 - May 2026 |
+| **RNS Filings** | 143 | Regulatory filings | Apr 2025 - May 2026 |
+| **Research Reports** | 20 | Tennyson broker analysis | May 2025 - Oct 2025 |
 | **Financial Data** | 1 | CSV time-series (hourly/daily) | Apr 2025+ |
-| **Company Docs** | 18 | Prospectus, admission docs, annual report | Various |
-| **Media Articles** | 12 | News coverage, TV appearances | Mar 2025 - Feb 2026 |
-| **TOTAL** | **~345 files** | | |
+| **Company Docs** | 40 | Prospectus, admission docs, annual reports, AoA, governance, accounts | Various |
+| **Media Articles** | 13 | News coverage, TV appearances | Mar 2025 - Feb 2026 |
+| **TOTAL** | **~390 files** | | |
 
 ---
 
@@ -371,9 +371,9 @@ Contributions are welcome! This dataset can be enhanced with:
 SWC-Ai/
 ├── README.md                    # This file
 ├── FILE_STRUCTURE.md            # Detailed file structure documentation
-├── Start.md                    # System prompt for Claude Projects
+├── Start.md                     # System prompt for Claude Projects
 ├── knowledge/                   # Knowledge management files (10 files)
-│   ├── index.md                 # Main knowledge index
+│   ├── index.md                 # Main knowledge index (START HERE)
 │   ├── rns_index.md             # RNS document index
 │   ├── youtube_index.md         # YouTube transcript index
 │   ├── useful_links.md          # External links and resources
@@ -383,14 +383,19 @@ SWC-Ai/
 │   ├── example_financial_metrics.md    # Reference examples
 │   ├── example_timeline_events.md      # Reference examples
 │   └── Smarter Web Data.csv     # Core financial time-series data
-├── RNS/                         # Regulatory News Service filings (113 files)
-├── Youtube/                     # YouTube transcripts (96 TXT files)
-├── Tweets/                      # Social media archives
-│   ├── asjwebley/               # CEO tweets (894 posts)
-│   ├── smarterwebuk/            # Company tweets (148 posts)
-│   └── Croesus_BTC/             # Analyst tweets (430 posts)
-├── Tennyson/                    # Broker research (20 PDFs)
-├── Smarter Web/                 # Company documents (11 files)
+├── RNS/                         # Regulatory News Service filings (143 TXT files, Apr 2025 - May 2026)
+├── Youtube/                     # YouTube transcripts (142 TXT files, Apr 2025 - May 2026)
+├── Tweets/                      # Social media archives (2,166 posts total)
+│   ├── asjwebley/               # CEO tweets (1,090 posts, 23 JSON files)
+│   ├── smarterwebuk/            # Company tweets (309 posts, 16 JSON files)
+│   └── Croesus_BTC/             # Jesse Myers tweets (767 posts, 17 JSON files)
+├── Tennyson/                    # Broker research (20 PDFs, May-Oct 2025)
+├── Smarter Web/                 # Company documents (40 files)
+│   ├── Prospectus, annual reports, interim results, AoA, circulars
+│   ├── Pre-IPO historical accounts (FY2022/23/24 PLC + Operations Ltd)
+│   ├── Investor presentations (Feb 2026, May 2026)
+│   ├── Website pages: team, directors, equity snapshot, governance
+│   └── corporate-governance/    # Committee Terms of Reference (3 files)
 └── Legacy media/                # Historical coverage (13 TXT files)
 ```
 
@@ -422,6 +427,6 @@ This project aims to provide the most comprehensive publicly available dataset o
 
 ---
 
-**Last Updated:** February 2026
+**Last Updated:** May 2026
 
 > This repository provides a comprehensive knowledge base for analyzing The Smarter Web Company's unique journey as the first UK-listed company with a Bitcoin treasury strategy.

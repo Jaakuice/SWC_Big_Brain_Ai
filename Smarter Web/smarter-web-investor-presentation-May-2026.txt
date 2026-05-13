@@ -1,0 +1,1994 @@
+Digital. Capital. Designed.
+May 2026
+
+Important Information:
+
+General
+
+This document has been prepared and issued by The Smarter Web Company PLC (the “Issuer”) . The Issuer is a public limited company incorporated in England and
+Wales with registered number 00092343 and its registered office is 160 Aztec West, Almondsbury, Bristol, BS 32 4 TU . The shares in the Issuer are admitted to trading
+on the Main Market of the London Stock Exchange . This document contains general information about the Issuer and its business as well as giving initial high - level
+information about one or more projects which the Issuer might wish to present to prospective investors in the future (each, a “Project”) . This document does not
+constitute an offer or invitation in respect of the sale or purchase of securities in any jurisdiction, or of any of the businesses or assets described in this document . If,
+however, an offer to sell or purchase investments is made in the future, it will be subject to the terms of a formal prospectus or equivalent document circulated at the
+time and not on the basis of the information contained in this document . This Document does not constitute and the Company is not making an offer to the public
+within the meaning of sections 85 and 102 B of FSMA . The Issuer is neither authorised nor regulated in the conduct of its business by the Financial Conduct Authority in
+the UK . The distribution of this document by the Issuer and its communication of the information it contains is provided only for and is directed only at persons in the UK
+which the Issuer reasonably believes to be of a kind to whom such promotions may be communicated by an unauthorised person pursuant to an exemption under the
+FSMA (Financial Promotion) Order 2005 (the “FPO”) . Such persons include but are not limited to persons who have professional experience in matters relating to
+investments and who are investment professionals as specified under article 19 of the FPO . If you are not such a person, you should not read this document, rely on it or
+take any other action in consequence of it. Any recipient of this document in jurisdictions outside of the UK should inform themselves about and observe any applicable
+legal requirements . It is the responsibility of every person reading this document to satisfy her/himself as to the full observance of the laws of any relevant country,
+including obtaining any governmental or other consent which may be required or observing any other formality which needs to be observed in that country . This
+document has not been approved by any regulatory authority . This document is a confidential communication to, and solely for the benefit of, the recipient only and
+must not be communicated, reproduced or distributed (in whole or in part) to others . If you have not received this document directly from the Issuer, your receipt is
+unauthorised . Please return this document to the Issuer immediately . This document, including without limitation all text, graphics and images, is protected by
+intellectual property rights . This document is not to be reproduced or distributed to others (beyond the initial intended recipients of the relevant presentation), at any
+time, without the prior written consent of the Issuer . All recipients agree they will keep confidential all information contained in it. The contents of this document are not
+legal, tax, business, investment or other advice . This document and the information contained herein are subject to correction, completion and/or amendment by the
+Issuer . To the best of the knowledge and belief of the Issuer (who has taken reasonable care to ensure that such is the case), the information contained in this document
+is in accordance with the facts and does noes omit anything likely to affect the import of such information . Whilst this document has been prepared in good faith, no
+representation, warranty, assurance or undertaking (express or implied) is or will be made, and no responsibility or liability is or will be accepted by the Issuer, any
+related undertaking or its or any of their respective officers, employees or agents in relation to the adequacy, accuracy, completeness or reasonableness of this
+document, or of any other information (whether written or oral), notice or document supplied or otherwise made available to any interested party or its advisors in
+connection with the information contained in this document and/or the matters contemplated thereby . All and any such responsibility and liability is expressly
+disclaimed . In particular, but without prejudice to the generality of the foregoing, no representation, warranty, assurance or undertaking is given as to the achievement
+or reasonableness of any future projections, management estimates, prospects or returns contained in this document, or in such other information, notice or document .
+By accepting this document, each recipient agrees to be bound by the limitations set out in this section entitled “Important Information” and elsewhere in this
+document . Notwithstanding the foregoing, nothing in this document shall exclude any liability for, or remedy in respect of, fraudulent misstatement .
+
+Important Information:
+
+Bitcoin Treasury
+
+The Smarter Web Company Plc (the Company) holds treasury reserves and surplus cash in Bitcoin . Bitcoin is a type of cryptocurrency or cryptoasset . Whilst the Board
+of Directors of the Company considers holding Bitcoin to be in the best interests of the Company, the Board remains aware that the financial regulator in the UK (the
+Financial Conduct Authority or FCA) considers investment in Bitcoin to be high risk . At the outset, it is important to note that an investment in the Company is not an
+investment in Bitcoin, either directly or by proxy . However, the Board of Directors of the Company consider Bitcoin to be an appropriate store of value and growth for
+the Company’s reserves and, accordingly, the Company is materially exposed to Bitcoin . Such an approach is innovative, and the Board of Directors of the Company
+wish to be clear and transparent with prospective and actual investors in the Company on the Company’s position in this regard .
+The Company is neither authorised nor regulated by the FCA . And cryptocurrencies (such as Bitcoin) are unregulated in the UK . As with most other investments, the
+value of Bitcoin can go down as well as up, and therefore the value of the Company’s Bitcoin holdings can fluctuate . The Company may not be able to realise its Bitcoin
+exposure for the same as it paid in the first place or even for the value the Company ascribes to its Bitcoin positions due to these market movements . And because
+Bitcoin is unregulated, the Company is not protected by the UK’s Financial Ombudsman Service or the Financial Services Compensation Scheme .
+
+Nevertheless, the Board of Directors of the Company has taken the decision to invest in Bitcoin, and in doing so is mindful of the special risks Bitcoin presents to the
+Company’s financial position . These risks include (but are not limited to): (i) the value of Bitcoin can be highly volatile, with value dropping as quickly as it can rise .
+Investors in Bitcoin must be prepared to lose all money invested in Bitcoin ; (ii) the Bitcoin market is largely unregulated . There is a risk of losing money due to risks such
+as cyber - attacks, financial crime and counterparty failure ; (iii) the Company may not be able to sell its Bitcoin at will. The ability to sell Bitcoin depends on various
+factors, including the supply and demand in the market at the relevant time. Operational failings such as technology outages, cyber - attacks and comingling of funds
+could cause unwanted delay ; and (iv) cryptoassets are characterised in some quarters by high degrees of fraud, money laundering and financial crime . In addition,
+there is a perception in some quarters that cyber - attacks are prominent which can lead to theft of holdings or ransom demands . The Board of Directors of the
+Company does not subscribe to such a negative view, especially in relation to Bitcoin . However, prospective investors in the Company are encouraged to do your own
+research before investing .
+Note that the data presented in this document for the Company and its peers is accurate as of 02 May 2026 , unless otherwise noted .
+
+1 Intro to The Smarter Web Company
+2 Web business
+A Organic growth
+
+Contents
+
+B Acquisitions
+
+3 Bitcoin treasury
+A Global story with UK leader
+B mNAV mechanics & tools
+C Performance metrics
+
+1
+
+Introduction to The Smarter Web Company
+A disciplined & profitable Bitcoin treasury company
+
+Bitcoin held
+2778
+
+• A UK - based web design agency, founded in 2009 by Andrew Webley, specialising in
+creating bespoke, mobile - friendly websites for small and medium
+- sized businesses
+
+• In 2025, the company implemented its Bitcoin treasury strategy, building a balance
+sheet founded on digital capital in the form of Bitcoin
+• Following the IPO in April 2025 on Aquis, The Smarter Web Company was the UK's best
+performing stock in 2025 (among public equities with market cap >£50m) and in
+February 2026 uplisted to The London Stock Exchange
+• Today, The Smarter Web Company has the largest Bitcoin treasury of any UK public
+company and the 29th largest globally
+• The business has a well respected management team with a lean operating model, with
+the support of an experienced board of directors promoting strong corporate
+governance
+• The company aspires to continue building its business and balance sheet to support a
+market position that eventually enables the Company to join the FTSE 250 and then the
+FTSE 100
+
+5
+
+Please see the important information slides in this presentation.
+
+1
+
+Key highlights
+UK’s #1 Performer
+Ranked #1 in UK for share price performance in
+2025 (among public equities >£50m)
+
++1,200% Share Price
+
+6
+
+2,778 Bitcoin
+
+~£225 million
+
+Accumulated since IPO in April 2025
+
+Raised to purchase Bitcoin in 2025
+
+#1 in UK
+
+~£1.1 billion
+
+Share price appreciation in 2025
+
+Largest public company Bitcoin treasury in UK,
+430% the size of next largest
+
+Approximate notional share value traded since IPO
+in April 2025
+
+Uplisted to LSE
+
+#3 Community
+
+UK Retail #10
+
+Uplisted from Aquis to LSE Main Market roughly 9
+months after IPO
+
+Third largest shareholder community group of
+Bitcoin treasury companies globally
+
+10th most bought stock by UK retail investors in
+2025
+
+Please see the important information slides in this presentation.
+
+1
+
+Performance comparison
+
+2025 asset performance
+
+2026 asset performance
+
+- YTD
+
+1200%
+
+4%
+
+Smarter Web
+
+22%
+
+1%
+
+Bitcoin
+FTSE
+100
+
+FTSE
+250
+
+9%
+- 14%
+
+Bitcoin
+
+Smarter Web
+Co.
+
+FTSE
+100
+
+FTSE
+250
+
+- 12%
+
+- 6%
+Note: As of 01 May 2026
+
+7
+
+Please see the important information slide in this presentation.
+
+2
+
+About The Smarter Web Company: The 10
+
+Focused on growth with an ambition to be one of the largest public companies in the UK;
+growth will be managed with a focus on creating shareholder value
+
+Company
+ambition
+
+A
+
+10 - year
+strategic
+plan
+
+Organic growth
+opportunities
+
+B
+
+Acquisition
+strategy
+
+Bitcoin treasury
+strategy
+
+• Medium - and long - term
+
+• Long - term value creation
+
+• Scale client base (currently
+250+) through growing
+awareness of SWC & its
+services
+
+• Explore strategically
+attractive acquisitions to
+grow core business
+
+• Convert treasury assets
+into Bitcoin & accumulate
+with free cash flows
+
+• Leverage strength of
+balance sheet
+
+• Utilise capital market
+fundraising options to add
+to Bitcoin holdings when
+beneficial
+
+• Expand range of services to
+grow per client revenue
+
+• Integrate AI efficiency tools
+into business processes
+
+• Strengthen operating cash
+flows, growing operating
+business
+• Leverage increased cash
+flows to further Bitcoin
+treasury strategy
+
+Leverage public company
+profile to grow client base
+
+8
+
+C
+
+• Shorter - term
+
+• Continuous improvement of
+product offerings
+
+Strategic
+timeline
+
+- Year Plan
+
+• Follow best practices of
+established international
+playbook for Bitcoin
+treasury strategy
+
+A
+Organic
+growth
+opportunities
+
+C
+
+10 - year
+plan
+
+Bitcoin
+treasury
+strategy
+
+B
+Acquisition
+strategy
+
+Accumulate Bitcoin
+
+Short term
+
+Leverage Bitcoin strategy
+publicity to grow
+
+Evaluate acquisition
+opportunities
+
+Continue accumulating;
+evaluate acquisitions
+
+Medium term
+
+Build Bitcoin product offerings
+into core business
+
+Leverage balance sheet to
+acquire when sensible
+
+Layer in capital markets tools
+for accumulation
+
+Long term
+
+Please see the important information slides in this presentation.
+
+Organic Growth: Scalable Web Business
+
+A
+
+Strong core business with growth potential
+
+Smarter Web product suite
+
+• Established business:
+○ 250+ website clients
+
+○ ~30% recurring revenue
+○ 94% gross margins
+
+in 2024
+
+Readymade
+web design
+
+Bespoke
+web design
+(Lite, Pro)
+
+Logo design
+
+Custom
+web dev
+solutions
+
+Copywriting
+and other
+content
+initiatives
+
+Online
+marketing
+services
+(incl. SEO)
+
+○ Highly scalable product offerings
+
+• Opportunities
+
+to scale:
+
+○
+
+Increase new customer acquisition
+
+○
+
+Additional revenue from existing customers
+
+○
+
+Continuous improvement of product offerings
+
+• Marketing strategy:
+
+9
+
+○
+
+Search Engine Optimization (SEO)
+
+○
+
+Pay Per Click (PPC)
+
+○
+
+Increased visibility through public listed status
+
+Content management system (CMS):
+Proprietary system allows clients to self
+- manage
+websites once live
+
+Please see the important information slides in this presentation.
+
+B
+
+Long - Term Future Acquisition Strategy
+Consideration
+
+Target characteristics
+
+The acquisition strategy is focused on targeting operating cash flows with a 3 to 4 years payback
+
+Strategic fit
+
+Identify strategically attractive acquisitions to grow core business and deliver cost efficiencies
+
+Operating synergy
+
+Same industry vs. new
+
+Plan to acquire and manage from a distance initially and then retain separate brands whilst introducing efficiency
+and increase recurring revenue
+Consider diversification to improve operating cash flow and / or reduce sector dependency
+
+Funding
+
+A mix of stock and cash components to complement the Bitcoin treasury strategy
+
+Selectivity
+
+The Smarter Web Company will only make acquisitions where the Directors believe the timing and opportunity is
+appropriate to deliver our strategic objectives
+
+Smarter Web can selectively
+
+10
+
+Smarter Web acquisition strategy
+
+utilise balance sheet strength
+to acquire operating businesses with
+strategic value , boosting annual operating income
+
+attractive economics and
+
+Please see the important information slides in this presentation.
+
+Acquisition Strategy: Utilising The Balance Sheet
+
+B
+
+Market cap
+
+Operating profits
+
+£M
+
+£M
+
+Illustrative
+
+8
+
+13.8
+
+£M
+Payback in Y4
+8
+
+Assumes acquisition cost 3.5x
+operating profits
+
+500
+
+Illustrative
+
+Acquisition payback timeline (illustrative)
+
+2.3
+
+2.34
+
+508
+
+2.3
+
+Y0
+
+Y1
+
+Acquisition cost
+
+Y2
+
+Y3
+
+Y4
+
+Y5
+
+Y6
+
+Total
+
+Operating profits
+
+Deal structure (illustrative)
+• 30% stock upfront; 70% paid over 3 years (“earn out”)
+• Earn out ensures operating team remains in place & motivated
+• Operating profits from acquired business should largely cover the earn out
+acquisition payments Y1 - Y3
+0.04
+
+Pre - Acq.
+acq .
+% increase:
+
+11
+
+• If operating profits dip post
+
+Post acq.
+
+Pre acq .
+
+1.5%
+
+% increase: +5,850%
+
+Acq .
+
+Post acq .
+
+Note: This is an illustrative and simplified acquisition structure shown at a higher market cap than the current market value
+acquisitions in the future could improve the operating profits of the Group, with minimal dilution or cost to shareholders.
+
+- acq , provisions can be in place to reduce earn
+
+out payments
+
+• Strength of Bitcoin balance sheet provides backup payment methods of
+stock issuance
+
+of the business, to highlight how
+
+Please see the important information slides in this presentation.
+
+3
+
+Smarter Web is a Bitcoin treasury company
+Bitcoin per share is our KPI
+
+Bitcoin is our preferred treasury asset
+
+Sats per share
+
+(BTC x 100m)
+
+• We believe Bitcoin to be the most robust monetary asset
+• Bitcoin is unique as a store
+be 21M)
+• Bitcoin’s design of
+value over time
+
+- of- value asset with an immutably finite supply
+
+increasing scarcity
+
+(there will only ever
+
+of new supply issuance may cause it to appreciate in
+
+• Bitcoin is digital capital , with qualities we prefer vs. gold or fiat
+
+Compounding Bitcoin via capital market tools
+• As a public company, SWC can utilise capital markets to raise capital &
+balance sheet by accumulating Bitcoin
+• Depending on market conditions,
+
+different capital market tools
+
+strengthen its
+may make sense
+
+• Our goal is to increase our Bitcoin holdings per share
+• For shareholders, successful execution of our treasury strategy means
+ownership
+
+12
+
+compounding Bitcoin
+
+Please see the important information slides in this presentation.
+
+A
+
+Bitcoin treasury: global precedence of success
+Bitcoin treasury strategy history & maths
+
+Internationally repeated success
+
+• Proven treasury strategy:
+○
+
+In 2020 Strategy, formerly known as MicroStrategy, adopted
+primary treasury asset
+in the US
+
+○
+
+Since then, other companies have followed including Metaplanet (Japan) and
+Capital B (France)
+
+○
+
+Today +100 public companies
+
+○
+
+When professionally executed, this strategy
+in major capital markets around the world
+
+• Performance
+
+13
+
+Meta planet
+
+Capital
+B
+
+The
+Smarter
+Web Co.
+
+Strategy start
+
+August
+2020
+
+April
+2024
+
+Nov
+2024
+
+May
+2025
+
+Performance
+since start
+
++811%
+
++1,376%
+
++490%
+
++1442%
+
+Performance
+last 12 months
+
+- 54%
+
+- 21%
+
+36%
+
++748%
+
+Market cap
+($M)
+
+42,457
+
+2,370
+
+186
+
+170
+
+Bitcoin as its
+
+hold Bitcoin as a treasury asset
+has delivered exceptional results
+
+from simple maths:
+
+○
+
+Bitcoin treasury companies
+
+○
+
+The expectation of future Bitcoin accumulation
+may cause these companies
+to trade at a premium to the value of their existing Bitcoin stockpile
+
+○
+
+When at a premium, new share issuance to buy Bitcoin
+to increase its Bitcoin per share
+
+○
+
+In turn, the expectation of more “accretive equity issuance”
+market premium to increase, inviting further share issuance
+
+utilise capital markets
+
+Strategy
+
+to accumulate Bitcoin
+
+Note: Data as of 01 May 2026, SWC numbers use fully diluted share count
+
+allows the company
+may cause the
+
+Please see the important information slides in this presentation.
+
+A
+
+Opportunity for early
+
+- stage exposure to demonstrated thesis
+Maturity stage of leading Bitcoin treasuries
+
+Scale
+
+• Less potential upside for Bitcoin per share with Strategy (US leader, hold
+~760k BTC) and Metaplanet (Japan leader, hold ~40k BTC)
+
+Strategy (USA)
+~5.5 years since start
+~760,000 BTC
+
+• Smarter Web has considerable room for upside growth in Bitcoin per share
+(UK leader, hold ~2.7k BTC)
+
+• Staggered inception of Bitcoin treasury strategy in capital markets creates
+opportunity to identify next global winner
+
+Metaplanet (Japan)
+~2 years since start
+~40,000 BTC
+
+UK environment ideal for repeat of success
+• UK has structural barriers to direct Bitcoin ownership (banking on/off ramps,
+restrictive mandates, etc.), making Bitcoin treasury companies attractive alternative
+
+• Awareness of Bitcoin and Bitcoin treasury model still low but growing, both at retail
+and institutional levels
+
+Smarter Web (UK)
+~9 months since start
+~2,700 BTC
+
+• Bitcoin treasury strategy offers potential to “catch
+entry to Bitcoin exposure
+
+Years
+
+14
+
+• Long - term thematic flows: A portion of the £1.5
+Bitcoin exposure over time
+
+- up” on missed upside from late
+- 2T in ISAs and SIPPs could seek
+
+Please see the important information slide in this presentation.
+
+A
+
+UK leadership allows differentiation
+
+SWC treasury 4.2x larger vs size of #2
+2,778 BTC
+
+Strategic Scale
+
+Market Position
+
+● 2.7x BTC vs. top 2 - 4 combined
+● ATM facility: accretive issuance
+at mNAV premium
+
+● Strong UK liquidity
+● International access (US / EU)
+● Third largest global retail
+investor community
+
+Operating Business
+
+Financial Strength
+
+“There could be a Strategy in
+every region, because it’s hard for
+us as a US public company to
+access those [capital markets].”
+– Phong Le
+CEO, Strategy (NSDQ: MSTR)
+
+● High margin and scalable
+● Low cost base enables
+resilience across cycles
+● Supports future cash generation
+
+668 BTC
+
+Smarter
+Web Co.
+Note: As of 01 May 2026
+
+15
+
+#2
+Pubco
+
+182 BTC
+
+166 BTC
+
+#3
+Pubco
+
+#4
+Pubco
+
+● Well capitalised
+● Minimal leverage
+● Disciplined risk approach
+
+A real operating business with a large, clean balance sheet
+and disciplined approach to building its Bitcoin treasury to
+strengthen the enterprise
+
+Please see the important information slides in this presentation.
+
+A
+
+16
+
+How does a Bitcoin treasury co. compare to Bitcoin?
+Cold - storage Bitcoin
+
+Bitcoin ETF
+
+Bitcoin miners
+
+Bitcoin treasury
+company
+
+Bitcoin exposure
+
+100%
+
+~100%
+
+Moderate, varies
+
+More than 100% (with
+leverage)
+
+Bitcoin correlation
+
+100%
+
+~100%
+
+Low
+
+Low
+
+Volatility
+
+37%
+
+~37%
+
+Moderate, varies
+
+High, varies
+(SWC: 120%)
+
+Value proposition
+
+Zero counterparty risk
+
+Convenient,
+securitised BTC
+
+“Pick and shovel” biz
+with tangible assets
+
+Compounds Bitcoin
+ownership
+
+Downside
+
+Requires technical &
+security mastery
+
+Introduces
+counterparty risk
+
+Capex intensive,
+highly competitive,
+execution risk
+
+High volatility,
+execution risk
+
+Please see the important information slides in this presentation.
+
+B
+
+Bitcoin & treasury company sentiment cycles
+
+Bitcoin treasury co sentiment may follow
+
+Bitcoin market sentiment may cycle
+
+Illustrative
+
+Illustrative
+
+Greed
+
+Disbelief
+
+Denial
+
+Fear
+
+mNAV
+premium
+(BTCTC
+sentiment)
+
+Bitcoin per
+share
+
+Time
+
+17
+
+Note: Illustrative diagrams are intended to show a reasonable and simplified conceptual model that may be directionally helpf
+complex systems being described, but are not intended as a definitively true or complete representation of these systems.
+
+ul for understanding the
+
+Please see the important information slides in this presentation.
+
+mNAV driven by cyclical market sentiment
+
+B
+
+Illustrative examples
+
+Bearish
+
+Neutral
+
+£M
+
+£M
+
+Bullish
+£M
+
+1.7x
+mNAV
+
+Sub - 1x
+mNAV
+
+NAV
+
+18
+
+Operating co.
+value
+BTCTC
+admin
+drag
+
+Operating co.
+value
+BTCTC
+admin
+drag
+
+BTCTC
+admin
+drag
+
+Market
+cap
+
+Market cap
+
+Anticipated
+lifetime
+BTC Yield
+
+Operating co.
+value
+
+NAV
+
+Note: Assumes fixed value for NAV and Operating co. value over time. Illustrative diagrams are intended to show a reasonable
+simplified conceptual model, but are not intended as a definitively true or complete representation of these systems.
+
+an d
+
+Market cap
+
+Anticipated
+lifetime
+BTC Yield
+
+Anticipated
+lifetime
+BTC Yield
+
+NAV
+
+3x
+mNAV
+
+Please see the important information slide in this presentation.
+
+B
+
+Smarter Web capital market toolkit for
+
+mNAV scenarios
+
+1x mNAV
+Sub - 1x mNAV
+
+Above 1x mNAV
+
+Trading at NAV
+
+Premium to NAV
+
+Share buybacks
+
+Equity + warrants
+
+Equity placings (ABBs)
+
+Smarter Convert
+(with high conversion premium)
+//////
+
+Smarter Convert
+(with high conversion premium)
+//////
+
+BTC Yield on treasury
+
+BTC Yield on treasury
+
+BTC Yield on treasury
+
+Options strategies
+
+Options strategies
+
+Options strategies
+
+Responsible debt
+
+Responsible debt
+
+Smarter Convert
+
+Discount to NAV
+
+Equity at - the - market (ATM)
+
+//////
+
+Legend
+
+19
+
+Primary
+
+Secondary
+
+Please see the important information slides in this presentation.
+
+C
+
+Performance to date
+
+Sats* per share
+
+NAV (£)
+
+2778
+
+(BTC x 100m)
+
+20
+
+* Sats (also known as
+
+Bitcoin held
+
+Satoshis ) are the base unit in the Bitcoin monetary system. There are 100m sats per 1 whole Bitcoin.
+
+Please see the important information slide in this presentation.
+
+10 - year goal to be one of the largest companies in UK
+
+C
+
+Pathway to success over 10 years
+
+Requisite market cap for inclusion
+
+Activities & goals
+
+£B
+
+~88
+
+Year 1
+
+Aquis → LSE main market listing
+Aggressively scale BTC treasury,
+increasing Bitcoin per share
+Establish diverse investor base:
+UK & global, retail & institutions
+Implement range of capital market
+fundraising strategies
+Grow operating business organically
+and/or via acquisition
+
+New capital market products
+
+0.13
+
+~0.47
+
+Smarter
+Web Co.
+
+FTSE 250
+inclusion
+
+Achieve broad sell - side research coverage and institutional
+recognition
+
+~3.5
+
+Expand global market access,
+distribution, and liquidity
+
+FTSE 100
+inclusion
+
+FTSE 100
+Top 10
+
+Robust suite of capital market products and tools
+Consistent track record of delivering BTC Yield
+
+SWC growth
+from current
+
++3.6x
+
++27x
+
++677x
+
+Year 10
+
+Global investor base with multi
+
+- index inclusion
+
+Note: Market cap figures as of 01 May 2026
+
+21
+
+Please see the important information slides in this presentation.
+
+Appendix
+
+Bitcoin credibility & operating excellence
+Prominent public
+
+- facing executives
+
+Andrew Webley
+
+Jesse Myers
+
+Jamie Knowles
+
+CEO
+
+Head of Bitcoin Strategy
+
+Head of Capital Markets
+
+• Founded The Smarter Web Company in 2009
+• Previously Head of Online, Hargreaves Lansdown
+• Internet & marketing professional with +25 years'
+experience
+• Bitcoin since 2017
+
+• Established Bitcoin analyst and author, created
+Bitcoin valuation model adopted by Michael Saylor
+• Previously co - founder of Onramp Bitcoin, founder of
+Protocol Capital, consultant at Bain & Co., and
+Stanford MBA
+• Bitcoin since 2016
+
+• 15 years’ experience in equity sales trading at global
+investment banks, including Bank of America, Credit
+Suisse and J.P. Morgan
+• 4 years’ experience in digital assets, including a senior
+distribution role at Galaxy and Chief Commercial
+Officer at DS3 Crypto
+• Bitcoin since 2017
+
+Organization overview
+Leadership team
+Long operational track record
+
+Operations & governance team
+Robust corporate governance and operational
+efficiency
+
+Strong corporate governance and work ethic
+
+Experienced directors and senior management
+
+Fast - paced team with an ethos of continuous
+improvement & focus on client satisfaction
+
+Bitcoin strategy experience
+Capital markets expertise
+
+23
+
+Please see the important information slides in this presentation.
+
+Bitcoin is the best performing asset in the world
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+2011 - 25
+CAGR
+
+Bitcoin (BTC)
+
+1473%
+
+186%
+
+5507%
+
+- 58%
+
+35%
+
+125%
+
+1331%
+
+- 73%
+
+95%
+
+301%
+
+66%
+
+- 66%
+
+156%
+
+121%
+
+- 6%
+
+131%
+
+US Nasdaq 100
+
+3%
+
+18%
+
+37%
+
+19%
+
+10%
+
+7%
+
+33%
+
+0%
+
+39%
+
+49%
+
+27%
+
+- 33%
+
+55%
+
+26%
+
+21%
+
+19%
+
+US Large Caps
+
+2%
+
+16%
+
+32%
+
+14%
+
+1%
+
+12%
+
+22%
+
+- 5%
+
+31%
+
+18%
+
+29%
+
+- 18%
+
+26%
+
+25%
+
+18%
+
+14%
+
+US REITS
+
+9%
+
+18%
+
+2%
+
+30%
+
+2%
+
+9%
+
+5%
+
+- 6%
+
+29%
+
+- 5%
+
+41%
+
+- 26%
+
+12%
+
+5%
+
+3%
+
+7%
+
+Gold
+
+10%
+
+7%
+
+- 28%
+
+- 2%
+
+- 11%
+
+8%
+
+13%
+
+- 2%
+
+18%
+
+25%
+
+- 4%
+
+- 1%
+
+13%
+
+27%
+
+64%
+
+7%
+
+US Total Bond Market
+
+8%
+
+4%
+
+- 2%
+
+6%
+
+1%
+
+3%
+
+4%
+
+0%
+
+9%
+
+8%
+
+2%
+
+- 13%
+
+5%
+
+1%
+
+7%
+
+2%
+
+US Cash
+
+0%
+
+0%
+
+0%
+
+0%
+
+0%
+
+0%
+
+1%
+
+2%
+
+2%
+
+0%
+
+0%
+
+1%
+
+5%
+
+5%
+
+4%
+
+1%
+
+Commodities
+
+- 3%
+
+4%
+
+- 8%
+
+- 28%
+
+- 28%
+
+19%
+
+5%
+
+- 12%
+
+12%
+
+- 8%
+
+41%
+
+19%
+
+- 6%
+
+2%
+
+8%
+
+0%
+
+Source: Creative Planning analysis (creativeplanning.com)
+
+24
+
+Please see the important information slide in this presentation.
+
+BTC increases risk
+
+- adjusted portfolio performance
+0% Bitcoin
+
+1% Bitcoin
+
+3% Bitcoin
+
+5% Bitcoin
+
+Rest of portfolio
+
+60% stocks
+40% bonds
+
+59.5% stocks
+39.5% bonds
+
+58.5% stocks
+38.5% bonds
+
+57.5% stocks
+37.5% bonds
+
+Annualized returns
+
+9.8%
+
+9.7%
+
+11.5%
+
+13.3%
+
+Annualized volatility
+
+12.3%
+
+~37%
+
+13.3%
+
+14.1%
+
+Sharpe ratio
+
+0.57
+
+0.62
+
+0.72
+
+0.80
+
+5% Bitcoin allocation
+25
+
+Source: Fidelity Digital Assets, “Bitcoin’s Evolving Role as an Alternative Investment”, October 2024
+Note: 4 - year period used was 31 May 2020 to 31 May 2024
+
+increases Sharpe ratio by 40%
+
+Please see the important information slides in this presentation.
+
+Bitcoin is still just 0.2% of global asset value
+Bitcoin:
+£1.5 T
+
+Gold:
+£17T
+
+Total global asset value:
+~£760T
+Art, cars, &
+collectibles:
+£20T
+
+Real estate:
+£286T
+
+Source: Jesse Myers, onceinaspecies.com
+
+26
+
+Equities:
+£102T
+
+Bonds:
+£239T
+
+Money:
+£97T
+
+- data as of Q2 2025
+Please see the important information slide in this presentation.
+
+UK capital market commands ~6% of assets
+Bitcoin:
+£0.08 T
+
+Gold:
+£0.4T
+
+Total UK asset value:
+~£46T
+
+Equities:
+£8.9T
+
+Art, cars, &
+collectibles:
+£0.8T
+
+Real estate:
+£12.6T
+
+Bonds:
+£13T
+
+Money:
+£10.2T
+
+Source: Smarter Web Company analysis and estimates
+
+27
+
+Please see the important information slide in this presentation.
+
+What justifies
+
+mNAV premium?
+
+Valuation components of treasury co.
+
+Anticipated BTC Yield creates
+
+Illustrative example
+
+£M
+
+• A Bitcoin treasury company is constantly looking for opportunities to
+increase its Bitcoin holdings per share
+
+• A treasury co. can
+
+Anticipated
+lifetime
+BTC Yield
+
+generate BTC Yield
+through certain transactions at
+any mNAV (above, at, or below 1x mNAV )
+
+Operating
+biz value
+
+• In any given year, a Bitcoin treasury company is likely to execute
+transactions that increase Bitcoin per share (e.g., annual BTC Yield of
+~10%)
+
+BTCTC
+admin
+drag
+
+• An asset that grows Bitcoin ownership every year is worth paying a
+
+Market cap
+NAV
+
+mNAV premium
+
+premium for in Bitcoin terms
+
+• This results in the average
+
+mNAV for a well - run Bitcoin treasury
+company being above 1x, though it will be volatile and may sometimes
+be below 1x
+
+• Overall, the premium reflects investors’ confidence in the model of a
+Bitcoin treasury company to utilise capital market tools to increase
+Bitcoin per share over time
+
+28
+
+Please see the important information slides in this presentation.
+
+B
+
+Smarter Convert
+
+– BTC - denominated convertible notes
+Smarter Convert enables accretive equity issuance
+when at (or below) 1x mNAV
+
+Smarter Convert benefits for SWC
+• Productises SWC’s high volatility (~120%) via option value
+○
+○
+
+Illustrative example
+
+£M
+
+Investors receive ~80% of option value
+
+110 110
+
++10
+100 100
+
+SWC retains ~20% of option value, in the form of the conversion
+premium
+
+- 10
+
+• Adds Bitcoin to SWC treasury, assuming conversion
+Market cap
+
+• Delivers BTC Yield to shareholders, assuming conversion
+
+NAV
+
+Debt converted
+to equity at 50%
+premium
+
+Debt issued,
+BTC received;
+offsetting
+
+Smarter Convert benefits for investors
+• High vol equity upside:
+the ~120% volatility
+
+right to convert into SWC shares at 50% premium if
+equity performs
+
+Before
+
+• Bitcoin protection:
+
+if equity doesn’t perform (or underperforms BTC),
+investor gets 98% of BTC back
+
+29
+
+without risk of
+
+Note: Illustrative diagrams are intended to show a reasonable and simplified conceptual model that may be directionally helpf
+complex systems being described, but are not intended as a definitively true or complete representation of these systems.
+
+mNAV
+
+1x
+
+300
+
+Shares
+
+320
+
+(50% conversion
+premium)
+
+Bitcoin per share:
+ul for understanding the
+
+After
+
+1x
+
+Dilution: 6.7%
+For Bitcoin holders who want to
+outperform Bitcoin
+underperforming Bitcoin
+
+Debt
+converts
+
+Debt issued
+
+NAV growth: 10%
++3.1%
+
+Please see the important information slide in this presentation.
+
+Bitcoin treasury strategy amplifies BTC’s attractive vol
+Treasury strategy adds volatility on BTC
+BTC ownership
+
+Realized volatility
+
+Illustrative example
+
+Smarter Web
+
+Bitcoin
+
+BTC Yield
+compounds Bitcoin
+
+S&P
+500
+
+13.6%
+
+FTSE
+100
+
+11.2%
+
+114%
+
+58.9%
+
+Source: 4 Feb – 17 Mar 2026 (first 30 trading days); avg. 30
+Bloomberg HVT)
+
+- day realised vol (annualised,
+
+• Bitcoin can add volatility & performance to portfolios
+1 BTC = 1 BTC
+
+• Treasury strategy can amplify these attributes
+Smarter Web aims to provide securitised, amplified Bitcoin
+access and returns to UK portfolios
+
+30
+
+Note: Illustrative diagrams are intended to show a reasonable and simplified conceptual model that may be directionally helpf
+complex systems being described, but are not intended as a definitively true or complete representation of these systems.
+
+ul for understanding the
+
+Please see the important information slides in this presentation.
+
+UK equities lack volatility
+UK equity markets lack volatility
+• UK equity markets are structural low
+
+– Smarter Web introduces it
+Comparing SWC volatility across
+
+- volatility
+
+○ FTSE indices among the lowest vol markets globally due to
+defensive sector mix
+
+UK equities
+
+Highest vol stock in
+FTSE 250
+131%
+114%
+
+• Low vol inhibits active manager outperformance
+
+Highest vol stock in FTSE
+100
+
+○ Limited dispersion creates fewer opportunities for alpha
+
+84%
+
+• High volatility creates return opportunities
+58.9%
+
+○ Bitcoin - level volatility enables small allocations to shift portfolio
+returns
+
+Smarter Web is a source of volatility within UK equities
+
+Raspberry
+Pi
+
+Smarter
+Web
+
+Metlen
+
+Bitcoin
+
+Source: 4 Feb – 17 Mar 2026 (first 30 trading days); avg. 30
+Bloomberg HVT)
+
+31
+
+13.6%
+
+11.4%
+
+11.2%
+
+S&P 500
+
+FTSE
+250
+
+FTSE
+100
+
+- day realised vol (annualised,
+
+Please see the important information slides in this presentation.
+
+

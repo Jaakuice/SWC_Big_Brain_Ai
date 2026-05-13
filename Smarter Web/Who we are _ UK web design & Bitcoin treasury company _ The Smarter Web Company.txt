@@ -1,89 +1,111 @@
-Who we are
+Who we are | UK web design & Bitcoin treasury company | The Smarter Web Company
+URL: https://www.smarterwebcompany.co.uk/who-we-are/
+Last fetched: 2026-05-13
+
 A UK based, publicly listed technology company. With a Bitcoin-backed balance sheet.
 Building better websites. Powered by digital capital.
 Founded in 2009, The Smarter Web Company is a UK-based web design & online marketing business powered by digital capital. We create beautiful websites that help brands grow - and manage a Bitcoin treasury that builds long-term value.
-Listed in the UK, we combine creative design with forward-thinking finance to help shape the future of the UK’s digital economy.
+Listed in the UK, we combine creative design with forward-thinking finance to help shape the future of the UK's digital economy.
+
 Our values underpin everything that we do
-Clarity
-We keep things simple, transparent, and easy to understand.
-Performance
-Every design, every decision, built for measurable results.
-Support
-Real people, UK-based, here to help. And to engage.
-Meet our team
-Board of directors
+Clarity — We keep things simple, transparent, and easy to understand.
+Performance — Every design, every decision, built for measurable results.
+Support — Real people, UK-based, here to help. And to engage.
+
+---
+BOARD OF DIRECTORS
+
 Andrew Webley CEO
-Andrew Webley
 • Founded The Smarter Web Company in 2009
 • Previously Head of Online, Hargreaves Lansdown
 • Internet & marketing professional with +25 years' experience
 • Involved with Bitcoin since 2017
 
-Albert Soleiman CFO
-Albert Soleiman
-• Over 20 years international financial services management
-• Previously CFO of CMC Markets PLC (a FTSE 250 company)
-• Tax Director at Bitfury Group (a leading full service blockchain technology and bitcoin mining business)
-• Chartered Accountant (qualified with KPMG in Melbourne)
-
 Sean Wade Independent Non-Executive Chairman
-Sean Wade
-Independent Non-Executive Chairman
 • CEO, Power Metal PLC
-• Has worked on numerous transactions in the capital markets, including IPO's, secondary capital raising and M&A
+• Has worked on numerous transactions in the capital markets, including IPOs, secondary capital raising and M&A
 • Extensive network covering numerous capital providers, including institutional funds, family offices and private wealth
 
 Randal Casson Senior Independent Non-Executive Director
-Randal Casson
-Senior Independent Non-Executive Director
 • Qualified as a chartered accountant with PwC
 • Worked with PwC for 35 years, the last 22 years of which he was an audit partner
 • A Non-Executive Director at the FTSE 100 company, Games Workshop Group PLC
 
 Martin Thomas Independent Non-Executive Director
-Martin Thomas
-Independent Non-Executive Director
-• Qualified solicitor with a 35+ year legal career advising on IPO’s and equity/debt offerings in London
+• Qualified solicitor with a 35+ year legal career advising on IPOs and equity/debt offerings in London
 • Held senior management positions in law firms, including 7 years as the European Managing Partner of a global law firm headquartered in the United States
 • Is the Non-Executive Vice Chairman of Diversified Energy Company (both NYSE and LSE listed)
 
 Tyler Evans Non-Executive Director
-Tyler Evans
-Non-Executive Director
 • Experienced Bitcoin and marketing entrepreneur
 • Co-founder and Chief Investment Officer of UTXO Management
 • Director of Metaplanet and Nakamoto
 • Co-founder of parent company BTC Inc., publisher of Bitcoin Magazine and host of the annual Bitcoin conference
 • Involved with Bitcoin since 2013
 
-The team
-Alex Wrench Head of Web Design
-Alex Wrench
-Head of Web Design
-• Over 15 years of experience in web design, delivering visually appealing and user-friendly websites
-• Web Designer for The Smarter Web Company since 2012
-• Works hand-in-hand with clients from initial enquiry through to the finished website, ensuring their vision is fully realized
+---
+EXECUTIVE TEAM (PLC)
 
-Jesse Myers Head of Bitcoin Strategy
-Jesse Myers
-Head of Bitcoin Strategy
+Jamie Knowles — Head of Capital Markets, SWC PLC
+• Over 15 years' experience in equity sales trading at Bank of America, Credit Suisse and J.P. Morgan
+• 4 years in digital asset sector including Galaxy (Nasdaq-listed) and Chief Commercial Officer at DS3 Crypto
+• BA (Hons) Economics, University of Nottingham
+• Active in Bitcoin since 2017
+
+Jesse Myers — Head of Bitcoin Strategy, SWC PLC (@Croesus_BTC)
 • Experienced Bitcoin industry operator
-• Co-founder of Onramp Bitcoin, the pioneer of Multi-Institution Custody
+• Co-founder of Onramp Bitcoin, pioneer of Multi-Institution Custody
 • Michael Saylor (Strategy) adopted Jesse's valuation framework for modelling the future trajectory of Bitcoin's price relative to other asset classes
+• Involved with Bitcoin since 2017
 
-Laura Stanton-Hobbs Chief of Staff
-Laura Stanton-Hobbs
-Chief of Staff
+Laura Stanton-Hobbs — Chief of Staff, SWC PLC
 • Skilled in managing complex schedules, high-level meetings, and travel coordination with precision, confidentiality, and efficiency
-• Serves as a key liaison between the CEO, internal teams, and external partners - streamlining communication and follow-through across all levels
+• Serves as a key liaison between the CEO, internal teams, and external partners
 • Tech-savvy and proactive, with a strong ability to anticipate needs, solve problems, and adapt quickly
-• Brings a professional, detail-focused approach to executive support, contributing to the company’s creative culture and operational excellence
 
-Mario Visconti Head of Projects and Financial Controller
-Mario Visconti
-Head of Projects and Financial Controller
-• Over 25 years’ experience in the accountancy sector
+Mario Visconti — Interim CFO and Head of Projects, SWC PLC
+• Over 25 years' experience in the accountancy sector
 • Owns a successful accountancy and consultancy business
-• A consultant financial controller for a number of PLCs, assisting with internal financial management and reporting
+• A consultant financial controller for a number of PLCs
+• Involved with Bitcoin since 2017
 
-Our story
+Oliver Hewett — Group Financial Controller, SWC PLC
+• Fellow Chartered Accountant (ICAEW) with BSc in Economics & Accounting from University of Bristol
+• 18 years' post-qualified experience across investment banking and SME businesses
+• CFO and Board Director at two high-growth SMEs
+• Strong Bitcoin believer since 2020
+
+---
+OPERATIONS LTD
+
+Alex Wrench — Head of Web Design, SWC Operations Ltd
+• Over 15 years of experience in web design
+• Web Designer for The Smarter Web Company since 2012
+• Works hand-in-hand with clients from initial enquiry through to the finished website
+
+---
+SQUAREBIRD AGENCY LTD (acquired February 2026)
+
+Jon Bird — Managing Director, Squarebird Agency Ltd
+• Managing Director and founder of Squarebird Agency Ltd
+• Over 15 years' experience in digital marketing
+• Executive MBA from Cardiff Business School
+
+Nick Bird — Commercial Director, Squarebird Agency Ltd
+• Commercial Director and founder of Squarebird Agency Ltd
+• Over 15 years' experience in commercial strategy, operations and project delivery
+• Overseen 400+ website builds
+
+---
+OUR STORY
+
+2009 — Founded. Bitcoin Genesis Block mined the same year.
+2010 — iPad launch drives responsive design demand.
+2015 — CMS relaunch for fully responsive design.
+2017 — Andrew Webley discovers Bitcoin.
+2019 — Remote working model established (pre-pandemic).
+2020 — MicroStrategy pivot inspires founder's strategic vision.
+2022 — Began accepting Bitcoin payments; searched for UK-listed BTC treasury vehicle.
+2024 — Decision to go public.
+2025 — Listed on Aquis Exchange at 2.5p. Exceeded £1 billion market cap (21 June 2025). Raised over £225 million in first six months.
+2026 — LSE Main Market admission (3 February). Squarebird acquisition announced (23 February).

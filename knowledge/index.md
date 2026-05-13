@@ -13,8 +13,9 @@ This index maps queries to relevant data sources and provides selection guidance
 
 ### Companies
 - **The Smarter Web Company**: SWC, Smarter Web, smarterwebuk, @smarterwebuk, The Smarter Web Company PLC
-- **Stock Tickers:** AQUIS: SWC, OTCQB: TSWCF, FRA: 3M8
-- **Tennyson Securities**: Tennyson, the broker, corporate adviser
+- **Stock Tickers:** LSE Main Market: SWC, OTCQB: TSWCF, FRA: 3M8 (ISIN: GB00BPJHZ015)
+- **Tennyson Securities**: Tennyson, the broker, lead broker
+- **Strand Hanson**: Strand Hanson, financial adviser
 - **Bitcoin Treasuries World**: BTW, Bitcoin Treasuries, the show
 
 ---
@@ -54,7 +55,7 @@ This index maps queries to relevant data sources and provides selection guidance
 - Cross-reference with RNS for purchase dates
 - Use code execution for filtering, aggregation, plots
 
-### `/RNS/` (141 files)
+### `/RNS/` (143 files)
 **Purpose:** Official regulatory announcements
 **Date Range:** Apr 2025 - May 2026
 **Triggers:** RNS, regulatory, official announcement, Bitcoin purchase announcement, placing, fundraise, bookbuild, subscription, director appointment, TR1, major shareholder, trading update, AGM, general meeting, results, official filing, when did SWC buy Bitcoin, how much did they raise, new director
@@ -131,30 +132,75 @@ This index maps queries to relevant data sources and provides selection guidance
 - Filter by date for time-specific research
 - Use for investment analysis and projections
 
-### `/Smarter Web/` (18 text files)
-**Purpose:** Company documents, governance, investor materials, research
+### `/Smarter Web/` (40 files — text + PDFs)
+**Purpose:** Company documents, governance, investor materials, research, historical accounts
 **Key Files & Triggers:**
+
+**Investor Materials & Strategy**
+| File | Use When Query Mentions |
+|------|------------------------|
+| `smarter-web-investor-presentation-May-2026.txt` | latest investor presentation, May 2026 deck, current pitch deck, investment thesis |
+| `smarterweb-investor-presentation Digital. Capital. Designed._February 2026.txt` | Feb 2026 investor deck, Digital Capital Designed |
+| `smarterweb-investor-presentation.txt` | older investor presentation, original pitch |
+| `2025-07-16-P-BYD-Ratio.txt` | P/BYD, valuation, Jesse Myers, how to value Bitcoin companies, yield, mNAV methodology |
+
+**Financial Reports**
+| File | Use When Query Mentions |
+|------|------------------------|
+| `2026-02-20-SWC-Annual-Report.txt` | annual report, full year results, FY2025 (year to Oct 2025), annual accounts, yearly financials |
+| `2025-07-25-interim-results.txt` | interim results, H1 2025, half year, financials, earnings, profit/loss, revenue, balance sheet |
+| `Annual-Report-FY2022-PLC.txt` | 2022 accounts, FY2022, historical financials, pre-IPO performance, year ended Oct 2022 |
+| `Annual-Report-FY2023-PLC.txt` | 2023 accounts, FY2023, historical financials, year ended Oct 2023 |
+| `Annual-Report-FY2024-PLC.txt` | 2024 accounts, FY2024, historical financials, year ended Oct 2024 |
+| `Operations-Accounts-FY2022.txt` | Operations Ltd accounts 2022, subsidiary financials, Dec 2022 year end |
+| `Operations-Accounts-FY2023.txt` | Operations Ltd accounts 2023, subsidiary financials, Dec 2023 year end |
+| `Operations-Accounts-FY2024.txt` | Operations Ltd accounts 2024, subsidiary financials, Dec 2024 year end |
+| `16-01-2026-auditor-consent-letter.txt` | auditor, PKF Littlejohn, audit consent, prospectus supporting documents |
+
+**Legal & Constitutional Documents**
 | File | Use When Query Mentions |
 |------|------------------------|
 | `16-01-2026-swc-prospectus.txt` | prospectus, LSE uplisting, FCA, risk factors, Main Market, Bitcoin treasury risks, regulatory |
-| `2026-02-20-SWC-Annual-Report.txt` | annual report, full year results, FY2025, annual accounts, yearly financials |
 | `AdmissionDocument.txt` | AQUIS, AQSE, IPO, how went public, listing, reverse takeover, shell company, history, founding |
-| `smarterweb-investor-presentation Digital. Capital. Designed. February 2026.txt` | latest investor presentation, Feb 2026 deck, current pitch deck, Digital Capital Designed |
-| `smarterweb-investor-presentation.txt` | investor presentation, investment thesis, pitch deck, why invest, valuation, strategy |
-| `2025-07-16-P-BYD-Ratio.txt` | P/BYD, valuation, Jesse Myers, how to value Bitcoin companies, yield, mNAV methodology |
-| `2025-07-25-Half year financial report.txt` | interim results, H1 2025, financials, earnings, profit/loss, revenue, balance sheet |
-| `Corporate governance...txt` | corporate governance, QCA Code, governance principles, board responsibilities, compliance |
-| `Directors & advisers...txt` | board, directors, advisers, Tyler Evans, Sean Wade, Randal Casson, Martin Thomas, Albert Soleiman, CFO, chairman |
-| `Equity snapshot...txt` | shares outstanding, warrants, shareholders, dilution, ownership, 210k Capital, Smarter Convert |
-| `Who we are...txt` | company overview, team, employees, staff, Jesse Myers role, Alex Wrench, what does SWC do, web design |
+| `2026-03-20-articles-of-association.txt` | articles of association, current AoA, March 2026 AoA, company constitution (LATEST) |
+| `2026-02-20-SWC-Proposed-New-Articles.txt` | proposed articles Feb 2026, AoA changes, AGM resolution |
+| `2025-12-02-articles-of-association.txt` | articles Dec 2025, previous AoA |
+| `2025-11-13-SWC-Proposed-New-Articles.txt` | proposed articles Nov 2025 |
+| `articles-of-association-original-aquis-2025.txt` | original Aquis AoA, April 2025 articles, IPO constitution |
+
+**General Meetings & Circulars**
+| File | Use When Query Mentions |
+|------|------------------------|
+| `2026-02-23-notice-of-annual-general-meeting.txt` | AGM notice, annual general meeting 2026, notice of meeting, shareholder vote |
+| `2026-01-12-SWC-Circular.txt` | January 2026 circular, general meeting Jan 2026 |
+| `2025-11-13-SWC-Circular.txt` | November 2025 circular, general meeting Nov 2025 |
+
+**Corporate Governance**
+| File | Use When Query Mentions |
+|------|------------------------|
+| `Corporate governance _ A Market Leader...txt` | corporate governance, governance principles, board responsibilities, compliance, QCA Code |
+| `corporate-governance/Terms-of-Reference-Nominations-Committee.txt` | nominations committee, board appointments, succession planning, Sean Wade committee |
+| `corporate-governance/Terms-of-Reference-Remuneration-Committee.txt` | remuneration committee, executive pay, compensation, Randal Casson committee |
+| `corporate-governance/Terms-of-Reference-Audit-and-Risk-Committee.txt` | audit committee, risk committee, financial oversight, PKF Littlejohn, Randal Casson |
+
+**People & Company Profile**
+| File | Use When Query Mentions |
+|------|------------------------|
+| `Directors & advisers _ Meet our board...txt` | board, directors, advisers, Tyler Evans, Sean Wade, Randal Casson, Martin Thomas, Andrew Webley, legal advisers, Strand Hanson, Hill Dickinson, PKF Littlejohn |
+| `Who we are _ UK web design...txt` | company overview, team, employees, staff, Jesse Myers, Alex Wrench, Oliver Hewett, Mario Visconti, Laura Stanton-Hobbs, Jamie Knowles, Jon Bird, Nick Bird, Squarebird, what does SWC do, web design, company history |
+| `Equity snapshot _ UK web design...txt` | shares outstanding, warrants, shareholders, dilution, ownership, 210k Capital, Smarter Convert, share count, director holdings (updated May 2026) |
+| `Presentations, research & media _ The Smarter Web Company.txt` | media page, presentations list, research documents, YouTube links |
 
 **Multi-File Selection Guide (triggers overlap):**
 - **Andrew Webley queries** → Directors & advisers (bio) + Who we are (role) + interim-results (CEO statement)
 - **Jesse Myers queries** → Who we are (role) + P-BYD-Ratio (his research)
-- **Board/directors queries** → Directors & advisers (bios) + Who we are (overview) + Corporate governance (duties)
-- **Valuation queries** → P-BYD-Ratio (methodology) + investor-presentation (thesis) + prospectus (metrics)
-- **Company history queries** → AdmissionDocument (full) + Who we are (summary)
-- **Risk queries** → prospectus (official risks) + Corporate governance (risk management)
+- **Board/directors queries** → Directors & advisers (bios) + Who we are (overview) + Corporate governance (duties) + ToR files
+- **Valuation queries** → P-BYD-Ratio (methodology) + investor-presentation May 2026 (thesis) + prospectus (metrics)
+- **Company history queries** → AdmissionDocument (full) + Who we are (summary) + FY2022/23/24 annual reports
+- **Risk queries** → prospectus (official risks) + Audit & Risk Committee ToR
+- **Constitution/legal structure** → 2026-03-20-articles-of-association (current) is the authoritative version
+- **Historical financials** → FY2022/23/24 PLC + Operations Ltd accounts for pre-IPO financial history
+- **Squarebird/acquisition** → Who we are (team bios) + 2026-02-23 RNS
 
 ### `/Legacy media/` (13 files)
 **Purpose:** Historical media coverage and external perspective
@@ -274,12 +320,17 @@ This index maps queries to relevant data sources and provides selection guidance
 
 ## Date-Based Selection Tips
 
-- **IPO Date:** 2025-04-25 (use as reference point)
-- **Recent data:** Focus on 2026-01, 2025-12, 2025-11 for "latest" queries
+- **IPO Date (Aquis):** 2025-04-25
+- **LSE Main Market admission:** 2026-02-03
+- **FTSE All-Share / SmallCap inclusion:** 2026-03-23
+- **Recent data:** Focus on 2026-04, 2026-05 for "latest" queries
 - **Key periods:**
   - IPO period: April-May 2025
-  - Growth period: June-July 2025
-  - Recent period: November 2025 - January 2026
+  - Capital raise & growth: June-August 2025
+  - LSE uplisting: January-February 2026
+  - FTSE inclusion: March 2026
+  - Squarebird acquisition announced: 2026-02-23
+  - Current (as of May 2026): BTC ~2,830, share price ~38p, mNAV ~0.98x
 
 ---
 
