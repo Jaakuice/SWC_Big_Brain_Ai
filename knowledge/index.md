@@ -123,15 +123,15 @@ This index maps queries to relevant data sources and provides selection guidance
 - Cross-reference with official sources for verification
 - Use code execution for keyword filtering
 
-### `/Tweets/the_desert_ape/` (1 JSON file — growing)
+### `/Tweets/the_desert_ape/` (2 JSON files)
 **Purpose:** SWC employee tweets and commentary
-**Date Range:** May 2026 onwards
+**Date Range:** Apr 2026 - May 2026 (262 posts; updated automatically via tweet_updater)
 **Format:** `posts-YYYY-MM.json`
-**Triggers:** the_desert_ape, desert ape, @the_desert_ape, what did the_desert_ape say
+**Triggers:** the_desert_ape, desert ape, @the_desert_ape, what did the_desert_ape say, what did the desert ape say
 **Selection Tips:**
-- Archive starts May 2026 — populate monthly JSON files as tweets are collected
-- Use same JSON schema as other tweet accounts
-- Cross-reference with official SWC sources for context
+- Covers April–May 2026 (back-scraped via Playwright, 15 scroll pages)
+- Active poster — replies to shareholders, posts treasury commentary, investor relations content
+- Cross-reference with RNS and @asjwebley for official confirmation of anything material
 
 ### `/Tennyson/` (20 PDFs)
 **Purpose:** Broker research and deal documentation
