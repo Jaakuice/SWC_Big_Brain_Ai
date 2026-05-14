@@ -123,15 +123,16 @@ This index maps queries to relevant data sources and provides selection guidance
 - Cross-reference with official sources for verification
 - Use code execution for keyword filtering
 
-### `/Tweets/the_desert_ape/` (2 JSON files)
-**Purpose:** SWC employee tweets and commentary
-**Date Range:** Apr 2026 - May 2026 (262 posts; updated automatically via tweet_updater)
+### `/Tweets/the_desert_ape/` (14 JSON files)
+**Purpose:** Jamie Knowles (Head of Capital Markets) tweets and investor relations commentary
+**Date Range:** Apr 2025 - May 2026 (2,853 posts)
 **Format:** `posts-YYYY-MM.json`
-**Triggers:** the_desert_ape, desert ape, @the_desert_ape, what did the_desert_ape say, what did the desert ape say
+**Triggers:** the_desert_ape, desert ape, @the_desert_ape, Jamie Knowles, Jamie, Head of Capital Markets, what did Jamie say, what did the_desert_ape say
 **Selection Tips:**
-- Covers April–May 2026 (back-scraped via Playwright, 15 scroll pages)
-- Active poster — replies to shareholders, posts treasury commentary, investor relations content
-- Cross-reference with RNS and @asjwebley for official confirmation of anything material
+- Full history from IPO (Apr 2025) — extracted from lightbrd HTML snapshot
+- Very active poster: 634 posts in Jul 2025, 728 in Jun 2025 — covers the entire capital raise period in detail
+- Strong on investor relations: replies to shareholders, treasury strategy commentary, BTC purchase explanations
+- Posting in personal capacity — cross-reference with RNS/asjwebley for anything material
 
 ### `/Tennyson/` (20 PDFs)
 **Purpose:** Broker research and deal documentation
