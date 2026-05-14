@@ -10,6 +10,7 @@ This index maps queries to relevant data sources and provides selection guidance
 ### People
 - **Andrew Webley** (CEO): Andy, @asjwebley, asjwebley, Mr Webley, CEO, Andrew
 - **Jesse Myers**: Croesus, @Croesus_BTC, Croesus_BTC, Jesse
+- **@the_desert_ape**: the_desert_ape, desert ape (SWC employee)
 
 ### Companies
 - **The Smarter Web Company**: SWC, Smarter Web, smarterwebuk, @smarterwebuk, The Smarter Web Company PLC
@@ -33,6 +34,7 @@ This index maps queries to relevant data sources and provides selection guidance
 | CEO views/statements | `/Tweets/asjwebley/` JSONs, YouTube transcripts | - | Optional - keyword search |
 | Company announcements | `/Tweets/smarterwebuk/` JSONs, RNS PDFs | - | Optional - date filtering |
 | Independent analysis | `/Tweets/Croesus_BTC/` JSONs, Tennyson PDFs | - | Optional - keyword search |
+| Employee commentary (@the_desert_ape) | `/Tweets/the_desert_ape/` JSONs | RNS, YouTube | Optional - keyword search |
 | Regulatory filings | RNS PDFs (filter by date/type) | - | No |
 | Broker research | Tennyson PDFs | CSV (for validation) | Optional - cross-check |
 | Strategy discussions | YouTube transcripts, CEO tweets | RNS (official statements) | No |
@@ -111,7 +113,7 @@ This index maps queries to relevant data sources and provides selection guidance
 - Cross-reference with RNS for formal announcements
 - Use code execution for keyword/date filtering
 
-### `/Tweets/Croesus_BTC/` (16 JSON files)
+### `/Tweets/Croesus_BTC/` (17 JSON files)
 **Purpose:** Independent Bitcoin treasury company analysis
 **Date Range:** Feb 2025 - May 2026
 **Format:** `posts-YYYY-MM.json`
@@ -120,6 +122,16 @@ This index maps queries to relevant data sources and provides selection guidance
 - Use for independent perspective on SWC
 - Cross-reference with official sources for verification
 - Use code execution for keyword filtering
+
+### `/Tweets/the_desert_ape/` (1 JSON file — growing)
+**Purpose:** SWC employee tweets and commentary
+**Date Range:** May 2026 onwards
+**Format:** `posts-YYYY-MM.json`
+**Triggers:** the_desert_ape, desert ape, @the_desert_ape, what did the_desert_ape say
+**Selection Tips:**
+- Archive starts May 2026 — populate monthly JSON files as tweets are collected
+- Use same JSON schema as other tweet accounts
+- Cross-reference with official SWC sources for context
 
 ### `/Tennyson/` (20 PDFs)
 **Purpose:** Broker research and deal documentation
