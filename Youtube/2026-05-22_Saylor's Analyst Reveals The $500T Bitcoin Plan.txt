@@ -1,0 +1,268 @@
+# Saylor's Analyst Reveals The $500T Bitcoin Plan
+**Date: 2026-05-22**
+**Video ID: zAIPvq2zg9A**
+**URL: https://www.youtube.com/watch?v=zAIPvq2zg9A**
+**Duration: ~1:01:54**
+**Channel: The Daily Stack**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- Jesse Myers' journey from Ethereum/altcoin investor to Bitcoin maximalist after the 2018 bear market
+- The "Crypto Catch 22" — why no altcoin can compete with Bitcoin without centralization, and why Bitcoin's origin conditions can never be replicated
+- How Bitcoin treasury companies (like MicroStrategy/Strategy) act as financial plumbing, channeling trillions from bond and money markets into Bitcoin via preferred equity instruments
+- STRTH (Stretch) preferred equity: 11.5% yield, highly overcollateralized by Bitcoin, making it superior risk-adjusted to any junk bond product
+- The $500 trillion addressable capital market that Bitcoin treasury companies can tap
+- Smarter Web Company as the UK's premier Bitcoin treasury company — why London controls ~10% of global money flows and holds 6% of global asset value
+- Why the entire London Stock Exchange is worth less than Nvidia alone, and the opportunity for Bitcoin treasury companies to outperform the 6% LSE average CAGR
+- Bitcoin per share growth strategy compounding to ~55% annualized returns
+- Saylor's pivot to acknowledging Bitcoin sales as strategic (to reinforce Stretch creditworthiness and pursue S&P 500 inclusion)
+- Bitcoin's halving supply schedule as the "prime mover" of long-term price appreciation, and why no single catalyst is needed
+
+---
+
+**Jesse Myers:**
+(0:00:00) Holy [bleep] this thing is not what I thought it was. This thing is the digitization of value and that is going to change the world. He has uncorked the model for hyper bitcoinization. I think bitcoin treasury companies become the plumbing of hyper bitcoinization. You can't catch up to Bitcoin unless you have a marketing budget and a budget for development. And if you have a marketing budget and a centralized team guiding development, well then you're not a decentralized protocol. Saylor will be looked back on as, you know, in the same league as Rockefeller or Ford or Steve Jobs. That's $5 trillion of inflow into an asset that's currently $1.5 trillion total.
+
+**Jody:**
+(0:01:02) Welcome back to the Daily Stack. We have Jesse Myers, head of Bitcoin strategy at the Smarter Web Company — past guest on the show. We saw each other in Hong Kong, and we've also had Andrew Webley, CEO of Smarter Web Company, on the podcast. Absolute pleasure to have you on today. We had Leon Wank on yesterday and we were pulling up your charts, your graphs. So now we have the researcher, the analyst — even before Smarter Web Company — that we want to dive into. Because if you have Michael Saylor referencing your stuff, and we know how heavy he is on research, but if he's referencing your stuff on how to put together digital credit, how to build a financial system on top of Bitcoin, that's pretty cool. I think there's so much, for the average pleb like myself, so much to learn and understand. I love infographics and boiling things down. So that's what we're going to do today. Jesse, how are you this morning?
+
+**Jesse Myers:**
+(0:01:55) Doing great. Yeah, I'm excited to dig into this and kind of brush up on the basics for everybody.
+
+**Jody:**
+(0:02:01) Yeah. So to give a little backstory, Jesse — you went to Stanford. My father-in-law and mother-in-law are huge fans, so they're going to be watching just for the Cardinal aspect of it. But for you — tell us a little bit about coming out of Stanford, getting really into Bitcoin. You made a really good early decision to just put out a lot of content educating people on Bitcoin and what you see past that. You co-founded On-Ramp, a Bitcoin financial services company, and then you got into working with Smarter Web Company's Bitcoin strategy in one of the largest markets, the UK. Tell us about that journey. Why is that the path you chose? Because I think you do have a lot of paths in front of you. So it's interesting to see — this is what I want to do next.
+
+**Jesse Myers:**
+(0:02:53) Yeah. So I went to Stanford, got my MBA there. Before that I was a management consultant at Bain & Company and really kind of learned the analytical toolkit.
+
+(0:03:06) At Stanford I got interested in Ethereum because some of my classmates were buzzing about that. I dug into that and went down that rabbit hole — the whole altcoin rabbit hole. Invested in all kinds of altcoins. Thought that was the future. It was all about tech, you know, 2016, 2017.
+
+(0:03:28) And then the bear market in 2018 murdered the things that I thought were the future. And that forced me to try to figure out — what did I miss? What was I missing? Why is Bitcoin outperforming in this bear market? And that eventually led me to the Bitcoin maximalist content out there. When you're in crypto, you absorb this idea that Bitcoin maximalists are the crazy people — totally unreasonable and unhinged and dead wrong, right? Cultists.
+
+(0:04:05) So it took a bear market in 2018 for me to consider, okay, maybe they're right. Maybe I need to read what they're referencing. So that led to reading everything I could get my hands on back in 2018 about Bitcoin from the Bitcoin maxi perspective. And the Bitcoin Standard was really the key text for me, and I've been a Bitcoin maximalist ever since.
+
+(0:04:34) I think most Bitcoiners have some kind of experience where they reject Bitcoin as an idea, think it's stupid, and then over a series of interactions with people or with Bitcoin they start to open up to it, go down the rabbit hole, and have the orange pill epiphany of — "Holy [bleep] this thing is not what I thought it was. This thing is the digitization of value
+
+(0:05:10) and that is going to change the world." It's already happening. And the scale of that is unreal. When I was going through that epiphany — and everybody has like a 12-month period where they're incredibly zealous and want to talk to everybody they know about Bitcoin and just shake them to wake them up to how big this is —
+
+**Jody:**
+(0:05:37) — very few of those people listen, and that's a classic Bitcoiner experience as well.
+
+**Jesse Myers:**
+(0:05:43) But because of my training in the management consulting toolkit, when I got to that place in Bitcoin, I wanted to try to size — how big is this opportunity? How big can Bitcoin be? So I engaged in the classic exercise of: what's the full potential of Bitcoin?
+
+(0:06:11) And that turned into an article that Michael Saylor read, and he DM'd me afterwards.
+
+**Jody:**
+(0:06:18) That was it.
+
+**Jesse Myers:**
+(0:06:19) Then a few months later he started using those charts and that framework as one of the ways to frame how to think about Bitcoin and how he thinks about Bitcoin. And it kind of turned into the basis for his valuation model for Bitcoin reaching $13 million per coin in 20 years. That's kind of based on that framework, and then becomes part of the rationale for the Bitcoin treasury strategy that MicroStrategy was embarking on. It's been really cool to have played an analytical role in the thesis there.
+
+**Jody:**
+(0:07:11) Yeah. And chopping up a few pieces of that to dive into. First on the point of Ethereum — I think anyone that's curious... you have CEOs and successful people that always talk about curiosity being so key to success. There's a lot of people that now celebrate warming up to the idea that this person was curious about a lot of altcoins and the tech around it, and they realized over time Bitcoin's the best instrument to build off of. Most altcoins suffer from really good ideas that just get corrupted. It's too easy to print your own money. And with AI — I would think the value of any other chain that can easily be replicated by Claude or other tools, you could copy-paste the code for something like Ethereum. Ethereum would argue they have network effects, but what would stop Amazon Web Services — which powers a lot of the staking for Ethereum — from just cloning ETH and making their own token? The one thing that no AI coding tool can clone is Bitcoin's distributed miners all over the world with access to power, which is so hard to get. And the scarcity is something that's just not going to be common in an AI-heavy future. So to your point, yeah, Ethereum and other smart contract-based tokens — I just don't see how they don't become commoditized in an AI society.
+
+**Jesse Myers:**
+(0:09:18) Yeah, totally agree. They have no moat ultimately. And I think people overcomplicate that — it's such a simple thing at the end of the day. I wrote an article about this called the "Crypto Catch 22," where you can't catch up to Bitcoin unless you have a marketing budget and a budget for development. And if you have a marketing budget and a centralized team guiding development, well then you're not a decentralized protocol. So it's a catch 22 — it's not possible to catch up without having a premine or insider control, which ultimately makes you like a startup. And that's not how you win, and that's not how you beat Bitcoin, because this is an open protocol for value exchange and storage in the digital age.
+
+(0:10:25) So it comes back to the concept of the immaculate conception of Bitcoin — not the best phrase for it, but quite true. It's impossible to replicate the conditions by which Bitcoin got started, because if you had a proof-of-work coin that you started now, it'd be easy to 51% attack it because there's all this compute out there. But Bitcoin bootstrapped through that because there was no compute already online in crypto — because it was the beginning. You can't replicate those conditions again.
+
+**Jody:**
+(0:11:04) Yeah. I mean, let's look at 2009. The market cap of Nvidia in 2009 — what would your guess be?
+
+**Jesse Myers:**
+(0:11:13) That's a great question. I don't know. $50 billion?
+
+**Jody:**
+(0:11:25) No — $10 billion.
+
+**Jesse Myers:**
+(0:11:27) $10 billion.
+
+**Jody:**
+(0:11:29) So a $5.4 trillion company right now. And I say that because it's like the infrastructure for compute —
+
+(0:11:39) the largest infrastructure maker of chips wasn't around, right? It was a $10 billion company in 2009. It's just so different to now. If you try to launch something, everybody has compute, everybody's fighting for memory, it's really expensive — you're competing with every other high-performance compute in LLM models. So bringing it back for the audience — we had Leon Wank on yesterday, author of an upcoming book tying Bitcoin and real estate. But one thing I wanted to bring up is this infographic. I think this is a version where Adrien Morris, who's been on the show several times, added in a few of the preferred equity products and also MSTR-U. But this is based off of Jesse's work and how he conceptualized how a Bitcoin treasury company works in the traditional financial markets, what they're aiming for. And for the maxis and for those new to the space, understanding that Michael Saylor's not here to drink your milkshake and suck up all your Bitcoin in cold storage. He does want retail investors, but it's not purely about buying your Bitcoin directly from you. He's looking at these different asset classes and pulling them in. For you, what's your May 21st take on the infographic? Anything you're adding? Anything interesting on the side of Stretch and SATA and these new preferred equities coming in as money market fund alternatives?
+
+**Jesse Myers:**
+(0:13:27) Yeah, it's been an incredibly exciting year and change because preferred equities didn't exist just over a year ago.
+
+**Jody:**
+(0:13:37) Yeah.
+
+**Jesse Myers:**
+(0:13:37) And I think people forget that. Stretch was launched nine months ago, and the first six months or so it was really low volume — very low issuance via the ATM because they weren't trading at par. Stretch was trading below $100 per share for most of that period, and then eventually got up to par and has stabilized and become very low volatility right around $100.
+
+(0:14:04) In the last three months they've been booming in terms of demand and product-market fit, really, for Stretch as an offering. This month they raised $2 billion by issuing new shares of Stretch. Prior month, similar scale. Prior month before that, similar scale. I think that's what they're going to be doing every month going forward — they'll be able to issue call it $2 billion or more per month of new Stretch issuance, and they're going to turn around and buy Bitcoin with those proceeds.
+
+(0:14:54) And so I think the reason that Saylor ended up using this chart — without the plumbing on it — in many of his presentations over the last few years, right at the beginning, is to tee up the opportunity for Bitcoin, but really for Strategy and Bitcoin treasury companies in general. Because what a Bitcoin treasury company is, is a public company vehicle that creates products for investors to meet them where they are — products that are powered by Bitcoin. And with this lens, you can see there's a ton of value in the bond market, in the fixed income market. There's a ton of value in the money markets. And Stretch really, to be honest, is tapping into both. It appeals to bond market fixed income capital and money market capital, because its properties span both. And that's become the iPhone moment for Strategy. And it's only just begun, really — because in this chart there's $318 trillion in fixed income and $130 trillion in the money markets.
+
+(0:16:22) Saylor has sort of shorthanded this to: there's $500 trillion out there that is basically addressable for the preferred equity instruments. And think about what he's competing with. He's competing with fiat debt products issued by governments yielding 5%. Or you go out on the risk curve and get some junk bond type products yielding maybe 12%, but there's a ton of risk — so risk-adjusted it's really more like 5–6%. And then here comes Strategy with their product, which is highly overcollateralized with their Bitcoin balance sheet. Their annual dividend obligations are something like $2 billion, and they raise that every month — sometimes in a day of Stretch issuance.
+
+(0:17:30) And that's just from issuing Stretch. They can also issue MSTR; they can do all sorts of things with their balance sheet. So the probability of them being able to service these preferred equity obligations is almost 100%. Risk-adjusted, this thing offers 11–11.5% yield — and risk-adjusted, it's way better than any junk bond product out there. And that's because it's powered by Bitcoin. What Strategy is doing is using these obligations to buy an asset they believe is appreciating at 29% a year — that number comes from this work — and they're happy to pay that cost of capital to buy an appreciating asset, shave off the first third of the upside to service the debt that gave them the funds to buy that Bitcoin, and then the remaining two-thirds of the upside accrues to equity holders. It's an unbelievable model.
+
+(0:18:41) I think we talk a lot about Strategy and Bitcoin, we talk a lot about Saylor, but I don't think we talk enough about what they're actually doing. I think he has uncorked the model for hyper bitcoinization. I think Bitcoin treasury companies become the plumbing of hyper bitcoinization, because they are how capital that's stuck in the bond market or the money market getting not-good-enough returns — it's how that capital can flow into Bitcoin much more easily than through individual owners of those assets waking up and deciding Bitcoin is a better asset to hold. So they're going to sell some bonds, take those dollars, go buy Bitcoin themselves.
+
+(0:19:36) Instead, Saylor's meeting them where they're at, saying, "Here's 11.5%, highly overcollateralized — I'm good for it." And then he's taking those dollars and buying Bitcoin. So he's facilitating that flow of capital into Bitcoin. I think what Saylor is doing here is one of the great stories in modern finance, in modern business. Saylor will be looked back on in the same league as Rockefeller, or Ford, or Steve Jobs. That's the level of innovation that he's unlocked for the financial landscape and the world — and we are only just beginning. Because there's $500 trillion that would probably rather get 11.5% annual yield than the 0 to 5% risk-adjusted yield they're getting right now.
+
+**Jody:**
+(0:20:42) Yeah. When you said Saylor's not talked about enough, I think there's another point — the fundamental "why" is not talked about enough. There needs to be more focus and understanding, more charts in different flavors, different ways to explain to people. Because people log on to X and they see "Stretch tracker — SATA raised a lot of money today" — it doesn't always compute. The average person logging into X could see that and think, "Oh, that's an altcoin. That's another crypto raising money." That's not the case — it's an IPO, it's public equity. And the thing behind it is the why. When you have these different asset classes, you have to go meet the money where it is. Right now, I spoke to a financial adviser — a longtime family friend in Georgia where I'm from — and he's talking to clients. There's no way he's saying Stretch or SATA or any of these products. He has clients coming to him saying, "I need allocation to fixed income. I'm worried Nvidia at $5.4 trillion's a little bubbly." And you can't tell everyone to just go buy MSTR — it's way too volatile. The fundamental thing is he's trying to make these products work for each of these existing classes. And what Leon was saying yesterday around explaining this — I loved how he was just saying, look, I iterated over a lot of different things until I found the iPhone, which is Stretch. He did talk about Strive — there's an event tonight in Portland with the Strive team I'm heading out to shortly. Their unique flavor is the daily dividends. With SATA you get slightly higher return, 12–12.5%, because it's a much smaller company than Strategy. Sailor was even saying he doesn't want to just copy them on daily dividends — he wants to see them get 10x bigger first. Bringing it back to Smarter Web Company — without making you release anything early — what do you feel like is your iPhone moment? What is that thing that Saylor is going to say, "I'll let Smarter Web Company run with this for six months, then I'll jump into this product"?
+
+**Jesse Myers:**
+(0:23:47) Well, yeah. So the truth of the Bitcoin treasury strategy is that it's global, but it's also capital market-specific, right? In US capital markets, most global investors have a way to access US capital markets. But some don't. In the UK, for example, there are a lot of investment funds that have mandates where they're only allowed to invest in UK regulatory jurisdiction products.
+
+**Jody:**
+(0:24:30) Yeah.
+
+**Jesse Myers:**
+(0:24:31) So it's different regulators, right? In the US it's the SEC. In the UK it's the FCA. And that's a big part of how some investment fund mandates work — you can only touch stuff that is FCA regulated. So while this chart shows the global asset landscape, a more accurate next lens would be to slice this into regulatory jurisdictions and divide up asset value based on how much is in the US, how much is in the EU, how much is in Japan, how much is in the UK.
+
+(0:25:19) I've recently done that — that'll be coming out soon. The short answer is that by my estimates, about 6% of global asset value is in the UK.
+
+(0:25:38) And London itself is the world's number two financial center. A huge portion of the financial plumbing in the world routes through London. In many ways it's the preferred international banking hub for much of Europe and Africa. For that reason, by my math, it actually has 10% of all the money in the world — so 6% of global asset value, but 10% of money, and 9% of equity value is commanded by the UK market. It's quite a significant capital market.
+
+(0:26:22) And that's why Smarter Web is so exciting and compelling to me — Smarter Web is the UK's premier Bitcoin treasury company. We are the public company in the UK with the largest Bitcoin treasury and the most valuable Bitcoin treasury company in the UK, with several times more Bitcoin than the next closest. That puts us in a great position to continue with the playbook — leveraging what has worked best internationally, especially in the US, and learning from the lessons that Saylor has very generously talked about publicly. Take the best of what he's learned over this six-year-long journey of trying things out and arriving at what they think is the best model for a Bitcoin treasury company in general.
+
+(0:27:32) So we're excited about amplifying — becoming amplified Bitcoin for the UK. Right now that means we've been adding a little bit of leverage through traditional debt to the balance sheet. We're now at 11% leverage ratio, while trading — last I checked — at 89% mNAV.
+
+(0:27:58) So we represent levered Bitcoin upside but are currently trading at a discount to our existing net asset value. Which is itself quite compelling — if you're bullish on Bitcoin, that creates an opportunity to own a slice of a Bitcoin balance sheet with levered upside on top of that, all trading at a discount.
+
+(0:28:27) And the market has been quite clear that higher amplification ratios are being rewarded right now by Bitcoin treasury company investors globally. Investors seem to want the amplified upside exposure of Strive and Strategy because they have higher amplification ratios — really a way to think about total leverage ratio through preferred equity obligations plus traditional debt obligations.
+
+(0:29:04) And those are the companies trading at 1.2x mNAV or higher, which makes it accretive to issue common stock equity. The opportunity is quite clear: to be the leading Bitcoin treasury company in a significant capital market means that Strategy is able to ingest US fixed income capital and US money market capital — and the same is true for the leading Bitcoin treasury company in each capital market with respect to the pools of capital within the same regulatory jurisdiction.
+
+**Jody:**
+(0:30:04) Yeah. One thing tying this into the other equity markets — ARM reported earnings a few weeks ago, UK-based chip designer, part of the whole AI infrastructure buildout. One thing that was mentioned differently from Intel and AMD earnings calls is that FCA-regulated companies like ARM weren't able to speak as freely about some of the forward-looking bullishness around the shift in CPU-to-GPU ratios. Traditionally it's been one CPU to eight GPUs, but with high-memory models and especially agentic AI use cases, there's actually a need for more like a 1:1 or 1:4 ratio — and that was one of the key things that made AMD and Intel really take off. So with being an FCA-regulated entity in the UK — how does that affect this model? And looking at the UK-specific version of this chart you're putting out in your upcoming research — is the makeup pretty similar? Are there different asset classes that are more pronounced? Is it harder to release something like Stretch or SATA because you need to go through additional processes?
+
+**Jesse Myers:**
+(0:32:02) Yeah. So it's pretty similar, actually. First of all, the UK is a fixed income-hungry market. I think that's culturally very deeply baked in. UK investors like yield, they like income investing — what kind of dividend am I going to get every year? And I think that's more so than in the US. So right there is a nice tailwind to the amplified Bitcoin treasury company model.
+
+(0:32:44) In addition to that, it's an equity capital market that hasn't had a ton of success stories or a ton of growth. The London Stock Exchange has £2.9 trillion of total market cap — slightly less than Nvidia.
+
+(0:33:05) So the entire London Stock Exchange totals up to less than one company in the US. And I think a big part of that is there hasn't been — for whatever reason, a lot of it comes back to politics and regulatory culture — a ton of innovation and growth in the UK over the last few decades. So if you're competing with other companies on the London Stock Exchange, over the last decade or two, it's been about a 6% CAGR for London Stock Exchange companies.
+
+(0:33:56) And if Bitcoin manages to grow at 29% a year the way that Saylor thinks — well, a company whose balance sheet is built on Bitcoin is going to do way better than your typical LSE company. And then if that company is actively engaged in a strategy that manages to increase Bitcoin per share by let's call it 20% a year on average — which is roughly the performance Strategy has achieved in recent years — well, that compounds with that 29% growth, and that comes out to 55% annualized returns.
+
+(0:34:40) That's what's possible, I think personally, for a Bitcoin treasury company that is the leader in a significant capital market and is able to roll out the full playbook.
+
+**Jody:**
+(0:34:57) Yeah.
+
+**Jesse Myers:**
+(0:34:57) And that's what we think we're on track to do. That's why I'm involved as an American — I think this model works everywhere. And I think the UK is realistically probably the third best capital market in the world to run this playbook in. I think it's the US first, Japan second, and UK third. Japan second because the going rate for fixed income is so much lower that you can offer a 5% fixed income product and it'd be 10 times better than what you could get for government bonds — though lately that's changing with how those are selling off.
+
+(0:35:51) All that to say — the model can work and has been working. Smarter Web Company has been a public company for just over a year, and we've gone from zero Bitcoin to almost 3,000 Bitcoin in a year. And really we had two months of bull market for Bitcoin treasury companies right at the beginning, and since then much tougher markets for raising additional capital. But we are two orders of magnitude and more smaller than Strategy. But we have a capital market where 6% of the global asset value sits, and I think that's plenty big enough in terms of fixed income, money, and equity value that could be interested in a Bitcoin-powered equity or alternative products —
+
+(0:36:57) such that success for a Bitcoin treasury company in a capital market like this could mean accumulating 210,000 Bitcoin, or 1% of the total.
+
+**Jody:**
+(0:37:08) Yeah.
+
+**Jesse Myers:**
+(0:37:08) Which would mean a huge amount of upside if it plays out that way for Smarter Web Company.
+
+**Jody:**
+(0:37:15) Yeah. One thing — when we first talked to Andrew Webley and interviewed him last summer, it was around the next generation. Holston Valencia, our normal co-host on Thursdays — she's big in the treasury space, she's actually traveling to Portland right now so couldn't join us. But for her coming out of college, we're focused on how do you communicate Bitcoin treasury companies, the Bitcoin economy, and get people involved early. The thing around the US is you have Elon doing space satellites, Optimus robots, Tesla — and then you have Lisa Su at AMD and Jensen Huang at Nvidia, who are apparently cousins, and you have this huge Silicon Valley hub of innovation near Stanford. These companies have been taking off — you've got Nvidia at $5.4 trillion. For the UK, you get the sense from Andrew that if you're young and next-generation in the UK, you can't afford a house. The average Gen Z person feels like they're really getting screwed over — they're so far behind where previous generations entered the workforce and built wealth. How do you look at not becoming a GameStop, not leaning too hard into being this golden ticket to wealth? I know Andrew said originally "compounding Bitcoin" is a term that resonated more with people than just "amplified." That's a question there. And the second part is the options market — I'm not very familiar with the UK options market. How does that play into your strategy? At what size does that become more important for volume and volatility?
+
+**Jesse Myers:**
+(0:39:40) Yeah, I'll take the second one first. We haven't really had to learn much about the options market yet. I think it's sort of path-dependent. We are growing the level of interest in our stock just by executing on the strategy, getting the message out there, and letting people discover what we're doing. Part of that is we recently joined the FTSE indices, just two months ago now. And since then we've been — I think — the company that has appeared most frequently in top risers or top fallers,
+
+(0:40:30) which means we're more volatile than everybody else. We think that's a good thing because volatility is vitality, and you can't get the upside without volatility. We show up on the dashboards that day traders are looking at. This happened for MetaPlanet in Japan — that's a big part of how they attracted new investors. They just kept showing up on these high-volatility dashboards, and we're starting to do that now in the UK.
+
+(0:41:08) What success looks like here is we've already established a very large, very passionate, very vocal retail investor base in the UK — people who see the vision, who have been looking for a Bitcoin treasury company in the UK for some time, who like how Andrew runs it, like his vision
+
+(0:41:32) and his execution,
+
+(0:41:33) and are passionate supporters of what we're doing.
+
+(0:41:38) And that's what you need first. Then from there, the daily volume can grow as other people learn about the story and participate, and then from there institutions get on board, options become part of how the company trades. That's on the horizon for us.
+
+(0:42:08) Remind me the first half of your question. Oh yeah —
+
+**Jody:**
+(0:42:10) First half is just on the future for UK Gen Z — outperforming the 6% CAGR, right? People are looking for the 10-baggers, and we don't want them to go to altcoins, but we also want to set good expectations financially.
+
+**Jesse Myers:**
+(0:42:24) Yeah. And you know, I'm of two minds on this. I would love for Gen Z UK, or people who feel like there's not much economic hope in the UK, to learn about Bitcoin, to learn about Smarter Web Company, and get excited — because there's a lot to be excited about with Bitcoin and with the flagship Bitcoin treasury company in a capital market that has the capacity to grow your Bitcoin ownership through accretive transactions and amplification.
+
+(0:42:58) I think there's a lot of cause for excitement there, but we also don't need people to get excited first. The reality is that Bitcoin will lift — the rising tide will float all Bitcoin treasuries, because their balance sheets grow in value and will draw attention to those companies. And then the difference maker is how much more you can add in terms of Bitcoin per share.
+
+(0:43:30) Execution matters on top of that, and we're hellbent on executing well. But basically — I don't know that it matters for people to get excited about it in advance. I think what matters is that we execute and the performance speaks for itself, and will draw a lot of attention and enthusiasm. Because if we are able to grow at anything like 55% a year, we're going to attract a lot of investors who will want to learn about the story, get excited about it when they do — and that's going to be our biggest marketing funnel for new investment dollars: people trying to figure out what the hell this company is that's growing at these very fast rates in terms of market cap and share price.
+
+**Jody:**
+(0:44:28) Yeah. So you've been in the space a while, and we've seen big hype cycles around the having cycles. Everyone's looking for a catalyst, and a lot of times it's like a football team waiting for that once-in-a-generation talent. People expected that with Donald Trump and the strategic Bitcoin reserve — that was suddenly going to drive the price to $500K or $1 million. What catalysts do we have left? That was obviously a nothing burger. And even if it has legs, it seems like something that's going to get quietly killed in Congress like banning congressional stock trading. What are the catalysts left? Or is that the wrong question now? Maybe the right question is: we need proof of work. We need to methodically keep making more products, building things on Bitcoin that are useful, and make it less about a single catalyst pushing us forward.
+
+**Jesse Myers:**
+(0:45:36) Yeah, I don't think it is about a single catalyst. I think it is about the aggregate game theory that Bitcoin represents and imposes on the world.
+
+(0:45:51) I've started thinking about Bitcoin's supply schedule — sort of jokingly, I now refer to it as "the prime mover." It's a reference to celestial mechanics and God being the prime mover. But I think the halvings, the supply schedule and its increasing scarcity of new supply issuance over time, is the prime mover of everything for Bitcoin — because it sets in motion hard and fast supply-demand dynamics, and then on top of that, perhaps more importantly, the game theory of people recognizing that it's easier to get a unit of Bitcoin right now than it will be in the future, because they're going to be making less of them.
+
+(0:46:56) You can wave away the impact of the halvings because they've diminished to a point where they're tiny relative to existing supply. Sure. But it's still there, and the game theory still matters, and the market psychology still matters, and the marketing of it is still there. And it draws attention to what Bitcoin is — a finite supply digital gold that has solved for gold's weaknesses and improved on its strengths.
+
+(0:47:26) Most specifically: there's a finite supply of Bitcoin, absolute scarcity, whereas there's not absolute scarcity of gold. They're mining 1.5 to 2% more gold every year, and that sets a kind of ceiling for how much value gold can store over time because the market's constantly having to absorb new supply issuance. Not the case with Bitcoin.
+
+(0:47:52) So when people learn about Bitcoin — and it's usually because Bitcoin has been rallying — they realize, "Holy [bleep] this thing's great, I should include it in my portfolio." Just look at the last 10 years. We've gone from Bitcoin being an absolute joke, people viewing it as drug money on the internet,
+
+(0:48:17) to now BlackRock and Fidelity and others recommending you have a few percent in Bitcoin. That's in 10 years — that's light speed for traditional financial advice.
+
+(0:48:33) And project that forward, because Bitcoin's Lindy effect only grows. Its uptime has been 100% for over a decade now, no major security issues, and the track record will continue to grow and become more trustworthy. I think those few percent recommendations will turn into 5 or 10% recommendations in the coming years.
+
+(0:49:06) So all of these are catalysts. The strategic Bitcoin reserve — Trump campaigned on that promise, it helped him get some crypto donors and probably some crypto votes. He signed the executive order which didn't really do much except they promised not to sell the Bitcoin they held. But right now there are murmurs of some announcement coming about the next step of that. And the market has completely written that off as hot air —
+
+(0:49:56) so there's only the possibility of a surprise to the upside there — which would be a catalyst. But then it comes back to: Bitcoin doesn't need any external catalysts because it's monetizing based on its own properties. And then you've got Stretch — that's happening right now. We're only three months into this world where Strategy is issuing multiple billions of dollars of preferred equity obligations each month and buying Bitcoin. They're buying 25,000 Bitcoin a month right now — 300,000 Bitcoin a year. If they keep at that pace, four years from now they'd be at 2 million Bitcoin. They have to ingest 1.1 million Bitcoin over the next four years to maintain this pace. And I expect they will, because they're not asking the market to believe in Bitcoin. They're saying,
+
+(0:51:12) "Do you want to get 11.5% yield on a fixed income product that's highly overcollateralized, and we're able to fundraise the scale of dividends we need to pay for a year in a week?" And I expect the fixed income market will go absolutely bananas for that. Again, it comes back to: there's $500 trillion of addressable capital parked in money markets or fixed income markets globally. And Strategy is able to win 1% of that capital because it offers several times better risk-adjusted yield than you can get anywhere else. Well, that's $5 trillion of inflow into an asset that's currently $1.5 trillion total.
+
+(0:52:07) So if you're looking for catalysts — first, look at Bitcoin itself, the supply schedule, and how that plays out. And second, look at what Saylor has invented here with the advent of digital credit, which is really just a conduit for fixed income capital to flow into Bitcoin. And play that forward — we're three months into it. Really play that forward a few years.
+
+**Jody:**
+(0:52:34) Yeah. So Jesse, following up on that — in the latest earnings call, Saylor talked about their changed strategy around Stretch, and he admitted they're focused on marketing it and fully standing behind it. In the previous earnings call they had mentioned building a cash reserve to give people confidence they could keep paying the dividends. People were questioning it — "Is this a Ponzi scheme?" as he was asked on CNBC. And then in the latest earnings call, someone who says "never sell your Bitcoin" talks about selling Bitcoin if it's strategic, if it's accretive, if it makes sense for MSTR shareholders — taking high cost-basis Bitcoin, taking the loss on Bitcoin bought at $100K if it's now at $77K, and using those actions to be more accretive to shareholder value. How was that received by you — that shift? And is that something you'd even talk about at Smarter Web? Like I think it's absolutely fair to say you're pretty small and probably not going to tell people you're selling Bitcoin. But as a strategist, was that a shift, and how do you think about selling Bitcoin and tax advantages there?
+
+**Jesse Myers:**
+(0:54:03) Yeah, it was amusing to watch the reaction to that. Because Saylor previously said "never sell your Bitcoin," which was really preaching to the choir for Bitcoin maximalists — signaling that he understands the value of Bitcoin and it's better than anything else. So why would you sell it?
+
+(0:54:25) But he is now playing a slightly different game, where the product Stretch is predicated on having a highly overcollateralized Bitcoin balance sheet. And the reason Stretch is so creditworthy is that you can sell those Bitcoin assets in order to pay dividend obligations — forever. Bitcoin has to grow at 2% a year on average in order for them to pay those dividend obligations forever. And I expect that'll happen, since true inflation is like 8% in terms of money supply growth a year — we're actually up 9.3% in the last 12 months in terms of global M2.
+
+(0:55:13) So Saylor needed to pivot his messaging to highlight that they're willing to sell some Bitcoin to pay dividends — in order to make quite clear that the creditworthiness of Stretch is very high. And part of what they're actually doing there is trying to navigate how to improve their credit rating from the credit rating agencies, and then get included in the S&P 500. The point of having a highly overcollateralized Bitcoin balance sheet is that it makes you more creditworthy because you have those assets to draw on in order to service your preferred equity obligations.
+
+(0:56:15) So it's just Strategy maturing. He's playing a bigger game right now — he's trying to get into the S&P 500. And he later clarified that he's happy to sell one Bitcoin if it means he gets to buy 20 Bitcoin because of it.
+
+**Jody:**
+(0:56:37) Mhm. It's interesting. So as we're coming up on time — one of our sponsors is Predicts, a prediction market built on Bitcoin sats, all over the world, no KYC. Right now it's showing 10% likelihood that Bitcoin goes to $150K in 2026. Jesse, are you in this current mindset? We know you think Bitcoin's going to a million and maybe $13 million like Saylor said. Do you think this is a fair percentage, or could we see a faster move than what's priced in here?
+
+**Jesse Myers:**
+(0:57:32) Yeah, interesting. I'm always too bullish on Bitcoin, so I'll start with that. I would not bet that Bitcoin hits $150K in 2026, but I would say I think it's probabilistically a higher chance than 10%. I would put the over-under at 20% likelihood — which is to say I don't think it's going to happen, but I'd say there's a one in five chance it happens in 2026. I think there's a much higher chance it happens in 2027.
+
+**Jody:**
+(0:58:07) Yeah. I've learned I don't need to be trading anything Bitcoin-related. I own some Smarter Web, some MetaPlanet, obviously Strategy which I've been holding a long time, and we have Strive calls we've talked about on the stream — call options on Strive. Just out of transparency, I'm a terrible trader on things that are Bitcoin-related. I mainly hold Bitcoin in spot, and that's why I always recommend it — I get too bullish talking about Bitcoin to people like you every day, and it's not something to trade short term.
+
+**Jesse Myers:**
+(0:58:44) Not an OG — I can't claim that. But appreciate it.
+
+**Jody:**
+(0:58:48) Yeah. But someone who's made such a big impact. And for our audience too — going back to this infographic is a great way to understand what Saylor's going after, what these treasury companies are going after. Don't think of it as Saylor buying your Bitcoin out of your cold storage — it's about tapping into these markets and understanding this. So I really appreciate what you've done for the industry putting this framework forward. Where can we follow the upcoming research you're doing about these different jurisdictions, different countries and markets, and how much capital Bitcoin could be a much bigger part of?
+
+**Jesse Myers:**
+(0:59:28) Yeah. The easiest way is to follow Smarter Web Company at @SmarterWebUK on Twitter, because when we put that out it'll be released there. Or you can follow me on Twitter — I'm at @Croesus_BTC.
+
+(0:59:57) And yeah — it's fun you brought up this page. We will be hosting the Bitcoin Treasuries Unconference UK next Friday in Bristol, England. There will be a live stream of that. We're having CEOs of all the major Bitcoin treasury companies speak — minus MetaPlanet — but we're having Fong and Matt Cole and Alexandre and others. Everybody's speaking at the Unconference UK. Stay tuned for that — I think next Friday that'll be the event in the world to pay attention to, where the most Bitcoin alpha is coming from.
+
+**Jody:**
+(1:00:47) Yeah, we'll be there — flying out Saturday. That's right.
+
+**Jesse Myers:**
+(1:00:51) Yeah, I'm pretty stoked for that. Driving from London or Heathrow to Bristol — we'll see what happens. I don't drive on the left side of the road. So yeah, any American —
+
+**Jody:**
+(1:01:03) You're going to drive rather than take the train?
+
+**Jesse Myers:**
+(1:01:07) Yes. Because we actually go by my wife's old middle school — she lived in England for a bit, around the Windsor/Bracknell area. So we have to go there, and all the pressure is on dad not to crash.
+
+**Jody:**
+(1:01:18) So we'll see. Jesse, it's been an absolute pleasure. We'll be sending out content from Bristol, taking the best clips. And we'll tweet out too when you guys release that research report — I think it's super interesting and we want to educate more people on what you guys are trying to do. Jesse, really appreciate it.
+
+**Jesse Myers:**
+(1:01:41) Awesome. Thank you, Jody.

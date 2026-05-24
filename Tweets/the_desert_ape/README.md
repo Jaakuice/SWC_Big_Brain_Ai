@@ -13,7 +13,7 @@ This directory contains structured data extracted from @the_desert_ape's X.com t
 ## Statistics
 
 ### By Month
-- **2026-05**: 79 posts
+- **2026-05**: 98 posts
 - **2026-04**: 202 posts
 - **2026-03**: 55 posts
 - **2026-02**: 71 posts
@@ -31,7 +31,7 @@ This directory contains structured data extracted from @the_desert_ape's X.com t
 ## Files
 
 Monthly JSON files in format `posts-YYYY-MM.json`:
-- `posts-2026-05.json` (79 posts)
+- `posts-2026-05.json` (98 posts)
 - `posts-2026-04.json` (202 posts)
 - `posts-2026-03.json` (55 posts)
 - `posts-2026-02.json` (71 posts)
