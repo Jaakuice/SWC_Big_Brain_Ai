@@ -1,0 +1,96 @@
+# Institutional research in the Bitcoin treasury space
+**Date: 2026-06-02**
+**Video ID: BSeoDdBNNgM**
+**URL: https://www.youtube.com/watch?v=BSeoDdBNNgM**
+**Duration: ~17:52**
+**Channel: The Smarter Web Company**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- TD Cowen's equity research coverage of Bitcoin treasury companies and digital assets
+- Bitcoin yield as a valuation framework for public Bitcoin treasury companies (PBTCs)
+- Why PBTCs should outperform spot Bitcoin and ETFs over long time horizons
+- Regional primacy as a competitive advantage for Bitcoin treasury companies
+- Why TD Cowen initiated coverage on Smarter Web Company alongside US peers
+- Advice for companies adopting Bitcoin as a treasury asset vs. becoming a full PBTC
+- The importance of differentiation and capital markets access for PBTCs
+- Synergies between legacy business operations and Bitcoin treasury strategies
+- Strategy's perpetual preferred equity instrument as a yield-generation mechanism
+- TD Cowen's 12-month Bitcoin price target of $140,000 USD by end of 2025
+
+---
+
+**Andrew Webley:**
+(0:00:09) So, I hope everyone's had a bit of a break and enjoyed the morning so far.
+
+(0:00:18) Next up we've got Lance from TD Cowen joining us live remotely.
+
+(0:00:28) This is going to be about institutional research in the Bitcoin treasury space. So I'm not sure whether any of you have been able to access the research that TD Cowen have done on Bitcoin treasury companies and the wider digital asset space. We were delighted that they picked the Smarter Web Company as one of a number of different companies to cover from an individual stock perspective. And so I wanted to spend some time with Lance asking him a couple of questions. So can you hear me, Lance?
+
+(0:01:02) Yeah, you're on mute, Lance. I think we can see you.
+
+(0:01:10) Yeah, all good. So we've got a connection — that's the first thing. So, well, thank you for taking the time to join us. Would you be able to tell us a bit about TD Cowen and the overall company, and then after that we can get on to your interest in the space.
+
+**Lance Vitanza:**
+(0:01:06) Sorry about that. Yes, I can hear you fine. Can you hear me now?
+
+(0:01:28) Sure. So, first off, thank you very much for having me. It's great to see you again. I've been looking forward to this conversation all week, and let me just say how impressive the agenda you put together for this unconference is. So, TD Cowen is part of TD Securities. We focus on equity research, trading, and capital markets globally. We are historically strong in US equities, but we've built out a meaningful London presence as well, supporting clients trading UK listed and international stocks. And increasingly, our work sits at the intersection of public equities and digital assets as those worlds start to converge. As for me, I've been on this platform here since 2010, covering a variety of tech, media, telecom sectors. I had previously been a TMT focused investment banker and began my career working as a macroeconomist focused on fiscal and monetary policy. My Bitcoin journey began in the fall of 2022 when my boss asked me to take a look at a little company then known as MicroStrategy. And at the time I actually knew nothing about Bitcoin. But that didn't stop me from being highly skeptical — it was all contempt prior to investigation. And as part of my diligence, I wound up reading The Bitcoin Standard by Saifedean Ammous. And it was at that moment that the scales fell away from my eyes. You know, once you really see Bitcoin, you can't unsee it. Am I right?
+
+**Andrew Webley:**
+(0:02:56) You are right, 100%.
+
+(0:03:02) So, obviously you speak to lots of different institutional investors, and if we think about the different metrics that you and I talk about sometimes — what's your perspective of the understanding of the Bitcoin metrics that we all think about, in the wider context of those that, if we're blunt, may not even care that much about Bitcoin at the moment?
+
+**Lance Vitanza:**
+(0:03:27) Well, sure. So, from my standpoint, Bitcoin yield serves as the cornerstone of our valuation framework. Bitcoin yield is of course the pace at which Bitcoin per fully diluted share changes over a given period of time, or by virtue of one or more specific transactions. All else equal, investors should want to own the companies that will grow Bitcoin holdings on a per share basis the fastest — that is to say, they will report the highest Bitcoin yield. The premium to underlying Bitcoin holdings at which a company trades — some call that mNAV — that should largely be a function of expected Bitcoin yield over time. So a company that is expected to generate a 30% Bitcoin yield over the next four years should trade at a considerably higher premium to its underlying Bitcoin value than a company that's only expected to generate a 10% Bitcoin yield over the next four years. Of course, all else equal.
+
+(0:04:25) Now, forecasting future Bitcoin yield isn't for the faint of heart, but we think investors can get a beat on that by considering historical Bitcoin yield along with current leverage ratios, capital market conditions, and so forth. And look, the bottom line is: so long as Bitcoin continues to outperform most other asset classes, I think there's going to be a range of positive outcomes for the various public Bitcoin treasury companies, or PBTCs as I like to call them. But all well-run PBTCs should materially outperform spot Bitcoin or spot ETFs, because a well-run PBTC will employ leverage and potentially accretive stock issuance at a premium to NAV in order to grow that Bitcoin per share.
+
+(0:05:14) And I like to put it this way, and I can't emphasize this point enough. If you buy one Bitcoin today and you hold it for 20 years, in 20 years you've got exactly one Bitcoin. If you buy one Bitcoin via an ETF, in 20 years you'll have something like 0.95 Bitcoin because the fees that accumulate are generally paid for by selling Bitcoin. Those fees, by the way, they may not amount to much in any given year, but the impact of course is compounded over time. And my view at least is that anyone interested in Bitcoin is almost by definition concerned with longer rather than shorter time frames. If you want to store value for a week or a month or even a year, go ahead and use the dollar or the pound or whatever. It's those of us that are looking to retain our wealth over generational time frames that are most drawn to Bitcoin. In any case, the fact of the matter is this: if you buy Bitcoin through an ETF, you are contractually guaranteed to own less Bitcoin per share over time.
+
+(0:06:19) Now, let's compare that to a well-run PBTC. If your shares in a PBTC today represent one Bitcoin, in 20 years those same shares may represent five or even ten Bitcoins per share. So — one Bitcoin, 0.95 Bitcoin, or 5 to 10 Bitcoins. Why on earth should these assets trade at the same price?
+
+**Andrew Webley:**
+(0:06:45) Well, I completely agree with that, and in our presentation we also talk about that quite a lot. If that was a question — why on earth should they trade at that — then I haven't got the answer, Lance, I'm afraid.
+
+(0:07:01) So, when you initiated coverage of the Smarter Web Company, we were in a cohort with a number of other US companies, one of which wasn't a Bitcoin treasury — it was a DAT. What's interesting about the UK — and I'm obviously not fishing for a compliment here — but why did you pick a tiny company from the UK? Why the UK alongside the US? What's interesting about that in the DAT space?
+
+**Lance Vitanza:**
+(0:07:40) So, let me take a step back. I am going to answer your question, but let me start by saying that by the time I launched coverage on MicroStrategy — this was now in the summer of 2023 — it was clear to me that if the world were starting with a clean sheet of paper, we'd all be better off on a Bitcoin standard. But we're not starting with a clean sheet of paper. We're starting with a world of dollar hegemony. And there are powerful forces that would love nothing more than to kill Bitcoin in the cradle, so to speak. No one voluntarily gives up the power of the printing press. No one voluntarily surrenders their status as global reserve currency. So in 2023, despite its profound fundamental advantages, I viewed Bitcoin as something of a long shot.
+
+(0:08:28) Now, what's changed — and where I'm going with this is I'm trying to set the stage for why we published the big report last month in the first place, and then I'll get into why we included Smarter Web in that. Over the past three years, I have been amazed at the pace of Bitcoin's global adoption. And here in the US, what's happened not only under the Trump administration, but significantly when the Democratic Party was in the White House — I'm referring specifically to FASB changing accounting standards to enable public companies to more easily hold Bitcoin on their balance sheets, the SEC under Chairman Gensler, no less — no friend of crypto — essentially blessing retail investment into Bitcoin via ETFs. And then of course it all accelerated under Trump. Bitcoin's final success is still far from assured, but its future has never looked brighter.
+
+(0:09:20) And meanwhile, institutional investors have begun increasingly to take notice. We're still very early in the process — if this were an American audience I'd say we're in the first inning, I don't know what the British analogue is. In any case, the publication that we put out — Digital Gold, Digital Picks and Shovels — published this past April 9th — this was our attempt to tell the institutional investment community: this is happening, it's no longer something they can ignore. Publishing our big piece last month was our way of saying game on.
+
+(0:09:54) So yes, we launched with this first wave of companies. I expect more to follow, and as you mentioned, that first wave included the Smarter Web Company. I tried to be very thoughtful about which PBTCs we included in that launch, and I think regional primacy is a key differentiator. I think being the largest PBTC in the UK by far matters a lot — when we think about cost of capital advantages, when we think about potential consolidation opportunities, when we think about advocacy. It's pretty clear to us that, just as Bitcoin itself enjoys a network effect, we think the leading regional players will have that too.
+
+(0:10:36) And the last thing I would say is: if you're bullish on Bitcoin, focusing on smaller players that have demonstrated scale benefits without having plateaued on their eventual growth curves is important. Given its size, MicroStrategy or Strategy as we know it today isn't likely to see the kind of explosive growth that we could see from smaller peers like Strive or the Smarter Web Company. If you're bullish on Bitcoin, I believe there's a sweet spot in terms of big enough but not too big. And these are the companies that we most want to put in front of investors.
+
+**Andrew Webley:**
+(0:11:11) Thank you. That makes a lot of sense to me. And I really like Strive as well — it's a great company, and Matt Cole will be joining us later today. So I've just got two more questions for you if I may, Lance.
+
+(0:11:27) The first one is not necessarily for us at Smarter Web, but for us as an industry — the CEOs of the different companies. If you could give us one or two things that you think we could do better to improve adoption amongst institutions and grow our businesses at the same time — if you had to give us one or two bits of advice, what would that be?
+
+**Lance Vitanza:**
+(0:11:52) Well, look, it really depends on what kind of Bitcoin treasury strategy you're talking about. The simplest strategy is to merely include Bitcoin as a treasury asset on the balance sheet. And this strategy may actually appeal to corporations that generate good cash flow but aren't growing much. Their options today are either accumulate cash — which has proven to be a poor store of value — invest in risky business projects which may or may not pan out, or distribute cash back to shareholders via dividends or share repurchases. None of these options are great. Instituting a dividend can come back to haunt you — if you have to cut the dividend, you're likely to see a shareholder revolt. Share repurchases — I've seen this can cause a death spiral by further limiting volume and thus interest in a stock that may not have much interest to begin with. Not good if your company isn't growing. So storing surplus value in Bitcoin, on the other hand, doesn't create any of these problems. While we expect Bitcoin will over time become an effective store of value, in the near term adopting Bitcoin as a treasury asset creates an immediate uptick in volatility, which means more volume and more interest in the stock.
+
+(0:13:03) So the challenge here is that it takes time to educate oneself, one's employees, one's board of directors, one's customers, vendors, investors. Adopting Bitcoin even as a treasury asset should not be done capriciously. Those of us who have already bought into Bitcoin have to remember: before any of us were believers, each of us were skeptics. Resist the temptation to try to steamroll your skeptical critics. Approach the skeptics with patience and trust — understand they too want what's best for your company. Engage the skeptics in a dialogue. Encourage them to do their homework as you've done yours.
+
+(0:13:39) Now, if you're talking about a company that's already become a full-blown PBTC, it gets harder from there. They have to do all the heavy lifting I just mentioned regarding adopting Bitcoin as a treasury asset — and that's just table stakes. How does one gain or enhance access to the capital markets? The key to the capital markets is differentiation. As a would-be PBTC, you need to ask yourself: what's my edge? What's my angle? What sets me apart from Smarter Web, or Strive, or SharpLink, or Strategy? How can I convince investors, even those that believe in the model, that I'll be able to effectively manage treasury operations such that I can grow Bitcoin per share without taking on an imprudent amount of risk? I think these are legitimate questions that are tougher to answer adequately today versus a year ago.
+
+(0:14:33) In terms of what investors want to see and what would help — you have to think about it in two groups. There's the investors that already get the PBTC model, and then there are those that don't. Let's focus first on the ones that already get it. They want to see demonstrated access to the capital markets and an ability to access the markets creatively and effectively. They want to see a management team that is committed and unlikely to fold up shop during the next Bitcoin downturn. And perhaps most of all, they want to see more than just a DAT — they want to see synergies with legacy operations beyond operating a Bitcoin treasury. For example, your ability to leverage web design and the cash flow that business generates. For MicroStrategy, it's business intelligence software. For some others, it's asset management or trading strategies.
+
+(0:15:22) And while it hasn't proven out yet, I think an ability to generate not just Bitcoin yield as we know it, but a true return on one's holdings — a yield on one's holdings — that could ultimately become a key differentiator. SharpLink, for example, can cover its operating costs entirely from the revenue it generates staking its Ether. Now, we don't necessarily want to see them using their Ether in this way — and I know this is a Bitcoin conference — but all else equal, investors like the protection that that affords.
+
+**Andrew Webley:**
+(0:15:54) Yeah, no, I agree. And that's why today we've been showcasing the recent acquisition that we made, Squarebird. So they're here today — if any of you have got a business or want to find out a bit more about them, please go and speak to them afterwards. And also that's why I so like the strategy that Strategy have invented of the perpetual preferred equities — rather than putting the Bitcoin at risk to generate a yield off that Bitcoin by trusting someone else with it, they've created — or reinvented — an equity instrument that can effectively create that yield through the arbitrage between the price you pay and the potential returns that you get.
+
+(0:16:39) So you know, we said right from the start, Lance, in our 10-year plan, we said we're going to grow our operating business organically and through acquisitions, and we're going to grow our balance sheet. And we've always said that we're growing that balance sheet for a purpose. So it's quite an exciting time. We're running a bit short on time, and obviously I am truly grateful that you've taken the time to join us today, but just for the last minute — obviously I've read it in the research — but could you share your 12-month outlook for Bitcoin, if that's possible?
+
+**Lance Vitanza:**
+(0:17:13) It is possible, although people say the easiest way to look foolish is to predict the price of Bitcoin. But then again, I've never worried about looking foolish. So our published estimate is $140,000 US at the end of this year. For what it's worth, we are at $85K for June 30 — so last couple of days aside, we feel like we're tracking in line. And look, it'll be interesting to watch.
+
+**Andrew Webley:**
+(0:17:40) Yeah, so that's a pretty good point to leave it — 100% from here. Thanks, Lance. Take care.

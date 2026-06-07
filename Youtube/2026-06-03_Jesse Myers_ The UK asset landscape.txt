@@ -1,0 +1,44 @@
+# Jesse Myers: The UK asset landscape
+**Date: 2026-06-03**
+**Video ID: dp-rL72y184**
+**URL: https://www.youtube.com/watch?v=dp-rL72y184**
+**Duration: ~10:00**
+**Channel: The Smarter Web Company**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- Global asset landscape and Bitcoin's total addressable market (currently 0.2% of global asset value)
+- Bitcoin's potential to capture 20–50% of global asset value, per Jesse Myers and Michael Saylor
+- Strategy (MicroStrategy) as the pioneer of the Bitcoin treasury company model, buying ~25,000 BTC/month
+- Capital segmentation by regulatory jurisdiction and why a UK-specific analysis is needed
+- Pound sterling debasement and UK purchasing power erosion
+- UK's disproportionate share of global assets: 6% of total, 9% of equities, 10% of global money
+- The UK as a global financial hub due to the legacy of the British Empire
+- Smarter Web Company as the UK's first and largest Bitcoin treasury company, listed on the London Stock Exchange
+- Replicating Strategy's playbook in the UK jurisdiction to attract equity and fixed income capital
+- The UK as an ideal jurisdiction for Bitcoin treasury companies given its outsized financial capital base
+
+---
+
+**Jesse Myers (Head of Bitcoin Strategy, The Smarter Web Company):**
+(0:00:05) All right. Hello everyone. So today I'm going to be talking about the UK asset landscape. And this is a report we put out very recently. You can view the full document on our website if you go to shareholders and presentations and media and SWC perspectives here.
+
+(0:00:26) So a few years ago I wrote a piece called "Bitcoin's Full Potential Valuation" and to do that I needed a starting point of how much value is in the world. And the point of that is to understand what's the total addressable market for Bitcoin and then how much Bitcoin could take from that. And in writing that piece I realized there wasn't a singular view of that global asset landscape. So I did the research and put this chart together. And Michael Saylor read that piece and very much liked it and incorporated it into his presentations and made it the basis for Strategy's Bitcoin valuation model.
+
+(0:01:20) So there's three main takeaways in my mind on this chart. First is just how small Bitcoin still is in the global asset landscape — it's still only 0.2% of global asset value. The second is it helps you to see the potential for Bitcoin. In that piece I concluded that a conservative end state for Bitcoin might be to take 20% of global asset value. Saylor then argued it might be 50%. So somewhere in that range I think is the potential for Bitcoin. And obviously that's a long way to go from where we are today. The third thing is this chart is kind of a map for where capital sits in terms of asset allocations in the world, and Strategy has used that frame of thinking to create what they've done. They've pioneered this new model of what a Bitcoin treasury company looks like, and they have created various public equity offerings that target different capital buckets — whether that's equities or the fixed income market or money markets — and they've been incredibly successful in doing that. I'm sure everyone here is quite aware of how successful Strategy has been recently in particular.
+
+(0:02:49) Strategy has been buying 25,000 Bitcoin a month for the last three months and that appears set to continue into the future. So what they're effectively doing is meeting capital where it's at and offering a value proposition to fixed income investors and money market investors — similarly they're looking for yield, and Strategy offers fantastic yield and I think is still mispriced risk. It's in my view quite unrisky, and they've been very successful, and I think this will only continue in attracting capital from fixed income. And what they're doing is they're buying Bitcoin with it because they believe that Bitcoin will appreciate at 29% a year. And that makes it a better value proposition than anything else out there. So that's the model they've pioneered and have been very successful with.
+
+(0:03:46) But this is a global view, right? So it's a little unfair here. We're sort of assuming that Strategy is reaching all global capital, but global capital is really segmented by regulatory jurisdictions. And that's where the UK comes in. So what does this look like for the UK specifically, and what matters to the UK in running this sort of playbook in the UK? Well, what matters to the UK first of all is — I think we've seen over the last few decades how the pound has lost its purchasing power, and the UK is experiencing pretty rapid debasement. The headline on the left was immortalized in the first Bitcoin block by Satoshi. But there's a little advert there for one pound pints. And recently there was an article a few weeks ago that made a big deal about how there are now 10 pound pints in London. And yes, I'm cherry-picking — one is notable for how cheap it was, one's notable for how expensive it is. But that's a 14% CAGR if you were wondering. So the backdrop for the UK is that the pound is losing its purchasing power. What are you going to do?
+
+(0:05:05) So we wanted to do the same analysis specifically for the UK and see what it came up with. And this is the result of it that you can read about in that report. The UK commands 6% of global asset value and it's distributed in these buckets. And let's see how that compares to the overall distribution for global assets. You can see that it's slightly different in terms of the weighting of the different buckets. Equities and money in particular stick out — they are heavier buckets than for the global landscape. And that should be no surprise. That's the legacy of the British Empire. The UK is a financialized economy and has 9% of global equities value and 10% of global money. And that's really the result of the UK being the international banking destination for much of the world, much of Europe, Africa and the developing world.
+
+(0:06:27) So there's a lot of money especially in bank deposits in the UK and in London in particular. And yeah, the reality of the legacy of the British Empire is that the UK is the financial plumbing for much of the world. And despite being only half a percent of the world's land mass, 1% of population, 3% of GDP, the UK commands 6% of assets, 9% of equities, and including 10% of global money. And yet the UK lacks Bitcoin products. So Smarter Web is the first Bitcoin treasury company in the UK and the largest, and there's still room for more Bitcoin products in London, in the UK in general. And we're excited about that potential.
+
+(0:07:25) So what we think we are on track to do is replicate the Strategy model in the UK. That's what we want to do, and that starts with our equity SWC which is listed on the London Stock Exchange and represents the same sort of Bitcoin-powered equity potential that we hope is attractive to all of this equity capital that sits in the UK jurisdiction — that's 9% of global equities value that hasn't had a native Bitcoin treasury company. And with Smarter Web, that can increasingly attract capital from London Stock Exchange equity portfolios across the UK that are looking for better returns and might be interested in a balance sheet that's appreciating at hopefully 29% a year, as Strategy theorizes.
+
+(0:08:36) So that's how the global asset landscape translates into a specific jurisdiction for the UK. And I think in doing this analysis, we realized just how perfect the UK is for a Bitcoin treasury company, especially in the spirit of what Strategy has now pioneered — specifically because there is a ton of equities capital, 9% of the world's equities capital, and 10% of the world's money sits in London in the UK, and might be interested in products that deliver better returns than they can get elsewhere. And I think that Bitcoin is the key to doing that, because of the precedent that Strategy has now put in place with how successful their preferred equities and their equity have been over the last five to six years.
+
+(0:09:35) So that's the UK asset landscape as it currently stands. There's 6% of the world's value in the UK, 9% of global equities, 10% of the world's money. And I think it makes it the perfect jurisdiction to repeat the Strategy playbook of what a Bitcoin treasury company can be. Great. Thank you.

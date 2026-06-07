@@ -1,0 +1,84 @@
+# Radu Chichi & Andrew Webley: The role of data and analytics in Bitcoin treasury company metrics
+**Date: 2026-06-03**
+**Video ID: QWFHxw0-XeA**
+**URL: https://www.youtube.com/watch?v=QWFHxw0-XeA**
+**Duration: ~15:36**
+**Channel: The Smarter Web Company**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- Radu's background: Amazon engineer who invested his signing bonus in Bitcoin in early 2017 and fell down the rabbit hole
+- Origins of StrategyTracker (formerly MSDR Tracker / Sailor Tracker) as a tool to bridge the information gap between Bitcoin believers and the wider world
+- The power of analytics as concentrated storytelling — combining "number goes up" with institutional endorsement to communicate Bitcoin's value
+- The need for Bitcoin treasury companies to align on a common narrative and standardized metrics (e.g., mNAV, Bitcoin yield) to reduce investor confusion
+- Challenges of understanding Bitcoin treasury companies: requires first understanding Bitcoin across computer science, economics, engineering, and more
+- Bitcoin yield must be viewed alongside leverage/amplification to give a complete picture
+- The case for industry-wide data standardization: common formats, definitions, and structures shared with analytics providers
+- Smarter Web Company's efforts to work with other companies on standardizing data output
+- Bitcoin price outlook: Radu is short-term bearish (potential drop to $50K) but extremely bullish over 10 years; Andrew focuses on consistent accumulation regardless of short-term price
+- HODL as the key principle: uncertainty in the short term makes steady accumulation the most reliable strategy
+
+---
+
+**Andrew Webley:**
+(0:00:15) Hello everyone. So I've got somebody that some of you won't know, Radu, with me today. And we're going to talk about the role of data analytics in Bitcoin Treasury company metrics, which is an area that's very, very important to me and I'm sure lots of you as well. So if I just get you to start, Radu, do you want to tell us a little bit about yourself? And you know, how you came up with the Strategy Tracker, originally the Sailor Tracker, and you know, what your role is in the industry.
+
+**Radu Chichi:**
+(0:00:50) Yeah, thank you Andrew and thank you for the invite and for organizing the conference. It's kind of surreal that I get to be here because for the most time I didn't have anyone to talk about Bitcoin with and now I get to talk to you and to all the leaders in the space and it's really surreal that this is happening. So yeah, the reason — I run these analytics websites that showcase Bitcoin treasury performance. Started off with MSDR Tracker, and that led to Sailor Tracker and Strategy Tracker. And MSDR Tracker came before Strategy.com, and the motivation behind that website, or that work, is that I think we're in between this paradigm shift that's happening at a civilizational scale, but there's a very big information gap. And what I was trying to do is bridge that gap between what we in this room know and what the rest of the world knows — and that's a massive gap. And the question is how do you tell the story to the world of what's happening? So I was trying to compress.
+(0:02:03) Yeah, so one problem that I had — well maybe let's roll back the time a bit and I can tell you how I got into Bitcoin to begin with. So I started as an engineer at Amazon end of 2016, and when you start at Amazon you get a signing bonus, and for the first time in my life I had some money to invest. And the timing was exceptional because that was before the Bitcoin bull run, and somehow I decided that Bitcoin was the most interesting thing to invest in, in early 2017.
+(0:02:34) So I invested my signing bonus in Bitcoin. I rode Bitcoin all the way up and all the way down. And then after that happened I was like, what did I invest in? What is this thing? And then I just fell down the rabbit hole. And as you fall down the rabbit hole, initially you're skeptical — you're like, initially I was interested, I invested in it, and then I went on this journey. But by the end of 2017 I was still kind of skeptical. And when you're skeptical you have a lot of questions: is this scalable? Is the security model solid? Is it decentralized? All these concerns you have when you invest in a new monetary network, which wasn't even a term back then. Anyway, so you start off being really skeptical and you start eliminating all these concerns, and then by the end of it you don't have any concerns anymore.
+(0:03:38) And I was left believing that the only way this is going to perform is just up and to the right. That's what I convinced myself Bitcoin was going to do. Which back then was a very strange belief to have because it was before any institutional adoption. So I had this belief and I had no one to talk about Bitcoin with, because it's just hard to get people's attention. At most I would get like 30 seconds and then I would get cut off — regardless if it was family, friends, or co-workers. You just get cut off. So then I started thinking, okay, how do I talk to people about this idea that I've come across, that I think is very profound and very beautiful and is going to help everyone? And what I landed on is that I need to communicate this in the most concentrated form possible, in the quickest way possible. So that eventually is what led to analytics, because analytics is a way to tell the story in a very concentrated manner. What draws people's attention is the fact that number goes up, because everyone likes to make money. Another thing that draws people's attention is the thing being endorsed by public companies, because people follow leaders and they're looking for authority to say this is fine, it's fine to buy this thing.
+(0:05:05) And what I was trying to do with the analytics is combine those things — show the number going up, show the endorsement by public companies — and find a way to tell that story very easily to the whole world, because I think it's a story that needs to be told, and you want to tell it in the most effective way possible.
+
+**Andrew Webley:**
+(0:05:25) Yeah, I completely agree with that. But it brings us nicely on to — if we look at Strategy Tracker today, you've got Strategy, you've got Strive, you've got Smarter Web, you've got a number of other companies all on there with their data. But what can we do as an industry? People like yourselves, the companies — many of the companies in this room — what can we actually do to make it better? Because the analytics are okay right now, we've got our own dashboard and it's okay, but what can we do to make it better?
+
+**Radu Chichi:**
+(0:06:04) So I think what's important is to align on what the right question is, because I think there's a lot of focus on the data and presenting the data, but the real thing that drove me was storytelling and trying to tell the story to the world. So the real question I think is: how do you most effectively tell the story to the world? It's not about dashboards. It's not about data. It's storytelling.
+
+**Andrew Webley:**
+(0:06:31) Yeah. So as a public company, we have a fair bit of experience in that because we spend a lot of time speaking to investors — institutional, retail investors, journalists, anyone that wants to listen — about the story and what that means. And you're probably right in the sense that the analytics do come secondary. But maybe where we need to end up is where people understand them. So if you take regular equities, PE ratios and things like that, people get them. But on the Bitcoin Treasury analytics stats at the moment, I don't think people really understand how they all interlink together. So if you take our company, we've got a fantastic Bitcoin yield quarter to date — that's amazing — but you have to view that alongside the leverage or the amplification that we've added into the business, because otherwise it's very one-sided. But to me, more as an investor than someone that runs a Bitcoin treasury company, I think all of the companies need to work together better with people like Radu to share the data in a common format that is as consistent as possible. Because if you look at the structure behind a lot of Bitcoin treasury companies, they're quite difficult to get your head around. And if I sometimes can't be bothered to look at some of them because of the structures and all of that, then somebody that's an investor who's not as committed to Bitcoin and Bitcoin Treasury is going to find it harder.
+
+**Radu Chichi:**
+(0:08:14) Yeah. So I think one thing that would help with that is having all companies align on the story. And that means having all companies align on the standard. And I think that's the most effective way to channel the story, because if every company shares their story differently, then it's much harder to sell that to the world. But if all the companies come together and say we all believe in this one story — this is the story — I think that's the most effective way to broadcast it.
+
+**Andrew Webley:**
+(0:08:52) Yeah. The only thing I would say slightly against that is defining the story. Because the story — as Jesse said earlier today — is that most of us believe that with a Bitcoin treasury company you're trying to increase the Bitcoin per share ultimately. That's the point of having a treasury built on Bitcoin. But it's challenging because we have to explain the story but at the same time explain it in different ways — but around that common goal. Because lots of businesses — Freddy, Roy, and Jesse talked very well earlier about the Bitcoin yield strategies — and there are different ways of improving that Bitcoin per share. But maybe the takeaway from that is that we're so early in this new industry that it is harder for people to understand, if they're not as keen to get their head around the Bitcoin Treasury model. And whilst we don't want to talk about price too much, when Bitcoin price improves, that encourages people to put in the effort to understand it more.
+
+**Radu Chichi:**
+(0:10:16) Yes. So I think one problem is that in order to understand the Bitcoin treasury company, you have to understand Bitcoin. And to understand Bitcoin, you have to understand all these seemingly independent areas of study. You have to understand the computer science of it, the engineering, the economics, arguably even the physics of Bitcoin — you might even say it has to do with mythology. But anyway, the point is that you have to understand this very complex thing before you get to understanding Bitcoin treasury companies. And to even talk about Bitcoin yield and to appreciate what Bitcoin yield is, you have to agree that Bitcoin is the paradigm shift and the thing that's going to change the world. Because if Bitcoin is not something you believe in, you're not going to care about Bitcoin yield.
+
+**Andrew Webley:**
+(0:11:07) Yeah. Very well said. So I don't want to put myself too much on the spot here. Rather than addressing it to me, if you just address it to all the Bitcoin treasury companies here — if you had to ask us to do one thing, just one thing, and try and keep it high level — what would your request be to us in order to make it better for everyone?
+
+**Radu Chichi:**
+(0:11:31) I think aligning on the story is important. And not just from a storytelling perspective, but also from a standardization perspective. Because if everyone defines metrics like mNAV differently, and if everyone defines their own metrics differently, then it just makes the space more confusing. So it's good both from an analytical point of view but also from a storytelling point of view.
+
+**Andrew Webley:**
+(0:12:01) Yeah. So from the perspective of The Smarter Web Company, we're very keen on that, and we'll certainly try to standardize those things. We've had some private chats with some other companies that might help with that and see if we can get some standard definitions and models and data structures to pump that data out to whoever wants to use it.
+
+**Radu Chichi:**
+(0:12:26) That would be very helpful. I think that would be a good thing for the space. So, just before we move on to my final thing I wanted to ask you — I did want to say again, we all appreciate everything that you've done for the space. I've followed Strategy Tracker, Sailor Tracker for years and years. Everyone here is probably going to be familiar with the orange dots that we see almost every Sunday afternoon. So we appreciate everything that you've done, Radu.
+
+**Andrew Webley:**
+(0:12:57) Yeah, I'm honored to be part of the story and the mission, even if it's a small part — it's a big honor.
+
+**Andrew Webley:**
+(0:13:06) So my final question — and you can answer it however you want — I think everyone would be quite interested to understand where you see Bitcoin going in the short term and where you see it going slightly longer term. Price predictions.
+
+**Radu Chichi:**
+(0:13:24) Yeah. I think people tend to be too optimistic in the short term and too pessimistic in the long term — I think that's a common thing that humans do. So I'm actually extremely bullish over the next 10 years. More bullish than a lot of people would say is reasonable. I think Bitcoin is going to take over within 10 years. But I'm actually bearish over the next three months. So we'll see how that plays out. Because I also think Bitcoin does this thing where it might just drop to like $50K and then everyone's like "oh it's over" and then the next 11 months it just shoots up to $300, $400K, straight up, and everyone's taken by surprise.
+
+**Andrew Webley:**
+(0:14:11) Yeah. I think definitely the only rule with Bitcoin is that you can't predict it. I share your same long-term outlook, but I don't necessarily share the shorter-term outlook, which is why we've been adding what we can when we can. But the price is almost academic as well, because if we all believe that within one year, two years, three years, five years it's going to be way higher — it's about building that Bitcoin balance sheet. What we have to do, whether we're a company or an individual, is accumulate that Bitcoin in the most effective way that we can. Because the one thing that's certain is that the future is not certain. I can't time things to any reasonable degree, but what I can do is slowly increase the ownership over time.
+
+**Radu Chichi:**
+(0:15:06) Yeah, that makes sense. And I think that's why HODL is such an important meme — hold on for dear life — because we don't know exactly what's going to happen in the short term, but you have to hold on regardless of what Bitcoin price does in the short term.
+
+**Andrew Webley:**
+(0:15:19) 100%. Well, we appreciate you being here, and let's give Radu a round of applause.
+
+**Radu Chichi:**
+(0:15:25) Thank you so much.

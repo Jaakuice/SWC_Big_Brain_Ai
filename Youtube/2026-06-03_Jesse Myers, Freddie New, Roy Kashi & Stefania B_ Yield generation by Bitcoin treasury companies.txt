@@ -1,0 +1,143 @@
+# Jesse Myers, Freddie New, Roy Kashi & Stefania B: Yield generation by Bitcoin treasury companies
+**Date: 2026-06-03**
+**Video ID: R-pTNyXpXlI**
+**URL: https://www.youtube.com/watch?v=R-pTNyXpXlI**
+**Duration: ~26:50**
+**Channel: The Smarter Web Company**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- Bitcoin yield generation strategies: routing fees, lending, and leveraged balance sheets
+- Lightning Network as a Bitcoin yield mechanism — routing nodes and LSP (Lightning Service Provider) model
+- Counterparty risk minimization in Bitcoin treasury operations
+- Falcon Edge's in-house fund generating ~15% annual Bitcoin yield with minimal counterparty risk
+- Bitcoin as both store of value and medium of exchange — two sides of the same coin
+- Broadening the definition of "Bitcoin treasury company" beyond the pure-play MicroStrategy model
+- Amplified Bitcoin model: using preferred equity and debt to create levered Bitcoin balance sheets
+- Scaling Bitcoin treasury companies: creditworthiness, MNAV premiums, and accretive equity issuance
+- Communicating Bitcoin treasury value propositions to traditional investors
+- UK regulatory landscape for Bitcoin companies issuing bonds, preferred equity, and managing third-party Bitcoin
+
+---
+
+**Stefania Barbaglio (Host):**
+(0:00:20) Good morning everyone. So great to be here in Bristol talking about Bitcoin. My name is Stefania. If you don't know me, I've been in Bitcoin since 2016. I've been investing and advising publicly listed companies and I currently sit on the board of Falcon Edge as a non-executive director. I've got three amazing panelists here. We are going to be talking about Bitcoin yield. So let's just go around with just a 30 second introduction and then we can go straight into it because it's one of the hottest topics right now.
+
+**Jesse Myers:**
+(0:00:54) Yeah, I'm Jesse Myers. I'm head of Bitcoin strategy at Smarter Web. And I've been in Bitcoin for the same amount of time actually. And yeah, pass it on.
+
+**Roy Kashi:**
+(0:01:07) I'm Roy Kashi. I'm the CEO of Falcon Edge. Co-founded the company last year. We're a hedge fund advisory business with a Bitcoin treasury management policy. My background's been traditional finance for 25 years in hedge funds. And yeah, this is me.
+
+**Freddie New:**
+(0:01:24) Hey guys, thank you very much for having us here today. Pleasure to be in Bristol. I'm Freddie New. I'm the CEO of BHODL and I'm also a co-founder at Bitcoin Policy UK. Don't think I can quite beat Jesse, but I've been kicking around the space for a while.
+
+**Stefania Barbaglio (Host):**
+(0:01:41) Great. So let's go straight into it because Bitcoin yield is definitely a very important topic right now. And what I want to start with is some definition, right? Because there are different ways to think about Bitcoin yield. You can say is that appreciation — Bitcoin as a store of value — but actually now there are ways that you can leverage Bitcoin as an asset to generate revenues while also minimising risks and that's what we are going to be talking about. So let's go straight to you. I want to talk about this concept of Bitcoin as store of value, a medium of exchange that we can use to generate revenue.
+
+**Freddie New:**
+(0:02:34) Sure. So I know that a lot of the debate around Bitcoin is kind of split into those two camps — medium of exchange versus store of value. You've got to feel a little bit sorry for unit of account. We never talk about that one, but that's probably a long way down the road.
+
+**Stefania Barbaglio (Host):**
+(0:02:47) We are not there yet.
+
+**Freddie New:**
+(0:02:48) No, not quite there yet. I'm glad you mentioned talking about this conceptually because one of the most fun things I find doing is really thinking about Bitcoin as money and really what that means and looking at the history of something like gold. Actually, Jesse and I were talking 30 seconds ago around Croesus, which was his handle before while he was still anonymous. Croesus obviously created the concept of coin as we currently understand it. In terms of the evolution of gold as money, I always like to remember that jewelry came quite a long way before coinage. And if you look back at the very early history of Bitcoin, Satoshi's writings were not dissimilar in some respect — it was thought that Bitcoin initially would be a collectible that people would like to hold and collect. Even though we forget that for the first couple of years of Bitcoin's existence, there was no market value whatsoever. We just had Bitcoin pizza day last Friday, 22nd of May — the first recorded transaction, the 10,000 Bitcoin that Laszlo spent. And that was obviously the first step into a medium of exchange rather than a store of value. And certainly for us at our business, we like to think that store of value and medium of exchange are two sides — haha — of the same coin. Sorry to make a terrible pun. For us, in the way that we generate our revenue, they both complement each other and they're not exclusive of each other. Happy to go into a bit more detail about exactly how we do that. But for us, given that we do make our money from lightning routing and now from lightning service provision, it wouldn't make sense for us to do that unless we believed in the first place that Bitcoin was valuable, that it was a store of value, and that by using it as a medium of exchange, we can thereby generate yield.
+
+**Stefania Barbaglio (Host):**
+(0:04:36) Great. We can go into more detail on the lightning network and how you do that, but let's move to you Roy. Obviously we can use Bitcoin as a base asset to generate revenue, but I think one of the questions that many people have — and one of the reasons why perhaps Strategy is not actually leveraging the asset — is counterparty risk. So talk to me about your approach to minimising this and more about the platform and structure that you have.
+
+**Roy Kashi:**
+(0:05:10) Sure. So we spun off from our sister company last year, which is a 12-year hedge fund, FCA fully regulated business, and we decided if we're going to do this, we're going to leverage off that and actually make this incredible store of value work to earn you revenue at the same time. So we have our own in-house fund, which has been going for several years and has made money every single month since inception. What we did was create a Bitcoin share class within this fund where we can directly allocate our Bitcoin to generate a yield — which is what we do. The counterparty risk is negligible because it's actually us. So it stays within our ecosystem of Falcon Edge and Falcon Investment Management. So far this has generated 6.34% yield compounded since December. So over five months we're averaging around 1.25–1.3% per month and we're aiming for around 15% annually, which will compound our balance sheet and grow it.
+
+**Stefania Barbaglio (Host):**
+(0:06:16) And that is in Bitcoin?
+
+**Roy Kashi:**
+(0:06:19) It's directly in Bitcoin — it stays in Bitcoin, stays with our custodian, stays in our ecosystem, so it doesn't go anywhere.
+
+**Stefania Barbaglio (Host):**
+(0:06:28) Jesse, what do you think about this risk? And obviously you have a very different kind of strategy with Smarter Web.
+
+**Jesse Myers:**
+(0:06:36) Yeah, first of all, I think it's very interesting — what is a Bitcoin treasury company? It's any company where the value proposition is you're going to grow your Bitcoin ownership over time through the successful execution of the strategy. And that is possible through any number of business models. I think these are examples of what's possible — traditional finance business models being ported over to a Bitcoin world where you are able to generate returns in Bitcoin and pass that on to shareholders. We're going to see an explosion, I think, of every business model out there being done with a Bitcoin foundation — Bitcoin as the bedrock, Bitcoin as the unit of account for the balance sheet. There's going to be a Bitcoin disruptor in every major category of traditional business models, whether that's insurance, payments, or how you run a fund. I think it's something that we don't talk enough about in the Bitcoin treasury landscape — that the term is really overly broad. What a Bitcoin treasury company truly is covers an extremely broad lens: any company that's delivering value in Bitcoin terms. What Smarter Web is focused on is the first version of a Bitcoin treasury company — perhaps the low-hanging fruit of a Bitcoin treasury model — which is how do you have Bitcoin-powered equity and then potentially become amplified Bitcoin, and that's the value proposition to shareholders or prospective investors. But in truth, Bitcoin treasuries is any business like this that is generating positive Bitcoin returns for investors. It's a topic that will be at the forefront for every traditional industry in the world over the next coming decades.
+
+**Stefania Barbaglio (Host):**
+(0:09:16) I would say thank you for bringing that up because actually Bitcoin treasury companies are companies. So we should actually stop putting them into a basket, because then it all comes down to how are you actually generating value for investors and there are different business models that investors can resonate with. Now I have a question for you Jesse. I was thinking — obviously being a pure play minimises the risks, you have a very clear razor-focused strategy — but at the same time I'm thinking about scalability: how big can you get if you can only invest as much as your revenue from your operational business? Can you share a little bit how you are thinking about scaling the business model to keep growing your Bitcoin? Because one thing is going to market and raising money, but there is also dilution and other things that come with that. On the other side is actually having money that you can get and then buy more Bitcoin. So obviously you are the first and have the first-mover advantage, but maybe there is a more strategic angle you can share with us.
+
+**Jesse Myers:**
+(0:10:32) Yeah, so you mentioned earlier that Strategy is not putting their balance sheet to work, and I think that's not quite right — because they're using their balance sheet as collateral for their preferred equity offerings. And I think that has shown that the larger they get, the more creditworthy they are, the more reliable they are, the more time passes, the more Lindy they are — and that's served them well already. They are increasingly the name synonymous with digital credit, and how you can grow your Bitcoin per share. If you're going to pick one Bitcoin treasury company in the world, Strategy is the first name you think of, so there are a lot of advantages with scale with that model. And Smarter Web enjoys some advantages being the largest Bitcoin treasury company in the UK running that specific playbook — there are advantages to scale, and the larger our balance sheet gets, the more creditworthy we become. I think that trajectory can play out in the UK for the leading Bitcoin treasury company running that pure-play balance sheet strategy, which is really what we're pursuing. So when you think about how a Bitcoin treasury company is putting their assets to work, it can be execution of a strategy — you can be offering amplified Bitcoin which is based on the collateral you have on the balance sheet and then the leverage or amplification from preferred equities, as Strategy has shown. That becomes the value proposition. So I think there are advantages in scale and hopefully Smarter Web can continue to build that balance sheet and become more and more creditworthy by doing that.
+
+**Stefania Barbaglio (Host):**
+(0:12:45) Yeah, you're right. There are different products that can actually generate revenue. And Roy, being a financial company, that's what you do. What else are you thinking about in terms of ways to minimise risk? Because we all agree that we don't want to put Bitcoin at risk, but we want to be innovative as well. And if you can touch on the regulatory side, that will be important — because we can be innovative but we need to be within a framework, especially here in the UK.
+
+**Roy Kashi:**
+(0:13:14) Yeah, absolutely. Being able to put our balance sheet to work gives us opportunities for other products. We've already started creating a Bitcoin bond which will offer a fixed coupon for investors paid quarterly, with a Bitcoin-attached certificate where you'll participate in the upside in Bitcoin but not the downside. That's something we can offer because we get the yield on the balance sheet. Other things include looking at managing Bitcoin for third parties, which we've been approached to do by a number of people — it's another avenue we're looking at. And I guess everything will lead down to the avenue of preferred equity. As we know in the UK, preferred equity has to come from revenues — well, dividends have to come from revenues and profits. There are other ways you can circumvent that by changing the share premium account into profits, but that's probably one way around the regulatory issue you've mentioned. For us, it's about — like you said earlier — treasury companies are put into this bracket of one basket, but ultimately they are companies, they are listed companies on the stock market. So as such, we believe: why not value them as companies the way other companies on the stock market would be valued — on revenues and profits — where you're not just valued on an NAV basis? Because you are making revenues and profits which give a far higher multiple, as they should. And that's what we see ourselves as potentially being slightly different. We want to grow that side as much as we can and be valued on that metric as much as possible.
+
+**Stefania Barbaglio (Host):**
+(0:15:10) Freddie, talk to us about the lightning network because I don't know much about how you use it to make money. So tell us how you integrate your Bitcoin treasury with that.
+
+**Freddie New:**
+(0:15:24) Sure. Tracking back slightly to some of my earlier points around the nature of money — for me, I fundamentally got into Bitcoin probably for reasons similar to those a lot of people got into it initially: you looked at this thing and you thought that's undervalued, that's going to be worth more in the future. And it turns out I was partially right — I was more right in October last year than I am today, but the price will go up again. The second thing that really fascinated me was the idea that we have here a monetary asset that you can use even when your government doesn't want you to. So for me it's the uncensorable payment proposition that's so fundamentally important around the nature of Bitcoin. That's something that in the developed economies — and the less authoritarian economies, although in the UK we're moving more authoritarian, which I'm sure we're all delighted about — is a really fundamentally important value proposition for me. Can you move money across borders if your country doesn't want you to? Can you buy things? Can you pay to attend a protest against your government without your government shutting down your money? That for me is fundamentally important. So thinking about Bitcoin through a payment lens — we all know that the base layer, the UTXO set, isn't capable of giving censorship-resistant money to everyone on Earth. Not all of us can hold our own keys. And quite frankly, the settlement time — the gap between your transaction speed and your settlement speed on the base layer — is probably always going to be too long for you to buy a cup of coffee. That was always one of the main criticisms in the early days of Bitcoin being used as money. Now we know there are a lot of different second-layer solutions to enable instantaneous transactions and instantaneous settlements. The Lightning Network is the biggest and the most well-developed of those. For anyone who's not familiar with it, there are two base layer transactions in order to create a lightning channel — one when you open the channel and one when you close it. And for the period that the channel is open, the two participants — let's say Steph and I have a channel here — we can make as many different payments between each other in real time as we like. But the cool thing about the network is it's not just one payment channel. If there's someone at the back of the room to whom I want to send money but I'm not connected to them, but Steph is, then I can route through Steph. And much in the same way as you may be familiar with Visa and Mastercard interchange fees — which are relatively high by comparison — Steph would then be able to charge a small routing fee for the privilege of enabling me to pay that person at the back. And that's essentially how our first business model works. We are setting up a large number of well-capitalised, well-funded routing nodes at specific junctures on the Lightning Network that enable us to optimise for the routing of payments. At the moment we're seeing about 6% return on invested capital and crucially — because we self-custody and have proof of reserves on our website — there is limited to no counterparty risk. So back to the credit idea: no one's being trusted here. That Bitcoin locked in the channel is still ours and if anything goes wrong with the channel, it will come back to our self-custody address within about six blocks and at the absolute maximum about two weeks.
+
+**Stefania Barbaglio (Host):**
+(0:19:01) It's kind of like we are opening a tab —
+
+**Freddie New:**
+(0:19:04) With a tap — we are opening a tap in a pub, for example. We all do that and then the money circulates without each transaction being finalised each time.
+
+**Stefania Barbaglio (Host):**
+(0:19:18) Exactly.
+
+**Freddie New:**
+(0:19:18) You don't write it to the base layer until you close the channel — you're basically trading the Bitcoin between each other but in your own self-custody. So you haven't got any counterparty risk as you might with a lending model. And then our second business line, also denominated in Bitcoin revenues, is as an LSP. For anyone who's not familiar with that, an LSP is a Lightning Service Provider — essentially providing more of the infrastructure plumbing behind that payment network. If for example you're a wallet provider or a merchant who wants to receive lightning payments, you need — and this is more technical than hopefully most people will ever need to know — you need to have inbound liquidity in order to enable you to receive payments. We will sell you that inbound liquidity using our own Bitcoin. You pay us in Bitcoin, and when you're done with that liquidity you can close that channel and the Bitcoin reverts to us. So those are roughly the two business models we have running at the moment.
+
+**Stefania Barbaglio (Host):**
+(0:20:20) I'm curious — show of hands, who's done a lightning transaction before?
+
+**Roy Kashi:**
+(0:20:26) Oh, good.
+
+**Jesse Myers:**
+(0:20:27) Wow, that's impressive. That's awesome.
+
+**Freddie New:**
+(0:20:28) Yeah, it's magic.
+
+**Jesse Myers:**
+(0:20:31) That — I don't think you would have got the same answer five years ago.
+
+**Freddie New:**
+(0:20:34) Totally agree.
+
+**Stefania Barbaglio (Host):**
+(0:20:36) What is the yield that lightning is generating?
+
+**Freddie New:**
+(0:20:43) It's about 6% we're getting on routing.
+
+**Stefania Barbaglio (Host):**
+(0:20:45) Annually?
+
+**Freddie New:**
+(0:20:46) Yes, 6% APR on invested capital.
+
+**Stefania Barbaglio (Host):**
+(0:20:51) So very different business models. Now obviously Bitcoin yield is something that is not so easy to explain to investors. We have a room of very educated people in the space, but for example Jesse — when you are talking to investors as a publicly listed company, obviously you are talking to more traditional investors — what are you doing, and then we can get Roy and Freddie to share what they are doing, to get people to understand this new concept.
+
+**Jesse Myers:**
+(0:21:25) Yeah, it is tough. I think the toughest part is to just get the other side of the table to understand Bitcoin. That's the real barrier, frankly.
+
+**Stefania Barbaglio (Host):**
+(0:21:39) We can all go to Joe.
+
+**Jesse Myers:**
+(0:21:41) Yeah. So we just need to bring Joe out every time we talk. That's the real barrier — you're either bullish on Bitcoin or you're not. And really the question there is: have you done sufficient research on Bitcoin in order to think that it's not internet monopoly money, and instead understand it as digital scarcity — a finite digital currency that has won in terms of digital money. That's the first barrier. And then explaining the concept of Bitcoin per share and how a Bitcoin treasury company's value proposition is that you can grow Bitcoin ownership over time through the successful execution of the strategy — whether it's the pure Bitcoin treasury company model that we run at Smarter Web, or alternative business models that result in the same effect of growing Bitcoin ownership. For us there are sort of two parts to it. You can grow Bitcoin per share if you're trading at an MNAV premium and are able to issue equity and buy Bitcoin — that results in an accretive transaction that grows the amount of Bitcoin on the balance sheet at a rate faster than your increasing share count. That's a great outcome and that's what Smarter Web has — most of the Bitcoin per share growth that we've delivered over the last year has been through that. The other way that you can increase Bitcoin per share is through the amplified Bitcoin model, which is really leverage — whether that's traditional debt or, as we've seen with Strategy, preferred equity obligations. The net of that is you're creating a fiat obligation, using those proceeds to buy Bitcoin, and that amounts to creating a levered Bitcoin balance sheet where if Bitcoin appreciates in value, the unrealised gains from that levered Bitcoin position accrue to the equity holders — increasing Bitcoin per share to equity holders. And I think that's the more accessible version of the model to wrap your head around — that an amplified Bitcoin treasury company like Strategy, and increasingly like Smarter Web — we now have about a 13% leverage ratio. That means that if Bitcoin goes up in value and our fiat obligations stay flat, then you have delivered a net increase in Bitcoin per share to equity holders. That's just a classic playbook and I think easier to wrap your head around. So it's hard to communicate the value proposition of a Bitcoin treasury company because you have to understand quite a few things. But the thing that helps a ton is whenever Bitcoin goes up. When Bitcoin is trending up — as it does — people need to figure out how to get exposure, or how to not miss out. I think that Bitcoin treasury companies create the most accessible way to get Bitcoin exposure for a portfolio, and in my opinion the most compelling — because not only do you get Bitcoin exposure through the balance sheet as it exists today, but if the model executes over time you're growing your Bitcoin ownership on top of that. Just some quick numbers: if Bitcoin grows at 29% a year for the next two decades as Strategy believes it will, and you're able to add 20% Bitcoin per share on top, well those compound together and that amounts to 55% annual return. That beats the pants off of anything else that you can get out there. So I think that's the potential of a Bitcoin treasury company above and beyond the already great potential of Bitcoin.
+
+**Stefania Barbaglio (Host):**
+(0:26:17) Thank you so much. Unfortunately we have to finish here. Jesse, Roy, Freddie — thank you so much. You're going to be here, so anybody who is interested in catching up can do. Thank you so much.
+
+**Jesse Myers / Roy Kashi / Freddie New:**
+(0:26:28) Thank you. Thank you.
