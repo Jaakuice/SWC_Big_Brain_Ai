@@ -1,0 +1,264 @@
+# Bitcoin Treasury Companies Explained (And Why They Matter) #114
+**Date: 2026-06-03**
+**Video ID: ylr1oDe5ZEo**
+**URL: https://www.youtube.com/watch?v=ylr1oDe5ZEo**
+**Duration: ~43:40**
+**Channel: Deribit**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- Smarter Web's evolution from UK web design firm to the UK's largest listed Bitcoin treasury company (~2,900 BTC)
+- Value proposition of Bitcoin treasury companies vs. spot Bitcoin or ETFs (Bitcoin per share growth)
+- Mechanics of corporate Bitcoin accumulation: convertible bonds, perpetual preferred equity, ATMs
+- "Digital credit" — preferred equity structures pioneered by Strategy and Strive (11–13% annualised yields)
+- Bitcoin yield / SATs per share as the primary KPI for treasury companies
+- Strategy's small Bitcoin sale and implications for treasury management flexibility and S&P inclusion
+- Current bearish Bitcoin sentiment: heavy price action, fear & greed in low 20s, rotation into AI/equities/gold
+- Bitcoin's underperformance vs. gold and M2 money supply; AI/quantum FUD as contributing factors
+- Institutional adoption still in early stages; potential for fixed income capital to flow into Bitcoin via preferred products
+- Long-term bull case: fiat debasement, corporate buying momentum (~650,000 BTC bought by corporates since Dec 2024)
+
+---
+
+**Imran:**
+(0:00:18) Welcome back to Crypto Options Unplugged everyone. I'm Imran L from Options Insight. Got my man Dave from FR&T. Today's special guest is Jamie Knowles, head of capital markets at Smarter Web. How you doing Jamie?
+
+**Jamie Knowles:**
+(0:00:28) Very good. Thanks.
+
+**Imran:**
+(0:00:29) Returning to the show. We've had you on before.
+
+**Jamie Knowles:**
+(0:00:31) Yes. December 2024 was the last time I was on here.
+
+**David:**
+(0:00:36) And finally made it back, not wearing a suit — after you gave me such a hard time. But yeah, really looking forward to being here and talking, because so much has happened since we last spoke. I think when we last chatted, Bitcoin was like close to 100K. Now it's sort of 70, but underneath the hood, a lot's changed constructively. So looking forward to dissecting that.
+
+**Imran:**
+(0:00:58) Nice. You've been in crypto a while, but your role's changed a bit. So tell us a little bit about your journey in crypto.
+
+**Jamie Knowles:**
+(0:01:03) So I've been in crypto professionally for about 5 years now. I previously was an equity sales trader at various investment banks. I then left in 2021/2022 to go work at Galaxy Digital to help them build up their markets business. I then left to join a consultancy called DS3, which was where I was when we last spoke. And at the start of this year, I started working with Smarter Web as their head of capital markets and I am effectively responsible for two things. One is investor relations and two is the cap markets process — managing all our relationships with various banks, brokers, lawyers and stakeholders. But by way of background, who are we? We are the UK's largest Bitcoin treasury company with just under 2,900 Bitcoin. We're listed on the LSE, ticker SWC. But our background is that we were originally a web design and digital marketing firm headquartered in Bristol. We still run that operating business and we have a 15 year trading history.
+
+(0:02:09) And yeah, very much looking forward to — you kept the name Smarter Web because of that — but very much immersed in the crypto Bitcoin treasury space now.
+
+**Imran:**
+(0:02:19) Yeah, I mean we've talked quite a lot about DATs, right, and kind of where they're positioned now in the space and the relative value prop between a DAT and ETF. So I'd love to get your views on that.
+
+**Jamie Knowles:**
+(0:02:37) Yeah, absolutely. And it's by far the number one question that we get — what is the value proposition of a treasury company versus buying spot or buying an ETF? And really what it is, is a treasury company via its ability to access capital markets, raise equity, raise debt, do converts, etc., is actually able to increase the amount of Bitcoin exposure that you have for every share that you own or for every pound that you put in. So for instance, if you buy a pound's worth of Bitcoin today, in 10 years time that's still going to be worth £1. If you buy an ETF, it may be slightly less due to fees, but because of our capital markets activity, what we're able to do is increase the amount of Bitcoin that you have for every £1 that you've invested. So we actually do that whole process for you. And by way of background, one of the things that pivoted us into running a Bitcoin treasury strategy was because we thought fiat debasement in the UK was going to continue. Sterling's lost 50% of its value roughly since 2000. And last year when we went public, we managed to raise £225 million in finance to acquire Bitcoin, and that's how we became the UK's number one leader, listed on the LSE.
+
+**David:**
+(0:04:02) So you're saying the Bitcoin per share that you invest is not static — it's dynamic, it grows. The idea is that it's going to grow over time.
+
+**Jamie Knowles:**
+(0:04:11) So if you repackage it another way — what is the biggest problem at the moment that people who want to be long Bitcoin have? They think: there's an asset here that I want to own because I believe it's going to go up 30% a year, but I only have a certain amount of fiat capital in my bank account. So if I give that money and invest in a Bitcoin treasury company that is able to increase the Bitcoin per share, that is a way that I can increase my Bitcoin ownership over the long term.
+
+**Imran:**
+(0:04:44) Can you give us an example of how a company increases that Bitcoin per share? What is the mechanism?
+
+**Jamie Knowles:**
+(0:04:54) Sure. So last year, the model has actually changed from last year versus this year. Last year when we had peak sentiment of the treasury companies — not just within Bitcoin but within other DATs, ETH and Solana — it was primarily through accretive equity issuance. So when the value of the company was trading at more than the value of the underlying asset, people were issuing equity to then buy Bitcoin or whatever the asset may have been. Subsequently since then, a lot of that sentiment has naturally just come out of the sector — partly because of oversaturation and Bitcoin price has felt heavy. And so what's happened is you started to see a shift in the model from having to rely purely on sentiment and a premium mNAV, to the perpetual preferred equity model — which is what Strive and Strategy have been pioneering in the US — and that's been responsible for raising a lot of the new capital that's been buying Bitcoin.
+
+**David:**
+(0:05:59) I think certainly for our viewers who don't understand some of these terms, it might be good to go through those products and what they are, how they're functioning — because the granddaddy was Strategy, right? And they started out with convertibles.
+
+**Jamie Knowles:**
+(0:06:18) Yes.
+
+**David:**
+(0:06:19) So they're just borrowing money from capital markets in the form of a convertible note — that's a bond but it can convert into equity. And I think most of the people who were buying that convert were like convert-arb type guys who were basically saying, okay, we can buy this convert, it's kind of like a bond plus an option, we can then sell stock against it and trade that volatility, and we're getting a really cheap level to buy that vol. So that was quite a complex structure, but Strategy moved on and started doing different things like preferred and ATMs. I don't know exactly what all those are properly, so...
+
+(0:06:58) And they're innovating. I think your head of strategy — is it Jesse?
+
+**Jamie Knowles:**
+(0:07:04) Jesse Myers. Yeah. He put out a really good tweet last week where he was basically talking about what Strategy have done, and now others are kind of following. There's this whole pool of capital out there — some people just want to own Bitcoin, but others will be more comfortable with normal capital market type products. And he was saying the innovation in this digital capital world — it's like if you think there's a dam with a pool of capital, essentially: how do we tap that pool of capital to come in? We can go buy Bitcoin with it, but how do we incentivize that capital to flow in? It's like putting a tube into a dam — you're now able to start sucking out that capital into products that a traditional investor might be quite comfortable with and understand, but ultimately the Strategys and Smarter Webs of the world can then go buy Bitcoin with it and start to add Bitcoin per share. And the phrase that gets used is...
+
+**David:**
+(0:08:23) Amplification.
+
+**Jamie Knowles:**
+(0:08:24) Amplification. That's correct. And I think maybe just to take a step back — why is this conversation relevant for your listeners? The reason it's relevant is because at the moment, there's no denying it, Bitcoin sentiment feels really challenging. If you look at the fear and greed index it's in the low 20s; if you speak to people in the sector, it's tough in terms of trying to get business done. And everyone is chasing other asset classes — US equities, Korean equities, AI etc. So Bitcoin is either being used as a funding trade or people are just rotating out of it full stop, and that really started last year with the gold rotation. So everyone's sitting here asking: how is Bitcoin going to get back up to 100K, 200K plus? And the answer for me personally is it's going to come via continued corporate buying. Since we last spoke in December 2024 — guess how many Bitcoin have been bought by corporates?
+
+**Imran:**
+(0:09:26) No idea.
+
+**Jamie Knowles:**
+(0:09:31) Roughly about 650,000 Bitcoin have been bought by corporates. This year alone, close to 200,000 Bitcoin have been bought by corporates — Strategy alone have bought about 170,000. And what's happening is you've got more companies that are able to financially innovate again via these perpetual preferred equities — sometimes referred to as digital credit — and you've also got these corporates who have unwavering conviction in the asset class. So they are trying to tap into completely new pools of capital — fixed income markets etc.
+
+**Imran:**
+(0:10:23) So walk us through a simple example of a preferred relative to regular equity in a company.
+
+**Jamie Knowles:**
+(0:10:30) So the perpetual preferred equity is an equity that pays a variable dividend rate at set periods throughout the month. For instance, Strive have a perpetual preferred that pays daily at a 13% annualised yield, whereas Strategy have an 11.5% yield that pays bi-monthly at the moment — and they're actually doing a vote to see whether they can change the frequency of the payments. Where it differs from a normal equity is in two things: one is how the dividend is funded, and two is the volatility of the equity itself. The volatility aspect is probably the most interesting — it makes sense because this is a show on volatility. The biggest problem previously in income or yield investing has been: I want to buy yield but I also have to accept some level of capital depreciation. In the UK we are probably the most income-orientated culture globally — we love bonds, we love high-paying defensive stocks — but those come with risks related to the underlying equity story.
+
+(0:11:44) What the perpetual preferred is trying to do, via how it's structured, is strip out that risk. They manage the interest rate payments and they also have an ATM which gives it the ability to sell shares if they get too high above a reference price.
+
+**Imran:**
+(0:11:59) What does ATM stand for?
+
+**Jamie Knowles:**
+(0:12:01) At-the-market offering. So the company has an ability to issue or sell its own shares of that particular instrument. In the case of Strategy and Strive they have a reference price of 100 where they want to keep that particular equity in and around that price, and they use both of those mechanisms to control that.
+
+(0:12:26) So that strips out a lot of the volatility that people were previously used to in other yield instruments. And then the second part of how it differentiates is how the dividend is actually paid. Previously people are accustomed to cash flows being used to pay for yield. In this case they're funded by two mechanisms: one is via selling the company's ordinary equity when it's trading at a premium — which both companies are — or via selling small amounts of Bitcoin as Bitcoin goes up. This is in essence a funding trade: you're paying a fixed fee obligation of 11–13% and it's backed by an asset that you think is going to go up by 30% a year. So over time you sell off small slices of that to meet your dividend obligation.
+
+**Imran:**
+(0:13:12) So as an investor trying to decide between buying regular shares or investing in the preferred — you've highlighted there's less volatility in the preferred and there's a dividend, but it's variable. What's the downside to owning the preferred? Why would I ever want regular shares and not preferred?
+
+**Jamie Knowles:**
+(0:13:34) Sure. So the two lines are meant to represent the barbell approach. You've got one which is high growth, no income, with full exposure to Bitcoin. On the other end, you have low growth, high income, which no matter what the Bitcoin price does, it's designed to stay around that reference price as discussed.
+
+(0:13:53) The specific risk is the credit risk — and that's why it's called digital credit. It's: do I believe this company is going to be able to fulfil that dividend obligation? And if you believe no, then naturally it will reprice. And there is also naturally an element of supply and demand depending on what's happening in the market.
+
+**David:**
+(0:14:11) But even if that company can't make the dividend payment on the preferred, surely the regular shares will be getting battered at that point as well.
+
+**Jamie Knowles:**
+(0:14:19) That's correct. And so a lot of work has been done by these two companies to have very large pools of capital that back up those dividend obligations — the amount of Bitcoin they have backing it up. For instance, Strategy's current dividend obligation per year is around $1.7 billion, but they're backed by $80 billion of Bitcoin.
+
+**David:**
+(0:14:43) So they have a very high coverage ratio — which is why they've been selling recently, I guess.
+
+**Jamie Knowles:**
+(0:14:47) They sold a very small amount of Bitcoin — like 32 Bitcoin, about $2.5 million — to make a small obligation. And that's part of their process of being more flexible in how they manage their strategy.
+
+**David:**
+(0:15:03) But that spooked the market because Saylor used to say he's never going to sell, right?
+
+**Jamie Knowles:**
+(0:15:07) He has sold before — I think two years ago he sold about 700. But I think people are trying to... Bitcoin has just been feeling heavy, and we can talk about markets.
+
+(0:15:30) The key difference in this story is to separate a change in your Bitcoin outlook versus just treasury management. And this is what they're trying to do — managing the treasury in a more flexible way. A large part of what people speculate is so that they can get S&P inclusion and hopefully a credit rating on their perpetual preferred equity.
+
+**David:**
+(0:15:55) Yeah, I think Saylor's made a bit of a rod for his own back in that he's like — you never sell your Bitcoin. And I kind of have some sympathy for that idea as someone who... you never sell Bitcoin. But also back to your point, there comes a time when treasury management might require it. And I think that's what's maybe spooked the markets because it's not like we have an issue — it's just treasury management. However, the flip side to that is if a lot of people are buying these instruments, these prefs, on the basis of the collateral that underpins it — if they know that they can and will use that collateral if needs be — I actually think that gives comfort in some of those underlying interests, as opposed to "you can never touch that." It might actually long-term desensitise the market to them now and again selling some.
+
+**Jamie Knowles:**
+(0:17:22) Absolutely. And actually when they made that statement back in the earnings call, initially there was a lot of scepticism, but after the dust settled people were able to say this is actually a maturation of their treasury management strategy — giving them more flexibility — which I think is a net positive for the market. What really matters over time is their net accumulation, not if they need to sell some around the edges.
+
+**David:**
+(0:17:46) Something else that's interesting to me — when I look at the DATs, clearly a lot of them just jumped on this because their share price had gone nowhere for years. And it's what people are doing with AI now. But they weren't really convicted in Bitcoin, so I think they're the ones who've already folded. And the other interesting question is: how big is your operating business versus how big your treasury is? I think when there's an operating business behind it — and I know Smarter Web recently made a purchase that was accretive to revenues — for me that's sensible. When I think of these prefs or convertible notes, I have conversations where people say yes there's a big element where the value of Bitcoin and the collateral behind it is clearly really important, but particularly where there's an operating business behind it, people will own prefs in a company where that money is just going into the operating business and you're taking a pure view on the success of that business. Whereas here: you're buying Bitcoin, there's real collateral underpinning it, as opposed to taking that cash and investing it in marketing and this, that and the other. And that's why with Strategy — you've got billions of Bitcoin versus the actual amount of debt.
+
+**Imran:**
+(0:19:43) And in terms of the stack of Bitcoin you're building in a treasury company — is there ever any discretion around, say, the market's looking a bit rubbish, do you consider hedging any of your exposure?
+
+**Jamie Knowles:**
+(0:19:59) Yeah, so we naturally look at a variety of different options — whether it's financing options, yield options, the whole spectrum depending on what the market's doing. A lot of that comes from internal conversations but also conversations with third parties who want to show you different menus of things available. I think it really depends on: one, your jurisdiction; two, your overall size; and probably third, your risk tolerance.
+
+(0:20:32) So what we've tended to do at Smarter Web is have core conviction that when we buy Bitcoin it's there on the balance sheet — we don't want to use it for yield-generating solutions, although we've naturally explored that. At the moment, where we have tended to use our equity has been as strategic currency to make acquisitions. As David alluded to, we bought another company in February of this year — a Bristol-based web design business — using our equity, which was strong because of the Bitcoin on our balance sheet, for 1% of the value of the Bitcoin on our balance sheet at that time. It was just under £2 million. We were able to 10x our revenue by buying this business. So that's how we see using our Bitcoin for accretive measures. Whereas some of the smaller companies do tend to get involved in yield generation strategies, lightning network, and the bigger ones — MetaPlanet — they now buy all their Bitcoin via derivatives, purely via cash-secured puts.
+
+**David:**
+(0:21:36) So they're supplying the vol to the street. That's why crypto vol just keeps getting battered, right?
+
+**Jamie Knowles:**
+(0:21:40) Well, it may not necessarily be all attributable to them.
+
+**David:**
+(0:21:44) No, not saying that — just another reason, because we know there's loads of call overwriting going on, but these guys are even selling puts to accumulate.
+
+(0:21:53) The reluctance — at FR&T we speak to a lot of DATs — there still seems to be a reluctance to generate yield against the Bitcoin. Does that come from just being worried about the credit risks and the risk of actually losing the Bitcoin?
+
+**Jamie Knowles:**
+(0:22:19) I think it's really about how we explain to our shareholders how the Bitcoin is generated. One of the key metrics for us is our Bitcoin per share or Bitcoin yield — the increase in Bitcoin per share over a set period — and we need to be able to explain how we've generated that. It's easy to explain if you say: we've raised equity at a premium to our mNAV and we're now buying Bitcoin. But when you have to go into how it's being generated — the rehypothecation, if it's being put into various pools, if it's in DeFi, what the credit risk is around that — it makes it difficult to explain. And it's also quite difficult to scale longer term. From our own perspective, at this particular moment in time, the risk/reward just doesn't fit with our particular strategy — but it may do for somebody else.
+
+**David:**
+(0:23:12) Something that I was fortunate enough to experience — I went to the Smarter Web conference last week in Bristol, which was really interesting, lots of Bitcoin treasuries there. Something that really stood out to me was thinking about things in terms of Bitcoin yield and Bitcoin per share. I've always thought things really change when Bitcoin becomes the denominator. Obviously the fiat price of Bitcoin is going to really determine the success of all of these things, but in times of volatility and particularly now in the drawdown — to start thinking about Bitcoin as the unit of account, how many Bitcoin am I getting per share — I think when you've got that conviction, it probably takes away some of the stress. It's easy to talk about being successful as a Bitcoin treasury because we're increasing Bitcoin per share, as opposed to what is the fiat value of that Bitcoin. It's a long-term strategy and we're executing on it by increasing Bitcoin per share.
+
+**Jamie Knowles:**
+(0:24:38) Yeah, you're absolutely right David. And that is why we try to focus investors towards measuring us by that KPI amongst others. Naturally the fiat price is important, but for us our long-term Bitcoin per share or SATs per share is really what's important. When we first started after the IPO in April 2025, our SATs per share was I think 4 SATs per share. It's now just under 800 SATs per share. Or to look at it another way — when we started, you needed to have 24 million shares of Smarter Web to own the equivalent of one Bitcoin on a fully diluted basis. Now it's around 126,000 shares. So that is another expression of Bitcoin as the denominator.
+
+**Imran:**
+(0:25:20) So let's talk a little bit about the market then. Price action is a bit soggy. We've broken the big level of around 74K — that got taken out. We're already taking out 70K now. What do we think?
+
+**Jamie Knowles:**
+(0:25:35) Squeaky bums, I think they call it. A retest of the lows — 60K — that's on the cards.
+
+**David:**
+(0:25:43) It trades awfully, that's for sure. At a time when stocks are still flying. It actually kind of feels like the macro environment — geopolitics aside — is pretty good. On a pure price action basis, it feels like we're going to test that 65–68K zone I would say today. A couple of macro things to point out — we do have a big amount of treasury issuance over this week and next week, more bills this week, some coupons next week, which is going to suck a lot of liquidity out of the market. Kind of wonder whether we're seeing Bitcoin front-run that a little bit. Also it's first week of the month — you kind of suffer that liquidity hangover from month end. So I thought the next couple of weeks might be quite difficult. The other thing which is huge: on the 16th we've got the FOMC — Kevin Walshe's first FOMC.
+
+(0:27:02) I still think Bitcoin is the best kind of macro asset in terms of expressing that macro view and picking up macro risk. What's Walsh going to say? He's been pitched as a hawk, but I don't actually think he is — he's been quite open about wanting to get rates down. He's a balance sheet hawk maybe. He's made comments about focusing on the trimmed mean. If I was to see a catalyst to the upside for Bitcoin, there's a chance Walsh comes in and is actually pretty dovish and prepared to look through inflation. I think that could trigger us back. But I also wonder how much Bitcoin is the hedge to that because right now you can't stop the AI trade — it's just a funding trade. What are your thoughts? What's going on with Bitcoin? Why are we down here?
+
+**Jamie Knowles:**
+(0:28:06) Yeah, to echo what you guys think — sentiment is particularly challenged at the moment. From a lot of the conversations that we have, it feels like we're probably either going to go through continued chop/consolidation, i.e. sideways movement, or look to go small down. I think if we do have any rallies, unless there's a material shift, they're probably going to be a function of short covering or very short-term money coming in, and we're likely to be capped at big technical levels like 82K, the 200-day moving average, etc. I think the lead will be what goes on in other asset classes, because it's clear to me that a lot of the issue at the moment is that everyone wants to chase something else — whether it's AI, Korean equities, US equities. There's a lot of rotation going on and Bitcoin has naturally been used as a funding trade, alongside gold. The gold/Bitcoin chart is probably one of the most interesting at the moment — on a relative basis, it's at its most extreme it's ever been, i.e. Bitcoin's underperformance relative to gold.
+
+**David:**
+(0:29:18) Is it starting to base out a bit?
+
+**Jamie Knowles:**
+(0:29:19) Well, this is the thing — I thought it could have based out months ago. The short answer is it's too early to tell.
+
+**David:**
+(0:29:27) It's funny — Bitcoin almost correlates itself to all the stuff that's performing badly, but then when that stuff starts to recover, it doesn't participate. For example, a long time ago we would have said gold and Bitcoin would trade kind of together, but last year you saw gold do 50% and Bitcoin didn't really participate and actually came off. And then when software stocks were selling off, Bitcoin was coming down with them. But have you seen what software stocks have done? Oh yeah, they're flying — the IGV index was one for one with Bitcoin and Bitcoin's done nothing. So it really looks like money is coming out of crypto and going into other places. I was speaking to a portfolio manager at a crypto asset manager and he was saying the sole reason for that dislocation is AI and quantum FUD, which has really stuck to Bitcoin — the software stocks managed to shake it off and get dragged up with the rest of US tech, but for some reason it's still stuck to Bitcoin. And that's really been the reason for the dislocation versus gold. The other big correlation graph has been versus M2 money supply — those things have tended to trade very well together, but in the last 12 months total M2 money supply has gone up by 9.7%, yet Bitcoin's gone sideways.
+
+**Jamie Knowles:**
+(0:30:55) And I think a large part of it is due to the AI FUD and quantum FUD that's ongoing.
+
+**David:**
+(0:31:00) And it is — maybe if you look at the IGV software stocks index... you know, if you want some opium in this conversation, things change quickly. That sector looked dead. Even though we had spoken about it on this show — the FUD around software stocks was kind of overlooking the fact that yeah, you might be able to buy code yourself in your bedroom, but the network effect of that, the distribution, and all the other things that make a business — there was a good argument that AI just makes those stocks more valuable. It kind of felt like we were missing a point, and then all of a sudden the market's back on that trade. I could see a similar thing happening with Bitcoin when people start to go again. There's been a rotation from Nvidia to the Microns to all the things that next benefit from this world of agentic AI, and all of a sudden we're back to: oh Bitcoin and ETH are going to be big beneficiaries, and we're suddenly rallying.
+
+**Jamie Knowles:**
+(0:32:20) You make a very good point. A good example is the conversations we have — we are a web design and digital marketing firm by background. So naturally people say: isn't AI going to be a potential threat to this industry? And the answer for us is no — it's actually a net beneficiary. There are still a lot of people who don't want to take the time to do a website themselves or manage the AI process to save a small management fee. So for us it's a net beneficiary. I think there's still that tendency for everything to get blanketed under the same umbrella — as a potential threat from AI. So there needs to be some distinction in actually saying: what is an actual threat versus where is it a net benefit? That was a good point you made with regards to the software stocks.
+
+(0:33:13) If you want to dig into conspiracies — a macro guy I speak to, an old school macro guy very plugged in with some big hedge fund guys, he's a bit of a China watcher and he's been convinced for a long time that whilst everything is going on with Trump and China around trade and Taiwan, he's like: there's no way that Xi and China are going to let Bitcoin and crypto be skyrocketing whilst all that is happening. And if they can manipulate the Treasury market — which they have done over years — they can certainly keep a lid on crypto and keep it underperforming, because that's just a victory they don't want to hand to Trump.
+
+(0:34:38) Conspiracy. But you kind of look at it and go, yeah, it seems to be playing out that way. I think the other thing might just be a four-year cycle. What makes the price action feel so frustrating is there are so many crosscurrents and so many possible explanations that it's very hard to isolate what it's actually attributable to — and for me that's one of the main reasons people feel particularly frustrated at the moment.
+
+**David:**
+(0:35:06) Yeah. Well Jamie, when you were last on in December 2024 — if I could have told you that we were going to get the Genius Act and the regulation of stablecoins, the strategic Bitcoin reserve, all the big banks starting to come into the space, corporates buying in the size you've described, the Clarity Act — and I said this is what's going to happen, where do you think Bitcoin would be at that point?
+
+**Jamie Knowles:**
+(0:35:48) Probably 200–250K.
+
+**David:**
+(0:35:51) Um, so I think that's what feels more frustrating about this market. Yes, you're right. And I think compared to 2022 — we were talking before we came on camera — in 2022 we had the fastest rate hike cycle arguably in history from the Fed. You had Luna blowing up, Celsius, Blockfi, FTX. So when prices were suppressed in that environment, you kind of understood it. I think this feels more frustrating because actually the underlying environment feels like we should be trading a lot higher. So then people start to question their thesis.
+
+**Imran:**
+(0:36:40) Well, what are the options markets saying? Have you noticed anything?
+
+**David:**
+(0:36:44) The options market — realised vol has been pretty poor and we've just had a consistent downtrend in implied vol, pretty much understandable from the supply side. Everyone's desperate for yield — if they can't make money through appreciation, there's still pressure to make money somehow, so the yield hunting mentality — that's been in crypto from day one with all the different DeFi protocols. So there's just loads of option selling in Bitcoin and ETH. Vols are just compressing everywhere. Skew has generally flipped towards puts — calls have been coming down and there's less appetite to sell puts than there is to sell calls because you're trying to earn yield against the position.
+
+(0:37:28) This little downtick — we have started to see a little bit of an uptick in vol, but we're talking in the last day or two. And often these upticks in vol are very short-lived. The minute you get any kind of bounce, someone's selling it. Any stability, any bounce — you get the vol sellers coming really really fast.
+
+(0:37:42) I mean, I'm a long-term crypto bull, but I can't deny the price action has been quite underwhelming in terms of what I would have expected given the news flow and all the regulatory hurdles we've had to jump through. You would have expected better price action. But you've got to think of it as a 20–30 year trade, right? When you size it appropriately — it's not 50% of your assets, it's 10–15% of your long-term assets with a 20 year plus view — I'm very relaxed about it going nowhere for the last two years. I don't really care because I'm thinking much longer term. I'll punt around with options if I think there's something to do tactically, but the lion's share of my allocation will just be hodling until my kids grow up and see where it's at. Because the fiat debasement story is not going away ever. If you zoom out enough, that story is just such a strong story — if you're not holding any of it, what are you doing? That's kind of my view.
+
+**Jamie Knowles:**
+(0:39:01) And interestingly, BlackRock have put out a lot of research over the course of the last few months talking about how Bitcoin can be used in a portfolio for diversification. That sort of backs up some older empirical research that Fidelity did. I think it's supportive at the margin that you're having these big institutions saying: look, outside of just pure capital appreciation, there is an argument — regardless of your view on the asset — to have some for a diversified portfolio.
+
+**David:**
+(0:39:35) Yeah. And that argument holds more water when the correlation to stocks drops significantly. It's funny — we're looking and going, why aren't we participating with stocks? But actually the fact that we're decorrelated from stocks isn't a bad thing. It's just that we haven't got the sentiment or the drivers that are taking crypto higher, but the decorrelation is actually a long-term benefit.
+
+(0:39:55) And also to add — when the Iran conflict first kicked off at the end of February/early March, Bitcoin outperformed in that period throughout March. So yeah, it's done quite well in terms of being a diversifier — it's just we don't want it to diversify when everything else is pumping.
+
+(0:40:19) But I think the message is really: zoom out. In these sorts of times you can get sucked into watching the price action and seeing technical levels break, but if you zoom out and we're talking on decade-long horizons...
+
+**Jamie Knowles:**
+(0:40:31) And I do think we have to remember that we had four years of a Biden administration that was proactively trying to prevent the adoption and institutional adoption of Bitcoin, and we're only just over a year into Trump's term. Even when I speak to institutions who are now building in the space — it used to be career risk to even talk about crypto. It was Jamie Dimon saying he'd fire anyone stupid enough to touch crypto. Now JP Morgan are building in the space and doing a fair bit. But we still haven't got the Clarity Act. We still don't have a regulatory environment that really allows the flood of institutions to properly come in.
+
+(0:41:28) And we're still such a tiny tiny asset class. People talk to me as if the institutional adoption wave is done because the ETFs have been successful. I'm like, I don't think it's even started yet. The wealth managers, the big RAs in the US — it's still very early, and people are holding a tiny fraction in their portfolio.
+
+(0:41:56) So our head of Bitcoin strategy Jesse Myers — who's famous for putting together the framework that Michael Saylor and Strategy used, which shows Bitcoin as a percentage of total asset classes — what it's showing you is that as a percentage of total asset classes, we are still so small. And one of the most interesting things — pivoting back to the perpetual preferred equities — is that the view is: even if we can take 10 basis points, one basis point from an entire fixed income market that wants a low-vol product that pays a yield, that is a huge amount of capital that's willing to come into Bitcoin. And that for me is a little bit of opium — because there is that funnel there to go into a cohort that's willing to consistently buy Bitcoin, which are the corporates.
+
+**Imran:**
+(0:42:49) All right, Jamie, it's been great to have you back on the show.
+
+**Jamie Knowles:**
+(0:42:52) Thank you so much, mate. So when am I next going to be back — probably 2028 at this rate?
+
+**David:**
+(0:42:57) Let's hope it's a two-year cycle.
+
+**Jamie Knowles:**
+(0:43:00) No, I really enjoyed being on it. You guys do a fantastic job — the production's super tight, the content's always really, really good. I listen to it every week. Thanks for all your consistency, because it can be difficult at challenging market periods, but it's good to know every week you guys are putting this stuff out.
+
+**David:**
+(0:43:17) I appreciate you, man.
+
+**Jamie Knowles:**
+(0:43:18) Thank you, mate.
+
+**Imran:**
+(0:43:18) All right guys, that's it for this week. We'll catch you back here next week. Cheers.

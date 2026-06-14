@@ -1,0 +1,93 @@
+# Joe Bryan: What’s the problem? Bitcoin treasuries edition.
+**Date: 2026-06-03**
+**Video ID: JE_3RIwkKLs**
+**URL: https://www.youtube.com/watch?v=JE_3RIwkKLs**
+**Duration: ~14:36**
+**Channel: The Smarter Web Company**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- Currency debasement as the root cause of Bitcoin treasury companies' existence
+- The three consequences of monetary debasement: price signal distortion, rising business input costs, and asset inflation
+- The critical distinction between self-custody Bitcoin and Bitcoin proxies (ETFs, treasury shares)
+- The "two sides of the wall" framework: permissionless Bitcoin vs. permissioned financial instruments
+- Promises underlying custodial Bitcoin holdings and the risk of government confiscation
+- The societal doom loop triggered by debasement: from wealth inequality to family breakdown to bigger government
+- The construction of capital controls ("Berlin Wall for capital") via CBDCs, banking restrictions, and stablecoin regulation
+- The four historical endpoints of money printing: sustained inflation, asset seizures, force, or backdoor taxation
+- Self-custody Bitcoin as the only way to opt out of the system
+- Joe Bryan's personal criteria for owning Bitcoin treasury company shares
+
+---
+
+**Host:**
+(0:00:06) Check. Got me?
+
+(0:00:08) All right, welcome back. Those by the door, please find your way into some seats here. Our next presenter, Mr. Joe Bryan — I stumbled across his "What's the Problem?" video while I was working at Strategy, and hope.com had this page of favorite videos and I sent it to Saylor and he really loved it. And Joe said, "Can you please put it on hope.com?" and I said, "Let's try to make that work." And sure enough it got onto hope and then it blew up from there. So I take all the credit for Joe's success.
+
+(0:00:43) No, it's an amazing thing that he put together — allegedly on a Sunday night over a couple bottles of red wine for his friends — but I'll let him tell the true story. So with no further ado, Mr. Joe Bryan with "What's the Problem?"
+
+---
+
+**Joe Bryan** *(Author, What's the Problem & Advisor, Antillon Capital)*:
+(0:01:02) Uh hello again, everyone. Right. Well, we're going to do something slightly different today.
+
+(0:01:12) I'm interested — who has actually seen "What's the Problem?" either the video or me present? Okay, great. It's probably 70% of the room. Well, firstly, thank you for watching it. Thank you even more if you shared it with somebody else who needs to see it. If you haven't seen it, please go to whatstheproblem.org or just Google "What's the Problem?" and click on the image of this guy's face on Google.
+
+(0:01:38) We're going to take it in a slightly different direction today because this is not a regular Bitcoin conference. This is more about treasury companies. And so we're going to pull out some of the key thoughts and relate them back to what it is we're talking about today.
+
+(0:01:56) And disclaimer — I do own Bitcoin Treasury shares. And I own them for three reasons. Well, when three things are true. Firstly, it's run by an actual Bitcoiner — somebody I respect and who I consider to have high integrity, which is not everybody in the treasury company space. Secondly, that the company has got what I consider to be a competitive advantage — and I outlined in the conversation this morning the angles for which I consider competitive advantage to be material in the space. And thirdly, where I have trapped capital, because due to some arbitrary rules or regulations enforced upon us, I cannot use my capital in the way that I would choose to use it. So I make the next best decision in my view. And I would say nothing in here constitutes financial advice or anything like that.
+
+(0:02:59) Now, I always like to go back to first principles with everything when thinking about a problem. So why do Bitcoin Treasury companies exist at all? It's one word. It's debasement.
+
+(0:03:19) We are being stolen from. And if we weren't being stolen from, treasury companies would not exist. The state is an abuser. It abuses us through the money. And it always has and it always will.
+
+(0:03:37) And when you debase the currency, you trigger three main issues. The first is you distort all the price signals in the free market and you corrupt productivity. The second is that business input costs rise for everybody — because the new money finds its way into the cost of people, energy, infrastructure on which every business relies. And the third is it drives asset inflation.
+
+(0:04:06) And that's the realization that everybody here has had and hence why we're in the room today. It's this third one. It's about asset inflation.
+
+(0:04:15) And one of the most famous charts in Bitcoin is that they've been printing money for 50 years. And if we let them, they'll print it for another 50. The purchasing power of the money is decaying. The pound is going to zero. The dollar is going to zero. The euro is going to zero.
+
+(0:04:39) And when you measure anything in something that can be printed infinitely, it will be worth more in that thing when you measure it in the space of the thing you're printing infinitely. And once you realize this, you come to the conclusion — well, I obviously can't hold my savings in the thing you can print for free. I have to find something else. And that something else has to be something harder, something more difficult to print.
+
+(0:05:10) And so people think about collectibles, they think about silver, they think about gold or houses. But when you've reflected long enough, you come to the conclusion that actually you just need to own the thing that is impossible to print — and that is bounded by the laws of thermodynamics. And so you end up buying Bitcoin and as a result come across treasury companies, or the other way around. And those treasury companies are to a greater or lesser degree some proxy to Bitcoin. Some are more Bitcoin-like than others. Some will outperform. Some will underperform. And some will die along the way, and rightly so.
+
+(0:05:56) But if it's all just debasement, you do actually own Bitcoin as well, right? And I mean actually own Bitcoin. Bitcoin in self-custody, where you are the bank. You are the person in charge.
+
+(0:06:19) And unfortunately, we are at the situation where — due to the success of treasury companies — we now have lots of people who hold ETFs or treasury company shares that don't actually also have Bitcoin in self-custody. And this is a big issue.
+
+(0:06:41) And perspective matters. These things are absolutely not the same thing. We have two sides of the wall in our world. And at the moment, this wall is porous — you can move between both sides.
+
+(0:07:04) On one side, you have perfect money, bounded by the laws of physics, secured by energy, limited in supply absolutely, that you can hold yourself, send to and receive from anyone, anytime, anywhere, at the speed of light at zero cost, that no one can ever take off you, or even prove you have access to.
+
+(0:07:34) Or you have a shadow of that. You have the financial performance linked — in either highly correlated or less correlated way — with a different set of underlying risks. And it's a different set of underlying risks because on the other side of the wall, it's financial performance stacked on a series of promises. You own shares through a broker held at an institution that you may not even be able to name, in a company that itself doesn't actually own the keys to its Bitcoin. It has a legal promise that the person actually holding the keys to their Bitcoin will return them if requested. And that custodian will do so at the good grace of the government.
+
+(0:08:28) And promises do get broken. Promises always ultimately get broken.
+
+(0:08:36) And the US and governments around the world have confiscated gold in the past. And they will do the same to Bitcoin in the fullness of time. And it takes one stroke of the pen to change your exposure to being dollars as opposed to Bitcoin.
+
+(0:08:55) And so this is a permissioned world. And that still makes it a viable investment in circumstances. But it's not a substitution, it's a supplement to what you have. And you're not wealthy if you require permission. If I have to ask you to be able to access my assets or do something with my assets, I don't own them.
+
+(0:09:27) And so — what if we're actually right here? We view this as a debasement trade. But what if we're actually right? Well, if you're right, then you can't pick and choose the consequences. You can't say, "Oh, I'm just going to benefit from the asset inflation." You find yourself subject to the other two as well, and it's the combination of the three that destroys everything.
+
+(0:09:53) The distortion of the price signals drives the misallocation of capital across the economy. The business input costs going up drive consumer prices higher, shrinkflation, and the deterioration of quality everywhere. And this is where consumer inflation comes from. The first two make you poorer, the third one makes you unemployed. Bigger government. It also makes you sick, because the food starts to get compromised. The quality goes down. More government.
+
+(0:10:25) Asset inflation — great for some, bad for others. You get wealth inequality across the economy. You get increased homelessness. Houses are now more unaffordable. More government. You get more leverage everywhere. More debt. House prices go up. Families are struggling to feed themselves, home themselves. You can't buy a house on one salary anymore. You need both parents working. If both parents work, you get the breakdown of the nuclear family. They're spending less time together. There's more stresses at home. You have fewer children, because the math doesn't work. You can't have the children you want and keep a home.
+
+(0:11:03) Fewer children, bigger government, because of the pension crisis. The pension system becomes underfunded and structurally insolvent. The youth don't care about the future — they're never going to be able to buy a house, never be able to have the family. So they focus on today, not tomorrow. Fewer children. Other people struggle because they're trapped in hopelessness. They can never get ahead. They slip into bad decision-making, destructive behavior, addiction, health crisis, mental health crisis. Bigger government. And now the government's got all these secondary issues it has to deal with. So it has to allocate more capital back into the market to try and deal with them, further distorting all the price signals.
+
+(0:11:43) And between the misallocation of capital and the greater leverage in the economy, it sows the seeds of the next emergency. And all the government can do is print more money to try and solve it. And you get the same thing happening again. And now you're in a death spiral. Bigger government, more spending, more control. The net tightens on everyone. The government has to try and have more and more control to keep the show on the road.
+
+(0:12:18) And now you find the wall isn't quite so porous anymore. We are seeing the construction of the Berlin Wall for capital all around the world. Europe is leading this charge, but the UK is not too far behind. We see the invention of CBDCs, the restrictions in the banking sector, harder and harder to actually buy Bitcoin and get it into self-custody. And even when you're using stablecoins, they're just CBDCs by another name. A more accessible name.
+
+(0:12:51) And this wall is now a very real wall. Or it will be in the future. And what happens when you print money is that ultimately it ends in one of four places. And we know this from history.
+
+(0:13:06) It's sustained inflation, maybe hyperinflation, and everything that comes with that. Normally one of the other three. It's asset seizures. You're trapped inside the system. It's at the barrel of a gun, the threat of a prison cell, or it's by the back door via taxation changes, structural reform — unrealized gains taxation, for example. They're all asset seizures by different routes in the name of fairness.
+
+(0:13:41) You find yourself in a situation you can no longer vote your way out of. And this is at both ends of the spectrum. Or something worse. But in all of those scenarios, you are trapped on the wrong side here.
+
+(0:14:01) Or you could just say no. No. No, thank you.
+
+(0:14:10) And you're not free if you can't say no. And so I hope this will give those in the room who haven't yet taken the leap to figure out self-custody and action it — to do so. And please protect your families. Thank you.

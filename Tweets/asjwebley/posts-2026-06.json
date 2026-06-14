@@ -1,6 +1,394 @@
 [
   {
     "type": "reply",
+    "post_id": "2065726708284539023",
+    "date_time": "Jun 13, 2026 · 9:23 AM UTC",
+    "text": "You are more than welcome. It is right to ask these questions - and right to get answers. Appreciate the support.",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of June 14, 2026, 1:02 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2065726708284539023"
+  },
+  {
+    "type": "quote",
+    "post_id": "2065660721212293264",
+    "date_time": "Jun 13, 2026 · 5:01 AM UTC",
+    "text": "Our ambition is to become one of the largest companies in the UK. I believe that our strategy gives us a credible path to achieving that goal.\n\nAt the centre of our approach is the balance sheet. We are building a balance sheet around what we believe is the best form of capital available: Bitcoin. As that balance sheet grows, it creates opportunities across the business. It can support the growth of our operating activities, enable strategic acquisitions, provide flexibility to pursue new opportunities as they emerge, and allow us to further strengthen and expand the balance sheet itself.\n\nThese are often viewed as separate strategies, but we do not see them that way. They are all connected. We have one strategy, and it revolves around building and intelligently deploying a strong balance sheet. Everything else flows from that foundation.\n\nBecause of this we think that it is important for investors and potential investors to understand this balance sheet at any moment in time and increasingly these investors include institutional investors who are used to specific metrics.\n\nWe believe the term \"mNAV\" is currently being used in ways that can create confusion rather than clarity. Various companies and commentators often calculate the metric differently. Some use Market Capitalisation as the numerator, while others use Enterprise Value. On the denominator side, some use Net Asset Value, while others use the market value of Bitcoin holdings, often referring to this as \"BTC NAV\" despite it being closer to a gross asset value than a true NAV calculation.\n\nThe treatment of outstanding securities is also a further element. We use the fully diluted number of shares which includes all in the money warrants and then factors in cash linked to the warrant proceeds, however if we were creating our analytics from the beginning, understanding everything that we know now, we would treat Smarter Convert as debt rather than an instrument that will convert into equity.\n\nIn traditional finance, mNAV generally refers to Market Capitalisation divided by Net Asset Value, producing a premium or discount multiple relative to NAV. However, many of the mNAV metrics currently used in the Bitcoin treasury company sector employ neither of these measures, resulting in a broad range of calculations that share the same label but convey very different information.\n\nWe believe this lack of standardisation becomes increasingly problematic as treasury companies introduce debt, preferred equity and other financing instruments. As capital structures become more complex, comparisons between companies become less meaningful if investors are not working from a common framework.\n\nFor this reason, we updated our analytics dashboard during the week and are moving away from mNAV as a primary valuation metric. Instead, we now display \"Fully Diluted EV vs BTC Value\", calculated as Fully Diluted Enterprise Value divided by the current market value of total Bitcoin holdings. We have also added charts that show “Net Bitcoin Value Per Fully Diluted Share” and “Net Sats Per Fully Diluted Share”. For all calculations on our analytics page, you can hover over the question marks and view the formulas.\n\nIn our view, this provides a completer and more transparent picture of the value of a Bitcoin treasury company. We believe investors should also consider several important measures, including leverage or amplification, Bitcoin per share growth over time (\"Bitcoin Yield\"), and the sustainability of that growth going forward. The last being harder to statistically analyse.\n\nThis naturally leads to another question we were asked this week: what is the single most important metric for evaluating a Bitcoin treasury company?\n\nOur view is that there is no single number.\n\nOur treasury objective is straightforward: to increase the amount of Bitcoin attributable to each share over time. However, we would encourage investors to assess performance over quarters and years rather than days or weeks. The key question is whether management decisions are increasing Bitcoin per share on a sustainable basis.\n\nFor a simple, ungeared treasury company, the analysis can appear relatively straightforward. One could argue that issuing shares is accretive whenever the value received exceeds the Bitcoin value attributable to the shares issued. However, the reality becomes considerably more nuanced once debt financing, debt repayment, warrant repurchases, share buybacks and other capital allocation decisions enter the equation.\n\nA transaction that appears dilutive when viewed through one metric may in fact be accretive when viewed through another. This is precisely why we believe the industry requires better and more transparent analytics. As treasury strategies become more sophisticated, and treasury companies become much larger, investors need to consider multiple variables rather than relying on a single ratio or headline figure.\n\nFor public companies, such as The Smarter Web Company, there is an additional dimension. Investors should not only consider the Bitcoin treasury itself, but also operating revenues, corporate costs, cash generation and the broader business activities that sit alongside the treasury strategy. These elements can have a meaningful impact on the company's ability to grow Bitcoin per share over the long term.\n\nIf Bitcoin treasury companies are to mature into a recognised institutional asset class, the industry will benefit from greater consistency in reporting standards, valuation methodologies and performance metrics. Investors should be able to compare companies using measures that are transparent, widely understood and economically meaningful.\n\nOver the coming months, we intend to continue refining our analytics framework and working with others across the sector to help improve consistency and comparability throughout the industry.\n\nOn Monday this week we announced an update to our ATM-style facility. We raised £145,670 (before expenses), equivalent to approximately £0.29 per share. The ATM-style facility continues to be an important part of our capital markets toolkit and provides us with valuable flexibility as we execute our strategy.\n\nThroughout the week we continued sharing the remaining videos filmed at the Bitcoin Treasuries Unconference UK. As a reminder, early bird tickets for the 2027 event are available on our website.\n\nLooking ahead, we have decided to rename the event series from Bitcoin Treasuries Unconference UK to Bitcoin Treasuries Conference UK. As we scale both the event and help scale the wider industry in the UK, we believe this name will be more familiar to a broader audience. The core spirit and format of the event will remain largely unchanged, but we believe this evolution will help us reach and engage a larger community.\n\nI would also like to remind shareholders that we have an important vote at our General Meeting on 17 June. Shortly afterwards, we will announce the results via RNS. Thank you to everyone who has already taken the time to vote. Depending on your platform, there may still be an opportunity to submit your vote if you have not yet done so. Voting is an important part of share ownership, regardless of whether you vote for or against a resolution.\n\nFinally, I would like to acknowledge that our share price is not currently performing as well as I would like. I cannot control the market, but I can control what we are building and the two certainly seem a little disconnected from where I am sitting.\n\nWhile short-term market performance can be frustrating, my conviction in the direction of the business has never been stronger. I believe we are executing the right strategy, and I am excited about where we are heading. As our progress becomes more widely understood and the opportunity ahead of Smarter Web becomes clearer, I believe the market will recognise the value of what we are building.\n\nThank you for your support.\n\nLSE: #SWC | OTCQB: $TSWCF | FRA: $3M8",
+    "is_reply": false,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of June 14, 2026, 1:02 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2065660721212293264"
+  },
+  {
+    "type": "reply",
+    "post_id": "2065492710954242261",
+    "date_time": "Jun 12, 2026 · 5:53 PM UTC",
+    "text": "Please use this link: smarterwebcompany.co.uk/bitc…",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of June 13, 2026, 1:01 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2065492710954242261"
+  },
+  {
+    "type": "quote",
+    "post_id": "2065490727690514703",
+    "date_time": "Jun 12, 2026 · 5:45 PM UTC",
+    "text": "Really proud that we hosted the Bitcoin Treasuries UK Unconference just two weeks ago.\n\nA huge thank you to everyone who attended and contributed to the discussions. The energy, ideas and connections made the event a real success.\n\nIf you joined us, I hope you enjoyed it. If you missed it, we'd love to see you next year.\n\nAnd yes - next year we're officially calling it a \"conference\".\n\nEarly bird tickets are now available on our website.\n\nLSE: #SWC | OTCQB: $TSWCF | FRA: $3M8",
+    "is_reply": false,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of June 13, 2026, 1:01 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2065490727690514703"
+  },
+  {
+    "type": "original",
+    "post_id": "2065434939391168635",
+    "date_time": "Jun 12, 2026 · 2:03 PM UTC",
+    "text": "Great catching up with @TimKotzman from The Bitcoin Treasuries Podcast and @Croesus_BTC from The Smarter Web Company today.\n\nLooking forward to seeing the video when it's released.\n\nLSE: #SWC | OTCQB: $TSWCF | FRA: $3M8",
+    "is_reply": false,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of June 13, 2026, 1:01 AM London time"
+    },
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/HKnl_n2XcAEjwOx.jpg?name=orig",
+        "alt": ""
+      }
+    ],
+    "permalink": "https://x.com/asjwebley/status/2065434939391168635"
+  },
+  {
+    "type": "reply",
+    "post_id": "2065025314372153398",
+    "date_time": "Jun 11, 2026 · 10:56 AM UTC",
+    "text": "You are welcome. The discussion is healthy, and it's encouraging to see people asking the questions and exploring different perspectives. We appreciate the support.",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of June 12, 2026, 1:01 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2065025314372153398"
+  },
+  {
+    "type": "reply",
+    "post_id": "2064960012837966254",
+    "date_time": "Jun 11, 2026 · 6:36 AM UTC",
+    "text": "Thank you. Spread the word!",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of June 12, 2026, 1:01 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2064960012837966254"
+  },
+  {
+    "type": "reply",
+    "post_id": "2064788805106667844",
+    "date_time": "Jun 10, 2026 · 7:16 PM UTC",
+    "text": "Thank you - appreciated Michael.",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of June 11, 2026, 1:02 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2064788805106667844"
+  },
+  {
+    "type": "reply",
+    "post_id": "2064788672549961884",
+    "date_time": "Jun 10, 2026 · 7:15 PM UTC",
+    "text": "Thank you - appreciate your support.",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of June 11, 2026, 1:02 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2064788672549961884"
+  },
+  {
+    "type": "quote",
+    "post_id": "2064771743999254576",
+    "date_time": "Jun 10, 2026 · 6:08 PM UTC",
+    "text": "Seems like there has been quite a bit of discussion today, in different places, about mNAV and we have also had questions following our decision yesterday to focus on \"Fully Diluted EV vs BTC Value\".\n\nA few things that are worth expanding on.\n\nI believe that for Smarter Web, \"Fully Diluted EV vs BTC Value\" is the best metric for investors to assess whether they are buying shares at a discount or premium to our underlying Bitcoin holdings. At the moment, that ratio is 0.87, meaning the market is valuing the company at a discount to the current value of our Bitcoin.\n\nThe metric that matters most to me, however, is Bitcoin per share growth.\n\nInvestors can review Bitcoin per share growth historically, but when investing they are making a judgement about the future. The key question is whether management can continue to increase Bitcoin per share over time through disciplined capital allocation and execution.\n\nAnother question that has come up is at what level we would issue equity, whether through an ATM or other capital markets activity, including acquisitions.\n\nFor me, there is no single ratio that determines that decision but it is based on a variety of different considerations.\n\nAs Bitcoin treasury companies become more complex, these decisions should be evaluated based on their expected impact on long-term Bitcoin per share growth, alongside the wider strategic objectives of the company.\n\nUltimately, management actions will be reflected in Bitcoin per share over time.\n\nThat is why I continue to focus on Bitcoin per share across different time periods. It provides a clear way for investors to evaluate historical execution, while making their own assessment about whether that execution can continue in the future.\n\nLSE: #SWC | OTCQB: $TSWCF | FRA: $3M8",
+    "is_reply": false,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of June 11, 2026, 1:02 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2064771743999254576"
+  },
+  {
+    "type": "reply",
+    "post_id": "2064715573905203449",
+    "date_time": "Jun 10, 2026 · 2:25 PM UTC",
+    "text": "Thanks Ben.\n\nI think that as an industry we can improve these further over time.\n\nFor Smarter Web I think that showing Fully Diluted EV vs BTC Value is absolutely the right approach today.\n\nAs we move forward we will look at appropriate changes as we go.",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of June 11, 2026, 1:02 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2064715573905203449"
+  },
+  {
+    "type": "reply",
+    "post_id": "2064632153535586401",
+    "date_time": "Jun 10, 2026 · 8:53 AM UTC",
+    "text": "Good suggestion - we have added that as a new chart (with the calculation on the help note).",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of June 11, 2026, 1:02 AM London time"
+    },
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/HKcL28xWkAAjMId.jpg?name=orig",
+        "alt": ""
+      }
+    ],
+    "permalink": "https://x.com/asjwebley/status/2064632153535586401"
+  },
+  {
+    "type": "reply",
+    "post_id": "2064616430927008220",
+    "date_time": "Jun 10, 2026 · 7:51 AM UTC",
+    "text": "Glad to hear that Toffee.\n\nVery good spot and this has been updated.\n\nThe background is that our first idea was to use \"BTC NAV\" but then we settled on \"BTC Value\" due to the constraints of what \"NAV\" means to different people.\n\nThe chart popup was just not changed when we updated that label prior to putting it live.",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of June 11, 2026, 1:02 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2064616430927008220"
+  },
+  {
+    "type": "reply",
+    "post_id": "2064434511388069927",
+    "date_time": "Jun 9, 2026 · 7:48 PM UTC",
+    "text": "Yes - I talked about it openly with @StrategyTracker on the panel and we are working with some other global companies to improve a number of aspects around the transfer of data and the presentation of that data.\n\nIt will take time but as we also have our own dashboard we can make changes fairly quickly when they are important.\n\nView the chat here: youtu.be/watch?v=QWFHxw0-…",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of June 10, 2026, 1:01 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2064434511388069927"
+  },
+  {
+    "type": "original",
+    "post_id": "2064396542589501646",
+    "date_time": "Jun 9, 2026 · 5:17 PM UTC",
+    "text": "Sign up for email updates: smarterwebcompany.co.uk/upda…",
+    "is_reply": false,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of June 10, 2026, 1:01 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2064396542589501646"
+  },
+  {
+    "type": "original",
+    "post_id": "2064396505067204845",
+    "date_time": "Jun 9, 2026 · 5:17 PM UTC",
+    "text": "You can sign up to The Smarter Web Company email list and get updates delivered straight to your inbox.\n\nIf you have not yet joined the email list it is worth doing that today. The link is in the comments.\n\nLSE: #SWC | OTCQB: $TSWCF | FRA: $3M8",
+    "is_reply": false,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of June 10, 2026, 1:01 AM London time"
+    },
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/HKY1oUoW0AAveo6.jpg?name=orig",
+        "alt": ""
+      }
+    ],
+    "permalink": "https://x.com/asjwebley/status/2064396505067204845"
+  },
+  {
+    "type": "reply",
+    "post_id": "2064394305716797705",
+    "date_time": "Jun 9, 2026 · 5:08 PM UTC",
+    "text": "I think he secretly likes it!",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of June 10, 2026, 1:01 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2064394305716797705"
+  },
+  {
+    "type": "quote",
+    "post_id": "2064390293055533238",
+    "date_time": "Jun 9, 2026 · 4:52 PM UTC",
+    "text": "One of our shareholders (a very good one) has made this T-shirt.\n\nWhen my son spotted it at the Bitcoin Treasuries Unconference, he struggled to keep a straight face. Seeing multiple photos of his dad on a T-shirt was apparently a lot to process.\n\nFor me, watching his reaction was priceless.\n\nIf you want some alternative Smarter Web merch, support @DivBy21.\n\nOne request though: please don't all wear it to the next SWC event. A few is funny. Lots might be slightly unsettling.\n\nLSE: #SWC | OTCQB: $TSWCF | FRA: $3M8",
+    "is_reply": false,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of June 10, 2026, 1:01 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2064390293055533238"
+  },
+  {
+    "type": "reply",
+    "post_id": "2064370160912253032",
+    "date_time": "Jun 9, 2026 · 3:32 PM UTC",
+    "text": "I like that. But I think with the institutions it is all about showing them the data with the terms / language that they are used to. This comes up a lot and to get them onboard we have to explain it in ways they understand.",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of June 10, 2026, 1:01 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2064370160912253032"
+  },
+  {
+    "type": "reply",
+    "post_id": "2064362626453241862",
+    "date_time": "Jun 9, 2026 · 3:02 PM UTC",
+    "text": "Agree. Look forward to the feedback.",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of June 10, 2026, 1:01 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2064362626453241862"
+  },
+  {
+    "type": "reply",
+    "post_id": "2064358932999499872",
+    "date_time": "Jun 9, 2026 · 2:48 PM UTC",
+    "text": "Yes. We put this change live today but we believe it is a much better way of looking at the data. In fiat terms another way of looking at it is £0.36 per share BTC and £0.05 per share debt. Current share price ~£0.28.",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of June 10, 2026, 1:01 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2064358932999499872"
+  },
+  {
+    "type": "original",
+    "post_id": "2064356211584102612",
+    "date_time": "Jun 9, 2026 · 2:37 PM UTC",
+    "text": "At @smarterwebuk we think \"mNAV\" creates confusion and non-standardisation.\n\nTo date, treasury companies have used varying definitions of \"mNAV.\"  For the numerator, some use Market Cap while others use Enterprise Value.  For the denominator, some use Net Asset Value while others use Total BTC Value - often while calling it \"BTC NAV\" rather than something more accurate like \"Gross BTC Value.\"\n\nIn tradfi, \"mNAV\" typically means Market Cap / Net Asset Value, resulting in a multiple of NAV.  The typical \"mNAV\" for a BTCTC includes neither this numerator nor denominator!\n\nIn our view, this non-standardisation can create confusion, which becomes more problematic when debt or preferred equity obligations are introduced, making comparisons between treasury companies less meaningful.\n\nFor this reason, we are shifting our analytics to a more specific metric that will be more informative and precise to institutional audiences.  Our analytics dashboard now shows \"Fully Diluted EV vs. BTC Value\" which is calculated as = (Fully Diluted Enterprise Value) / (Total BTC Holdings * Current BTC Market Price).\n\nWe think this is a much better metric to evaluate the current value of a Bitcoin treasury company, as it more completely and transparently accounts for the real economic impact of debt, cash, warrants, options and all other instruments.  We think that it is important to also consider amplification or leverage and then perhaps most importantly the Bitcoin per share change over different time periods (Bitcoin Yield) and understanding how this can continue into the future.\n\nIf Bitcoin treasury companies are going to become a recognised asset class, the industry needs transparent and consistent standards. And analytics that institutional investors can immediately understand.\n\nOver the next few months, we will make further changes to our analytics dashboard, alongside working with others in the space, to try and improve consistency between different approaches.\n\nLSE: #SWC | OTCQB: $TSWCF | FRA: $3M8",
+    "is_reply": false,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of June 10, 2026, 1:01 AM London time"
+    },
+    "media": [
+      {
+        "url": "https://pbs.twimg.com/media/HKYQ6MsXcAA31uX.jpg?name=orig",
+        "alt": ""
+      }
+    ],
+    "permalink": "https://x.com/asjwebley/status/2064356211584102612"
+  },
+  {
+    "type": "reply",
+    "post_id": "2063628926090461349",
+    "date_time": "Jun 7, 2026 · 2:27 PM UTC",
+    "text": "Well said. @Strategy can point to a 5+ year track record of successfully executing this strategy at scale. The focus has remained consistent: increasing net Bitcoin and Bitcoin per share over time. Results matter more than rumours and any other company following the strategy would be proud to have this track record.",
+    "is_reply": true,
+    "is_thread_starter": false,
+    "engagement": {
+      "comments": 0,
+      "reposts": 0,
+      "likes": 0,
+      "note": "These figures were correct as of June 8, 2026, 1:01 AM London time"
+    },
+    "media": [],
+    "permalink": "https://x.com/asjwebley/status/2063628926090461349"
+  },
+  {
+    "type": "reply",
     "post_id": "2063261294845718703",
     "date_time": "Jun 6, 2026 · 2:06 PM UTC",
     "text": "Veamos si podemos hacer que eso suceda, amigo.",

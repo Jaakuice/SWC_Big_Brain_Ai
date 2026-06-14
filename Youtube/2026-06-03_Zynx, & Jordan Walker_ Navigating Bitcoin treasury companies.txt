@@ -1,0 +1,74 @@
+# Zynx, & Jordan Walker: Navigating Bitcoin treasury companies
+**Date: 2026-06-03**
+**Video ID: _ZjjXw8tJZY**
+**URL: https://www.youtube.com/watch?v=_ZjjXw8tJZY**
+**Duration: ~7:55**
+**Channel: The Smarter Web Company**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- Bitcoin self-custody as the primary goal, with treasury companies being supplementary
+- Bitcoin treasury companies as financial engineering operations performing a carry trade against fiat debasement
+- The Japanese yen carry trade as an analogy for Bitcoin treasury strategy
+- Preferred shares and perpetual debt instruments (e.g. STRC, Strike) as tools for Bitcoin accumulation
+- Criteria for evaluating Bitcoin treasury companies: profitability and fixed income product offerings
+- Future of the space: increased competition, innovation, and products eating into the fixed income market
+- UK-specific developments: preference share issuance by domestic companies
+- Generating yield on Bitcoin as a key challenge for treasury companies
+- Falcon Edge highlighted as an interesting yield-generating model
+- The race among financial engineers to maximise the fiat-to-Bitcoin arbitrage
+
+---
+
+**Jordan Walker:**
+(0:00:07) Hello everyone. So I'll be hosting this guest fireside chat which is getting done virtually with Zynx, who should hopefully be able to hear us maybe.
+
+**Zynx:**
+(0:00:27) Yes, there we go. I can hear you loud and clear.
+
+**Jordan Walker:**
+(0:00:31) Okay, so let's get this started. Zynx, for a quick intro to everyone, could you just explain who you are and — the title of this fireside chat is "Navigating Bitcoin Treasury Companies" — could you just explain what that means to you?
+
+**Zynx:**
+(0:00:53) Well, can I just say firstly I agree completely with what the previous speaker said. Bitcoin in self-custody should be first and the primary goal, and that everything we're about to discuss is supplementary and secondary to having Bitcoin in self-custody. But yeah, I describe myself as a sovereign individual. I've been a Bitcoiner for over a decade, still anonymous, which is why I'm not with you today. Interested in the Bitcoin treasury space as well. But like I said, it's supplementary — Bitcoin in self-custody is the primary goal for everyone, I think.
+
+**Jordan Walker:**
+(0:01:43) You're very active on X — for anyone who doesn't know, it's ZynxBTC. What in your opinion makes a good treasury company these days?
+
+**Zynx:**
+(0:02:01) So Bitcoin treasury is essentially a game of whoever are the best financial engineers who can perform the best carry trade. The total addressable market cap for Bitcoin right now is 300 trillion dollars — it's 1 trillion dollars right now, so there's a massive arbitrage. I'm essentially selling the weaker currency, fiat, and accumulating as much Bitcoin as possible, the hardest asset. And to sum it up quite succinctly, whoever are the best financial engineers stand to benefit the most from that arbitrage. A perfect real-life example is the Japanese yen carry trade — institutions for decades have been borrowing in the debasing currency at super low interest rates and making a profit by investing that currency in assets that are higher yielding. And essentially it's the same thing — the primary goal of a Bitcoin treasury company is to benefit from that arbitrage between fiat, which is constantly debasing, and Bitcoin.
+
+**Jordan Walker:**
+(0:03:26) Everyone in this room will know about preferred shares, but it's a big thing at the moment and a big talking point. Do you think this is changing the Bitcoin treasury landscape?
+
+**Zynx:**
+(0:03:46) So essentially the best way that we've figured out so far for a Bitcoin treasury company to benefit from this arbitrage is to offer perpetual debt. We've seen Strategy offer STRC which has allowed them to accumulate Bitcoin at a rapid rate — I think there's just over 10 billion dollars in issuance — and then you've also got Saylor with the Strike product which is also doing very well. And it seems to be the way that the best companies are going to profit from this arbitrage.
+
+**Jordan Walker:**
+(0:04:28) The landscape moves so fast, within Bitcoin but also on top of that the Bitcoin treasury space. Where do you see the industry going over the next few years?
+
+**Zynx:**
+(0:04:47) I think it'll get more competitive. You'll see a lot more innovation, a lot more products — essentially products built along the maturation curve, just slowly eating the fixed income market. So yeah, I think that's what we're going to see. Obviously in the UK you've got companies that will probably issue preference shares, and I expect this model to be replicated all around the world. The race is on, like I said, for the best financial engineers to figure out how to benefit from this arbitrage the most.
+
+**Jordan Walker:**
+(0:05:30) When you're analysing the treasury companies and looking at the space — what companies are out there, what they're doing — what sort of things are you looking at and what attracts you to one or the other?
+
+**Zynx:**
+(0:05:47) So most of them are pretty useless, to be honest with you. If they're not generating a profit or they don't have a route to offer Bitcoin-backed fixed income products, then there's no point. I don't think wrapping Bitcoin in an equity is that appealing anymore. So yeah, those two things really — companies with an operating business generating profits to accumulate Bitcoin on a balance sheet, and those that can engage in financial engineering to offer Bitcoin-backed fixed income products, preferably in the form of perpetual obligations. If there's no viable route to either of those things, it's a waste of time.
+
+**Jordan Walker:**
+(0:06:43) Last question, we've got 20 seconds — nice short and sweet — but what do you think the biggest challenge is that these treasury companies face today?
+
+**Zynx:**
+(0:06:58) Like I said, just generating yield. You've got companies like Falcon Edge — I recommend everyone go speak to Roy, very interesting model going on there, generating a yield on their Bitcoin. And the other thing is: are they able to be good financial engineers and offer these Bitcoin-backed fixed income products? Like I said, if there's no viable route to any of that, you're wasting your time. And just one more thing — again, this is all supplementary. I completely agree with Joe Bryan: self-custody is the primary goal.
+
+**Jordan Walker:**
+(0:07:39) Amazing. Well, thank you very much for joining us virtually today.
+
+**Zynx:**
+(0:07:46) Thank you. I hope everyone has a good time as well.
+
+**Jordan Walker:**
+(0:07:50) Awesome. Amazing. Thank you very much.

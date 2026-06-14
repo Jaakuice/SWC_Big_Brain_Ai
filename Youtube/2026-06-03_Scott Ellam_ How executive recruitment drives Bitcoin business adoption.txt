@@ -1,0 +1,74 @@
+# Scott Ellam: How executive recruitment drives Bitcoin business adoption
+**Date: 2026-06-03**
+**Video ID: xBebeQZOcPc**
+**URL: https://www.youtube.com/watch?v=xBebeQZOcPc**
+**Duration: ~10:15**
+**Channel: The Smarter Web Company**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- XCE (Connecting Excellence Group) is a publicly listed executive recruitment business with an integrated Bitcoin treasury
+- Scott Ellam's Bitcoin discovery in 2016 and the three key properties: 21 million hard cap, unconfiscatability, and transportability
+- The COVID lockdown catalyst: money supply doubling threatened the business's cash reserves, prompting a Bitcoin balance sheet commitment in October 2021
+- How executive recruitment works: recruiters are the core asset, billing hundreds of thousands annually but receiving no equity or long-term incentives
+- Three structural problems facing private recruitment company owners: cash debasement, scaling headcount, and lack of exit options
+- XCE's solution: Bitcoin treasury for cash preservation, performance-based equity for recruiter attraction/retention, and a listed vehicle for acquisition exits
+- The compounding flywheel model: more recruiters → stronger operating business → more credible Bitcoin treasury → more attractive to investors → more recruiters
+- Massive addressable market: thousands of privately owned recruitment firms globally with 5–50 headcount and no exit or equity options
+- Bitcoin is most powerful when integrated into people-driven, service-based operating businesses
+- Executive recruiters speak confidentially with business leaders in every industry and jurisdiction — giving XCE a unique channel to drive global Bitcoin corporate adoption
+
+---
+
+**Scott Ellam (CEO & Founder, XCE / Connecting Excellence Group):**
+(0:00:06) Hello again, everybody.
+(0:00:10) So, my name's Scott Ellam. I'm the CEO and founder of XCE.
+(0:00:17) We are a public listed operating business built on a profitable international scalable executive recruitment company with an integrated Bitcoin treasury.
+(0:00:29) I'm going to talk you through how this helps drive corporate Bitcoin adoption and how this works within our business.
+(0:00:35) But first, do your own research, not financial advice.
+(0:00:40) Taking it back to the very start of the journey. So, 2014, I established Spencer Riley, our flagship operating business.
+(0:00:51) That business began over those years to do overseas international revenue. So, we do 70% of our revenue from international clients.
+(0:01:01) We have sector specialists within the business focused on their specific industries.
+(0:01:07) And from a scaling point of view, we are sector agnostic and region agnostic. If there's a high-billing recruitment consultant who focuses on hedge funds, we could start them tomorrow and they could generate revenue on our behalf next week.
+(0:01:21) But 2016, as the founder and CEO of the business, I discovered Bitcoin in my personal life. And the three elements that we've spoke about today — the hard cap, finite 21 million cap, unconfiscatability, and transportability — stood out.
+(0:01:38) Those three characteristics, that's the first time in human history those three characteristics have been combined. And I believe that that's infinitely valuable.
+(0:01:51) I moved the business to Leeds in 2020. Now, Leeds is the epicenter of international executive recruitment. Pretty much every business in Leeds competes directly with us in the USA, Europe, and the Middle East.
+(0:02:08) Now, one week after moving the business into Leeds, we had lockdowns.
+(0:02:14) I'd been building a cash reserve in the business from 2014, precisely for this type of moment.
+(0:02:22) I thought, we have an opportunity here to attract the best revenue-generating talent from the bigger businesses in this city center to join our company.
+(0:02:32) And very quickly, the central banks doubled the money supply in order to support employees and businesses. And that opportunity to scale immediately was taken away. But not only that, the cash reserve that we'd been building, I could see was now going to be debased and was going to draw down in purchasing power over the next 5, 10, 15 years.
+(0:02:56) So, in 2021, in October, I committed the business to a Bitcoin balance sheet.
+(0:03:05) You'll all probably remember, if you were in Bitcoin at that time, what happened next. There was an 80% drawdown in the price of Bitcoin.
+(0:03:15) The business at the time increased revenues by 37% compound annual growth rate between 21 and 25 because executive recruitment is uncorrelated to the Bitcoin price.
+(0:03:30) Now, over that 4 years, I was trying to push to find a way to allow the Bitcoin balance sheet to benefit the staff and the future staff of the business.
+(0:03:41) And through design, iteration, engineering, and networking to build an incredible board, I believe, we designed what I'm about to share with you.
+(0:03:55) The first traditional people-driven business designed to grow as a direct result of an integrated Bitcoin treasury.
+(0:04:07) But why does that matter in executive recruitment? How does that drive corporate adoption?
+(0:04:13) A quick run through of how executive recruitment works. So, the recruiter is the business's asset, the individual. And that recruiter — it's their network, it's their billings that drive the revenue.
+(0:04:29) So, if the recruiter in the office is asked to find a vice president of sales for a specific client and market on behalf of the CEO, then they must speak to every single vice president of sales in that industry until they've secured the right candidate for the client.
+(0:04:44) On the flip side of that, they must speak to every CEO in their industry and build a relationship in order to be the one they use when they're looking for the next vice president.
+(0:04:55) So, it's a very self-sovereign business. The recruiters, if they're billing 500,000 — so half a million a year of revenue they're bringing into a business — they might earn 200,000, but it's salary and commission. No equity, no long-term incentives, generally speaking.
+(0:05:13) But the more recruiters, the more revenue.
+(0:05:17) So, you've got a capital-light business, high margin, that's based on headcount.
+(0:05:23) But every single privately owned recruitment company, the owner faces three problems. Cash — they are generating cash, but it is losing value over the long term.
+(0:05:38) Scale — headcount directly drives revenue. But how do you attract more revenue-generating recruiters? And ultimately, how do you incentivize them and keep them?
+(0:05:51) And then exit. There is no exit available for the owners of recruitment companies. The people are the assets, and they can walk.
+(0:06:01) Competitor acquisitions, rare. Private equity, very rare.
+(0:06:06) And this builds a situation where most recruitment company owners work in their own company their entire career only to self-fund a management buyout.
+(0:06:17) So, three problems, no solution until now.
+(0:06:21) XCE — cash: the solution is we have an active Bitcoin treasury with a capital markets team with deep expertise. We have Richard Biarwith as a board advisor. We have Adam Back as a follow-on investor for all of our rounds.
+(0:06:35) And scale: we have performance-based equity used to attract, incentivize, motivate, and compound the earnings of every recruiter who joins the XCE group.
+(0:06:49) And then exit. For those recruitment company owners who have no exit in sight, they're able to join a listed vehicle and switch their cash reserves into Bitcoin, switch their ongoing cash flows into Bitcoin, and build equity in a listed vehicle for the long term, giving them the opportunity to work towards the exit they never thought possible.
+(0:07:12) What does this look like in practice? The more revenue-generating recruiters we attract, the more revenue-generating acquisitions we make, the stronger the operating business. Now, that provides strength, credibility, durability to the integrated Bitcoin treasury, which makes the Bitcoin treasury more attractive to investors in the markets.
+(0:07:37) Now, the stronger and bigger the Bitcoin treasury, the more attractive we become to the next recruiter and the next acquisition. And it is a compounding model between operating business and balance sheet.
+(0:07:50) But what's the opportunity and what's the scale? There are hundreds, thousands, and tens of thousands of recruiters globally with no long-term equity options. We are the only listed vehicle with a Bitcoin treasury backing those share options over the 10–20 years of revenue generating that they intend to do.
+(0:08:17) There are 30 local competitors competing internationally. There are over 500 in the UK and there are thousands globally. Privately owned, often between 5 and 50 headcount.
+(0:08:33) So, what this allows us to do is design a Bitcoin treasury company where every capital raise we execute increases Bitcoin, increases revenue, and increases Bitcoin adoption across businesses.
+(0:08:49) The larger the raise we do, the more attractive we become to the next recruiter, the next acquisition.
+(0:08:56) But why is that important to Bitcoin corporate adoption? I firmly believe that Bitcoin is most powerful when integrated into operating businesses that are service-based, people driven.
+(0:09:12) In executive recruitment, you can imagine thousands of recruiters aligned with Bitcoin, whether they understand Bitcoin or self-custody or not.
+(0:09:23) Every single business leader in every single market, in every single jurisdiction around the world, speaks confidentially to executive recruiters about their biggest challenges, their biggest opportunities, their career ambitions, and their business ambitions.
+(0:09:43) And by globally disrupting the executive recruitment market with Bitcoin, we have an opportunity to drive the Bitcoin network forward, expand corporate awareness and education, and drive Bitcoin adoption through every industry around the world.
+(0:10:04) So, I welcome you to join XCE on that mission to drive Bitcoin corporate adoption, and thank you very much.
