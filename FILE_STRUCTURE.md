@@ -112,7 +112,7 @@ Contains historical media coverage and appearances related to SWC.
 
 ---
 
-### **`/RNS/`** (153 files)
+### **`/RNS/`** (156 files)
 - **Type:** Text documents
 - **Content:** Regulatory News Service (RNS) announcements - official company filings and disclosures required by UK stock exchange regulations
 - **Date Range:** Apr 2025 - Jun 2026
@@ -169,7 +169,7 @@ Contains structured social media data extracted from X.com (Twitter) accounts re
 - **Date Range:** Jun 2024 - Jun 2026
 - **File Format:** `posts-YYYY-MM.json`
 - **Data Includes:** Post type (original/reply/quote/repost), text content, engagement metrics (likes, reposts, comments), timestamps, media attachments, permalinks
-- **Statistics:** 1193 meaningful posts from 1,330+ total timeline items
+- **Statistics:** 1208 meaningful posts from 1,330+ total timeline items
 - **README.md:** Contains extraction metadata, statistics, JSON schema documentation, and usage examples
 
 #### **`/Tweets/Croesus_BTC/`** (18 files: 17 JSON + 1 README)
@@ -177,7 +177,7 @@ Contains structured social media data extracted from X.com (Twitter) accounts re
 - **Content:** Monthly JSON files with structured post data
 - **Date Range:** Feb 2025 - Jun 2026
 - **File Format:** `posts-YYYY-MM.json`
-- **Statistics:** 1024 meaningful posts
+- **Statistics:** 1093 meaningful posts
 - **Purpose:** Bitcoin treasury company analysis and commentary account
 
 #### **`/Tweets/smarterwebuk/`** (17 files: 16 JSON + 1 README)
@@ -185,12 +185,12 @@ Contains structured social media data extracted from X.com (Twitter) accounts re
 - **Content:** Monthly JSON files with structured post data
 - **Date Range:** Mar 2025 - Jun 2026
 - **File Format:** `posts-YYYY-MM.json`
-- **Statistics:** 362 meaningful posts
+- **Statistics:** 369 meaningful posts
 - **Purpose:** Official company announcements and updates
 
 ---
 
-### **`/Youtube/`** (159 files)
+### **`/Youtube/`** (163 files)
 - **Type:** Text files (.txt)
 - **Content:** Transcripts and summaries of YouTube videos featuring SWC, Andrew Webley, or related Bitcoin treasury content
 - **Date Range:** Apr 2025 - Jun 2026
@@ -239,14 +239,14 @@ Contains structured social media data extracted from X.com (Twitter) accounts re
 | knowledge | 10 | MD, CSV |
 | Legacy media/News articles | 12 | TXT |
 | Legacy media/Tv appearances | 1 | TXT |
-| RNS | 153 | TXT |
+| RNS | 156 | TXT |
 | Smarter Web | 32 | TXT |
 | Tennyson | 20 | PDF |
 | Tweets/asjwebley | 24 | JSON, MD |
 | Tweets/Croesus_BTC | 18 | JSON, MD |
 | Tweets/smarterwebuk | 17 | JSON, MD |
-| Youtube | 159 | TXT |
-| **TOTAL** | **~467 files** | |
+| Youtube | 163 | TXT |
+| **TOTAL** | **~474 files** | |
 
 ---
 

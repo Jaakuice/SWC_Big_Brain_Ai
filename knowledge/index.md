@@ -57,7 +57,7 @@ This index maps queries to relevant data sources and provides selection guidance
 - Cross-reference with RNS for purchase dates
 - Use code execution for filtering, aggregation, plots
 
-### `/RNS/` (153 files)
+### `/RNS/` (156 files)
 **Purpose:** Official regulatory announcements
 **Date Range:** Apr 2025 - Jun 2026
 **Triggers:** RNS, regulatory, official announcement, Bitcoin purchase announcement, placing, fundraise, bookbuild, subscription, director appointment, TR1, major shareholder, trading update, AGM, general meeting, results, official filing, when did SWC buy Bitcoin, how much did they raise, new director
@@ -74,7 +74,7 @@ This index maps queries to relevant data sources and provides selection guidance
 - Keyword search in filenames for type-specific queries
 - Cross-reference with CSV for quantitative validation
 
-### `/Youtube/` (159 .txt files)
+### `/Youtube/` (163 .txt files)
 **Purpose:** Video transcripts with CEO insights and strategy discussions
 **Date Range:** Apr 2025 - Jun 2026
 **Triggers:** YouTube, video, interview, podcast, transcript, what did Andrew say, CEO commentary, strategy discussion, Bitcoin Treasuries World, BTW, Week In The World, mNAV update, investor call, presentation, panel, conference, True North Now, IG interview
@@ -94,7 +94,7 @@ This index maps queries to relevant data sources and provides selection guidance
 **Purpose:** CEO's direct communication and real-time commentary
 **Date Range:** Jun 2024 - Jun 2026
 **Format:** `posts-YYYY-MM.json`
-**Statistics:** 1193 meaningful posts
+**Statistics:** 1208 meaningful posts
 **Triggers:** Andrew Webley, Andy, @asjwebley, CEO tweets, what did Andrew tweet, Andrew's view, CEO opinion, Webley said, think like Andy, Andrew's perspective, CEO social media
 **Selection Tips:**
 - Use monthly files for time-specific queries
