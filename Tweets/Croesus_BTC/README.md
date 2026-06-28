@@ -6,15 +6,15 @@ This directory contains structured data extracted from @Croesus_BTC's X.com time
 
 **Extracted:** January 27, 2026 at 01:18 PM; **updated** with missing tweets from lightbrd HTML snapshot; **updated** February 19, 2026 with Jan/Feb 2026 tweets from lightbrd HTML.
 **Total Timeline Items:** 304+
-**Meaningful Posts:** 1093
+**Meaningful Posts:** 1112
 **Filtered Out:** 16+
 
 ## Statistics
 
 ### By Post Type
-- **original**: 300
-- **quote**: 156
-- **reply**: 637
+- **original**: 301
+- **quote**: 161
+- **reply**: 650
 
 ### By Month
 - **2026-02**: 81 posts

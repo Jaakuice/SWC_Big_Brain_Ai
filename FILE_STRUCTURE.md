@@ -169,7 +169,7 @@ Contains structured social media data extracted from X.com (Twitter) accounts re
 - **Date Range:** Jun 2024 - Jun 2026
 - **File Format:** `posts-YYYY-MM.json`
 - **Data Includes:** Post type (original/reply/quote/repost), text content, engagement metrics (likes, reposts, comments), timestamps, media attachments, permalinks
-- **Statistics:** 1208 meaningful posts from 1,330+ total timeline items
+- **Statistics:** 1215 meaningful posts from 1,330+ total timeline items
 - **README.md:** Contains extraction metadata, statistics, JSON schema documentation, and usage examples
 
 #### **`/Tweets/Croesus_BTC/`** (18 files: 17 JSON + 1 README)
@@ -177,7 +177,7 @@ Contains structured social media data extracted from X.com (Twitter) accounts re
 - **Content:** Monthly JSON files with structured post data
 - **Date Range:** Feb 2025 - Jun 2026
 - **File Format:** `posts-YYYY-MM.json`
-- **Statistics:** 1093 meaningful posts
+- **Statistics:** 1112 meaningful posts
 - **Purpose:** Bitcoin treasury company analysis and commentary account
 
 #### **`/Tweets/smarterwebuk/`** (17 files: 16 JSON + 1 README)
@@ -185,7 +185,7 @@ Contains structured social media data extracted from X.com (Twitter) accounts re
 - **Content:** Monthly JSON files with structured post data
 - **Date Range:** Mar 2025 - Jun 2026
 - **File Format:** `posts-YYYY-MM.json`
-- **Statistics:** 369 meaningful posts
+- **Statistics:** 373 meaningful posts
 - **Purpose:** Official company announcements and updates
 
 ---

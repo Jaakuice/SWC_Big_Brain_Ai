@@ -4,7 +4,7 @@
 
 [![Data](https://img.shields.io/badge/Data-396%20files-blue)](https://github.com/Jaakuice/SWC_Big_Brain_Ai)
 [![YouTube](https://img.shields.io/badge/YouTube-163%20transcripts-red)](https://github.com/Jaakuice/SWC_Big_Brain_Ai)
-[![Tweets](https://img.shields.io/badge/Tweets-5,601%20posts-1DA1F2)](https://github.com/Jaakuice/SWC_Big_Brain_Ai)
+[![Tweets](https://img.shields.io/badge/Tweets-5,635%20posts-1DA1F2)](https://github.com/Jaakuice/SWC_Big_Brain_Ai)
 
 ---
 
@@ -53,9 +53,9 @@ This dataset enables deep analysis across multiple dimensions:
 | Category | Count | Description | Date Range |
 |----------|-------|-------------|------------|
 | **YouTube Transcripts** | 163 | Video content (~40-45 hours) | Apr 2025 - Jun 2026 |
-| **CEO Tweets** | 1208,090 | @asjwebley curated posts | Jun 2024 - Jun 2026 |
-| **Company Tweets** | 369 | @smarterwebuk curated posts | Mar 2025 - Jun 2026 |
-| **HoBS Tweets** | 1093 | @Croesus_BTC curated posts | Feb 2025 - Jun 2026 |
+| **CEO Tweets** | 1215,090 | @asjwebley curated posts | Jun 2024 - Jun 2026 |
+| **Company Tweets** | 373 | @smarterwebuk curated posts | Mar 2025 - Jun 2026 |
+| **HoBS Tweets** | 1112 | @Croesus_BTC curated posts | Feb 2025 - Jun 2026 |
 | **RNS Filings** | 156 | Regulatory filings | Apr 2025 - Jun 2026 |
 | **Research Reports** | 21 | Tennyson broker analysis | May 2025 - Oct 2025 |
 | **Financial Data** | 1 | CSV time-series (hourly/daily) | Apr 2025+ |

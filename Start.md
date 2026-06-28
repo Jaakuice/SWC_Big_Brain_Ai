@@ -189,7 +189,7 @@ Provide a comprehensive answer with:
 1. `/Tweets/asjwebley/` JSON files (monthly: `posts-YYYY-MM.json`)
 2. YouTube transcripts where he speaks (filter by "Andrew Webley" or "CEO" in title/metadata)
 - **Triggers:** Andrew Webley, Andy, @asjwebley, CEO tweets, what did Andrew tweet, Andrew's view, CEO opinion, Webley said, think like Andy, Andrew's perspective, CEO social media
-- **Date range:** Jun 2024 - Jun 2026 (1208 meaningful posts)
+- **Date range:** Jun 2024 - Jun 2026 (1215 meaningful posts)
 - **Use for:** Personal views, real-time reactions, direct CEO communication
 
 ### Company Official Posts
