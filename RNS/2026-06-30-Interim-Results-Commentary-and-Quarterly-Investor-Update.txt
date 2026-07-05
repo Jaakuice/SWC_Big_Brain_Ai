@@ -1,0 +1,197 @@
+30 June 2026
+The Smarter Web Company PLC
+(“The Smarter Web Company” the "Company" or the “Group”)
+Interim Results Commentary and Quarterly Investor Update
+The Smarter Web Company (LSE: SWC | OTCQB: TSWCF | FRA: 3M8) is pleased to announce
+its unaudited interim results for the six months ended 30 April 2026, together with a quarterly
+investor update covering material developments through to the date of this announcement.
+Interim results: six months ended 30 April 2026
+Operating business:
+The six months ended 30 April 2026 saw a period of significant operational progress. The
+Group's strategy is built on three mutually reinforcing pillars:
+•
+•
+•
+
+a growing and profitable operating business;
+a Bitcoin treasury that provides long-term capital appreciation and the balance sheet
+strength to support the Company ambitions;
+and a disciplined M&A programme to acquire complementary, cash-generative
+businesses that strengthen and broaden the operating platform.
+
+Each reinforces the others, forming the foundation of the long-term strategy.
+Following the acquisition of Squarebird Agency Ltd (“Squarebird”) on 20 February 2026, the
+Group now comprises two complementary divisions: The Smarter Web Company Operations
+Limited (“Smarter Web Operations”), which provides web design, development and digital
+marketing services, and Squarebird, a digital agency that adds further capability, capacity and
+client reach. Both businesses continue to operate under their established brands while
+increasingly collaborating and generating cross-referral opportunities.
+This was the first reporting period to include Squarebird, consolidating approximately ten
+weeks of trading from completion of the acquisition. The combined businesses delivered
+strong unaudited revenue growth, with both divisions contributing positively and remaining
+profitable throughout. The period therefore does not fully reflect the underlying revenue runrate of the combined Group, and the Directors expect subsequent periods to provide a more
+representative view of the combined businesses.
+Financial performance:
+The Group’s operating loss for the period was £2,716,773. A significant portion of this reflects
+significant one-off costs associated with the Company’s successful uplisting to the Main
+Market of the London Stock Exchange in February 2026, including listing and exchange fees
+and associated legal and professional costs. The board is satisfied that these costs are nonrecurring in nature.
+The reported loss for the period of £71,950,188 is almost entirely driven by non-cash fair value
+movements. The net other gains and losses charge of £68,681,898 comprises a fair value loss
+on Bitcoin of £70,820,026, reflecting the movement in the Bitcoin price from approximately
+
+$109,500 at 31 October 2025 to $76,300 at 30 April 2026 - a decline of approximately 30%
+over the six-month period. This loss was partially offset by a fair value gain on the Smarter
+Convert CLN (“CLN”) of £5,314,688 less the amortisation of day 1 deferred losses of
+£3,176,560. These movements are non-cash accounting adjustments and do not affect the
+Company’s Bitcoin holdings, its operating cash position or its long-term strategy.
+Total assets of £160,814,954 comprised Bitcoin with a fair value of £157,123,888 and cash of
+£1,273,024, together representing 98% of the Company’s total asset base, together with
+goodwill, intangibles and other receivables. Total liabilities are £26,239,273, with the majority
+being the Coinbase debt facility and CLN of £23,674,094, with the balance comprising
+deferred tax liabilities, lease liabilities and trade and other payables.
+Bitcoin treasury:
+The Bitcoin treasury is the cornerstone of the Company’s balance sheet strategy. At 30 April
+2026, the Company held 2,778 Bitcoin with a fair value of £157,123,888, representing 98% of
+total assets. During the period, Bitcoin holdings increased from 2,660 to 2,778 Bitcoin,
+representing an increase of 4.4% in Bitcoin holdings.
+During the period, additions of £7,940,454 were made. The fair value loss of £70,820,026
+reflected the decline in the Bitcoin price to approximately $76,300 at 30 April 2026. The
+historical cost basis of Bitcoin holdings at 30 April 2026 was £228,487,638.
+During the period, the Company entered into a $30 million Bitcoin-backed credit facility with
+Coinbase Credit Inc., as announced by the Company on 24 February 2026. The facility allows
+the Company to access capital, secured against its Bitcoin holdings and is interest-bearing
+(6.75% to 7.25%) with no fixed maturity date. At 30 April 2026, £14,854,644 had been drawn
+under the facility. The Coinbase facility has allowed the Company to complete several pre-IPO
+warrant purchase transactions and continue accumulating Bitcoin without additional equity
+dilution. The board continues to monitor the facility and leverage ratio carefully.
+The Smarter Convert CLN had a carrying value of £8,819,450 at 30 April 2026, reflecting a
+fair value gain of £5,314,688 and day 1 deferred loss amortisation of £3,176,560 during the
+period. The instrument matures on 05 August 2026 and has a conversion price of £2.0475
+per share, which is materially above the current market price. The Directors consider equity
+conversion unlikely, and the Company has a number of options available.
+Capital markets activity:
+The period saw significant capital markets activity associated with the Company's Main
+Market uplisting and ongoing balance sheet management. In December 2025, 50,000,000
+shares were issued under an ATM style subscription agreement (“ATM“). During the period,
+the Company received £4,834,319 of net proceeds from broker sales under the ATM.
+At the start of the period, the company had 96,066,335 pre-IPO warrants outstanding. During
+the period, the Company repurchased 42,000,000 of these pre-IPO warrants at a discount for
+£9,323,810, materially reducing the fully diluted warrant overhang and increasing Bitcoin per
+share. A further 6,962,603 pre-IPO warrants were exercised during April, leaving a balance of
+47,103,732 pre-IPO warrants outstanding as at 30 April 2026. At 30 April 2026, the Company
+had 358,881,730 shares in issue, including 52,067,540 remaining unsold in the ATM.
+In March 2026, the Company was included in the FTSE UK Index Series as a constituent of
+both the FTSE All-Share Index and the FTSE SmallCap Index, with effect from 23 March 2026,
+
+following the FTSE Russell Quarterly Review. This represented an important milestone for the
+Company, reflecting the progress made since uplisting to the London Stock Exchange in
+February 2026. Index inclusion has broadened the Company's investor base, enhanced its
+visibility among both active and passive institutional investors, and further strengthened the
+liquidity profile of its shares.
+The Company's Long-Term Incentive Plan ("LTIP") was adopted during the period. Nil-cost
+options were granted on 27 April 2026 under the LTIP, vesting only on achievement of 20
+demanding performance milestones linked to either share price targets (ranging from £5 to
+£40 per share) or market capitalisation thresholds (ranging from £2.5 billion to £200 billion),
+each sustained for 30 consecutive calendar days. A share-based payment charge of £4,441
+was recognised in the period, reflecting the accounting treatment of the award over its
+estimated vesting period.
+Post period update: May and June 2026
+Operating business:
+Trading since 30 April 2026 has continued to perform in line with management expectations,
+supported by recurring revenues from the existing client base, ongoing project delivery and
+new client acquisition.
+On 29 May 2026, the Company hosted the inaugural Bitcoin Treasuries Conference UK,
+bringing together institutional investors, listed company executives and Bitcoin treasury
+practitioners from across the UK and internationally. In addition to strengthening the
+Company's position as a leading participant in the UK corporate Bitcoin treasury sector, the
+conference generated tangible commercial revenues, recognised within Smarter Web
+Operations, demonstrating the Company's ability to translate its profile and network into
+direct commercial opportunity for the operating business.
+Bitcoin treasury:
+In June, the Company updated the investor analytics and reporting framework to provide a
+clearer and more transparent view of the Company’s balance sheet. As the Bitcoin treasury
+sector continues to evolve, the Company believes investors increasingly benefit from metrics
+that better reflect the underlying economics of a business rather than relying solely on
+industry measures such as mNAV, which are often calculated differently across companies.
+The updated approach places greater emphasis on factors such as enterprise value relative to
+Bitcoin holdings, Bitcoin value per share and net sats per share. These enhancements are
+designed to help both existing and prospective investors better understand the Company
+strategy, capital allocation decisions and long-term objective of increasing Bitcoin per share
+in a sustainable manner. All relevant information can be found on the Company website under
+“Bitcoin treasury analytics”.
+Since the period end, the Company has continued to accumulate Bitcoin. A total of 100
+Bitcoin were acquired at an average cost of approximately £57,700 bringing the total Bitcoin
+holdings to 2,878 which represents a 3.6% increase in Bitcoin holdings and a Bitcoin yield of
+15.29% for the second quarter.
+As at the date of this announcement, the Company holds 2,878 Bitcoin acquired across 40
+announced transactions at an average cost basis of £80,950 per Bitcoin, representing a total
+cost of £232,973,110.
+
+As at 29 June 2026, the Company's fully diluted EV-to-BTC value ratio was 0.84x, indicating
+that the fully diluted enterprise value of the Company was below the value of its Bitcoin
+holdings.
+Gross sats per fully diluted share stand at 785 as at 29 June 2026, and net sats per fully diluted
+share stand at 679.
+As at the date of this announcement, approximately £18.5 million was drawn under the
+Coinbase facility against a total facility limit of $30 million, representing a leverage ratio of
+approximately 16.3%. The Board continues to monitor the facility and associated coverage
+ratios closely.
+Capital markets activity:
+The ATM provides the Company with a flexible and disciplined mechanism for raising capital
+over time. Since 01 May 2026, the Company has raised approximately £1.87 million in gross
+proceeds through a combination of the ATM and direct subscriptions.
+In May 2026, 2,345,900 shares were sold through the ATM, raising gross proceeds of
+approximately £923,000. A further 1,283,975 ordinary shares were placed by way of direct
+subscription with Oliver Hewett, the Company's Chief Financial Officer, at £0.391 per share,
+raising gross proceeds of approximately £502,000.
+Since 01 June 2026, a further 1,569,250 shares have been placed through the ATM raising
+gross proceeds of approximately £445,000.
+The Directors are focused on shareholder value and believe that ATM transactions need to be
+viewed alongside all other actions in terms of the contribution towards the Company and
+Bitcoin per share growth. As the Company grows and the Bitcoin treasury becomes more
+complex individual transactions can appear less accretive when viewed in isolation. The
+Directors remain focused on increasing net Bitcoin value per fully diluted share over the
+medium to long term.
+Since the period end, 18,762,603 pre-IPO warrants have been exercised, of which 11,800,000
+were exercised after 30 April 2026. As of the date of this announcement, 35,303,732 pre-IPO
+warrants remain outstanding. Of these, 25,778,732 are held by Andrew Webley, Chief
+Executive Officer of the Company, and his spouse, with a further 1,450,000 warrants held by
+directors and employees of the Company.
+On 17 June 2026, shareholders approved a special resolution to reduce the Company’s share
+premium account by £210,000,000. Subject to approval by the High Court of Justice in England
+and Wales, the capital reduction is expected to take effect on 15 July 2026. The reduction is
+expected to increase the Company’s distributable reserves, providing greater financial
+flexibility as the business continues to grow.
+Management changes:
+The Company is proud of the team being built. The Directors believe that a team of talented
+and hard-working individuals, with experience in a variety of important areas is essential to
+the medium to long term success of the Company.
+Oliver Hewett was promoted to Chief Financial Officer on 16 June 2026 from his initial
+appointment as Group Financial Controller on 27 April 2026.
+
+Jon Bird was appointed Head of Marketing on 18 May 2026 following the acquisition of
+Squarebird on 20 February 2026.
+Outlook:
+The Directors enter the second half of the 2026 financial year with confidence. The operating
+business is progressing well, with both divisions performing in line with management
+expectations and the Directors remain focused on growing revenues sustainably and
+evaluating selective acquisition opportunities. The Company’s Main Market listing and FTSE
+Index Series inclusion provide an increasingly strong platform for institutional engagement
+and long-term value creation.
+The ambition remains unchanged: to build one of the leading companies in the UK, supported
+by a growing operating business, selective strategic acquisitions, a Bitcoin treasury and a
+balance sheet focused on creating long-term value for shareholders.
+Andrew Webley, CEO of The Smarter Web Company, commented:
+“I am pleased with the progress we have made during the period. While our share price has
+not yet reflected the progress we believe we are making, our focus remains firmly on executing
+our strategy and building long-term shareholder value.
+We believe The Smarter Web Company has the opportunity to become one of the UK's most
+significant public companies. Achieving that ambition will require disciplined execution,
+thoughtful capital allocation and a relentless focus on increasing long-term value for our
+shareholders.
+I would like to thank our shareholders for their continued support, our team for their hard
+work and dedication, our advisers and partners for their commitment, and the wider Bitcoin
+community for helping to drive innovation across this rapidly evolving sector. We remain
+ambitious about the opportunities ahead and look forward to updating shareholders on our
+progress as we continue to execute our strategy."

@@ -1,0 +1,1626 @@
+30 June 2026
+The Smarter Web Company PLC
+(“The Smarter Web Company” or "Company")
+Unaudited Condensed Consolidated Interim Financial Statements
+for the six months ended 30 April 2026
+
+Chief Executive Officer’s Statement
+For the six months ended 30 April 2026
+The six months ended 30 April 2026 represented a period of significant progress across all areas of the
+business. The Group’s strategy is built on three equally important pillars: a profitable and growing
+operating business that generates recurring revenues; a Bitcoin treasury that provides long-term balance
+sheet strength and capital appreciation; and a disciplined acquisition programme through which we
+broaden and deepen the Group’s operational platform. Each pillar is designed to reinforce the others, and
+together they form the foundation of the Group’s long-term strategy.
+The acquisition of Squarebird Agency Ltd (“Squarebird”), completed on 20 February 2026, marked an
+important step in the execution of that strategy. The Group now operates two complementary digital
+agencies, The Smarter Web Company Operations Limited and Squarebird — both of which are profitable,
+growing and increasingly working together to win new business and deliver improved outcomes for clients.
+The operating loss of £2.7 million for the period predominantly reflects the one-off costs associated with
+the Company’s successful uplisting to the Main Market of the London Stock Exchange. The reported loss of
+£71.9 million is almost entirely attributable to a non-cash accounting adjustment arising from the decline
+in the Bitcoin price during the period. Excluding these non-cash movements, the underlying performance
+of the business was in line with the Board’s expectations.
+The Bitcoin treasury remained the cornerstone of the Group’s balance sheet, with holdings of 2,778 Bitcoin
+at the period end carrying a market value of £157 million. During the period, the Company established a
+$30 million Bitcoin-backed credit facility with Coinbase, providing the financial flexibility both to continue
+accumulating Bitcoin and to fund the repurchase of 42 million pre-IPO warrants, materially reducing the
+fully diluted share count and increasing the Bitcoin attributable to each share — an outcome the Board
+considers directly beneficial to existing shareholders.
+It is worth reminding shareholders that Bitcoin is a volatile asset and that periods of challenging price action
+are a feature of its history rather than an exception to it. Every material move higher has been accompanied
+by periods that test conviction, and the recent price environment is no different. The Directors remain
+confident in the long-term case for Bitcoin, supported by the material progress we are seeing in
+institutional adoption, regulatory acceptance and broader mainstream recognition. Our conviction in
+Bitcoin has never been stronger.
+A significant milestone during the period was the Company’s inclusion in the FTSE All-Share and FTSE
+SmallCap indices with effect from 23 March 2026, achieved within two months of the Main Market
+admission. Index inclusion extends the Company’s reach to a broader universe of institutional investors,
+including index-tracking funds, and has enhanced the liquidity profile of the Company’s shares. The Board
+considers this an important step in establishing The Smarter Web Company as a credible and well-regarded
+constituent of the UK public markets.
+During the period, the Company adopted its Long-Term Incentive Plan, under which nil-cost options were
+granted to directors and employees. Vesting is conditional upon achievement of demanding share price
+and market capitalisation milestones, which require substantial appreciation in the value of the business
+before any benefit is delivered to participants.
+
+The Board enters the second half of the 2026 financial year with confidence. Both operating divisions are
+performing in line with expectations, the pipeline of acquisition opportunities continues to develop, and
+the platform established during the period provides a strong foundation from which to execute the Group’s
+strategy. The Board’s ambition remains unchanged: to build one of the UK’s leading companies, supported
+by a profitable and growing operating platform, a Bitcoin treasury that delivers long-term capital
+appreciation, and a disciplined approach to value creation for shareholders.
+Finally, I would like to express my gratitude to our shareholders for their continued support, to our team
+for their dedication and hard work, and to our advisers and partners for their commitment throughout
+the period as we aim to make The Smarter Web Company PLC into one of the largest public companies
+in the UK.
+Principal risks and uncertainties
+The principal risks and uncertainties facing the Group are monitored on an ongoing basis. The Board has
+reviewed the principal risks and uncertainties disclosed in the 2025 Annual Report and concluded that
+they remain applicable for the remainder of the current financial year. A detailed description of these
+risks is set out on page 16 of the 2025 Annual Report. In addition, the Board has identified two further
+risks arising during the period that are worthy of note: the risks associated with the Coinbase Bitcoinbacked credit facility, and those relating to the post-acquisition integration of Squarebird.
+The Company draws on a $30 million Bitcoin-backed credit facility with Coinbase, secured against the
+Company's Bitcoin holdings. The principal risk associated with this facility is that a material decline in the
+Bitcoin price could reduce the value of the collateral relative to the outstanding loan balance, potentially
+requiring the Company to provide additional collateral or reduce the drawn balance at short notice. The
+Directors monitor the facility and the collateral coverage ratio on a regular basis and are satisfied that, at
+current Bitcoin price levels, the Company maintains significant headroom.
+The acquisition of Squarebird was completed on 20 February 2026. As with any acquisition, there are
+integration risks to manage, including the retention of key personnel, the alignment of operational
+processes and the maintenance of client relationships during the transition period. The Directors consider
+this risk to be substantially mitigated by the decision to operate Squarebird as a standalone entity under
+its own brand and management, preserving the culture, client relationships and operational identity that
+underpinned its pre-acquisition performance. The two businesses will collaborate and cross-refer where
+opportunities arise, but each will continue to operate independently. The Directors are satisfied that both
+businesses are performing in line with expectations and will continue to monitor progress during the
+remainder of the financial year.
+Directors' Responsibility Statement
+We confirm that to the best of our knowledge:
+•
+•
+•
+
+•
+
+The condensed consolidated interim financial statements have been prepared in accordance with
+International Accounting Standard 34, ‘Interim Financial Reporting’, as adopted for use in the
+United Kingdom.
+Give a true and fair view of the assets, liabilities, financial position and loss of the Group.
+The interim management report includes a fair review of the information required by DTR 4.2.7R
+of the Disclosure and Transparency Rules, being an indication of important events that have
+occurred during the first six months of the financial year and their impact on the set of interim
+financial statements; and a description of the principal risks and uncertainties for the remaining
+six months of the year; and
+The interim management report includes a fair review of the information required by DTR 4.2.8R
+of the Disclosure and Transparency Rules, being the information required on related party
+transactions.
+
+The interim management report was approved by the Board, and the above responsibility statement was
+signed on its behalf by:
+
+Andrew Webley
+Chief Executive Officer
+29 June 2026
+
+Condensed Consolidated Statement of Comprehensive Income
+For the six months ended 30 April 2026
+
+Notes
+Continuing operations
+Revenue
+Cost of sales
+Gross profit
+Administrative expenses
+Operating loss
+Other expenses
+Other gains and losses
+Finance costs
+Loss before taxation
+
+4
+
+5
+
+6
+7
+
+Tax expense
+Loss for the period
+Loss per ordinary share (pence)
+Basic and diluted
+
+8
+
+Six months ended
+30 April 2026
+Unaudited
+£
+
+Six months ended
+30 April 2025
+Unaudited
+£
+
+397,473
+(26,460)
+371,013
+
+-
+
+(3,087,786)
+(2,716,773)
+
+(207,221)
+(207,221)
+
+(68,681,898)
+(24,677)
+(71,423,348)
+
+(173,046)
+(339,299)
+(719,566)
+
+(526,840)
+(71,950,188)
+
+(719,566)
+
+(21.81)
+
+(0.97)
+
+Condensed Consolidated Statement of Financial Position
+For the six months ended 30 April 2026
+As at
+30 April
+2026
+Unaudited
+£
+
+As at
+31 October
+2025
+Audited
+£
+
+1,649
+157,123,888
+1,613,724
+40,803
+77,877
+158,857,941
+
+1,649
+220,003,460
+1,031,501
+16,206
+18,199
+221,071,015
+
+Current assets
+Trade and other receivables
+Cash and cash equivalents
+Total current assets
+TOTAL ASSETS
+
+683,989
+1,273,024
+1,957,013
+160,814,954
+
+466,259
+1,503,118
+1,969,377
+223,040,392
+
+Liabilities
+Current liabilities
+Trade and other payables
+Borrowings
+Lease liabilities
+Total current liabilities
+
+603,194
+23,674,094
+29,386
+24,306,674
+
+375,087
+10,957,578
+30,112
+11,362,777
+
+Non-current liabilities
+Lease liabilities
+Deferred tax liabilities
+Total non-current liabilities
+TOTAL LIABILITIES
+
+75,561
+1,857,038
+1,932,599
+26,239,273
+
+7,523
+1,290,740
+1,298,263
+12,661,040
+
+NET ASSETS
+
+134,575,681
+
+210,379,352
+
+358,882
+213,636,407
+1,149,623
+578,614
+4,441
+345,450
+(81,497,736)
+134,575,681
+
+645,687
+208,760,100
+618,689
+1,180,063
+(825,187)
+210,379,352
+
+Notes
+Assets
+Non-current assets
+Financial assets
+Cryptocurrency
+Intangible assets
+Property, plant and equipment
+Right- of-use asset
+Total non-current assets
+
+Share capital
+Share premium
+Merger relief reserve
+Warrant reserve
+Share-based payment reserve
+Capital redemption reserve
+Accumulated losses
+TOTAL EQUITY
+
+9
+10
+
+11
+
+12
+12
+13
+14
+
+Condensed Consolidated Statement of Changes in Equity
+
+For the six months ended 30 April 2026
+
+Share capital
+£
+At 1 November
+2024 (audited)
+Loss for the
+period
+Total
+comprehensive
+loss for the
+period
+Transactions
+with owners in
+their capacity as
+owners:
+Shares issued
+
+Share Merger relief
+premium
+reserve
+£
+£
+
+Share based
+payment
+reserve
+£
+
+Capital
+Warrant redemption Accumulated
+reserve
+reserve
+losses Total equity
+£
+£
+£
+£
+
+352,500
+
+1,515,032
+
+-
+
+-
+
+-
+
+-
+
+(2,788,916)
+
+(921,384)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+(719,566)
+
+(719,566)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+(719,566)
+
+(719,566)
+
+139,851
+
+3,520,569
+
+-
+
+-
+
+-
+
+-
+
+-
+
+3,660,420
+
+Issue costs
+
+-
+
+(345,030)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+(345,030)
+
+Warrant reserve
+Conversion of
+convertible loan
+note
+Total
+transactions
+with owners
+At 30 April 2025
+(unaudited)
+
+-
+
+(30,095)
+
+-
+
+-
+
+1,180,063
+
+-
+
+-
+
+1,149,968
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+339,188
+
+339,188
+
+139,851
+
+3,145,444
+
+-
+
+-
+
+1,180,063
+
+-
+
+339,188
+
+4,804,546
+
+492,351
+
+4,660,476
+
+-
+
+1,180,063
+
+-
+
+(3,169,294)
+
+3,163,596
+
+645,687
+
+208,760,100
+
+618,689
+
+-
+
+1,180,063
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+- (71,950,188) (71,950,188)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+- (71,950,188) (71,950,188)
+
+50,000
+
+4,900,149
+
+-
+
+-
+
+-
+
+-
+
+-
+
+4,950,149
+
+-
+
+(190,944)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+(190,944)
+
+6963
+
+167,102
+
+-
+
+-
+
+(85,527)
+
+-
+
+85,527
+
+174,065
+
+-
+
+-
+
+-
+
+4,441
+
+-
+
+-
+
+-
+
+4,441
+
+-
+
+-
+
+-
+
+-
+
+(515,922)
+
+-
+
+(8,807,888)
+
+(9,323,810)
+
+1,682
+
+-
+
+530,934
+
+-
+
+-
+
+-
+
+-
+
+532,616
+
+(345,450)
+
+-
+
+-
+
+-
+
+-
+
+345,450
+
+-
+
+-
+
+(286,805)
+
+4,876,307
+
+530,934
+
+4,441
+
+(601,449)
+
+345,450
+
+(8,722,361)
+
+(3,853,483)
+
+358,882
+
+213,636,407
+
+1,149,623
+
+4,441
+
+578,614
+
+345,450 (81,497,736) 134,575,681
+
+At 1 November
+2025 (audited)
+Loss for the
+period
+Total
+comprehensive
+loss for the
+period
+Transactions
+with owners in
+their capacity as
+owners:
+Shares issued
+Issue costs
+Exercise of
+warrants
+Share-based
+payment
+Buyback of
+warrants
+Acquisition of
+subsidiary
+Cancellation of
+deferred shares
+Total
+transactions
+with owners
+At 30 April 2026
+(unaudited)
+
+-
+
+Condensed Consolidated Statement of Cash Flows
+
+(825,187) 210,379,352
+
+For the six months ended 30 April 2026
+Six months ended
+30 Apr 2026
+Unaudited
+£
+
+Six months ended
+30 Apr 2025
+Unaudited
+£
+
+(71,423,348)
+
+(719,566)
+
+2,920
+11,446
+32,712
+68,681,898
+21,495
+4,441
+
+(660,260)
+833,306
+339,298
+-
+
+166,240
+12,766
+(2,489,430)
+
+(533,143)
+371,910
+(368,455)
+
+(7,940,454)
+(116,610)
+(2,309)
+(8,059,373)
+
+(77,701)
+(77,701)
+
+4,834,319
+(190,944)
+(9,323,810)
+174,065
+15,603,004
+(748,360)
+(21,495)
+(8,070)
+10,318,709
+
+627,022
+1,185,470
+(135,279)
+(111)
+1,677,102
+
+Net (decrease)/increase in cash and cash equivalents
+
+(230,094)
+
+1,230,946
+
+Cash and cash equivalents at beginning of period
+Cash and cash equivalents at end of period
+
+1,503,118
+1,273,024
+
+109,252
+1,340,198
+
+Notes
+Cash flow from operating activities
+Loss before tax
+Adjustments for:
+Depreciation of property, plant and equipment
+Amortisation of right of use assets
+Amortisation of intangible assets
+Gain on loan write off
+Fair value gain on listed securities
+Other gains and losses
+Finance costs
+Share based payment
+Changes in working capital:
+Decrease/(increase) in trade and other receivables
+Increase in trade and other payables
+Net cash used in operating activities
+Cash flows from investing activities
+Purchase of cryptocurrency
+Acquisition of subsidiary, net of cash acquired
+Purchase of property, plant and equipment
+Net cash used in investing activities
+Cash flows from financing activities
+Proceeds from issue of share capital
+Issue costs
+Buyback of warrants
+Proceeds from warrants exercised
+Proceeds from borrowings
+Repayment of borrowings
+Finance costs
+Lease principal paid
+Net cash generated by financing activities
+
+10
+
+6
+7
+14
+
+9
+16
+
+12
+13
+13
+11
+11
+7
+
+Notes to the Condensed Consolidated Financial Statements
+For the six months ended 30 April 2026
+1. General information
+The Smarter Web Company Plc (the “Company”) is a public limited company incorporated and domiciled in
+England and Wales. Its registered address is 160 Aztec West, Almondsbury, Bristol, United Kingdom, BS32 4TU.
+
+On 20 February 2026, the Company acquired the entire shareholding of Squarebird Agency Ltd as detailed in
+note 16.
+2. Basis of preparation
+These condensed consolidated interim financial statements include the results of the Company and its subsidiaries
+(together, the “Group”) and have been prepared in accordance with UK-adopted International Accounting
+Standard IAS 34 “Interim Financial Reporting”. They do not constitute statutory accounts as defined in s434 of the
+Companies Act 2006.
+The interim financial statements should be read in conjunction with the consolidated annual financial statements
+for the year ended 31 October 2025, which were prepared in accordance with UK-adopted International
+Accounting Standards.
+The interim financial statements are presented in Pounds Sterling (“GBP”) which is the presentational currency.
+The interim financial information for the six months ended 30 April 2026 and 2025 have not been audited or
+reviewed by the auditors. The comparative financial information for the year ended 31 October 2025 has been
+derived from the audited financial statements for that period. A copy of those statutory financial statements for
+the year ended 31 October 2025 has been delivered to the Registrar of Companies. The report of the independent
+auditors on those financial statements was unqualified and did not contain a statement under Sections 498 (2) or
+(3) of the Companies Act 2006.
+Going concern
+As at 30 April 2026 the Group had a cash balance of £1.3 million (31 October 2025: £1.5 million), and net assets of
+£135 million (31 October 2025: £210 million).
+The Directors have considered the applicability of the going concern basis in the preparation of these interim
+financial statements. This included the review of internal budgets and financial results which show, taking into
+account reasonably probable changes in financial performance that the Group should be able to operate within
+the level of its current funding arrangements.
+The Directors have a reasonable expectation that the Group will have ample resources to continue in operation
+for the foreseeable future, underpinned by a significant liquid Bitcoin treasury. The successful completion of
+several fundraises since the period end has further strengthened the Group’s liquidity position. For this reason,
+they have adopted the going concern basis in the preparation of the interim financial statements.
+Accounting policies
+The condensed consolidated interim financial statements have been prepared using applicable accounting policies
+and practices consistent with those adopted in the statutory audited consolidated annual financial statements for
+the year ended 31 October 2025 and those expected to be in force for the year ending 31 October 2026.
+Critical accounting estimates and judgements
+The preparation of the condensed consolidated interim financial statements requires Directors to make
+judgements, estimates and assumptions that affect the application of accounting policies and the reported
+amounts of assets and liabilities, income and expense. Actual results may differ from these judgements and
+estimates.
+In preparing these condensed consolidated interim financial statements, the significant judgements made by
+Directors in applying the Group's accounting policies and the key sources of estimation uncertainty were the same
+as those that applied to the audited consolidated financial statements for the year ended 31 October 2025, with
+the addition of the following:
+Acquisition of Squarebird Agency Ltd - identifiable assets and liabilities assumed
+The fair value of intangible assets acquired through business combinations involves the use of valuation
+techniques and the estimation of future cash flows to be generated over a number of years. Directors are currently
+finalising the valuation of the intangible assets acquired, and if required, will adjust the provisional fair values
+recorded in these interim financial statements in the annual financial statements for the year ending 31 October
+2026, in line with paragraph 46 of IFRS 3. Further details of the acquisition are included in note 16.
+
+Valuation of share-based payments
+During the period ended 30 April 2026, the Group issued share options to its Directors and employees. Accounting
+for equity-settled share-based payments requires the use of valuation models to estimate their fair values and
+vesting periods. These models require the Directors to make assumptions regarding the share price volatility, risk
+free rate and expected life of awards in order to determine the fair values of the awards at grant date. Further
+details are included in note 14.
+3. Segmental disclosures
+Operating segments are reported in a manner consistent with the internal reporting provided to the chief
+operating decision-maker (“CODM”). The CODM, who is responsible for allocating resources and assessing
+performance of the operating segments, has been identified as the Board of Directors that makes strategic
+decisions. The Group consists of one operating segment, being the provision of website development services,
+which encompasses the Group’s two operating subsidiaries: The Smarter Web Company Operations Limited and
+Squarebird Agency Ltd. Therefore, no segmental reporting is presented.
+4. Revenue
+
+Revenue from website design services
+
+Six months ended
+30 April 2026
+Unaudited
+£
+397,473
+
+Six months ended
+30 April 2025
+Unaudited
+£
+-
+
+Six months ended
+30 April 2026
+Unaudited
+£
+
+Six months ended
+30 April 2025
+Unaudited
+£
+
+2,920
+11,446
+32,712
+153,846
+1,243,958
+1,259,760
+31,766
+
+65,616
+31,000
+110,605
+
+Six months ended
+30 April 2026
+Unaudited
+£
+70,820,026
+(5,314,688)
+3,176,560
+68,681,898
+
+Six months ended
+30 April 2025
+Unaudited
+£
+-
+
+Six months ended
+30 April 2026
+Unaudited
+£
+
+Six months ended
+30 April 2025
+Unaudited
+£
+
+5. Operating loss
+
+Operating loss is presented after charging:
+Depreciation of property, plant and equipment
+Amortisation of right of use assets
+Amortisation of intangible assets
+Professional and legal fees
+Employee benefit expense
+Listing fees
+Other expenses
+6. Other gains and losses
+
+Loss on change in fair value of cryptocurrency assets (note 9)
+Gain on change in fair value of Smarter Convert CLN (note 11)
+Release of Day 1 losses on Smarter Convert CLN (note 11)
+
+7. Finance costs
+
+Effective interest on pre-IPO convertible loan note
+Bank fees
+Exchange rate gains and losses
+Interest on Coinbase facility (note 11)
+
+2,081
+3,182
+19,414
+24,677
+
+339,188
+111
+339,299
+
+8. Loss per share
+Basic earnings per share is calculated by dividing the loss attributable to equity holders of the Company by the
+weighted average number of Ordinary shares in issue during the year. As the Group is loss making, the effect of
+instruments that convert into Ordinary shares is considered anti-dilutive.
+The weighted average number of shares used in the calculations are set out below:
+Six months ended
+30 April 2026
+Unaudited
+£
+(71,950,188)
+329,887,452
+(21.81)
+
+Loss attributable to equity holders of the Company
+Weighted average number of Ordinary shares in issue
+Basic and diluted per share (pence)
+
+Six months ended
+30 April 2025
+Unaudited
+£
+(719,566)
+74,363,297
+(0.97)
+
+9. Cryptocurrency
+£
+220,003,460
+7,940,454
+(70,820,026)
+157,123,888
+
+Balance at 1 November 2025 (audited)
+Additions
+Fair value loss, recognised in profit or loss
+Balance at 30 April 2026 (unaudited)
+
+The fair value of Bitcoin as at 30 April 2026 was calculated by reference to the unadjusted market price as at
+23:59 UK time on 30 April 2026, provided by the Group’s bitcoin broker, which is a Level 1 input under the fair
+value hierarchy of IFRS 13. Had Bitcoin been measured on a historical cost basis, its carrying value would have
+been £228,487,638 as at 30 April 2026 (31 October 2025: £220,547,184). As at 30 April 2026, the Group held
+2778 Bitcoin of which 177.89 were funded by the Smarter Convert CLN (refer to note 11).
+10. Intangible assets
+
+Goodwill
+£
+
+Intangible
+asset Software
+£
+
+Intangible
+asset –
+Customer
+relationships
+£
+
+Intangible
+asset –
+brand
+£
+
+Total
+£
+
+Cost
+As at 01 November 2025 (Audited)
+Acquisition of subsidiary
+As at 30 April 2026 (Unaudited)
+
+746,315
+447,847
+1,194,162
+
+15,079
+15,079
+
+267,424
+112,548
+379,972
+
+12,869
+54,540
+67,409
+
+1,041,687
+614,935
+1,656,622
+
+Accumulated amortisation
+As at 01 November 2025 (Audited)
+Amortisation
+As at 30 April 2026 (Unaudited)
+
+-
+
+520
+520
+1,040
+
+9,222
+15,324
+24,546
+
+444
+16,868
+17,312
+
+10,186
+32,712
+42,898
+
+Carrying amount
+As at 1 November 2025 (Audited)
+As at 30 April 2026 (Unaudited)
+
+746,315
+1,194,162
+
+14,559
+14,039
+
+258,202
+355,426
+
+12,425
+50,097
+
+1,031,501
+1,613,724
+
+11. Borrowings
+As at
+30 April 2026
+Unaudited
+£
+8,819,450
+14,854,644
+23,674,094
+
+Smarter Convert CLN
+Coinbase facility
+
+As at
+31 October 2025
+Audited
+£
+10,957,578
+10,957,578
+
+Smarter Convert CLN
+On 5 August 2025, the Company issued a convertible loan note (“Smarter Convert CLN”) raising gross proceeds of
+£15,803,733, which were used to acquire 177.8909127 Bitcoins and are held in a segregated wallet. The
+instrument is interest-free and has a term of one year. On maturity, the instrument can be settled as follows, at
+the option of the noteholders (“Settlement”):
+(i)
+(ii)
+(iii)
+
+Full or partial conversion of the notes into Company shares at £2.0475 per share; or
+Transfer of the Bitcoin acquired less transaction costs; or
+Payment of the equivalent of the value of Bitcoin in GBP, USD, or EUR;
+
+The noteholders have the option to trigger Settlement at any time. The Company has the option to trigger
+Settlement after 5 February 2026, if both the market price of the Company shares exceeds £3.07125 per share for
+10 consecutive trading days, and the percentage increase in the Company’s share price over that period exceeds
+the percentage increase in the price of Bitcoin.
+Changes in the carrying values of Smarter Convert CLN and its components are detailed below:
+
+At 1 November 2025 (audited)
+Change in fair value of Smarter Convert CLN
+Amortisation of day 1 loss
+At 30 April 2026 (unaudited)
+
+Fair value of
+Smarter
+Convert CLN
+£
+
+Amortisation
+Day 1 Deferred
+Loss
+£
+
+Total
+£
+
+15,722,418
+(5,314,688)
+10,407,730
+
+(4,764,840)
+3,176,560
+(1,588,280)
+
+10,957,578
+(5,314,688)
+3,176,560
+8,819,450
+
+The fair value of the Smarter Convert CLN is estimated using a Monte Carlo simulation, which is a Level 3
+valuation technique, using the following key inputs.
+
+Trading days to maturity
+Company share price
+GBP risk-free rate
+Annualised volatility of Company shares
+Bitcoin price at 5 August 2026
+
+30 April 2026
+
+31 October 2025
+
+67
+£0.352
+4.00%
+98%
+US$ 78,105
+
+192
+£0.535
+3.65%
+133%
+US$ 116,210
+
+Bitcoin prices at 5 August 2026 were derived from forward prices.
+No change to the fair value of the Smarter Convert CLN is attributable to the changes in Company’s credit risk.
+Coinbase facility
+On 24 February 2026 the Company entered into a facility agreement with Coinbase on the following terms:
+
+(i)
+(ii)
+(iii)
+(iv)
+(v)
+
+Facility size: $30 million;
+Security: secured against Bitcoin holdings held within Coinbase;
+Interest: charged daily on cash drawn down;
+Fees: no fees other than interest on cash used; and
+Maturity: no fixed maturity date; repayable at the Company's discretion.
+
+During the period ended 30 April 2026, the Company drew down £15,603,004 and repaid £748,360 of principal
+and £19,414 in interest.
+12. Share capital and share premium
+At 30 April 2026
+Unaudited
+£
+
+At 31 October 2025
+Audited
+£
+
+358,882
+358,882
+213,636,407
+
+300,237
+345,450
+645,687
+208,760,100
+
+Share capital
+Ordinary shares of 0.1p each
+Deferred shares of 4.9p each
+Total share capital
+Share premium
+Ordinary shares
+
+Ordinary shares of 0.1p each entitle the holders to receive dividends as declared from time to time and to vote at
+meetings of the Company. All ordinary shares rank equally with regard the Company’s residual net assets. There
+are no restrictions on the transfer of shares.
+During the period ended 30 April 2026, the Company issued new ordinary shares as detailed below:
+
+As at 1 November 2025 (audited)
+Transactions:
+Acquisition of subsidiary*
+ATM Facility Shares
+ATM Proceeds
+Exercise of warrants
+
+Share issue costs
+As at 30 April 2026 (unaudited)
+
+No of Shares
+No.
+300,237,093
+
+Share capital
+£
+300,237
+
+Share Premium
+£
+208,760,100
+
+Total
+£
+209,060,337
+
+1,682,033
+50,000,000
+6,962,603
+58,644,636
+
+1,682
+50,000
+6,963
+58,645
+
+4,900,149
+167,102
+5,067,251
+
+1,682
+50,000
+4,900,149
+174,065
+5,125,896
+
+358,881,729
+
+358,882
+
+(190,944)
+213,636,407
+
+(190,944)
+213,995,289
+
+* On acquisition of subsidiary, a merger relief reserve of £530,934 was recognised on the shares issued.
+
+On 02 January 2026, the Company issued 50,000,000 shares at par value pursuant to a subscription agreement with its
+broker (“ATM Facility Shares”). Under the agreement, the Company issues its shares to the broker at their nominal value
+and the broker may sell ordinary shares on behalf of the Company subject to agreed restrictions, including weekly volume
+limits linked to market trading closing price, and the Company will benefit by receiving approximately 97% of the net
+proceeds of any sales of the shares achieved by the broker. As at 30 April 2026, none of the ATM Facility Shares have
+been placed by Company’s broker and therefore no share premium has been recognised in respect of these shares.
+ATM Proceeds represent the proceeds received by the Company from its broker under a previous ATM facility.
+Of the capital raised, £115,830 was received after the balance sheet date and is included within trade and other
+receivables balance.
+
+Deferred shares
+On 19 March 2026, the Company repurchased all 7,050,000 Deferred shares in issue for a total consideration of
+1 pence. The acquisition was financed through the issue of 1 Ordinary share. A capital redemption reserve of
+£345,450 was therefore recognised in equity.
+13. Warrant reserve
+No
+105,746,975
+(6,962,603)
+(42,000,000)
+56,784,372
+
+Balance at 1 November 2025 (audited)
+Exercise of Warrants
+Buyback of Warrants
+Balance at 30 April 2026 (unaudited)
+
+£
+1,180,063
+(85,527)
+(515,922)
+578,614
+
+During the period ended 30 April 2026, the Company repurchased 42 million pre-IPO warrants for a total cash
+consideration of £9,323,810. In addition, 6,962,603 of the pre-IPO warrants were exercised. As at 30 April 2026,
+the Company’s outstanding warrants are detailed below:
+No
+Pre-IPO warrants
+SWC Operations acquisition warrants
+Advisor warrants
+6 October 2025 warrants
+
+18,875,000
+25,778,732
+2,450,000
+9,680,640
+56,784,372
+
+Exercise
+price (p)
+2.5
+2.5
+2.5
+105.0
+
+Exercise period
+2 years from 25 April 2026
+2 years from 25 April 2026
+2 years from 25 April 2026
+3 years from issue
+
+14. Share-based payments
+Long-term incentive plan
+On 27 April 2026 (“Grant Date”), the Group granted nil-cost options (“Options”) to its executive directors and
+employees under its Long-Term Incentive Plan (“LTIP”). The number of Options granted to each option holder is
+not fixed, but is linked to the percentage of the Company’s issued share capital on achievement of each
+performance milestone. There are 20 performance conditions linked to the Company achieving either a share
+price threshold or a market capitalisation threshold for 30 consecutive calendar days. The performance milestones
+and the corresponding number of Options that would be issued as a percentage of Company’s issued share capital
+is detailed below:
+Performance
+Market
+% of issued
+Performance
+Milestone no.
+Capitalisation
+share capital
+Milestone no.
+1
+£2.5 billion
+0.19%
+11
+2
+£5 billion
+0.19%
+12
+3
+£10 billion
+0.19%
+13
+4
+£20 billion
+0.19%
+14
+5
+£40 billion
+0.19%
+15
+6
+£80 billion
+0.19%
+16
+7
+£100 billion
+0.19%
+17
+8
+£130 billion
+0.19%
+18
+9
+£160 billion
+0.19%
+19
+10
+£200 billion
+0.19%
+20
+The vesting of the Options is subject to the following terms:
+(i)
+
+Share Price
+£5
+£7
+£10
+£13
+£17
+£21
+£25
+£30
+£35
+£40
+
+% of issued
+share capital
+0.19%
+0.19%
+0.19%
+0.19%
+0.19%
+0.19%
+0.19%
+0.19%
+0.19%
+0.19%
+
+On achievement of each Performance Milestone, the relevant number of Options vest in tranches as
+follows:
+a.
+
+If achieved before 3rd anniversary of Grant Date:
+• 1/3 vests on 3rd anniversary of Grant Date;
+• 1/3 vests on 4th anniversary of Grant Date;
+
+•
+
+1/3 vests on 5th anniversary of Grant Date.
+
+b. If achieved after 3rd anniversary of Grant Date but before 4th anniversary of Grant Date:
+• 1/3 vests immediately;
+• 1/3 vests on 4th anniversary of Grant Date;
+• 1/3 vests on 5th anniversary of Grant Date.
+c.
+
+If achieved after 4th anniversary of Grant Date but before 5th anniversary of Grant Date:
+• 2/3 vests immediately;
+• 1/3 vests on 5th anniversary of Grant Date;
+
+d. If achieved after 5th anniversary of Grant Date:
+• Full vesting immediately;
+(ii)
+
+All unexercised Options lapse by the tenth anniversary of Grant Date;
+
+(iii)
+
+Continuous employment of the option holder at the date of vesting, subject to customary change of
+control provisions and good leaver provisions.
+
+(iv)
+
+Each Performance Milestone is reduced by dividends paid on ordinary shares as appropriate.
+
+The LTIP includes customary malus and clawback provisions.
+Therefore, Options linked to each Performance Milestone represent a separate award with a corresponding fair
+value and vesting period.
+The vesting period of the Options is variable and linked to market-based performance condition. A Monte Carlo
+model was used to calculate both the fair value of the Options at the date of grant and to estimate their most
+likely vesting periods. The inputs into the valuation are detailed below:
+Company share price at Grant Date
+Exercise price (pence)
+Expected exercise date
+Dividend yield
+Annual risk-free rate
+Volatility
+
+37.0 pence
+Nil
+Immediately on vesting
+0%
+4.97%
+68.57%
+
+The volatility of Company shares was derived from a peer group of comparable listed companies as the Company
+shares have not been listed for a sufficiently long period.
+The total fair value for each Performance Milestone ranged between £163,769 and £nil and the expected vesting
+period ranged between 6 and 9 years.
+The total fair value of the Options is £1,419,265 and a charge of £4,441, for the period ended 30 April 2026 is
+recognised within administrative expenses.
+15. Related party transactions
+Related parties comprise key management personnel who are the Directors of the Company. Their remuneration
+is detailed below:
+
+Short-term employment benefits
+Social security costs
+
+Six months ended
+30 April 2026
+Unaudited
+£
+646,395
+90,505
+736,900
+
+Six months ended
+30 April 2025
+Unaudited
+£
+-
+
+Keysford Limited, in which Sean Edward Wade is a Director, charged consultancy fees for the six months ended
+30 April 2026 of £nil (six months ended 30 April 2025: £18,000).
+123 Accounting Solutions Limited, in which Mario Visconti is a Director, charged consultancy fees for the six
+months ended 30 April 2026 of £nil (six months ended 30 April 2025: £13,000).
+16. Business combinations
+On 20 February 2026, the Company completed the acquisition of 100% of the Ordinary shares of Squarebird
+Agency Ltd, a web design and marketing company.
+The following table summarises the provisional fair values of assets acquired, and liabilities assumed at the
+acquisition date:
+
+Intangible asset – customer relationships
+Intangible asset – trade name
+Property, plant and equipment
+Right of use assets
+Trade and other receivables
+Cash and cash equivalents
+Trade and other payables
+Lease liabilities
+Deferred tax liability
+Net identifiable assets acquired
+Goodwill
+Consideration
+
+Provisional fair
+values
+£
+112,548
+54,540
+25,208
+71,124
+268,139
+423,390
+(143,026)
+(75,382)
+(41,772)
+694,769
+447,847
+1,142,616
+
+The fair values of identifiable intangible assets is provisional, pending finalisation of the financial valuation of these
+assets. The goodwill balance is attributable to the workforce and an increase in market share.
+Purchase consideration
+Issue of 1,682,033 ordinary shares in the Company
+Cash consideration: settled between completion and 30 April 2026
+Deferred cash consideration – due within 3 months post completion
+
+£
+532,616
+540,000
+70,000
+1,142,616
+
+Cash flow
+Cash paid as consideration
+Less cash acquired at acquisition
+Net cash outflow on acquisition
+
+£
+540,000
+(423,390)
+116,610
+
+Acquisition costs were £76,050 and have been included within administrative expenses in profit or loss.
+17. Post Balance Sheet Events
+Between 1 May 2026 and 29 June 2026, the Company’s broker placed 3,915,150 of ATM Facility Shares for gross
+proceeds of £1,367,942. On 7 May 2026, the Company issued 1,283,975 ordinary shares for gross proceeds of
+£502,034.
+Subsequent to the period end, a further 11,800,000 of Pre-IPO warrants have been exercised at 2.5p per share
+and 100 Bitcoin have been acquired.
+
+On 17 June 2026, the shareholders of the Company approved a special resolution to reduce the Company’s share
+premium account by £210,000,000. Subject to the approval by the High Court of Justice in England and Wales, the
+capital reduction is expected to take effect on 15 July 2026.

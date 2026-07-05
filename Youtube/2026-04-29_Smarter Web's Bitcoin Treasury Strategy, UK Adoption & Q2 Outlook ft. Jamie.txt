@@ -1,0 +1,116 @@
+# Smarter Web's Bitcoin Treasury Strategy, UK Adoption & Q2 Outlook ft. Jamie
+**Date: 2026-04-29**
+**Video ID: Pg2YpdVtMPA**
+**URL: https://www.youtube.com/watch?v=Pg2YpdVtMPA**
+**Duration: ~23:47**
+**Channel: Roxom**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- Bitcoin price outlook for Q2 2026: range-bound between $75K–$85K due to fading rate cut expectations and geopolitical uncertainty
+- Key macro indicators to watch: gold vs. Bitcoin ratio, US rate expectations, US software stocks, and global M2 money supply
+- Smarter Web's Bitcoin treasury strategy: responsibly introducing leverage via traditional debt to sustain MNAV premium
+- MNAV recovery: SWC's MNAV rose from 0.7 to 1.0 over three weeks following debt-funded Bitcoin purchases
+- Leverage structure details: 9.5M GBP debt via Coinbase at 6.4% leverage, rising to 8.1% after purchasing 44 BTC for £2.5M
+- UK institutional investor landscape: segmented into UK-only mandated long funds, momentum-driven hedge funds, and family offices/HNWIs
+- UK Bitcoin market access: historically difficult, improving over last 12 months with ETNs, ISA/SIPP-eligible equities, and expanding spot access
+- FTSE 100 performance: outperforming as a defensive index due to low-beta, high-dividend stocks attracting rotation from high-beta tech
+- Bitcoin Treasuries UK Conference: inaugural event on May 29 in Bristol featuring executives from Strategy, Strive, H100, and others
+- Institutional capital pipeline: SWC laying groundwork for conversion to equity holders when Bitcoin price provides a clear inflection point
+
+---
+
+**Roxom Host (Borja):**
+(0:00:00) Oh, there we go. There we have Jamie. How are you, Jamie? Where are you calling from?
+
+**Jamie (Smarter Web):**
+(0:00:04) So, I'm calling from London. First of all, apologies for the small tech issue there. I have to say you guys did a very professional job of managing to keep the conversation going. So, I can see you're true professionals.
+
+**Roxom Host (Borja):**
+(0:00:16) We are live, man, you know. We play live every—
+
+**Jamie (Smarter Web):**
+(0:00:21) I know. Well, it's I'm really happy to be on the show, gents. You know, I've been watching Roxom for some time and you have been a big supporter of Smarter Web. So, I'm looking forward to being on the show. I know it's normally Jesse that does this time, but hoping I can fill his shoes and give you guys some good color and we can have a good conversation about the market and SWC.
+
+**Roxom Host (Borja):**
+(0:00:42) Oh, bless you, Jamie. Thank you. Thank you for your kind words. And yeah, we also love to have the Smarter Web team here. So, thank you for coming. So, Jamie, just to break the ice, Bitcoin seems to be recovering a bit. There's all sorts of opinions. There's still the bears that say like, "No, dead cat bounce. This is just a mini relief before the real downtrend." Then, we have the Bitcoin bugs who are like, "Okay, shorter bear market and so on." However, the Bitcoin treasury companies are made for patience, right? So, how are you guys seeing this 2026? How are you, Jamie, seeing it? What expectations do you have for the next couple of months? And what commentary are you getting from the public market investors in the UK?
+
+**Jamie (Smarter Web):**
+(0:01:40) Sure. Right. So, a few quite a few questions there. So, just to unpack it from the start, I think coming into 2026, expectations for strong Bitcoin price were fairly high. And that was driven by the fact that people were forecasting two or more rate cuts for this year. Unfortunately, because of what's been happening on the geopolitical scene, the market has had a substantial shift both in terms of rate expectations and in terms of appetite for risk. So, if you look at the market at the moment, we're currently only pricing in I think a 33% chance of a 25 basis point cut. Or the market's pricing in effectively a very small chance at the moment of any sort of rate cut.
+(0:02:27) And so, at the moment, I think really the other problem that's been impacting sentiment has just been the fact that you've got a real divergence between where prices are and where risk appetite and sentiment actually feels like it is. So, if you look in the US, equity markets are at all-time highs. Yet, when you speak with investors, sentiment still feels relatively cautious. And so, I think there's a little bit of a confusing setup at the moment certainly within equities, which has actually been filtering through into Bitcoin during 2026. And that's certainly been one of the big things that we've noticed when talking to investors — when you're looking at Bitcoin previously, it was easier to look in isolation. This year, you've really had to look at it across different asset classes as well and look at it in respect to what gold's doing, what equities are doing, what credit's doing, etc.
+(0:03:29) And remember, for the last couple of months, a lot of the Bitcoin price has actually been driven by what US software stocks were doing. There was a very strong correlation there.
+(0:03:40) So, at the moment, I think the bounce that we've seen has been constructive, but I do feel there's a little bit of apprehension still, given that the market's pricing in what feels like a constructive outcome on the geopolitical side. Yet, we're still seeing stops and starts in the ceasefire. And most importantly, there's some big technical levels to break through. We've been struggling to break through 80K. And I think even if we can get through 80K, we've got the 200-day moving average at 85.5K give or take. And I think that's going to be really tough to break through unless there's a notable shift in either rate expectations or the geopolitical outlook. So, I think we could actually trade in a range — say 75 to 85 — throughout the course of this quarter and potentially throughout the course of summer unless we get a big shift.
+
+**Roxom Host (Borja):**
+(0:04:37) Jamie, this is great input and great insight. Thank you very much. So, you think that already the golden pocket sub-75 is already a thing of the past, let's say.
+
+**Jamie (Smarter Web):**
+(0:04:52) I think it's very hard to say. I think actually what's really going to determine that is what gold does. Because gold has actually been one of the main drivers in terms of certainly last year — what felt like keeping Bitcoin relatively depressed — because there felt like there was some big macro rotation out of Bitcoin and into gold and other hard metals like silver, etc. And I actually think with regards to that pocket, once we start to see more rotation out of gold and back into Bitcoin — and that's still TBD on when that happens — that will probably be the answer to that question. So, when you ask me which charts have I got up at the moment that are key to look at, I think it's still gold versus Bitcoin. I think it's US rate expectations. I think it's US software stocks. And I also just think it's sort of global liquidity as well in terms of ongoing M2 money supply.
+
+**Roxom Host (Borja):**
+(0:05:56) This is great. And a quick question — not directly related, but it is related to everything that is happening, especially macro wise. How are you guys in the UK living the whole Iran-US conflict and everything that is happening around there?
+
+**Jamie (Smarter Web):**
+(0:06:16) So — oh sorry, can you just clarify? As in like what's the view of people in the UK?
+
+**Roxom Host (Borja):**
+(0:06:21) Yes, like what's the boots on the ground? And again, these kind of events always have an impact in every market, right? Markets are built by investors. So, boots on the ground, what's the comment? What's the expectations there in the UK around the whole thing?
+
+**Jamie (Smarter Web):**
+(0:06:40) Yes. So, I would say break down the answer into two parts — political and what's actually happened. So, from a political perspective, I think the UK's been trying to find a delicate balance of not trying to get too involved, but obviously trying to put its best foot forward in trying to take what it feels is a moral stance. And that's been an ongoing discussion and position that it's been navigating through since the war started.
+(0:07:11) In regards to what it's actually meant for UK markets specifically, it's actually been a big positive. You know, the FTSE 100 has actually been one of the best performing equity markets this year. And the reason for that is because the FTSE 100 is arguably the most defensive index of any major economy in the world. If you look at all our top stocks, the majority of them are low beta, high income dividend paying stocks — pharmaceutical stocks, tobacco stocks, consumer goods stocks, utility stocks. And so, as a result of that, there has been a lot of rotation in from high beta tech stocks into what people have seen as a more safe haven. And that's why the UK has done particularly well as an equity index over the course of this period.
+
+**Roxom Host (Luca):**
+(0:08:06) I've been loving the analysis, Jamie. I was wondering about Smarter Web — what's the new headlines? We've been talking briefly about the purchase you guys did last week, which is amazing — 44 Bitcoin, right? I was wondering if you could explain a little bit to the audience about your credit movement there, how you guys are doing. We talk a lot on the channel about credit — we're real supporters of all the movement that Strategy and Strive have been doing in the space. We'd love to know your views on those products, but specifically on what you guys are thinking and approaching with credit.
+
+**Jamie (Smarter Web):**
+(0:09:19) Sure. So, first of all, maybe just to take a step back. So, when we look at the Bitcoin treasury model and how it's evolved over the last 6 months, I think you guys will also attest to the fact that the model has gone from one which was relying totally on equity sentiment, to now one where having some form of leverage — whether that's traditional debt or amplification, which is sort of equity wrapped up as debt — are going to feed into the companies which are able to have a sustained MNAV premium. And that's obviously what you've been seeing with Strive and with Strategy.
+(0:10:05) So, one of the issues for the global landscape has been, naturally, because of the amount of treasury companies that entered in 2025, the whole space became saturated. And when I look at our company, if you go into our analytics page, unfortunately our MNAV over the last 6 months had really been trading, apart from a few moments in time, below one — which has roughly been in line with what the sector had been doing over the course of the last 6 months.
+(0:10:37) However, over the last 3 weeks, our MNAV has gone from 0.7 to one, and a large part of that has been because of our decision to start responsibly introducing some leverage into the balance sheet via traditional debt. So, we've actually done this in two parts. We did one in a structure related to us buying pre-IPO warrants at a discount — which I can go into and Jesse may have explained. And the second part was us changing our Bitcoin treasury policy to be able to allow us to take on additional debt to buy Bitcoin because we felt: one, the level was attractive — i.e., we're down 40% from the highs of last year; two, because we feel like we've got a competitive loan structure and loan rate from our partners at Coinbase; but three, most importantly, it's because of what the market and investors are telling us they want to see.
+(0:11:39) So, within the guidelines and the framework that we have for the UK market — i.e., we naturally tend to be a bit more conservative — we've started to ratchet up our leverage ratio. We did warrant transactions over the space of the last month — one in March, one in April — where we bought back roughly just under half of our outstanding pre-IPO warrants, including removing the largest holder, which is 210K Capital. This is all public information. That actually had a big impact on our Bitcoin per share on a quarterly basis.
+(0:12:15) As a result of that transaction, we took on around £9.5 million of debt, which was around 6.4% leverage. Post last week's transaction of buying 44 Bitcoin — which cost £2.5 million — our leverage ratio has now gone up to 8.1%, and we feel that there is scope — and again, this is not a forward-looking comment, this is just feedback that we're getting — that investors would like to see us continuing to ratchet up that leverage ratio conservatively, steadily, and responsibly. And I think that's what you're going to continue to see from the other Bitcoin treasury companies globally, again via Strive and Strategy, because it feels like that's what's working at the moment, and that's what's going to lead to a sustained MNAV that can then get the ATM working, etc.
+
+**Roxom Host (Borja):**
+(0:13:09) Jamie, what is the feedback that the FTSE and the London market — the City — is giving you guys nowadays?
+
+**Jamie (Smarter Web):**
+(0:13:25) Yes, so that's a very good question. So, the big question — it's best to break it down. When I look at conversations that we're having with institutions, I would say they're broken down into two categories. They're broken down into conversations that we're having with existing holders or people that are already invested in Bitcoin treasury companies, and then, separate to that, people that we are prospecting who are completely new and not current shareholders.
+(0:13:57) So, when I look at the first bucket — how conversations are going — I would say that we continue to see a lot of strong commitment from investors who have been very happy and supportive with the progress that we've been making. I would say that, as a generalization, institutions that are looking to offer capital at the moment are doing so with terms that require companies to give away optionality. So, for instance, you may have noticed in the market a lot of deals have been structured where equity plus warrants or equity plus some form of upside optionality suits the institution. As you guys know, we've tended to stay away from those types of structures. We did one last year — a small warrant deal in the US. We have a Bitcoin-backed convertible bond outstanding, but in general our view has been that we want to try to maintain as clean a cap structure as possible. And so, even though we've had those types of deals proposed to us, it hasn't made sense because it hasn't felt like it's in the best interest economically or to our shareholders.
+(0:15:12) So, that's the first bucket. The second bucket is really about — okay, what about UK funds that have never invested in a treasury company? What are they saying? And it's a very broad spectrum. We've got some conversations where some people are asking us, "How many Bitcoin are there?" up to some conversations where we've already met particular funds three to four times already. And within that particular category, it's very important to split them into different segments, because when people use the word "institution," it can mean many different things. The way that we probably look to split it out currently is: we split them into long funds that are value investors or investors that are UK-only mandated. So, for instance, if they would like to get an expression on Bitcoin, they can't invest in Metaplanet, they can't invest in Strategy. They may look to a treasury company and value it similar to a REIT or another holding company where they say, "Okay, this looks like it's at a discount to its MNAV. This is attractive to me." Or it allows them to get an expression of the asset in an equity wrapper.
+(0:16:31) The second sleeve that we speak with are hedge funds that tend to be more momentum-driven. They'll want to trade our volatility, which has been around 90% over the course of the last 30 days on a realized basis. And then, the third segment we speak to are — I would call them — family offices, high-net-worth individuals, and also, less so ETFs, but more the family offices and the retail high-net-worth that want a Bitcoin treasury company because it solves the question of how do I get more Bitcoin exposure with the money that I have? And that's obviously the value proposition that we have via our capital markets tools.
+(0:17:15) I've given a lot of information there. I hope that gives you a rough overview of where we are at the moment. I would say, if you were going to ask me "what's the key thing that's going to get people back involved into the Bitcoin treasury space?" — it's probably Bitcoin price itself. And I think we really need to see a consistent move higher where people feel, "Okay, we've reached a strong inflection point that's not a dead cat bounce" — that's supported either by the geopolitical situation clearing or some supportive rate outlook. And I think that would be the catalyst to really start having more institutions coming in. But we've done a lot of work to make sure that we've already had a large proportion of the conversations, so when those times come, we feel like we're in a good position to convert those conversations into new equity holders.
+
+**Roxom Host (Borja):**
+(0:18:09) This is absolutely great insight. Thank you, Jamie. Follow-up question for you on that — how much of deep buyers are the British? Like, we've had a strong Bitcoin dip, 50% from all-time high. How do you see the appetite in the UK to actually accumulate more and take the opportunity?
+
+**Jamie (Smarter Web):**
+(0:18:42) That's a very, very good question. So, I'm not sure how much you know about British culture, but British people tend to be, in general, quite conservative and quite skeptical at the same time. Now, that is a pretty broad generalization, but I think it's fair. So, with Bitcoin at the moment, I think we have seen some buying on the way down, and that's been corroborated by some of the conversations that I've been having. But actually, what I've tended to see more is instead of people buying spot, a lot of people that I speak with have actually preferred to use options expressions to get the leverage that they want and structure some of the expressions that they potentially have.
+(0:19:25) I think there's a lot of potential capital to go into Bitcoin and Bitcoin-related products in general in the UK. I'm not sure if you know, but it's actually very difficult still to buy Bitcoin in the UK. There's still a lot of market access issues — it's only really started to improve in the last 12 months. So, I feel there's a lot of pent-up capital that when we get the next wave, we'll have more products to be able to invest in. So, for instance, over the last 12 months, we've got ETNs that are now available. We have equities like Smarter Web that are now available in a tax wrapper like an ISA or a SIPP. And we've got spot that is now slightly more available via certain platforms. So, I think actually when you look at a lot of developed economies, the UK is probably one where there's a large residual amount of money to potentially be shifted into Bitcoin.
+(0:20:22) So, I think that's answered your question more from a longer-term outlook. Whereas in the short term, it still feels like yes, there's been people buying a little bit on spot, but what I've seen has actually been more via the options side.
+
+**Roxom Host (Borja):**
+(0:20:34) This is wonderful. Jamie, as we get to the last part of our segment with you today, we'd love to hear two things from you. Number one — end of May, SWC hosted a Bitcoin for corporations and Bitcoin Treasury companies event. Can you please tell the audience a little bit more about what will be happening in Bristol by the end of May?
+
+**Jamie (Smarter Web):**
+(0:21:03) Sure. So, at the end of May, on the 29th, we're going to be hosting the inaugural Bitcoin Treasuries conference in the UK. So, this is going to be the first event of its kind that will have executives from all the leading global Bitcoin treasury companies under one roof, either live or virtually. It will be a one-day event covering a variety of different topics, but really what it's about is getting thought leaders, retail, and institutions all under one roof to learn. We probably have around 300 people coming at the moment. And I think it's going to be a very unique event because Bitcoin treasury companies, as you know, are still very misunderstood. There's still a lot of work to be done explaining a lot of simple things — whether it's the model 1.0, which is the ATM accretive dilution model, or whether it's model 2.0, which is the amplification model via preferred shares.
+(0:22:07) And so, this will be a great platform for many different people to come. We've got Phong from Strategy calling in. We've got Matt Houlihan from Strive calling in. We've got Alex from Capital B, Andrew our CEO. We've got Sander from H100. We've got others from other UK Bitcoin treasury companies as well. And I think it's going to be a really strong event, and I think people will leave feeling that they've learned a lot and feel very constructive about what we're trying to build for the long term.
+
+**Roxom Host (Borja):**
+(0:22:41) Yeah, that's great. Thank you. Are you guys coming? We are going. We will be there.
+
+**Jamie (Smarter Web):**
+(0:22:46) Yeah, I thought so. I thought I saw you on the list. Okay, good. Yeah, we will see you there.
+
+**Roxom Host (Borja):**
+(0:22:50) So now, Jamie, as we hit the last bit — and as we have 500 viewers watching this live across our different social media channels — any final remarks, any final words you have to all of these people who are watching you?
+
+**Jamie (Smarter Web):**
+(0:23:08) Well, I just want to say thank you to you gents for taking the time to host me and most importantly for giving the Bitcoin treasury companies a platform to speak. I think you guys are building something really unique in the media sector. You guys do a really good job of covering all the right types of topics and a good variety of content to give people a very wide surface area of what's going on. And I really just hope I'll get another opportunity to come back at some time.
+
+**Roxom Host (Borja):**
+(0:23:36) Thank you. Thank you very much, Jamie, and 100% will do. So, thank you very much and see you next time.
+
+**Jamie (Smarter Web):**
+(0:23:44) Thank you, gents. Thank you. See you. Bye-bye.
