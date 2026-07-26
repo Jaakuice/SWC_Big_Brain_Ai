@@ -1,0 +1,59 @@
+# Why Jesse Myers Was Right About Bitcoin Treasuries (And What Everyone Misses)
+**Date: 2025-07-09**
+**Video ID: W2EZhf-sXHY**
+**URL: https://www.youtube.com/watch?v=W2EZhf-sXHY**
+**Duration: ~13:11**
+**Channel: VOSTRA**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- Jesse Myers' (Croesus_BTC) interview echoes Vostra's own mNAV thesis discussed days earlier
+- mNAV as the market's willingness to "overpay" in BTC terms for future BTC-per-share growth
+- Bitcoin treasury companies described as "capital pumps" channeling fiat capital into BTC
+- Comparing PE ratios (e.g. Apple at 35x) to "days to cover" mNAV for treasury companies
+- Smarter Web Co. cited as having one of the fastest mNAV payback periods (~35 days)
+- Breaking down valuation multiple into components: self-custody convenience, tax benefits, execution/management, clean cap table, investor support, no-discount capital plan, and market sentiment
+- Discussion of how mNAV premiums typically compress over time as a treasury strategy matures
+- Argument that consistently "delivering" on BTC-per-share growth justifies sustained premiums rather than being a bubble
+
+---
+
+**Vostra:**
+(0:00:00) Hey guys, Vostra here. I was listening to Jesse Myers's interview yesterday, and one of the things I encourage all of you to go and listen to the full interview that James did. One of the things he mentions was something very similar to what we were talking about just the other day. Guys, you know, we love talking about mNAV and valuations on this channel. So I was quite pleased that Jesse talked about the exact same thing that we were discussing after that CNBC interview where Andrew was talking about the valuation. So have a little listen to this and then we will replay what we also discussed about the same topic only a few moments before. So sit back and listen to this.
+
+**Jesse Myers (clip):**
+(0:01:00) Andrew had a great point on CNBC today of, you know, companies — what does a PE ratio mean? You're pricing in the future value, discounted future value of those future cash flows. You're discounting into the present and you factor that into the valuation of the company. And what's an mNAV? It's an expectation. It's the market's pricing of "here's how much we're willing to overpay now in Bitcoin terms," because we know that they're going to keep adding Bitcoin per share and we're waiting. The market has determined they're willing to overpay by this much in Bitcoin terms in order to get a ticket on that train, because that train is not going to stop at one to one — it's going to ostensibly keep going beyond the Bitcoin price that you are buying in on.
+
+(0:02:11) I think it's a strange concept to wrap your head around if you're in traditional finance, but it comes back to the fundamentals of Bitcoin repricing global capital. There's a massive transition from fiat capital to Bitcoin capital, and Bitcoin treasury companies are the conduits, the channels, the capital pumps — as I've described strategy — for facilitating that transfer of capital sitting in equities and in the bond market to flow into Bitcoin via Bitcoin treasury companies.
+
+(0:02:58) That's the business model: we're going to keep adding Bitcoin to the balance sheet. We have this much Bitcoin on the balance sheet today, but three weeks ago we had this much, and we've been adding Bitcoin per share relentlessly, and the mechanics allow us to continue that into the future. So what price are you willing to pay to get your seat on that train?
+
+(0:03:37) Interestingly, in the Apple scenario, you're paying a 35 PE, which literally means you're paying for 35 years — you're not expecting to get the value of your investment back for 35 years. With Bitcoin treasury companies it's a lot shorter, and with Smarter Web it has, historically, been the shortest — the number Andrew used today was 35 days to cover that mNAV. So it only takes 35 days for you to get your money back, despite having overpaid, in theory, in Bitcoin terms for that ticket on the train.
+
+**Vostra:**
+(0:04:31) Get your ticket on the train. Did you hear that? He says get your ticket on the train. 35 days to get your money back. Apple's trading at 35 times earnings, he was mentioning. The other thing — it's a capital pump. You've got capital coming in from the equity markets pumping into Bitcoin.
+
+(0:04:56) So we love talking about mNAV on this channel, and valuations and models and how this is going to evolve. So just a few days ago we were talking about the same thing. Let me play this back to you, because this touches on the exact same explanations that we've just heard, and it's quite interesting to get the take from the master himself. Excellent — really good to hear from Jesse because it corroborates a lot of what we're talking about. Have a listen to this again if you haven't seen it.
+
+(0:05:37) Right, this is what I've came up with. This also comes back to something that Andrew referred to in the CNBC — was it CNBC, yesterday? Can't remember. Yeah, the chat there talking about mNAV. So one of the things I picked up was Andrew actually mentions in the meeting that he doesn't believe he actually trades at a premium, because what he's saying there — when Andrew mentions that at one point in this interview — is that he's able to cover his days-to-cover metric and actually give that premium, if you call it a premium, back to the shareholders. So that's the level Andrew is coming at it from.
+
+(0:06:22) It's mind-blowing — Jesse said the same thing just a second ago. Listen to this, in very basic terms — I mean, we'll come on to that. So I said, right, let me think about him now, because it's not just days-to-cover — that's like a historic metric — but what's moving it in the market on a daily basis, and multiple things go into this. And it goes to some of your comments around how we should explain why people value these companies at a multiple. So I've kind of broken down some elements, and I thought, okay, how much would I pay a company, or value a company, because of some of these things. So let's quickly go run through them.
+
+(0:07:10) So we all know — bitcoiners, you're probably used to self-custody and can manage passwords and private keys — but not everybody can, right? So self-custody, it's not for everyone. Would you give a company a 1x multiple just for that? I would — take away the pain: here's my money, put it all into Bitcoin, or get me exposure to Bitcoin, I'll just give you one for that. One mNAV.
+
+(0:07:39) Tax benefits — who doesn't love tax benefits? Your SIPs, your ISAs — that's at least worth one. Execution, management, executability standard — give you one for that. Retail investor-based support, transparency, equity — I've kind of lumped all of that into one. You can do loads of videos around this, you can dive so deep into all of these subjects, but that's at least one.
+
+(0:08:15) A clean cap table — I'm definitely valuing a clean cap table. I'll probably give that... what did I give that... I'd say, okay, look, I gave that a one — no, sorry, a two. Days to cover — a five. Let's come back to this point: days to cover. I gave that a five because, in very basic terms, what this is saying is if you give me £1 now, in a month or so I'll give you 20 back — right, that was when it was trading at 20 mNAV or whatever it was at that point. But that's the trade here, and from Andrew's perspective, when you're trading at a multiple like that and you are able to deliver, in 20 or 30 days' time, that 20, then what he's saying is, "I told you so — now give me more." So at that level, you can argue you're not trading at a premium anymore, because you're following through on what you've committed.
+
+(0:09:25) I guess it's crazy — so I'd give... if somebody came up to me and said, "here, give me £1, I'll give you 20 back in about a month or so" — I'd start off, "yeah, okay, here's your £1," and then I'd come back and, "oh, actually the guy gave me £20 back, I'm going to empty my bank account out and give you the whole lot." And that's what we've been doing, I guess, or what probably will happen — more and more institutions and people investing are going to say, "right, this is okay, maybe it comes down a bit, let's see how the capital plan evolves." But yeah, this is it — a capital plan, I wrote it down here, capital plan — there is a capital plan in place, and it's not just made up on the hoof.
+
+(0:10:15) Where I'm now starting to see some of the other companies rolled out discounts — how can you go to the market and say we're never going to give discounts? I might be wrong on that, somebody can pull me up, but from what I'm reading, it's "yeah, we're not going to do any discounts here." There's a lot of discount clubs out there, but we don't do that here. And that's — I'll give you a 5x multiple for that.
+
+(0:10:41) So spark and sentiment — I actually haven't put anything on there, but if we... that's five, right? We all love getting your money back, which seems to be the case — five, two for that, that's seven. Clean cap table — you know, coming into a deal, I want to know who's got what and who's going to get what, not convoluted convertible deals and discounts and god knows what — so that's seven. Investor-based support — that's at least one, that's eight. Execution — nine. Tax — I mean, you could give tax even a two, but let's just put it down to one — that's 10, you're up to 10 already. And the self-custody troubles — so that's 11, you've just got 11 there. Spark and sentiment — you could argue this is like market exuberance, maybe that's where it gets to 20.
+
+(0:11:50) So if I scroll a bit down here, this is some work done by MicroStrategists — there are a lot of people covering multiple startup treasuries and how the mNAVs evolve over time, and they've done a lot more scientific work than I've done on this, but I like to corroborate it with how other people are viewing it. So you can see that at the start of a Bitcoin treasury strategy you start off at sort of a 20 mNAV, and then as time goes on it comes down. Now there are companies who are obviously outliers and might be able to sustain the mNAVs for a much longer time. So there's my work on mNAVs.
+
+**Vostra:**
+(0:12:45) So yeah, how about that? We're all aligned here and on the same page. I thought that was quite fascinating to hear that part of the discussion. I definitely encourage you all to listen to the rest of the interview as well — really exciting. But that's all I've got for now — it's less than 15 minutes, we're getting there. Vostra signing out. Ciao.
