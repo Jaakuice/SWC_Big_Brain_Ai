@@ -190,7 +190,7 @@ Contains structured social media data extracted from X.com (Twitter) accounts re
 
 ---
 
-### **`/Youtube/`** (175 files)
+### **`/Youtube/`** (176 files)
 - **Type:** Text files (.txt)
 - **Content:** Transcripts and summaries of YouTube videos featuring SWC, Andrew Webley, or related Bitcoin treasury content
 - **Date Range:** Apr 2025 - Jul 2026
@@ -245,8 +245,8 @@ Contains structured social media data extracted from X.com (Twitter) accounts re
 | Tweets/asjwebley | 25 | JSON, MD |
 | Tweets/Croesus_BTC | 19 | JSON, MD |
 | Tweets/smarterwebuk | 18 | JSON, MD |
-| Youtube | 175 | TXT |
-| **TOTAL** | **~494 files** | |
+| Youtube | 176 | TXT |
+| **TOTAL** | **~495 files** | |
 
 ---
 
@@ -273,5 +273,5 @@ Contains structured social media data extracted from X.com (Twitter) accounts re
 
 ---
 
-*Last Updated: Jul 2026*
+*Last Updated: Aug 2026*
 *Project Focus: The Smarter Web Company (SWC) - UK Bitcoin Treasury Company Analysis*

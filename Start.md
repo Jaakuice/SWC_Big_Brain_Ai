@@ -181,7 +181,7 @@ Provide a comprehensive answer with:
 - **Selection method:** Filter by date (YYYY-MM-DD prefix) or title keywords
 - **Key series:** "A Week In The World Of SWC" (Episodes #3-21), "Smarter Webley Wednesdays", mNAV updates
 - **Triggers:** YouTube, video, interview, podcast, transcript, what did Andrew say, CEO commentary, strategy discussion, Bitcoin Treasuries World, BTW, Week In The World, mNAV update, investor call, presentation, panel, conference, True North Now, IG interview
-- **Date range:** Apr 2025 - Jul 2026 (175 files)
+- **Date range:** Apr 2025 - Jul 2026 (176 files)
 - **Use for:** CEO insights, strategy discussions, real-time commentary, investor presentations
 
 ### Andrew Webley Statements/Perspective
