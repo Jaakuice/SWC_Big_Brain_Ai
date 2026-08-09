@@ -57,9 +57,9 @@ This index maps queries to relevant data sources and provides selection guidance
 - Cross-reference with RNS for purchase dates
 - Use code execution for filtering, aggregation, plots
 
-### `/RNS/` (161 files)
+### `/RNS/` (162 files)
 **Purpose:** Official regulatory announcements
-**Date Range:** Apr 2025 - Jul 2026
+**Date Range:** Apr 2025 - Aug 2026
 **Triggers:** RNS, regulatory, official announcement, Bitcoin purchase announcement, placing, fundraise, bookbuild, subscription, director appointment, TR1, major shareholder, trading update, AGM, general meeting, results, official filing, when did SWC buy Bitcoin, how much did they raise, new director
 **Key Types:**
 - Bitcoin purchase announcements (filter by "Bitcoin" or "purchase")
@@ -74,9 +74,9 @@ This index maps queries to relevant data sources and provides selection guidance
 - Keyword search in filenames for type-specific queries
 - Cross-reference with CSV for quantitative validation
 
-### `/Youtube/` (176 .txt files)
+### `/Youtube/` (179 .txt files)
 **Purpose:** Video transcripts with CEO insights and strategy discussions
-**Date Range:** Apr 2025 - Jul 2026
+**Date Range:** Apr 2025 - Aug 2026
 **Triggers:** YouTube, video, interview, podcast, transcript, what did Andrew say, CEO commentary, strategy discussion, Bitcoin Treasuries World, BTW, Week In The World, mNAV update, investor call, presentation, panel, conference, True North Now, IG interview
 **Key Series:**
 - "A Week In The World Of SWC" (Episodes #3-22) - Weekly updates

@@ -1,0 +1,47 @@
+# Bitcoin 5: Strategy, Clarity, Smarter Web Latest and More!
+**Date: 2026-08-03**
+**Video ID: 3V9a_V0-V1g**
+**URL: https://www.youtube.com/watch?v=3V9a_V0-V1g**
+**Duration: ~5:41**
+**Channel: Matthew Kerridge**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- Bitcoin trading roughly flat near $63,800, up 176.8% over 4 years
+- New data shows over 3 million BTC (~15% of total supply) permanently lost to self-custody errors and exchange failures
+- Smarter Web Company adds 11.89 BTC, now holds 2,712 BTC; raised capital via ATM facility and warrant exercises
+- Smarter Web repays Smart Convert, cuts Coinbase credit facility rate to 6%, cleaning up capital structure
+- Coinbase launches ad campaign pressuring Senate to pass the Bitcoin Clarity Act; 82% of Americans back clearer crypto rules
+- Bitcoin testing critical 200-week moving average support level
+- Strategy (Michael Saylor) sells $104M more in Bitcoin, total 2026 sales reach $322M; hasn't bought BTC in 6 weeks
+- Saylor clarifies Bitcoin sales are corporate treasury management, not a shift in personal conviction
+- Strategy boosts USD reserves to $4B and repurchases $81M of STRC, aiming to restore $100 par value
+
+---
+
+**Host:**
+(0:00:00) Welcome back to the daily Bitcoin five. Five stories every day that matter to Bitcoin. Today on the Bitcoin five, strategy with another Bitcoin sale, but it's not what it first seems. Let's go.
+
+(0:00:11) Before the stories, the Bitcoin price check. Current price about $63,800. Bitcoin is trading nearly flat over the past month, up 3% from 4 weeks ago at about $62,000, while slipping 1.4% over the past 4 days. The real story remains the 4-year performance, a staggering 176.8% gain from about $23,100 in August 2022, underscoring Bitcoin's long-term trajectory even amid recent sideways price action.
+
+(0:00:44) Story five, over 3 million Bitcoin permanently lost, new data shows. New research reveals sobering statistics on permanently lost Bitcoin. 1.57 million Bitcoin lost through self-custody errors and 1.51 million Bitcoin lost on exchanges, totaling over 3 million Bitcoin, roughly 15% of the total supply that will ever exist. The data underscores the ongoing tension between self-custody security and exchange risk. Self-custody losses typically result from lost private keys, forgotten passwords, damaged hardware, or user error, while exchange losses stem from hacks, fraud, and platform failures.
+
+(0:01:26) Story four, Smarter Web adds 11.89 Bitcoin as treasury structure strengthens. The Smarter Web Company added 11.89 Bitcoin, bringing its total holdings to 2,712 Bitcoin. The company also raised $1.02 million through its ATM-style facility and a further $71,875 through warrant exercises. Smarter Web provided new details on its institutional-grade custody arrangements, increasing transparency around how its Bitcoin treasury is secured.
+
+(0:02:01) Quarter-to-date Bitcoin yield stands at minus 4.8%, largely due to the repayment of Smart Convert, leaving the company with no convertible instruments outstanding. Smarter Web also reduced the interest rate on its Coinbase credit facility to 6%, with no additional charges for early repayment. The broader signal is a cleaner capital structure, lower financing costs, and a continued focus on expanding its Bitcoin treasury. Smarter Web's acceleration in capital markets activity over the last 2 weeks could indicate the UK's first perpetual preferred digital credit product is nearing ever closer.
+
+(0:02:38) Story three, Coinbase launches major ad campaign pushing Senate on Bitcoin clarity. [Ad urges the] Senate to pass the Bitcoin Clarity Act, escalating pressure on lawmakers to provide a regulatory framework for digital assets. The campaign highlights that 82% of Americans support clearer crypto regulations. The push comes as Bernstein, an $800 billion investment firm, warned that failure to pass the Clarity Act could trigger accelerated enforcement actions from both the SEC and CFTC.
+
+(0:03:07) Story two, Bitcoin tests critical 200-week moving average support. Bitcoin is trading almost exactly on its 200-week moving average, a historically significant support level that has proven reliable throughout multiple market cycles. Since this indicator became available, Bitcoin has traded above the 200 WMA 92% of the time, making the current test a key technical moment.
+
+(0:03:32) Analyst Ash Crypto notes that Bitcoin closed July up 7.3% while holding above the monthly MA 50 at about $60,800. The chart suggests a typical 1-year bear cycle pattern with 3 to 4 months of sideways movement possible before the next bull run.
+
+(0:03:50) Story one, Strategy sells another $104 million in Bitcoin. Michael Saylor's Strategy sold 1,638 Bitcoin worth $105 million, bringing total 2026 sales to $322 million. The company now holds 842,138 Bitcoin and hasn't purchased Bitcoin for 6 weeks straight, marking a notable shift in treasury strategy. The sales sparked speculation about Saylor's personal conviction, prompting him to clarify his position directly.
+
+(0:04:22) "Strategy is a public company, not my wallet," he added, noting the company has disclosed since 2020 that it may buy or sell Bitcoin to manage capital. The key isn't the Bitcoin sale, but the purpose behind raising these funds. Strategy used some of these funds to increase its USD reserve by $250 million, bringing the total USD reserve to $4 billion, now covering all dividend liabilities for 2.3 years. Strategy also repurchased $81 million of STRC, over three times the amount of the week before. 20 minutes before close, STRC is trading up 3.2% at $92.37.
+
+(0:05:04) Strategy have been very clear that their number one corporate objective is for STRC to trade back at $100 par, and it seems pockets of the market are joining Strategy on the run back up to $100. All eyes will be on just how long it takes for the remaining gap to close. Then, when STRC is back at $100 par, the fun can really begin.
+
+(0:05:25) That's today's Bitcoin five. Let me know your favorite story from today in the comments below, and subscribe now so tomorrow's update lands directly in your feed. I'll see you tomorrow.

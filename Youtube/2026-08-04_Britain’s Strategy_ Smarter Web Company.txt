@@ -1,0 +1,65 @@
+# Britain’s Strategy? Smarter Web Company
+**Date: 2026-08-04**
+**Video ID: Hxmdp1ykPaQ**
+**URL: https://www.youtube.com/watch?v=Hxmdp1ykPaQ**
+**Duration: ~7:52**
+**Channel: Bitcoin Notes**
+**Source: YouTube**
+
+---
+
+## Key Topics:
+- Andrew Webley's background at Hargreaves Lansdown and founding of his web agency
+- Reverse takeover of a dormant shell company to gain a stock market listing
+- Early backing from Tyler Evans/UTXO Management and David Bailey
+- Launching the Bitcoin treasury strategy and rapid share price surge above £1 billion
+- How the "premium to NAV" fueled capital raises and further Bitcoin purchases
+- The share price collapse and premium turning into a discount to NAV
+- Bristol shareholder meeting, personal exposure, and messaging to investors
+- Warrant buybacks, Coinbase borrowing, and selling Bitcoin to retire a convertible
+- Tracking "Bitcoin per share" as the key performance metric
+- Current standing: ~2,700 BTC held, ranked 29th globally, still trading below NAV
+
+---
+
+**Host:**
+(0:00:00) It would be great if there was a company in the UK that I could invest in that was similar to strategy then called MicroStrategy and and as many of you will know, I I struggled to find one. In the summer of 2025, a web designer from Bristol called Andrew Webley was running one of the hottest stocks in the world. His company had gone from 3.7 million pounds to more than 1 billion in 2 months. A year later, it was worth less than the Bitcoin sitting in its own treasury. This is the story of how a small web agency became Britain's biggest corporate Bitcoin holder and what happened when the hype ran out. Webley spent around 10 years at Hargreaves Lansdown, one of Britain's biggest investment platforms, where he became head of online and worked, by his own account, very long hours. He left, started his own agency in 2009, and wrote the software himself. In 2017, he found Bitcoin.
+
+**Andrew Webley:**
+(0:00:51) So, I I have this business and then about, I don't know, 8 years ago, let's say, I find Bitcoin. Um I bought a bit, sold a bit, bought a bit, sold a bit.
+
+**Host:**
+(0:01:00) Later, he bought shares in MicroStrategy, watched Michael Saylor turn a software firm into a Bitcoin buying machine, and spent years looking for a British company doing the same thing, but there wasn't one. "I had had enough of waiting," he later told shareholders. So, he decided to build it himself. List my business on the stock market, you know, a technology business, a web design company, a CMS company, whatever you want to call it. To get on the stock market, he found a shortcut. An old public company was sitting empty in London. Founded in 1907, it had spent a century making buttons, then become a shell, then renamed itself Uranium Energy Exploration for a mining deal that fell apart before it started. By late 2024, it was broke, its own auditors doubted it would survive, and that made it cheap, which was exactly what Webley needed. In January 2025, he joined its board. So did Tyler Evans of UTXO Management, the Bitcoin fund owned by the publisher of Bitcoin Magazine, run together with David Bailey. That fund had already backed Metaplanet in Japan, and now it put in the biggest slice of the early money and ended up owning more than a quarter of the company.
+
+**Tyler Evans:**
+(0:02:03) But yeah, so we we did like 20 of these and like the Metaplanet was super successful but it wasn't even the most successful one. The it was actually Smarter Web that was the the most successful.
+
+**Host:**
+(0:02:13) Webley sold his agency into the shell for 90,000 pounds in cash plus shares, put in 40,000 of his own money and later called Bailey and Evans our original backers. And the plan was written down from day one. The company would keep its capital in cash and Bitcoin. The shares started trading in April 2025. Two days later the company announced the 10-year plan and started buying Bitcoin, a couple of coins at first. The share price quickly rose above the value of the Bitcoin the company held. That premium let them sell new shares at higher prices. The new money bought more Bitcoin and more Bitcoin pulled in more buyers. Within two months this unknown web agency was worth over a billion pounds. The only company ever to reach that level on its exchange. Webley's inbox filled up with messages from shareholders. The stock had paid for their weddings. It had cleared their mortgages. At the end of June the company bought nearly 200 coins in a single go. It's biggest purchase so far taking the treasury past 500. The same week it raised over 40 million pounds from investors paying 2.90 a share, more than 100 times the listing price of 9 weeks earlier and Webley sat down in London with Michael Saylor himself. That same week the stock had its worst run since the listing. Webley called it the best week ever for the business and the worst week ever for the share price and admitted to shareholders he could only guess why. Through July the machine ran at full speed buying hundreds of coins a week. 500 became 1,000 then 2,100 by early August. The company climbed the global list of corporate Bitcoin holders from number 44 to number 25 in under two months, bigger than every other British public company combined.
+
+**Interviewer:**
+(0:03:52) That here MNAV, you guys are like at what an MNAV of 10?
+
+**Andrew Webley:**
+(0:03:56) It's a bit lower actually. Um so today it's probably you know around about six. It probably floats between five, seven, maybe eight.
+
+**Host:**
+(0:04:03) Through the autumn, the premium shrank, then disappeared, then flipped. And you could read it straight off the buying. The company that had bought 300 coins in a single week in July was soon buying 25, then 10, then four. By late November, the shares were down more than 70% and the whole company was worth less than the Bitcoin it held. Webley could have buried that fact. Instead, he wrote it out himself in a letter he sent shareholders every Friday night and added, "I cannot control the markets, but I do control what we do." Then he announced he was canceling conferences and events to spend more time at his desk. Nine days later, he gathered his shareholders in Bristol at a venue he picked for its connection to Concord. He told them he grew up with pictures of Concord on his wall and that he watched it fly over his old office on its final flight. Then he laid out where things stood. The last months had been hard. His wife had reminded him that the share price is just one metric.
+
+**Andrew Webley:**
+(0:04:56) The developments that we've had just over the last couple of months, um you know, the company's the company's looking stronger and stronger every single week uh with the the team and so forth that we've we put together. Um but
+
+**Host:**
+(0:05:10) The discount was upsetting, the market felt a little unfair, but it is what it is. Then he told the room how exposed he personally was. Almost 100% of everything Webley owns is in Bitcoin and Bitcoin treasury companies. Apart from a little Nvidia his son holds, there's nothing else.
+
+**Andrew Webley:**
+(0:05:25) I have almost 100% of everything that I own in Bitcoin and Bitcoin treasury companies. Um and I genuinely believe that it's it's the only asset that's worth holding.
+
+**Host:**
+(0:05:37) Nine weeks later on the 3rd of February, 2026, Webley rang the bell at the London Stock Exchange. Ordinary shareholders were waiting at the exchange, picked by a raffle on the company's own website.
+
+**Interviewer:**
+(0:05:48) Andrew was there to ring the bell for the LSE at 8:00 a.m. yesterday along with 100 shareholders, the management team, and their families. Quite the moment, Andrew. How did that feel?
+
+**Host:**
+(0:06:02) He kept building. He bought a second web agency because the boring business nobody wanted to hear about at the start was suddenly what more than half the institutions he met asked about. With the shares on the floor, the company bought back its own warrants at a discount, which Webley says worked out like buying Bitcoin at $49,000, a price the market never actually fell to. "We bought the bottom," he said, "when the market didn't even go that low." Borrowed from Coinbase to add what he calls responsible leverage. The buying picked back up through the spring, a few dozen coins at a time until the treasury was closing in on 3,000. And then in July, the company did the one thing Bitcoin treasury companies dread. It sold close to 180 coins to kill off a convertible and walked away with a simpler balance sheet, roughly 2,700 Bitcoin and a single loan. The number he tells shareholders to judge him on is Bitcoin per share, and that story runs like this. At the listing, there was no Bitcoin behind the shares at all. In the first full quarter, Bitcoin per share more than quadrupled. It even kept inching up through the worst of the crash. And by this summer, after a year of raises, buybacks, and one painful sale, every share carried 750 sats. So, where's that lead the web designer from Bristol? The company survived the crash but hasn't recovered. The shares sit around 30 p, a tenth of what investors paid in that June fund raise. It's still around 12 times the listing price. The business Webley raised almost a quarter of a billion pounds to build still trades below the value of its own Bitcoin. Ranked number 29 in the world and still the largest holder among British public companies. His answer is not changed. "I will keep buying Bitcoin," he wrote. "I will keep holding Bitcoin forever." In Smarter Web company and its fellow Bitcoin treasury companies turn things around or is the Bitcoin treasury model finished? What do you think?

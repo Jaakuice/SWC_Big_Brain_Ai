@@ -112,10 +112,10 @@ Contains historical media coverage and appearances related to SWC.
 
 ---
 
-### **`/RNS/`** (161 files)
+### **`/RNS/`** (162 files)
 - **Type:** Text documents
 - **Content:** Regulatory News Service (RNS) announcements - official company filings and disclosures required by UK stock exchange regulations
-- **Date Range:** Apr 2025 - Jul 2026
+- **Date Range:** Apr 2025 - Aug 2026
 - **Key Document Types:**
   - IPO and admission documents
   - Bitcoin purchase announcements
@@ -190,10 +190,10 @@ Contains structured social media data extracted from X.com (Twitter) accounts re
 
 ---
 
-### **`/Youtube/`** (176 files)
+### **`/Youtube/`** (179 files)
 - **Type:** Text files (.txt)
 - **Content:** Transcripts and summaries of YouTube videos featuring SWC, Andrew Webley, or related Bitcoin treasury content
-- **Date Range:** Apr 2025 - Jul 2026
+- **Date Range:** Apr 2025 - Aug 2026
 - **Video Types:**
   - "A Week In The World Of SWC" weekly series (Episodes #3-22)
   - "Smarter Webley Wednesdays" regular segments on Bitcoin Treasuries World
@@ -239,14 +239,14 @@ Contains structured social media data extracted from X.com (Twitter) accounts re
 | knowledge | 10 | MD, CSV |
 | Legacy media/News articles | 12 | TXT |
 | Legacy media/Tv appearances | 1 | TXT |
-| RNS | 161 | TXT |
+| RNS | 162 | TXT |
 | Smarter Web | 32 | TXT |
 | Tennyson | 20 | PDF |
 | Tweets/asjwebley | 25 | JSON, MD |
 | Tweets/Croesus_BTC | 19 | JSON, MD |
 | Tweets/smarterwebuk | 18 | JSON, MD |
-| Youtube | 176 | TXT |
-| **TOTAL** | **~495 files** | |
+| Youtube | 179 | TXT |
+| **TOTAL** | **~499 files** | |
 
 ---
 

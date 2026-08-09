@@ -1,0 +1,191 @@
+03 August 2026
+
+The Smarter Web Company PLC
+(“The Smarter Web Company” or the "Company")
+Bitcoin Purchase, Coinbase Facility Update, Subscription Agreement Update, InstitutionalGrade Custody and Exercise of Warrants
+The Smarter Web Company (LSE: SWC | OTCQB: TSWCF | FRA: 3M8) announces the purchase
+of additional Bitcoin as part of “The 10 Year Plan” which includes an ongoing treasury policy
+of acquiring Bitcoin. Details are as follows:
+•
+•
+•
+
+Number of Bitcoin Purchased: 11.89 Bitcoin
+Average Purchase Price: £47,052 per Bitcoin ($63,328 per Bitcoin)
+Amount Purchased: £559,493
+
+•
+•
+•
+•
+•
+
+Total Bitcoin Holdings: 2,712 Bitcoin
+Net Average Purchase Price: £82,886 per Bitcoin ($111,548 per Bitcoin)
+Gross Bitcoin Purchases: £233,532,603
+Gross Bitcoin Sales: £8,745,918
+Net Bitcoin Purchases: £224,786,685
+
+•
+
+The Company has achieved a Quarter-to-Date BTC Yield* of -4.80% on its treasury
+
+* As defined below
+
+Coinbase Strategic Credit Facility
+Following the Bitcoin purchase set out above, total drawings under the facility remain
+unchanged at £18,500,000, representing an approximate leverage ratio of 17%. The Company
+will continue to provide updates on any material drawdowns or repayments in future
+regulatory announcements.
+The Company is also pleased to announce that the terms of the facility with Coinbase have
+been improved. The loan is secured against the Company’s existing Bitcoin holdings, carries a
+competitive variable interest rate of 6% (previously 6.75% to 7.25%), and is repayable without
+additional charges at the Company’s discretion.
+Subscription Agreement Update - £1m Gross Proceeds
+The Company also announces that 3,300,000 ordinary shares of £0.001 nominal value each
+(the "Ordinary Shares") have been placed in accordance with the terms of the Subscription
+Agreement announced on 24 December 2025 (the “Subscription Shares”).
+The gross proceeds from the placing of the Subscription Shares will be £1,016,250 (before
+expenses), equivalent to approximately £0.31 per share, and the Company will receive
+
+approximately 98.25% of the proceeds as settlement. The balance of Ordinary Shares not yet
+placed pursuant to the Subscription Agreement is 44,149,230.
+Institutional-Grade Custody
+As a corporate holder of Bitcoin, the Company endeavours to engage institutional-grade
+custodians in its efforts to safeguard its treasury assets.
+The Company does not self-custody its Bitcoin. Instead, its holdings are secured through a
+select group of institutional-grade custodians chosen following ongoing assessment of factors
+including security, operational resilience, regulatory standards, service quality and overall
+commercial considerations. Each of the providers is subject to regulatory oversight in the
+jurisdiction in which it operates, including compliance with relevant anti-money laundering
+regulations.
+While self-custody can be an appropriate solution for individuals with the necessary technical
+expertise, the Company believes that professionally managed institutional custody provides
+a robust framework for safeguarding treasury assets.
+We recognise that recent events have highlighted the importance of robust custody
+arrangements and sympathise with those who have been impacted. Our custody strategy has
+always prioritised security, diversification across trusted providers, and institutional best
+practice.
+For security reasons, the Company does not disclose the allocation of Bitcoin holdings
+between custodians. Allocations are reviewed and adjusted from time to time as part of the
+Company's ongoing risk management and treasury governance framework.
+The Company's current custody providers are:
+•
+•
+•
+•
+•
+
+Coinbase Inc., Coinbase Custody Trust Company, LLC, and other Coinbase entities
+Xapo Bank Limited
+Fidelity Digital Assets Ltd
+Anchorage Digital Bank National Association
+Payward Financial, Inc. (d/b/a Kraken Financial)
+
+Exercise of Warrants
+The Smarter Web Company also announces the following exercise of warrants.
+A total of 2,875,000 warrants have been exercised at £0.025 per share, resulting in gross
+proceeds of £71,875. Accordingly, 2,875,000 Ordinary Shares have been issued pursuant to
+the warrant exercises.
+Following this exercise, 32,428,732 warrants remain outstanding, each with an exercise price
+of £0.025 per share. Of the total number of warrants outstanding, 25,778,732 are held by
+Andrew Webley, Chief Executive Officer of the Company, and his spouse, with a further
+1,450,000 warrants held by directors and employees of the Company.
+Total Voting Rights
+
+In accordance with the Financial Conduct Authority's Disclosure and Transparency Rules, the
+Company hereby announces that it has 374,840,705 Ordinary Shares in issue, each share
+carrying the right to one vote. The Company does not hold any Ordinary Shares in treasury.
+The above figure of 374,840,705 Ordinary Shares may be used by shareholders in the
+Company as the denominator for the calculations by which they will determine if they are
+required to notify their interest in, or a change to their interest in, the share capital of the
+Company under the Financial Conduct Authority's Disclosure and Transparency Rules.
+Director Declaration
+In accordance with UKLR 6.4.9(2)R, the Company also announces that Randal Casson, an
+independent non-executive director of the Company, has today been appointed as an
+independent non-executive director of Future plc, a company listed on the Main Market of
+the London Stock Exchange, with immediate effect.
+Notification of Admission of Further Securities to Trading (PRM 1.6.4R)
+The following notification is made in accordance with The Public Offers and Admissions to
+Trading Regulations 2024 (POATRs) PRM 1.6.4R.
+1
+
+Details of the issuer
+
+a)
+
+Name
+
+The Smarter Web Company plc
+
+b)
+
+LEI
+
+213800VQO9FUG4PZMP73
+
+2
+
+Details of the transferable securities admitted to trading
+
+a)
+
+Name, type and identification
+code
+
+Ordinary Shares of £0.001 each
+
+b)
+
+Regulated market
+
+London Stock Exchange - Main Market
+
+c)
+
+Number of further securities
+issued and admitted
+
+2,875,000
+
+d)
+
+Total number of securities in issue
+following admission
+
+374,840,705
+
+e)
+
+Fungibility
+
+Fully fungible with existing Ordinary Shares
+
+3
+
+Admission details
+
+a)
+
+Date of admission
+
+Issued between 01 July 2026 to 31 July 2026 (admitted
+under a block admission dated 24 April 2026)
+
+b)
+
+Prospectus information
+
+N/A
+
+ISIN: GB00BPJHZ015
+
+c)
+
+Coverage of notification
+
+Admission to trading on the Main Market of the London
+Stock Exchange of shares issued pursuant to the exercise
+of the Company’s Pre-IPO Warrants during the period 01
+July 2026 and 31 July 2026, under the Company’s block
+admission dated 24 April 2026.
