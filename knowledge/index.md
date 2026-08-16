@@ -74,7 +74,7 @@ This index maps queries to relevant data sources and provides selection guidance
 - Keyword search in filenames for type-specific queries
 - Cross-reference with CSV for quantitative validation
 
-### `/Youtube/` (179 .txt files)
+### `/Youtube/` (182 .txt files)
 **Purpose:** Video transcripts with CEO insights and strategy discussions
 **Date Range:** Apr 2025 - Aug 2026
 **Triggers:** YouTube, video, interview, podcast, transcript, what did Andrew say, CEO commentary, strategy discussion, Bitcoin Treasuries World, BTW, Week In The World, mNAV update, investor call, presentation, panel, conference, True North Now, IG interview
