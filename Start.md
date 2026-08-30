@@ -174,7 +174,7 @@ Provide a comprehensive answer with:
 - **Selection method:** Filter by date (filename contains YYYY-MM-DD) or keyword (e.g., "Bitcoin", "placing", "director", "results")
 - **Types:** IPO/admission, Bitcoin purchases, share issuances, director appointments, trading updates, TR1 notifications, financial statements, corporate governance
 - **Triggers:** RNS, regulatory, official announcement, Bitcoin purchase announcement, placing, fundraise, bookbuild, subscription, director appointment, TR1, major shareholder, trading update, AGM, general meeting, results, official filing, when did SWC buy Bitcoin, how much did they raise, new director
-- **Date range:** Apr 2025 - Aug 2026 (162 files)
+- **Date range:** Apr 2025 - Aug 2026 (164 files)
 
 ### YouTube Updates/Interviews
 **Location:** `/Youtube/` .txt files

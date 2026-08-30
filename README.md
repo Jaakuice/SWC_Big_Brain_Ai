@@ -2,7 +2,7 @@
 
 > **A comprehensive dataset for analyzing the first UK-listed company with a Bitcoin treasury strategy**
 
-[![Data](https://img.shields.io/badge/Data-421%20files-blue)](https://github.com/Jaakuice/SWC_Big_Brain_Ai)
+[![Data](https://img.shields.io/badge/Data-423%20files-blue)](https://github.com/Jaakuice/SWC_Big_Brain_Ai)
 [![YouTube](https://img.shields.io/badge/YouTube-182%20transcripts-red)](https://github.com/Jaakuice/SWC_Big_Brain_Ai)
 [![Tweets](https://img.shields.io/badge/Tweets-5,784%20posts-1DA1F2)](https://github.com/Jaakuice/SWC_Big_Brain_Ai)
 
@@ -31,7 +31,7 @@ This repository contains a comprehensive, structured dataset for analyzing **The
 ### What Makes This Dataset Valuable
 
 - **First-of-its-kind:** First UK-listed company with Bitcoin treasury strategy; now on LSE Main Market and FTSE All-Share
-- **Comprehensive coverage:** 182 YouTube transcripts, 162 regulatory filings, financial time-series data, and social media archives
+- **Comprehensive coverage:** 182 YouTube transcripts, 164 regulatory filings, financial time-series data, and social media archives
 - **Multi-source analysis:** Combines official regulatory data (RNS), quantitative metrics (CSV), CEO commentary (tweets/YouTube), and independent analysis
 - **Time-series depth:** Data spans from pre-IPO (March 2025) through Aug 2026, capturing the complete journey from IPO to growth
 - **AI-ready:** Optimized for use with AI tools like Claude Projects, enabling progressive disclosure and intelligent querying
@@ -56,12 +56,12 @@ This dataset enables deep analysis across multiple dimensions:
 | **CEO Tweets** | 1286,090 | @asjwebley curated posts | Jun 2024 - Jul 2026 |
 | **Company Tweets** | 403 | @smarterwebuk curated posts | Mar 2025 - Jul 2026 |
 | **HoBS Tweets** | 1160 | @Croesus_BTC curated posts | Feb 2025 - Jul 2026 |
-| **RNS Filings** | 162 | Regulatory filings | Apr 2025 - Aug 2026 |
+| **RNS Filings** | 164 | Regulatory filings | Apr 2025 - Aug 2026 |
 | **Research Reports** | 21 | Tennyson broker analysis | May 2025 - Oct 2025 |
 | **Financial Data** | 1 | CSV time-series (hourly/daily) | Apr 2025+ |
 | **Company Docs** | 32 | Prospectus, admission docs, annual reports, AoA, governance, accounts | Various |
 | **Media Articles** | 12 | News coverage, TV appearances | Mar 2025 - Feb 2026 |
-| **TOTAL** | **~421 files** | | |
+| **TOTAL** | **~423 files** | | |
 
 ---
 
