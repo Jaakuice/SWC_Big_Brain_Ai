@@ -112,10 +112,10 @@ Contains historical media coverage and appearances related to SWC.
 
 ---
 
-### **`/RNS/`** (164 files)
+### **`/RNS/`** (165 files)
 - **Type:** Text documents
 - **Content:** Regulatory News Service (RNS) announcements - official company filings and disclosures required by UK stock exchange regulations
-- **Date Range:** Apr 2025 - Aug 2026
+- **Date Range:** Apr 2025 - Sep 2026
 - **Key Document Types:**
   - IPO and admission documents
   - Bitcoin purchase announcements
@@ -239,14 +239,14 @@ Contains structured social media data extracted from X.com (Twitter) accounts re
 | knowledge | 10 | MD, CSV |
 | Legacy media/News articles | 12 | TXT |
 | Legacy media/Tv appearances | 1 | TXT |
-| RNS | 164 | TXT |
+| RNS | 165 | TXT |
 | Smarter Web | 32 | TXT |
 | Tennyson | 20 | PDF |
 | Tweets/asjwebley | 25 | JSON, MD |
 | Tweets/Croesus_BTC | 19 | JSON, MD |
 | Tweets/smarterwebuk | 18 | JSON, MD |
 | Youtube | 182 | TXT |
-| **TOTAL** | **~504 files** | |
+| **TOTAL** | **~505 files** | |
 
 ---
 
@@ -273,5 +273,5 @@ Contains structured social media data extracted from X.com (Twitter) accounts re
 
 ---
 
-*Last Updated: Aug 2026*
+*Last Updated: Sep 2026*
 *Project Focus: The Smarter Web Company (SWC) - UK Bitcoin Treasury Company Analysis*
