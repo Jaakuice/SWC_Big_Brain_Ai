@@ -1,0 +1,828 @@
+THIS DOCUMENT IS IMPORTANT AND REQUIRES YOUR IMMEDIATE ATTENTION. If you are in
+any doubt about the contents of this document or as to what action you should take, you should immediately
+consult your stockbroker, bank manager, solicitor, accountant, fund manager or other independent ﬁnancial
+adviser duly authorised under the Financial Services and Markets Act 2000 (as amended) if you are a resident
+of the United Kingdom of Great Britain and Northern Ireland ("United Kingdom") or, if not, another
+appropriately authorised independent professional adviser.
+If you have sold or otherwise transferred all your ordinary shares of nominal value £0.001 each ("Ordinary
+Shares") in the capital of The Smarter Web Company PLC (the "Company"), please send this document
+and the accompanying proxy form (the "Form of Proxy") as soon as possible to the purchaser or transferee,
+or to the stockbroker or other agent through whom the sale or transfer was effected for transmission to the
+purchaser or transferee. If you have sold or otherwise transferred some (but not all) of your Ordinary Shares,
+please retain these documents and consult the stockbroker or other agent through whom the sale or transfer
+was effected.
+The distribution of this document in jurisdictions other than the United Kingdom may be restricted by law
+and therefore persons into whose possession this document comes should inform themselves of and observe
+such restrictions. Any failure to comply with these restrictions may constitute a violation of the securities laws
+of any such jurisdiction. This document does not constitute any offer to issue or sell or a solicitation of any
+offer to subscribe for or buy existing Ordinary Shares or any other securities of the Company.
+
+The Smarter Web Company PLC
+(Incorporated and registered in England and Wales with registered number 00092343)
+
+PROPOSED CREATION OF PREFERRED SHARES
+NOTICE OF GENERAL MEETING
+
+Notice of the general meeting to be held at 160 Aztec West, Almondsbury, Bristol BS32 4TU, United
+Kingdom on 28 September 2026 at 10.00 a.m. (the "General Meeting") is set out on page 5 of this
+document. A copy of this document is available on the website of the Company at
+https://www.smarterwebcompany.co.uk/. Your attention is drawn to the letter from the Non-Executive
+Chairman on page 3 of this document.
+A Form of Proxy is also enclosed with this document for use at the General Meeting. Forms of Proxy should
+be completed and returned to the Company's registrars, Share Registrars Limited ("Registrars") of 3 The
+Millennium Centre, Crosby Way, Farnham, Surrey GU9 7XX, United Kingdom as soon as possible and in
+any event to be received not later than 48 hours (excluding non-business days) before the time ﬁxed for the
+General Meeting.
+Alternatively, holders of Ordinary Shares ("Shareholders") can register their vote(s) for the General Meeting
+by visiting www.shareregistrars.uk.com, clicking on the "Proxy Vote" button and then following the on-screen
+instructions (the relevant log-in details, i.e., user name and access code, can be located on the top of the
+Form of Proxy).
+No person has been authorised to give any information or make any representation other than those
+contained in this document and, if given or made, such information or representation must not be relied on
+as having been so authorised. The delivery of this document shall not, under any circumstances, create any
+implication that there has been no change in the affairs of the Company since the date of this document or
+that the information in it is correct as at any subsequent time.
+
+EXPECTED TIMETABLE OF PRINCIPAL EVENTS
+Event
+
+Time and date
+
+Publication of this document
+
+11 September 2026
+
+Latest time and date for receipt of Forms of Proxy
+
+10.00 a.m. on 24 September 2026
+
+General Meeting
+
+10.00 a.m. on 28 September 2026
+
+Announcement of the results of the General Meeting
+
+28 September 2026
+
+Notes
+Each of the times and dates set out above and mentioned elsewhere in this document may be subject to change at the absolute
+discretion of the Company. If the expected times and dates set out above change, the Company will give notice of this by issuing an
+announcement via a Regulatory Information Service. All times referred to in this document are, unless otherwise stated, references to
+the time in London, United Kingdom.
+
+2
+
+LETTER FROM THE NON-EXECUTIVE CHAIRMAN OF THE COMPANY
+THE SMARTER WEB COMPANY PLC
+(Incorporated and registered in England and Wales with registered number 00092343
+
+and whose registered address is at 160 Aztec West, Almondsbury, Bristol BS32 4TU, United Kingdom)
+Directors of the Company (the "Directors" or the "Board"):
+Sean Edward Wade (Non-Executive Chairman)
+Andrew Webley (Chief Executive Ofﬁcer)
+Tyler Matthew Evans (Non-Executive Director)
+Randal Casson (Non-Executive Director)
+Martin Thomas (Non-Executive Director)
+11 September 2026
+To the Shareholders of The Smarter Web Company PLC
+
+Notice of General Meeting
+Dear Shareholder
+I am pleased to invite you to the General Meeting of the Company, which will be held at 160 Aztec West,
+Almondsbury, Bristol BS32 4TU, United Kingdom on 28 September 2026 at 10.00 a.m.
+The resolutions to be proposed at the General Meeting are set out in the notice of General Meeting (the
+"Notice") on pages 5 to 6 of this document (each, a "Resolution") and the notes to the Notice appear on
+pages 7 to 11 of this document (the "Notes to the Notice"). If you would like to vote on the Resolutions
+but are unable to attend the General Meeting, you are strongly encouraged to complete the Form of Proxy
+sent to you with this document and return it to our Registrars, Share Registrars Limited, as soon as possible.
+The Registrars must receive the completed Form of Proxy by 10.00 a.m. on 24 September 2026 (or, in the
+event of any adjournment, not less than 48 hours (excluding non-business days) before the time of the
+adjourned General Meeting), to ensure that your vote is counted. Further details on the appointment of a
+proxy are set out in the Notes to the Notice.
+
+Background to the Resolutions
+The Resolutions being put to the Shareholders at the General Meeting are to enable the creation of a new
+class of preferred shares of nominal value £0.001 each in the capital of the Company (the "Preferred
+Shares") and other matters relating to the Preferred Shares.
+Shareholder approval of the Resolutions is required in order for the Company to undertake a possible initial
+public offer of the Preferred Shares (the "Possible IPO"), as announced by the Company earlier today. The
+Possible IPO is subject to, amongst other things, the approval by the FCA of a prospectus in connection
+with the Possible IPO (the "Prospectus"). The Company intends to apply for the Preferred Shares to be
+admitted to listing on the non-equity shares and non-voting equity shares category of the Ofﬁcial List and
+to trading on the main market for listed securities ("Main Market") of London Stock Exchange plc (the
+"London Stock Exchange") (together, "Admission").
+The Preferred Shares, if issued, will have attached to them a right for the holder ("Preferred Shareholder")
+to receive a cumulative variable rate weekly preferential dividend, a liquidation preference, and a right for
+the Company to redeem the Preferred Shares, but no right to vote at a general meeting of Shareholders.
+To enable the creation of the Preferred Shares, the Company is required to change its articles of association
+(the "Articles") to include the rights attaching to the Preferred Shares. Prior to issuing any Preferred Shares,
+the Company will also require authority from its Shareholders to allot the Preferred Shares. The Company
+3
+
+also requires authority from its Shareholders to effect a buy back of Preferred Shares if, following the issuance
+of Preferred Shares, the Company determines some or all of the Preferred Shares will be bought back in
+the market.
+Shareholders should note that, notwithstanding that the Company is seeking the approval of the Resolutions
+at the General Meeting, there is no guarantee that Preferred Shares will be issued or that the Company will
+proceed with the Possible IPO or Admission.
+Further information is provided in the explanatory statement set out on pages 12 to 14 of this document
+(the "Explanatory Statement").
+
+Action to be taken by Shareholders
+You can vote on the Resolutions in respect of your shareholding by attending the General Meeting or by
+appointing one or more proxies to attend the General Meeting and vote on your behalf. If you appoint a
+proxy, you may still attend and vote at the General Meeting in person should you decide to do so.
+Whether or not you propose to attend the General Meeting in person, you are requested to appoint a proxy
+who will be able to vote for you if you are prevented from attending.
+Proxies may be appointed:
+l
+
+by visiting www.shareregistrars.uk.com, clicking on the "Proxy Vote" button and then following the onscreen instructions (you can locate your log-in details on the top of the Form of Proxy);
+
+l
+
+by post or by hand to our Registrars, Share Registrars Limited, 3 The Millennium Centre, Crosby Way,
+Farnham, Surrey GU9 7XX, United Kingdom using the Form of Proxy accompanying this document;
+or
+
+l
+
+using the CREST electronic proxy appointment service (for CREST members only).
+
+In any case, the notice of appointment of a proxy should reach our Registrars, Share Registrars Limited at
+3 The Millennium Centre, Crosby Way, Farnham, Surrey GU9 7XX, United Kingdom by no later than
+10.00 a.m. on 24 September 2026. Please refer to the Notice on pages 5 to 6 of this document, the Notes
+to the Notice starting on page 7 of this document and the enclosed Form of Proxy for detailed instructions.
+The attention of Shareholders is drawn to the voting intentions of the Directors set out below.
+
+Recommendation
+The Directors believe that the Resolutions would be in the best interests of the Company and its
+Shareholders as a whole.
+Accordingly, the Directors unanimously recommend that Shareholders vote in favour of the Resolutions
+being proposed at the General Meeting, as they intend to do, or procure to be done, in respect of their own
+and their connected persons' beneﬁcial holdings.
+Yours faithfully
+Sean Edward Wade
+Non-Executive Chairman
+
+4
+
+THE SMARTER WEB COMPANY PLC
+(Incorporated and registered in England and Wales with registered number 00092343)
+
+NOTICE OF GENERAL MEETING
+NOTICE IS HEREBY GIVEN ("Notice") that the general meeting of the holders of ordinary shares of
+nominal value £0.001 each in the capital of The Smarter Web Company PLC ("Shareholders"; the
+"Company") will be held on 28 September 2026 at 10.00 a.m. at 160 Aztec West, Almondsbury, Bristol,
+BS32 4TU, United Kingdom (the "General Meeting"), for the purposes of considering and, if thought ﬁt,
+passing the following Resolutions, of which Resolutions 1 and 3 will be proposed as special resolutions and
+Resolution 2 will be proposed as an ordinary resolution.
+Terms used, but not otherwise deﬁned in this Notice, shall have the meanings given in the circular to
+Shareholders of which this Notice forms a part.
+
+SPECIAL RESOLUTION
+1. THAT, the articles of association produced to the General Meeting be adopted as the articles of
+association of the Company in substitution for, and to the exclusion of, the existing articles of
+association of the Company.
+
+ORDINARY RESOLUTION
+2. THAT the directors of the Company ("Directors") be generally and unconditionally authorised for the
+purposes of section 551 Companies Act 2006 to exercise all the powers of the Company to allot
+shares in the Company and to grant rights to subscribe for or to convert any security into shares in the
+capital of the Company up to an aggregate nominal amount of £1,500, save that the Directors may
+impose any limits or restrictions and make any arrangements which they consider necessary or
+appropriate to deal with any fractional entitlements, record dates, legal, regulatory or practical problems
+in, or under the laws of, any territory or the requirements of any regulatory body or stock exchange or
+any other matter.
+Unless previously revoked, varied or renewed by the Company, this authority will expire on the earlier
+of close of business on 27 December 2027 and the conclusion of the next annual general meeting of
+the Company ("AGM") after the passing of this Resolution 2, save that the Company may, before this
+authority expires, make offers and enter into agreements which would or might require shares in the
+Company to be allotted, or rights to subscribe for or convert securities into shares to be granted, after
+its expiry and the Directors may allot shares or grant rights to subscribe for or convert securities into
+shares pursuant to any such offers or agreements as if this authority had not expired.
+This authority is in addition to any subsisting authorities previously granted to the Directors for the
+purposes of section 551 Companies Act 2006.
+
+SPECIAL RESOLUTION
+3. THAT, in addition to any existing authority, the Company be and is hereby generally and unconditionally
+authorised for the purposes of section 701 Companies Act 2006 to make one or more market
+purchases (within the meaning of section 693(4) Companies Act 2006) of preferred shares of nominal
+value £0.001 each in the capital of the Company ("Preferred Shares"), on such terms and in such
+manner that the Directors think ﬁt, provided that:
+(a)
+
+the maximum aggregate number of Preferred Shares hereby authorised to be purchased shall
+be 224,850;
+
+(b)
+
+the maximum price (exclusive of expenses) which may be paid for a Preferred Share is an amount
+equal to the higher of: (i) 105 per cent. of the average of the middle market quotations for a
+Preferred Share as derived from the London Stock Exchange Daily Ofﬁcial List for the ﬁve dealing
+
+5
+
+days immediately preceding the day on which the Preferred Share is purchased; and (ii) the value
+of a Preferred Share calculated on the basis of the higher of the price quoted for:
+A.
+
+the last independent trade of; and
+
+B.
+
+the highest current independent bid for,
+
+any number of the Preferred Shares on the trading venue where the purchase is carried out;
+(c)
+
+the minimum price which may be paid for a Preferred Share is an amount equal to its nominal
+value (in each case exclusive of associated expenses);
+
+(d)
+
+unless previously renewed, varied or revoked, the authority hereby conferred will expire on the
+earlier of close of business on 27 December 2027 and the conclusion of the next AGM after the
+passing of this Resolution 3, but a contract to purchase Preferred Shares may be made before
+such expiry which will or may be completed wholly or partly thereafter, and a purchase of Preferred
+Shares may be made in pursuance of any such contract; and
+
+(e)
+
+a Preferred Share so purchased shall be cancelled or, if the Directors so determine and subject
+to the provisions of applicable laws or regulations of the Financial Conduct Authority, held as a
+treasury share.
+
+The Explanatory Statement provides additional information on the Resolutions to be considered at the
+General Meeting.
+By Order of the Board
+MSP Corporate Services Limited
+Company Secretary
+Dated: 11 September 2026
+Registered ofﬁce:
+160 Aztec West
+Almondsbury
+Bristol BS32 4TU
+United Kingdom
+Shareholders should also read the Explanatory Statement and the notes to this Notice which are set out on
+pages 7 to 14 of this document. Those notes to this Notice provide further information about Shareholders'
+entitlement to attend, speak and vote at the General Meeting (or appoint another person to do so on
+their behalf).
+
+6
+
+Notes to the Notice of General Meeting
+
+Entitlement to attend and vote
+1. Pursuant to Regulation 41 of the Uncertiﬁcated Securities Regulations 2001, as amended, the
+Company speciﬁes that only those members registered on the Company's register of members 48
+hours (ignoring any part of a day that is not a working day) before the time of the General Meeting
+shall be entitled to attend and vote at the General Meeting.
+
+Appointment of proxy
+2. A Shareholder entitled to attend and vote at the General Meeting may appoint a proxy to attend, speak
+and vote (including on a poll) in their place. A proxy need not be a Shareholder of the Company but
+must attend the General Meeting in person. A Shareholder may appoint more than one proxy in relation
+to the General Meeting provided that each proxy is appointed to exercise the rights attached to a
+different share held by the appointing Shareholder.
+
+3.
+
+You can register your vote(s) for the General Meeting either:
+a. by visiting www.shareregistrars.uk.com, clicking on the "Proxy Vote" button and then following
+the on-screen instructions (you can locate your log-in details, i.e., user name and access code,
+on the top of the Form of Proxy);
+b.
+
+by post or by hand to Share Registrars Limited, 3 The Millennium Centre, Crosby Way, Farnham,
+Surrey GU9 7XX, United Kingdom using the Form of Proxy accompanying this Notice; or
+
+c.
+
+in the case of CREST members, by utilising the CREST electronic proxy appointment service in
+accordance with the procedures set out in note 6 below.
+
+In order for a proxy appointment to be valid the proxy must be received by Share Registrars Limited
+by 10.00 a.m. on 24 September 2026.
+
+Appointment of proxy using hard copy Form of Proxy
+4. The notes to the Form of Proxy explain how to direct your proxy how to vote on the Resolutions or
+withhold their vote. To appoint a proxy using the Form of Proxy, the Form of Proxy must be:
+a.
+
+completed and signed;
+
+b.
+
+sent or delivered to Share Registrars Limited at 3 The Millennium Centre, Crosby Way, Farnham,
+Surrey GU9 7XX, United Kingdom; and
+
+c.
+
+received by Share Registrars Limited by no later than 10.00 a.m. on 24 September 2026.
+
+In the case of a member which is a company, the Form of Proxy must be executed under its common
+seal or signed on its behalf by an ofﬁcer of the Company or an attorney for the Company.
+Any power of attorney or any other authority under which the Form of Proxy is signed (or a duly certiﬁed
+copy of such power or authority) must be included with the Form of Proxy.
+5.
+
+As an alternative to completing the hard-copy Form of Proxy, Shareholders can appoint a proxy
+electronically with Share Registrars Limited by visiting www.shareregistrars.uk.com, clicking on the
+"Proxy Vote" button and then following the on-screen instructions (the relevant log-in details, i.e., user
+name and access code, can be located on the top of the Form of Proxy). For an electronic proxy
+appointment to be valid, the appointment must be received by Share Registrars Limited no later than
+10.00 a.m. on 24 September 2026.
+
+7
+
+Appointment of proxy using CREST
+6. CREST members who wish to appoint a proxy or proxies through the CREST electronic proxy
+appointment service may do so for the General Meeting and any adjournment(s) thereof by using the
+procedures described in the CREST Manual.
+CREST personal members or other CREST sponsored members, and those CREST members who
+have appointed a voting service provider(s) should refer to their CREST sponsor or voting service
+provider(s), who will be able to take the appropriate action on their behalf.
+In order for a proxy appointment or instruction made using the CREST service to be valid, the
+appropriate CREST message (a "CREST Proxy Instruction") must be properly authenticated in
+accordance with the speciﬁcations of Euroclear UK & International Limited ("Euroclear") and must
+contain the information required for such instructions, as described in the CREST Manual (available
+via www.euroclear.com).
+The message, regardless of whether it relates to the appointment of a proxy or to an amendment to
+the instruction given to a previously appointed proxy must, in order to be valid, be transmitted so as
+to be received by the issuer's agent (ID: 7RA36) by the latest time for receipt of proxy appointments
+speciﬁed above. For this purpose, the time of receipt will be taken to be the time (as determined by
+the timestamp applied to the message by the CREST Applications Host) from which the issuer's agent
+is able to retrieve the message by enquiry to CREST in the manner prescribed by CREST. After this
+time, any change of instructions to proxies appointed through CREST should be communicated to
+the appointee through other means. CREST members and, where applicable, their CREST sponsors
+or voting service providers should note that Euroclear does not make available special procedures in
+CREST for any particular messages. Normal system timings and limitations will therefore apply in
+relation to the input of CREST Proxy Instructions. It is the responsibility of the CREST member
+concerned to take (or, if the CREST member is a CREST personal member or sponsored member or
+has appointed a voting service provider(s), to procure that his or her CREST sponsor or voting service
+provider(s) take(s)) such action as shall be necessary to ensure that a message is transmitted by means
+of CREST by any particular time. In this connection, CREST members and, where applicable, their
+CREST sponsors or voting service providers are referred in particular to those sections of the CREST
+Manual concerning practical limitations of the CREST system and timings.
+The Company may treat as invalid a CREST Proxy Instruction in the circumstances set out in Regulation
+35(5)(a) of the Uncertiﬁcated Securities Regulations 2001 (as amended).
+
+Appointment of proxy by joint members
+7. In the case of joint holders, where more than one of the joint holders completes a proxy appointment,
+only the appointment submitted by the most senior holder will be accepted. Seniority is determined
+by the order in which the names of the joint holders appear in the Company's register of members in
+respect of the joint holding (the ﬁrst-named being the most senior).
+
+Changing proxy instructions
+8. Shareholders may change proxy instructions by submitting a new proxy appointment using the
+methods set out above. Note that the cut-off time for receipt of proxy appointments also applies in
+relation to amended instructions; any amended proxy appointment received after the relevant cut-off
+time will be disregarded.
+Where you have appointed a proxy using the hard-copy Form of Proxy and would like to change the
+instructions using another hard-copy Form of Proxy, please contact Share Registrars Limited on
+01252 821390 (+44 1252 821390 when calling from abroad) or by e-mail to
+Enquiries@shareregistrars.uk.com. If you submit more than one valid proxy appointment, the
+appointment received last before the latest time for the receipt of proxies will take precedence.
+
+8
+
+Termination of proxy appointment
+9. A Shareholder may revoke a proxy instruction but to do so you will need to inform the Company in
+writing by sending a signed hard-copy notice clearly stating your intention to revoke your proxy
+appointment to Share Registrars Limited at 3 The Millennium Centre, Crosby Way, Farnham, Surrey
+GU9 7XX, United Kingdom. In the case of a Shareholder which is a company, the revocation notice
+must be executed under its common seal or signed on its behalf by an ofﬁcer of the company or an
+attorney for the company. Any power of attorney or any other authority under which the revocation
+notice is signed (or a duly certiﬁed copy of such power or authority) must be included with the
+revocation notice.
+The revocation notice must be received by Share Registrars Limited no later than 10.00 a.m. on
+24 September 2026.
+If you attempt to revoke your proxy appointment but the revocation is received after the time speciﬁed,
+your original proxy appointment will remain valid unless you attend the General Meeting and vote in
+person.
+Appointment of a proxy does not preclude you from attending the General Meeting and voting in
+person. If you have appointed a proxy and attend the General Meeting in person, your proxy
+appointment will automatically be terminated.
+
+Corporate representatives
+10. A corporation which is a Shareholder can appoint one or more corporate representatives who may
+exercise, on its behalf, all its powers as a Shareholder provided that no more than one corporate
+representative exercises powers over the same share.
+11. Any person holding 3 per cent. or more of the total voting rights of the Company who appoints a
+person other than the Chair of the General Meeting as such Shareholder's proxy will need to ensure
+that both such Shareholder and their proxy comply with their respective disclosure obligations under
+the Disclosure Guidance and Transparency Rules.
+
+Voting procedure
+12. Voting on the Resolutions will be conducted on a poll. The Company believes that a poll is more
+representative of Shareholders' voting intentions because Shareholder votes are counted according
+to the number of ordinary shares held in the capital of the Company and all votes tendered are taken
+into account. A "vote withheld" option is provided on the Form of Proxy. A vote withheld is not a vote
+in law and will not be counted in the calculation of the proportion of votes "for" or "against" the
+Resolutions. As soon as practicable following the General Meeting, the results of the voting will be
+announced via a Regulatory Information Service and also placed on the Company's website.
+
+Issued shares and total voting rights
+13. As at 10 September 2026, which is the latest practicable date before publication of this Notice, the
+Company's issued Ordinary Share capital comprised 375,090,705 Ordinary Shares of nominal value
+£0.001 each. Each Ordinary Share carries the right to one vote at a general meeting of the Company
+and, therefore, the total number of voting rights in the Company at 10 September 2026 is 375,090,705.
+As at 10 September 2026, the Company did not hold any treasury shares.
+
+Questions at the General Meeting
+14. Any member attending the General Meeting has the right to ask questions. The Company must answer
+any question a member asks relating to the business being dealt with at the meeting unless:
+a.
+
+answering the question would interfere unduly with the preparation for the meeting or involve the
+disclosure of conﬁdential information;
+
+b.
+
+the answer has already been given on a website in the form of an answer to a question; or
+
+9
+
+c.
+
+it is undesirable in the interests of the Company or the good order of the General Meeting that
+the question be answered.
+
+Communication
+15. Except as provided above, members who have general queries about the General Meeting should
+contact Share Registrars Limited by telephone on 01252 821390 (+44 1252 821390 when calling
+from abroad) or by e-mail to Enquiries@shareregistrars.uk.com (no other methods of communication
+will be accepted). You may not use any electronic address provided either in this Notice, or any related
+documents (including the Form of Proxy), to communicate with the Company for any purposes other
+than those expressly stated.
+
+Website publication of information (section 311A Companies Act 2006)
+16. A copy of this Notice and other information required by section 311A Companies Act 2006 can be
+found at https://www.smarterwebcompany.co.uk/.
+
+Information rights
+17. Under the Companies Act 2006, there are a number of rights that may now be available to indirect
+investors of the Company, including the right to be nominated by the registered holder to receive
+general Shareholder communications direct from the Company. The rights of indirect investors who
+have been nominated to receive communications from the Company in accordance with section 146
+Companies Act 2006 ("Nominated Persons") do not include the right to appoint a proxy. However,
+Nominated Persons may have a right under an agreement with the registered Shareholder who holds
+the ordinary shares on their behalf to be appointed (or to have someone else appointed) as a proxy.
+Alternatively, if Nominated Persons do not have such a right or do not wish to exercise it, they may
+have a right under such an agreement to give instructions to the person holding the ordinary shares
+as to the exercise of voting rights.
+18. If you have been so nominated to receive general Shareholder communications direct from the
+Company, it is important to remember that your main contact in terms of your investment remains with
+the registered Shareholder or custodian or broker, or whoever administers the investment on your
+behalf. You should also deal with them in relation to any rights that you may have under agreements
+with them to be appointed as a proxy and to attend, participate in, and vote at the General Meeting,
+as described above. Any changes or queries relating to your personal details and holding (including
+any administration thereof) must continue to be directed to your existing contact at your investment
+manager or custodian. The Company cannot guarantee dealing with matters that are directed to it in
+error.
+
+Shareholder requisition rights
+19. Members satisfying the thresholds in sections 338 and 338A Companies Act 2006 can require the
+Company: (a) to give, to members of the Company entitled to receive notice of the General Meeting,
+notice of a resolution which may properly be moved, and which those members intend to move, at
+the General Meeting; and (b) to include in the business to be dealt with at the General Meeting any
+matter (other than a proposed resolution) which may properly be included in the business at the General
+Meeting, provided in each case that the requirements of those sections are met and provided that the
+request is received by the Company not later than six clear weeks before the General Meeting or, if
+later, the time at which notice is given of the General Meeting.
+
+Documents on display
+20. The following documents will be available for inspection during normal business hours at the registered
+ofﬁce of the Company on any weekday (public holidays excluded) and will also be available for
+inspection at the place of the General Meeting from 15 minutes before and during the meeting: (a) the
+current articles of association of the Company; (b) the articles of association of the Company as
+proposed to be adopted at the General Meeting; and (c) this Notice and the Explanatory Statement.
+
+10
+
+21. A copy of the proposed new articles of association marked up to show all proposed changes from the
+existing articles of association and a clean version of the new articles of association will also be available
+to view on the Company's website at https://www.smarterwebcompany.co.uk/. If Resolution 1 is
+passed, the new articles of association will be adopted as the articles of association of the Company
+with effect from the close of the General Meeting.
+22. A copy of the articles of association of the Company as proposed to be adopted at the General Meeting
+has been submitted to the National Storage Mechanism at National Storage Mechanism | FCA.
+
+11
+
+Explanatory Statement
+Introduction
+This Explanatory Statement has been prepared for the information of the Shareholders in connection with
+the business to be conducted at the General Meeting to be held at 10.00 a.m. on 28 September 2026 at
+160 Aztec West, Almondsbury, Bristol BS32 4TU, United Kingdom.
+This Explanatory Statement should be read in conjunction with the Notice.
+The purpose of this Explanatory Statement is to provide information which the Directors believe to be
+important to Shareholders in deciding whether or not to pass the Resolutions in the Notice.
+
+Background and reasons for the Resolutions
+The Resolutions being put to the Shareholders at the General Meeting are to enable the creation of, and
+other matters relating to, the Preferred Shares.
+Shareholder approval of the Resolutions is required in order for the Company to undertake the Possible IPO
+as announced by the Company earlier today. The Possible IPO is subject to, amongst other things, the
+approval by the FCA of the Prospectus. The Company intends to apply for the Preferred Shares to be
+admitted to listing on the non-equity shares and non-voting equity shares category of the Ofﬁcial List and
+to trading on the Main Market of the London Stock Exchange.
+The Preferred Shares, if issued, will have attached to them a right for the Preferred Shareholder to receive
+a cumulative variable rate weekly preferential dividend, a liquidation preference, and a right for the Company
+to redeem the Preferred Shares, but no right to vote at a general meeting of Shareholders.
+The Directors believe that the Company will have multiple potential sources from which the dividend
+obligations of any Preferred Shares, if issued, may be satisﬁed. These include:
+l
+
+recurring operating cash ﬂows;
+
+l
+
+substantial cash reserves;
+
+l
+
+its Bitcoin treasury; and
+
+l
+
+ongoing access to public capital markets, including by using the net proceeds of issuances of new
+Ordinary Shares or Preferred Shares.
+
+The Company intends to target gross proceeds of between £15 million and £25 million through the Possible
+IPO by way of:
+l
+
+an offer of Preferred Shares to institutional investors in the United Kingdom; and
+
+l
+
+an offer of Preferred Shares to retail investors who are resident and physically present in the United
+Kingdom only through a retail offering platform’s partner network of retail brokers, wealth managers
+and investment platforms, subject to such partners’ participation in the Possible IPO.
+
+Completion of the Possible IPO is expected to be subject to the satisfaction of certain conditions, including:
+l
+
+gross proceeds of at least £10 million being raised under the Possible IPO;
+
+l
+
+at Admission, at least three ﬁrms being registered with the London Stock Exchange as market makers
+in the Preferred Shares; and
+
+l
+
+at Admission, at least 50 per cent. of the Preferred Shares being held in public hands.
+
+If any of these conditions are not satisﬁed, the Possible IPO will not proceed and Admission will not occur.
+The Company also intends to put in place, from Admission, an At The Market facility ("ATM Facility"), pursuant
+to which Tennyson Capital Partners LLP would sell Preferred Shares via its broker. The ATM Facility, if
+implemented, would provide the Company with the ﬂexibility to raise additional capital over time through the
+issuance of Preferred Shares, subject to market conditions. This proposed ATM Facility for the Preferred Shares
+is intended to be in addition to the At The Market facility already in place in respect of the Ordinary Shares.
+12
+
+Reasons for the Possible IPO
+If the Company proceeds with the Possible IPO, the Company intends to utilise the proceeds from the
+issuance of Preferred Shares as a long-term source of capital.
+The Directors believe that the Possible IPO would broaden the Company's access to institutional and retail
+capital, provide a ﬂexible, long-term source of funding alongside the ATM Facility, strengthen the Company's
+balance sheet and ﬁnancial ﬂexibility, supporting further acquisitions of revenue-generating operational
+businesses, general working capital requirements, and fulﬁl the Company's broader strategy of creating
+value alongside its Bitcoin treasury.
+Resolutions and Notice of General Meeting
+To enable the creation of the Preferred Shares, the Company is required to change its Articles to include the
+rights attaching to the Preferred Shares. Prior to issuing any Preferred Shares, the Company will also require
+authority from its Shareholders to allot the Preferred Shares. The Company also requires authority from its
+Shareholders to effect a buy back of Preferred Shares if, following the issuance of Preferred Shares, the
+Company determines some or all of the Preferred Shares will be bought back in the market.
+The Resolutions set out in the Notice therefore seek Shareholder approval to amend the Articles to include
+the rights attaching to the new class of Preferred Shares, to allot up to 1,500,000 Preferred Shares and to
+buy back up to 224,850 Preferred Shares in the market following their issuance.
+Resolution 1
+Resolution 1 proposes the adoption of amended Articles (the "New Articles") in order to create the new
+class of Preferred Shares.
+The principal changes being proposed in the New Articles are summarised in the Appendix to this document.
+Other changes, which have been deemed to be of a minor, non-substantive, technical or clariﬁcatory nature
+have not been noted in the Appendix.
+Resolution 1 will be proposed as a special resolution, the passing of which requires at least 75 per cent. of
+the votes cast to be in favour.
+Resolution 2
+Resolution 2 seeks authority from Shareholders to allot up to 1,500,000 Preferred Shares (representing
+approximately 0.4 per cent. of the Company's current issued Ordinary Share capital as at
+10 September 2026). If the Possible IPO proceeds, the Company may utilise this authority to issue Preferred
+Shares in the future (including through the ATM Facility), should the Board consider it appropriate or desirable
+to do so. For the avoidance of doubt, the authority sought under Resolution 2 is a maximum number and
+in the event the Board consider it appropriate or desirable to issue Preferred Shares in the future, the
+Company may not utilise the full granted authority.
+The authority sought under Resolution 2 will expire on the earlier of close of business on 27 December 2027
+and the conclusion of the next AGM after the passing of Resolution 2. The authority sought under Resolution
+2 is in addition to any subsisting authority previously given to the Directors for the purposes of section 551
+Companies Act 2006.
+Resolution 2 will be proposed as an ordinary resolution, the passing of which requires a simple majority of
+the votes cast to be in favour.
+Resolution 3
+Resolution 3 would, if passed, give the Company the authority to purchase any of its own Preferred Shares
+following their issuance at a price of not less than an amount equal to the nominal value of a Preferred Share
+and not more than the higher of: (i) 5 per cent. above the average of the middle market quotations of the
+Preferred Shares as derived from the London Stock Exchange Daily Ofﬁcial List for the ﬁve dealing days
+before any purchase is made; and (ii) the value of a Preferred Share calculated on the basis of the higher of
+the price quoted for (a) the last independent trade of; and (b) the highest current independent bid for, any
+number of the Preferred Shares on the trading venue where the purchase is carried out.
+13
+
+The authority will enable the purchase of up to a maximum of 224,850 Preferred Shares and will expire on
+the earlier of close of business on 27 December 2027 and the conclusion of the next AGM after the passing
+of Resolution 3. The authority sought under Resolution 3 is in addition to the authority to purchase Ordinary
+Shares granted at the Company's last AGM held on 19 March 2026.
+The Directors will only exercise the authority to purchase Preferred Shares where they consider that such
+purchases will be in the best interests of Shareholders generally. The Directors have no present intention of
+exercising the authority to purchase the Preferred Shares but will keep the matter under review, taking into
+account other investment opportunities. Preferred Shares purchased will either be cancelled (and the number
+of shares in issue reduced accordingly) or held as treasury shares. The Directors believe that holding shares
+in treasury would provide the Company with greater ﬂexibility in the management of its share capital.
+
+Next steps
+Shareholders should note that, notwithstanding that the Company is seeking the approval of the resolutions
+at the General Meeting, there is no guarantee that Preferred Shares will be issued or that the Company will
+proceed with the Possible IPO or Admission.
+The Possible IPO is subject to, amongst other things, the approval by the FCA of the Prospectus. It is
+expected that, following the Company submitting the Prospectus for approval to the FCA and subject to
+such approval, the Prospectus will be published, and a further announcement will be made by the Company
+at that time.
+If the Preferred Shares are issued and admitted to trading, the Company expects that they will be issued
+credited as fully paid and may be held in certiﬁcated form or in uncertiﬁcated form through CREST.
+
+Directors' recommendation
+The Directors believe that the Resolutions would be in the best interests of the Company and its
+Shareholders as a whole.
+Accordingly, the Directors unanimously recommend that Shareholders vote in favour of the Resolutions
+being proposed at the General Meeting, as they intend to do, or procure to be done, in respect of their own
+and their connected persons' beneﬁcial holdings.
+
+14
+
+APPENDIX
+
+SUMMARY OF THE PRINCIPAL CHANGES TO THE COMPANY'S ARTICLES OF ASSOCIATION
+The New Articles are proposed to be adopted to create the new class of Preferred Shares and to set out
+the rights attaching to the Preferred Shares. The principal changes proposed to the existing Articles are:
+
+1. Dividend rights attaching to the Preferred Shares
+The New Articles include the dividend rights that will attach to the Preferred Shares, if issued. The Preferred
+Shares, if issued, will carry the right to receive a cumulative preferential dividend (the "Preferred Dividend"),
+payable weekly in arrears in cash, at a rate to be determined by the Board from time to time. The ﬁrst weekly
+period will commence on the ﬁrst record date (as determined by the Board in accordance with the Articles)
+following the issuance of the Preferred Shares. The Preferred Dividend will accrue for each weekly period
+without the need for any resolution of the Board or the Shareholders.
+The New Articles provide that the Board may, but will not be obliged to, vary the dividend rate attaching to
+the Preferred Shares from time-to-time, subject to the following parameters:
+(a)
+
+the dividend rate may not be increased to above 20 per cent. per annum of the reference amount of
+£100 (the "Dividend Reference Amount");
+
+(b)
+
+the dividend rate may not be decreased to less than the then Bank of England base rate plus 1 per
+cent. per annum of the Dividend Reference Amount;
+
+(c)
+
+any decrease in the dividend rate will not exceed 0.5 per cent. per annum of the Dividend Reference
+Amount in aggregate during the course of any four-week period; and
+
+(d)
+
+there is no limit on monthly increases to the dividend rate, provided that the resulting dividend rate
+does not exceed 20 per cent. per annum of the Dividend Reference Amount.
+
+The New Articles provide that, subject to the Board’s ability to suspend payment of the dividend as outlined
+below, the dividend for each weekly period will be paid by no later than 10 clear working days after the end
+of that weekly period, or such earlier date as the Board may determine. The dividend will be paid to the
+holders of Preferred Shares on the register at the close of business on the record date (as determined by
+the Board in accordance with the Articles). Preferred Shares issued in any week prior to the record date will
+receive the full dividend for that weekly period.
+The New Articles provide that the Board may, in its sole and absolute discretion, suspend payment of the
+dividend for any weekly period at any time before the dividend for that weekly period is paid, without
+assigning any reason and without incurring any liability to any Preferred Shareholder.
+The New Articles provide that, if any dividend for a weekly period is not declared or paid in full on or before
+its due date for payment (excluding any dividend which a holder of Preferred Shares has waived the right to
+receive), the undeclared or unpaid amount will, from the date on which payment should have been made,
+accumulate as a non-interest-bearing balance and, for so long as any part of that dividend remains unpaid:
+(a)
+
+the Board may not decrease the dividend rate for any future weekly period;
+
+(b)
+
+the Company may not pay dividends or make any other distribution on the Preferred Shares in relation
+to any future dividend weekly period;
+
+(c)
+
+the Company may not declare or pay dividends or make any other distribution on any shares ranking
+pari passu with the Preferred Shares, unless such dividend or distribution is also declared, paid or
+made pari passu to holders of Preferred Shares;
+
+(d)
+
+the Company may not declare or pay dividends or make any other distribution on the Ordinary Shares
+or on any other share capital ranking junior to the Preferred Shares; and
+
+(e)
+
+the Company may not buy-back or redeem any of its Ordinary Shares, save for any buy-back or
+redemption (i) which is in respect of less than 2.2 per cent. in aggregate of the total number of Ordinary
+Shares in issue at the relevant time, whether in one transaction or a series of transactions in the period
+during which the Preferred Dividend has not been paid in full or in part (excluding any dividend which
+a holder of Preferred Shares has waived the right to receive); (ii) of any Ordinary Shares issued in
+15
+
+connection with the Company’s Long-Term Incentive Plan, adopted on 19 March 2026, or any other
+share incentive arrangements adopted by the Company from time to time; (iii) to deal with any fractions
+of shares arising following a consolidation, consolidation and division or sub-division of shares; (iv) in
+connection with the forfeiture of shares in accordance with the Articles or surrender of shares which
+are liable to be forfeited in accordance with the Articles; (v) of any dormant shares; or (vi) for the
+purposes of enforcing the Company’s lien over shares) under the Articles.
+The New Articles provide that the existence of any accumulated undeclared or unpaid dividends will not
+restrict the Board's discretion to increase or maintain the dividend rate for future weekly periods.
+
+2. Liquidation preference attaching to the Preferred Shares
+The New Articles include the liquidation preference that will apply to the Preferred Shares, if issued. On the
+occurrence of a liquidation or winding up of the Company (a "Liquidation Event"), the surplus assets of
+the Company are to be applied ﬁrst in paying to each Preferred Shareholder an amount equal to £100 per
+Preferred Share plus all accrued but unpaid Preferred Dividends up to and including the date of the
+Liquidation Event, in priority to any payment to the holders of any other class of shares (the "Liquidation
+Preference").
+The New Articles provide that, if the surplus assets are insufﬁcient to pay the Liquidation Preference in full,
+they are to be distributed pro rata among the Preferred Shareholders. After payment of the Liquidation
+Preference in full, the remaining surplus assets will be distributed among the members (other than Preferred
+Shareholders) in proportion to the nominal amounts of capital paid up on their shares.
+
+3. Redemption rights attaching to the Preferred Shares
+The New Articles include the redemption rights that will attach to the Preferred Shares, if issued. The New
+Articles provide that the Company has the right (but not the obligation) to redeem some or all of the Preferred
+Shares at any time by giving not less than 10 working days' written notice. Preferred Shareholders shall not
+have any right to require the Company to redeem their Preferred Shares.
+The New Articles provide that, on redemption, each Preferred Shareholder shall be entitled to receive a cash
+payment of £110 per Preferred Share plus all accumulated and unpaid Preferred Dividends up to and
+including the redemption date. If fewer than all outstanding Preferred Shares are to be redeemed, the
+Preferred Shares to be redeemed will be selected pro rata among Preferred Shareholders in proportion to
+their holdings, or by such other method as the Board considers fair and reasonable. If any Preferred Share
+is not redeemed on the relevant redemption date for a reason other than the Preferred Shareholder's failure
+to comply with any actions required by it in connection with the redemption, the Preferred Dividend will
+continue to accrue until the actual date of redemption.
+
+4. Voting rights attaching to the Preferred Shares
+The New Articles provide that the Preferred Shares, if issued, will not carry any right to receive notice of,
+attend, or vote at any general meeting of the Company.
+
+5. Restrictions on dividends, other distributions and redemptions
+The New Articles contain a new provision, making clear that no dividend, other distribution, or redemption
+of shares of any class shall be or shall be deemed to be declared, payable, or paid if: (i) prohibited at the
+relevant time by any legal restriction (including company legislation) or the terms of any ﬁnancing documents
+or other contractual obligations binding on the Company or another member of the Company's group; or
+(ii) the Company has insufﬁcient available cash (being net cash and undrawn borrowing facilities less
+appropriate working capital reserves as determined by the Board).
+
+6. Capitalisation issues and scrip dividends
+The provisions relating to capitalisation issues and scrip dividends are proposed to be updated to include
+references to the Preferred Shares where appropriate, as well as to Ordinary Shares. This will provide the
+
+16
+
+Board with the ﬂexibility to capitalise sums for the purpose of allotting either new Ordinary Shares or new
+Preferred Shares.
+
+7. Removal of references to deferred shares
+At the AGM held on 19 March 2026, Shareholders approved the off-market buyback of the Company's
+deferred shares of nominal value £0.049 each in the capital of the Company (the "Deferred Shares"). On
+23 March 2026, the Company completed the purchase of the entire class of Deferred Shares and the
+Deferred Shares were cancelled. Accordingly, the provisions relating to the Deferred Shares in the existing
+Articles will not be replicated in the New Articles.
+
+8. Consequential and minor amendments
+Various consequential and minor amendments are proposed, including:
+l
+
+the New Articles have been re-numbered and re-ordered throughout to accommodate the provisions
+covering the new class of Preferred Shares;
+
+l
+
+various dividend payment provisions have been updated to clarify the position in respect of joint holders
+of the Ordinary Shares, which will also apply to joint holders of the Preferred Shares; and
+
+l
+
+the drafting of the variation of class rights provisions has been clariﬁed in places, and has been
+amended to provide that the rights attached to the Preferred Shares shall not be treated as varied by
+the allotment or issue of any Ordinary Shares.
+
+17
+
+Perivan.com
+274137
