@@ -1,0 +1,209 @@
+1 October 2026
+
+The Smarter Web Company PLC
+(“The Smarter Web Company” the "Company" or the “Group”)
+Quarterly Investor Update
+The Smarter Web Company is pleased to provide its quarterly investor update for the three
+months ended 30 September 2026 (the “quarter”), covering material developments through
+to the date of this announcement.
+The third quarter was defined by the work undertaken to simplify and strengthen the
+Company’s capital structure and build the foundations for its next phase of growth. The
+culmination of that work came on 29 September 2026, when the FCA approved the
+Company’s prospectus and the Company launched the initial public offering of its new
+preferred shares (“MORE”) on the Main Market of the London Stock Exchange (the “IPO”).
+The Directors believe MORE will be the first of its kind in the UK: a sterling-denominated, Main
+Market-listed perpetual preferred share issued by a UK-incorporated commercial company
+with a Bitcoin treasury strategy. The IPO followed overwhelming shareholder support at the
+General Meeting held on 28 September 2026, at which all of the required resolutions were
+approved with over 99.8% of votes cast in favour.
+If completed, MORE would give the Company a simple capital structure built on two
+complementary equities:
+•
+•
+
+ordinary shares - growth: offering exposure to the Company’s operating business, its
+Bitcoin treasury and its long-term objective of increasing Bitcoin value per Ordinary
+Share; and
+MORE - income: offering holders a cumulative, variable rate, preferential dividend,
+payable weekly (unless payment is suspended by the Board), at an initial rate of 12%
+per annum (variable) of £100 per preferred share, with a liquidation preference
+ranking ahead of the ordinary shares and a redemption right of the Company.
+
+Each equity is designed for a different type of investor, allowing the Company to align its
+sources of capital with the needs of its holders. The Directors believe that the IPO will broaden
+the Company's access to institutional and retail capital, provide a flexible, long -term source
+of funding alongside the Company’s proposed ATM facility for the preferred shares,
+strengthen the Company’s balance sheet and financial flexibility, supporting further
+acquisitions of revenue-generating operational businesses and general working capital
+requirements, and fulfil the Company’s broader strategy of creating value alongside its Bitcoin
+treasury.
+This work was underpinned by a series of steps during the quarter that simplified and
+strengthened the balance sheet:
+
+•
+•
+•
+
+early repayment of the Smarter Convert instrument, removing 7,718,551 potential
+ordinary shares from the fully diluted share count;
+the £210 million capital reduction becoming effective, increasing the Company’s
+distributable reserves; and
+a reduction from approximately £20.8 million to £19.0 million in the amount
+outstanding on the strategic Bitcoin-back credit facility with Coinbase (the “Coinbase
+Credit Facility”).
+
+Alongside this, the Company delivered a step-up in revenue within the operating businesses.
+Operating businesses
+The Group’s strategy remains built on three mutually reinforcing pillars: growing and
+profitable operating businesses; a Bitcoin treasury that provides long-term capital
+appreciation and the balance sheet strength to support the Company’s ambitions; and a
+disciplined M&A programme to acquire complementary, cash-generative businesses.
+Trading across both divisions, The Smarter Web Company Operations Limited (“Smarter Web
+Operations”) and Squarebird Agency Ltd (“Squarebird”), continued in line with management
+expectations during the quarter. Squarebird secured a number of new project wins, while
+recurring hosting and marketing revenues continued to provide a stable base. The Group
+serves more than 500 client websites.
+Bitcoin treasury
+On 23 July 2026, the Company repaid the Smarter Convert instrument in full, approximately
+two weeks ahead of its scheduled maturity on 5 August 2026. The repayment of $11,698,540
+was funded through the sale of 177.89 Bitcoin at an average price of approximately $65,762.
+Repayment eliminated the potential issuance of 7,718,551 ordinary shares on conversion and
+removed the instrument from the balance sheet. The Smarter Convert provided an innovative
+alternative to traditional leverage when it was established in August 2025; however, as the
+Company’s strategy has evolved, the Directors no longer consider such instruments to be the
+right capital solution for the Company.
+The Company continued Bitcoin accumulation following the repayment, acquiring a total of
+46.89 Bitcoin during the quarter for an aggregate consideration of approximately £2.57
+million:
+•
+•
+
+on 3 August 2026, 11.89 Bitcoin at an average price of approximately £47,052 per
+Bitcoin, for £559,493; and
+on 2 September 2026, 35 Bitcoin at an average price of approximately £57,494 per
+Bitcoin, for £2,012,286.
+
+As at 30 September 2026, the Company held 2,747 Bitcoin (30 June 2026: 2,878 Bitcoin) at a
+net average cost basis of £82,562 per Bitcoin. The net reduction of 131 Bitcoin over the
+quarter reflects the disposal to repay the Smarter Convert instrument, partially offset by the
+purchases above. Cumulative gross Bitcoin purchases stand at £235,544,889 and cumulative
+gross sales at £8,745,918.
+The Bitcoin yield for the quarter was -4.35%. This primarily reflects the Bitcoin disposed of to
+repay the Smarter Convert instrument, partially offset by the removal of the associated
+potential shares from the fully diluted share count. In addition, proceeds raised via the
+Subscription Agreement announced on 24 December 2025 (the “ATM”) in late September
+
+were applied to reduce borrowings under the Coinbase Credit Facility, rather than to acquire
+Bitcoin.
+As at 30 September 2026, the Company’s fully diluted EV-to-BTC value ratio was 1.56x. Gross
+sats per fully diluted share stood at 750 and net sats per fully diluted share stood at 671.
+During the quarter, the Company continued to use its Coinbase Credit Facility as a source of
+responsible leverage against its substantial balance sheet. Following receipt of the latest ATM
+sales proceeds, the Company reduced borrowings under the Coinbase Credit Facility from
+approximately £20.8 million to £19.0 million. While the facility has provided useful financing
+to date, the Company expects its capital structure over time to be based primarily on its two
+complementary equities: ordinary shares and MORE.
+The Company continues to hold its Bitcoin with institutional-grade custodians, including
+Coinbase, Xapo, Fidelity Digital Assets, Anchorage Digital Bank and Kraken Financial, rather
+than through self-custody arrangements.
+Capital markets activity
+The ATM continues to provide the Company with a flexible and disciplined mechanism for
+raising capital over time. During the quarter, a total of 6,938,602 ordinary shares were sold
+under the ATM, raising gross proceeds of approximately £3.19 million:
+•
+•
+•
+•
+
+in July 2026, 703,160 shares at approximately £0.295 per share, raising gross proceeds
+of £207,227;
+in early August 2026, 3,300,000 shares at approximately £0.31 per share, raising gross
+proceeds of £1,016,250;
+in late August 2026, 225,000 shares at approximately £0.34 per share, raising gross
+proceeds of £76,306; and
+in September 2026, 2,710,442 shares at approximately £0.70 per share, raising gross
+proceeds of £1,891,933, the net proceeds of which were applied to reduce borrowings
+under the Coinbase Credit Facility.
+
+As at the date of this announcement, 41,213,788 ordinary shares remain unsold under the
+ATM.
+During the quarter, 3,625,000 warrants were exercised at £0.025 per share, pursuant to the
+warrants granted in April 2025 (“April 2025 Warrants”), raising £90,625. As of the date of this
+announcement, 31,678,732 April 2025 Warrants remain outstanding. Of these, 25,778,732
+are held by Andrew Webley, Chief Executive Officer of the Company, and his spouse, with a
+further 1,450,000 warrants held by directors and employees of the Company.
+In July 2026, the Company effected a reduction of its share premium account by £210,000,000
+(further to the approval to do so given by shareholders on 17 June 2026). The reduction
+increases the Company’s distributable reserves, providing greater financial flexibility as the
+business continues to grow.
+On 11 September 2026, the Company announced its expected intention to float a new class
+of non-voting preferred shares (ticker: “MORE”) on the Main Market of the London Stock
+Exchange. At a General Meeting held on 28 September 2026, shareholders approved all three
+resolutions required to create, allot and, if required, repurchase the preferred shares, each
+with over 99.8% of votes cast in favour, and the new articles of association were adopted with
+immediate effect.
+
+On 29 September 2026, following FCA approval of the Prospectus, the Company launched the
+IPO. The key terms are:
+•
+
+•
+
+•
+
+•
+
+an issue price of £90 per preferred share, with up to 277,777 preferred shares to be
+issued, targeting gross proceeds of £15 million to £25 million (approximately £13.1
+million to £22.7 million net proceeds). The IPO is conditional on a minimum of £10
+million gross proceeds being raised, as well as other conditions;
+a cumulative, variable rate, preferential dividend, payable weekly (subject to the
+Board’s ability to suspend payment), at an initial rate of 12% per annum (variable) of
+£100 per preferred share, together with a liquidation preference and redemption
+rights for the Company, and no voting rights;
+an institutional offer to UK institutional investors, and a retail offer to UK investors
+through the Winterflood Retail Access Platform’s partner network of intermediaries,
+with a minimum subscription of £500. The retail offer closes at 4:30 p.m. on 9 October
+2026, the result of the IPO is expected to be announced on or around 12 October 2026,
+and admission to listing on the non-equity shares and non-voting equity shares
+category of the Official List maintained by the FCA and to trading on the main market
+for listed securities of London Stock Exchange plc (“Admission”) is expected at 8:00
+a.m. on 14 October 2026; and
+the issue of 100,000 preferred shares on Admission into a preferred shares ATM
+facility, to be held by or on behalf of Tennyson Capital Partners LLP (“Tennyson
+Capital”), pursuant to which Tennyson Capital will use reasonable endeavours to sell
+preferred shares on the market via its broker.
+
+The net proceeds of the IPO and proceeds raised by the Company through the operation of
+the preferred shares ATM facility are expected to be used for working capital and reserves,
+the acquisition of further Bitcoin and the growth of the operating business.
+Outlook
+The Directors believe that the progress made during the quarter has further strengthened the
+foundations for the Company’s next phase of growth.
+The Directors believe that, if completed, MORE would represent a significant step in the
+evolution of the Company’s capital structure. The Company would have two equities, ordinary
+shares for growth and preferred shares for income (noting that neither growth nor income is
+guaranteed), each aligned with the needs of a different group of investors. This simple
+structure would give the Company a broader and more diversified range of funding options.
+It would also allow capital to be raised without issuing further ordinary shares.
+The operating businesses continue to perform in line with management expectations, and the
+Directors remain focused on growing revenues sustainably and evaluating selective
+acquisition opportunities.
+The ambition remains unchanged: to build one of the leading companies in the UK: growing
+operating businesses, selective strategic acquisitions, a Bitcoin treasury and a balance sheet
+focused on increasing net Bitcoin value per fully diluted Ordinary Share over the medium to
+long term.
+
+Andrew Webley, CEO of The Smarter Web Company, commented:
+“This quarter has been about building the foundations for the future of Smarter Web. The
+steps we have taken this quarter to simplify our balance sheet are important, but the standout
+achievement has been launching the IPO of MORE, following FCA approval of our prospectus.
+We believe it will be the first preferred share of its kind in the UK.
+“If completed, MORE would give us a simple capital structure built on two equities: our
+ordinary shares for growth, and MORE for income (noting that neither growth nor income is
+guaranteed). Each is aligned with what its holders are looking for, and together they broaden
+the range of investors who can take part in our story. MORE would also allow us to raise capital
+without issuing further ordinary shares. We believe that could mark a step-change in how we
+fund the growth of the Company.
+“I would like to thank our shareholders for their continued support, and our team and advisers
+for the huge amount of work that has taken place.”
